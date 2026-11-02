@@ -106,6 +106,7 @@ try {
       direction: t.direction,
       price: t.price,
       category: t.category,
+      traderLabel: t.traderLabel || '',
     }));
   
   const output = {
