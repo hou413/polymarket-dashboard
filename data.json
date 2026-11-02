@@ -1,24 +1,46 @@
 {
   "stats": {
-    "saved_at": "2026-11-02T19:39:43.402Z",
+    "saved_at": "2026-11-02T21:59:22.309Z",
     "version": "smart v2",
-    "tracked_address": "0x2f28c1d2d8c0aee287e9c05a0603274ff533ba03",
-    "tracked_label": "alphaalii",
-    "total_alerts": 143,
-    "total_volume": 199167.1450731827,
-    "today_trades": 243,
-    "uptime_seconds": 33610,
-    "last_poll": "2026-11-02T19:28:00.472Z"
+    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+    "tracked_label": "chubbytoro",
+    "total_alerts": 144,
+    "total_volume": 205091.2694731827,
+    "today_trades": 245,
+    "uptime_seconds": 41989,
+    "last_poll": "2026-11-02T21:54:10.081Z"
   },
   "categories": {
     "sports": {
-      "count": 178,
-      "buyCount": 162,
+      "count": 180,
+      "buyCount": 164,
       "sellCount": 16,
-      "buyVolume": 183820.6962001631,
+      "buyVolume": 189744.8206001631,
       "sellVolume": 1501.3821100169162,
-      "totalVolume": 185322.07831018002,
+      "totalVolume": 191246.20271018002,
       "recentTrades": [
+        {
+          "time": "2026-11-02T21:50:48.000Z",
+          "market": "Red Wings vs. Panthers: O/U 5.5",
+          "slug": "nhl-det-fla-2026-11-02",
+          "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 1224.1244,
+          "direction": "DOWN",
+          "price": 0.47,
+          "outcome": "Under"
+        },
+        {
+          "time": "2026-11-02T21:50:48.000Z",
+          "market": "Red Wings vs. Panthers: O/U 5.5",
+          "slug": "nhl-det-fla-2026-11-02",
+          "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 4700,
+          "direction": "DOWN",
+          "price": 0.47,
+          "outcome": "Under"
+        },
         {
           "time": "2026-11-02T19:34:43.000Z",
           "market": "RC Deportivo A Coruña vs. CA Osasuna: O/U 2.5",
@@ -216,28 +238,6 @@
           "direction": "DOWN",
           "price": 0.8,
           "outcome": "Under"
-        },
-        {
-          "time": "2026-11-02T19:34:40.000Z",
-          "market": "Sønderjyske Fodbold vs. FC København: FC København O/U 3.5",
-          "slug": "den-sjs-kob-2026-11-02-team-total-away-3pt5",
-          "url": "https://polymarket.com/event/den-sjs-kob-2026-11-02-team-total-away-3pt5?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 11.52,
-          "direction": "DOWN",
-          "price": 0.96,
-          "outcome": "Under"
-        },
-        {
-          "time": "2026-11-02T19:34:40.000Z",
-          "market": "US Sassuolo Calcio vs. ACF Fiorentina: O/U 5.5",
-          "slug": "sea-sas-fio-2026-11-02-total-5pt5",
-          "url": "https://polymarket.com/event/sea-sas-fio-2026-11-02-total-5pt5?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 55.99395,
-          "direction": "UP",
-          "price": 0.999,
-          "outcome": "Over"
         }
       ]
     },
@@ -677,6 +677,30 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-02T21:50:48.000Z",
+      "market": "Red Wings vs. Panthers: O/U 5.5",
+      "slug": "nhl-det-fla-2026-11-02",
+      "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1224.1244,
+      "direction": "DOWN",
+      "price": 0.47,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-02T21:50:48.000Z",
+      "market": "Red Wings vs. Panthers: O/U 5.5",
+      "slug": "nhl-det-fla-2026-11-02",
+      "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4700,
+      "direction": "DOWN",
+      "price": 0.47,
+      "category": "sports",
+      "traderLabel": ""
+    },
     {
       "time": "2026-11-02T19:34:43.000Z",
       "market": "RC Deportivo A Coruña vs. CA Osasuna: O/U 2.5",
@@ -3571,5 +3595,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-02T21:55:21.688Z"
+  "generatedAt": "2026-11-02T22:00:24.077Z"
 }
