@@ -1,24 +1,35 @@
 {
   "stats": {
-    "saved_at": "2026-11-02T10:35:38.673Z",
+    "saved_at": "2026-11-02T11:37:47.990Z",
     "version": "smart v2",
     "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
     "tracked_label": "chubbytoro",
-    "total_alerts": 28,
-    "total_volume": 171340.10449999996,
-    "today_trades": 52,
-    "uptime_seconds": 965,
-    "last_poll": "2026-11-02T10:29:54.883Z"
+    "total_alerts": 29,
+    "total_volume": 171413.12369999997,
+    "today_trades": 53,
+    "uptime_seconds": 4695,
+    "last_poll": "2026-11-02T11:32:25.693Z"
   },
   "categories": {
     "sports": {
-      "count": 52,
-      "buyCount": 52,
+      "count": 53,
+      "buyCount": 53,
       "sellCount": 0,
-      "buyVolume": 171340.10449999996,
+      "buyVolume": 171413.12369999997,
       "sellVolume": 0,
-      "totalVolume": 171340.10449999996,
+      "totalVolume": 171413.12369999997,
       "recentTrades": [
+        {
+          "time": "2026-11-02T11:36:21.000Z",
+          "market": "Red Wings vs. Panthers: O/U 5.5",
+          "slug": "nhl-det-fla-2026-11-02",
+          "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 73.0192,
+          "direction": "DOWN",
+          "price": 0.47,
+          "outcome": "Under"
+        },
         {
           "time": "2026-11-01T17:09:31.000Z",
           "market": "Senators vs. Ducks",
@@ -227,17 +238,6 @@
           "direction": "Devils",
           "price": 0.22,
           "outcome": "Devils"
-        },
-        {
-          "time": "2026-10-28T13:49:32.000Z",
-          "market": "Devils vs. Avalanche",
-          "slug": "nhl-nj-col-2026-10-28",
-          "url": "https://polymarket.com/event/nhl-nj-col-2026-10-28?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 256.2026,
-          "direction": "Devils",
-          "price": 0.43,
-          "outcome": "Devils"
         }
       ]
     },
@@ -279,6 +279,17 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-02T11:36:21.000Z",
+      "market": "Red Wings vs. Panthers: O/U 5.5",
+      "slug": "nhl-det-fla-2026-11-02",
+      "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 73.0192,
+      "direction": "DOWN",
+      "price": 0.47,
+      "category": "sports"
+    },
     {
       "time": "2026-11-01T17:09:31.000Z",
       "market": "Senators vs. Ducks",
@@ -853,5 +864,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-02T11:33:47.903Z"
+  "generatedAt": "2026-11-02T11:38:50.272Z"
 }
