@@ -56,8 +56,8 @@ try {
   const stats = JSON.parse(readFileSync(STATS_FILE, 'utf-8'));
   
   const now = Date.now();
-  const twelveHoursAgo = now - 12 * 60 * 60 * 1000;
-  const recentTrades = trades.filter(t => (t.timestamp || 0) >= twelveHoursAgo);
+  const sevenDaysAgo = now - 7 * 24 * 60 * 60 * 1000;
+  const recentTrades = trades.filter(t => (t.timestamp || 0) >= sevenDaysAgo);
   
   const categorized = { sports: [], politics: [], weather: [], tech: [], other: [] };
   

@@ -414,14 +414,16 @@ function render(data) {
     html += '<h2 onclick="toggleSection(this)">' + catMeta.icon + ' ' + catMeta.label + ' <span style="color:var(--text2);font-size:14px;font-weight:400">(' + catTrades.length + ')</span>' + wrHtml + '</h2>';
     html += '<div class="section-content">';
     html += '<table class="trades-table"><thead><tr>';
-    html += '<th>Time</th><th>Market</th><th>Side</th><th>Direction</th><th>Price</th><th>Value</th>';
+    html += '<th>Time</th><th>Trader</th><th>Market</th><th>Side</th><th>Direction</th><th>Price</th><th>Value</th>';
     html += '</tr></thead><tbody>';
     for (const t of catTrades) {
       const sideClass = t.side === 'BUY' ? 'side-buy' : 'side-sell';
       const url = t.url || (t.slug ? 'https://polymarket.com/event/' + t.slug : '#');
       const marketName = (t.market || '').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      const trader = t.traderLabel || t.trader || '-';
       html += '<tr>'
         + '<td style="color:var(--text2);white-space:nowrap">' + formatTime(t.time || '') + '</td>'
+        + '<td style="color:var(--purple);font-weight:500">' + trader + '</td>'
         + '<td><a href="' + url + '" target="_blank" rel="noopener">' + marketName + '</a></td>'
         + '<td class="' + sideClass + '">' + (t.side || '-') + '</td>'
         + '<td>' + (t.direction || '-') + '</td>'
@@ -439,9 +441,9 @@ function render(data) {
   }
 }
 
-// Initial load + auto-refresh every 10s
+// Initial load + auto-refresh every 5 minutes
 loadData();
-setInterval(loadData, 10000);
+setInterval(loadData, 5 * 60 * 1000);
 </script>
 </body>
 </html>
