@@ -325,7 +325,7 @@ const VERSION = '1793540073';
 const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
 const API_URL = isLocal
   ? `http://${window.location.hostname}:8900/api/data`
-  : `https://raw.githubusercontent.com/hou413/polymarket-dashboard/main/data.json`;
+  : `./data.json`;
 const IS_GITHUB_PAGES = !isLocal;
 
 const CAT_META = {
