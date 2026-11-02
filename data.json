@@ -1,24 +1,35 @@
 {
   "stats": {
-    "saved_at": "2026-11-02T13:26:50.174Z",
+    "saved_at": "2026-11-02T19:12:39.258Z",
     "version": "smart v2",
-    "tracked_address": "0x2f28c1d2d8c0aee287e9c05a0603274ff533ba03",
-    "tracked_label": "alphaalii",
-    "total_alerts": 59,
-    "total_volume": 185999.9204359469,
-    "today_trades": 107,
-    "uptime_seconds": 11237,
-    "last_poll": "2026-11-02T13:20:51.670Z"
+    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+    "tracked_label": "chubbytoro",
+    "total_alerts": 60,
+    "total_volume": 186827.9918359469,
+    "today_trades": 108,
+    "uptime_seconds": 31986,
+    "last_poll": "2026-11-02T19:07:17.110Z"
   },
   "categories": {
     "sports": {
-      "count": 90,
-      "buyCount": 84,
+      "count": 91,
+      "buyCount": 85,
       "sellCount": 6,
-      "buyVolume": 175637.41449693427,
+      "buyVolume": 176465.48589693426,
       "sellVolume": 336.8222,
-      "totalVolume": 175974.23669693427,
+      "totalVolume": 176802.30809693426,
       "recentTrades": [
+        {
+          "time": "2026-11-02T18:49:57.000Z",
+          "market": "Spread: Flames (-1.5)",
+          "slug": "nhl-cal-sj-2026-11-02",
+          "url": "https://polymarket.com/event/nhl-cal-sj-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 828.0714,
+          "direction": "Flames",
+          "price": 0.26,
+          "outcome": "Flames"
+        },
         {
           "time": "2026-11-02T13:23:51.000Z",
           "market": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
@@ -227,17 +238,6 @@
           "direction": "UP",
           "price": 0.002,
           "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-02T13:23:46.000Z",
-          "market": "Counter-Strike: Natus Vincere vs Team Falcons - Map 2 Winner",
-          "slug": "cs2-navi-fal2-2026-11-02",
-          "url": "https://polymarket.com/event/cs2-navi-fal2-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 2.05,
-          "direction": "Natus Vincere",
-          "price": 0.41,
-          "outcome": "Natus Vincere"
         }
       ]
     },
@@ -446,6 +446,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-02T18:49:57.000Z",
+      "market": "Spread: Flames (-1.5)",
+      "slug": "nhl-cal-sj-2026-11-02",
+      "url": "https://polymarket.com/event/nhl-cal-sj-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 828.0714,
+      "direction": "Flames",
+      "price": 0.26,
+      "category": "sports",
+      "traderLabel": ""
+    },
     {
       "time": "2026-11-02T13:23:51.000Z",
       "market": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
@@ -1708,5 +1720,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-02T19:10:20.943Z"
+  "generatedAt": "2026-11-02T19:15:23.432Z"
 }
