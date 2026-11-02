@@ -1,243 +1,243 @@
 {
   "stats": {
-    "saved_at": "2026-11-02T09:32:06.798Z",
+    "saved_at": "2026-11-02T09:38:06.839Z",
     "version": "smart v2",
-    "tracked_address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
-    "tracked_label": "sports_whale_1",
-    "total_alerts": 46,
-    "total_volume": 89033.07339969867,
-    "today_trades": 200,
-    "uptime_seconds": 673,
-    "last_poll": "2026-11-02T09:26:05.013Z"
+    "tracked_address": "0x0d2d845a6ff64e31e04a70afce8a573940767ff5",
+    "tracked_label": "38791873984189",
+    "total_alerts": 108,
+    "total_volume": 101079.98586264445,
+    "today_trades": 342,
+    "uptime_seconds": 1033,
+    "last_poll": "2026-11-02T09:31:15.665Z"
   },
   "categories": {
     "sports": {
-      "count": 200,
-      "buyCount": 142,
-      "sellCount": 58,
-      "buyVolume": 71892.10309983572,
-      "sellVolume": 17140.970299863002,
-      "totalVolume": 89033.07339969871,
+      "count": 342,
+      "buyCount": 237,
+      "sellCount": 105,
+      "buyVolume": 80691.88309282935,
+      "sellVolume": 20388.10276981513,
+      "totalVolume": 101079.98586264448,
       "recentTrades": [
         {
-          "time": "2026-11-02T04:22:28.000Z",
-          "market": "Eagles vs. Commanders: O/U 38.5",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 0.0946,
+          "time": "2026-11-02T09:09:01.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 52.930499999999995,
           "direction": "DOWN",
-          "price": 0.86,
-          "outcome": "Under"
+          "price": 0.71,
+          "outcome": "Aliaksandra Sasnovich"
         },
         {
-          "time": "2026-11-02T04:22:18.000Z",
-          "market": "Eagles vs. Commanders: O/U 38.5",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
+          "time": "2026-11-02T09:03:12.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 3.8,
+          "direction": "DOWN",
+          "price": 0.76,
+          "outcome": "Aliaksandra Sasnovich"
+        },
+        {
+          "time": "2026-11-02T08:44:58.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 739.9999989672602,
+          "direction": "DOWN",
+          "price": 0.7299999998,
+          "outcome": "Aliaksandra Sasnovich"
+        },
+        {
+          "time": "2026-11-02T08:41:40.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 346.5,
+          "direction": "DOWN",
+          "price": 0.77,
+          "outcome": "Aliaksandra Sasnovich"
+        },
+        {
+          "time": "2026-11-02T08:38:45.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 74.3616,
+          "direction": "DOWN",
+          "price": 0.64,
+          "outcome": "Aliaksandra Sasnovich"
+        },
+        {
+          "time": "2026-11-02T08:33:12.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 3.2312,
+          "direction": "DOWN",
+          "price": 0.28,
+          "outcome": "Katie Volynets"
+        },
+        {
+          "time": "2026-11-02T08:24:46.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 2.4,
+          "direction": "DOWN",
+          "price": 0.48,
+          "outcome": "Aliaksandra Sasnovich"
+        },
+        {
+          "time": "2026-11-02T08:18:10.000Z",
+          "market": "W50 Heraklion: Felitsata Dorofeeva-Rybas vs Valeriia Artemeva",
+          "slug": "itf-dorofe1-arteme1-2026-11-02",
+          "url": "https://polymarket.com/event/itf-dorofe1-arteme1-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 9.1,
+          "direction": "Felitsata Dorofeeva-Rybas",
+          "price": 0.91,
+          "outcome": "Felitsata Dorofeeva-Rybas"
+        },
+        {
+          "time": "2026-11-02T08:12:54.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 455.99999999999994,
+          "direction": "DOWN",
+          "price": 0.57,
+          "outcome": "Katie Volynets"
+        },
+        {
+          "time": "2026-11-02T08:12:54.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
           "side": "SELL",
-          "value": 167.93,
+          "value": 86,
+          "direction": "DOWN",
+          "price": 0.43,
+          "outcome": "Aliaksandra Sasnovich"
+        },
+        {
+          "time": "2026-11-02T08:12:21.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 192,
+          "direction": "DOWN",
+          "price": 0.48,
+          "outcome": "Aliaksandra Sasnovich"
+        },
+        {
+          "time": "2026-11-02T08:11:37.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 2.2,
+          "direction": "DOWN",
+          "price": 0.44,
+          "outcome": "Aliaksandra Sasnovich"
+        },
+        {
+          "time": "2026-11-02T08:09:03.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+          "slug": "wta-volynet-sasnovi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 39.9,
+          "direction": "DOWN",
+          "price": 0.42,
+          "outcome": "Aliaksandra Sasnovich"
+        },
+        {
+          "time": "2026-11-02T08:03:01.000Z",
+          "market": "Cricket World Cup League 2: Oman vs Netherlands",
+          "slug": "crint-omn-nld-2026-11-02",
+          "url": "https://polymarket.com/event/crint-omn-nld-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 7,
           "direction": "UP",
-          "price": 0.14,
-          "outcome": "Over"
-        },
-        {
-          "time": "2026-11-02T04:22:09.000Z",
-          "market": "Eagles vs. Commanders: O/U 38.5",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 1031.37000004805,
-          "direction": "DOWN",
-          "price": 0.8598332639,
-          "outcome": "Under"
-        },
-        {
-          "time": "2026-11-02T04:22:01.000Z",
-          "market": "Spread: Commanders (-16.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 298.144,
-          "direction": "Commanders",
-          "price": 0.847,
-          "outcome": "Commanders"
-        },
-        {
-          "time": "2026-11-02T04:20:01.000Z",
-          "market": "Spread: Commanders (-16.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 8.8,
-          "direction": "Commanders",
-          "price": 0.88,
-          "outcome": "Commanders"
-        },
-        {
-          "time": "2026-11-02T04:18:16.000Z",
-          "market": "Spread: Commanders (-9.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 371.535,
-          "direction": "Commanders",
-          "price": 0.93,
-          "outcome": "Commanders"
-        },
-        {
-          "time": "2026-11-02T04:18:15.000Z",
-          "market": "Spread: Commanders (-9.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 371.535,
-          "direction": "Commanders",
-          "price": 0.93,
-          "outcome": "Commanders"
-        },
-        {
-          "time": "2026-11-02T04:18:13.000Z",
-          "market": "Spread: Commanders (-13.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 268.4,
-          "direction": "Commanders",
-          "price": 0.88,
-          "outcome": "Commanders"
-        },
-        {
-          "time": "2026-11-02T04:18:10.000Z",
-          "market": "Spread: Commanders (-10.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 343.57,
-          "direction": "Commanders",
-          "price": 0.86,
-          "outcome": "Commanders"
-        },
-        {
-          "time": "2026-11-02T04:18:07.000Z",
-          "market": "Spread: Commanders (-13.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 351.56,
-          "direction": "Commanders",
-          "price": 0.88,
-          "outcome": "Commanders"
-        },
-        {
-          "time": "2026-11-02T04:18:07.000Z",
-          "market": "Spread: Commanders (-13.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 351.56,
-          "direction": "Commanders",
-          "price": 0.88,
-          "outcome": "Commanders"
-        },
-        {
-          "time": "2026-11-02T04:17:21.000Z",
-          "market": "Spread: Commanders (-10.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 456.085,
-          "direction": "Commanders",
-          "price": 0.83,
-          "outcome": "Commanders"
-        },
-        {
-          "time": "2026-11-02T04:17:21.000Z",
-          "market": "Spread: Commanders (-10.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 456.085,
-          "direction": "Commanders",
-          "price": 0.83,
-          "outcome": "Commanders"
-        },
-        {
-          "time": "2026-11-02T04:16:58.000Z",
-          "market": "Spread: Commanders (-10.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 901.5899999999999,
-          "direction": "Commanders",
-          "price": 0.82,
-          "outcome": "Commanders"
-        },
-        {
-          "time": "2026-11-02T04:16:48.000Z",
-          "market": "Spread: Commanders (-10.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 439.6,
-          "direction": "Commanders",
           "price": 0.8,
-          "outcome": "Commanders"
+          "outcome": "Netherlands"
         },
         {
-          "time": "2026-11-02T04:16:46.000Z",
-          "market": "Spread: Commanders (-10.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 444.34000002315,
-          "direction": "Commanders",
-          "price": 0.8086260237,
-          "outcome": "Commanders"
+          "time": "2026-11-02T07:46:45.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter",
+          "slug": "wta-golubic-boulter-2026-11-01",
+          "url": "https://polymarket.com/event/wta-golubic-boulter-2026-11-01?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 700,
+          "direction": "Katie Boulter",
+          "price": 0.7,
+          "outcome": "Katie Boulter"
         },
         {
-          "time": "2026-11-02T04:16:43.000Z",
-          "market": "Eagles vs. Commanders: O/U 38.5",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 507.76999998120004,
-          "direction": "DOWN",
-          "price": 0.8469891576,
-          "outcome": "Under"
+          "time": "2026-11-02T07:36:54.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Claire Liu vs Tatiana Prozorova",
+          "slug": "wta-liu-prozoro-2026-11-02",
+          "url": "https://polymarket.com/event/wta-liu-prozoro-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 9.335,
+          "direction": "Claire Liu",
+          "price": 0.9335,
+          "outcome": "Claire Liu"
         },
         {
-          "time": "2026-11-02T04:16:43.000Z",
-          "market": "Eagles vs. Commanders: O/U 38.5",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 503.58,
-          "direction": "DOWN",
-          "price": 0.84,
-          "outcome": "Under"
+          "time": "2026-11-02T07:29:28.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Claire Liu vs Tatiana Prozorova",
+          "slug": "wta-liu-prozoro-2026-11-02",
+          "url": "https://polymarket.com/event/wta-liu-prozoro-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 4.6000000000000005,
+          "direction": "Claire Liu",
+          "price": 0.92,
+          "outcome": "Claire Liu"
         },
         {
-          "time": "2026-11-02T04:16:43.000Z",
-          "market": "Spread: Commanders (-10.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
+          "time": "2026-11-02T06:54:39.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter",
+          "slug": "wta-golubic-boulter-2026-11-01",
+          "url": "https://polymarket.com/event/wta-golubic-boulter-2026-11-01?utm_source=smart_v2_dashboard",
           "side": "SELL",
-          "value": 434.105,
-          "direction": "Commanders",
-          "price": 0.79,
-          "outcome": "Commanders"
+          "value": 20.79,
+          "direction": "Viktorija Golubic",
+          "price": 0.11,
+          "outcome": "Viktorija Golubic"
         },
         {
-          "time": "2026-11-02T04:16:42.000Z",
-          "market": "Spread: Commanders (-10.5)",
-          "slug": "nfl-phi-was-2026-11-02",
-          "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
+          "time": "2026-11-02T06:33:22.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter",
+          "slug": "wta-golubic-boulter-2026-11-01",
+          "url": "https://polymarket.com/event/wta-golubic-boulter-2026-11-01?utm_source=smart_v2_dashboard",
           "side": "SELL",
-          "value": 389.61,
-          "direction": "Commanders",
-          "price": 0.78,
-          "outcome": "Commanders"
+          "value": 13.1637,
+          "direction": "Viktorija Golubic",
+          "price": 0.33,
+          "outcome": "Viktorija Golubic"
+        },
+        {
+          "time": "2026-11-02T06:30:33.000Z",
+          "market": "Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter",
+          "slug": "wta-golubic-boulter-2026-11-01",
+          "url": "https://polymarket.com/event/wta-golubic-boulter-2026-11-01?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 165,
+          "direction": "Viktorija Golubic",
+          "price": 0.33,
+          "outcome": "Viktorija Golubic"
         }
       ]
     },
@@ -279,6 +279,490 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-02T09:09:01.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 52.930499999999995,
+      "direction": "DOWN",
+      "price": 0.71,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T09:03:12.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3.8,
+      "direction": "DOWN",
+      "price": 0.76,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:44:58.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 739.9999989672602,
+      "direction": "DOWN",
+      "price": 0.7299999998,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:41:40.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 346.5,
+      "direction": "DOWN",
+      "price": 0.77,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:38:45.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 74.3616,
+      "direction": "DOWN",
+      "price": 0.64,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:33:12.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3.2312,
+      "direction": "DOWN",
+      "price": 0.28,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:24:46.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.4,
+      "direction": "DOWN",
+      "price": 0.48,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:18:10.000Z",
+      "market": "W50 Heraklion: Felitsata Dorofeeva-Rybas vs Valeriia Artemeva",
+      "slug": "itf-dorofe1-arteme1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-dorofe1-arteme1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 9.1,
+      "direction": "Felitsata Dorofeeva-Rybas",
+      "price": 0.91,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:12:54.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 455.99999999999994,
+      "direction": "DOWN",
+      "price": 0.57,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:12:54.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 86,
+      "direction": "DOWN",
+      "price": 0.43,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:12:21.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 192,
+      "direction": "DOWN",
+      "price": 0.48,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:11:37.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.2,
+      "direction": "DOWN",
+      "price": 0.44,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:09:03.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+      "slug": "wta-volynet-sasnovi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-volynet-sasnovi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 39.9,
+      "direction": "DOWN",
+      "price": 0.42,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T08:03:01.000Z",
+      "market": "Cricket World Cup League 2: Oman vs Netherlands",
+      "slug": "crint-omn-nld-2026-11-02",
+      "url": "https://polymarket.com/event/crint-omn-nld-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 7,
+      "direction": "UP",
+      "price": 0.8,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T07:46:45.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter",
+      "slug": "wta-golubic-boulter-2026-11-01",
+      "url": "https://polymarket.com/event/wta-golubic-boulter-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 700,
+      "direction": "Katie Boulter",
+      "price": 0.7,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T07:36:54.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Claire Liu vs Tatiana Prozorova",
+      "slug": "wta-liu-prozoro-2026-11-02",
+      "url": "https://polymarket.com/event/wta-liu-prozoro-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 9.335,
+      "direction": "Claire Liu",
+      "price": 0.9335,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T07:29:28.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Claire Liu vs Tatiana Prozorova",
+      "slug": "wta-liu-prozoro-2026-11-02",
+      "url": "https://polymarket.com/event/wta-liu-prozoro-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4.6000000000000005,
+      "direction": "Claire Liu",
+      "price": 0.92,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T06:54:39.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter",
+      "slug": "wta-golubic-boulter-2026-11-01",
+      "url": "https://polymarket.com/event/wta-golubic-boulter-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 20.79,
+      "direction": "Viktorija Golubic",
+      "price": 0.11,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T06:33:22.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter",
+      "slug": "wta-golubic-boulter-2026-11-01",
+      "url": "https://polymarket.com/event/wta-golubic-boulter-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 13.1637,
+      "direction": "Viktorija Golubic",
+      "price": 0.33,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T06:30:33.000Z",
+      "market": "Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter",
+      "slug": "wta-golubic-boulter-2026-11-01",
+      "url": "https://polymarket.com/event/wta-golubic-boulter-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 165,
+      "direction": "Viktorija Golubic",
+      "price": 0.33,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T06:12:51.000Z",
+      "market": "Alexandre Sarr: Assists O/U 1.5",
+      "slug": "nba-was-orl-2026-11-02",
+      "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 8.910000000698243,
+      "direction": "UP",
+      "price": 0.536986594,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T06:12:49.000Z",
+      "market": "Cricket World Cup League 2: Oman vs Netherlands",
+      "slug": "crint-omn-nld-2026-11-02",
+      "url": "https://polymarket.com/event/crint-omn-nld-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 2.3800000000000003,
+      "direction": "UP",
+      "price": 0.34,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T05:43:43.000Z",
+      "market": "Spread: Vanderbilt (-10.5)",
+      "slug": "cfb-vand-mspst-2026-11-07",
+      "url": "https://polymarket.com/event/cfb-vand-mspst-2026-11-07?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 16.05,
+      "direction": "Mississippi State",
+      "price": 0.8025,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T05:43:16.000Z",
+      "market": "W35 Hamamatsu: YUI OHWAKI vs Maiko Uchijima",
+      "slug": "itf-ohwaki1-uchiji1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-ohwaki1-uchiji1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 32.2,
+      "direction": "Maiko Uchijima",
+      "price": 0.92,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T05:40:12.000Z",
+      "market": "W35 Hamamatsu: YUI OHWAKI vs Maiko Uchijima",
+      "slug": "itf-ohwaki1-uchiji1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-ohwaki1-uchiji1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 24.15,
+      "direction": "Maiko Uchijima",
+      "price": 0.69,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T05:38:04.000Z",
+      "market": "W35 Hamamatsu: YUI OHWAKI vs Maiko Uchijima",
+      "slug": "itf-ohwaki1-uchiji1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-ohwaki1-uchiji1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 22.9,
+      "direction": "Maiko Uchijima",
+      "price": 0.5725,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T05:32:18.000Z",
+      "market": "W35 Hamamatsu: YUI OHWAKI vs Maiko Uchijima",
+      "slug": "itf-ohwaki1-uchiji1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-ohwaki1-uchiji1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 18.55,
+      "direction": "Maiko Uchijima",
+      "price": 0.53,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T05:29:55.000Z",
+      "market": "Taipei: Kasidit Samrej vs Omar Jasika",
+      "slug": "atp-samrej-jasika-2026-11-01",
+      "url": "https://polymarket.com/event/atp-samrej-jasika-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 427.55440000000004,
+      "direction": "Omar Jasika",
+      "price": 0.56,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T05:29:30.000Z",
+      "market": "W35 Hamamatsu: YUI OHWAKI vs Maiko Uchijima",
+      "slug": "itf-ohwaki1-uchiji1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-ohwaki1-uchiji1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 15.04,
+      "direction": "Maiko Uchijima",
+      "price": 0.47,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T05:20:46.000Z",
+      "market": "W35 Hamamatsu: YUI OHWAKI vs Maiko Uchijima",
+      "slug": "itf-ohwaki1-uchiji1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-ohwaki1-uchiji1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 11.55,
+      "direction": "Maiko Uchijima",
+      "price": 0.33,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:53:24.000Z",
+      "market": "Counter-Strike: Aurora Gaming vs Liquid - Map 1 Winner",
+      "slug": "cs2-aur1-tl1-2026-11-02",
+      "url": "https://polymarket.com/event/cs2-aur1-tl1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 13.600000000000001,
+      "direction": "Aurora Gaming",
+      "price": 0.17,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:51:24.000Z",
+      "market": "W35 Hamamatsu: YUI OHWAKI vs Maiko Uchijima",
+      "slug": "itf-ohwaki1-uchiji1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-ohwaki1-uchiji1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 26.95,
+      "direction": "YUI OHWAKI",
+      "price": 0.77,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:45:31.000Z",
+      "market": "W35 Hamamatsu: YUI OHWAKI vs Maiko Uchijima",
+      "slug": "itf-ohwaki1-uchiji1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-ohwaki1-uchiji1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 23.450000000000003,
+      "direction": "YUI OHWAKI",
+      "price": 0.67,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:43:27.000Z",
+      "market": "W35 Hamamatsu: YUI OHWAKI vs Maiko Uchijima",
+      "slug": "itf-ohwaki1-uchiji1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-ohwaki1-uchiji1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 12.4,
+      "direction": "YUI OHWAKI",
+      "price": 0.62,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:42:55.000Z",
+      "market": "Counter-Strike: Aurora Gaming vs Liquid (BO3) - IEM Beijing Group B",
+      "slug": "cs2-aur1-tl1-2026-11-02",
+      "url": "https://polymarket.com/event/cs2-aur1-tl1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 47.84,
+      "direction": "UP",
+      "price": 0.46,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:42:55.000Z",
+      "market": "Counter-Strike: Aurora Gaming vs Liquid (BO3) - IEM Beijing Group B",
+      "slug": "cs2-aur1-tl1-2026-11-02",
+      "url": "https://polymarket.com/event/cs2-aur1-tl1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 12.15,
+      "direction": "UP",
+      "price": 0.54,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:41:31.000Z",
+      "market": "W35 Hamamatsu: YUI OHWAKI vs Maiko Uchijima",
+      "slug": "itf-ohwaki1-uchiji1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-ohwaki1-uchiji1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.34,
+      "direction": "Maiko Uchijima",
+      "price": 0.39,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:37:31.000Z",
+      "market": "Spread: Ravens (-9.5)",
+      "slug": "nfl-jax-bal-2026-11-06",
+      "url": "https://polymarket.com/event/nfl-jax-bal-2026-11-06?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4.5,
+      "direction": "Jaguars",
+      "price": 0.9,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:34:31.000Z",
+      "market": "Will Portland Timbers vs. Houston Dynamo end in a draw?",
+      "slug": "mls-por-hou-2026-11-01",
+      "url": "https://polymarket.com/event/mls-por-hou-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 4.9,
+      "direction": "DOWN",
+      "price": 0.98,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:33:57.000Z",
+      "market": "Will Houston Dynamo win on 2026-11-01?",
+      "slug": "mls-por-hou-2026-11-01",
+      "url": "https://polymarket.com/event/mls-por-hou-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 5.05272,
+      "direction": "UP",
+      "price": 0.01010544,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:33:19.000Z",
+      "market": "Will Portland Timbers vs. Houston Dynamo end in a draw?",
+      "slug": "mls-por-hou-2026-11-01",
+      "url": "https://polymarket.com/event/mls-por-hou-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 435,
+      "direction": "DOWN",
+      "price": 0.87,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:30:24.000Z",
+      "market": "Spread: Lakers (-8.5)",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 8.89,
+      "direction": "Lakers",
+      "price": 0.14,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:27:30.000Z",
+      "market": "Raptors vs. Lakers",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 0.5996799979499999,
+      "direction": "Raptors",
+      "price": 0.0115013425,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:27:09.000Z",
+      "market": "Will Portland Timbers win on 2026-11-01?",
+      "slug": "mls-por-hou-2026-11-01",
+      "url": "https://polymarket.com/event/mls-por-hou-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 45,
+      "direction": "DOWN",
+      "price": 0.036,
+      "category": "sports"
+    },
     {
       "time": "2026-11-02T04:22:28.000Z",
       "market": "Eagles vs. Commanders: O/U 38.5",
@@ -324,6 +808,28 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T04:20:31.000Z",
+      "market": "Will Houston Dynamo win on 2026-11-01?",
+      "slug": "mls-por-hou-2026-11-01",
+      "url": "https://polymarket.com/event/mls-por-hou-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 10,
+      "direction": "UP",
+      "price": 0.02,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:20:31.000Z",
+      "market": "Will Portland Timbers win on 2026-11-01?",
+      "slug": "mls-por-hou-2026-11-01",
+      "url": "https://polymarket.com/event/mls-por-hou-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 19.6665,
+      "direction": "DOWN",
+      "price": 0.21,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T04:20:01.000Z",
       "market": "Spread: Commanders (-16.5)",
       "slug": "nfl-phi-was-2026-11-02",
@@ -332,6 +838,17 @@
       "value": 8.8,
       "direction": "Commanders",
       "price": 0.88,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:19:48.000Z",
+      "market": "Spread: Lakers (-8.5)",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4.6000000000000005,
+      "direction": "Lakers",
+      "price": 0.92,
       "category": "sports"
     },
     {
@@ -596,6 +1113,28 @@
       "value": 318.1449999885,
       "direction": "DOWN",
       "price": 0.910286123,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:15:13.000Z",
+      "market": "Guayaquil: Joaquin Aguilar vs Hugo Dellien",
+      "slug": "atp-aguil-dellien-2026-11-01",
+      "url": "https://polymarket.com/event/atp-aguil-dellien-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 55,
+      "direction": "Joaquin Aguilar",
+      "price": 0.5,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:15:13.000Z",
+      "market": "Guayaquil: Joaquin Aguilar vs Hugo Dellien",
+      "slug": "atp-aguil-dellien-2026-11-01",
+      "url": "https://polymarket.com/event/atp-aguil-dellien-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 250.92999999999998,
+      "direction": "Hugo Dellien",
+      "price": 0.50186,
       "category": "sports"
     },
     {
@@ -885,6 +1424,28 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T04:13:55.000Z",
+      "market": "Guayaquil: Joaquin Aguilar vs Hugo Dellien",
+      "slug": "atp-aguil-dellien-2026-11-01",
+      "url": "https://polymarket.com/event/atp-aguil-dellien-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 2.6,
+      "direction": "Hugo Dellien",
+      "price": 0.52,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:13:52.000Z",
+      "market": "Guayaquil: Joaquin Aguilar vs Hugo Dellien",
+      "slug": "atp-aguil-dellien-2026-11-01",
+      "url": "https://polymarket.com/event/atp-aguil-dellien-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 18.55,
+      "direction": "Hugo Dellien",
+      "price": 0.53,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T04:12:57.000Z",
       "market": "Raptors vs. Lakers: O/U 242.5",
       "slug": "nba-tor-lal-2026-11-01",
@@ -904,6 +1465,28 @@
       "value": 419.58,
       "direction": "DOWN",
       "price": 0.84,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:12:43.000Z",
+      "market": "Eagles Team Total: O/U 10.5",
+      "slug": "nfl-phi-was-2026-11-02",
+      "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 8.8,
+      "direction": "DOWN",
+      "price": 0.88,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:11:55.000Z",
+      "market": "Spread: Raptors (-2.5)",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 39.44,
+      "direction": "Lakers",
+      "price": 0.986,
       "category": "sports"
     },
     {
@@ -962,6 +1545,28 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T04:09:48.000Z",
+      "market": "Spread: Lakers (-2.5)",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 45.04999999955555,
+      "direction": "Lakers",
+      "price": 0.899999992,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:09:07.000Z",
+      "market": "Raptors vs. Lakers",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 22.77000001392958,
+      "direction": "Raptors",
+      "price": 0.0709999999,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T04:05:36.000Z",
       "market": "Spread: Commanders (-4.5)",
       "slug": "nfl-phi-was-2026-11-02",
@@ -981,6 +1586,28 @@
       "value": 29.391299999999998,
       "direction": "Eagles",
       "price": 0.09,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:04:22.000Z",
+      "market": "Raptors vs. Lakers",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 0.048,
+      "direction": "Raptors",
+      "price": 0.06,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T04:04:15.000Z",
+      "market": "Portland Timbers vs. Houston Dynamo: O/U 2.5",
+      "slug": "mls-por-hou-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-por-hou-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 17.4,
+      "direction": "UP",
+      "price": 0.48,
       "category": "sports"
     },
     {
@@ -1039,6 +1666,17 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:52:31.000Z",
+      "market": "Spread: Warriors (-10.5)",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.96,
+      "direction": "Clippers",
+      "price": 0.37,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T03:52:28.000Z",
       "market": "Spread: Commanders (-4.5)",
       "slug": "nfl-phi-was-2026-11-02",
@@ -1083,6 +1721,28 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:52:09.000Z",
+      "market": "Clippers vs. Warriors",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 0.9500000000000001,
+      "direction": "Clippers",
+      "price": 0.01,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:52:03.000Z",
+      "market": "Spread: Warriors (-12.5)",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 8.06,
+      "direction": "Warriors",
+      "price": 0.13,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T03:51:45.000Z",
       "market": "Spread: Commanders (-2.5)",
       "slug": "nfl-phi-was-2026-11-02",
@@ -1091,6 +1751,17 @@
       "value": 420,
       "direction": "Eagles",
       "price": 0.42,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:51:27.000Z",
+      "market": "Clippers vs. Warriors",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 10.44079999984,
+      "direction": "Warriors",
+      "price": 0.9322142857,
       "category": "sports"
     },
     {
@@ -1127,6 +1798,39 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:48:45.000Z",
+      "market": "Spread: Warriors (-6.5)",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.029999999929621,
+      "direction": "Clippers",
+      "price": 0.2699999827,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:48:45.000Z",
+      "market": "Spread: Warriors (-6.5)",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 5.41039999984,
+      "direction": "Warriors",
+      "price": 0.723315508,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:48:19.000Z",
+      "market": "Spread: Warriors (-6.5)",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 30.9100000014,
+      "direction": "Warriors",
+      "price": 0.9091176471,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T03:47:58.000Z",
       "market": "Eagles vs. Commanders: O/U 34.5",
       "slug": "nfl-phi-was-2026-11-02",
@@ -1149,6 +1853,17 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:42:52.000Z",
+      "market": "Spread: Jaguars (-9.5)",
+      "slug": "nfl-jax-bal-2026-11-06",
+      "url": "https://polymarket.com/event/nfl-jax-bal-2026-11-06?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 7.05,
+      "direction": "Jaguars",
+      "price": 0.47,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T03:42:33.000Z",
       "market": "Eagles vs. Commanders: O/U 38.5",
       "slug": "nfl-phi-was-2026-11-02",
@@ -1160,6 +1875,28 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:41:49.000Z",
+      "market": "W35 Hamamatsu: Kurumi Tamura vs Funa Kozaki",
+      "slug": "itf-tamura1-kozaki1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-tamura1-kozaki1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3.9000000000000004,
+      "direction": "Kurumi Tamura",
+      "price": 0.26,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:41:25.000Z",
+      "market": "Clippers vs. Warriors",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 161.369915003,
+      "direction": "Warriors",
+      "price": 0.989,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T03:41:09.000Z",
       "market": "Spread: Commanders (-5.5)",
       "slug": "nfl-phi-was-2026-11-02",
@@ -1168,6 +1905,28 @@
       "value": 950.8072000000001,
       "direction": "Commanders",
       "price": 0.56,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:40:15.000Z",
+      "market": "Will Minnesota United FC win on 2026-11-01?",
+      "slug": "mls-laf-min-2026-11-01",
+      "url": "https://polymarket.com/event/mls-laf-min-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 72.99244999834801,
+      "direction": "UP",
+      "price": 0.9943120828,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:37:52.000Z",
+      "market": "Senators vs. Ducks",
+      "slug": "nhl-ott-ana-2026-11-01",
+      "url": "https://polymarket.com/event/nhl-ott-ana-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1960.0000000289772,
+      "direction": "Ducks",
+      "price": 0.9697908613,
       "category": "sports"
     },
     {
@@ -1292,6 +2051,39 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:28:31.000Z",
+      "market": "Los Angeles FC vs. Minnesota United FC: O/U 3.5",
+      "slug": "mls-laf-min-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-laf-min-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 0.2387,
+      "direction": "UP",
+      "price": 0.31,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:27:33.000Z",
+      "market": "Will Minnesota United FC win on 2026-11-01?",
+      "slug": "mls-laf-min-2026-11-01",
+      "url": "https://polymarket.com/event/mls-laf-min-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 50.176,
+      "direction": "UP",
+      "price": 0.98,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:24:22.000Z",
+      "market": "Raptors vs. Lakers: O/U 225.5",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4.2,
+      "direction": "UP",
+      "price": 0.84,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T03:24:01.000Z",
       "market": "Eagles vs. Commanders: O/U 36.5",
       "slug": "nfl-phi-was-2026-11-02",
@@ -1300,6 +2092,17 @@
       "value": 5.035699999999999,
       "direction": "DOWN",
       "price": 0.37,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:23:07.000Z",
+      "market": "Spread: Lakers (-8.5)",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.1,
+      "direction": "Raptors",
+      "price": 0.42,
       "category": "sports"
     },
     {
@@ -1347,6 +2150,28 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:21:24.000Z",
+      "market": "Clippers vs. Warriors",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 33.6,
+      "direction": "Clippers",
+      "price": 0.21,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:21:24.000Z",
+      "market": "Clippers vs. Warriors",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 71.10000000000001,
+      "direction": "Warriors",
+      "price": 0.79,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T03:20:37.000Z",
       "market": "Spread: Commanders (-4.5)",
       "slug": "nfl-phi-was-2026-11-02",
@@ -1355,6 +2180,17 @@
       "value": 504.21,
       "direction": "Eagles",
       "price": 0.49,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:20:06.000Z",
+      "market": "Will Portland Timbers vs. Houston Dynamo end in a draw?",
+      "slug": "mls-por-hou-2026-11-01",
+      "url": "https://polymarket.com/event/mls-por-hou-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3.8,
+      "direction": "DOWN",
+      "price": 0.76,
       "category": "sports"
     },
     {
@@ -1380,6 +2216,17 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:16:36.000Z",
+      "market": "Will Houston Dynamo win on 2026-11-01?",
+      "slug": "mls-por-hou-2026-11-01",
+      "url": "https://polymarket.com/event/mls-por-hou-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 74.1,
+      "direction": "UP",
+      "price": 0.19,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T03:15:00.000Z",
       "market": "Spread: Commanders (-3.5)",
       "slug": "nfl-phi-was-2026-11-02",
@@ -1388,6 +2235,17 @@
       "value": 513.7992999999999,
       "direction": "Eagles",
       "price": 0.49,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:14:57.000Z",
+      "market": "Spread: Warriors (-8.5)",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 51,
+      "direction": "Warriors",
+      "price": 0.51,
       "category": "sports"
     },
     {
@@ -1413,6 +2271,28 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:13:13.000Z",
+      "market": "CF Cruz Azul vs. Club León FC: O/U 2.5",
+      "slug": "mex-caz-leo-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 24.699299999999997,
+      "direction": "DOWN",
+      "price": 0.29,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:13:00.000Z",
+      "market": "Counter-Strike: Heroic vs B8 - Map 2 Winner",
+      "slug": "cs2-hero-b8-2026-11-02",
+      "url": "https://polymarket.com/event/cs2-hero-b8-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 60.21000000842307,
+      "direction": "B8",
+      "price": 0.259999999,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T03:12:27.000Z",
       "market": "Chennai Open: Jeline Vandromme vs Kyoka Okamura",
       "slug": "wta-vandrom-okamura-2026-11-02",
@@ -1424,6 +2304,61 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:12:09.000Z",
+      "market": "Spread: Warriors (-5.5)",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1.1500000000000001,
+      "direction": "Clippers",
+      "price": 0.23,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:12:00.000Z",
+      "market": "Clippers vs. Warriors: O/U 225.5",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3.4499999999999997,
+      "direction": "UP",
+      "price": 0.69,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:11:07.000Z",
+      "market": "CF Cruz Azul vs. Club León FC: O/U 2.5",
+      "slug": "mex-caz-leo-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 376.03999897980515,
+      "direction": "DOWN",
+      "price": 0.7566266553,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:11:06.000Z",
+      "market": "CF Cruz Azul vs. Club León FC: O/U 2.5",
+      "slug": "mex-caz-leo-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 6,
+      "direction": "UP",
+      "price": 0.25,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:11:03.000Z",
+      "market": "CF Cruz Azul vs. Club León FC: O/U 2.5",
+      "slug": "mex-caz-leo-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 3.8,
+      "direction": "DOWN",
+      "price": 0.76,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T03:11:01.000Z",
       "market": "Clippers vs. Warriors: O/U 228.5",
       "slug": "nba-lac-gsw-2026-11-01",
@@ -1443,6 +2378,72 @@
       "value": 939.765,
       "direction": "DOWN",
       "price": 0.47,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:10:07.000Z",
+      "market": "CF Cruz Azul vs. Club León FC: O/U 2.5",
+      "slug": "mex-caz-leo-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 21.599999991454546,
+      "direction": "UP",
+      "price": 0.1099999996,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:06:58.000Z",
+      "market": "Luka Dončić: Points O/U 39.5",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4,
+      "direction": "UP",
+      "price": 0.32,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:06:48.000Z",
+      "market": "Spread: North Carolina (-6.5)",
+      "slug": "cfb-ncar-uconn-2026-11-07",
+      "url": "https://polymarket.com/event/cfb-ncar-uconn-2026-11-07?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 129.32999999999998,
+      "direction": "DOWN",
+      "price": 0.45,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:06:48.000Z",
+      "market": "Raptors vs. Lakers: 1H O/U 117.5",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 9,
+      "direction": "UP",
+      "price": 0.9,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:06:46.000Z",
+      "market": "Raptors vs. Lakers",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 100.5144,
+      "direction": "Lakers",
+      "price": 0.84,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:04:22.000Z",
+      "market": "Raptors vs. Lakers: 1H O/U 111.5",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 93.3599999956,
+      "direction": "UP",
+      "price": 0.9243564356,
       "category": "sports"
     },
     {
@@ -1468,6 +2469,28 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:01:43.000Z",
+      "market": "Taipei: Yanki Erel vs Masamichi Imamura",
+      "slug": "atp-erel-imamura-2026-11-01",
+      "url": "https://polymarket.com/event/atp-erel-imamura-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 4.35,
+      "direction": "Yanki Erel",
+      "price": 0.87,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T03:01:30.000Z",
+      "market": "Yaxel Lendeborg: Points O/U 19.5",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 19.8,
+      "direction": "UP",
+      "price": 0.99,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T03:00:43.000Z",
       "market": "Spread: Lakers (-9.5)",
       "slug": "nba-tor-lal-2026-11-01",
@@ -1479,6 +2502,50 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T03:00:31.000Z",
+      "market": "Spread: Lakers (-8.5)",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.75,
+      "direction": "Lakers",
+      "price": 0.55,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:59:43.000Z",
+      "market": "Counter-Strike: Heroic vs B8 (BO3) - IEM Beijing Group A",
+      "slug": "cs2-hero-b8-2026-11-02",
+      "url": "https://polymarket.com/event/cs2-hero-b8-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 42.307199999999995,
+      "direction": "UP",
+      "price": 0.18,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:59:28.000Z",
+      "market": "Will Los Angeles FC win on 2026-11-01?",
+      "slug": "mls-laf-min-2026-11-01",
+      "url": "https://polymarket.com/event/mls-laf-min-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.2,
+      "direction": "UP",
+      "price": 0.11,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:59:28.000Z",
+      "market": "Will Los Angeles FC vs. Minnesota United FC end in a draw?",
+      "slug": "mls-laf-min-2026-11-01",
+      "url": "https://polymarket.com/event/mls-laf-min-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 0.95,
+      "direction": "UP",
+      "price": 0.19,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T02:57:27.000Z",
       "market": "Spread: Commanders (-9.5)",
       "slug": "nfl-phi-was-2026-11-02",
@@ -1487,6 +2554,28 @@
       "value": 6.09,
       "direction": "Commanders",
       "price": 0.29,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:56:55.000Z",
+      "market": "Will Los Angeles FC win on 2026-11-01?",
+      "slug": "mls-laf-min-2026-11-01",
+      "url": "https://polymarket.com/event/mls-laf-min-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 273,
+      "direction": "DOWN",
+      "price": 0.91,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:56:55.000Z",
+      "market": "Will Los Angeles FC win on 2026-11-01?",
+      "slug": "mls-laf-min-2026-11-01",
+      "url": "https://polymarket.com/event/mls-laf-min-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 18,
+      "direction": "UP",
+      "price": 0.09,
       "category": "sports"
     },
     {
@@ -1509,6 +2598,17 @@
       "value": 65.96000000000001,
       "direction": "UP",
       "price": 0.68,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:52:30.000Z",
+      "market": "W100 Incheon: eunchae Kim vs Erika Sema",
+      "slug": "itf-kim7-sema1-2026-11-01",
+      "url": "https://polymarket.com/event/itf-kim7-sema1-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 9.1,
+      "direction": "Erika Sema",
+      "price": 0.91,
       "category": "sports"
     },
     {
@@ -1597,6 +2697,17 @@
       "value": 923.6700000000001,
       "direction": "Eagles",
       "price": 0.66,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:45:18.000Z",
+      "market": "Will Club León FC win on 2026-11-01?",
+      "slug": "mex-caz-leo-2026-11-01",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 2.4834,
+      "direction": "UP",
+      "price": 0.02,
       "category": "sports"
     },
     {
@@ -1831,6 +2942,17 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T02:40:15.000Z",
+      "market": "Yaxel Lendeborg: Rebounds O/U 3.5",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3.5999999999999996,
+      "direction": "UP",
+      "price": 0.6,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T02:40:10.000Z",
       "market": "Spread: Lakers (-6.5)",
       "slug": "nba-tor-lal-2026-11-01",
@@ -1919,6 +3041,28 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T02:36:46.000Z",
+      "market": "W35 Hamamatsu: Anri Nagata vs Mua Shigeta",
+      "slug": "itf-nagata1-shiget1-2026-11-02",
+      "url": "https://polymarket.com/event/itf-nagata1-shiget1-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.2,
+      "direction": "Mua Shigeta",
+      "price": 0.22,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:36:25.000Z",
+      "market": "Raptors vs. Lakers",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 46.75,
+      "direction": "Lakers",
+      "price": 0.85,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T02:36:04.000Z",
       "market": "Spread: Commanders (-2.5)",
       "slug": "nfl-phi-was-2026-11-02",
@@ -1941,6 +3085,28 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T02:35:34.000Z",
+      "market": "Will CF Cruz Azul win on 2026-11-01?",
+      "slug": "mex-caz-leo-2026-11-01",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 227.65800000000002,
+      "direction": "UP",
+      "price": 0.76,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:35:34.000Z",
+      "market": "Will CF Cruz Azul win on 2026-11-01?",
+      "slug": "mex-caz-leo-2026-11-01",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 35.76,
+      "direction": "DOWN",
+      "price": 0.24,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T02:35:15.000Z",
       "market": "Spread: Clippers (-1.5)",
       "slug": "nba-lac-gsw-2026-11-01",
@@ -1949,6 +3115,17 @@
       "value": 3.7699999999999996,
       "direction": "Clippers",
       "price": 0.29,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:35:00.000Z",
+      "market": "Clippers vs. Warriors: 1H O/U 118.5",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 21.180000001499998,
+      "direction": "UP",
+      "price": 0.6832258065,
       "category": "sports"
     },
     {
@@ -1974,6 +3151,17 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T02:31:58.000Z",
+      "market": "Will Club León FC win on 2026-11-01?",
+      "slug": "mex-caz-leo-2026-11-01",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.6100000000000003,
+      "direction": "UP",
+      "price": 0.05,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T02:31:54.000Z",
       "market": "Eagles vs. Commanders",
       "slug": "nfl-phi-was-2026-11-02",
@@ -1982,6 +3170,39 @@
       "value": 177.98,
       "direction": "Eagles",
       "price": 0.44,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:30:52.000Z",
+      "market": "Will Club León FC win on 2026-11-01?",
+      "slug": "mex-caz-leo-2026-11-01",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3.596,
+      "direction": "UP",
+      "price": 0.04,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:30:34.000Z",
+      "market": "Will CF Cruz Azul vs. Club León FC end in a draw?",
+      "slug": "mex-caz-leo-2026-11-01",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 7.72,
+      "direction": "UP",
+      "price": 0.16,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:29:45.000Z",
+      "market": "Spread: Warriors (-10.5)",
+      "slug": "nba-lac-gsw-2026-11-01",
+      "url": "https://polymarket.com/event/nba-lac-gsw-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1.2,
+      "direction": "Warriors",
+      "price": 0.24,
       "category": "sports"
     },
     {
@@ -2004,6 +3225,61 @@
       "value": 11.88,
       "direction": "Commanders",
       "price": 0.66,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:27:00.000Z",
+      "market": "CF Cruz Azul vs. Club León FC: O/U 0.5",
+      "slug": "mex-caz-leo-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 1.4000000000000001,
+      "direction": "DOWN",
+      "price": 0.14,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:26:43.000Z",
+      "market": "Will CF Cruz Azul vs. Club León FC end in a draw?",
+      "slug": "mex-caz-leo-2026-11-01",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 35.829,
+      "direction": "UP",
+      "price": 0.27,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:26:37.000Z",
+      "market": "Will Club León FC win on 2026-11-01?",
+      "slug": "mex-caz-leo-2026-11-01",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 8.06,
+      "direction": "UP",
+      "price": 0.13,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:26:37.000Z",
+      "market": "Will Club León FC win on 2026-11-01?",
+      "slug": "mex-caz-leo-2026-11-01",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 33.06,
+      "direction": "DOWN",
+      "price": 0.87,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:25:40.000Z",
+      "market": "Spread: Lakers (-7.5)",
+      "slug": "nba-tor-lal-2026-11-01",
+      "url": "https://polymarket.com/event/nba-tor-lal-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 50,
+      "direction": "Lakers",
+      "price": 0.5,
       "category": "sports"
     },
     {
@@ -2073,6 +3349,61 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T02:21:46.000Z",
+      "market": "Will Club León FC win on 2026-11-01?",
+      "slug": "mex-caz-leo-2026-11-01",
+      "url": "https://polymarket.com/event/mex-caz-leo-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 390,
+      "direction": "DOWN",
+      "price": 0.78,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:20:40.000Z",
+      "market": "Will Inter Miami CF win on 2026-11-01?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 13.4949999932,
+      "direction": "DOWN",
+      "price": 0.0525097276,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:20:18.000Z",
+      "market": "New England Revolution vs. Inter Miami CF: O/U 3.5",
+      "slug": "mls-ner-mia-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 2.5977,
+      "direction": "UP",
+      "price": 0.03,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:20:13.000Z",
+      "market": "Will Inter Miami CF win on 2026-11-01?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 15,
+      "direction": "DOWN",
+      "price": 0.03,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:19:37.000Z",
+      "market": "Eagles vs. Commanders: O/U 26.5",
+      "slug": "nfl-phi-was-2026-11-02",
+      "url": "https://polymarket.com/event/nfl-phi-was-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 834.2799999599999,
+      "direction": "UP",
+      "price": 0.9480454545,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T02:19:16.000Z",
       "market": "Spread: Commanders (-5.5)",
       "slug": "nfl-phi-was-2026-11-02",
@@ -2081,6 +3412,50 @@
       "value": 30.8,
       "direction": "Eagles",
       "price": 0.77,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:18:07.000Z",
+      "market": "New England Revolution vs. Inter Miami CF: O/U 3.5",
+      "slug": "mls-ner-mia-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 450,
+      "direction": "DOWN",
+      "price": 0.9,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:17:36.000Z",
+      "market": "Will New England Revolution vs. Inter Miami CF end in a draw?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 2.4,
+      "direction": "UP",
+      "price": 0.06,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:16:07.000Z",
+      "market": "New England Revolution vs. Inter Miami CF: O/U 3.5",
+      "slug": "mls-ner-mia-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1.05,
+      "direction": "DOWN",
+      "price": 0.84,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:15:48.000Z",
+      "market": "Will Inter Miami CF win on 2026-11-01?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 6.3999,
+      "direction": "DOWN",
+      "price": 0.09,
       "category": "sports"
     },
     {
@@ -2150,6 +3525,171 @@
       "category": "sports"
     },
     {
+      "time": "2026-11-02T02:15:19.000Z",
+      "market": "Will Inter Miami CF win on 2026-11-01?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 50,
+      "direction": "DOWN",
+      "price": 0.1,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:15:19.000Z",
+      "market": "Will New England Revolution vs. Inter Miami CF end in a draw?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 14.49,
+      "direction": "UP",
+      "price": 0.09,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:14:39.000Z",
+      "market": "Will Inter Miami CF win on 2026-11-01?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 4.2299999999999995,
+      "direction": "DOWN",
+      "price": 0.12,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:14:22.000Z",
+      "market": "Will New England Revolution vs. Inter Miami CF end in a draw?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 55,
+      "direction": "UP",
+      "price": 0.11,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:14:21.000Z",
+      "market": "Will Inter Miami CF win on 2026-11-01?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 60,
+      "direction": "DOWN",
+      "price": 0.12,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:14:21.000Z",
+      "market": "New England Revolution vs. Inter Miami CF: O/U 3.5",
+      "slug": "mls-ner-mia-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 6,
+      "direction": "DOWN",
+      "price": 0.75,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:14:21.000Z",
+      "market": "New England Revolution vs. Inter Miami CF: O/U 3.5",
+      "slug": "mls-ner-mia-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 0.465,
+      "direction": "UP",
+      "price": 0.25,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:13:37.000Z",
+      "market": "New England Revolution vs. Inter Miami CF: O/U 4.5",
+      "slug": "mls-ner-mia-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 3,
+      "direction": "UP",
+      "price": 0.02,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:13:10.000Z",
+      "market": "New England Revolution vs. Inter Miami CF: O/U 4.5",
+      "slug": "mls-ner-mia-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 6.27,
+      "direction": "UP",
+      "price": 0.03,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:13:10.000Z",
+      "market": "New England Revolution vs. Inter Miami CF: O/U 4.5",
+      "slug": "mls-ner-mia-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 282.27,
+      "direction": "DOWN",
+      "price": 0.97,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:12:45.000Z",
+      "market": "Will New England Revolution vs. Inter Miami CF end in a draw?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 29.12,
+      "direction": "UP",
+      "price": 0.13,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:12:45.000Z",
+      "market": "Will New England Revolution vs. Inter Miami CF end in a draw?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 240.12,
+      "direction": "DOWN",
+      "price": 0.87,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:12:40.000Z",
+      "market": "Counter-Strike: Heroic vs B8 - Map 1 Winner",
+      "slug": "cs2-hero-b8-2026-11-02",
+      "url": "https://polymarket.com/event/cs2-hero-b8-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 129.73600000556797,
+      "direction": "Heroic",
+      "price": 0.8012351779,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:12:12.000Z",
+      "market": "New England Revolution vs. Inter Miami CF: O/U 3.5",
+      "slug": "mls-ner-mia-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 230,
+      "direction": "UP",
+      "price": 0.46,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:11:55.000Z",
+      "market": "New England Revolution vs. Inter Miami CF: O/U 3.5",
+      "slug": "mls-ner-mia-2026-11-01-more-markets",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01-more-markets?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 320,
+      "direction": "UP",
+      "price": 0.64,
+      "category": "sports"
+    },
+    {
       "time": "2026-11-02T02:11:48.000Z",
       "market": "Spread: Eagles (-1.5)",
       "slug": "nfl-phi-was-2026-11-02",
@@ -2158,6 +3698,28 @@
       "value": 582.9,
       "direction": "Eagles",
       "price": 0.58,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:11:40.000Z",
+      "market": "Will Inter Miami CF win on 2026-11-01?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 4.2299999995,
+      "direction": "UP",
+      "price": 0.3845454545,
+      "category": "sports"
+    },
+    {
+      "time": "2026-11-02T02:11:37.000Z",
+      "market": "Will New England Revolution win on 2026-11-01?",
+      "slug": "mls-ner-mia-2026-11-01",
+      "url": "https://polymarket.com/event/mls-ner-mia-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 6.53,
+      "direction": "UP",
+      "price": 0.04,
       "category": "sports"
     },
     {
@@ -2481,5 +4043,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-02T09:36:48.420Z"
+  "generatedAt": "2026-11-02T09:41:51.003Z"
 }
