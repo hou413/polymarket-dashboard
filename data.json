@@ -1,24 +1,35 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T18:12:49.905Z",
+    "saved_at": "2026-11-03T18:30:06.539Z",
     "version": "smart v2",
-    "tracked_address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
-    "tracked_label": "Netrol",
-    "total_alerts": 52,
-    "total_volume": 115910.1267050184,
-    "today_trades": 80,
-    "uptime_seconds": 47409,
-    "last_poll": "2026-11-03T18:10:27.623Z"
+    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+    "tracked_label": "chubbytoro",
+    "total_alerts": 53,
+    "total_volume": 122116.16270501839,
+    "today_trades": 81,
+    "uptime_seconds": 48446,
+    "last_poll": "2026-11-03T18:27:44.400Z"
   },
   "categories": {
     "sports": {
-      "count": 36,
-      "buyCount": 29,
+      "count": 37,
+      "buyCount": 30,
       "sellCount": 7,
-      "buyVolume": 25088.975100131353,
+      "buyVolume": 31295.011100131353,
       "sellVolume": 4235.8949999999995,
-      "totalVolume": 29324.870100131353,
+      "totalVolume": 35530.90610013135,
       "recentTrades": [
+        {
+          "time": "2026-11-03T18:28:30.000Z",
+          "market": "Jets vs. Canadiens",
+          "slug": "nhl-wpg-mon-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 6206.036,
+          "direction": "Jets",
+          "price": 0.4,
+          "outcome": "Jets"
+        },
         {
           "time": "2026-11-03T17:13:30.000Z",
           "market": "Spread: Rangers (-1.5)",
@@ -224,17 +235,6 @@
           "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
           "side": "SELL",
           "value": 395.64,
-          "direction": "Warriors",
-          "price": 0.72,
-          "outcome": "Warriors"
-        },
-        {
-          "time": "2026-11-03T05:21:07.000Z",
-          "market": "Spread: Warriors (-2.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 324.36,
           "direction": "Warriors",
           "price": 0.72,
           "outcome": "Warriors"
@@ -655,6 +655,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T18:28:30.000Z",
+      "market": "Jets vs. Canadiens",
+      "slug": "nhl-wpg-mon-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 6206.036,
+      "direction": "Jets",
+      "price": 0.4,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
     {
       "time": "2026-11-03T18:09:12.000Z",
       "market": "Will the Republicans win the Texas governor race in 2026?",
@@ -1617,5 +1629,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T18:26:33.348Z"
+  "generatedAt": "2026-11-03T18:31:36.084Z"
 }
