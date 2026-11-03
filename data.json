@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T18:02:05.341Z",
+    "saved_at": "2026-11-03T18:12:49.905Z",
     "version": "smart v2",
-    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
-    "tracked_label": "fantasy7788",
-    "total_alerts": 51,
-    "total_volume": 83910.1267050184,
-    "today_trades": 79,
-    "uptime_seconds": 46765,
-    "last_poll": "2026-11-03T17:59:43.121Z"
+    "tracked_address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
+    "tracked_label": "Netrol",
+    "total_alerts": 52,
+    "total_volume": 115910.1267050184,
+    "today_trades": 80,
+    "uptime_seconds": 47409,
+    "last_poll": "2026-11-03T18:10:27.623Z"
   },
   "categories": {
     "sports": {
@@ -242,13 +242,24 @@
       ]
     },
     "politics": {
-      "count": 29,
-      "buyCount": 22,
+      "count": 30,
+      "buyCount": 23,
       "sellCount": 7,
-      "buyVolume": 28370.6341151114,
+      "buyVolume": 60370.6341151114,
       "sellVolume": 22445.48949,
-      "totalVolume": 50816.123605111396,
+      "totalVolume": 82816.12360511141,
       "recentTrades": [
+        {
+          "time": "2026-11-03T18:09:12.000Z",
+          "market": "Will the Republicans win the Texas governor race in 2026?",
+          "slug": "texas-governor-winner-2026",
+          "url": "https://polymarket.com/event/texas-governor-winner-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 32000,
+          "direction": "UP",
+          "price": 0.64,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-11-03T17:42:57.000Z",
           "market": "US announces end of Iranian blockade by December 31, 2026?",
@@ -457,17 +468,6 @@
           "direction": "UP",
           "price": 0.9989296523,
           "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-03T13:20:48.000Z",
-          "market": "Will Donald Trump publicly insult someone on November 3, 2026?",
-          "slug": "will-trump-publicly-insult-someone-on-november-2026",
-          "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on-november-2026?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 4.75,
-          "direction": "UP",
-          "price": 0.95,
-          "outcome": "Yes"
         }
       ]
     },
@@ -655,6 +655,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T18:09:12.000Z",
+      "market": "Will the Republicans win the Texas governor race in 2026?",
+      "slug": "texas-governor-winner-2026",
+      "url": "https://polymarket.com/event/texas-governor-winner-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 32000,
+      "direction": "UP",
+      "price": 0.64,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
     {
       "time": "2026-11-03T17:42:57.000Z",
       "market": "US announces end of Iranian blockade by December 31, 2026?",
@@ -1605,5 +1617,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T18:08:12.221Z"
+  "generatedAt": "2026-11-03T18:13:14.935Z"
 }
