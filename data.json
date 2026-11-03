@@ -1,23 +1,23 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T04:50:19.420Z",
+    "saved_at": "2026-11-03T04:55:53.660Z",
     "version": "smart v2",
-    "tracked_address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
-    "tracked_label": "Netrol",
-    "total_alerts": 93,
-    "total_volume": 242182.35708741614,
-    "today_trades": 275,
-    "uptime_seconds": 1323,
-    "last_poll": "2026-11-03T04:44:33.587Z"
+    "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+    "tracked_label": "VeryLucky888",
+    "total_alerts": 124,
+    "total_volume": 432610.7654302639,
+    "today_trades": 341,
+    "uptime_seconds": 1657,
+    "last_poll": "2026-11-03T04:50:03.333Z"
   },
   "categories": {
     "sports": {
-      "count": 247,
-      "buyCount": 225,
-      "sellCount": 22,
-      "buyVolume": 147285.43258004278,
-      "sellVolume": 6803.6135000416,
-      "totalVolume": 154089.04608008437,
+      "count": 313,
+      "buyCount": 279,
+      "sellCount": 34,
+      "buyVolume": 290637.1438228906,
+      "sellVolume": 53880.3106000416,
+      "totalVolume": 344517.4544229322,
       "recentTrades": [
         {
           "time": "2026-11-03T04:32:13.000Z",
@@ -2361,6 +2361,18 @@
       "traderLabel": ""
     },
     {
+      "time": "2026-11-03T02:32:00.000Z",
+      "market": "Thunder vs. Cavaliers",
+      "slug": "nba-okc-cle-2026-11-02",
+      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 10.4985,
+      "direction": "DOWN",
+      "price": 0.05,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
       "time": "2026-11-03T02:31:42.000Z",
       "market": "Spread: Seahawks (-1.5)",
       "slug": "nfl-chi-sea-2026-11-03",
@@ -2395,6 +2407,18 @@
       "price": 0.46,
       "category": "sports",
       "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T02:29:22.000Z",
+      "market": "Thunder vs. Cavaliers",
+      "slug": "nba-okc-cle-2026-11-02",
+      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 159.62320000000003,
+      "direction": "DOWN",
+      "price": 0.17,
+      "category": "sports",
+      "traderLabel": "Netrol"
     },
     {
       "time": "2026-11-03T02:29:04.000Z",
@@ -2587,6 +2611,30 @@
       "price": 0.6,
       "category": "sports",
       "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T01:49:52.000Z",
+      "market": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
+      "slug": "cs2-aur1-g2-2026-11-03",
+      "url": "https://polymarket.com/event/cs2-aur1-g2-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 56.00000000000001,
+      "direction": "UP",
+      "price": 0.56,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-03T01:49:34.000Z",
+      "market": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
+      "slug": "cs2-aur1-g2-2026-11-03",
+      "url": "https://polymarket.com/event/cs2-aur1-g2-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 6844.656899999999,
+      "direction": "UP",
+      "price": 0.57,
+      "category": "sports",
+      "traderLabel": "Netrol"
     },
     {
       "time": "2026-11-03T01:36:16.000Z",
@@ -2925,6 +2973,114 @@
       "traderLabel": "Arbguy"
     },
     {
+      "time": "2026-11-03T00:44:01.000Z",
+      "market": "Kings vs. Mavericks",
+      "slug": "nba-sac-dal-2026-11-02",
+      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.595,
+      "direction": "Kings",
+      "price": 0.25,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-03T00:28:16.000Z",
+      "market": "Spread: Hawks (-7.5)",
+      "slug": "nba-atl-ind-2026-11-02",
+      "url": "https://polymarket.com/event/nba-atl-ind-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 80.4531,
+      "direction": "Pacers",
+      "price": 0.39,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-03T00:27:33.000Z",
+      "market": "Spread: Hawks (-7.5)",
+      "slug": "nba-atl-ind-2026-11-02",
+      "url": "https://polymarket.com/event/nba-atl-ind-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 38,
+      "direction": "Pacers",
+      "price": 0.38,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-03T00:26:07.000Z",
+      "market": "Spread: Hawks (-9.5)",
+      "slug": "nba-atl-ind-2026-11-02",
+      "url": "https://polymarket.com/event/nba-atl-ind-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 8.1,
+      "direction": "Pacers",
+      "price": 0.45,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-03T00:06:13.000Z",
+      "market": "Spread: Hawks (-8.5)",
+      "slug": "nba-atl-ind-2026-11-02",
+      "url": "https://polymarket.com/event/nba-atl-ind-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 316.7076,
+      "direction": "Pacers",
+      "price": 0.44,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-03T00:04:27.000Z",
+      "market": "Spread: Hawks (-8.5)",
+      "slug": "nba-atl-ind-2026-11-02",
+      "url": "https://polymarket.com/event/nba-atl-ind-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 319.40999999999997,
+      "direction": "Pacers",
+      "price": 0.45,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-02T23:57:52.000Z",
+      "market": "Spread: Mavericks (-10.5)",
+      "slug": "nba-sac-dal-2026-11-02",
+      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 97.5,
+      "direction": "Mavericks",
+      "price": 0.39,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-02T23:57:33.000Z",
+      "market": "Spread: Mavericks (-10.5)",
+      "slug": "nba-sac-dal-2026-11-02",
+      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 336.0786,
+      "direction": "Mavericks",
+      "price": 0.39,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-02T23:42:19.000Z",
+      "market": "Spread: Mavericks (-10.5)",
+      "slug": "nba-sac-dal-2026-11-02",
+      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 525.1,
+      "direction": "Mavericks",
+      "price": 0.4,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
       "time": "2026-11-02T21:50:48.000Z",
       "market": "Red Wings vs. Panthers: O/U 5.5",
       "slug": "nhl-det-fla-2026-11-02",
@@ -3069,6 +3225,78 @@
       "traderLabel": "chubbytoro"
     },
     {
+      "time": "2026-11-01T16:06:24.000Z",
+      "market": "Dota 2: Team Yandex vs Team Spirit - Game 3 Winner",
+      "slug": "dota2-ty-ts8-2026-11-01",
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 180.9764,
+      "direction": "Team Spirit",
+      "price": 0.44,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-01T16:04:22.000Z",
+      "market": "Dota 2: Team Yandex vs Team Spirit - Game 3 Winner",
+      "slug": "dota2-ty-ts8-2026-11-01",
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 945.0424,
+      "direction": "Team Spirit",
+      "price": 0.46,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-01T16:03:28.000Z",
+      "market": "Dota 2: Team Yandex vs Team Spirit - Game 3 Winner",
+      "slug": "dota2-ty-ts8-2026-11-01",
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 5152.939,
+      "direction": "Team Spirit",
+      "price": 0.47,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-01T16:02:49.000Z",
+      "market": "Dota 2: Team Yandex vs Team Spirit - Game 3 Winner",
+      "slug": "dota2-ty-ts8-2026-11-01",
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 9042.9128,
+      "direction": "Team Spirit",
+      "price": 0.47,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-01T16:01:07.000Z",
+      "market": "Dota 2: Team Yandex vs Team Spirit - Game 3 Winner",
+      "slug": "dota2-ty-ts8-2026-11-01",
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 7231.264399890024,
+      "direction": "Team Spirit",
+      "price": 0.4141176484,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-01T13:07:01.000Z",
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO5) - PARI Universe Playoffs",
+      "slug": "dota2-ty-ts8-2026-11-01",
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 330.5038,
+      "direction": "Team Spirit",
+      "price": 0.34,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
       "time": "2026-11-01T12:00:19.000Z",
       "market": "Spread: Rangers (-1.5)",
       "slug": "nhl-edm-nyr-2026-11-01",
@@ -3079,6 +3307,18 @@
       "price": 0.32,
       "category": "sports",
       "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-31T23:52:28.000Z",
+      "market": "Spread: Cavaliers (-9.5)",
+      "slug": "nba-cle-mil-2026-10-31",
+      "url": "https://polymarket.com/event/nba-cle-mil-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 22207.5,
+      "direction": "Cavaliers",
+      "price": 0.47,
+      "category": "sports",
+      "traderLabel": "Netrol"
     },
     {
       "time": "2026-10-31T23:51:09.000Z",
@@ -3103,6 +3343,114 @@
       "price": 0.37,
       "category": "sports",
       "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-31T21:39:52.000Z",
+      "market": "LoL: LOS vs LYON (BO3) - Worlds Group Stage",
+      "slug": "lol-los-ly-2026-10-31",
+      "url": "https://polymarket.com/event/lol-los-ly-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 17986.8951,
+      "direction": "UP",
+      "price": 0.999,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-31T21:36:27.000Z",
+      "market": "LoL: LOS vs LYON (BO3) - Worlds Group Stage",
+      "slug": "lol-los-ly-2026-10-31",
+      "url": "https://polymarket.com/event/lol-los-ly-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 20.810000000000002,
+      "direction": "UP",
+      "price": 0.2,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-31T21:14:49.000Z",
+      "market": "76ers vs. Hornets",
+      "slug": "nba-phi-cha-2026-10-31",
+      "url": "https://polymarket.com/event/nba-phi-cha-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 20200.50050176435,
+      "direction": "Hornets",
+      "price": 0.4596790769,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-31T21:14:49.000Z",
+      "market": "76ers vs. Hornets",
+      "slug": "nba-phi-cha-2026-10-31",
+      "url": "https://polymarket.com/event/nba-phi-cha-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1175.3966,
+      "direction": "Hornets",
+      "price": 0.46,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-31T20:39:06.000Z",
+      "market": "LoL: LOS vs LYON - Game 2 Winner",
+      "slug": "lol-los-ly-2026-10-31",
+      "url": "https://polymarket.com/event/lol-los-ly-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 49.8696,
+      "direction": "LOS",
+      "price": 0.24,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-31T20:35:51.000Z",
+      "market": "LoL: LOS vs LYON - Game 2 Winner",
+      "slug": "lol-los-ly-2026-10-31",
+      "url": "https://polymarket.com/event/lol-los-ly-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 24.9336,
+      "direction": "LOS",
+      "price": 0.24,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-31T20:04:10.000Z",
+      "market": "LoL: LOS vs LYON (BO3) - Worlds Group Stage",
+      "slug": "lol-los-ly-2026-10-31",
+      "url": "https://polymarket.com/event/lol-los-ly-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 104.56020000000001,
+      "direction": "UP",
+      "price": 0.51,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-31T20:01:37.000Z",
+      "market": "LoL: LOS vs LYON (BO3) - Worlds Group Stage",
+      "slug": "lol-los-ly-2026-10-31",
+      "url": "https://polymarket.com/event/lol-los-ly-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3455.81749993956,
+      "direction": "UP",
+      "price": 0.4962688121,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-31T19:04:37.000Z",
+      "market": "LoL: LOS vs LYON (BO3) - Worlds Group Stage",
+      "slug": "lol-los-ly-2026-10-31",
+      "url": "https://polymarket.com/event/lol-los-ly-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 62.175,
+      "direction": "UP",
+      "price": 0.3,
+      "category": "sports",
+      "traderLabel": "Netrol"
     },
     {
       "time": "2026-10-31T17:40:15.000Z",
@@ -3153,6 +3501,114 @@
       "traderLabel": "chubbytoro"
     },
     {
+      "time": "2026-10-30T23:18:55.000Z",
+      "market": "LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner",
+      "slug": "lol-hle1-g2-2026-10-30",
+      "url": "https://polymarket.com/event/lol-hle1-g2-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 66.2496,
+      "direction": "G2 Esports",
+      "price": 0.32,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-30T23:17:13.000Z",
+      "market": "LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner",
+      "slug": "lol-hle1-g2-2026-10-30",
+      "url": "https://polymarket.com/event/lol-hle1-g2-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 117,
+      "direction": "G2 Esports",
+      "price": 0.39,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-30T23:15:18.000Z",
+      "market": "LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner",
+      "slug": "lol-hle1-g2-2026-10-30",
+      "url": "https://polymarket.com/event/lol-hle1-g2-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 5959.648,
+      "direction": "G2 Esports",
+      "price": 0.32,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-30T20:44:45.000Z",
+      "market": "LoL: Team Liquid vs LOS - Game 2 Winner",
+      "slug": "lol-tl2-los-2026-10-30",
+      "url": "https://polymarket.com/event/lol-tl2-los-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 34.141799999999996,
+      "direction": "LOS",
+      "price": 0.33,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-30T20:11:58.000Z",
+      "market": "LoL: Team Liquid vs LOS - Game 1 Winner",
+      "slug": "lol-tl2-los-2026-10-30",
+      "url": "https://polymarket.com/event/lol-tl2-los-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3.96,
+      "direction": "Team Liquid",
+      "price": 0.66,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-30T17:43:22.000Z",
+      "market": "LoL: Team Liquid vs LOS - Game 2 Winner",
+      "slug": "lol-tl2-los-2026-10-30",
+      "url": "https://polymarket.com/event/lol-tl2-los-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 30.0672,
+      "direction": "LOS",
+      "price": 0.29,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-30T17:43:18.000Z",
+      "market": "LoL: Team Liquid vs LOS - Game 1 Winner",
+      "slug": "lol-tl2-los-2026-10-30",
+      "url": "https://polymarket.com/event/lol-tl2-los-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 30.0672,
+      "direction": "LOS",
+      "price": 0.29,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-30T14:59:54.000Z",
+      "market": "Counter-Strike: MOUZ vs FURIA - Map 1 Winner",
+      "slug": "cs2-mouz-furia-2026-10-30",
+      "url": "https://polymarket.com/event/cs2-mouz-furia-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 64.5,
+      "direction": "FURIA",
+      "price": 0.43,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-30T14:59:27.000Z",
+      "market": "Counter-Strike: MOUZ vs FURIA - Map 1 Winner",
+      "slug": "cs2-mouz-furia-2026-10-30",
+      "url": "https://polymarket.com/event/cs2-mouz-furia-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 1917.37,
+      "direction": "FURIA",
+      "price": 0.43,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
       "time": "2026-10-30T14:20:10.000Z",
       "market": "Devils vs. Golden Knights: O/U 5.5",
       "slug": "nhl-nj-las-2026-10-30",
@@ -3163,6 +3619,18 @@
       "price": 0.44,
       "category": "sports",
       "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-30T14:03:45.000Z",
+      "market": "Counter-Strike: MOUZ vs FURIA - Map 1 Winner",
+      "slug": "cs2-mouz-furia-2026-10-30",
+      "url": "https://polymarket.com/event/cs2-mouz-furia-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 109.77959999999999,
+      "direction": "FURIA",
+      "price": 0.42,
+      "category": "sports",
+      "traderLabel": "Netrol"
     },
     {
       "time": "2026-10-30T09:56:13.000Z",
@@ -3189,6 +3657,18 @@
       "traderLabel": "chubbytoro"
     },
     {
+      "time": "2026-10-30T00:44:48.000Z",
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage",
+      "slug": "lol-tes-blg-2026-10-28",
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 38.625840000000004,
+      "direction": "UP",
+      "price": 0.132,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
       "time": "2026-10-30T00:40:55.000Z",
       "market": "Predict.fun FDV above $2.5B one day after launch?",
       "slug": "predictfun-fdv-above-one-day-after-launch",
@@ -3199,6 +3679,78 @@
       "price": 0.05,
       "category": "politics",
       "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-29T23:42:15.000Z",
+      "market": "LoL: Top Esports vs Bilibili Gaming - Game 2 Winner",
+      "slug": "lol-tes-blg-2026-10-28",
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 47.766400000000004,
+      "direction": "Top Esports",
+      "price": 0.23,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-29T22:13:33.000Z",
+      "market": "LoL: Top Esports vs Bilibili Gaming - Game 2 Winner",
+      "slug": "lol-tes-blg-2026-10-28",
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 64.2134,
+      "direction": "Top Esports",
+      "price": 0.31,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-29T22:13:31.000Z",
+      "market": "LoL: Top Esports vs Bilibili Gaming - Game 1 Winner",
+      "slug": "lol-tes-blg-2026-10-28",
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 64.2134,
+      "direction": "Top Esports",
+      "price": 0.31,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-29T22:09:24.000Z",
+      "market": "LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage",
+      "slug": "lol-kc-cfo-2026-10-29",
+      "url": "https://polymarket.com/event/lol-kc-cfo-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 10.465000000000002,
+      "direction": "UP",
+      "price": 0.1,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-29T15:23:52.000Z",
+      "market": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+      "slug": "cs2-bb3-furia-2026-10-29",
+      "url": "https://polymarket.com/event/cs2-bb3-furia-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 206.18400000000003,
+      "direction": "BetBoom Team",
+      "price": 0.4,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-29T15:23:05.000Z",
+      "market": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+      "slug": "cs2-bb3-furia-2026-10-29",
+      "url": "https://polymarket.com/event/cs2-bb3-furia-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 544.5867999736159,
+      "direction": "BetBoom Team",
+      "price": 0.3752251681,
+      "category": "sports",
+      "traderLabel": "Netrol"
     },
     {
       "time": "2026-10-29T12:55:25.000Z",
@@ -3369,6 +3921,42 @@
       "traderLabel": "chubbytoro"
     },
     {
+      "time": "2026-10-29T00:12:11.000Z",
+      "market": "Counter-Strike: Inner Circle Esports vs Astralis (BO3) - Stake Ranked Episode 5 Playoffs",
+      "slug": "cs2-ice-ast10-2026-10-29",
+      "url": "https://polymarket.com/event/cs2-ice-ast10-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 49.276799999999994,
+      "direction": "Inner Circle Esports",
+      "price": 0.48,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-29T00:11:58.000Z",
+      "market": "Counter-Strike: Inner Circle Esports vs Astralis (BO3) - Stake Ranked Episode 5 Playoffs",
+      "slug": "cs2-ice-ast10-2026-10-29",
+      "url": "https://polymarket.com/event/cs2-ice-ast10-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 344.96639999999996,
+      "direction": "Inner Circle Esports",
+      "price": 0.48,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-29T00:11:41.000Z",
+      "market": "Counter-Strike: Inner Circle Esports vs Astralis (BO3) - Stake Ranked Episode 5 Playoffs",
+      "slug": "cs2-ice-ast10-2026-10-29",
+      "url": "https://polymarket.com/event/cs2-ice-ast10-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 25626.283199999998,
+      "direction": "Inner Circle Esports",
+      "price": 0.48,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
       "time": "2026-10-29T00:03:05.000Z",
       "market": "Predict.fun FDV above $3B one day after launch?",
       "slug": "predictfun-fdv-above-one-day-after-launch",
@@ -3379,6 +3967,126 @@
       "price": 0.0494836983,
       "category": "politics",
       "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-28T23:46:17.000Z",
+      "market": "LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage",
+      "slug": "lol-ig1-ly-2026-10-28",
+      "url": "https://polymarket.com/event/lol-ig1-ly-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 42.2423,
+      "direction": "UP",
+      "price": 0.41,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-28T23:06:16.000Z",
+      "market": "Dota 2: GamerLegion vs LEGION (BO3) - PARI Universe Playoffs",
+      "slug": "dota2-gl-legion1-2026-10-28",
+      "url": "https://polymarket.com/event/dota2-gl-legion1-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 95.84960000000001,
+      "direction": "LEGION",
+      "price": 0.28,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-28T23:05:20.000Z",
+      "market": "Dota 2: GamerLegion vs LEGION (BO3) - PARI Universe Playoffs",
+      "slug": "dota2-gl-legion1-2026-10-28",
+      "url": "https://polymarket.com/event/dota2-gl-legion1-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 157.45589999999999,
+      "direction": "LEGION",
+      "price": 0.27,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-28T22:04:22.000Z",
+      "market": "Dota 2: GamerLegion vs LEGION (BO3) - PARI Universe Playoffs",
+      "slug": "dota2-gl-legion1-2026-10-28",
+      "url": "https://polymarket.com/event/dota2-gl-legion1-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 155.724799992055,
+      "direction": "GamerLegion",
+      "price": 0.5066363015,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-28T22:03:55.000Z",
+      "market": "Dota 2: GamerLegion vs LEGION (BO3) - PARI Universe Playoffs",
+      "slug": "dota2-gl-legion1-2026-10-28",
+      "url": "https://polymarket.com/event/dota2-gl-legion1-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1065.657800057382,
+      "direction": "GamerLegion",
+      "price": 0.5168630019,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-28T22:02:23.000Z",
+      "market": "Dota 2: GamerLegion vs LEGION (BO3) - PARI Universe Playoffs",
+      "slug": "dota2-gl-legion1-2026-10-28",
+      "url": "https://polymarket.com/event/dota2-gl-legion1-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 340,
+      "direction": "GamerLegion",
+      "price": 0.5,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-28T21:13:41.000Z",
+      "market": "LoL: Movistar KOI vs T1 - Game 2 Winner",
+      "slug": "lol-mkoi-t1-2026-10-29",
+      "url": "https://polymarket.com/event/lol-mkoi-t1-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 218.63519999999997,
+      "direction": "Movistar KOI",
+      "price": 0.21,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-28T21:12:37.000Z",
+      "market": "LoL: Movistar KOI vs T1 - Game 2 Winner",
+      "slug": "lol-mkoi-t1-2026-10-29",
+      "url": "https://polymarket.com/event/lol-mkoi-t1-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2290.2044,
+      "direction": "Movistar KOI",
+      "price": 0.22,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-28T20:13:43.000Z",
+      "market": "LoL: Movistar KOI vs T1 - Game 2 Winner",
+      "slug": "lol-mkoi-t1-2026-10-29",
+      "url": "https://polymarket.com/event/lol-mkoi-t1-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 29.87,
+      "direction": "Movistar KOI",
+      "price": 0.25,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-28T20:13:41.000Z",
+      "market": "LoL: Movistar KOI vs T1 - Game 1 Winner",
+      "slug": "lol-mkoi-t1-2026-10-29",
+      "url": "https://polymarket.com/event/lol-mkoi-t1-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 31.0466,
+      "direction": "Movistar KOI",
+      "price": 0.26,
+      "category": "sports",
+      "traderLabel": "Netrol"
     },
     {
       "time": "2026-10-28T15:03:29.000Z",
@@ -3463,6 +4171,18 @@
       "price": 0.21,
       "category": "sports",
       "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-28T11:12:22.000Z",
+      "market": "Dota 2: PARIVISION vs Team Liquid - Game 2 Winner",
+      "slug": "dota2-pari-liquid-2026-10-28",
+      "url": "https://polymarket.com/event/dota2-pari-liquid-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 27.1388,
+      "direction": "Team Liquid",
+      "price": 0.13,
+      "category": "sports",
+      "traderLabel": "Netrol"
     },
     {
       "time": "2026-10-28T10:36:14.000Z",
@@ -3585,6 +4305,18 @@
       "traderLabel": "chubbytoro"
     },
     {
+      "time": "2026-10-27T17:09:23.000Z",
+      "market": "Counter-Strike: Spirit vs MOUZ (BO3) - PGL Masters Bucharest Group Stage",
+      "slug": "cs2-ts7-mouz-2026-10-27",
+      "url": "https://polymarket.com/event/cs2-ts7-mouz-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 98.0064,
+      "direction": "UP",
+      "price": 0.32,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
       "time": "2026-10-27T17:06:42.000Z",
       "market": "Spread: Stars (-1.5)",
       "slug": "nhl-nj-dal-2026-10-27",
@@ -3631,6 +4363,30 @@
       "price": 0.3645,
       "category": "politics",
       "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-27T16:06:53.000Z",
+      "market": "Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs",
+      "slug": "cs2-ast10-fnc-2026-10-27",
+      "url": "https://polymarket.com/event/cs2-ast10-fnc-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 159,
+      "direction": "Astralis",
+      "price": 0.53,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-27T16:05:39.000Z",
+      "market": "Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs",
+      "slug": "cs2-ast10-fnc-2026-10-27",
+      "url": "https://polymarket.com/event/cs2-ast10-fnc-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 25979.5458,
+      "direction": "Astralis",
+      "price": 0.54,
+      "category": "sports",
+      "traderLabel": "Netrol"
     },
     {
       "time": "2026-10-27T15:57:26.000Z",
@@ -3715,6 +4471,42 @@
       "price": 0.6,
       "category": "sports",
       "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T14:24:56.000Z",
+      "market": "Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs",
+      "slug": "cs2-ast10-fnc-2026-10-27",
+      "url": "https://polymarket.com/event/cs2-ast10-fnc-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 45.126400000000004,
+      "direction": "Astralis",
+      "price": 0.44,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-27T14:23:39.000Z",
+      "market": "Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs",
+      "slug": "cs2-ast10-fnc-2026-10-27",
+      "url": "https://polymarket.com/event/cs2-ast10-fnc-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 447.43430000219706,
+      "direction": "Astralis",
+      "price": 0.4847241271,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-10-27T14:23:06.000Z",
+      "market": "Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs",
+      "slug": "cs2-ast10-fnc-2026-10-27",
+      "url": "https://polymarket.com/event/cs2-ast10-fnc-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 26949.28560122862,
+      "direction": "Astralis",
+      "price": 0.4957651994,
+      "category": "sports",
+      "traderLabel": "Netrol"
     },
     {
       "time": "2026-10-27T12:42:14.000Z",
@@ -3802,5 +4594,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T04:52:02.722Z"
+  "generatedAt": "2026-11-03T04:57:24.202Z"
 }
