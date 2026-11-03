@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T20:11:45.179Z",
+    "saved_at": "2026-11-03T20:48:28.130Z",
     "version": "smart v2",
-    "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
-    "tracked_label": "VeryLucky888",
-    "total_alerts": 56,
-    "total_volume": 151724.5769050184,
-    "today_trades": 86,
-    "uptime_seconds": 54545,
-    "last_poll": "2026-11-03T20:09:23.023Z"
+    "tracked_address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
+    "tracked_label": "Netrol",
+    "total_alerts": 57,
+    "total_volume": 173507.8172050184,
+    "today_trades": 87,
+    "uptime_seconds": 56748,
+    "last_poll": "2026-11-03T20:46:05.815Z"
   },
   "categories": {
     "sports": {
@@ -242,13 +242,24 @@
       ]
     },
     "politics": {
-      "count": 30,
-      "buyCount": 23,
+      "count": 31,
+      "buyCount": 24,
       "sellCount": 7,
-      "buyVolume": 60370.6341151114,
+      "buyVolume": 82153.87441511141,
       "sellVolume": 22445.48949,
-      "totalVolume": 82816.12360511141,
+      "totalVolume": 104599.36390511142,
       "recentTrades": [
+        {
+          "time": "2026-11-03T20:35:21.000Z",
+          "market": "Will the Republicans win the Florida governor race in 2026?",
+          "slug": "florida-governor-winner-2026",
+          "url": "https://polymarket.com/event/florida-governor-winner-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 21783.2403,
+          "direction": "UP",
+          "price": 0.61,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-11-03T18:09:12.000Z",
           "market": "Will the Republicans win the Texas governor race in 2026?",
@@ -457,17 +468,6 @@
           "direction": "UP",
           "price": 0.17,
           "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-03T13:21:30.000Z",
-          "market": "Will Donald Trump publicly insult someone on November 3, 2026?",
-          "slug": "will-trump-publicly-insult-someone-on-november-2026",
-          "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on-november-2026?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 844.6090060347822,
-          "direction": "UP",
-          "price": 0.9989296523,
-          "outcome": "Yes"
         }
       ]
     },
@@ -655,6 +655,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T20:35:21.000Z",
+      "market": "Will the Republicans win the Florida governor race in 2026?",
+      "slug": "florida-governor-winner-2026",
+      "url": "https://polymarket.com/event/florida-governor-winner-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 21783.2403,
+      "direction": "UP",
+      "price": 0.61,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
     {
       "time": "2026-11-03T19:55:55.000Z",
       "market": "Spread: Penguins (-1.5)",
@@ -1689,5 +1701,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T20:46:04.257Z"
+  "generatedAt": "2026-11-03T20:53:43.803Z"
 }
