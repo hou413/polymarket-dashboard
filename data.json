@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T15:14:51.473Z",
+    "saved_at": "2026-11-03T15:25:47.425Z",
     "version": "smart v2",
-    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
-    "tracked_label": "chubbytoro",
-    "total_alerts": 43,
-    "total_volume": 79649.07990502309,
-    "today_trades": 66,
-    "uptime_seconds": 36731,
-    "last_poll": "2026-11-03T15:12:29.003Z"
+    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
+    "tracked_label": "fantasy7788",
+    "total_alerts": 46,
+    "total_volume": 82537.5498150184,
+    "today_trades": 74,
+    "uptime_seconds": 37387,
+    "last_poll": "2026-11-03T15:23:23.867Z"
   },
   "categories": {
     "sports": {
@@ -242,13 +242,101 @@
       ]
     },
     "politics": {
-      "count": 18,
-      "buyCount": 14,
-      "sellCount": 4,
-      "buyVolume": 24996.641305116078,
-      "sellVolume": 21592.103900000002,
-      "totalVolume": 46588.74520511608,
+      "count": 26,
+      "buyCount": 21,
+      "sellCount": 5,
+      "buyVolume": 27835.1112151114,
+      "sellVolume": 21642.103900000002,
+      "totalVolume": 49477.2151151114,
       "recentTrades": [
+        {
+          "time": "2026-11-03T15:18:46.000Z",
+          "market": "US announces end of Iranian blockade by November 15, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 50,
+          "direction": "UP",
+          "price": 0.1,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-03T15:18:27.000Z",
+          "market": "US announces end of Iranian blockade by November 30, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 202.5,
+          "direction": "DOWN",
+          "price": 0.75,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T15:13:57.000Z",
+          "market": "US announces end of Iranian blockade by December 31, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 400.627559995317,
+          "direction": "DOWN",
+          "price": 0.5852764167,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T15:12:46.000Z",
+          "market": "US announces end of Iranian blockade by December 31, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 583.63595,
+          "direction": "DOWN",
+          "price": 0.58363595,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T15:11:13.000Z",
+          "market": "US announces end of Iranian blockade by November 15, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 110,
+          "direction": "UP",
+          "price": 0.11,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-03T15:08:48.000Z",
+          "market": "US announces end of Iranian blockade by November 30, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 1187.025,
+          "direction": "DOWN",
+          "price": 0.75,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T15:08:42.000Z",
+          "market": "US announces end of Iranian blockade by November 15, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 110,
+          "direction": "UP",
+          "price": 0.11,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-03T15:06:16.000Z",
+          "market": "US announces end of Iranian blockade by November 30, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 244.6814,
+          "direction": "DOWN",
+          "price": 0.73,
+          "outcome": "No"
+        },
         {
           "time": "2026-11-03T13:55:51.000Z",
           "market": "Pete Hegseth out as Secretary of Defense by December 31?",
@@ -379,72 +467,6 @@
           "value": 839.9235999623099,
           "direction": "UP",
           "price": 0.9655404069,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-03T05:17:43.000Z",
-          "market": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?",
-          "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 2700,
-          "direction": "UP",
-          "price": 0.06,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-03T05:15:55.000Z",
-          "market": "Will Republicans win Iowa and Maine, and lose Alaska, Kansas, Michigan, Ohio, and Texas?",
-          "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 607.75,
-          "direction": "UP",
-          "price": 0.0189921875,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-03T05:10:15.000Z",
-          "market": "US announces end of Iranian blockade by November 15, 2026?",
-          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
-          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 40.7693,
-          "direction": "UP",
-          "price": 0.11,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-03T04:55:58.000Z",
-          "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-          "slug": "which-party-will-win-the-senate-in-2026",
-          "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 11578.0664,
-          "direction": "UP",
-          "price": 0.231561328,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-03T04:54:27.000Z",
-          "market": "2026 Balance of Power: D Senate, D House",
-          "slug": "balance-of-power-2026-midterms",
-          "url": "https://polymarket.com/event/balance-of-power-2026-midterms?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 15938.9784,
-          "direction": "UP",
-          "price": 0.76,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-03T04:53:00.000Z",
-          "market": "Will the Republicans win the Texas Senate race in 2026?",
-          "slug": "texas-senate-election-winner",
-          "url": "https://polymarket.com/event/texas-senate-election-winner?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 9212.0375,
-          "direction": "UP",
-          "price": 0.25,
           "outcome": "Yes"
         }
       ]
@@ -622,6 +644,102 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T15:18:46.000Z",
+      "market": "US announces end of Iranian blockade by November 15, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 50,
+      "direction": "UP",
+      "price": 0.1,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T15:18:27.000Z",
+      "market": "US announces end of Iranian blockade by November 30, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 202.5,
+      "direction": "DOWN",
+      "price": 0.75,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T15:13:57.000Z",
+      "market": "US announces end of Iranian blockade by December 31, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 400.627559995317,
+      "direction": "DOWN",
+      "price": 0.5852764167,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T15:12:46.000Z",
+      "market": "US announces end of Iranian blockade by December 31, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 583.63595,
+      "direction": "DOWN",
+      "price": 0.58363595,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T15:11:13.000Z",
+      "market": "US announces end of Iranian blockade by November 15, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 110,
+      "direction": "UP",
+      "price": 0.11,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T15:08:48.000Z",
+      "market": "US announces end of Iranian blockade by November 30, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1187.025,
+      "direction": "DOWN",
+      "price": 0.75,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T15:08:42.000Z",
+      "market": "US announces end of Iranian blockade by November 15, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 110,
+      "direction": "UP",
+      "price": 0.11,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T15:06:16.000Z",
+      "market": "US announces end of Iranian blockade by November 30, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 244.6814,
+      "direction": "DOWN",
+      "price": 0.73,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-03T15:02:51.000Z",
       "market": "Spread: Jets (-1.5)",
@@ -1416,5 +1534,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T15:18:18.118Z"
+  "generatedAt": "2026-11-03T15:25:56.425Z"
 }
