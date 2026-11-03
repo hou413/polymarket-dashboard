@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T15:45:24.519Z",
+    "saved_at": "2026-11-03T16:04:42.701Z",
     "version": "smart v2",
     "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
     "tracked_label": "fantasy7788",
-    "total_alerts": 46,
-    "total_volume": 82537.5498150184,
-    "today_trades": 74,
-    "uptime_seconds": 38564,
-    "last_poll": "2026-11-03T15:43:03.161Z"
+    "total_alerts": 47,
+    "total_volume": 82552.6182150184,
+    "today_trades": 75,
+    "uptime_seconds": 39722,
+    "last_poll": "2026-11-03T16:02:30.572Z"
   },
   "categories": {
     "sports": {
@@ -481,13 +481,24 @@
       "recentTrades": []
     },
     "tech": {
-      "count": 13,
-      "buyCount": 13,
+      "count": 14,
+      "buyCount": 14,
       "sellCount": 0,
-      "buyVolume": 3754.064599775653,
+      "buyVolume": 3769.132999775653,
       "sellVolume": 0,
-      "totalVolume": 3754.064599775653,
+      "totalVolume": 3769.132999775653,
       "recentTrades": [
+        {
+          "time": "2026-11-03T15:51:37.000Z",
+          "market": "Will Crude Oil reach a new all-time high by December 31?",
+          "slug": "crude-oil-all-time-high-by",
+          "url": "https://polymarket.com/event/crude-oil-all-time-high-by?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 15.068399999999999,
+          "direction": "UP",
+          "price": 0.12,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-11-03T14:13:13.000Z",
           "market": "Will WTI Crude Oil (WTI) hit (HIGH) $125 in November?",
@@ -644,6 +655,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T15:51:37.000Z",
+      "market": "Will Crude Oil reach a new all-time high by December 31?",
+      "slug": "crude-oil-all-time-high-by",
+      "url": "https://polymarket.com/event/crude-oil-all-time-high-by?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 15.068399999999999,
+      "direction": "UP",
+      "price": 0.12,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-03T15:18:46.000Z",
       "market": "US announces end of Iranian blockade by November 15, 2026?",
@@ -1534,5 +1557,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T16:01:16.034Z"
+  "generatedAt": "2026-11-03T16:06:18.757Z"
 }
