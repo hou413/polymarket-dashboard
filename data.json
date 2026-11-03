@@ -1,24 +1,35 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T20:48:28.130Z",
+    "saved_at": "2026-11-03T21:25:43.792Z",
     "version": "smart v2",
-    "tracked_address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
-    "tracked_label": "Netrol",
-    "total_alerts": 57,
-    "total_volume": 173507.8172050184,
-    "today_trades": 87,
-    "uptime_seconds": 56748,
-    "last_poll": "2026-11-03T20:46:05.815Z"
+    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+    "tracked_label": "chubbytoro",
+    "total_alerts": 58,
+    "total_volume": 175836.9991050184,
+    "today_trades": 88,
+    "uptime_seconds": 58983,
+    "last_poll": "2026-11-03T21:23:21.191Z"
   },
   "categories": {
     "sports": {
-      "count": 42,
-      "buyCount": 34,
+      "count": 43,
+      "buyCount": 35,
       "sellCount": 8,
-      "buyVolume": 60318.42530013135,
+      "buyVolume": 62647.60720013135,
       "sellVolume": 4820.8949999999995,
-      "totalVolume": 65139.320300131345,
+      "totalVolume": 67468.50220013135,
       "recentTrades": [
+        {
+          "time": "2026-11-03T20:51:09.000Z",
+          "market": "Spread: Penguins (-1.5)",
+          "slug": "nhl-las-pit-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-las-pit-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 2329.1819,
+          "direction": "Penguins",
+          "price": 0.31,
+          "outcome": "Penguins"
+        },
         {
           "time": "2026-11-03T19:55:55.000Z",
           "market": "Spread: Penguins (-1.5)",
@@ -227,17 +238,6 @@
           "direction": "Blue Jackets",
           "price": 0.45,
           "outcome": "Blue Jackets"
-        },
-        {
-          "time": "2026-11-03T09:07:45.000Z",
-          "market": "Jets vs. Canadiens",
-          "slug": "nhl-wpg-mon-2026-11-03",
-          "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 3866.1408,
-          "direction": "Jets",
-          "price": 0.36,
-          "outcome": "Jets"
         }
       ]
     },
@@ -655,6 +655,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T20:51:09.000Z",
+      "market": "Spread: Penguins (-1.5)",
+      "slug": "nhl-las-pit-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-las-pit-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2329.1819,
+      "direction": "Penguins",
+      "price": 0.31,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
     {
       "time": "2026-11-03T20:35:21.000Z",
       "market": "Will the Republicans win the Florida governor race in 2026?",
@@ -1701,5 +1713,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T21:21:48.082Z"
+  "generatedAt": "2026-11-03T21:26:50.778Z"
 }
