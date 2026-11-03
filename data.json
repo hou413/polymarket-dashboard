@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T14:16:07.666Z",
+    "saved_at": "2026-11-03T14:26:52.894Z",
     "version": "smart v2",
-    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
-    "tracked_label": "chubbytoro",
-    "total_alerts": 39,
-    "total_volume": 74906.42700507585,
-    "today_trades": 61,
-    "uptime_seconds": 33207,
-    "last_poll": "2026-11-03T14:13:45.262Z"
+    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
+    "tracked_label": "fantasy7788",
+    "total_alerts": 41,
+    "total_volume": 75096.63700507586,
+    "today_trades": 63,
+    "uptime_seconds": 33852,
+    "last_poll": "2026-11-03T14:24:30.169Z"
   },
   "categories": {
     "sports": {
@@ -459,13 +459,35 @@
       "recentTrades": []
     },
     "tech": {
-      "count": 11,
-      "buyCount": 11,
+      "count": 13,
+      "buyCount": 13,
       "sellCount": 0,
-      "buyVolume": 3563.854599775653,
+      "buyVolume": 3754.064599775653,
       "sellVolume": 0,
-      "totalVolume": 3563.854599775653,
+      "totalVolume": 3754.064599775653,
       "recentTrades": [
+        {
+          "time": "2026-11-03T14:13:13.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (HIGH) $125 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 45.21,
+          "direction": "UP",
+          "price": 0.11,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-03T14:12:45.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 145,
+          "direction": "UP",
+          "price": 0.05,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-11-03T14:03:57.000Z",
           "market": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
@@ -600,6 +622,30 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T14:13:13.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (HIGH) $125 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 45.21,
+      "direction": "UP",
+      "price": 0.11,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T14:12:45.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 145,
+      "direction": "UP",
+      "price": 0.05,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-03T14:06:33.000Z",
       "market": "Jets vs. Canadiens",
@@ -1334,5 +1380,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T14:24:55.582Z"
+  "generatedAt": "2026-11-03T14:29:58.771Z"
 }
