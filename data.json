@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T23:46:31.267Z",
+    "saved_at": "2026-11-03T23:53:03.900Z",
     "version": "smart v2",
-    "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
-    "tracked_label": "VeryLucky888",
-    "total_alerts": 65,
-    "total_volume": 246673.12090501492,
-    "today_trades": 98,
-    "uptime_seconds": 67431,
-    "last_poll": "2026-11-03T23:44:18.955Z"
+    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
+    "tracked_label": "fantasy7788",
+    "total_alerts": 66,
+    "total_volume": 247113.12090501492,
+    "today_trades": 99,
+    "uptime_seconds": 67823,
+    "last_poll": "2026-11-03T23:50:41.863Z"
   },
   "categories": {
     "sports": {
@@ -242,13 +242,24 @@
       ]
     },
     "politics": {
-      "count": 33,
-      "buyCount": 25,
+      "count": 34,
+      "buyCount": 26,
       "sellCount": 8,
-      "buyVolume": 82372.1544151114,
+      "buyVolume": 82812.1544151114,
       "sellVolume": 40836.664690000005,
-      "totalVolume": 123208.81910511141,
+      "totalVolume": 123648.81910511141,
       "recentTrades": [
+        {
+          "time": "2026-11-03T23:35:39.000Z",
+          "market": "US announces end of Iranian blockade by November 15, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 440,
+          "direction": "UP",
+          "price": 0.1,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-11-03T23:12:21.000Z",
           "market": "Will the Democrats win the Florida governor race in 2026?",
@@ -457,17 +468,6 @@
           "direction": "UP",
           "price": 0.17,
           "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-03T13:31:01.000Z",
-          "market": "US announces end of Iranian blockade by November 30, 2026?",
-          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
-          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 206.99999999999997,
-          "direction": "DOWN",
-          "price": 0.69,
-          "outcome": "No"
         }
       ]
     },
@@ -677,6 +677,18 @@
       "price": 0.64,
       "category": "sports",
       "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-03T23:35:39.000Z",
+      "market": "US announces end of Iranian blockade by November 15, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 440,
+      "direction": "UP",
+      "price": 0.1,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
     },
     {
       "time": "2026-11-03T23:27:39.000Z",
@@ -1844,5 +1856,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T23:49:11.929Z"
+  "generatedAt": "2026-11-03T23:55:42.432Z"
 }
