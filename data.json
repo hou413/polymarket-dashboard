@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T23:25:11.175Z",
+    "saved_at": "2026-11-03T23:33:54.477Z",
     "version": "smart v2",
-    "tracked_address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
-    "tracked_label": "Netrol",
-    "total_alerts": 62,
-    "total_volume": 234471.01810503946,
-    "today_trades": 94,
-    "uptime_seconds": 66151,
-    "last_poll": "2026-11-03T23:22:48.263Z"
+    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
+    "tracked_label": "fantasy7788",
+    "total_alerts": 63,
+    "total_volume": 235552.01810501493,
+    "today_trades": 95,
+    "uptime_seconds": 66674,
+    "last_poll": "2026-11-03T23:31:32.405Z"
   },
   "categories": {
     "sports": {
@@ -481,13 +481,24 @@
       "recentTrades": []
     },
     "tech": {
-      "count": 14,
-      "buyCount": 14,
+      "count": 15,
+      "buyCount": 15,
       "sellCount": 0,
-      "buyVolume": 3769.132999775653,
+      "buyVolume": 4850.1329997511175,
       "sellVolume": 0,
-      "totalVolume": 3769.132999775653,
+      "totalVolume": 4850.1329997511175,
       "recentTrades": [
+        {
+          "time": "2026-11-03T23:27:39.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 1080.9999999754648,
+          "direction": "DOWN",
+          "price": 0.412760464,
+          "outcome": "No"
+        },
         {
           "time": "2026-11-03T15:51:37.000Z",
           "market": "Will Crude Oil reach a new all-time high by December 31?",
@@ -655,6 +666,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T23:27:39.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1080.9999999754648,
+      "direction": "DOWN",
+      "price": 0.412760464,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-03T23:12:21.000Z",
       "market": "Will the Democrats win the Florida governor race in 2026?",
@@ -1785,5 +1808,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T23:31:46.281Z"
+  "generatedAt": "2026-11-03T23:36:48.833Z"
 }
