@@ -1,24 +1,35 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T09:41:20.200Z",
+    "saved_at": "2026-11-03T13:17:35.630Z",
     "version": "smart v2",
-    "tracked_address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
-    "tracked_label": "sports_whale_1",
-    "total_alerts": 28,
-    "total_volume": 66146.02320015526,
-    "today_trades": 42,
-    "uptime_seconds": 16720,
-    "last_poll": "2026-11-03T09:38:57.784Z"
+    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+    "tracked_label": "chubbytoro",
+    "total_alerts": 29,
+    "total_volume": 66149.41020015527,
+    "today_trades": 43,
+    "uptime_seconds": 29695,
+    "last_poll": "2026-11-03T13:15:23.204Z"
   },
   "categories": {
     "sports": {
-      "count": 30,
-      "buyCount": 23,
+      "count": 31,
+      "buyCount": 24,
       "sellCount": 7,
-      "buyVolume": 18644.748400184122,
+      "buyVolume": 18648.13540018412,
       "sellVolume": 4235.8949999999995,
-      "totalVolume": 22880.643400184123,
+      "totalVolume": 22884.03040018412,
       "recentTrades": [
+        {
+          "time": "2026-11-03T13:17:15.000Z",
+          "market": "Spread: Rangers (-1.5)",
+          "slug": "nhl-stl-nyr-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-stl-nyr-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 3.3869999999999996,
+          "direction": "Rangers",
+          "price": 0.3,
+          "outcome": "Rangers"
+        },
         {
           "time": "2026-11-03T09:24:18.000Z",
           "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
@@ -227,17 +238,6 @@
           "direction": "Suns",
           "price": 0.35,
           "outcome": "Suns"
-        },
-        {
-          "time": "2026-11-03T05:02:22.000Z",
-          "market": "Spread: Suns (-11.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 53.94,
-          "direction": "Suns",
-          "price": 0.12,
-          "outcome": "Suns"
         }
       ]
     },
@@ -413,6 +413,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T13:17:15.000Z",
+      "market": "Spread: Rangers (-1.5)",
+      "slug": "nhl-stl-nyr-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-stl-nyr-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3.3869999999999996,
+      "direction": "Rangers",
+      "price": 0.3,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
     {
       "time": "2026-11-03T09:24:18.000Z",
       "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
@@ -919,5 +931,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T13:16:54.685Z"
+  "generatedAt": "2026-11-03T13:21:57.142Z"
 }
