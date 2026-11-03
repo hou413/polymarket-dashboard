@@ -1,24 +1,35 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T21:25:43.792Z",
+    "saved_at": "2026-11-03T21:49:42.437Z",
     "version": "smart v2",
-    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
-    "tracked_label": "chubbytoro",
-    "total_alerts": 58,
-    "total_volume": 175836.9991050184,
-    "today_trades": 88,
-    "uptime_seconds": 58983,
-    "last_poll": "2026-11-03T21:23:21.191Z"
+    "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+    "tracked_label": "VeryLucky888",
+    "total_alerts": 59,
+    "total_volume": 214448.3491050184,
+    "today_trades": 89,
+    "uptime_seconds": 60422,
+    "last_poll": "2026-11-03T21:47:20.171Z"
   },
   "categories": {
     "sports": {
-      "count": 43,
+      "count": 44,
       "buyCount": 35,
-      "sellCount": 8,
+      "sellCount": 9,
       "buyVolume": 62647.60720013135,
-      "sellVolume": 4820.8949999999995,
-      "totalVolume": 67468.50220013135,
+      "sellVolume": 43432.244999999995,
+      "totalVolume": 106079.85220013134,
       "recentTrades": [
+        {
+          "time": "2026-11-03T21:49:18.000Z",
+          "market": "Spread: Paris Saint-Germain FC (-1.5)",
+          "slug": "ucl-vil-psg-2026-11-03-more-markets",
+          "url": "https://polymarket.com/event/ucl-vil-psg-2026-11-03-more-markets?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 38611.35,
+          "direction": "Paris Saint-Germain FC",
+          "price": 0.999,
+          "outcome": "Paris Saint-Germain FC"
+        },
         {
           "time": "2026-11-03T20:51:09.000Z",
           "market": "Spread: Penguins (-1.5)",
@@ -226,17 +237,6 @@
           "value": 3713.6408997865683,
           "direction": "Blue Jackets",
           "price": 0.4595669332,
-          "outcome": "Blue Jackets"
-        },
-        {
-          "time": "2026-11-03T09:10:00.000Z",
-          "market": "Avalanche vs. Blue Jackets",
-          "slug": "nhl-col-cbj-2026-11-03",
-          "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 4050,
-          "direction": "Blue Jackets",
-          "price": 0.45,
           "outcome": "Blue Jackets"
         }
       ]
@@ -655,6 +655,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T21:49:18.000Z",
+      "market": "Spread: Paris Saint-Germain FC (-1.5)",
+      "slug": "ucl-vil-psg-2026-11-03-more-markets",
+      "url": "https://polymarket.com/event/ucl-vil-psg-2026-11-03-more-markets?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 38611.35,
+      "direction": "Paris Saint-Germain FC",
+      "price": 0.999,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
     {
       "time": "2026-11-03T20:51:09.000Z",
       "market": "Spread: Penguins (-1.5)",
@@ -1713,5 +1725,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T21:48:28.990Z"
+  "generatedAt": "2026-11-03T21:53:31.491Z"
 }
