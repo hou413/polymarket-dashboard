@@ -1,24 +1,46 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T05:31:13.537Z",
+    "saved_at": "2026-11-03T05:46:29.831Z",
     "version": "smart v2",
-    "tracked_address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
-    "tracked_label": "Netrol",
-    "total_alerts": 17,
-    "total_volume": 43254.503599997544,
-    "today_trades": 25,
-    "uptime_seconds": 1713,
-    "last_poll": "2026-11-03T05:28:50.518Z"
+    "tracked_address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+    "tracked_label": "sports_whale_1",
+    "total_alerts": 18,
+    "total_volume": 43741.893599997544,
+    "today_trades": 27,
+    "uptime_seconds": 2629,
+    "last_poll": "2026-11-03T05:44:07.293Z"
   },
   "categories": {
     "sports": {
-      "count": 19,
+      "count": 21,
       "buyCount": 16,
-      "sellCount": 3,
+      "sellCount": 5,
       "buyVolume": 1659.67699999755,
-      "sellVolume": 1517.225,
-      "totalVolume": 3176.90199999755,
+      "sellVolume": 2004.6149999999998,
+      "totalVolume": 3664.2919999975497,
       "recentTrades": [
+        {
+          "time": "2026-11-03T05:32:00.000Z",
+          "market": "Spread: Clippers (-2.5)",
+          "slug": "nba-tor-lac-2026-11-02",
+          "url": "https://polymarket.com/event/nba-tor-lac-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 243.695,
+          "direction": "Clippers",
+          "price": 0.61,
+          "outcome": "Clippers"
+        },
+        {
+          "time": "2026-11-03T05:32:00.000Z",
+          "market": "Spread: Clippers (-2.5)",
+          "slug": "nba-tor-lac-2026-11-02",
+          "url": "https://polymarket.com/event/nba-tor-lac-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 243.695,
+          "direction": "Clippers",
+          "price": 0.61,
+          "outcome": "Clippers"
+        },
         {
           "time": "2026-11-03T05:24:25.000Z",
           "market": "Spread: Raptors (-1.5)",
@@ -216,17 +238,6 @@
           "direction": "DOWN",
           "price": 0.5,
           "outcome": "Under"
-        },
-        {
-          "time": "2026-11-03T04:45:24.000Z",
-          "market": "Suns vs. Warriors: O/U 227.5",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 12.419999999999998,
-          "direction": "UP",
-          "price": 0.69,
-          "outcome": "Over"
         }
       ]
     },
@@ -335,6 +346,30 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T05:32:00.000Z",
+      "market": "Spread: Clippers (-2.5)",
+      "slug": "nba-tor-lac-2026-11-02",
+      "url": "https://polymarket.com/event/nba-tor-lac-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 243.695,
+      "direction": "Clippers",
+      "price": 0.61,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T05:32:00.000Z",
+      "market": "Spread: Clippers (-2.5)",
+      "slug": "nba-tor-lac-2026-11-02",
+      "url": "https://polymarket.com/event/nba-tor-lac-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 243.695,
+      "direction": "Clippers",
+      "price": 0.61,
+      "category": "sports",
+      "traderLabel": ""
+    },
     {
       "time": "2026-11-03T05:24:25.000Z",
       "market": "Spread: Raptors (-1.5)",
@@ -637,5 +672,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T05:45:42.390Z"
+  "generatedAt": "2026-11-03T05:50:44.778Z"
 }
