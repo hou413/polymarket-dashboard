@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T13:47:49.140Z",
+    "saved_at": "2026-11-03T14:07:23.767Z",
     "version": "smart v2",
     "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
     "tracked_label": "fantasy7788",
-    "total_alerts": 33,
-    "total_volume": 69000.76920531511,
-    "today_trades": 50,
-    "uptime_seconds": 31509,
-    "last_poll": "2026-11-03T13:45:25.730Z"
+    "total_alerts": 38,
+    "total_volume": 73036.63020507585,
+    "today_trades": 60,
+    "uptime_seconds": 32683,
+    "last_poll": "2026-11-03T14:05:08.715Z"
   },
   "categories": {
     "sports": {
@@ -242,13 +242,35 @@
       ]
     },
     "politics": {
-      "count": 16,
-      "buyCount": 12,
+      "count": 18,
+      "buyCount": 14,
       "sellCount": 4,
-      "buyVolume": 24187.26610512216,
+      "buyVolume": 24996.641305116078,
       "sellVolume": 21592.103900000002,
-      "totalVolume": 45779.37000512216,
+      "totalVolume": 46588.74520511608,
       "recentTrades": [
+        {
+          "time": "2026-11-03T13:55:51.000Z",
+          "market": "Pete Hegseth out as Secretary of Defense by December 31?",
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+          "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 644.11,
+          "direction": "DOWN",
+          "price": 0.64411,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T13:55:30.000Z",
+          "market": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 165.26519999392,
+          "direction": "DOWN",
+          "price": 0.749570029,
+          "outcome": "No"
+        },
         {
           "time": "2026-11-03T13:35:22.000Z",
           "market": "US announces end of Iranian blockade by November 30, 2026?",
@@ -437,13 +459,101 @@
       "recentTrades": []
     },
     "tech": {
-      "count": 3,
-      "buyCount": 3,
+      "count": 11,
+      "buyCount": 11,
       "sellCount": 0,
-      "buyVolume": 337.36880000883536,
+      "buyVolume": 3563.854599775653,
       "sellVolume": 0,
-      "totalVolume": 337.36880000883536,
+      "totalVolume": 3563.854599775653,
       "recentTrades": [
+        {
+          "time": "2026-11-03T14:03:57.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 5.8999999999999995,
+          "direction": "DOWN",
+          "price": 0.59,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T14:03:39.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 41.39000000572759,
+          "direction": "DOWN",
+          "price": 0.2899999999,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T14:00:40.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 145,
+          "direction": "DOWN",
+          "price": 0.58,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T14:00:15.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (HIGH) $150 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 25.25,
+          "direction": "UP",
+          "price": 0.025,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-03T13:59:24.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 1318.5,
+          "direction": "DOWN",
+          "price": 0.586,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T13:49:52.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 10.9458,
+          "direction": "DOWN",
+          "price": 0.27,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T13:48:00.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 7.500000001238487,
+          "direction": "DOWN",
+          "price": 0.2809605615,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T13:47:51.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 1671.9999997598513,
+          "direction": "DOWN",
+          "price": 0.2699838526,
+          "outcome": "No"
+        },
         {
           "time": "2026-11-03T06:51:00.000Z",
           "market": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in November?",
@@ -490,6 +600,126 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T14:03:57.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 5.8999999999999995,
+      "direction": "DOWN",
+      "price": 0.59,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T14:03:39.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 41.39000000572759,
+      "direction": "DOWN",
+      "price": 0.2899999999,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T14:00:40.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 145,
+      "direction": "DOWN",
+      "price": 0.58,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T14:00:15.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (HIGH) $150 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 25.25,
+      "direction": "UP",
+      "price": 0.025,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T13:59:24.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1318.5,
+      "direction": "DOWN",
+      "price": 0.586,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T13:55:51.000Z",
+      "market": "Pete Hegseth out as Secretary of Defense by December 31?",
+      "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+      "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 644.11,
+      "direction": "DOWN",
+      "price": 0.64411,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T13:55:30.000Z",
+      "market": "Pete Hegseth out as Secretary of Defense by November 30?",
+      "slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+      "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 165.26519999392,
+      "direction": "DOWN",
+      "price": 0.749570029,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T13:49:52.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 10.9458,
+      "direction": "DOWN",
+      "price": 0.27,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T13:48:00.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 7.500000001238487,
+      "direction": "DOWN",
+      "price": 0.2809605615,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T13:47:51.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1671.9999997598513,
+      "direction": "DOWN",
+      "price": 0.2699838526,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-03T13:35:22.000Z",
       "market": "US announces end of Iranian blockade by November 30, 2026?",
@@ -1092,5 +1322,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T14:02:27.416Z"
+  "generatedAt": "2026-11-03T14:07:30.130Z"
 }
