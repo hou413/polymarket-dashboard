@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T05:46:29.831Z",
+    "saved_at": "2026-11-03T05:59:35.111Z",
     "version": "smart v2",
-    "tracked_address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
-    "tracked_label": "sports_whale_1",
-    "total_alerts": 18,
-    "total_volume": 43741.893599997544,
-    "today_trades": 27,
-    "uptime_seconds": 2629,
-    "last_poll": "2026-11-03T05:44:07.293Z"
+    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
+    "tracked_label": "fantasy7788",
+    "total_alerts": 19,
+    "total_volume": 44581.817199959856,
+    "today_trades": 28,
+    "uptime_seconds": 3414,
+    "last_poll": "2026-11-03T05:57:12.989Z"
   },
   "categories": {
     "sports": {
@@ -242,13 +242,24 @@
       ]
     },
     "politics": {
-      "count": 6,
-      "buyCount": 4,
+      "count": 7,
+      "buyCount": 5,
       "sellCount": 2,
-      "buyVolume": 19287.4977,
+      "buyVolume": 20127.42129996231,
       "sellVolume": 20790.103900000002,
-      "totalVolume": 40077.6016,
+      "totalVolume": 40917.525199962314,
       "recentTrades": [
+        {
+          "time": "2026-11-03T05:52:18.000Z",
+          "market": "Will Donald Trump publicly insult someone on November 3, 2026?",
+          "slug": "will-trump-publicly-insult-someone-on-november-2026",
+          "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 839.9235999623099,
+          "direction": "UP",
+          "price": 0.9655404069,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-11-03T05:17:43.000Z",
           "market": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?",
@@ -346,6 +357,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T05:52:18.000Z",
+      "market": "Will Donald Trump publicly insult someone on November 3, 2026?",
+      "slug": "will-trump-publicly-insult-someone-on-november-2026",
+      "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 839.9235999623099,
+      "direction": "UP",
+      "price": 0.9655404069,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-03T05:32:00.000Z",
       "market": "Spread: Clippers (-2.5)",
@@ -672,5 +695,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T05:55:47.278Z"
+  "generatedAt": "2026-11-03T06:00:49.708Z"
 }
