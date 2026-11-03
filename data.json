@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T06:58:08.705Z",
+    "saved_at": "2026-11-03T07:37:23.480Z",
     "version": "smart v2",
     "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
     "tracked_label": "fantasy7788",
-    "total_alerts": 22,
-    "total_volume": 44919.18599996869,
-    "today_trades": 31,
-    "uptime_seconds": 6928,
-    "last_poll": "2026-11-03T06:55:44.513Z"
+    "total_alerts": 24,
+    "total_volume": 46929.671799968695,
+    "today_trades": 33,
+    "uptime_seconds": 9283,
+    "last_poll": "2026-11-03T07:35:00.181Z"
   },
   "categories": {
     "sports": {
@@ -242,13 +242,35 @@
       ]
     },
     "politics": {
-      "count": 7,
-      "buyCount": 5,
+      "count": 9,
+      "buyCount": 7,
       "sellCount": 2,
-      "buyVolume": 20127.42129996231,
+      "buyVolume": 22137.907099962307,
       "sellVolume": 20790.103900000002,
-      "totalVolume": 40917.525199962314,
+      "totalVolume": 42928.01099996231,
       "recentTrades": [
+        {
+          "time": "2026-11-03T07:22:52.000Z",
+          "market": "Pete Hegseth out as Secretary of Defense by December 31?",
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+          "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 1260,
+          "direction": "DOWN",
+          "price": 0.63,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T07:16:46.000Z",
+          "market": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 750.4857999999999,
+          "direction": "DOWN",
+          "price": 0.74,
+          "outcome": "No"
+        },
         {
           "time": "2026-11-03T05:52:18.000Z",
           "market": "Will Donald Trump publicly insult someone on November 3, 2026?",
@@ -391,6 +413,30 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T07:22:52.000Z",
+      "market": "Pete Hegseth out as Secretary of Defense by December 31?",
+      "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+      "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1260,
+      "direction": "DOWN",
+      "price": 0.63,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T07:16:46.000Z",
+      "market": "Pete Hegseth out as Secretary of Defense by November 30?",
+      "slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+      "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 750.4857999999999,
+      "direction": "DOWN",
+      "price": 0.74,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-03T06:51:00.000Z",
       "market": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in November?",
@@ -765,5 +811,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T07:35:34.047Z"
+  "generatedAt": "2026-11-03T07:40:36.577Z"
 }
