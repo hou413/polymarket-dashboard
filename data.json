@@ -1,23 +1,23 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T04:45:03.324Z",
+    "saved_at": "2026-11-03T04:50:19.420Z",
     "version": "smart v2",
-    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
-    "tracked_label": "chubbytoro",
-    "total_alerts": 86,
-    "total_volume": 215364.72111999238,
-    "today_trades": 267,
-    "uptime_seconds": 1006,
-    "last_poll": "2026-11-03T04:38:43.436Z"
+    "tracked_address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
+    "tracked_label": "Netrol",
+    "total_alerts": 93,
+    "total_volume": 242182.35708741614,
+    "today_trades": 275,
+    "uptime_seconds": 1323,
+    "last_poll": "2026-11-03T04:44:33.587Z"
   },
   "categories": {
     "sports": {
-      "count": 245,
-      "buyCount": 223,
+      "count": 247,
+      "buyCount": 225,
       "sellCount": 22,
-      "buyVolume": 146117.400540119,
+      "buyVolume": 147285.43258004278,
       "sellVolume": 6803.6135000416,
-      "totalVolume": 152921.0140401606,
+      "totalVolume": 154089.04608008437,
       "recentTrades": [
         {
           "time": "2026-11-03T04:32:13.000Z",
@@ -242,13 +242,79 @@
       ]
     },
     "politics": {
-      "count": 22,
-      "buyCount": 11,
+      "count": 28,
+      "buyCount": 17,
       "sellCount": 11,
-      "buyVolume": 39138.71374962471,
+      "buyVolume": 64788.31767712471,
       "sellVolume": 23304.99333020701,
-      "totalVolume": 62443.707079831715,
+      "totalVolume": 88093.31100733172,
       "recentTrades": [
+        {
+          "time": "2026-11-02T19:32:16.000Z",
+          "market": "Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and Texas?",
+          "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+          "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 17246.683755000002,
+          "direction": "UP",
+          "price": 0.1149778917,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-02T19:30:31.000Z",
+          "market": "Will Republicans win Alaska, Iowa, and Maine, and lose Kansas, Michigan, Ohio, and Texas?",
+          "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+          "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 1400,
+          "direction": "UP",
+          "price": 0.008,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-02T19:29:24.000Z",
+          "market": "Will Republicans win Alaska, Iowa, and Texas, and lose Kansas, Maine, Michigan, and Ohio?",
+          "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+          "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 1416.2748775,
+          "direction": "UP",
+          "price": 0.0080929993,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-02T19:27:58.000Z",
+          "market": "Will Republicans win Alaska, Iowa, Maine, Michigan, and Texas, and lose Kansas and Ohio?",
+          "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+          "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 750,
+          "direction": "UP",
+          "price": 0.005,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-02T19:26:22.000Z",
+          "market": "Will Republicans win Alaska, Iowa, and Maine, and lose Kansas, Michigan, Ohio, and Texas?",
+          "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+          "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 1386.645295,
+          "direction": "UP",
+          "price": 0.0079236874,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-02T19:23:36.000Z",
+          "market": "Will Republicans win Alaska and Iowa, and lose Kansas, Maine, Michigan, Ohio, and Texas?",
+          "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+          "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 3450,
+          "direction": "UP",
+          "price": 0.023,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-10-30T00:40:55.000Z",
           "market": "Predict.fun FDV above $2.5B one day after launch?",
@@ -401,72 +467,6 @@
           "value": 142.769999998,
           "direction": "UP",
           "price": 0.4199117647,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-10-28T10:34:23.000Z",
-          "market": "Predict.fun FDV above $2B one day after launch?",
-          "slug": "predictfun-fdv-above-one-day-after-launch",
-          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 97.83208000948801,
-          "direction": "UP",
-          "price": 0.2718161814,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-10-28T08:59:23.000Z",
-          "market": "Predict.fun FDV above $2B one day after launch?",
-          "slug": "predictfun-fdv-above-one-day-after-launch",
-          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 243.46215001035503,
-          "direction": "UP",
-          "price": 0.3485749159,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-10-28T08:47:32.000Z",
-          "market": "Predict.fun FDV above $1.5B one day after launch?",
-          "slug": "predictfun-fdv-above-one-day-after-launch",
-          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 2055.969250128625,
-          "direction": "UP",
-          "price": 0.5554046735,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-10-28T03:38:12.000Z",
-          "market": "Predict.fun FDV above $1B one day after launch?",
-          "slug": "predictfun-fdv-above-one-day-after-launch",
-          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 32.38137,
-          "direction": "UP",
-          "price": 0.567,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-10-27T16:29:02.000Z",
-          "market": "Predict.fun FDV above $1.5B one day after launch?",
-          "slug": "predictfun-fdv-above-one-day-after-launch",
-          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 174.96,
-          "direction": "UP",
-          "price": 0.3645,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-10-27T15:47:02.000Z",
-          "market": "Predict.fun FDV above $1B one day after launch?",
-          "slug": "predictfun-fdv-above-one-day-after-launch",
-          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 35978.96829940089,
-          "direction": "UP",
-          "price": 0.5697978569,
           "outcome": "Yes"
         }
       ]
@@ -2901,6 +2901,30 @@
       "traderLabel": ""
     },
     {
+      "time": "2026-11-03T01:06:51.000Z",
+      "market": "US x Iran ceasefire continues through November 2?",
+      "slug": "us-iran-ceasefire-continues-throughptptpt",
+      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 16.8,
+      "direction": "DOWN",
+      "price": 0.56,
+      "category": "sports",
+      "traderLabel": "Arbguy"
+    },
+    {
+      "time": "2026-11-03T01:05:34.000Z",
+      "market": "US x Iran ceasefire continues through October 31?",
+      "slug": "us-iran-ceasefire-continues-throughptptpt",
+      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1151.2320399237722,
+      "direction": "DOWN",
+      "price": 0.5496610263,
+      "category": "sports",
+      "traderLabel": "Arbguy"
+    },
+    {
       "time": "2026-11-02T21:50:48.000Z",
       "market": "Red Wings vs. Panthers: O/U 5.5",
       "slug": "nhl-det-fla-2026-11-02",
@@ -2923,6 +2947,78 @@
       "price": 0.47,
       "category": "sports",
       "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-02T19:32:16.000Z",
+      "market": "Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and Texas?",
+      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 17246.683755000002,
+      "direction": "UP",
+      "price": 0.1149778917,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
+    {
+      "time": "2026-11-02T19:30:31.000Z",
+      "market": "Will Republicans win Alaska, Iowa, and Maine, and lose Kansas, Michigan, Ohio, and Texas?",
+      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1400,
+      "direction": "UP",
+      "price": 0.008,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
+    {
+      "time": "2026-11-02T19:29:24.000Z",
+      "market": "Will Republicans win Alaska, Iowa, and Texas, and lose Kansas, Maine, Michigan, and Ohio?",
+      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1416.2748775,
+      "direction": "UP",
+      "price": 0.0080929993,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
+    {
+      "time": "2026-11-02T19:27:58.000Z",
+      "market": "Will Republicans win Alaska, Iowa, Maine, Michigan, and Texas, and lose Kansas and Ohio?",
+      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 750,
+      "direction": "UP",
+      "price": 0.005,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
+    {
+      "time": "2026-11-02T19:26:22.000Z",
+      "market": "Will Republicans win Alaska, Iowa, and Maine, and lose Kansas, Michigan, Ohio, and Texas?",
+      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1386.645295,
+      "direction": "UP",
+      "price": 0.0079236874,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
+    {
+      "time": "2026-11-02T19:23:36.000Z",
+      "market": "Will Republicans win Alaska and Iowa, and lose Kansas, Maine, Michigan, Ohio, and Texas?",
+      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3450,
+      "direction": "UP",
+      "price": 0.023,
+      "category": "politics",
+      "traderLabel": "Arbguy"
     },
     {
       "time": "2026-11-02T18:49:57.000Z",
@@ -3706,5 +3802,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T04:46:27.868Z"
+  "generatedAt": "2026-11-03T04:52:02.722Z"
 }
