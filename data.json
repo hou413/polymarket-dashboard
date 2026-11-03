@@ -1,23 +1,23 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T04:39:33.569Z",
+    "saved_at": "2026-11-03T04:45:03.324Z",
     "version": "smart v2",
-    "tracked_address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
-    "tracked_label": "sports_whale_1",
-    "total_alerts": 59,
-    "total_volume": 137524.83081999235,
-    "today_trades": 222,
-    "uptime_seconds": 677,
-    "last_poll": "2026-11-03T04:33:32.669Z"
+    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+    "tracked_label": "chubbytoro",
+    "total_alerts": 86,
+    "total_volume": 215364.72111999238,
+    "today_trades": 267,
+    "uptime_seconds": 1006,
+    "last_poll": "2026-11-03T04:38:43.436Z"
   },
   "categories": {
     "sports": {
-      "count": 200,
-      "buyCount": 178,
+      "count": 245,
+      "buyCount": 223,
       "sellCount": 22,
-      "buyVolume": 68277.51024011897,
+      "buyVolume": 146117.400540119,
       "sellVolume": 6803.6135000416,
-      "totalVolume": 75081.12374016056,
+      "totalVolume": 152921.0140401606,
       "recentTrades": [
         {
           "time": "2026-11-03T04:32:13.000Z",
@@ -2901,6 +2901,198 @@
       "traderLabel": ""
     },
     {
+      "time": "2026-11-02T21:50:48.000Z",
+      "market": "Red Wings vs. Panthers: O/U 5.5",
+      "slug": "nhl-det-fla-2026-11-02",
+      "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1224.1244,
+      "direction": "DOWN",
+      "price": 0.47,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-02T21:50:48.000Z",
+      "market": "Red Wings vs. Panthers: O/U 5.5",
+      "slug": "nhl-det-fla-2026-11-02",
+      "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4700,
+      "direction": "DOWN",
+      "price": 0.47,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-02T18:49:57.000Z",
+      "market": "Spread: Flames (-1.5)",
+      "slug": "nhl-cal-sj-2026-11-02",
+      "url": "https://polymarket.com/event/nhl-cal-sj-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 828.0714,
+      "direction": "Flames",
+      "price": 0.26,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-02T13:15:43.000Z",
+      "market": "Red Wings vs. Panthers: O/U 6.5",
+      "slug": "nhl-det-fla-2026-11-02",
+      "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 50.303399999999996,
+      "direction": "DOWN",
+      "price": 0.58,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-02T11:36:21.000Z",
+      "market": "Red Wings vs. Panthers: O/U 5.5",
+      "slug": "nhl-det-fla-2026-11-02",
+      "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 73.0192,
+      "direction": "DOWN",
+      "price": 0.47,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-01T17:09:31.000Z",
+      "market": "Senators vs. Ducks",
+      "slug": "nhl-ott-ana-2026-11-01",
+      "url": "https://polymarket.com/event/nhl-ott-ana-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2931.4936000000002,
+      "direction": "Senators",
+      "price": 0.53,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-01T12:00:19.000Z",
+      "market": "Spread: Rangers (-1.5)",
+      "slug": "nhl-edm-nyr-2026-11-01",
+      "url": "https://polymarket.com/event/nhl-edm-nyr-2026-11-01?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1.3504,
+      "direction": "Rangers",
+      "price": 0.32,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-31T23:51:09.000Z",
+      "market": "Blue Jackets vs. Stars",
+      "slug": "nhl-cbj-dal-2026-10-31",
+      "url": "https://polymarket.com/event/nhl-cbj-dal-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 5920,
+      "direction": "Blue Jackets",
+      "price": 0.37,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-31T23:51:09.000Z",
+      "market": "Blue Jackets vs. Stars",
+      "slug": "nhl-cbj-dal-2026-10-31",
+      "url": "https://polymarket.com/event/nhl-cbj-dal-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 99.3228,
+      "direction": "Blue Jackets",
+      "price": 0.37,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-31T17:40:15.000Z",
+      "market": "Senators vs. Sharks",
+      "slug": "nhl-ott-sj-2026-10-31",
+      "url": "https://polymarket.com/event/nhl-ott-sj-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 489.76359999999994,
+      "direction": "Senators",
+      "price": 0.58,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-31T17:01:51.000Z",
+      "market": "Oilers vs. Islanders",
+      "slug": "nhl-edm-nyi-2026-10-31",
+      "url": "https://polymarket.com/event/nhl-edm-nyi-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 7500,
+      "direction": "Islanders",
+      "price": 0.5,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-31T17:01:49.000Z",
+      "market": "Oilers vs. Islanders",
+      "slug": "nhl-edm-nyi-2026-10-31",
+      "url": "https://polymarket.com/event/nhl-edm-nyi-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3903.205,
+      "direction": "Islanders",
+      "price": 0.5,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-31T09:41:34.000Z",
+      "market": "Oilers vs. Islanders",
+      "slug": "nhl-edm-nyi-2026-10-31",
+      "url": "https://polymarket.com/event/nhl-edm-nyi-2026-10-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2760.786,
+      "direction": "Islanders",
+      "price": 0.45,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-30T14:20:10.000Z",
+      "market": "Devils vs. Golden Knights: O/U 5.5",
+      "slug": "nhl-nj-las-2026-10-30",
+      "url": "https://polymarket.com/event/nhl-nj-las-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 54.5644,
+      "direction": "DOWN",
+      "price": 0.44,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-30T09:56:13.000Z",
+      "market": "Devils vs. Golden Knights: O/U 6.5",
+      "slug": "nhl-nj-las-2026-10-30",
+      "url": "https://polymarket.com/event/nhl-nj-las-2026-10-30?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 385.55,
+      "direction": "DOWN",
+      "price": 0.55,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-30T01:12:54.000Z",
+      "market": "Spread: Sabres (-1.5)",
+      "slug": "nhl-buf-ana-2026-10-29",
+      "url": "https://polymarket.com/event/nhl-buf-ana-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 13.4352,
+      "direction": "Sabres",
+      "price": 0.36,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
       "time": "2026-10-30T00:40:55.000Z",
       "market": "Predict.fun FDV above $2.5B one day after launch?",
       "slug": "predictfun-fdv-above-one-day-after-launch",
@@ -2935,6 +3127,30 @@
       "price": 0.963,
       "category": "politics",
       "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-29T09:58:04.000Z",
+      "market": "Capitals vs. Predators",
+      "slug": "nhl-wsh-nsh-2026-10-29",
+      "url": "https://polymarket.com/event/nhl-wsh-nsh-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2370.055,
+      "direction": "Predators",
+      "price": 0.5,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-29T09:58:04.000Z",
+      "market": "Capitals vs. Predators",
+      "slug": "nhl-wsh-nsh-2026-10-29",
+      "url": "https://polymarket.com/event/nhl-wsh-nsh-2026-10-29?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 5500,
+      "direction": "Predators",
+      "price": 0.5,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
     },
     {
       "time": "2026-10-29T09:12:29.000Z",
@@ -3045,6 +3261,18 @@
       "traderLabel": "alphaalii"
     },
     {
+      "time": "2026-10-29T01:00:49.000Z",
+      "market": "Devils vs. Avalanche",
+      "slug": "nhl-nj-col-2026-10-28",
+      "url": "https://polymarket.com/event/nhl-nj-col-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 358.25579999999997,
+      "direction": "Devils",
+      "price": 0.42,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
       "time": "2026-10-29T00:03:05.000Z",
       "market": "Predict.fun FDV above $3B one day after launch?",
       "slug": "predictfun-fdv-above-one-day-after-launch",
@@ -3055,6 +3283,90 @@
       "price": 0.0494836983,
       "category": "politics",
       "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-28T15:03:29.000Z",
+      "market": "Devils vs. Avalanche: O/U 6.5",
+      "slug": "nhl-nj-col-2026-10-28",
+      "url": "https://polymarket.com/event/nhl-nj-col-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 182.2457,
+      "direction": "UP",
+      "price": 0.49,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-28T15:02:14.000Z",
+      "market": "Devils vs. Avalanche: O/U 5.5",
+      "slug": "nhl-nj-col-2026-10-28",
+      "url": "https://polymarket.com/event/nhl-nj-col-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 82.95599999999999,
+      "direction": "UP",
+      "price": 0.6,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-28T14:59:59.000Z",
+      "market": "Devils vs. Avalanche: O/U 5.5",
+      "slug": "nhl-nj-col-2026-10-28",
+      "url": "https://polymarket.com/event/nhl-nj-col-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 13.392999999999999,
+      "direction": "UP",
+      "price": 0.59,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-28T13:51:38.000Z",
+      "market": "Spread: Devils (-1.5)",
+      "slug": "nhl-nj-col-2026-10-28",
+      "url": "https://polymarket.com/event/nhl-nj-col-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 845.7698,
+      "direction": "Devils",
+      "price": 0.23,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-28T13:50:47.000Z",
+      "market": "Spread: Devils (-1.5)",
+      "slug": "nhl-nj-col-2026-10-28",
+      "url": "https://polymarket.com/event/nhl-nj-col-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 5.5,
+      "direction": "Devils",
+      "price": 0.22,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-28T13:49:32.000Z",
+      "market": "Devils vs. Avalanche",
+      "slug": "nhl-nj-col-2026-10-28",
+      "url": "https://polymarket.com/event/nhl-nj-col-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 256.2026,
+      "direction": "Devils",
+      "price": 0.43,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-28T13:05:07.000Z",
+      "market": "Spread: Devils (-1.5)",
+      "slug": "nhl-nj-col-2026-10-28",
+      "url": "https://polymarket.com/event/nhl-nj-col-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 599.9069999999999,
+      "direction": "Devils",
+      "price": 0.21,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
     },
     {
       "time": "2026-10-28T10:36:14.000Z",
@@ -3079,6 +3391,30 @@
       "price": 0.2718161814,
       "category": "politics",
       "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-28T10:18:46.000Z",
+      "market": "Devils vs. Avalanche: O/U 5.5",
+      "slug": "nhl-nj-col-2026-10-28",
+      "url": "https://polymarket.com/event/nhl-nj-col-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 13.4225,
+      "direction": "UP",
+      "price": 0.59,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-28T10:16:37.000Z",
+      "market": "Devils vs. Avalanche",
+      "slug": "nhl-nj-col-2026-10-28",
+      "url": "https://polymarket.com/event/nhl-nj-col-2026-10-28?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2811.2604,
+      "direction": "Devils",
+      "price": 0.39,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
     },
     {
       "time": "2026-10-28T08:59:23.000Z",
@@ -3117,6 +3453,78 @@
       "traderLabel": "alphaalii"
     },
     {
+      "time": "2026-10-27T23:57:59.000Z",
+      "market": "Spread: Hurricanes (-1.5)",
+      "slug": "nhl-bos-car-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-bos-car-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3208.2017,
+      "direction": "Bruins",
+      "price": 0.59,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T17:17:21.000Z",
+      "market": "Sabres vs. Sharks: O/U 5.5",
+      "slug": "nhl-buf-sj-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-buf-sj-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 650,
+      "direction": "UP",
+      "price": 0.65,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T17:15:35.000Z",
+      "market": "Sabres vs. Sharks: O/U 6.5",
+      "slug": "nhl-buf-sj-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-buf-sj-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 117.34200000000001,
+      "direction": "UP",
+      "price": 0.54,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T17:06:42.000Z",
+      "market": "Spread: Stars (-1.5)",
+      "slug": "nhl-nj-dal-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-nj-dal-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 529.1999999999999,
+      "direction": "Devils",
+      "price": 0.7,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T17:06:27.000Z",
+      "market": "Spread: Devils (-1.5)",
+      "slug": "nhl-nj-dal-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-nj-dal-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 35.1621,
+      "direction": "Devils",
+      "price": 0.27,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T16:56:17.000Z",
+      "market": "Devils vs. Stars: O/U 6.5",
+      "slug": "nhl-nj-dal-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-nj-dal-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4065.5706999999998,
+      "direction": "DOWN",
+      "price": 0.61,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
       "time": "2026-10-27T16:29:02.000Z",
       "market": "Predict.fun FDV above $1.5B one day after launch?",
       "slug": "predictfun-fdv-above-one-day-after-launch",
@@ -3127,6 +3535,18 @@
       "price": 0.3645,
       "category": "politics",
       "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-27T15:57:26.000Z",
+      "market": "Spread: Jets (-1.5)",
+      "slug": "nhl-fla-wpg-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-fla-wpg-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1013.4123999999999,
+      "direction": "Jets",
+      "price": 0.26,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
     },
     {
       "time": "2026-10-27T15:47:02.000Z",
@@ -3153,6 +3573,126 @@
       "traderLabel": "alphaalii"
     },
     {
+      "time": "2026-10-27T15:39:36.000Z",
+      "market": "Canadiens vs. Blues",
+      "slug": "nhl-mon-stl-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-mon-stl-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 961.3996,
+      "direction": "Canadiens",
+      "price": 0.49,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T15:32:26.000Z",
+      "market": "Canadiens vs. Blues",
+      "slug": "nhl-mon-stl-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-mon-stl-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3973.5792,
+      "direction": "Canadiens",
+      "price": 0.48,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T15:32:26.000Z",
+      "market": "Canadiens vs. Blues",
+      "slug": "nhl-mon-stl-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-mon-stl-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 11520,
+      "direction": "Canadiens",
+      "price": 0.48,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T14:29:24.000Z",
+      "market": "Devils vs. Stars: O/U 6.5",
+      "slug": "nhl-nj-dal-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-nj-dal-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 5088.3240000000005,
+      "direction": "DOWN",
+      "price": 0.6,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T12:42:14.000Z",
+      "market": "Spread: Jets (-1.5)",
+      "slug": "nhl-fla-wpg-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-fla-wpg-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 263,
+      "direction": "Jets",
+      "price": 0.25,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T12:31:17.000Z",
+      "market": "Blue Jackets vs. Flyers: O/U 6.5",
+      "slug": "nhl-cbj-phi-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-cbj-phi-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 13.908,
+      "direction": "DOWN",
+      "price": 0.6,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T10:39:51.000Z",
+      "market": "Devils vs. Stars: O/U 5.5",
+      "slug": "nhl-nj-dal-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-nj-dal-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 592.8118,
+      "direction": "DOWN",
+      "price": 0.49,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T10:37:30.000Z",
+      "market": "Senators vs. Golden Knights",
+      "slug": "nhl-ott-las-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-ott-las-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1786.2839999999999,
+      "direction": "Golden Knights",
+      "price": 0.59,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T10:31:56.000Z",
+      "market": "Devils vs. Stars: O/U 5.5",
+      "slug": "nhl-nj-dal-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-nj-dal-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4.6175999999999995,
+      "direction": "DOWN",
+      "price": 0.48,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-10-27T10:29:44.000Z",
+      "market": "Blue Jackets vs. Flyers: O/U 5.5",
+      "slug": "nhl-cbj-phi-2026-10-27",
+      "url": "https://polymarket.com/event/nhl-cbj-phi-2026-10-27?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 43.12,
+      "direction": "DOWN",
+      "price": 0.49,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
       "time": "2026-10-27T05:42:57.000Z",
       "market": "Predict.fun FDV above $2B one day after launch?",
       "slug": "predictfun-fdv-above-one-day-after-launch",
@@ -3166,5 +3706,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T04:41:25.479Z"
+  "generatedAt": "2026-11-03T04:46:27.868Z"
 }
