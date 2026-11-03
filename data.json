@@ -1,24 +1,68 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T09:23:53.472Z",
+    "saved_at": "2026-11-03T09:41:20.200Z",
     "version": "smart v2",
-    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
-    "tracked_label": "chubbytoro",
-    "total_alerts": 27,
-    "total_volume": 62810.983200155264,
-    "today_trades": 38,
-    "uptime_seconds": 15673,
-    "last_poll": "2026-11-03T09:23:39.890Z"
+    "tracked_address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+    "tracked_label": "sports_whale_1",
+    "total_alerts": 28,
+    "total_volume": 66146.02320015526,
+    "today_trades": 42,
+    "uptime_seconds": 16720,
+    "last_poll": "2026-11-03T09:38:57.784Z"
   },
   "categories": {
     "sports": {
-      "count": 26,
-      "buyCount": 21,
-      "sellCount": 5,
-      "buyVolume": 17540.98840018412,
-      "sellVolume": 2004.6149999999998,
-      "totalVolume": 19545.603400184118,
+      "count": 30,
+      "buyCount": 23,
+      "sellCount": 7,
+      "buyVolume": 18644.748400184122,
+      "sellVolume": 4235.8949999999995,
+      "totalVolume": 22880.643400184123,
       "recentTrades": [
+        {
+          "time": "2026-11-03T09:24:18.000Z",
+          "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "slug": "wta-lansere-okutoyi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 551.88,
+          "direction": "Angella Okutoyi",
+          "price": 0.24,
+          "outcome": "Angella Okutoyi"
+        },
+        {
+          "time": "2026-11-03T09:24:18.000Z",
+          "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "slug": "wta-lansere-okutoyi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 551.88,
+          "direction": "Angella Okutoyi",
+          "price": 0.24,
+          "outcome": "Angella Okutoyi"
+        },
+        {
+          "time": "2026-11-03T09:21:07.000Z",
+          "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "slug": "wta-lansere-okutoyi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 1115.6399999999999,
+          "direction": "Sofya Lansere",
+          "price": 0.72,
+          "outcome": "Sofya Lansere"
+        },
+        {
+          "time": "2026-11-03T09:21:07.000Z",
+          "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "slug": "wta-lansere-okutoyi-2026-11-02",
+          "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 1115.6399999999999,
+          "direction": "Sofya Lansere",
+          "price": 0.72,
+          "outcome": "Sofya Lansere"
+        },
         {
           "time": "2026-11-03T09:14:12.000Z",
           "market": "Golden Knights vs. Penguins",
@@ -194,50 +238,6 @@
           "direction": "Suns",
           "price": 0.12,
           "outcome": "Suns"
-        },
-        {
-          "time": "2026-11-03T05:02:22.000Z",
-          "market": "Spread: Suns (-3.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 4.3,
-          "direction": "Suns",
-          "price": 0.43,
-          "outcome": "Suns"
-        },
-        {
-          "time": "2026-11-03T05:02:21.000Z",
-          "market": "Spread: Suns (-11.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 53.94,
-          "direction": "Suns",
-          "price": 0.12,
-          "outcome": "Suns"
-        },
-        {
-          "time": "2026-11-03T05:02:18.000Z",
-          "market": "Spread: Warriors (-4.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 159.355,
-          "direction": "Warriors",
-          "price": 0.29,
-          "outcome": "Warriors"
-        },
-        {
-          "time": "2026-11-03T05:02:18.000Z",
-          "market": "Spread: Warriors (-4.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 130.64499999999998,
-          "direction": "Warriors",
-          "price": 0.29,
-          "outcome": "Warriors"
         }
       ]
     },
@@ -413,6 +413,54 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T09:24:18.000Z",
+      "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
+      "slug": "wta-lansere-okutoyi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 551.88,
+      "direction": "Angella Okutoyi",
+      "price": 0.24,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T09:24:18.000Z",
+      "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
+      "slug": "wta-lansere-okutoyi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 551.88,
+      "direction": "Angella Okutoyi",
+      "price": 0.24,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T09:21:07.000Z",
+      "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
+      "slug": "wta-lansere-okutoyi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 1115.6399999999999,
+      "direction": "Sofya Lansere",
+      "price": 0.72,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T09:21:07.000Z",
+      "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
+      "slug": "wta-lansere-okutoyi-2026-11-02",
+      "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 1115.6399999999999,
+      "direction": "Sofya Lansere",
+      "price": 0.72,
+      "category": "sports",
+      "traderLabel": ""
+    },
     {
       "time": "2026-11-03T09:14:12.000Z",
       "market": "Golden Knights vs. Penguins",
@@ -871,5 +919,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T09:39:19.565Z"
+  "generatedAt": "2026-11-03T09:44:22.180Z"
 }
