@@ -1,24 +1,35 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T23:42:18.948Z",
+    "saved_at": "2026-11-03T23:46:31.267Z",
     "version": "smart v2",
-    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
-    "tracked_label": "chubbytoro",
-    "total_alerts": 64,
-    "total_volume": 246611.4761050149,
-    "today_trades": 97,
-    "uptime_seconds": 67178,
-    "last_poll": "2026-11-03T23:40:15.886Z"
+    "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+    "tracked_label": "VeryLucky888",
+    "total_alerts": 65,
+    "total_volume": 246673.12090501492,
+    "today_trades": 98,
+    "uptime_seconds": 67431,
+    "last_poll": "2026-11-03T23:44:18.955Z"
   },
   "categories": {
     "sports": {
-      "count": 49,
-      "buyCount": 40,
+      "count": 50,
+      "buyCount": 41,
       "sellCount": 9,
-      "buyVolume": 75120.27900015243,
+      "buyVolume": 75181.92380015242,
       "sellVolume": 43432.244999999995,
-      "totalVolume": 118552.52400015242,
+      "totalVolume": 118614.16880015242,
       "recentTrades": [
+        {
+          "time": "2026-11-03T23:38:46.000Z",
+          "market": "Counter-Strike: Liquid vs TYLOO (BO3) - IEM Beijing Group B",
+          "slug": "cs2-tl1-tyloo-2026-11-03",
+          "url": "https://polymarket.com/event/cs2-tl1-tyloo-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 61.6448,
+          "direction": "UP",
+          "price": 0.64,
+          "outcome": "Liquid"
+        },
         {
           "time": "2026-11-03T23:26:34.000Z",
           "market": "Avalanche vs. Blue Jackets: O/U 5.5",
@@ -227,17 +238,6 @@
           "direction": "Rangers",
           "price": 0.3,
           "outcome": "Rangers"
-        },
-        {
-          "time": "2026-11-03T09:24:18.000Z",
-          "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
-          "slug": "wta-lansere-okutoyi-2026-11-02",
-          "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 551.88,
-          "direction": "Angella Okutoyi",
-          "price": 0.24,
-          "outcome": "Angella Okutoyi"
         }
       ]
     },
@@ -666,6 +666,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T23:38:46.000Z",
+      "market": "Counter-Strike: Liquid vs TYLOO (BO3) - IEM Beijing Group B",
+      "slug": "cs2-tl1-tyloo-2026-11-03",
+      "url": "https://polymarket.com/event/cs2-tl1-tyloo-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 61.6448,
+      "direction": "UP",
+      "price": 0.64,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
     {
       "time": "2026-11-03T23:27:39.000Z",
       "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
@@ -1832,5 +1844,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T23:44:09.482Z"
+  "generatedAt": "2026-11-03T23:49:11.929Z"
 }
