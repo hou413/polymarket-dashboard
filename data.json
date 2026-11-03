@@ -1,24 +1,79 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T07:37:23.480Z",
+    "saved_at": "2026-11-03T09:23:53.472Z",
     "version": "smart v2",
-    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
-    "tracked_label": "fantasy7788",
-    "total_alerts": 24,
-    "total_volume": 46929.671799968695,
-    "today_trades": 33,
-    "uptime_seconds": 9283,
-    "last_poll": "2026-11-03T07:35:00.181Z"
+    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+    "tracked_label": "chubbytoro",
+    "total_alerts": 27,
+    "total_volume": 62810.983200155264,
+    "today_trades": 38,
+    "uptime_seconds": 15673,
+    "last_poll": "2026-11-03T09:23:39.890Z"
   },
   "categories": {
     "sports": {
-      "count": 21,
-      "buyCount": 16,
+      "count": 26,
+      "buyCount": 21,
       "sellCount": 5,
-      "buyVolume": 1659.67699999755,
+      "buyVolume": 17540.98840018412,
       "sellVolume": 2004.6149999999998,
-      "totalVolume": 3664.2919999975497,
+      "totalVolume": 19545.603400184118,
       "recentTrades": [
+        {
+          "time": "2026-11-03T09:14:12.000Z",
+          "market": "Golden Knights vs. Penguins",
+          "slug": "nhl-las-pit-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-las-pit-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 9.525,
+          "direction": "Penguins",
+          "price": 0.5,
+          "outcome": "Penguins"
+        },
+        {
+          "time": "2026-11-03T09:10:00.000Z",
+          "market": "Avalanche vs. Blue Jackets",
+          "slug": "nhl-col-cbj-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 3713.6408997865683,
+          "direction": "Blue Jackets",
+          "price": 0.4595669332,
+          "outcome": "Blue Jackets"
+        },
+        {
+          "time": "2026-11-03T09:10:00.000Z",
+          "market": "Avalanche vs. Blue Jackets",
+          "slug": "nhl-col-cbj-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 4050,
+          "direction": "Blue Jackets",
+          "price": 0.45,
+          "outcome": "Blue Jackets"
+        },
+        {
+          "time": "2026-11-03T09:07:45.000Z",
+          "market": "Jets vs. Canadiens",
+          "slug": "nhl-wpg-mon-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 3866.1408,
+          "direction": "Jets",
+          "price": 0.36,
+          "outcome": "Jets"
+        },
+        {
+          "time": "2026-11-03T09:07:45.000Z",
+          "market": "Jets vs. Canadiens",
+          "slug": "nhl-wpg-mon-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 4242.004700400001,
+          "direction": "Jets",
+          "price": 0.3535003917,
+          "outcome": "Jets"
+        },
         {
           "time": "2026-11-03T05:32:00.000Z",
           "market": "Spread: Clippers (-2.5)",
@@ -183,61 +238,6 @@
           "direction": "Warriors",
           "price": 0.29,
           "outcome": "Warriors"
-        },
-        {
-          "time": "2026-11-03T05:02:18.000Z",
-          "market": "Spread: Warriors (-7.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 67.915,
-          "direction": "Warriors",
-          "price": 0.17,
-          "outcome": "Warriors"
-        },
-        {
-          "time": "2026-11-03T05:02:18.000Z",
-          "market": "Spread: Warriors (-7.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 67.915,
-          "direction": "Warriors",
-          "price": 0.17,
-          "outcome": "Warriors"
-        },
-        {
-          "time": "2026-11-03T05:01:33.000Z",
-          "market": "Heat vs. Lakers: O/U 263.5",
-          "slug": "nba-mia-lal-2026-11-02",
-          "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 157.185,
-          "direction": "DOWN",
-          "price": 0.63,
-          "outcome": "Under"
-        },
-        {
-          "time": "2026-11-03T05:01:33.000Z",
-          "market": "Heat vs. Lakers: O/U 263.5",
-          "slug": "nba-mia-lal-2026-11-02",
-          "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 157.11699999755,
-          "direction": "DOWN",
-          "price": 0.6297274549,
-          "outcome": "Under"
-        },
-        {
-          "time": "2026-11-03T04:49:31.000Z",
-          "market": "Heat vs. Lakers: O/U 261.5",
-          "slug": "nba-mia-lal-2026-11-02",
-          "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 9,
-          "direction": "DOWN",
-          "price": 0.5,
-          "outcome": "Under"
         }
       ]
     },
@@ -413,6 +413,66 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T09:14:12.000Z",
+      "market": "Golden Knights vs. Penguins",
+      "slug": "nhl-las-pit-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-las-pit-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 9.525,
+      "direction": "Penguins",
+      "price": 0.5,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-03T09:10:00.000Z",
+      "market": "Avalanche vs. Blue Jackets",
+      "slug": "nhl-col-cbj-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3713.6408997865683,
+      "direction": "Blue Jackets",
+      "price": 0.4595669332,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-03T09:10:00.000Z",
+      "market": "Avalanche vs. Blue Jackets",
+      "slug": "nhl-col-cbj-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4050,
+      "direction": "Blue Jackets",
+      "price": 0.45,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-03T09:07:45.000Z",
+      "market": "Jets vs. Canadiens",
+      "slug": "nhl-wpg-mon-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 3866.1408,
+      "direction": "Jets",
+      "price": 0.36,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-03T09:07:45.000Z",
+      "market": "Jets vs. Canadiens",
+      "slug": "nhl-wpg-mon-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4242.004700400001,
+      "direction": "Jets",
+      "price": 0.3535003917,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
     {
       "time": "2026-11-03T07:22:52.000Z",
       "market": "Pete Hegseth out as Secretary of Defense by December 31?",
@@ -811,5 +871,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T09:22:44.128Z"
+  "generatedAt": "2026-11-03T09:29:14.679Z"
 }
