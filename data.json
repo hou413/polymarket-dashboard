@@ -1,24 +1,46 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T19:28:27.701Z",
+    "saved_at": "2026-11-03T20:11:45.179Z",
     "version": "smart v2",
-    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
-    "tracked_label": "chubbytoro",
-    "total_alerts": 54,
-    "total_volume": 150559.2779050184,
-    "today_trades": 84,
-    "uptime_seconds": 51947,
-    "last_poll": "2026-11-03T19:26:05.624Z"
+    "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+    "tracked_label": "VeryLucky888",
+    "total_alerts": 56,
+    "total_volume": 151724.5769050184,
+    "today_trades": 86,
+    "uptime_seconds": 54545,
+    "last_poll": "2026-11-03T20:09:23.023Z"
   },
   "categories": {
     "sports": {
-      "count": 40,
-      "buyCount": 33,
-      "sellCount": 7,
-      "buyVolume": 59738.12630013135,
-      "sellVolume": 4235.8949999999995,
-      "totalVolume": 63974.021300131346,
+      "count": 42,
+      "buyCount": 34,
+      "sellCount": 8,
+      "buyVolume": 60318.42530013135,
+      "sellVolume": 4820.8949999999995,
+      "totalVolume": 65139.320300131345,
       "recentTrades": [
+        {
+          "time": "2026-11-03T19:55:55.000Z",
+          "market": "Spread: Penguins (-1.5)",
+          "slug": "nhl-las-pit-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-las-pit-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 580.299,
+          "direction": "Penguins",
+          "price": 0.3,
+          "outcome": "Penguins"
+        },
+        {
+          "time": "2026-11-03T19:55:22.000Z",
+          "market": "Spread: Paris Saint-Germain FC (-1.5)",
+          "slug": "ucl-vil-psg-2026-11-03-more-markets",
+          "url": "https://polymarket.com/event/ucl-vil-psg-2026-11-03-more-markets?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 585,
+          "direction": "Paris Saint-Germain FC",
+          "price": 0.3,
+          "outcome": "Paris Saint-Germain FC"
+        },
         {
           "time": "2026-11-03T19:15:24.000Z",
           "market": "Avalanche vs. Blue Jackets",
@@ -216,28 +238,6 @@
           "direction": "Jets",
           "price": 0.36,
           "outcome": "Jets"
-        },
-        {
-          "time": "2026-11-03T09:07:45.000Z",
-          "market": "Jets vs. Canadiens",
-          "slug": "nhl-wpg-mon-2026-11-03",
-          "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 4242.004700400001,
-          "direction": "Jets",
-          "price": 0.3535003917,
-          "outcome": "Jets"
-        },
-        {
-          "time": "2026-11-03T05:32:00.000Z",
-          "market": "Spread: Clippers (-2.5)",
-          "slug": "nba-tor-lac-2026-11-02",
-          "url": "https://polymarket.com/event/nba-tor-lac-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 243.695,
-          "direction": "Clippers",
-          "price": 0.61,
-          "outcome": "Clippers"
         }
       ]
     },
@@ -655,6 +655,30 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T19:55:55.000Z",
+      "market": "Spread: Penguins (-1.5)",
+      "slug": "nhl-las-pit-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-las-pit-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 580.299,
+      "direction": "Penguins",
+      "price": 0.3,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-03T19:55:22.000Z",
+      "market": "Spread: Paris Saint-Germain FC (-1.5)",
+      "slug": "ucl-vil-psg-2026-11-03-more-markets",
+      "url": "https://polymarket.com/event/ucl-vil-psg-2026-11-03-more-markets?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 585,
+      "direction": "Paris Saint-Germain FC",
+      "price": 0.3,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
     {
       "time": "2026-11-03T19:15:24.000Z",
       "market": "Avalanche vs. Blue Jackets",
@@ -1665,5 +1689,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T20:07:00.435Z"
+  "generatedAt": "2026-11-03T20:13:30.933Z"
 }
