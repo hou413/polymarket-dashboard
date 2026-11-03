@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T13:17:35.630Z",
+    "saved_at": "2026-11-03T13:28:20.375Z",
     "version": "smart v2",
-    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
-    "tracked_label": "chubbytoro",
-    "total_alerts": 29,
-    "total_volume": 66149.41020015527,
-    "today_trades": 43,
-    "uptime_seconds": 29695,
-    "last_poll": "2026-11-03T13:15:23.204Z"
+    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
+    "tracked_label": "fantasy7788",
+    "total_alerts": 30,
+    "total_volume": 66998.76920619005,
+    "today_trades": 45,
+    "uptime_seconds": 30340,
+    "last_poll": "2026-11-03T13:26:07.917Z"
   },
   "categories": {
     "sports": {
@@ -242,13 +242,35 @@
       ]
     },
     "politics": {
-      "count": 9,
-      "buyCount": 7,
+      "count": 11,
+      "buyCount": 9,
       "sellCount": 2,
-      "buyVolume": 22137.907099962307,
+      "buyVolume": 22987.26610599709,
       "sellVolume": 20790.103900000002,
-      "totalVolume": 42928.01099996231,
+      "totalVolume": 43777.37000599709,
       "recentTrades": [
+        {
+          "time": "2026-11-03T13:21:30.000Z",
+          "market": "Will Donald Trump publicly insult someone on November 3, 2026?",
+          "slug": "will-trump-publicly-insult-someone-on-november-2026",
+          "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 844.6090060347822,
+          "direction": "UP",
+          "price": 0.9989296523,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-03T13:20:48.000Z",
+          "market": "Will Donald Trump publicly insult someone on November 3, 2026?",
+          "slug": "will-trump-publicly-insult-someone-on-november-2026",
+          "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 4.75,
+          "direction": "UP",
+          "price": 0.95,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-11-03T07:22:52.000Z",
           "market": "Pete Hegseth out as Secretary of Defense by December 31?",
@@ -413,6 +435,30 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T13:21:30.000Z",
+      "market": "Will Donald Trump publicly insult someone on November 3, 2026?",
+      "slug": "will-trump-publicly-insult-someone-on-november-2026",
+      "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 844.6090060347822,
+      "direction": "UP",
+      "price": 0.9989296523,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T13:20:48.000Z",
+      "market": "Will Donald Trump publicly insult someone on November 3, 2026?",
+      "slug": "will-trump-publicly-insult-someone-on-november-2026",
+      "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 4.75,
+      "direction": "UP",
+      "price": 0.95,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-03T13:17:15.000Z",
       "market": "Spread: Rangers (-1.5)",
@@ -931,5 +977,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T13:26:59.570Z"
+  "generatedAt": "2026-11-03T13:32:02.481Z"
 }
