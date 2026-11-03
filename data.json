@@ -1,24 +1,35 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T16:04:42.701Z",
+    "saved_at": "2026-11-03T17:31:42.686Z",
     "version": "smart v2",
-    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
-    "tracked_label": "fantasy7788",
-    "total_alerts": 47,
-    "total_volume": 82552.6182150184,
-    "today_trades": 75,
-    "uptime_seconds": 39722,
-    "last_poll": "2026-11-03T16:02:30.572Z"
+    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+    "tracked_label": "chubbytoro",
+    "total_alerts": 48,
+    "total_volume": 82571.21821501841,
+    "today_trades": 76,
+    "uptime_seconds": 44942,
+    "last_poll": "2026-11-03T17:29:20.346Z"
   },
   "categories": {
     "sports": {
-      "count": 35,
-      "buyCount": 28,
+      "count": 36,
+      "buyCount": 29,
       "sellCount": 7,
-      "buyVolume": 25070.375100131354,
+      "buyVolume": 25088.975100131353,
       "sellVolume": 4235.8949999999995,
-      "totalVolume": 29306.270100131354,
+      "totalVolume": 29324.870100131353,
       "recentTrades": [
+        {
+          "time": "2026-11-03T17:13:30.000Z",
+          "market": "Spread: Rangers (-1.5)",
+          "slug": "nhl-stl-nyr-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-stl-nyr-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 18.6,
+          "direction": "Rangers",
+          "price": 0.31,
+          "outcome": "Rangers"
+        },
         {
           "time": "2026-11-03T15:02:51.000Z",
           "market": "Spread: Jets (-1.5)",
@@ -227,17 +238,6 @@
           "direction": "Warriors",
           "price": 0.72,
           "outcome": "Warriors"
-        },
-        {
-          "time": "2026-11-03T05:20:07.000Z",
-          "market": "Spread: Lakers (-18.5)",
-          "slug": "nba-mia-lal-2026-11-02",
-          "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 47.76,
-          "direction": "Lakers",
-          "price": 0.48,
-          "outcome": "Lakers"
         }
       ]
     },
@@ -655,6 +655,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T17:13:30.000Z",
+      "market": "Spread: Rangers (-1.5)",
+      "slug": "nhl-stl-nyr-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-stl-nyr-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 18.6,
+      "direction": "Rangers",
+      "price": 0.31,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
     {
       "time": "2026-11-03T15:51:37.000Z",
       "market": "Will Crude Oil reach a new all-time high by December 31?",
@@ -1557,5 +1569,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T17:29:05.876Z"
+  "generatedAt": "2026-11-03T17:34:08.684Z"
 }
