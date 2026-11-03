@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T17:42:28.212Z",
+    "saved_at": "2026-11-03T18:02:05.341Z",
     "version": "smart v2",
     "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
     "tracked_label": "fantasy7788",
-    "total_alerts": 50,
-    "total_volume": 83827.9377150184,
-    "today_trades": 78,
-    "uptime_seconds": 45588,
-    "last_poll": "2026-11-03T17:40:05.369Z"
+    "total_alerts": 51,
+    "total_volume": 83910.1267050184,
+    "today_trades": 79,
+    "uptime_seconds": 46765,
+    "last_poll": "2026-11-03T17:59:43.121Z"
   },
   "categories": {
     "sports": {
@@ -242,13 +242,24 @@
       ]
     },
     "politics": {
-      "count": 28,
+      "count": 29,
       "buyCount": 22,
-      "sellCount": 6,
+      "sellCount": 7,
       "buyVolume": 28370.6341151114,
-      "sellVolume": 22363.3005,
-      "totalVolume": 50733.9346151114,
+      "sellVolume": 22445.48949,
+      "totalVolume": 50816.123605111396,
       "recentTrades": [
+        {
+          "time": "2026-11-03T17:42:57.000Z",
+          "market": "US announces end of Iranian blockade by December 31, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 82.18898999999999,
+          "direction": "DOWN",
+          "price": 0.597,
+          "outcome": "No"
+        },
         {
           "time": "2026-11-03T17:40:42.000Z",
           "market": "US announces end of Iranian blockade by November 30, 2026?",
@@ -457,17 +468,6 @@
           "direction": "UP",
           "price": 0.95,
           "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-03T07:22:52.000Z",
-          "market": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 1260,
-          "direction": "DOWN",
-          "price": 0.63,
-          "outcome": "No"
         }
       ]
     },
@@ -655,6 +655,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T17:42:57.000Z",
+      "market": "US announces end of Iranian blockade by December 31, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 82.18898999999999,
+      "direction": "DOWN",
+      "price": 0.597,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-03T17:40:42.000Z",
       "market": "US announces end of Iranian blockade by November 30, 2026?",
@@ -1593,5 +1605,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T17:58:07.040Z"
+  "generatedAt": "2026-11-03T18:03:09.533Z"
 }
