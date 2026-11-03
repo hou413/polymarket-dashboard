@@ -1,24 +1,57 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T21:49:42.437Z",
+    "saved_at": "2026-11-03T22:09:20.116Z",
     "version": "smart v2",
     "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
     "tracked_label": "VeryLucky888",
-    "total_alerts": 59,
-    "total_volume": 214448.3491050184,
-    "today_trades": 89,
-    "uptime_seconds": 60422,
-    "last_poll": "2026-11-03T21:47:20.171Z"
+    "total_alerts": 60,
+    "total_volume": 215861.56290503946,
+    "today_trades": 92,
+    "uptime_seconds": 61599,
+    "last_poll": "2026-11-03T22:06:57.854Z"
   },
   "categories": {
     "sports": {
-      "count": 44,
-      "buyCount": 35,
+      "count": 47,
+      "buyCount": 38,
       "sellCount": 9,
-      "buyVolume": 62647.60720013135,
+      "buyVolume": 64060.82100015242,
       "sellVolume": 43432.244999999995,
-      "totalVolume": 106079.85220013134,
+      "totalVolume": 107493.06600015241,
       "recentTrades": [
+        {
+          "time": "2026-11-03T21:55:03.000Z",
+          "market": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
+          "slug": "dota2-navi-gl-2026-11-03",
+          "url": "https://polymarket.com/event/dota2-navi-gl-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 141.8272,
+          "direction": "Natus Vincere",
+          "price": 0.46,
+          "outcome": "Natus Vincere"
+        },
+        {
+          "time": "2026-11-03T21:54:31.000Z",
+          "market": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
+          "slug": "dota2-navi-gl-2026-11-03",
+          "url": "https://polymarket.com/event/dota2-navi-gl-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 490.3416,
+          "direction": "Natus Vincere",
+          "price": 0.46,
+          "outcome": "Natus Vincere"
+        },
+        {
+          "time": "2026-11-03T21:53:58.000Z",
+          "market": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
+          "slug": "dota2-navi-gl-2026-11-03",
+          "url": "https://polymarket.com/event/dota2-navi-gl-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 781.0450000210719,
+          "direction": "Natus Vincere",
+          "price": 0.4262043262,
+          "outcome": "Natus Vincere"
+        },
         {
           "time": "2026-11-03T21:49:18.000Z",
           "market": "Spread: Paris Saint-Germain FC (-1.5)",
@@ -205,39 +238,6 @@
           "direction": "Sofya Lansere",
           "price": 0.72,
           "outcome": "Sofya Lansere"
-        },
-        {
-          "time": "2026-11-03T09:21:07.000Z",
-          "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
-          "slug": "wta-lansere-okutoyi-2026-11-02",
-          "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 1115.6399999999999,
-          "direction": "Sofya Lansere",
-          "price": 0.72,
-          "outcome": "Sofya Lansere"
-        },
-        {
-          "time": "2026-11-03T09:14:12.000Z",
-          "market": "Golden Knights vs. Penguins",
-          "slug": "nhl-las-pit-2026-11-03",
-          "url": "https://polymarket.com/event/nhl-las-pit-2026-11-03?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 9.525,
-          "direction": "Penguins",
-          "price": 0.5,
-          "outcome": "Penguins"
-        },
-        {
-          "time": "2026-11-03T09:10:00.000Z",
-          "market": "Avalanche vs. Blue Jackets",
-          "slug": "nhl-col-cbj-2026-11-03",
-          "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 3713.6408997865683,
-          "direction": "Blue Jackets",
-          "price": 0.4595669332,
-          "outcome": "Blue Jackets"
         }
       ]
     },
@@ -655,6 +655,42 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T21:55:03.000Z",
+      "market": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
+      "slug": "dota2-navi-gl-2026-11-03",
+      "url": "https://polymarket.com/event/dota2-navi-gl-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 141.8272,
+      "direction": "Natus Vincere",
+      "price": 0.46,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-03T21:54:31.000Z",
+      "market": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
+      "slug": "dota2-navi-gl-2026-11-03",
+      "url": "https://polymarket.com/event/dota2-navi-gl-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 490.3416,
+      "direction": "Natus Vincere",
+      "price": 0.46,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-03T21:53:58.000Z",
+      "market": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
+      "slug": "dota2-navi-gl-2026-11-03",
+      "url": "https://polymarket.com/event/dota2-navi-gl-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 781.0450000210719,
+      "direction": "Natus Vincere",
+      "price": 0.4262043262,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
     {
       "time": "2026-11-03T21:49:18.000Z",
       "market": "Spread: Paris Saint-Germain FC (-1.5)",
@@ -1725,5 +1761,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T22:03:36.575Z"
+  "generatedAt": "2026-11-03T22:10:07.006Z"
 }
