@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T13:28:20.375Z",
+    "saved_at": "2026-11-03T13:47:49.140Z",
     "version": "smart v2",
     "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
     "tracked_label": "fantasy7788",
-    "total_alerts": 30,
-    "total_volume": 66998.76920619005,
-    "today_trades": 45,
-    "uptime_seconds": 30340,
-    "last_poll": "2026-11-03T13:26:07.917Z"
+    "total_alerts": 33,
+    "total_volume": 69000.76920531511,
+    "today_trades": 50,
+    "uptime_seconds": 31509,
+    "last_poll": "2026-11-03T13:45:25.730Z"
   },
   "categories": {
     "sports": {
@@ -242,13 +242,68 @@
       ]
     },
     "politics": {
-      "count": 11,
-      "buyCount": 9,
-      "sellCount": 2,
-      "buyVolume": 22987.26610599709,
-      "sellVolume": 20790.103900000002,
-      "totalVolume": 43777.37000599709,
+      "count": 16,
+      "buyCount": 12,
+      "sellCount": 4,
+      "buyVolume": 24187.26610512216,
+      "sellVolume": 21592.103900000002,
+      "totalVolume": 45779.37000512216,
       "recentTrades": [
+        {
+          "time": "2026-11-03T13:35:22.000Z",
+          "market": "US announces end of Iranian blockade by November 30, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 99.99999900507247,
+          "direction": "DOWN",
+          "price": 0.689999999,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T13:33:58.000Z",
+          "market": "Will the U.S. invade Iran before 2027?",
+          "slug": "will-the-us-invade-iran-before-2027",
+          "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 595,
+          "direction": "UP",
+          "price": 0.17,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-03T13:31:01.000Z",
+          "market": "US announces end of Iranian blockade by November 30, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 206.99999999999997,
+          "direction": "DOWN",
+          "price": 0.69,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T13:30:52.000Z",
+          "market": "US announces end of Iranian blockade by November 15, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 600.00000005,
+          "direction": "UP",
+          "price": 0.17,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-03T13:30:46.000Z",
+          "market": "US announces end of Iranian blockade by November 15, 2026?",
+          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 500.00000007000006,
+          "direction": "UP",
+          "price": 0.17,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-11-03T13:21:30.000Z",
           "market": "Will Donald Trump publicly insult someone on November 3, 2026?",
@@ -435,6 +490,66 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T13:35:22.000Z",
+      "market": "US announces end of Iranian blockade by November 30, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 99.99999900507247,
+      "direction": "DOWN",
+      "price": 0.689999999,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T13:33:58.000Z",
+      "market": "Will the U.S. invade Iran before 2027?",
+      "slug": "will-the-us-invade-iran-before-2027",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 595,
+      "direction": "UP",
+      "price": 0.17,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T13:31:01.000Z",
+      "market": "US announces end of Iranian blockade by November 30, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 206.99999999999997,
+      "direction": "DOWN",
+      "price": 0.69,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T13:30:52.000Z",
+      "market": "US announces end of Iranian blockade by November 15, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 600.00000005,
+      "direction": "UP",
+      "price": 0.17,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T13:30:46.000Z",
+      "market": "US announces end of Iranian blockade by November 15, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 500.00000007000006,
+      "direction": "UP",
+      "price": 0.17,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-03T13:21:30.000Z",
       "market": "Will Donald Trump publicly insult someone on November 3, 2026?",
@@ -977,5 +1092,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T13:45:51.684Z"
+  "generatedAt": "2026-11-03T13:50:54.185Z"
 }
