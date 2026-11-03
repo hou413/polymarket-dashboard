@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T22:09:20.116Z",
+    "saved_at": "2026-11-03T23:25:11.175Z",
     "version": "smart v2",
-    "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
-    "tracked_label": "VeryLucky888",
-    "total_alerts": 60,
-    "total_volume": 215861.56290503946,
-    "today_trades": 92,
-    "uptime_seconds": 61599,
-    "last_poll": "2026-11-03T22:06:57.854Z"
+    "tracked_address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
+    "tracked_label": "Netrol",
+    "total_alerts": 62,
+    "total_volume": 234471.01810503946,
+    "today_trades": 94,
+    "uptime_seconds": 66151,
+    "last_poll": "2026-11-03T23:22:48.263Z"
   },
   "categories": {
     "sports": {
@@ -242,13 +242,35 @@
       ]
     },
     "politics": {
-      "count": 31,
-      "buyCount": 24,
-      "sellCount": 7,
-      "buyVolume": 82153.87441511141,
-      "sellVolume": 22445.48949,
-      "totalVolume": 104599.36390511142,
+      "count": 33,
+      "buyCount": 25,
+      "sellCount": 8,
+      "buyVolume": 82372.1544151114,
+      "sellVolume": 40836.664690000005,
+      "totalVolume": 123208.81910511141,
       "recentTrades": [
+        {
+          "time": "2026-11-03T23:12:21.000Z",
+          "market": "Will the Democrats win the Florida governor race in 2026?",
+          "slug": "florida-governor-winner-2026",
+          "url": "https://polymarket.com/event/florida-governor-winner-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 218.28000000000003,
+          "direction": "DOWN",
+          "price": 0.68,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-03T23:11:28.000Z",
+          "market": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+          "slug": "which-party-will-win-the-house-in-2026",
+          "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 18391.1752,
+          "direction": "UP",
+          "price": 0.94,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-11-03T20:35:21.000Z",
           "market": "Will the Republicans win the Florida governor race in 2026?",
@@ -446,28 +468,6 @@
           "direction": "DOWN",
           "price": 0.69,
           "outcome": "No"
-        },
-        {
-          "time": "2026-11-03T13:30:52.000Z",
-          "market": "US announces end of Iranian blockade by November 15, 2026?",
-          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
-          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 600.00000005,
-          "direction": "UP",
-          "price": 0.17,
-          "outcome": "Yes"
-        },
-        {
-          "time": "2026-11-03T13:30:46.000Z",
-          "market": "US announces end of Iranian blockade by November 15, 2026?",
-          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
-          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 500.00000007000006,
-          "direction": "UP",
-          "price": 0.17,
-          "outcome": "Yes"
         }
       ]
     },
@@ -655,6 +655,30 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T23:12:21.000Z",
+      "market": "Will the Democrats win the Florida governor race in 2026?",
+      "slug": "florida-governor-winner-2026",
+      "url": "https://polymarket.com/event/florida-governor-winner-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 218.28000000000003,
+      "direction": "DOWN",
+      "price": 0.68,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
+    {
+      "time": "2026-11-03T23:11:28.000Z",
+      "market": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "slug": "which-party-will-win-the-house-in-2026",
+      "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 18391.1752,
+      "direction": "UP",
+      "price": 0.94,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
     {
       "time": "2026-11-03T21:55:03.000Z",
       "market": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
@@ -1761,5 +1785,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T23:21:40.963Z"
+  "generatedAt": "2026-11-03T23:26:43.660Z"
 }
