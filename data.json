@@ -1,24 +1,101 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T05:20:25.910Z",
+    "saved_at": "2026-11-03T05:26:50.506Z",
     "version": "smart v2",
-    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
-    "tracked_label": "fantasy7788",
-    "total_alerts": 12,
-    "total_volume": 37679.63359999755,
-    "today_trades": 16,
-    "uptime_seconds": 1065,
-    "last_poll": "2026-11-03T05:18:03.559Z"
+    "tracked_address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+    "tracked_label": "sports_whale_1",
+    "total_alerts": 15,
+    "total_volume": 39946.753599997544,
+    "today_trades": 23,
+    "uptime_seconds": 1450,
+    "last_poll": "2026-11-03T05:24:26.637Z"
   },
   "categories": {
     "sports": {
-      "count": 12,
-      "buyCount": 12,
-      "sellCount": 0,
-      "buyVolume": 909.7819999975501,
-      "sellVolume": 0,
-      "totalVolume": 909.7819999975501,
+      "count": 19,
+      "buyCount": 16,
+      "sellCount": 3,
+      "buyVolume": 1659.67699999755,
+      "sellVolume": 1517.225,
+      "totalVolume": 3176.90199999755,
       "recentTrades": [
+        {
+          "time": "2026-11-03T05:24:25.000Z",
+          "market": "Spread: Raptors (-1.5)",
+          "slug": "nba-tor-lac-2026-11-02",
+          "url": "https://polymarket.com/event/nba-tor-lac-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 2.1,
+          "direction": "Raptors",
+          "price": 0.21,
+          "outcome": "Raptors"
+        },
+        {
+          "time": "2026-11-03T05:21:09.000Z",
+          "market": "Spread: Warriors (-2.5)",
+          "slug": "nba-phx-gsw-2026-11-02",
+          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 395.64,
+          "direction": "Warriors",
+          "price": 0.72,
+          "outcome": "Warriors"
+        },
+        {
+          "time": "2026-11-03T05:21:07.000Z",
+          "market": "Spread: Warriors (-2.5)",
+          "slug": "nba-phx-gsw-2026-11-02",
+          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 324.36,
+          "direction": "Warriors",
+          "price": 0.72,
+          "outcome": "Warriors"
+        },
+        {
+          "time": "2026-11-03T05:20:07.000Z",
+          "market": "Spread: Lakers (-18.5)",
+          "slug": "nba-mia-lal-2026-11-02",
+          "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 47.76,
+          "direction": "Lakers",
+          "price": 0.48,
+          "outcome": "Lakers"
+        },
+        {
+          "time": "2026-11-03T05:20:07.000Z",
+          "market": "Spread: Lakers (-18.5)",
+          "slug": "nba-mia-lal-2026-11-02",
+          "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 47.76,
+          "direction": "Lakers",
+          "price": 0.48,
+          "outcome": "Lakers"
+        },
+        {
+          "time": "2026-11-03T05:11:21.000Z",
+          "market": "Spread: Warriors (-2.5)",
+          "slug": "nba-phx-gsw-2026-11-02",
+          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 797.225,
+          "direction": "Suns",
+          "price": 0.55,
+          "outcome": "Suns"
+        },
+        {
+          "time": "2026-11-03T05:11:21.000Z",
+          "market": "Spread: Warriors (-2.5)",
+          "slug": "nba-phx-gsw-2026-11-02",
+          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 652.275,
+          "direction": "Warriors",
+          "price": 0.45,
+          "outcome": "Warriors"
+        },
         {
           "time": "2026-11-03T05:02:22.000Z",
           "market": "Spread: Suns (-5.5)",
@@ -237,6 +314,90 @@
   },
   "recent": [
     {
+      "time": "2026-11-03T05:24:25.000Z",
+      "market": "Spread: Raptors (-1.5)",
+      "slug": "nba-tor-lac-2026-11-02",
+      "url": "https://polymarket.com/event/nba-tor-lac-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.1,
+      "direction": "Raptors",
+      "price": 0.21,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T05:21:09.000Z",
+      "market": "Spread: Warriors (-2.5)",
+      "slug": "nba-phx-gsw-2026-11-02",
+      "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 395.64,
+      "direction": "Warriors",
+      "price": 0.72,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T05:21:07.000Z",
+      "market": "Spread: Warriors (-2.5)",
+      "slug": "nba-phx-gsw-2026-11-02",
+      "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 324.36,
+      "direction": "Warriors",
+      "price": 0.72,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T05:20:07.000Z",
+      "market": "Spread: Lakers (-18.5)",
+      "slug": "nba-mia-lal-2026-11-02",
+      "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 47.76,
+      "direction": "Lakers",
+      "price": 0.48,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T05:20:07.000Z",
+      "market": "Spread: Lakers (-18.5)",
+      "slug": "nba-mia-lal-2026-11-02",
+      "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 47.76,
+      "direction": "Lakers",
+      "price": 0.48,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T05:11:21.000Z",
+      "market": "Spread: Warriors (-2.5)",
+      "slug": "nba-phx-gsw-2026-11-02",
+      "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 797.225,
+      "direction": "Suns",
+      "price": 0.55,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T05:11:21.000Z",
+      "market": "Spread: Warriors (-2.5)",
+      "slug": "nba-phx-gsw-2026-11-02",
+      "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 652.275,
+      "direction": "Warriors",
+      "price": 0.45,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
       "time": "2026-11-03T05:10:15.000Z",
       "market": "US announces end of Iranian blockade by November 15, 2026?",
       "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
@@ -430,5 +591,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T05:24:04.437Z"
+  "generatedAt": "2026-11-03T05:29:06.980Z"
 }
