@@ -1,24 +1,57 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T18:30:06.539Z",
+    "saved_at": "2026-11-03T19:28:27.701Z",
     "version": "smart v2",
     "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
     "tracked_label": "chubbytoro",
-    "total_alerts": 53,
-    "total_volume": 122116.16270501839,
-    "today_trades": 81,
-    "uptime_seconds": 48446,
-    "last_poll": "2026-11-03T18:27:44.400Z"
+    "total_alerts": 54,
+    "total_volume": 150559.2779050184,
+    "today_trades": 84,
+    "uptime_seconds": 51947,
+    "last_poll": "2026-11-03T19:26:05.624Z"
   },
   "categories": {
     "sports": {
-      "count": 37,
-      "buyCount": 30,
+      "count": 40,
+      "buyCount": 33,
       "sellCount": 7,
-      "buyVolume": 31295.011100131353,
+      "buyVolume": 59738.12630013135,
       "sellVolume": 4235.8949999999995,
-      "totalVolume": 35530.90610013135,
+      "totalVolume": 63974.021300131346,
       "recentTrades": [
+        {
+          "time": "2026-11-03T19:15:24.000Z",
+          "market": "Avalanche vs. Blue Jackets",
+          "slug": "nhl-col-cbj-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 9600,
+          "direction": "Blue Jackets",
+          "price": 0.48,
+          "outcome": "Blue Jackets"
+        },
+        {
+          "time": "2026-11-03T19:15:22.000Z",
+          "market": "Avalanche vs. Blue Jackets",
+          "slug": "nhl-col-cbj-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 9243.1152,
+          "direction": "Blue Jackets",
+          "price": 0.48,
+          "outcome": "Blue Jackets"
+        },
+        {
+          "time": "2026-11-03T19:15:22.000Z",
+          "market": "Avalanche vs. Blue Jackets",
+          "slug": "nhl-col-cbj-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 9600,
+          "direction": "Blue Jackets",
+          "price": 0.48,
+          "outcome": "Blue Jackets"
+        },
         {
           "time": "2026-11-03T18:28:30.000Z",
           "market": "Jets vs. Canadiens",
@@ -205,39 +238,6 @@
           "direction": "Clippers",
           "price": 0.61,
           "outcome": "Clippers"
-        },
-        {
-          "time": "2026-11-03T05:32:00.000Z",
-          "market": "Spread: Clippers (-2.5)",
-          "slug": "nba-tor-lac-2026-11-02",
-          "url": "https://polymarket.com/event/nba-tor-lac-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 243.695,
-          "direction": "Clippers",
-          "price": 0.61,
-          "outcome": "Clippers"
-        },
-        {
-          "time": "2026-11-03T05:24:25.000Z",
-          "market": "Spread: Raptors (-1.5)",
-          "slug": "nba-tor-lac-2026-11-02",
-          "url": "https://polymarket.com/event/nba-tor-lac-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 2.1,
-          "direction": "Raptors",
-          "price": 0.21,
-          "outcome": "Raptors"
-        },
-        {
-          "time": "2026-11-03T05:21:09.000Z",
-          "market": "Spread: Warriors (-2.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 395.64,
-          "direction": "Warriors",
-          "price": 0.72,
-          "outcome": "Warriors"
         }
       ]
     },
@@ -655,6 +655,42 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T19:15:24.000Z",
+      "market": "Avalanche vs. Blue Jackets",
+      "slug": "nhl-col-cbj-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 9600,
+      "direction": "Blue Jackets",
+      "price": 0.48,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-03T19:15:22.000Z",
+      "market": "Avalanche vs. Blue Jackets",
+      "slug": "nhl-col-cbj-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 9243.1152,
+      "direction": "Blue Jackets",
+      "price": 0.48,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-03T19:15:22.000Z",
+      "market": "Avalanche vs. Blue Jackets",
+      "slug": "nhl-col-cbj-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 9600,
+      "direction": "Blue Jackets",
+      "price": 0.48,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
     {
       "time": "2026-11-03T18:28:30.000Z",
       "market": "Jets vs. Canadiens",
@@ -1629,5 +1665,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T19:24:13.854Z"
+  "generatedAt": "2026-11-03T19:29:16.392Z"
 }
