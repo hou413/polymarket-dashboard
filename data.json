@@ -1,24 +1,46 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T04:29:42.099Z",
+    "saved_at": "2026-11-03T04:39:33.569Z",
     "version": "smart v2",
-    "tracked_address": "all",
-    "tracked_label": "all",
-    "total_alerts": 316,
-    "total_volume": 139974.2426950668,
-    "today_trades": 316,
-    "uptime_seconds": 0,
-    "last_poll": "2026-11-03T04:29:42.101Z"
+    "tracked_address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+    "tracked_label": "sports_whale_1",
+    "total_alerts": 59,
+    "total_volume": 137524.83081999235,
+    "today_trades": 222,
+    "uptime_seconds": 677,
+    "last_poll": "2026-11-03T04:33:32.669Z"
   },
   "categories": {
     "sports": {
-      "count": 256,
-      "buyCount": 228,
-      "sellCount": 28,
-      "buyVolume": 86093.17564010572,
-      "sellVolume": 7672.231100041599,
-      "totalVolume": 93765.40674014731,
+      "count": 200,
+      "buyCount": 178,
+      "sellCount": 22,
+      "buyVolume": 68277.51024011897,
+      "sellVolume": 6803.6135000416,
+      "totalVolume": 75081.12374016056,
       "recentTrades": [
+        {
+          "time": "2026-11-03T04:32:13.000Z",
+          "market": "Spread: Suns (-7.5)",
+          "slug": "nba-phx-gsw-2026-11-02",
+          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 309.84499999999997,
+          "direction": "Suns",
+          "price": 0.31,
+          "outcome": "Suns"
+        },
+        {
+          "time": "2026-11-03T04:31:51.000Z",
+          "market": "Spread: Suns (-3.5)",
+          "slug": "nba-phx-gsw-2026-11-02",
+          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 440,
+          "direction": "Suns",
+          "price": 0.44,
+          "outcome": "Suns"
+        },
         {
           "time": "2026-11-03T04:17:21.000Z",
           "market": "Bears vs. Seahawks: O/U 52.5",
@@ -37,7 +59,7 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "SELL",
           "value": 23.35,
-          "direction": "DOWN",
+          "direction": "Seahawks",
           "price": 0.467,
           "outcome": "Seahawks"
         },
@@ -48,20 +70,9 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "BUY",
           "value": 6.4,
-          "direction": "DOWN",
+          "direction": "Bears",
           "price": 0.32,
           "outcome": "Bears"
-        },
-        {
-          "time": "2026-11-03T04:16:55.000Z",
-          "market": "Spread: Bears (-10.5)",
-          "slug": "nfl-chi-sea-2026-11-03",
-          "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 26.73,
-          "direction": "DOWN",
-          "price": 0.54,
-          "outcome": "Seahawks"
         },
         {
           "time": "2026-11-03T04:16:55.000Z",
@@ -70,7 +81,7 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "BUY",
           "value": 15.7430700009,
-          "direction": "DOWN",
+          "direction": "Bears",
           "price": 0.3180418182,
           "outcome": "Bears"
         },
@@ -81,7 +92,7 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "BUY",
           "value": 15.741,
-          "direction": "DOWN",
+          "direction": "Bears",
           "price": 0.318,
           "outcome": "Bears"
         },
@@ -92,7 +103,18 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "SELL",
           "value": 26.73,
-          "direction": "DOWN",
+          "direction": "Seahawks",
+          "price": 0.54,
+          "outcome": "Seahawks"
+        },
+        {
+          "time": "2026-11-03T04:16:55.000Z",
+          "market": "Spread: Bears (-10.5)",
+          "slug": "nfl-chi-sea-2026-11-03",
+          "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 26.73,
+          "direction": "Seahawks",
           "price": 0.54,
           "outcome": "Seahawks"
         },
@@ -103,7 +125,7 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "BUY",
           "value": 30.845,
-          "direction": "DOWN",
+          "direction": "Bears",
           "price": 0.31,
           "outcome": "Bears"
         },
@@ -114,7 +136,7 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "SELL",
           "value": 68.655,
-          "direction": "DOWN",
+          "direction": "Seahawks",
           "price": 0.69,
           "outcome": "Seahawks"
         },
@@ -125,7 +147,7 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "BUY",
           "value": 30.845,
-          "direction": "DOWN",
+          "direction": "Bears",
           "price": 0.31,
           "outcome": "Bears"
         },
@@ -136,7 +158,7 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "BUY",
           "value": 30.8250000025,
-          "direction": "DOWN",
+          "direction": "Bears",
           "price": 0.309798995,
           "outcome": "Bears"
         },
@@ -147,7 +169,7 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "SELL",
           "value": 37.1745,
-          "direction": "DOWN",
+          "direction": "Seahawks",
           "price": 0.751,
           "outcome": "Seahawks"
         },
@@ -158,7 +180,7 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "SELL",
           "value": 37.224,
-          "direction": "DOWN",
+          "direction": "Seahawks",
           "price": 0.752,
           "outcome": "Seahawks"
         },
@@ -169,7 +191,7 @@
           "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
           "side": "BUY",
           "value": 380,
-          "direction": "DOWN",
+          "direction": "Suns",
           "price": 0.38,
           "outcome": "Suns"
         },
@@ -180,7 +202,7 @@
           "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
           "side": "BUY",
           "value": 67.455,
-          "direction": "DOWN",
+          "direction": "Seahawks",
           "price": 0.09,
           "outcome": "Seahawks"
         },
@@ -191,7 +213,7 @@
           "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
           "side": "BUY",
           "value": 11.34,
-          "direction": "DOWN",
+          "direction": "Suns",
           "price": 0.63,
           "outcome": "Suns"
         },
@@ -202,7 +224,7 @@
           "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
           "side": "BUY",
           "value": 77.08,
-          "direction": "DOWN",
+          "direction": "Suns",
           "price": 0.41,
           "outcome": "Suns"
         },
@@ -213,261 +235,239 @@
           "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
           "side": "BUY",
           "value": 13.489999999999998,
-          "direction": "DOWN",
+          "direction": "Suns",
           "price": 0.71,
           "outcome": "Suns"
-        },
-        {
-          "time": "2026-11-03T04:11:16.000Z",
-          "market": "Spread: Warriors (-6.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 119.88,
-          "direction": "DOWN",
-          "price": 0.24,
-          "outcome": "Warriors"
-        },
-        {
-          "time": "2026-11-03T04:11:16.000Z",
-          "market": "Spread: Warriors (-6.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 119.88,
-          "direction": "DOWN",
-          "price": 0.24,
-          "outcome": "Warriors"
         }
       ]
     },
     "politics": {
-      "count": 55,
-      "buyCount": 49,
-      "sellCount": 6,
-      "buyVolume": 36676.84913491724,
-      "sellVolume": 1930.41971997005,
-      "totalVolume": 38607.26885488729,
+      "count": 22,
+      "buyCount": 11,
+      "sellCount": 11,
+      "buyVolume": 39138.71374962471,
+      "sellVolume": 23304.99333020701,
+      "totalVolume": 62443.707079831715,
       "recentTrades": [
         {
-          "time": "2026-11-03T04:18:43.000Z",
-          "market": "US x Iran ceasefire continues through November 2?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+          "time": "2026-10-30T00:40:55.000Z",
+          "market": "Predict.fun FDV above $2.5B one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
           "side": "BUY",
-          "value": 23.999999000184037,
+          "value": 1,
           "direction": "UP",
-          "price": 0.6960510528,
+          "price": 0.05,
           "outcome": "Yes"
         },
         {
-          "time": "2026-11-03T04:16:55.000Z",
-          "market": "US x Iran ceasefire continues through November 2?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 2478.9999991117843,
+          "time": "2026-10-29T12:55:25.000Z",
+          "market": "Predict.fun FDV above $500M one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 3731.6990001588,
           "direction": "UP",
-          "price": 0.7298600164,
+          "price": 0.9635163956,
           "outcome": "Yes"
         },
         {
-          "time": "2026-11-03T04:12:09.000Z",
-          "market": "US x Iran ceasefire continues through November 2?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 1999.9999998822223,
+          "time": "2026-10-29T10:01:19.000Z",
+          "market": "Predict.fun FDV above $500M one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 664.47,
           "direction": "UP",
-          "price": 0.7199999999,
+          "price": 0.963,
           "outcome": "Yes"
         },
         {
-          "time": "2026-11-03T04:11:10.000Z",
-          "market": "US x Iran ceasefire continues through November 2?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+          "time": "2026-10-29T09:12:29.000Z",
+          "market": "Predict.fun FDV above $500M one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
           "side": "SELL",
-          "value": 962.47999996005,
-          "direction": "DOWN",
-          "price": 0.200522933,
-          "outcome": "No"
+          "value": 2220.7459999608,
+          "direction": "UP",
+          "price": 0.9651221208,
+          "outcome": "Yes"
         },
         {
-          "time": "2026-11-03T04:10:01.000Z",
-          "market": "US x Iran ceasefire continues through November 2?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+          "time": "2026-10-29T09:12:05.000Z",
+          "market": "Predict.fun FDV above $500M one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
           "side": "SELL",
-          "value": 56.987390000000005,
-          "direction": "DOWN",
-          "price": 0.28493695,
-          "outcome": "No"
+          "value": 1982.6401,
+          "direction": "UP",
+          "price": 0.967,
+          "outcome": "Yes"
         },
         {
-          "time": "2026-11-03T04:00:12.000Z",
-          "market": "US x Iran ceasefire continues through October 31?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+          "time": "2026-10-29T07:02:23.000Z",
+          "market": "Predict.fun FDV above $500M one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
           "side": "SELL",
-          "value": 405.54400000000004,
-          "direction": "DOWN",
-          "price": 0.405544,
-          "outcome": "No"
+          "value": 1040.8460000369998,
+          "direction": "UP",
+          "price": 0.961076639,
+          "outcome": "Yes"
         },
         {
-          "time": "2026-11-03T03:53:55.000Z",
-          "market": "US x Iran ceasefire continues through October 31?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+          "time": "2026-10-29T05:05:02.000Z",
+          "market": "Predict.fun FDV above $500M one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
           "side": "SELL",
-          "value": 107.78753001,
-          "direction": "DOWN",
-          "price": 0.3592917667,
-          "outcome": "No"
+          "value": 93.508,
+          "direction": "UP",
+          "price": 0.964,
+          "outcome": "Yes"
         },
         {
-          "time": "2026-11-03T02:24:15.000Z",
-          "market": "US x Iran ceasefire continues through October 31?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 63.000000001424176,
-          "direction": "DOWN",
-          "price": 0.57215134,
-          "outcome": "No"
-        },
-        {
-          "time": "2026-11-03T02:20:09.000Z",
-          "market": "US x Iran ceasefire continues through November 2?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 200.0000000095652,
-          "direction": "DOWN",
-          "price": 0.4599999997,
-          "outcome": "No"
-        },
-        {
-          "time": "2026-11-03T02:19:39.000Z",
-          "market": "US x Iran ceasefire continues through November 2?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 699.9999999556522,
-          "direction": "DOWN",
-          "price": 0.4599999998,
-          "outcome": "No"
-        },
-        {
-          "time": "2026-11-03T01:06:51.000Z",
-          "market": "US x Iran ceasefire continues through November 2?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 16.8,
-          "direction": "DOWN",
-          "price": 0.56,
-          "outcome": "No"
-        },
-        {
-          "time": "2026-11-03T01:05:34.000Z",
-          "market": "US x Iran ceasefire continues through October 31?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 1151.2320399237722,
-          "direction": "DOWN",
-          "price": 0.5496610263,
-          "outcome": "No"
-        },
-        {
-          "time": "2026-11-02T21:26:13.000Z",
-          "market": "US-Iran ceasefire continues through the midterms?",
-          "slug": "us-iran-ceasefire-continues-through-the-midterms",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 20.9390699972,
-          "direction": "DOWN",
-          "price": 0.0926507522,
-          "outcome": "No"
-        },
-        {
-          "time": "2026-11-02T21:20:06.000Z",
-          "market": "US x Iran ceasefire continues through November 22?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+          "time": "2026-10-29T04:39:20.000Z",
+          "market": "Predict.fun FDV above $500M one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
           "side": "SELL",
-          "value": 175.6208,
-          "direction": "DOWN",
-          "price": 0.53,
-          "outcome": "No"
+          "value": 1276.759999944,
+          "direction": "UP",
+          "price": 0.9672424242,
+          "outcome": "Yes"
         },
         {
-          "time": "2026-11-02T21:19:13.000Z",
-          "market": "US x Iran ceasefire continues through November 5?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+          "time": "2026-10-29T03:17:08.000Z",
+          "market": "Predict.fun FDV above $600M one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
           "side": "SELL",
-          "value": 222,
-          "direction": "DOWN",
-          "price": 0.2,
-          "outcome": "No"
+          "value": 2332.7566001108758,
+          "direction": "UP",
+          "price": 0.9306383098,
+          "outcome": "Yes"
         },
         {
-          "time": "2026-11-02T21:06:21.000Z",
-          "market": "US x Iran ceasefire continues through November 5?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 23.215799999685,
-          "direction": "DOWN",
-          "price": 0.2165047095,
-          "outcome": "No"
+          "time": "2026-10-29T02:59:58.000Z",
+          "market": "Predict.fun FDV above $600M one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 4622.33858988681,
+          "direction": "UP",
+          "price": 0.9342021039,
+          "outcome": "Yes"
         },
         {
-          "time": "2026-11-02T21:03:31.000Z",
-          "market": "US x Iran ceasefire continues through November 3?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 100,
-          "direction": "DOWN",
-          "price": 0.1,
-          "outcome": "No"
+          "time": "2026-10-29T02:57:32.000Z",
+          "market": "Predict.fun FDV above $500M one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 4143.0436400650415,
+          "direction": "UP",
+          "price": 0.9546689433,
+          "outcome": "Yes"
         },
         {
-          "time": "2026-11-02T20:57:52.000Z",
-          "market": "US x Iran ceasefire continues through November 2?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 2.65999999890159,
-          "direction": "DOWN",
-          "price": 0.0903208938,
-          "outcome": "No"
+          "time": "2026-10-29T02:25:28.000Z",
+          "market": "Predict.fun FDV above $1B one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 1196.185400043681,
+          "direction": "UP",
+          "price": 0.7018261079,
+          "outcome": "Yes"
         },
         {
-          "time": "2026-11-02T20:54:43.000Z",
-          "market": "US x Iran ceasefire continues through November 15?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+          "time": "2026-10-29T00:03:05.000Z",
+          "market": "Predict.fun FDV above $3B one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
           "side": "BUY",
-          "value": 187.9999999983271,
-          "direction": "DOWN",
-          "price": 0.4300616861,
-          "outcome": "No"
+          "value": 91.049510035017,
+          "direction": "UP",
+          "price": 0.0494836983,
+          "outcome": "Yes"
         },
         {
-          "time": "2026-11-02T20:54:33.000Z",
-          "market": "US x Iran ceasefire continues through November 6?",
-          "slug": "us-iran-ceasefire-continues-throughptptpt",
-          "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+          "time": "2026-10-28T10:36:14.000Z",
+          "market": "Predict.fun FDV above $1.5B one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
           "side": "BUY",
-          "value": 15,
-          "direction": "DOWN",
-          "price": 0.15,
-          "outcome": "No"
+          "value": 142.769999998,
+          "direction": "UP",
+          "price": 0.4199117647,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-10-28T10:34:23.000Z",
+          "market": "Predict.fun FDV above $2B one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 97.83208000948801,
+          "direction": "UP",
+          "price": 0.2718161814,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-10-28T08:59:23.000Z",
+          "market": "Predict.fun FDV above $2B one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 243.46215001035503,
+          "direction": "UP",
+          "price": 0.3485749159,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-10-28T08:47:32.000Z",
+          "market": "Predict.fun FDV above $1.5B one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 2055.969250128625,
+          "direction": "UP",
+          "price": 0.5554046735,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-10-28T03:38:12.000Z",
+          "market": "Predict.fun FDV above $1B one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 32.38137,
+          "direction": "UP",
+          "price": 0.567,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-10-27T16:29:02.000Z",
+          "market": "Predict.fun FDV above $1.5B one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 174.96,
+          "direction": "UP",
+          "price": 0.3645,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-10-27T15:47:02.000Z",
+          "market": "Predict.fun FDV above $1B one day after launch?",
+          "slug": "predictfun-fdv-above-one-day-after-launch",
+          "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 35978.96829940089,
+          "direction": "UP",
+          "price": 0.5697978569,
+          "outcome": "Yes"
         }
       ]
     },
@@ -490,83 +490,39 @@
       "recentTrades": []
     },
     "other": {
-      "count": 5,
-      "buyCount": 3,
-      "sellCount": 2,
-      "buyVolume": 7261.507100004716,
-      "sellVolume": 340.0600000275,
-      "totalVolume": 7601.567100032216,
-      "recentTrades": [
-        {
-          "time": "2026-11-03T03:54:03.000Z",
-          "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
-          "slug": "wta-lansere-okutoyi-2026-11-02",
-          "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 346.79019999999997,
-          "direction": "DOWN",
-          "price": 0.59,
-          "outcome": "Sofya Lansere"
-        },
-        {
-          "time": "2026-11-03T03:30:12.000Z",
-          "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
-          "slug": "what-price-will-wti-hit-in-november-2026",
-          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 70.06000000471748,
-          "direction": "DOWN",
-          "price": 0.3852164103,
-          "outcome": "No"
-        },
-        {
-          "time": "2026-11-03T03:29:57.000Z",
-          "market": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in November?",
-          "slug": "what-price-will-wti-hit-in-november-2026",
-          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 284.0600000275,
-          "direction": "DOWN",
-          "price": 0.4087194245,
-          "outcome": "No"
-        },
-        {
-          "time": "2026-11-03T01:49:52.000Z",
-          "market": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
-          "slug": "cs2-aur1-g2-2026-11-03",
-          "url": "https://polymarket.com/event/cs2-aur1-g2-2026-11-03?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 56.00000000000001,
-          "direction": "DOWN",
-          "price": 0.56,
-          "outcome": "Aurora Gaming"
-        },
-        {
-          "time": "2026-11-03T01:49:34.000Z",
-          "market": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
-          "slug": "cs2-aur1-g2-2026-11-03",
-          "url": "https://polymarket.com/event/cs2-aur1-g2-2026-11-03?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 6844.656899999999,
-          "direction": "DOWN",
-          "price": 0.57,
-          "outcome": "Aurora Gaming"
-        }
-      ]
+      "count": 0,
+      "buyCount": 0,
+      "sellCount": 0,
+      "buyVolume": 0,
+      "sellVolume": 0,
+      "totalVolume": 0,
+      "recentTrades": []
     }
   },
   "recent": [
     {
-      "time": "2026-11-03T04:18:43.000Z",
-      "market": "US x Iran ceasefire continues through November 2?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+      "time": "2026-11-03T04:32:13.000Z",
+      "market": "Spread: Suns (-7.5)",
+      "slug": "nba-phx-gsw-2026-11-02",
+      "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
-      "value": 23.999999000184037,
-      "direction": "UP",
-      "price": 0.6960510528,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
+      "value": 309.84499999999997,
+      "direction": "Suns",
+      "price": 0.31,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T04:31:51.000Z",
+      "market": "Spread: Suns (-3.5)",
+      "slug": "nba-phx-gsw-2026-11-02",
+      "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 440,
+      "direction": "Suns",
+      "price": 0.44,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:17:21.000Z",
@@ -578,7 +534,7 @@
       "direction": "UP",
       "price": 0.6415254237,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:17:19.000Z",
@@ -587,10 +543,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 23.35,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.467,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:17:03.000Z",
@@ -599,22 +555,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 6.4,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.32,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T04:16:55.000Z",
-      "market": "Spread: Bears (-10.5)",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 26.73,
-      "direction": "DOWN",
-      "price": 0.54,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:16:55.000Z",
@@ -623,10 +567,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 15.7430700009,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.3180418182,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:16:55.000Z",
@@ -635,10 +579,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 15.741,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.318,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:16:55.000Z",
@@ -647,22 +591,22 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 26.73,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.54,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:16:55.000Z",
-      "market": "US x Iran ceasefire continues through November 2?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 2478.9999991117843,
-      "direction": "UP",
-      "price": 0.7298600164,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
+      "market": "Spread: Bears (-10.5)",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 26.73,
+      "direction": "Seahawks",
+      "price": 0.54,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:16:33.000Z",
@@ -671,10 +615,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 30.845,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.31,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:16:33.000Z",
@@ -683,10 +627,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 68.655,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.69,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:16:22.000Z",
@@ -695,10 +639,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 30.845,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.31,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:16:22.000Z",
@@ -707,10 +651,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 30.8250000025,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.309798995,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:16:03.000Z",
@@ -719,10 +663,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 37.1745,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.751,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:16:01.000Z",
@@ -731,10 +675,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 37.224,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.752,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:14:51.000Z",
@@ -743,22 +687,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 380,
-      "direction": "DOWN",
+      "direction": "Suns",
       "price": 0.38,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T04:12:09.000Z",
-      "market": "US x Iran ceasefire continues through November 2?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 1999.9999998822223,
-      "direction": "UP",
-      "price": 0.7199999999,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:11:58.000Z",
@@ -767,10 +699,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 67.455,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.09,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:11:54.000Z",
@@ -779,10 +711,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 11.34,
-      "direction": "DOWN",
+      "direction": "Suns",
       "price": 0.63,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:11:52.000Z",
@@ -791,10 +723,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 77.08,
-      "direction": "DOWN",
+      "direction": "Suns",
       "price": 0.41,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:11:52.000Z",
@@ -803,10 +735,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 13.489999999999998,
-      "direction": "DOWN",
+      "direction": "Suns",
       "price": 0.71,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:11:16.000Z",
@@ -815,10 +747,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 119.88,
-      "direction": "DOWN",
+      "direction": "Warriors",
       "price": 0.24,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:11:16.000Z",
@@ -827,22 +759,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 119.88,
-      "direction": "DOWN",
+      "direction": "Warriors",
       "price": 0.24,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T04:11:10.000Z",
-      "market": "US x Iran ceasefire continues through November 2?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 962.47999996005,
-      "direction": "DOWN",
-      "price": 0.200522933,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:11:06.000Z",
@@ -851,10 +771,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 3.04,
-      "direction": "DOWN",
+      "direction": "Suns",
       "price": 0.16,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:11:03.000Z",
@@ -866,7 +786,7 @@
       "direction": "UP",
       "price": 0.1596817022,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:10:45.000Z",
@@ -875,22 +795,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 42.64,
-      "direction": "DOWN",
+      "direction": "Suns",
       "price": 0.26,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T04:10:01.000Z",
-      "market": "US x Iran ceasefire continues through November 2?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 56.987390000000005,
-      "direction": "DOWN",
-      "price": 0.28493695,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:09:52.000Z",
@@ -899,10 +807,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 12.299999999999999,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.3,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:08:40.000Z",
@@ -914,7 +822,7 @@
       "direction": "UP",
       "price": 0.53,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:08:25.000Z",
@@ -926,7 +834,7 @@
       "direction": "UP",
       "price": 0.52,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:08:25.000Z",
@@ -938,7 +846,7 @@
       "direction": "UP",
       "price": 0.46,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:07:57.000Z",
@@ -950,7 +858,7 @@
       "direction": "UP",
       "price": 0.5393131548,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:07:55.000Z",
@@ -959,10 +867,10 @@
       "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 8.280000000000001,
-      "direction": "DOWN",
+      "direction": "Lakers",
       "price": 0.46,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:07:30.000Z",
@@ -971,10 +879,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 4.18,
-      "direction": "DOWN",
+      "direction": "Warriors",
       "price": 0.22,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:07:10.000Z",
@@ -983,10 +891,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1239.315,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.37,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:07:03.000Z",
@@ -995,10 +903,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1239.315,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.37,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:06:58.000Z",
@@ -1007,10 +915,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 560,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.56,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:06:57.000Z",
@@ -1019,10 +927,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1131.343500113954,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.3501516554,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:06:51.000Z",
@@ -1031,10 +939,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 870.4499999999999,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.35,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:06:51.000Z",
@@ -1043,10 +951,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 227.435,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.13,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:06:51.000Z",
@@ -1055,10 +963,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 227.435,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.13,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:06:49.000Z",
@@ -1067,10 +975,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 26.803,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.547,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:06:40.000Z",
@@ -1079,10 +987,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 82.045720007218,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.5293613782,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:05:31.000Z",
@@ -1091,22 +999,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 650,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.5,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T04:05:13.000Z",
-      "market": "Spread: Bears (-14.5)",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 489,
-      "direction": "DOWN",
-      "price": 0.489,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:05:13.000Z",
@@ -1115,10 +1011,22 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 75.8750000028,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.4286723164,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T04:05:13.000Z",
+      "market": "Spread: Bears (-14.5)",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 489,
+      "direction": "Seahawks",
+      "price": 0.489,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:04:27.000Z",
@@ -1127,10 +1035,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 23.5092,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.26,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:04:27.000Z",
@@ -1142,7 +1050,7 @@
       "direction": "DOWN",
       "price": 0.18,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:03:52.000Z",
@@ -1151,10 +1059,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 132.34,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.13,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:03:52.000Z",
@@ -1163,10 +1071,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 1660.095,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.81,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:03:39.000Z",
@@ -1175,10 +1083,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 95,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.19,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:03:37.000Z",
@@ -1187,10 +1095,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 379.90500000000003,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.19,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:03:27.000Z",
@@ -1199,10 +1107,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 74.90780000000001,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.22,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:03:27.000Z",
@@ -1211,10 +1119,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 329.89,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.22,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:03:25.000Z",
@@ -1223,22 +1131,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 1214.595,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.81,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T04:03:18.000Z",
-      "market": "Spread: Bears (-10.5)",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 420,
-      "direction": "DOWN",
-      "price": 0.42,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:03:18.000Z",
@@ -1250,7 +1146,19 @@
       "direction": "UP",
       "price": 0.51,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T04:03:18.000Z",
+      "market": "Spread: Bears (-10.5)",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 420,
+      "direction": "Seahawks",
+      "price": 0.42,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:03:18.000Z",
@@ -1259,10 +1167,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 852.8,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.82,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:03:15.000Z",
@@ -1271,10 +1179,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 105,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.21,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T04:00:54.000Z",
@@ -1286,19 +1194,7 @@
       "direction": "UP",
       "price": 0.57,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T04:00:12.000Z",
-      "market": "US x Iran ceasefire continues through October 31?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 405.54400000000004,
-      "direction": "DOWN",
-      "price": 0.405544,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:59:19.000Z",
@@ -1310,7 +1206,7 @@
       "direction": "UP",
       "price": 0.52,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:59:19.000Z",
@@ -1322,7 +1218,7 @@
       "direction": "UP",
       "price": 0.58,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:58:37.000Z",
@@ -1331,10 +1227,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 107.9748,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.89,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:58:07.000Z",
@@ -1346,7 +1242,7 @@
       "direction": "DOWN",
       "price": 0.35,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:58:04.000Z",
@@ -1355,10 +1251,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 305,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.61,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:58:04.000Z",
@@ -1370,7 +1266,7 @@
       "direction": "DOWN",
       "price": 0.16,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:56:24.000Z",
@@ -1379,10 +1275,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 7.92,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.44,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:55:16.000Z",
@@ -1394,7 +1290,7 @@
       "direction": "UP",
       "price": 0.54,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:54:03.000Z",
@@ -1403,22 +1299,10 @@
       "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 346.79019999999997,
-      "direction": "DOWN",
+      "direction": "Sofya Lansere",
       "price": 0.59,
-      "category": "other",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T03:53:55.000Z",
-      "market": "US x Iran ceasefire continues through October 31?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 107.78753001,
-      "direction": "DOWN",
-      "price": 0.3592917667,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:53:54.000Z",
@@ -1427,10 +1311,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 4.41,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.63,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:53:54.000Z",
@@ -1439,10 +1323,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 611.4,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.6,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:53:21.000Z",
@@ -1454,7 +1338,7 @@
       "direction": "UP",
       "price": 0.44,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:53:10.000Z",
@@ -1466,7 +1350,7 @@
       "direction": "DOWN",
       "price": 0.28,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:53:10.000Z",
@@ -1478,7 +1362,7 @@
       "direction": "DOWN",
       "price": 0.73,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:53:10.000Z",
@@ -1490,7 +1374,7 @@
       "direction": "DOWN",
       "price": 0.24,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:49:52.000Z",
@@ -1502,7 +1386,7 @@
       "direction": "DOWN",
       "price": 0.43,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:49:33.000Z",
@@ -1511,10 +1395,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 342.54,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.66,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:48:52.000Z",
@@ -1523,10 +1407,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 884.0000000000001,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.68,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:48:33.000Z",
@@ -1538,7 +1422,7 @@
       "direction": "DOWN",
       "price": 0.65,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:47:22.000Z",
@@ -1547,10 +1431,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 5.2583400000000005,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.786,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:42:49.000Z",
@@ -1559,10 +1443,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 780,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.78,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:42:21.000Z",
@@ -1571,10 +1455,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 17.02,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.74,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:42:19.000Z",
@@ -1583,10 +1467,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 813.63,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.74,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:42:10.000Z",
@@ -1595,10 +1479,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 406.63,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.74,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:42:10.000Z",
@@ -1607,10 +1491,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 406.63,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.74,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:40:16.000Z",
@@ -1622,7 +1506,7 @@
       "direction": "UP",
       "price": 0.6120239282,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:36:34.000Z",
@@ -1634,7 +1518,7 @@
       "direction": "UP",
       "price": 0.48,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:36:33.000Z",
@@ -1646,19 +1530,7 @@
       "direction": "DOWN",
       "price": 0.52,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T03:35:21.000Z",
-      "market": "Spread: Bears (-3.5)",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 842.700000045,
-      "direction": "DOWN",
-      "price": 0.3585957447,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:35:21.000Z",
@@ -1667,10 +1539,22 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1739.4738999312867,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.6245889213,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T03:35:21.000Z",
+      "market": "Spread: Bears (-3.5)",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 842.700000045,
+      "direction": "Seahawks",
+      "price": 0.3585957447,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:35:21.000Z",
@@ -1679,10 +1563,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 3.8499999999999996,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.35,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:35:19.000Z",
@@ -1691,10 +1575,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 777.5,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.5,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:34:46.000Z",
@@ -1703,10 +1587,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1071.494,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.82,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:33:54.000Z",
@@ -1715,10 +1599,10 @@
       "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 3.4000000000000004,
-      "direction": "DOWN",
+      "direction": "Heat",
       "price": 0.34,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:30:12.000Z",
@@ -1727,34 +1611,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 28.4,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.71,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T03:30:12.000Z",
-      "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
-      "slug": "what-price-will-wti-hit-in-november-2026",
-      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 70.06000000471748,
-      "direction": "DOWN",
-      "price": 0.3852164103,
-      "category": "other",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-03T03:29:57.000Z",
-      "market": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in November?",
-      "slug": "what-price-will-wti-hit-in-november-2026",
-      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 284.0600000275,
-      "direction": "DOWN",
-      "price": 0.4087194245,
-      "category": "other",
-      "traderLabel": "fantasy7788"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:28:55.000Z",
@@ -1766,7 +1626,7 @@
       "direction": "DOWN",
       "price": 0.6,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:28:16.000Z",
@@ -1775,10 +1635,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 10.5,
-      "direction": "DOWN",
+      "direction": "Warriors",
       "price": 0.35,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:25:55.000Z",
@@ -1790,7 +1650,7 @@
       "direction": "DOWN",
       "price": 0.46,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:25:48.000Z",
@@ -1802,7 +1662,7 @@
       "direction": "DOWN",
       "price": 0.45,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:25:42.000Z",
@@ -1811,22 +1671,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 29.6,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.74,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T03:25:28.000Z",
-      "market": "Bears vs. Seahawks: O/U 44.5",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 444.4,
-      "direction": "DOWN",
-      "price": 0.44,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:25:28.000Z",
@@ -1838,7 +1686,19 @@
       "direction": "DOWN",
       "price": 0.6,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T03:25:28.000Z",
+      "market": "Bears vs. Seahawks: O/U 44.5",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 444.4,
+      "direction": "DOWN",
+      "price": 0.44,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:24:43.000Z",
@@ -1850,7 +1710,7 @@
       "direction": "UP",
       "price": 0.66,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:24:31.000Z",
@@ -1859,10 +1719,22 @@
       "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 11.52,
-      "direction": "DOWN",
+      "direction": "Lakers",
       "price": 0.36,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T03:23:36.000Z",
+      "market": "Bears vs. Seahawks: O/U 48.5",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 10.07,
+      "direction": "DOWN",
+      "price": 0.53,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:23:36.000Z",
@@ -1874,19 +1746,7 @@
       "direction": "DOWN",
       "price": 0.25,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T03:23:36.000Z",
-      "market": "Bears vs. Seahawks: O/U 48.5",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 10.07,
-      "direction": "DOWN",
-      "price": 0.53,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:21:27.000Z",
@@ -1898,7 +1758,7 @@
       "direction": "DOWN",
       "price": 0.56,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:20:42.000Z",
@@ -1907,10 +1767,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 171.05500002029999,
-      "direction": "DOWN",
+      "direction": "Suns",
       "price": 0.3537849018,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:20:42.000Z",
@@ -1919,10 +1779,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 594.8249999999999,
-      "direction": "DOWN",
+      "direction": "Suns",
       "price": 0.35,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:20:40.000Z",
@@ -1931,10 +1791,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 390.75,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.75,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:20:18.000Z",
@@ -1946,7 +1806,7 @@
       "direction": "DOWN",
       "price": 0.51,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:20:06.000Z",
@@ -1958,7 +1818,7 @@
       "direction": "DOWN",
       "price": 0.51,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:20:01.000Z",
@@ -1967,34 +1827,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 420,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.42,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T03:19:57.000Z",
-      "market": "Spread: Bears (-2.5)",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 330,
-      "direction": "DOWN",
-      "price": 0.33,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T03:19:57.000Z",
-      "market": "Spread: Bears (-5.5)",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 1774.97,
-      "direction": "DOWN",
-      "price": 0.53,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:19:57.000Z",
@@ -2003,10 +1839,34 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 728.0000000000001,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.56,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T03:19:57.000Z",
+      "market": "Spread: Bears (-5.5)",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1774.97,
+      "direction": "Seahawks",
+      "price": 0.53,
+      "category": "sports",
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T03:19:57.000Z",
+      "market": "Spread: Bears (-2.5)",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 330,
+      "direction": "Seahawks",
+      "price": 0.33,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:19:22.000Z",
@@ -2015,22 +1875,10 @@
       "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 4.3,
-      "direction": "DOWN",
+      "direction": "Heat",
       "price": 0.43,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T03:18:58.000Z",
-      "market": "Heat vs. Lakers: O/U 237.5",
-      "slug": "nba-mia-lal-2026-11-02",
-      "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 2.6500000000000004,
-      "direction": "DOWN",
-      "price": 0.53,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:18:58.000Z",
@@ -2042,7 +1890,19 @@
       "direction": "DOWN",
       "price": 0.72,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T03:18:58.000Z",
+      "market": "Heat vs. Lakers: O/U 237.5",
+      "slug": "nba-mia-lal-2026-11-02",
+      "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2.6500000000000004,
+      "direction": "DOWN",
+      "price": 0.53,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:18:57.000Z",
@@ -2054,7 +1914,7 @@
       "direction": "DOWN",
       "price": 0.72,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:18:45.000Z",
@@ -2063,10 +1923,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 90.10000000000001,
-      "direction": "DOWN",
+      "direction": "Suns",
       "price": 0.2,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:18:45.000Z",
@@ -2075,10 +1935,10 @@
       "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 109.9,
-      "direction": "DOWN",
+      "direction": "Suns",
       "price": 0.2,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:16:00.000Z",
@@ -2087,10 +1947,10 @@
       "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 295.815,
-      "direction": "DOWN",
+      "direction": "Lakers",
       "price": 0.37,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:16:00.000Z",
@@ -2099,10 +1959,10 @@
       "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 74.185,
-      "direction": "DOWN",
+      "direction": "Lakers",
       "price": 0.37,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:16:00.000Z",
@@ -2111,10 +1971,10 @@
       "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 65.52,
-      "direction": "DOWN",
+      "direction": "Lakers",
       "price": 0.42,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:14:33.000Z",
@@ -2123,10 +1983,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 2435.4,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.66,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:12:36.000Z",
@@ -2135,10 +1995,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 710,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.71,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:11:58.000Z",
@@ -2150,7 +2010,7 @@
       "direction": "DOWN",
       "price": 0.49,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:11:54.000Z",
@@ -2159,10 +2019,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 15.600000000000001,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.78,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:09:45.000Z",
@@ -2171,10 +2031,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1536.7099999999998,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.58,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:09:45.000Z",
@@ -2183,10 +2043,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 298.35779999999994,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.58,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:08:30.000Z",
@@ -2198,19 +2058,7 @@
       "direction": "DOWN",
       "price": 0.356763754,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T03:08:16.000Z",
-      "market": "Spread: Bears (-3.5)",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 538.533,
-      "direction": "DOWN",
-      "price": 0.53,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:08:16.000Z",
@@ -2219,10 +2067,22 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 334.3896,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.36,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T03:08:16.000Z",
+      "market": "Spread: Bears (-3.5)",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 538.533,
+      "direction": "Seahawks",
+      "price": 0.53,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:07:46.000Z",
@@ -2234,7 +2094,7 @@
       "direction": "UP",
       "price": 0.22,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:04:24.000Z",
@@ -2246,7 +2106,7 @@
       "direction": "DOWN",
       "price": 0.52,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:04:10.000Z",
@@ -2258,7 +2118,7 @@
       "direction": "DOWN",
       "price": 0.44,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:04:04.000Z",
@@ -2270,7 +2130,7 @@
       "direction": "DOWN",
       "price": 0.6,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T03:04:03.000Z",
@@ -2282,7 +2142,7 @@
       "direction": "DOWN",
       "price": 0.43,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:59:42.000Z",
@@ -2294,7 +2154,7 @@
       "direction": "DOWN",
       "price": 0.47,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:59:33.000Z",
@@ -2306,7 +2166,7 @@
       "direction": "DOWN",
       "price": 0.58,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:58:28.000Z",
@@ -2318,7 +2178,7 @@
       "direction": "UP",
       "price": 0.54,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:58:22.000Z",
@@ -2327,22 +2187,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 670,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.67,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T02:58:16.000Z",
-      "market": "Bears vs. Seahawks: O/U 42.5",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 16,
-      "direction": "DOWN",
-      "price": 0.4,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:58:16.000Z",
@@ -2354,7 +2202,19 @@
       "direction": "DOWN",
       "price": 0.56,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T02:58:16.000Z",
+      "market": "Bears vs. Seahawks: O/U 42.5",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 16,
+      "direction": "DOWN",
+      "price": 0.4,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:58:15.000Z",
@@ -2363,10 +2223,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 2.9,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.58,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:40:46.000Z",
@@ -2375,10 +2235,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 314.34000000000003,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.78,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:39:51.000Z",
@@ -2390,7 +2250,7 @@
       "direction": "UP",
       "price": 0.28,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:39:30.000Z",
@@ -2399,10 +2259,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 271.44,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.26,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:35:40.000Z",
@@ -2411,10 +2271,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 3.4499999999999997,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.69,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:35:28.000Z",
@@ -2423,10 +2283,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 2734.0592000800243,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.6699877474,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:35:25.000Z",
@@ -2435,10 +2295,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "SELL",
       "value": 11.5,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.46,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:35:25.000Z",
@@ -2447,10 +2307,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 20,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.5,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:34:40.000Z",
@@ -2459,10 +2319,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 510,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.51,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:34:25.000Z",
@@ -2474,7 +2334,7 @@
       "direction": "UP",
       "price": 0.4,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:33:22.000Z",
@@ -2483,10 +2343,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 554.38,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.53,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:33:00.000Z",
@@ -2498,19 +2358,7 @@
       "direction": "UP",
       "price": 0.26,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T02:32:00.000Z",
-      "market": "Thunder vs. Cavaliers",
-      "slug": "nba-okc-cle-2026-11-02",
-      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 10.4985,
-      "direction": "DOWN",
-      "price": 0.05,
-      "category": "sports",
-      "traderLabel": "VeryLucky888"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:31:42.000Z",
@@ -2519,10 +2367,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 992.53,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.77,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:29:36.000Z",
@@ -2534,7 +2382,7 @@
       "direction": "UP",
       "price": 0.37,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:29:27.000Z",
@@ -2543,22 +2391,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1559.8600000000001,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.46,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T02:29:22.000Z",
-      "market": "Thunder vs. Cavaliers",
-      "slug": "nba-okc-cle-2026-11-02",
-      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 159.62320000000003,
-      "direction": "DOWN",
-      "price": 0.17,
-      "category": "sports",
-      "traderLabel": "VeryLucky888"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:29:04.000Z",
@@ -2567,10 +2403,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1001,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.77,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:28:33.000Z",
@@ -2579,10 +2415,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1573.8,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.6,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:28:28.000Z",
@@ -2594,7 +2430,7 @@
       "direction": "UP",
       "price": 0.75,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:27:16.000Z",
@@ -2603,10 +2439,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1914.06,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.73,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:24:28.000Z",
@@ -2615,10 +2451,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 15.2,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.38,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:24:15.000Z",
@@ -2627,22 +2463,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 2.2199999999999998,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.74,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T02:24:15.000Z",
-      "market": "US x Iran ceasefire continues through October 31?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 63.000000001424176,
-      "direction": "DOWN",
-      "price": 0.57215134,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:22:46.000Z",
@@ -2651,22 +2475,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 22.2,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.74,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T02:22:40.000Z",
-      "market": "Spread: Bears (-10.5)",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 923,
-      "direction": "DOWN",
-      "price": 0.71,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:22:40.000Z",
@@ -2675,34 +2487,22 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 15.4,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.77,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
-      "time": "2026-11-03T02:20:09.000Z",
-      "market": "US x Iran ceasefire continues through November 2?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
+      "time": "2026-11-03T02:22:40.000Z",
+      "market": "Spread: Bears (-10.5)",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
-      "value": 200.0000000095652,
-      "direction": "DOWN",
-      "price": 0.4599999997,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-03T02:19:39.000Z",
-      "market": "US x Iran ceasefire continues through November 2?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 699.9999999556522,
-      "direction": "DOWN",
-      "price": 0.4599999998,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
+      "value": 923,
+      "direction": "Seahawks",
+      "price": 0.71,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:18:06.000Z",
@@ -2714,7 +2514,7 @@
       "direction": "UP",
       "price": 0.33,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:18:04.000Z",
@@ -2726,7 +2526,7 @@
       "direction": "UP",
       "price": 0.38,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:04:21.000Z",
@@ -2735,10 +2535,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 782.72,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.32,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T02:03:34.000Z",
@@ -2747,10 +2547,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1648.08,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.63,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:53:37.000Z",
@@ -2759,10 +2559,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 590,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.59,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:52:57.000Z",
@@ -2771,10 +2571,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 866.6999999999999,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.6,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:52:57.000Z",
@@ -2783,46 +2583,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 1889.6999999999998,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.6,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:49:52.000Z",
-      "market": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
-      "slug": "cs2-aur1-g2-2026-11-03",
-      "url": "https://polymarket.com/event/cs2-aur1-g2-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 56.00000000000001,
-      "direction": "DOWN",
-      "price": 0.56,
-      "category": "other",
-      "traderLabel": "VeryLucky888"
-    },
-    {
-      "time": "2026-11-03T01:49:34.000Z",
-      "market": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
-      "slug": "cs2-aur1-g2-2026-11-03",
-      "url": "https://polymarket.com/event/cs2-aur1-g2-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 6844.656899999999,
-      "direction": "DOWN",
-      "price": 0.57,
-      "category": "other",
-      "traderLabel": "VeryLucky888"
-    },
-    {
-      "time": "2026-11-03T01:36:16.000Z",
-      "market": "Spread: Seahawks (-1.5)",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 197.16,
-      "direction": "DOWN",
-      "price": 0.62,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:36:16.000Z",
@@ -2831,10 +2595,22 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 430,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.43,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T01:36:16.000Z",
+      "market": "Spread: Seahawks (-1.5)",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 197.16,
+      "direction": "Bears",
+      "price": 0.62,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:34:46.000Z",
@@ -2846,7 +2622,7 @@
       "direction": "DOWN",
       "price": 0.8,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:31:40.000Z",
@@ -2855,10 +2631,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 664.95,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.65,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:30:16.000Z",
@@ -2867,10 +2643,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 25.52,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.58,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:29:54.000Z",
@@ -2882,7 +2658,7 @@
       "direction": "UP",
       "price": 0.57,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:26:16.000Z",
@@ -2891,22 +2667,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 11.200000000000001,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.28,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:25:33.000Z",
-      "market": "Spread: Bears (-2.5)",
-      "slug": "nfl-chi-sea-2026-11-03",
-      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 600.62,
-      "direction": "DOWN",
-      "price": 0.59,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:25:33.000Z",
@@ -2915,10 +2679,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 816.145,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.71,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:25:33.000Z",
@@ -2927,10 +2691,22 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 126.735,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.71,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
+    },
+    {
+      "time": "2026-11-03T01:25:33.000Z",
+      "market": "Spread: Bears (-2.5)",
+      "slug": "nfl-chi-sea-2026-11-03",
+      "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 600.62,
+      "direction": "Seahawks",
+      "price": 0.59,
+      "category": "sports",
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:24:58.000Z",
@@ -2942,7 +2718,7 @@
       "direction": "DOWN",
       "price": 0.75,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:24:58.000Z",
@@ -2954,7 +2730,7 @@
       "direction": "DOWN",
       "price": 0.75,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:24:27.000Z",
@@ -2963,10 +2739,10 @@
       "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 2.9499999999999997,
-      "direction": "DOWN",
+      "direction": "Bulls",
       "price": 0.59,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:23:19.000Z",
@@ -2978,7 +2754,7 @@
       "direction": "DOWN",
       "price": 0.74,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:22:39.000Z",
@@ -2987,10 +2763,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 301.5,
-      "direction": "DOWN",
+      "direction": "Seahawks",
       "price": 0.3,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:21:48.000Z",
@@ -3002,7 +2778,7 @@
       "direction": "DOWN",
       "price": 0.49,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:21:03.000Z",
@@ -3014,7 +2790,7 @@
       "direction": "DOWN",
       "price": 0.49,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:21:03.000Z",
@@ -3026,7 +2802,7 @@
       "direction": "DOWN",
       "price": 0.49,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:20:33.000Z",
@@ -3038,7 +2814,7 @@
       "direction": "DOWN",
       "price": 0.65,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:19:07.000Z",
@@ -3050,7 +2826,7 @@
       "direction": "DOWN",
       "price": 0.51,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:18:37.000Z",
@@ -3059,10 +2835,10 @@
       "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 57.19,
-      "direction": "DOWN",
+      "direction": "Magic",
       "price": 0.38,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:18:37.000Z",
@@ -3071,10 +2847,10 @@
       "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 322.81,
-      "direction": "DOWN",
+      "direction": "Magic",
       "price": 0.38,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:18:34.000Z",
@@ -3083,10 +2859,10 @@
       "url": "https://polymarket.com/event/nfl-chi-sea-2026-11-03?utm_source=smart_v2_dashboard",
       "side": "BUY",
       "value": 58.800000000000004,
-      "direction": "DOWN",
+      "direction": "Bears",
       "price": 0.4,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:18:34.000Z",
@@ -3098,7 +2874,7 @@
       "direction": "DOWN",
       "price": 0.48,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:18:34.000Z",
@@ -3110,7 +2886,7 @@
       "direction": "DOWN",
       "price": 0.48,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
       "time": "2026-11-03T01:17:04.000Z",
@@ -3122,1233 +2898,273 @@
       "direction": "DOWN",
       "price": 0.49,
       "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "traderLabel": ""
     },
     {
-      "time": "2026-11-03T01:17:04.000Z",
-      "market": "Bucks vs. Timberwolves: O/U 233.5",
-      "slug": "nba-mil-min-2026-11-02",
-      "url": "https://polymarket.com/event/nba-mil-min-2026-11-02?utm_source=smart_v2_dashboard",
+      "time": "2026-10-30T00:40:55.000Z",
+      "market": "Predict.fun FDV above $2.5B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
       "side": "BUY",
-      "value": 10.07,
-      "direction": "DOWN",
-      "price": 0.53,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:16:40.000Z",
-      "market": "Spread: Grizzlies (-7.5)",
-      "slug": "nba-nop-mem-2026-11-02",
-      "url": "https://polymarket.com/event/nba-nop-mem-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 142.56,
-      "direction": "DOWN",
-      "price": 0.48,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:16:31.000Z",
-      "market": "Spread: Wizards (-4.5)",
-      "slug": "nba-was-orl-2026-11-02",
-      "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 287.82,
-      "direction": "DOWN",
-      "price": 0.36,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:16:31.000Z",
-      "market": "Spread: Wizards (-4.5)",
-      "slug": "nba-was-orl-2026-11-02",
-      "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 72.17999999999999,
-      "direction": "DOWN",
-      "price": 0.36,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:15:40.000Z",
-      "market": "Spread: 76ers (-5.5)",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 162.82500000000002,
-      "direction": "DOWN",
-      "price": 0.65,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:15:39.000Z",
-      "market": "Spread: 76ers (-7.5)",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 114.285,
-      "direction": "DOWN",
-      "price": 0.57,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:15:39.000Z",
-      "market": "Spread: 76ers (-7.5)",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 455.715,
-      "direction": "DOWN",
-      "price": 0.57,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:15:39.000Z",
-      "market": "Spread: 76ers (-5.5)",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 487.175,
-      "direction": "DOWN",
-      "price": 0.65,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:14:27.000Z",
-      "market": "Wizards vs. Magic: O/U 242.5",
-      "slug": "nba-was-orl-2026-11-02",
-      "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 84.11999999999999,
+      "value": 1,
       "direction": "UP",
-      "price": 0.24,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:14:27.000Z",
-      "market": "Wizards vs. Magic: O/U 224.5",
-      "slug": "nba-was-orl-2026-11-02",
-      "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 427.5249999867,
-      "direction": "UP",
-      "price": 0.7131359466,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:14:27.000Z",
-      "market": "Wizards vs. Magic: O/U 242.5",
-      "slug": "nba-was-orl-2026-11-02",
-      "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 155.88,
-      "direction": "UP",
-      "price": 0.24,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:14:25.000Z",
-      "market": "Wizards vs. Magic: O/U 224.5",
-      "slug": "nba-was-orl-2026-11-02",
-      "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 425.645,
-      "direction": "UP",
-      "price": 0.71,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:14:25.000Z",
-      "market": "Wizards vs. Magic: O/U 228.5",
-      "slug": "nba-was-orl-2026-11-02",
-      "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 155.31,
-      "direction": "UP",
-      "price": 0.62,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:14:25.000Z",
-      "market": "Wizards vs. Magic: O/U 228.5",
-      "slug": "nba-was-orl-2026-11-02",
-      "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 464.69,
-      "direction": "UP",
-      "price": 0.62,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:12:28.000Z",
-      "market": "Spread: Mavericks (-11.5)",
-      "slug": "nba-sac-dal-2026-11-02",
-      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 155.31,
-      "direction": "DOWN",
-      "price": 0.62,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:12:28.000Z",
-      "market": "Spread: Mavericks (-12.5)",
-      "slug": "nba-sac-dal-2026-11-02",
-      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 195.32500000000002,
-      "direction": "DOWN",
-      "price": 0.65,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:12:28.000Z",
-      "market": "Spread: Mavericks (-11.5)",
-      "slug": "nba-sac-dal-2026-11-02",
-      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 464.69,
-      "direction": "DOWN",
-      "price": 0.62,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:12:28.000Z",
-      "market": "Spread: Mavericks (-12.5)",
-      "slug": "nba-sac-dal-2026-11-02",
-      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 454.675,
-      "direction": "DOWN",
-      "price": 0.65,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:10:21.000Z",
-      "market": "Spread: Pistons (-7.5)",
-      "slug": "nba-det-cha-2026-11-02",
-      "url": "https://polymarket.com/event/nba-det-cha-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 73.745,
-      "direction": "DOWN",
-      "price": 0.49,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:10:21.000Z",
-      "market": "Spread: Pistons (-7.5)",
-      "slug": "nba-det-cha-2026-11-02",
-      "url": "https://polymarket.com/event/nba-det-cha-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 416.255,
-      "direction": "DOWN",
-      "price": 0.49,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:10:21.000Z",
-      "market": "Spread: Pistons (-5.5)",
-      "slug": "nba-det-cha-2026-11-02",
-      "url": "https://polymarket.com/event/nba-det-cha-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 50.96000000000001,
-      "direction": "DOWN",
-      "price": 0.56,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:06:51.000Z",
-      "market": "US x Iran ceasefire continues through November 2?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 16.8,
-      "direction": "DOWN",
-      "price": 0.56,
+      "price": 0.05,
       "category": "politics",
-      "traderLabel": "Netrol"
+      "traderLabel": "alphaalii"
     },
     {
-      "time": "2026-11-03T01:06:30.000Z",
-      "market": "Wizards vs. Magic: O/U 226.5",
-      "slug": "nba-was-orl-2026-11-02",
-      "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 961.74,
-      "direction": "UP",
-      "price": 0.52,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:06:30.000Z",
-      "market": "Wizards vs. Magic: O/U 226.5",
-      "slug": "nba-was-orl-2026-11-02",
-      "url": "https://polymarket.com/event/nba-was-orl-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 961.74,
-      "direction": "UP",
-      "price": 0.52,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:05:34.000Z",
-      "market": "US x Iran ceasefire continues through October 31?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 1151.2320399237722,
-      "direction": "DOWN",
-      "price": 0.5496610263,
-      "category": "politics",
-      "traderLabel": "Netrol"
-    },
-    {
-      "time": "2026-11-03T01:03:25.000Z",
-      "market": "Spread: Hornets (-7.5)",
-      "slug": "nba-det-cha-2026-11-02",
-      "url": "https://polymarket.com/event/nba-det-cha-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 160,
-      "direction": "DOWN",
-      "price": 0.16,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T01:00:30.000Z",
-      "market": "Thunder vs. Cavaliers: O/U 227.5",
-      "slug": "nba-okc-cle-2026-11-02",
-      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 660,
-      "direction": "UP",
-      "price": 0.66,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:56:07.000Z",
-      "market": "Spread: 76ers (-9.5)",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 3.5999999999999996,
-      "direction": "DOWN",
-      "price": 0.36,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:56:07.000Z",
-      "market": "Bulls vs. 76ers: O/U 238.5",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
+      "time": "2026-10-29T12:55:25.000Z",
+      "market": "Predict.fun FDV above $500M one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
       "side": "SELL",
-      "value": 72.2314,
+      "value": 3731.6990001588,
       "direction": "UP",
-      "price": 0.43,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
+      "price": 0.9635163956,
+      "category": "politics",
+      "traderLabel": "alphaalii"
     },
     {
-      "time": "2026-11-03T00:56:06.000Z",
-      "market": "Bulls vs. 76ers: O/U 247.5",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 8.74,
-      "direction": "UP",
-      "price": 0.23,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:56:06.000Z",
-      "market": "Bulls vs. 76ers: O/U 233.5",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 476.735,
-      "direction": "UP",
-      "price": 0.53,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:56:06.000Z",
-      "market": "Bulls vs. 76ers: O/U 247.5",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 131.89000000000001,
-      "direction": "UP",
-      "price": 0.22,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:56:06.000Z",
-      "market": "Bulls vs. 76ers: O/U 243.5",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 5.58,
-      "direction": "UP",
-      "price": 0.31,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:56:06.000Z",
-      "market": "Bulls vs. 76ers: O/U 231.5",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 44.66,
-      "direction": "UP",
-      "price": 0.58,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:56:06.000Z",
-      "market": "Bulls vs. 76ers: O/U 233.5",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 53.265,
-      "direction": "UP",
-      "price": 0.53,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:56:06.000Z",
-      "market": "Bulls vs. 76ers: O/U 231.5",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 455.715,
-      "direction": "UP",
-      "price": 0.57,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:56:06.000Z",
-      "market": "Bulls vs. 76ers: O/U 235.5",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 465.255,
-      "direction": "UP",
-      "price": 0.49,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:56:06.000Z",
-      "market": "Bulls vs. 76ers: O/U 238.5",
-      "slug": "nba-chi-phi-2026-11-02",
-      "url": "https://polymarket.com/event/nba-chi-phi-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 368.79499999999996,
-      "direction": "UP",
-      "price": 0.41,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:53:49.000Z",
-      "market": "Thunder vs. Cavaliers: O/U 227.5",
-      "slug": "nba-okc-cle-2026-11-02",
-      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 8.93,
-      "direction": "UP",
-      "price": 0.47,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:45:21.000Z",
-      "market": "Nets vs. Knicks: O/U 224.5",
-      "slug": "nba-bkn-nyk-2026-11-02",
-      "url": "https://polymarket.com/event/nba-bkn-nyk-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 198.33,
-      "direction": "DOWN",
-      "price": 0.66,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:45:21.000Z",
-      "market": "Nets vs. Knicks: O/U 224.5",
-      "slug": "nba-bkn-nyk-2026-11-02",
-      "url": "https://polymarket.com/event/nba-bkn-nyk-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 461.67,
-      "direction": "DOWN",
-      "price": 0.66,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:44:01.000Z",
-      "market": "Kings vs. Mavericks",
-      "slug": "nba-sac-dal-2026-11-02",
-      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 2.595,
-      "direction": "DOWN",
-      "price": 0.25,
-      "category": "sports",
-      "traderLabel": "VeryLucky888"
-    },
-    {
-      "time": "2026-11-03T00:39:12.000Z",
-      "market": "Spread: Thunder (-5.5)",
-      "slug": "nba-okc-cle-2026-11-02",
-      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 210,
-      "direction": "DOWN",
-      "price": 0.21,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:30:54.000Z",
-      "market": "Thunder vs. Cavaliers: O/U 229.5",
-      "slug": "nba-okc-cle-2026-11-02",
-      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 9.88,
-      "direction": "UP",
-      "price": 0.52,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:30:48.000Z",
-      "market": "Spread: Cavaliers (-6.5)",
-      "slug": "nba-okc-cle-2026-11-02",
-      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 4.62,
-      "direction": "DOWN",
-      "price": 0.44,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:30:48.000Z",
-      "market": "Spread: Cavaliers (-6.5)",
-      "slug": "nba-okc-cle-2026-11-02",
-      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 7.92,
-      "direction": "DOWN",
-      "price": 0.44,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:30:48.000Z",
-      "market": "Spread: Cavaliers (-1.5)",
-      "slug": "nba-okc-cle-2026-11-02",
-      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 10.62,
-      "direction": "DOWN",
-      "price": 0.59,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:28:16.000Z",
-      "market": "Spread: Hawks (-7.5)",
-      "slug": "nba-atl-ind-2026-11-02",
-      "url": "https://polymarket.com/event/nba-atl-ind-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 80.4531,
-      "direction": "DOWN",
-      "price": 0.39,
-      "category": "sports",
-      "traderLabel": "VeryLucky888"
-    },
-    {
-      "time": "2026-11-03T00:27:33.000Z",
-      "market": "Spread: Hawks (-7.5)",
-      "slug": "nba-atl-ind-2026-11-02",
-      "url": "https://polymarket.com/event/nba-atl-ind-2026-11-02?utm_source=smart_v2_dashboard",
+      "time": "2026-10-29T10:01:19.000Z",
+      "market": "Predict.fun FDV above $500M one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
       "side": "SELL",
-      "value": 38,
-      "direction": "DOWN",
-      "price": 0.38,
-      "category": "sports",
-      "traderLabel": "VeryLucky888"
-    },
-    {
-      "time": "2026-11-03T00:26:07.000Z",
-      "market": "Spread: Hawks (-9.5)",
-      "slug": "nba-atl-ind-2026-11-02",
-      "url": "https://polymarket.com/event/nba-atl-ind-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 8.1,
-      "direction": "DOWN",
-      "price": 0.45,
-      "category": "sports",
-      "traderLabel": "VeryLucky888"
-    },
-    {
-      "time": "2026-11-03T00:17:34.000Z",
-      "market": "Thunder vs. Cavaliers: O/U 229.5",
-      "slug": "nba-okc-cle-2026-11-02",
-      "url": "https://polymarket.com/event/nba-okc-cle-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 135.98,
-      "direction": "DOWN",
-      "price": 0.5,
-      "category": "sports",
-      "traderLabel": "sports_whale_1"
-    },
-    {
-      "time": "2026-11-03T00:06:13.000Z",
-      "market": "Spread: Hawks (-8.5)",
-      "slug": "nba-atl-ind-2026-11-02",
-      "url": "https://polymarket.com/event/nba-atl-ind-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 316.7076,
-      "direction": "DOWN",
-      "price": 0.44,
-      "category": "sports",
-      "traderLabel": "VeryLucky888"
-    },
-    {
-      "time": "2026-11-03T00:04:27.000Z",
-      "market": "Spread: Hawks (-8.5)",
-      "slug": "nba-atl-ind-2026-11-02",
-      "url": "https://polymarket.com/event/nba-atl-ind-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 319.40999999999997,
-      "direction": "DOWN",
-      "price": 0.45,
-      "category": "sports",
-      "traderLabel": "VeryLucky888"
-    },
-    {
-      "time": "2026-11-02T23:57:52.000Z",
-      "market": "Spread: Mavericks (-10.5)",
-      "slug": "nba-sac-dal-2026-11-02",
-      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 97.5,
-      "direction": "DOWN",
-      "price": 0.39,
-      "category": "sports",
-      "traderLabel": "VeryLucky888"
-    },
-    {
-      "time": "2026-11-02T23:57:33.000Z",
-      "market": "Spread: Mavericks (-10.5)",
-      "slug": "nba-sac-dal-2026-11-02",
-      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 336.0786,
-      "direction": "DOWN",
-      "price": 0.39,
-      "category": "sports",
-      "traderLabel": "VeryLucky888"
-    },
-    {
-      "time": "2026-11-02T23:42:19.000Z",
-      "market": "Spread: Mavericks (-10.5)",
-      "slug": "nba-sac-dal-2026-11-02",
-      "url": "https://polymarket.com/event/nba-sac-dal-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 525.1,
-      "direction": "DOWN",
-      "price": 0.4,
-      "category": "sports",
-      "traderLabel": "VeryLucky888"
-    },
-    {
-      "time": "2026-11-02T21:50:48.000Z",
-      "market": "Red Wings vs. Panthers: O/U 5.5",
-      "slug": "nhl-det-fla-2026-11-02",
-      "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 1224.1244,
-      "direction": "DOWN",
-      "price": 0.47,
-      "category": "sports",
-      "traderLabel": "chubbytoro"
-    },
-    {
-      "time": "2026-11-02T21:50:48.000Z",
-      "market": "Red Wings vs. Panthers: O/U 5.5",
-      "slug": "nhl-det-fla-2026-11-02",
-      "url": "https://polymarket.com/event/nhl-det-fla-2026-11-02?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 4700,
-      "direction": "DOWN",
-      "price": 0.47,
-      "category": "sports",
-      "traderLabel": "chubbytoro"
-    },
-    {
-      "time": "2026-11-02T21:26:13.000Z",
-      "market": "US-Iran ceasefire continues through the midterms?",
-      "slug": "us-iran-ceasefire-continues-through-the-midterms",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 20.9390699972,
-      "direction": "DOWN",
-      "price": 0.0926507522,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T21:20:06.000Z",
-      "market": "US x Iran ceasefire continues through November 22?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 175.6208,
-      "direction": "DOWN",
-      "price": 0.53,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T21:19:13.000Z",
-      "market": "US x Iran ceasefire continues through November 5?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "SELL",
-      "value": 222,
-      "direction": "DOWN",
-      "price": 0.2,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T21:06:21.000Z",
-      "market": "US x Iran ceasefire continues through November 5?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 23.215799999685,
-      "direction": "DOWN",
-      "price": 0.2165047095,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T21:03:31.000Z",
-      "market": "US x Iran ceasefire continues through November 3?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 100,
-      "direction": "DOWN",
-      "price": 0.1,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:57:52.000Z",
-      "market": "US x Iran ceasefire continues through November 2?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 2.65999999890159,
-      "direction": "DOWN",
-      "price": 0.0903208938,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:54:43.000Z",
-      "market": "US x Iran ceasefire continues through November 15?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 187.9999999983271,
-      "direction": "DOWN",
-      "price": 0.4300616861,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:54:33.000Z",
-      "market": "US x Iran ceasefire continues through November 6?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 15,
-      "direction": "DOWN",
-      "price": 0.15,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:54:28.000Z",
-      "market": "US x Iran ceasefire continues through November 5?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 21.00000000433,
-      "direction": "DOWN",
-      "price": 0.1490418737,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:53:19.000Z",
-      "market": "US x Iran ceasefire continues through November 6?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 15.999999996666668,
-      "direction": "DOWN",
-      "price": 0.1499999995,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:53:07.000Z",
-      "market": "US x Iran ceasefire continues through November 4?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 15,
-      "direction": "DOWN",
-      "price": 0.12,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:52:57.000Z",
-      "market": "US-Iran ceasefire continues through the midterms?",
-      "slug": "us-iran-ceasefire-continues-through-the-midterms",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 22.573430004624,
-      "direction": "DOWN",
-      "price": 0.0898194732,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:52:48.000Z",
-      "market": "US x Iran ceasefire continues through November 15?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 351,
-      "direction": "DOWN",
-      "price": 0.4,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:52:42.000Z",
-      "market": "US x Iran ceasefire continues through November 22?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 599.9999999676651,
-      "direction": "DOWN",
-      "price": 0.523156158,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:52:33.000Z",
-      "market": "US x Iran ceasefire continues through November 8?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 213.00000003615384,
-      "direction": "DOWN",
-      "price": 0.2599999998,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:52:21.000Z",
-      "market": "US-Iran ceasefire continues through the midterms?",
-      "slug": "us-iran-ceasefire-continues-through-the-midterms",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 75.9999999517002,
-      "direction": "DOWN",
-      "price": 0.0707836683,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:51:34.000Z",
-      "market": "US-Iran ceasefire continues through the midterms?",
-      "slug": "us-iran-ceasefire-continues-through-the-midterms",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 65.932499940172,
-      "direction": "DOWN",
-      "price": 0.0501628156,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:50:34.000Z",
-      "market": "US x Iran ceasefire continues through November 5?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 16.999999997499998,
-      "direction": "DOWN",
-      "price": 0.1199999997,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:50:27.000Z",
-      "market": "US x Iran ceasefire continues through November 8?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 399.9999999861538,
-      "direction": "DOWN",
-      "price": 0.2599999999,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:50:00.000Z",
-      "market": "US x Iran ceasefire continues through November 22?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 237.9999999780851,
-      "direction": "DOWN",
-      "price": 0.4699999997,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:49:54.000Z",
-      "market": "US x Iran ceasefire continues through November 7?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 20,
-      "direction": "DOWN",
-      "price": 0.2,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:49:51.000Z",
-      "market": "US x Iran ceasefire continues through November 5?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 11,
-      "direction": "DOWN",
-      "price": 0.11,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:49:46.000Z",
-      "market": "US x Iran ceasefire continues through November 4?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 78.00000003,
-      "direction": "DOWN",
-      "price": 0.09,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:49:25.000Z",
-      "market": "US x Iran ceasefire continues through November 4?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 237.00000006,
-      "direction": "DOWN",
-      "price": 0.09,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:48:57.000Z",
-      "market": "US x Iran ceasefire continues through November 5?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 68.00000002818183,
-      "direction": "DOWN",
-      "price": 0.1099999999,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:48:54.000Z",
-      "market": "US x Iran ceasefire continues through November 4?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 63.00000000000001,
-      "direction": "DOWN",
-      "price": 0.07,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:48:48.000Z",
-      "market": "US x Iran ceasefire continues through November 3?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 39.99999998285715,
-      "direction": "DOWN",
-      "price": 0.0699999999,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:48:28.000Z",
-      "market": "US x Iran ceasefire continues through November 7?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 250,
-      "direction": "DOWN",
-      "price": 0.2,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:48:13.000Z",
-      "market": "US x Iran ceasefire continues through November 5?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 230,
-      "direction": "DOWN",
-      "price": 0.1,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:48:10.000Z",
-      "market": "US x Iran ceasefire continues through November 3?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 353.89236981630603,
-      "direction": "DOWN",
-      "price": 0.0497449962,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:48:07.000Z",
-      "market": "US x Iran ceasefire continues through November 4?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 46.999999961666674,
-      "direction": "DOWN",
-      "price": 0.0599999999,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:48:00.000Z",
-      "market": "US-Iran ceasefire continues through the midterms?",
-      "slug": "us-iran-ceasefire-continues-through-the-midterms",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 299.9999997830818,
-      "direction": "DOWN",
-      "price": 0.0493500337,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:47:55.000Z",
-      "market": "US-Iran ceasefire continues through the midterms?",
-      "slug": "us-iran-ceasefire-continues-through-the-midterms",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 10.599999993696828,
-      "direction": "DOWN",
-      "price": 0.0396588554,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:47:42.000Z",
-      "market": "US x Iran ceasefire continues through November 2?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 5.4,
-      "direction": "DOWN",
-      "price": 0.025,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:46:51.000Z",
-      "market": "US x Iran ceasefire continues through November 3?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 20.000000016,
-      "direction": "DOWN",
-      "price": 0.048,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T20:46:45.000Z",
-      "market": "US x Iran ceasefire continues through November 2?",
-      "slug": "us-iran-ceasefire-continues-throughptptpt",
-      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 64.000000008,
-      "direction": "DOWN",
-      "price": 0.024,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T19:51:34.000Z",
-      "market": "US announces end of Iranian blockade by November 2, 2026?",
-      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
-      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 209.99999999567407,
-      "direction": "DOWN",
-      "price": 0.9816260452,
-      "category": "politics",
-      "traderLabel": "fantasy7788"
-    },
-    {
-      "time": "2026-11-02T19:32:16.000Z",
-      "market": "Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and Texas?",
-      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 17246.683755000002,
+      "value": 664.47,
       "direction": "UP",
-      "price": 0.1149778917,
+      "price": 0.963,
       "category": "politics",
-      "traderLabel": "Netrol"
+      "traderLabel": "alphaalii"
     },
     {
-      "time": "2026-11-02T19:30:31.000Z",
-      "market": "Will Republicans win Alaska, Iowa, and Maine, and lose Kansas, Michigan, Ohio, and Texas?",
-      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 1400,
+      "time": "2026-10-29T09:12:29.000Z",
+      "market": "Predict.fun FDV above $500M one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 2220.7459999608,
       "direction": "UP",
-      "price": 0.008,
+      "price": 0.9651221208,
       "category": "politics",
-      "traderLabel": "Netrol"
+      "traderLabel": "alphaalii"
     },
     {
-      "time": "2026-11-02T19:29:24.000Z",
-      "market": "Will Republicans win Alaska, Iowa, and Texas, and lose Kansas, Maine, Michigan, and Ohio?",
-      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 1416.2748775,
+      "time": "2026-10-29T09:12:05.000Z",
+      "market": "Predict.fun FDV above $500M one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 1982.6401,
       "direction": "UP",
-      "price": 0.0080929993,
+      "price": 0.967,
       "category": "politics",
-      "traderLabel": "Netrol"
+      "traderLabel": "alphaalii"
     },
     {
-      "time": "2026-11-02T19:27:58.000Z",
-      "market": "Will Republicans win Alaska, Iowa, Maine, Michigan, and Texas, and lose Kansas and Ohio?",
-      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 750,
+      "time": "2026-10-29T07:02:23.000Z",
+      "market": "Predict.fun FDV above $500M one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 1040.8460000369998,
       "direction": "UP",
-      "price": 0.005,
+      "price": 0.961076639,
       "category": "politics",
-      "traderLabel": "Netrol"
+      "traderLabel": "alphaalii"
     },
     {
-      "time": "2026-11-02T19:26:22.000Z",
-      "market": "Will Republicans win Alaska, Iowa, and Maine, and lose Kansas, Michigan, Ohio, and Texas?",
-      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 1386.645295,
+      "time": "2026-10-29T05:05:02.000Z",
+      "market": "Predict.fun FDV above $500M one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 93.508,
       "direction": "UP",
-      "price": 0.0079236874,
+      "price": 0.964,
       "category": "politics",
-      "traderLabel": "Netrol"
+      "traderLabel": "alphaalii"
     },
     {
-      "time": "2026-11-02T19:23:36.000Z",
-      "market": "Will Republicans win Alaska and Iowa, and lose Kansas, Maine, Michigan, Ohio, and Texas?",
-      "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx?utm_source=smart_v2_dashboard",
-      "side": "BUY",
-      "value": 3450,
+      "time": "2026-10-29T04:39:20.000Z",
+      "market": "Predict.fun FDV above $500M one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 1276.759999944,
       "direction": "UP",
-      "price": 0.023,
+      "price": 0.9672424242,
       "category": "politics",
-      "traderLabel": "Netrol"
+      "traderLabel": "alphaalii"
     },
     {
-      "time": "2026-11-02T18:49:57.000Z",
-      "market": "Spread: Flames (-1.5)",
-      "slug": "nhl-cal-sj-2026-11-02",
-      "url": "https://polymarket.com/event/nhl-cal-sj-2026-11-02?utm_source=smart_v2_dashboard",
+      "time": "2026-10-29T03:17:08.000Z",
+      "market": "Predict.fun FDV above $600M one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 2332.7566001108758,
+      "direction": "UP",
+      "price": 0.9306383098,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-29T02:59:58.000Z",
+      "market": "Predict.fun FDV above $600M one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 4622.33858988681,
+      "direction": "UP",
+      "price": 0.9342021039,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-29T02:57:32.000Z",
+      "market": "Predict.fun FDV above $500M one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 4143.0436400650415,
+      "direction": "UP",
+      "price": 0.9546689433,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-29T02:25:28.000Z",
+      "market": "Predict.fun FDV above $1B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 1196.185400043681,
+      "direction": "UP",
+      "price": 0.7018261079,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-29T00:03:05.000Z",
+      "market": "Predict.fun FDV above $3B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
       "side": "BUY",
-      "value": 828.0714,
-      "direction": "DOWN",
-      "price": 0.26,
-      "category": "sports",
-      "traderLabel": "chubbytoro"
+      "value": 91.049510035017,
+      "direction": "UP",
+      "price": 0.0494836983,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-28T10:36:14.000Z",
+      "market": "Predict.fun FDV above $1.5B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 142.769999998,
+      "direction": "UP",
+      "price": 0.4199117647,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-28T10:34:23.000Z",
+      "market": "Predict.fun FDV above $2B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 97.83208000948801,
+      "direction": "UP",
+      "price": 0.2718161814,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-28T08:59:23.000Z",
+      "market": "Predict.fun FDV above $2B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 243.46215001035503,
+      "direction": "UP",
+      "price": 0.3485749159,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-28T08:47:32.000Z",
+      "market": "Predict.fun FDV above $1.5B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2055.969250128625,
+      "direction": "UP",
+      "price": 0.5554046735,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-28T03:38:12.000Z",
+      "market": "Predict.fun FDV above $1B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 32.38137,
+      "direction": "UP",
+      "price": 0.567,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-27T16:29:02.000Z",
+      "market": "Predict.fun FDV above $1.5B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 174.96,
+      "direction": "UP",
+      "price": 0.3645,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-27T15:47:02.000Z",
+      "market": "Predict.fun FDV above $1B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 35978.96829940089,
+      "direction": "UP",
+      "price": 0.5697978569,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-27T15:39:53.000Z",
+      "market": "Predict.fun FDV above $2B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 287.574500042325,
+      "direction": "UP",
+      "price": 0.2624453571,
+      "category": "politics",
+      "traderLabel": "alphaalii"
+    },
+    {
+      "time": "2026-10-27T05:42:57.000Z",
+      "market": "Predict.fun FDV above $2B one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 32.74659,
+      "direction": "UP",
+      "price": 0.289,
+      "category": "politics",
+      "traderLabel": "alphaalii"
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T04:36:22.948Z"
+  "generatedAt": "2026-11-03T04:41:25.479Z"
 }
