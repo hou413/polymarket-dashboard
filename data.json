@@ -1,24 +1,46 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T14:55:13.211Z",
+    "saved_at": "2026-11-03T15:14:51.473Z",
     "version": "smart v2",
     "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
     "tracked_label": "chubbytoro",
-    "total_alerts": 42,
-    "total_volume": 77030.88480502309,
-    "today_trades": 64,
-    "uptime_seconds": 35553,
-    "last_poll": "2026-11-03T14:52:51.015Z"
+    "total_alerts": 43,
+    "total_volume": 79649.07990502309,
+    "today_trades": 66,
+    "uptime_seconds": 36731,
+    "last_poll": "2026-11-03T15:12:29.003Z"
   },
   "categories": {
     "sports": {
-      "count": 33,
-      "buyCount": 26,
+      "count": 35,
+      "buyCount": 28,
       "sellCount": 7,
-      "buyVolume": 22452.180000131353,
+      "buyVolume": 25070.375100131354,
       "sellVolume": 4235.8949999999995,
-      "totalVolume": 26688.075000131354,
+      "totalVolume": 29306.270100131354,
       "recentTrades": [
+        {
+          "time": "2026-11-03T15:02:51.000Z",
+          "market": "Spread: Jets (-1.5)",
+          "slug": "nhl-wpg-mon-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 1087.2040000000002,
+          "direction": "Jets",
+          "price": 0.2,
+          "outcome": "Jets"
+        },
+        {
+          "time": "2026-11-03T15:02:51.000Z",
+          "market": "Spread: Jets (-1.5)",
+          "slug": "nhl-wpg-mon-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 1530.9911,
+          "direction": "Jets",
+          "price": 0.1913738875,
+          "outcome": "Jets"
+        },
         {
           "time": "2026-11-03T14:50:16.000Z",
           "market": "Spread: Blue Jackets (-1.5)",
@@ -216,28 +238,6 @@
           "direction": "Lakers",
           "price": 0.48,
           "outcome": "Lakers"
-        },
-        {
-          "time": "2026-11-03T05:20:07.000Z",
-          "market": "Spread: Lakers (-18.5)",
-          "slug": "nba-mia-lal-2026-11-02",
-          "url": "https://polymarket.com/event/nba-mia-lal-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 47.76,
-          "direction": "Lakers",
-          "price": 0.48,
-          "outcome": "Lakers"
-        },
-        {
-          "time": "2026-11-03T05:11:21.000Z",
-          "market": "Spread: Warriors (-2.5)",
-          "slug": "nba-phx-gsw-2026-11-02",
-          "url": "https://polymarket.com/event/nba-phx-gsw-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 797.225,
-          "direction": "Suns",
-          "price": 0.55,
-          "outcome": "Suns"
         }
       ]
     },
@@ -622,6 +622,30 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-03T15:02:51.000Z",
+      "market": "Spread: Jets (-1.5)",
+      "slug": "nhl-wpg-mon-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1087.2040000000002,
+      "direction": "Jets",
+      "price": 0.2,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-03T15:02:51.000Z",
+      "market": "Spread: Jets (-1.5)",
+      "slug": "nhl-wpg-mon-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-wpg-mon-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1530.9911,
+      "direction": "Jets",
+      "price": 0.1913738875,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
     {
       "time": "2026-11-03T14:50:16.000Z",
       "market": "Spread: Blue Jackets (-1.5)",
@@ -1392,5 +1416,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T15:11:47.671Z"
+  "generatedAt": "2026-11-03T15:18:18.118Z"
 }
