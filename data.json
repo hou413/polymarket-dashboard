@@ -1,24 +1,46 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T23:33:54.477Z",
+    "saved_at": "2026-11-03T23:42:18.948Z",
     "version": "smart v2",
-    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
-    "tracked_label": "fantasy7788",
-    "total_alerts": 63,
-    "total_volume": 235552.01810501493,
-    "today_trades": 95,
-    "uptime_seconds": 66674,
-    "last_poll": "2026-11-03T23:31:32.405Z"
+    "tracked_address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+    "tracked_label": "chubbytoro",
+    "total_alerts": 64,
+    "total_volume": 246611.4761050149,
+    "today_trades": 97,
+    "uptime_seconds": 67178,
+    "last_poll": "2026-11-03T23:40:15.886Z"
   },
   "categories": {
     "sports": {
-      "count": 47,
-      "buyCount": 38,
+      "count": 49,
+      "buyCount": 40,
       "sellCount": 9,
-      "buyVolume": 64060.82100015242,
+      "buyVolume": 75120.27900015243,
       "sellVolume": 43432.244999999995,
-      "totalVolume": 107493.06600015241,
+      "totalVolume": 118552.52400015242,
       "recentTrades": [
+        {
+          "time": "2026-11-03T23:26:34.000Z",
+          "market": "Avalanche vs. Blue Jackets: O/U 5.5",
+          "slug": "nhl-col-cbj-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 5059.458,
+          "direction": "UP",
+          "price": 0.6,
+          "outcome": "Over"
+        },
+        {
+          "time": "2026-11-03T23:26:34.000Z",
+          "market": "Avalanche vs. Blue Jackets: O/U 5.5",
+          "slug": "nhl-col-cbj-2026-11-03",
+          "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 6000,
+          "direction": "UP",
+          "price": 0.6,
+          "outcome": "Over"
+        },
         {
           "time": "2026-11-03T21:55:03.000Z",
           "market": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
@@ -216,28 +238,6 @@
           "direction": "Angella Okutoyi",
           "price": 0.24,
           "outcome": "Angella Okutoyi"
-        },
-        {
-          "time": "2026-11-03T09:24:18.000Z",
-          "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
-          "slug": "wta-lansere-okutoyi-2026-11-02",
-          "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 551.88,
-          "direction": "Angella Okutoyi",
-          "price": 0.24,
-          "outcome": "Angella Okutoyi"
-        },
-        {
-          "time": "2026-11-03T09:21:07.000Z",
-          "market": "Luanda: Sofya Lansere vs Angella Okutoyi",
-          "slug": "wta-lansere-okutoyi-2026-11-02",
-          "url": "https://polymarket.com/event/wta-lansere-okutoyi-2026-11-02?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 1115.6399999999999,
-          "direction": "Sofya Lansere",
-          "price": 0.72,
-          "outcome": "Sofya Lansere"
         }
       ]
     },
@@ -677,6 +677,30 @@
       "price": 0.412760464,
       "category": "tech",
       "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-03T23:26:34.000Z",
+      "market": "Avalanche vs. Blue Jackets: O/U 5.5",
+      "slug": "nhl-col-cbj-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 5059.458,
+      "direction": "UP",
+      "price": 0.6,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
+    },
+    {
+      "time": "2026-11-03T23:26:34.000Z",
+      "market": "Avalanche vs. Blue Jackets: O/U 5.5",
+      "slug": "nhl-col-cbj-2026-11-03",
+      "url": "https://polymarket.com/event/nhl-col-cbj-2026-11-03?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 6000,
+      "direction": "UP",
+      "price": 0.6,
+      "category": "sports",
+      "traderLabel": "chubbytoro"
     },
     {
       "time": "2026-11-03T23:12:21.000Z",
@@ -1808,5 +1832,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T23:36:48.833Z"
+  "generatedAt": "2026-11-03T23:44:09.482Z"
 }
