@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-03T05:07:18.373Z",
+    "saved_at": "2026-11-03T05:11:42.198Z",
     "version": "smart v2",
-    "tracked_address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
-    "tracked_label": "sports_whale_1",
-    "total_alerts": 8,
-    "total_volume": 909.7819999975501,
-    "today_trades": 12,
-    "uptime_seconds": 278,
-    "last_poll": "2026-11-03T05:04:51.093Z"
+    "tracked_address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
+    "tracked_label": "Netrol",
+    "total_alerts": 11,
+    "total_volume": 37638.86429999755,
+    "today_trades": 15,
+    "uptime_seconds": 542,
+    "last_poll": "2026-11-03T05:09:18.378Z"
   },
   "categories": {
     "sports": {
@@ -154,13 +154,47 @@
       ]
     },
     "politics": {
-      "count": 0,
-      "buyCount": 0,
-      "sellCount": 0,
-      "buyVolume": 0,
-      "sellVolume": 0,
-      "totalVolume": 0,
-      "recentTrades": []
+      "count": 3,
+      "buyCount": 1,
+      "sellCount": 2,
+      "buyVolume": 15938.9784,
+      "sellVolume": 20790.103900000002,
+      "totalVolume": 36729.0823,
+      "recentTrades": [
+        {
+          "time": "2026-11-03T04:55:58.000Z",
+          "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+          "slug": "which-party-will-win-the-senate-in-2026",
+          "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 11578.0664,
+          "direction": "UP",
+          "price": 0.231561328,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-03T04:54:27.000Z",
+          "market": "2026 Balance of Power: D Senate, D House",
+          "slug": "balance-of-power-2026-midterms",
+          "url": "https://polymarket.com/event/balance-of-power-2026-midterms?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 15938.9784,
+          "direction": "UP",
+          "price": 0.76,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-03T04:53:00.000Z",
+          "market": "Will the Republicans win the Texas Senate race in 2026?",
+          "slug": "texas-senate-election-winner",
+          "url": "https://polymarket.com/event/texas-senate-election-winner?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 9212.0375,
+          "direction": "UP",
+          "price": 0.25,
+          "outcome": "Yes"
+        }
+      ]
     },
     "weather": {
       "count": 0,
@@ -312,6 +346,42 @@
       "traderLabel": ""
     },
     {
+      "time": "2026-11-03T04:55:58.000Z",
+      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "slug": "which-party-will-win-the-senate-in-2026",
+      "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 11578.0664,
+      "direction": "UP",
+      "price": 0.231561328,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
+    {
+      "time": "2026-11-03T04:54:27.000Z",
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "balance-of-power-2026-midterms",
+      "url": "https://polymarket.com/event/balance-of-power-2026-midterms?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 15938.9784,
+      "direction": "UP",
+      "price": 0.76,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
+    {
+      "time": "2026-11-03T04:53:00.000Z",
+      "market": "Will the Republicans win the Texas Senate race in 2026?",
+      "slug": "texas-senate-election-winner",
+      "url": "https://polymarket.com/event/texas-senate-election-winner?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 9212.0375,
+      "direction": "UP",
+      "price": 0.25,
+      "category": "politics",
+      "traderLabel": "Arbguy"
+    },
+    {
       "time": "2026-11-03T04:49:31.000Z",
       "market": "Heat vs. Lakers: O/U 261.5",
       "slug": "nba-mia-lal-2026-11-02",
@@ -337,5 +407,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-03T05:07:29.101Z"
+  "generatedAt": "2026-11-03T05:13:59.563Z"
 }
