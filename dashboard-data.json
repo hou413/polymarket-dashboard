@@ -194,10 +194,10 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 6,
-        "losses": 0,
+        "wins": 0,
+        "losses": 6,
         "totalTrades": 6,
-        "winRate": 1,
+        "winRate": 0,
         "volume": 87152.48777,
         "pnl": -87152.4878
       },
@@ -359,11 +359,11 @@
       "label": "Netrol",
       "stats48h": {
         "wins": 0,
-        "losses": 11,
-        "totalTrades": 16,
+        "losses": 12,
+        "totalTrades": 15,
         "winRate": 0,
-        "volume": 185380.611127,
-        "pnl": -153503.19570000004
+        "volume": 167262.772647,
+        "pnl": -162530.05479999998
       },
       "recentTrades": [
         {
@@ -522,10 +522,10 @@
       "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
       "label": "VeryLucky888",
       "stats48h": {
-        "wins": 7,
-        "losses": 0,
+        "wins": 0,
+        "losses": 7,
         "totalTrades": 7,
-        "winRate": 1,
+        "winRate": 0,
         "volume": 39190.61898,
         "pnl": -39190.619
       },
@@ -686,12 +686,12 @@
       "address": "0xf7b7009844425e328f135856273c30659be3e490",
       "label": "fantasy7788",
       "stats48h": {
-        "wins": 3,
-        "losses": 2,
-        "totalTrades": 35,
-        "winRate": 0.6,
-        "volume": 51063.06631599998,
-        "pnl": -6559.8299
+        "wins": 0,
+        "losses": 5,
+        "totalTrades": 36,
+        "winRate": 0,
+        "volume": 51107.32621599998,
+        "pnl": -6900.4302
       },
       "recentTrades": [
         {
@@ -850,14 +850,104 @@
       "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
       "label": "Thunderous-Snarl",
       "stats48h": {
-        "wins": 8,
-        "losses": 0,
-        "totalTrades": 10,
-        "winRate": 1,
-        "volume": 870014.8141500001,
-        "pnl": -727693.3006999999
+        "wins": 0,
+        "losses": 8,
+        "totalTrades": 11,
+        "winRate": 0,
+        "volume": 914819.77329,
+        "pnl": -790524.8263999999
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.31,
+          "value": 1789.5741999999998,
+          "timestamp": 1793770446,
+          "slug": "cs2-hero-fal2-2026-11-03-game2",
+          "event_slug": "cs2-hero-fal2-2026-11-03"
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.31,
+          "value": 2308.5762,
+          "timestamp": 1793770422,
+          "slug": "cs2-hero-fal2-2026-11-03-game2",
+          "event_slug": "cs2-hero-fal2-2026-11-03"
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.13,
+          "value": 2600,
+          "timestamp": 1793770348,
+          "slug": "cs2-hero-fal2-2026-11-03",
+          "event_slug": "cs2-hero-fal2-2026-11-03"
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.13,
+          "value": 6494.6596,
+          "timestamp": 1793770138,
+          "slug": "cs2-hero-fal2-2026-11-03",
+          "event_slug": "cs2-hero-fal2-2026-11-03"
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.31,
+          "value": 7750,
+          "timestamp": 1793770111,
+          "slug": "cs2-hero-fal2-2026-11-03-game2",
+          "event_slug": "cs2-hero-fal2-2026-11-03"
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.13,
+          "value": 6337.344000000001,
+          "timestamp": 1793770015,
+          "slug": "cs2-hero-fal2-2026-11-03",
+          "event_slug": "cs2-hero-fal2-2026-11-03"
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.13,
+          "value": 208.13,
+          "timestamp": 1793769886,
+          "slug": "cs2-hero-fal2-2026-11-03",
+          "event_slug": "cs2-hero-fal2-2026-11-03"
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.3,
+          "value": 2740.002,
+          "timestamp": 1793769792,
+          "slug": "cs2-hero-fal2-2026-11-03-game2",
+          "event_slug": "cs2-hero-fal2-2026-11-03"
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.13,
+          "value": 1560,
+          "timestamp": 1793769777,
+          "slug": "cs2-hero-fal2-2026-11-03",
+          "event_slug": "cs2-hero-fal2-2026-11-03"
+        },
         {
           "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
           "side": "BUY",
@@ -917,96 +1007,6 @@
           "timestamp": 1793764053,
           "slug": "cs2-hero-fal2-2026-11-03",
           "event_slug": "cs2-hero-fal2-2026-11-03"
-        },
-        {
-          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
-          "side": "BUY",
-          "outcome": "Heroic",
-          "price": 0.32,
-          "value": 16000,
-          "timestamp": 1793763367,
-          "slug": "cs2-hero-fal2-2026-11-03",
-          "event_slug": "cs2-hero-fal2-2026-11-03"
-        },
-        {
-          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
-          "side": "BUY",
-          "outcome": "Heroic",
-          "price": 0.32,
-          "value": 48000,
-          "timestamp": 1793762923,
-          "slug": "cs2-hero-fal2-2026-11-03",
-          "event_slug": "cs2-hero-fal2-2026-11-03"
-        },
-        {
-          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Liquid",
-          "price": 0.85,
-          "value": 956.3434999999998,
-          "timestamp": 1793761483,
-          "slug": "cs2-tl1-tyloo-2026-11-03-game2",
-          "event_slug": "cs2-tl1-tyloo-2026-11-03"
-        },
-        {
-          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Liquid",
-          "price": 0.78,
-          "value": 3900,
-          "timestamp": 1793761374,
-          "slug": "cs2-tl1-tyloo-2026-11-03-game2",
-          "event_slug": "cs2-tl1-tyloo-2026-11-03"
-        },
-        {
-          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Liquid",
-          "price": 0.78,
-          "value": 7377.8718,
-          "timestamp": 1793761044,
-          "slug": "cs2-tl1-tyloo-2026-11-03-game2",
-          "event_slug": "cs2-tl1-tyloo-2026-11-03"
-        },
-        {
-          "title": "Counter-Strike: Liquid vs TYLOO (BO3) - IEM Beijing Group B",
-          "side": "BUY",
-          "outcome": "Liquid",
-          "price": 0.91,
-          "value": 13650,
-          "timestamp": 1793760996,
-          "slug": "cs2-tl1-tyloo-2026-11-03",
-          "event_slug": "cs2-tl1-tyloo-2026-11-03"
-        },
-        {
-          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Liquid",
-          "price": 0.7849672333,
-          "value": 14129.4101994,
-          "timestamp": 1793760988,
-          "slug": "cs2-tl1-tyloo-2026-11-03-game2",
-          "event_slug": "cs2-tl1-tyloo-2026-11-03"
-        },
-        {
-          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Liquid",
-          "price": 0.7531176125,
-          "value": 1127.76350001425,
-          "timestamp": 1793760979,
-          "slug": "cs2-tl1-tyloo-2026-11-03-game2",
-          "event_slug": "cs2-tl1-tyloo-2026-11-03"
-        },
-        {
-          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Liquid",
-          "price": 0.79,
-          "value": 11060,
-          "timestamp": 1793760895,
-          "slug": "cs2-tl1-tyloo-2026-11-03-game2",
-          "event_slug": "cs2-tl1-tyloo-2026-11-03"
         }
       ]
     },
@@ -1014,12 +1014,12 @@
       "address": "0xb5d19b53c973be1097119c9ddc48fcb18fff6e35",
       "label": "lastminwin",
       "stats48h": {
-        "wins": 1,
-        "losses": 1,
+        "wins": 0,
+        "losses": 3,
         "totalTrades": 21,
-        "winRate": 0.5,
+        "winRate": 0,
         "volume": 605289.635595,
-        "pnl": 155955.68310000005
+        "pnl": 177813.412
       },
       "recentTrades": [
         {
@@ -1045,5 +1045,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-04T05:18:05.198Z"
+  "lastUpdate": "2026-11-04T05:37:06.023Z"
 }
