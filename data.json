@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-04T02:58:06.739Z",
+    "saved_at": "2026-11-04T03:17:25.217Z",
     "version": "smart v2",
     "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
     "tracked_label": "fantasy7788",
-    "total_alerts": 16,
-    "total_volume": 10421.208627843946,
-    "today_trades": 16,
-    "uptime_seconds": 3414,
-    "last_poll": "2026-11-04T02:55:42.772Z"
+    "total_alerts": 17,
+    "total_volume": 10443.208627849695,
+    "today_trades": 17,
+    "uptime_seconds": 4572,
+    "last_poll": "2026-11-04T03:15:03.025Z"
   },
   "categories": {
     "sports": {
@@ -88,13 +88,24 @@
       ]
     },
     "politics": {
-      "count": 5,
-      "buyCount": 3,
+      "count": 6,
+      "buyCount": 4,
       "sellCount": 2,
-      "buyVolume": 1253.5918480098069,
+      "buyVolume": 1275.591848015557,
       "sellVolume": 1899.2139,
-      "totalVolume": 3152.805748009807,
+      "totalVolume": 3174.8057480155567,
       "recentTrades": [
+        {
+          "time": "2026-11-04T03:12:15.000Z",
+          "market": "Will the Republicans win the Maine Senate race in 2026?",
+          "slug": "maine-senate-election-winner",
+          "url": "https://polymarket.com/event/maine-senate-election-winner?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 22.000000005750003,
+          "direction": "UP",
+          "price": 0.0792792793,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-11-04T02:36:52.000Z",
           "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
@@ -237,6 +248,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-04T03:12:15.000Z",
+      "market": "Will the Republicans win the Maine Senate race in 2026?",
+      "slug": "maine-senate-election-winner",
+      "url": "https://polymarket.com/event/maine-senate-election-winner?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 22.000000005750003,
+      "direction": "UP",
+      "price": 0.0792792793,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-04T02:46:42.000Z",
       "market": "Israel x Iran ceasefire continues through November 3?",
@@ -431,5 +454,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-04T03:16:26.800Z"
+  "generatedAt": "2026-11-04T03:23:14.656Z"
 }
