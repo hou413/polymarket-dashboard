@@ -31,24 +31,190 @@
       "label": "sports_whale_1",
       "stats48h": {
         "wins": 0,
-        "losses": 0,
-        "totalTrades": 0,
+        "losses": 15,
+        "totalTrades": 50,
         "winRate": 0,
-        "volume": 0,
+        "volume": 6179.54,
         "pnl": 0
       },
-      "recentTrades": []
+      "recentTrades": [
+        {
+          "title": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "side": "BUY",
+          "outcome": "Angella Okutoyi",
+          "price": 0.24,
+          "value": 551.88,
+          "timestamp": 1793697858,
+          "slug": "wta-lansere-okutoyi-2026-11-02",
+          "event_slug": "wta-lansere-okutoyi-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "side": "BUY",
+          "outcome": "Angella Okutoyi",
+          "price": 0.24,
+          "value": 551.88,
+          "timestamp": 1793697858,
+          "slug": "wta-lansere-okutoyi-2026-11-02",
+          "event_slug": "wta-lansere-okutoyi-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "side": "SELL",
+          "outcome": "Sofya Lansere",
+          "price": 0.72,
+          "value": 1115.6399999999999,
+          "timestamp": 1793697667,
+          "slug": "wta-lansere-okutoyi-2026-11-02",
+          "event_slug": "wta-lansere-okutoyi-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "side": "SELL",
+          "outcome": "Sofya Lansere",
+          "price": 0.72,
+          "value": 1115.6399999999999,
+          "timestamp": 1793697667,
+          "slug": "wta-lansere-okutoyi-2026-11-02",
+          "event_slug": "wta-lansere-okutoyi-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Clippers (-2.5)",
+          "side": "SELL",
+          "outcome": "Clippers",
+          "price": 0.61,
+          "value": 243.695,
+          "timestamp": 1793683920,
+          "slug": "nba-tor-lac-2026-11-02-spread-home-2pt5",
+          "event_slug": "nba-tor-lac-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Clippers (-2.5)",
+          "side": "SELL",
+          "outcome": "Clippers",
+          "price": 0.61,
+          "value": 243.695,
+          "timestamp": 1793683920,
+          "slug": "nba-tor-lac-2026-11-02-spread-home-2pt5",
+          "event_slug": "nba-tor-lac-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Raptors (-1.5)",
+          "side": "BUY",
+          "outcome": "Raptors",
+          "price": 0.21,
+          "value": 2.1,
+          "timestamp": 1793683465,
+          "slug": "nba-tor-lac-2026-11-02-spread-away-1pt5",
+          "event_slug": "nba-tor-lac-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-2.5)",
+          "side": "SELL",
+          "outcome": "Warriors",
+          "price": 0.72,
+          "value": 395.64,
+          "timestamp": 1793683269,
+          "slug": "nba-phx-gsw-2026-11-02-spread-home-2pt5",
+          "event_slug": "nba-phx-gsw-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-2.5)",
+          "side": "SELL",
+          "outcome": "Warriors",
+          "price": 0.72,
+          "value": 324.36,
+          "timestamp": 1793683267,
+          "slug": "nba-phx-gsw-2026-11-02-spread-home-2pt5",
+          "event_slug": "nba-phx-gsw-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Lakers (-18.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.48,
+          "value": 47.76,
+          "timestamp": 1793683207,
+          "slug": "nba-mia-lal-2026-11-02-spread-home-18pt5",
+          "event_slug": "nba-mia-lal-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Lakers (-18.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.48,
+          "value": 47.76,
+          "timestamp": 1793683207,
+          "slug": "nba-mia-lal-2026-11-02-spread-home-18pt5",
+          "event_slug": "nba-mia-lal-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-2.5)",
+          "side": "SELL",
+          "outcome": "Suns",
+          "price": 0.55,
+          "value": 797.225,
+          "timestamp": 1793682681,
+          "slug": "nba-phx-gsw-2026-11-02-spread-home-2pt5",
+          "event_slug": "nba-phx-gsw-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-2.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.45,
+          "value": 652.275,
+          "timestamp": 1793682681,
+          "slug": "nba-phx-gsw-2026-11-02-spread-home-2pt5",
+          "event_slug": "nba-phx-gsw-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Suns (-5.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.35,
+          "value": 36.05,
+          "timestamp": 1793682142,
+          "slug": "nba-phx-gsw-2026-11-02-spread-away-5pt5",
+          "event_slug": "nba-phx-gsw-2026-11-02",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Suns (-11.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.12,
+          "value": 53.94,
+          "timestamp": 1793682142,
+          "slug": "nba-phx-gsw-2026-11-02-spread-away-11pt5",
+          "event_slug": "nba-phx-gsw-2026-11-02",
+          "result": "loss"
+        }
+      ]
     },
     {
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
         "wins": 0,
-        "losses": 6,
-        "totalTrades": 6,
+        "losses": 15,
+        "totalTrades": 24,
         "winRate": 0,
-        "volume": 87152.48777,
-        "pnl": -87152.4878
+        "volume": 55071.84179994722,
+        "pnl": 0
       },
       "recentTrades": [
         {
@@ -60,7 +226,7 @@
           "timestamp": 1793748394,
           "slug": "nhl-col-cbj-2026-11-03-total-5pt5",
           "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Avalanche vs. Blue Jackets: O/U 5.5",
@@ -71,7 +237,7 @@
           "timestamp": 1793748394,
           "slug": "nhl-col-cbj-2026-11-03-total-5pt5",
           "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Penguins (-1.5)",
@@ -104,7 +270,7 @@
           "timestamp": 1793733324,
           "slug": "nhl-col-cbj-2026-11-03",
           "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Avalanche vs. Blue Jackets",
@@ -115,7 +281,7 @@
           "timestamp": 1793733322,
           "slug": "nhl-col-cbj-2026-11-03",
           "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Avalanche vs. Blue Jackets",
@@ -126,7 +292,7 @@
           "timestamp": 1793733322,
           "slug": "nhl-col-cbj-2026-11-03",
           "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Jets vs. Canadiens",
@@ -137,7 +303,7 @@
           "timestamp": 1793730510,
           "slug": "nhl-wpg-mon-2026-11-03",
           "event_slug": "nhl-wpg-mon-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Rangers (-1.5)",
@@ -148,7 +314,7 @@
           "timestamp": 1793726010,
           "slug": "nhl-stl-nyr-2026-11-03-spread-home-1pt5",
           "event_slug": "nhl-stl-nyr-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Jets (-1.5)",
@@ -181,7 +347,7 @@
           "timestamp": 1793717416,
           "slug": "nhl-col-cbj-2026-11-03-spread-home-1pt5",
           "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Jets vs. Canadiens",
@@ -192,7 +358,7 @@
           "timestamp": 1793714793,
           "slug": "nhl-wpg-mon-2026-11-03",
           "event_slug": "nhl-wpg-mon-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Rangers (-1.5)",
@@ -203,7 +369,7 @@
           "timestamp": 1793711835,
           "slug": "nhl-stl-nyr-2026-11-03-spread-home-1pt5",
           "event_slug": "nhl-stl-nyr-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Golden Knights vs. Penguins",
@@ -222,12 +388,12 @@
       "address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
       "label": "Netrol",
       "stats48h": {
-        "wins": 2,
-        "losses": 4,
-        "totalTrades": 16,
-        "winRate": 0.3333333333333333,
-        "volume": 173470.91573699997,
-        "pnl": -169933.30469999998
+        "wins": 0,
+        "losses": 7,
+        "totalTrades": 17,
+        "winRate": 0,
+        "volume": 134410.51847242378,
+        "pnl": 0
       },
       "recentTrades": [
         {
@@ -239,7 +405,7 @@
           "timestamp": 1793747541,
           "slug": "will-the-democrats-win-the-florida-governor-race-in-2026",
           "event_slug": "florida-governor-winner-2026",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
@@ -261,7 +427,7 @@
           "timestamp": 1793738121,
           "slug": "will-the-republicans-win-the-florida-governor-race-in-2026",
           "event_slug": "florida-governor-winner-2026",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will the Republicans win the Texas governor race in 2026?",
@@ -316,7 +482,7 @@
           "timestamp": 1793681667,
           "slug": "2026-balance-of-power-d-senate-d-house-949",
           "event_slug": "balance-of-power-2026-midterms",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Will the Republicans win the Texas Senate race in 2026?",
@@ -338,7 +504,7 @@
           "timestamp": 1793668011,
           "slug": "us-x-iran-ceasefire-continues-through-november-2",
           "event_slug": "us-iran-ceasefire-continues-throughptptpt",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "US x Iran ceasefire continues through October 31?",
@@ -349,7 +515,7 @@
           "timestamp": 1793667934,
           "slug": "us-x-iran-ceasefire-continues-through-october-31-20260917",
           "event_slug": "us-iran-ceasefire-continues-throughptptpt",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and T",
@@ -402,11 +568,11 @@
       "label": "VeryLucky888",
       "stats48h": {
         "wins": 0,
-        "losses": 7,
-        "totalTrades": 7,
+        "losses": 15,
+        "totalTrades": 23,
         "winRate": 0,
-        "volume": 39190.61898,
-        "pnl": -39190.619
+        "volume": 54006.01210002108,
+        "pnl": 0
       },
       "recentTrades": [
         {
@@ -462,7 +628,7 @@
           "timestamp": 1793749126,
           "slug": "cs2-tl1-tyloo-2026-11-03",
           "event_slug": "cs2-tl1-tyloo-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
@@ -473,7 +639,7 @@
           "timestamp": 1793742903,
           "slug": "dota2-navi-gl-2026-11-03-game1",
           "event_slug": "dota2-navi-gl-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
@@ -484,7 +650,7 @@
           "timestamp": 1793742871,
           "slug": "dota2-navi-gl-2026-11-03-game1",
           "event_slug": "dota2-navi-gl-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
@@ -495,7 +661,7 @@
           "timestamp": 1793742838,
           "slug": "dota2-navi-gl-2026-11-03-game1",
           "event_slug": "dota2-navi-gl-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Paris Saint-Germain FC (-1.5)",
@@ -506,7 +672,7 @@
           "timestamp": 1793742558,
           "slug": "ucl-vil-psg-2026-11-03-spread-away-1pt5",
           "event_slug": "ucl-vil-psg-2026-11-03-more-markets",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Paris Saint-Germain FC (-1.5)",
@@ -517,7 +683,7 @@
           "timestamp": 1793735722,
           "slug": "ucl-vil-psg-2026-11-03-spread-away-1pt5",
           "event_slug": "ucl-vil-psg-2026-11-03-more-markets",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Thunder vs. Cavaliers",
@@ -550,7 +716,7 @@
           "timestamp": 1793670592,
           "slug": "cs2-aur1-g2-2026-11-03",
           "event_slug": "cs2-aur1-g2-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
@@ -561,7 +727,7 @@
           "timestamp": 1793670574,
           "slug": "cs2-aur1-g2-2026-11-03",
           "event_slug": "cs2-aur1-g2-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Kings vs. Mavericks",
@@ -572,7 +738,7 @@
           "timestamp": 1793666641,
           "slug": "nba-sac-dal-2026-11-02",
           "event_slug": "nba-sac-dal-2026-11-02",
-          "result": "ongoing"
+          "result": "loss"
         }
       ]
     },
@@ -580,12 +746,12 @@
       "address": "0xf7b7009844425e328f135856273c30659be3e490",
       "label": "fantasy7788",
       "stats48h": {
-        "wins": 2,
-        "losses": 4,
-        "totalTrades": 36,
-        "winRate": 0.3333333333333333,
-        "volume": 51811.18031599998,
-        "pnl": -9221.0961
+        "wins": 0,
+        "losses": 6,
+        "totalTrades": 50,
+        "winRate": 0,
+        "volume": 3912.288527825942,
+        "pnl": 0
       },
       "recentTrades": [
         {
@@ -641,7 +807,7 @@
           "timestamp": 1793760402,
           "slug": "israel-x-iran-ceasefire-continues-through-november-3",
           "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
@@ -663,7 +829,7 @@
           "timestamp": 1793759946,
           "slug": "israel-x-iran-ceasefire-continues-through-november-5",
           "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
@@ -674,7 +840,7 @@
           "timestamp": 1793759812,
           "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
           "event_slug": "which-party-will-win-the-senate-in-2026",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "2026 Balance of Power: D Senate, D House",
@@ -685,7 +851,7 @@
           "timestamp": 1793758378,
           "slug": "2026-balance-of-power-d-senate-d-house-949",
           "event_slug": "balance-of-power-2026-midterms",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Will the U.S. invade Iran before 2027?",
@@ -707,7 +873,7 @@
           "timestamp": 1793757850,
           "slug": "israel-x-iran-ceasefire-continues-through-november-15",
           "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Hengam Island no longer under Iranian control by December 31?",
@@ -718,7 +884,7 @@
           "timestamp": 1793757730,
           "slug": "hengam-island-no-longer-under-iranian-control-by-december-31",
           "event_slug": "hengam-island-no-longer-under-iranian-control-byptptpt-20260720014859845",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
@@ -760,13 +926,35 @@
       "label": "Thunderous-Snarl",
       "stats48h": {
         "wins": 0,
-        "losses": 10,
-        "totalTrades": 12,
+        "losses": 8,
+        "totalTrades": 50,
         "winRate": 0,
-        "volume": 1057964.87943,
-        "pnl": -868735.0704
+        "volume": 214325.72149993724,
+        "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Natus Vincere",
+          "price": 0.4282367648,
+          "value": 2416.895500281184,
+          "timestamp": 1793788059,
+          "slug": "cs2-navi-fal2-2026-11-04",
+          "event_slug": "cs2-navi-fal2-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Natus Vincere",
+          "price": 0.4532041761,
+          "value": 3299.5799996560036,
+          "timestamp": 1793787907,
+          "slug": "cs2-navi-fal2-2026-11-04",
+          "event_slug": "cs2-navi-fal2-2026-11-04",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
           "side": "BUY",
@@ -909,28 +1097,6 @@
           "slug": "cs2-hero-fal2-2026-11-03-game2",
           "event_slug": "cs2-hero-fal2-2026-11-03",
           "result": "loss"
-        },
-        {
-          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
-          "side": "BUY",
-          "outcome": "Heroic",
-          "price": 0.13,
-          "value": 1560,
-          "timestamp": 1793769777,
-          "slug": "cs2-hero-fal2-2026-11-03",
-          "event_slug": "cs2-hero-fal2-2026-11-03",
-          "result": "loss"
-        },
-        {
-          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
-          "side": "BUY",
-          "outcome": "Heroic",
-          "price": 0.32,
-          "value": 9600,
-          "timestamp": 1793766273,
-          "slug": "cs2-hero-fal2-2026-11-03",
-          "event_slug": "cs2-hero-fal2-2026-11-03",
-          "result": "loss"
         }
       ]
     },
@@ -938,12 +1104,12 @@
       "address": "0xb5d19b53c973be1097119c9ddc48fcb18fff6e35",
       "label": "lastminwin",
       "stats48h": {
-        "wins": 1,
-        "losses": 2,
-        "totalTrades": 21,
-        "winRate": 0.3333333333333333,
-        "volume": 467153.335285,
-        "pnl": 61292.64809999996
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 4,
+        "winRate": 0,
+        "volume": 6544.124830000001,
+        "pnl": 0
       },
       "recentTrades": [
         {
@@ -989,20 +1155,9 @@
           "slug": "will-james-talarico-win-the-2028-us-presidential-election",
           "event_slug": "presidential-election-winner-2028",
           "result": "ongoing"
-        },
-        {
-          "title": "Will the Democrats win the South Carolina Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.31,
-          "value": 400.14799999999997,
-          "timestamp": 1793614785,
-          "slug": "will-the-democrats-win-the-south-carolina-senate-race-in-2026",
-          "event_slug": "south-carolina-senate-election-winner",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-04T10:13:47.421Z"
+  "lastUpdate": "2026-11-04T11:09:04.766Z"
 }
