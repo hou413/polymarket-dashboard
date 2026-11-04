@@ -340,18 +340,28 @@
     </div>
     
     <script>
-        const API_BASE = window.location.origin;
-        
         async function fetchDashboard() {
             try {
-                const res = await fetch(`${API_BASE}/api/traders`);
-                if (!res.ok) throw new Error('API error');
-                const data = await res.json();
+                // Try local API first (for local dev), fallback to static JSON
+                let data;
+                try {
+                    const localRes = await fetch(`${window.location.origin}/api/traders`);
+                    if (localRes.ok) {
+                        data = await localRes.json();
+                    } else {
+                        throw new Error('no local api');
+                    }
+                } catch(e) {
+                    // Fallback to static JSON (for GitHub Pages)
+                    const res = await fetch('./dashboard-data.json?t=' + Date.now());
+                    if (!res.ok) throw new Error('No data');
+                    data = await res.json();
+                }
                 updateDashboard(data);
             } catch (error) {
                 console.error('Failed to fetch dashboard:', error);
                 document.getElementById('tradersGrid').innerHTML = 
-                    '<div class="error">无法连接数据服务，请确保 dashboard-server.js 正在运行</div>';
+                    '<div class="error">暂无数据，请稍后刷新</div>';
             }
         }
         

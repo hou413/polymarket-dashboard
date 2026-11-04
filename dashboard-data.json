@@ -1,0 +1,865 @@
+{
+  "traders": [
+    {
+      "address": "0x2f28c1d2d8c0aee287e9c05a0603274ff533ba03",
+      "label": "alphaalii",
+      "stats48h": {
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
+        "pnl": 0
+      },
+      "recentTrades": []
+    },
+    {
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+      "label": "joseph00677",
+      "stats48h": {
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
+        "pnl": 0
+      },
+      "recentTrades": []
+    },
+    {
+      "address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+      "label": "sports_whale_1",
+      "stats48h": {
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
+        "pnl": 0
+      },
+      "recentTrades": [
+        {
+          "title": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "side": "BUY",
+          "outcome": "Angella Okutoyi",
+          "price": 0.24,
+          "value": 551.88,
+          "timestamp": 1793697858
+        },
+        {
+          "title": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "side": "BUY",
+          "outcome": "Angella Okutoyi",
+          "price": 0.24,
+          "value": 551.88,
+          "timestamp": 1793697858
+        },
+        {
+          "title": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "side": "SELL",
+          "outcome": "Sofya Lansere",
+          "price": 0.72,
+          "value": 1115.6399999999999,
+          "timestamp": 1793697667
+        },
+        {
+          "title": "Luanda: Sofya Lansere vs Angella Okutoyi",
+          "side": "SELL",
+          "outcome": "Sofya Lansere",
+          "price": 0.72,
+          "value": 1115.6399999999999,
+          "timestamp": 1793697667
+        },
+        {
+          "title": "Spread: Clippers (-2.5)",
+          "side": "SELL",
+          "outcome": "Clippers",
+          "price": 0.61,
+          "value": 243.695,
+          "timestamp": 1793683920
+        },
+        {
+          "title": "Spread: Clippers (-2.5)",
+          "side": "SELL",
+          "outcome": "Clippers",
+          "price": 0.61,
+          "value": 243.695,
+          "timestamp": 1793683920
+        },
+        {
+          "title": "Spread: Raptors (-1.5)",
+          "side": "BUY",
+          "outcome": "Raptors",
+          "price": 0.21,
+          "value": 2.1,
+          "timestamp": 1793683465
+        },
+        {
+          "title": "Spread: Warriors (-2.5)",
+          "side": "SELL",
+          "outcome": "Warriors",
+          "price": 0.72,
+          "value": 395.64,
+          "timestamp": 1793683269
+        },
+        {
+          "title": "Spread: Warriors (-2.5)",
+          "side": "SELL",
+          "outcome": "Warriors",
+          "price": 0.72,
+          "value": 324.36,
+          "timestamp": 1793683267
+        },
+        {
+          "title": "Spread: Lakers (-18.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.48,
+          "value": 47.76,
+          "timestamp": 1793683207
+        },
+        {
+          "title": "Spread: Lakers (-18.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.48,
+          "value": 47.76,
+          "timestamp": 1793683207
+        },
+        {
+          "title": "Spread: Warriors (-2.5)",
+          "side": "SELL",
+          "outcome": "Suns",
+          "price": 0.55,
+          "value": 797.225,
+          "timestamp": 1793682681
+        },
+        {
+          "title": "Spread: Warriors (-2.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.45,
+          "value": 652.275,
+          "timestamp": 1793682681
+        },
+        {
+          "title": "Spread: Suns (-5.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.35,
+          "value": 36.05,
+          "timestamp": 1793682142
+        },
+        {
+          "title": "Spread: Suns (-11.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.12,
+          "value": 53.94,
+          "timestamp": 1793682142
+        }
+      ]
+    },
+    {
+      "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+      "label": "chubbytoro",
+      "stats48h": {
+        "wins": 6,
+        "losses": 0,
+        "totalTrades": 6,
+        "winRate": 1,
+        "volume": 87152.48777,
+        "pnl": -87152.4878
+      },
+      "recentTrades": [
+        {
+          "title": "Avalanche vs. Blue Jackets: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.6,
+          "value": 5059.458,
+          "timestamp": 1793748394
+        },
+        {
+          "title": "Avalanche vs. Blue Jackets: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.6,
+          "value": 6000,
+          "timestamp": 1793748394
+        },
+        {
+          "title": "Spread: Penguins (-1.5)",
+          "side": "BUY",
+          "outcome": "Penguins",
+          "price": 0.31,
+          "value": 2329.1819,
+          "timestamp": 1793739069
+        },
+        {
+          "title": "Spread: Penguins (-1.5)",
+          "side": "BUY",
+          "outcome": "Penguins",
+          "price": 0.3,
+          "value": 580.299,
+          "timestamp": 1793735755
+        },
+        {
+          "title": "Avalanche vs. Blue Jackets",
+          "side": "BUY",
+          "outcome": "Blue Jackets",
+          "price": 0.48,
+          "value": 9600,
+          "timestamp": 1793733324
+        },
+        {
+          "title": "Avalanche vs. Blue Jackets",
+          "side": "BUY",
+          "outcome": "Blue Jackets",
+          "price": 0.48,
+          "value": 9243.1152,
+          "timestamp": 1793733322
+        },
+        {
+          "title": "Avalanche vs. Blue Jackets",
+          "side": "BUY",
+          "outcome": "Blue Jackets",
+          "price": 0.48,
+          "value": 9600,
+          "timestamp": 1793733322
+        },
+        {
+          "title": "Jets vs. Canadiens",
+          "side": "BUY",
+          "outcome": "Jets",
+          "price": 0.4,
+          "value": 6206.036,
+          "timestamp": 1793730510
+        },
+        {
+          "title": "Spread: Rangers (-1.5)",
+          "side": "BUY",
+          "outcome": "Rangers",
+          "price": 0.31,
+          "value": 18.6,
+          "timestamp": 1793726010
+        },
+        {
+          "title": "Spread: Jets (-1.5)",
+          "side": "BUY",
+          "outcome": "Jets",
+          "price": 0.2,
+          "value": 1087.2040000000002,
+          "timestamp": 1793718171
+        },
+        {
+          "title": "Spread: Jets (-1.5)",
+          "side": "BUY",
+          "outcome": "Jets",
+          "price": 0.1913738875,
+          "value": 1530.9911,
+          "timestamp": 1793718171
+        },
+        {
+          "title": "Spread: Blue Jackets (-1.5)",
+          "side": "BUY",
+          "outcome": "Blue Jackets",
+          "price": 0.2677478288,
+          "value": 1934.247799947232,
+          "timestamp": 1793717416
+        },
+        {
+          "title": "Jets vs. Canadiens",
+          "side": "BUY",
+          "outcome": "Jets",
+          "price": 0.36,
+          "value": 1869.7968,
+          "timestamp": 1793714793
+        },
+        {
+          "title": "Spread: Rangers (-1.5)",
+          "side": "BUY",
+          "outcome": "Rangers",
+          "price": 0.3,
+          "value": 3.3869999999999996,
+          "timestamp": 1793711835
+        },
+        {
+          "title": "Golden Knights vs. Penguins",
+          "side": "BUY",
+          "outcome": "Penguins",
+          "price": 0.5,
+          "value": 9.525,
+          "timestamp": 1793697252
+        }
+      ]
+    },
+    {
+      "address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
+      "label": "Netrol",
+      "stats48h": {
+        "wins": 0,
+        "losses": 10,
+        "totalTrades": 17,
+        "winRate": 0,
+        "volume": 207517.024967,
+        "pnl": -138961.54700000002
+      },
+      "recentTrades": [
+        {
+          "title": "Will the Democrats win the Florida governor race in 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.68,
+          "value": 218.28000000000003,
+          "timestamp": 1793747541
+        },
+        {
+          "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.94,
+          "value": 18391.1752,
+          "timestamp": 1793747488
+        },
+        {
+          "title": "Will the Republicans win the Florida governor race in 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.61,
+          "value": 21783.2403,
+          "timestamp": 1793738121
+        },
+        {
+          "title": "Will the Republicans win the Texas governor race in 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.64,
+          "value": 32000,
+          "timestamp": 1793729352
+        },
+        {
+          "title": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, an",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.06,
+          "value": 2700,
+          "timestamp": 1793683063
+        },
+        {
+          "title": "Will Republicans win Iowa and Maine, and lose Alaska, Kansas, Michigan, Ohio, an",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.0189921875,
+          "value": 607.75,
+          "timestamp": 1793682955
+        },
+        {
+          "title": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.231561328,
+          "value": 11578.0664,
+          "timestamp": 1793681758
+        },
+        {
+          "title": "2026 Balance of Power: D Senate, D House",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.76,
+          "value": 15938.9784,
+          "timestamp": 1793681667
+        },
+        {
+          "title": "Will the Republicans win the Texas Senate race in 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.25,
+          "value": 9212.0375,
+          "timestamp": 1793681580
+        },
+        {
+          "title": "US x Iran ceasefire continues through November 2?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.56,
+          "value": 16.8,
+          "timestamp": 1793668011
+        },
+        {
+          "title": "US x Iran ceasefire continues through October 31?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.5496610263,
+          "value": 1151.2320399237722,
+          "timestamp": 1793667934
+        },
+        {
+          "title": "Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and T",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.1149778917,
+          "value": 17246.683755000002,
+          "timestamp": 1793647936
+        },
+        {
+          "title": "Will Republicans win Alaska, Iowa, and Maine, and lose Kansas, Michigan, Ohio, a",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.008,
+          "value": 1400,
+          "timestamp": 1793647831
+        },
+        {
+          "title": "Will Republicans win Alaska, Iowa, and Texas, and lose Kansas, Maine, Michigan, ",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.0080929993,
+          "value": 1416.2748775,
+          "timestamp": 1793647764
+        },
+        {
+          "title": "Will Republicans win Alaska, Iowa, Maine, Michigan, and Texas, and lose Kansas a",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.005,
+          "value": 750,
+          "timestamp": 1793647678
+        }
+      ]
+    },
+    {
+      "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+      "label": "VeryLucky888",
+      "stats48h": {
+        "wins": 5,
+        "losses": 1,
+        "totalTrades": 7,
+        "winRate": 0.8333333333333334,
+        "volume": 39190.61898000001,
+        "pnl": -38984.4674
+      },
+      "recentTrades": [
+        {
+          "title": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Top Esports",
+          "price": 0.17,
+          "value": 70.90700000000001,
+          "timestamp": 1793760007
+        },
+        {
+          "title": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Top Esports",
+          "price": 0.47,
+          "value": 96.5568,
+          "timestamp": 1793759616
+        },
+        {
+          "title": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Top Esports",
+          "price": 0.47,
+          "value": 5933.2283,
+          "timestamp": 1793759005
+        },
+        {
+          "title": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Top Esports",
+          "price": 0.46,
+          "value": 160.73780000000002,
+          "timestamp": 1793758924
+        },
+        {
+          "title": "Counter-Strike: Liquid vs TYLOO (BO3) - IEM Beijing Group B",
+          "side": "BUY",
+          "outcome": "Liquid",
+          "price": 0.64,
+          "value": 61.6448,
+          "timestamp": 1793749126
+        },
+        {
+          "title": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
+          "side": "BUY",
+          "outcome": "Natus Vincere",
+          "price": 0.46,
+          "value": 141.8272,
+          "timestamp": 1793742903
+        },
+        {
+          "title": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
+          "side": "BUY",
+          "outcome": "Natus Vincere",
+          "price": 0.46,
+          "value": 490.3416,
+          "timestamp": 1793742871
+        },
+        {
+          "title": "Dota 2: Natus Vincere vs GamerLegion - Game 1 Winner",
+          "side": "BUY",
+          "outcome": "Natus Vincere",
+          "price": 0.4262043262,
+          "value": 781.0450000210719,
+          "timestamp": 1793742838
+        },
+        {
+          "title": "Spread: Paris Saint-Germain FC (-1.5)",
+          "side": "SELL",
+          "outcome": "Paris Saint-Germain FC",
+          "price": 0.999,
+          "value": 38611.35,
+          "timestamp": 1793742558
+        },
+        {
+          "title": "Spread: Paris Saint-Germain FC (-1.5)",
+          "side": "SELL",
+          "outcome": "Paris Saint-Germain FC",
+          "price": 0.3,
+          "value": 585,
+          "timestamp": 1793735722
+        },
+        {
+          "title": "Thunder vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.05,
+          "value": 10.4985,
+          "timestamp": 1793673120
+        },
+        {
+          "title": "Thunder vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.17,
+          "value": 159.62320000000003,
+          "timestamp": 1793672962
+        },
+        {
+          "title": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
+          "side": "SELL",
+          "outcome": "Aurora Gaming",
+          "price": 0.56,
+          "value": 56.00000000000001,
+          "timestamp": 1793670592
+        },
+        {
+          "title": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
+          "side": "BUY",
+          "outcome": "Aurora Gaming",
+          "price": 0.57,
+          "value": 6844.656899999999,
+          "timestamp": 1793670574
+        },
+        {
+          "title": "Kings vs. Mavericks",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.25,
+          "value": 2.595,
+          "timestamp": 1793666641
+        }
+      ]
+    },
+    {
+      "address": "0xf7b7009844425e328f135856273c30659be3e490",
+      "label": "fantasy7788",
+      "stats48h": {
+        "wins": 3,
+        "losses": 1,
+        "totalTrades": 35,
+        "winRate": 0.75,
+        "volume": 51747.99909999998,
+        "pnl": -6626.872299999999
+      },
+      "recentTrades": [
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.57,
+          "value": 295.27139999999997,
+          "timestamp": 1793767951
+        },
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.38,
+          "value": 51.3,
+          "timestamp": 1793767371
+        },
+        {
+          "title": "Will the Republicans win the Maine Senate race in 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.0792792793,
+          "value": 22.000000005750003,
+          "timestamp": 1793761935
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 3?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.0060921047,
+          "value": 32.039779801380995,
+          "timestamp": 1793760402
+        },
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.33,
+          "value": 66,
+          "timestamp": 1793760135
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 5?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.1,
+          "value": 19.8,
+          "timestamp": 1793759946
+        },
+        {
+          "title": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.008,
+          "value": 0.5952000000000001,
+          "timestamp": 1793759812
+        },
+        {
+          "title": "2026 Balance of Power: D Senate, D House",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.9917508319,
+          "value": 1200.999968016019,
+          "timestamp": 1793758378
+        },
+        {
+          "title": "Will the U.S. invade Iran before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.19,
+          "value": 1898.6187,
+          "timestamp": 1793758135
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 15?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.45,
+          "value": 162,
+          "timestamp": 1793757850
+        },
+        {
+          "title": "Hengam Island no longer under Iranian control by December 31?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.0251442258,
+          "value": 8.713480008732,
+          "timestamp": 1793757730
+        },
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.3599999977,
+          "value": 38.18999999600833,
+          "timestamp": 1793757696
+        },
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $90 Week of November 2 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.35,
+          "value": 17.5,
+          "timestamp": 1793757682
+        },
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $90 Week of November 2 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.3468468459,
+          "value": 54.999999998505785,
+          "timestamp": 1793757577
+        },
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.38883453,
+          "value": 713.0000000382446,
+          "timestamp": 1793757487
+        }
+      ]
+    },
+    {
+      "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+      "label": "Thunderous-Snarl",
+      "stats48h": {
+        "wins": 7,
+        "losses": 1,
+        "totalTrades": 11,
+        "winRate": 0.875,
+        "volume": 1290796.54052,
+        "pnl": -346350.06759999995
+      },
+      "recentTrades": [
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.32,
+          "value": 9600,
+          "timestamp": 1793766273
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.32,
+          "value": 6400,
+          "timestamp": 1793765742
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.32,
+          "value": 25600,
+          "timestamp": 1793765112
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.32,
+          "value": 32000,
+          "timestamp": 1793764941
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.32,
+          "value": 22400,
+          "timestamp": 1793764147
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.32,
+          "value": 22400,
+          "timestamp": 1793764053
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.32,
+          "value": 16000,
+          "timestamp": 1793763367
+        },
+        {
+          "title": "Counter-Strike: Heroic vs Team Falcons (BO3) - IEM Beijing Group A",
+          "side": "BUY",
+          "outcome": "Heroic",
+          "price": 0.32,
+          "value": 48000,
+          "timestamp": 1793762923
+        },
+        {
+          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Liquid",
+          "price": 0.85,
+          "value": 956.3434999999998,
+          "timestamp": 1793761483
+        },
+        {
+          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Liquid",
+          "price": 0.78,
+          "value": 3900,
+          "timestamp": 1793761374
+        },
+        {
+          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Liquid",
+          "price": 0.78,
+          "value": 7377.8718,
+          "timestamp": 1793761044
+        },
+        {
+          "title": "Counter-Strike: Liquid vs TYLOO (BO3) - IEM Beijing Group B",
+          "side": "BUY",
+          "outcome": "Liquid",
+          "price": 0.91,
+          "value": 13650,
+          "timestamp": 1793760996
+        },
+        {
+          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Liquid",
+          "price": 0.7849672333,
+          "value": 14129.4101994,
+          "timestamp": 1793760988
+        },
+        {
+          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Liquid",
+          "price": 0.7531176125,
+          "value": 1127.76350001425,
+          "timestamp": 1793760979
+        },
+        {
+          "title": "Counter-Strike: Liquid vs TYLOO - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Liquid",
+          "price": 0.79,
+          "value": 11060,
+          "timestamp": 1793760895
+        }
+      ]
+    },
+    {
+      "address": "0xb5d19b53c973be1097119c9ddc48fcb18fff6e35",
+      "label": "lastminwin",
+      "stats48h": {
+        "wins": 1,
+        "losses": 1,
+        "totalTrades": 21,
+        "winRate": 0.5,
+        "volume": 605289.635595,
+        "pnl": 154917.16040000005
+      },
+      "recentTrades": [
+        {
+          "title": "Will James Talarico win the 2028 US Presidential Election?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.025,
+          "value": 750,
+          "timestamp": 1793756158
+        },
+        {
+          "title": "Will the Democrats win the South Carolina Senate race in 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.31,
+          "value": 400.14799999999997,
+          "timestamp": 1793614785
+        }
+      ]
+    }
+  ],
+  "lastUpdate": "2026-11-04T05:05:41.871Z"
+}
