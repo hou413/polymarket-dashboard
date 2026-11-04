@@ -363,7 +363,7 @@
         "totalTrades": 15,
         "winRate": 0,
         "volume": 167262.772647,
-        "pnl": -162530.05479999998
+        "pnl": -162775.686
       },
       "recentTrades": [
         {
@@ -690,10 +690,20 @@
         "losses": 5,
         "totalTrades": 36,
         "winRate": 0,
-        "volume": 51107.32621599998,
-        "pnl": -6900.4302
+        "volume": 50509.65461599998,
+        "pnl": -7109.9386
       },
       "recentTrades": [
+        {
+          "title": "Will Iran target Iraq by November 30, 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.5757223579,
+          "value": 44.25999999954585,
+          "timestamp": 1793770546,
+          "slug": "will-iran-target-iraq-by-november-30-2026-20261103",
+          "event_slug": "will-iran-target-iraq-byptptpt-20261103"
+        },
         {
           "title": "Pete Hegseth out as Secretary of Defense by December 31?",
           "side": "BUY",
@@ -833,16 +843,6 @@
           "timestamp": 1793757577,
           "slug": "will-wti-dip-to-90-by-november-2-2026",
           "event_slug": "will-wti-hit-week-of-november-2-2026"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.38883453,
-          "value": 713.0000000382446,
-          "timestamp": 1793757487,
-          "slug": "will-wti-dip-to-90-in-november-2026",
-          "event_slug": "what-price-will-wti-hit-in-november-2026"
         }
       ]
     },
@@ -851,11 +851,11 @@
       "label": "Thunderous-Snarl",
       "stats48h": {
         "wins": 0,
-        "losses": 8,
+        "losses": 11,
         "totalTrades": 11,
         "winRate": 0,
         "volume": 914819.77329,
-        "pnl": -790524.8263999999
+        "pnl": -906259.4123
       },
       "recentTrades": [
         {
@@ -1019,7 +1019,7 @@
         "totalTrades": 21,
         "winRate": 0,
         "volume": 605289.635595,
-        "pnl": 177813.412
+        "pnl": 217733.8652
       },
       "recentTrades": [
         {
@@ -1045,5 +1045,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-04T05:37:06.023Z"
+  "lastUpdate": "2026-11-04T06:18:36.819Z"
 }
