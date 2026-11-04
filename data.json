@@ -1,24 +1,35 @@
 {
   "stats": {
-    "saved_at": "2026-11-04T02:38:26.232Z",
+    "saved_at": "2026-11-04T02:51:32.090Z",
     "version": "smart v2",
-    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
-    "tracked_label": "fantasy7788",
-    "total_alerts": 12,
-    "total_volume": 10232.461848042565,
-    "today_trades": 12,
-    "uptime_seconds": 2233,
-    "last_poll": "2026-11-04T02:36:03.992Z"
+    "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+    "tracked_label": "VeryLucky888",
+    "total_alerts": 13,
+    "total_volume": 10303.368848042564,
+    "today_trades": 13,
+    "uptime_seconds": 3019,
+    "last_poll": "2026-11-04T02:49:09.374Z"
   },
   "categories": {
     "sports": {
-      "count": 3,
-      "buyCount": 3,
+      "count": 4,
+      "buyCount": 4,
       "sellCount": 0,
-      "buyVolume": 6255.9661,
+      "buyVolume": 6326.8731,
       "sellVolume": 0,
-      "totalVolume": 6255.9661,
+      "totalVolume": 6326.8731,
       "recentTrades": [
+        {
+          "time": "2026-11-04T02:40:07.000Z",
+          "market": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+          "slug": "lol-tes-ig1-2026-11-06",
+          "url": "https://polymarket.com/event/lol-tes-ig1-2026-11-06?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 70.90700000000001,
+          "direction": "Top Esports",
+          "price": 0.17,
+          "outcome": "Top Esports"
+        },
         {
           "time": "2026-11-04T02:23:25.000Z",
           "market": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
@@ -194,6 +205,18 @@
   },
   "recent": [
     {
+      "time": "2026-11-04T02:40:07.000Z",
+      "market": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+      "slug": "lol-tes-ig1-2026-11-06",
+      "url": "https://polymarket.com/event/lol-tes-ig1-2026-11-06?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 70.90700000000001,
+      "direction": "Top Esports",
+      "price": 0.17,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
       "time": "2026-11-04T02:36:52.000Z",
       "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
       "slug": "which-party-will-win-the-senate-in-2026",
@@ -339,5 +362,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-04T02:49:46.373Z"
+  "generatedAt": "2026-11-04T02:54:48.981Z"
 }
