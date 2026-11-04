@@ -444,8 +444,14 @@
                 </div>
                 <div class="trades-list">
                     ${trader.recentTrades.length === 0 ? '<div class="no-trades">暂无交易</div>' : ''}
-                    ${trader.recentTrades.slice(0, 10).map(trade => `
-                        <div class="trade-item ${trade.side.toLowerCase()}">
+                    ${trader.recentTrades.slice(0, 10).map(trade => {
+                        const marketUrl = trade.event_slug 
+                            ? `https://polymarket.com/event/${trade.event_slug}`
+                            : trade.slug 
+                                ? `https://polymarket.com/event/${trade.slug}`
+                                : '#';
+                        return `
+                        <a href="${marketUrl}" target="_blank" rel="noopener" class="trade-item ${trade.side.toLowerCase()}" style="text-decoration:none;color:inherit;">
                             <div class="trade-info">
                                 <div class="trade-title">${trade.title}</div>
                                 <div class="trade-meta">${trade.outcome} @ ${(trade.price * 100).toFixed(1)}¢</div>
@@ -457,7 +463,7 @@
                                 <div class="trade-amount">$${formatNumber(trade.value)}</div>
                                 <div class="trade-time">${formatTime(trade.timestamp)}</div>
                             </div>
-                        </div>
+                        </a>
                     `).join('')}
                 </div>
             `;
