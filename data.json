@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-04T02:31:53.345Z",
+    "saved_at": "2026-11-04T02:38:26.232Z",
     "version": "smart v2",
-    "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
-    "tracked_label": "VeryLucky888",
-    "total_alerts": 11,
-    "total_volume": 10231.866648042565,
-    "today_trades": 11,
-    "uptime_seconds": 1840,
-    "last_poll": "2026-11-04T02:29:30.143Z"
+    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
+    "tracked_label": "fantasy7788",
+    "total_alerts": 12,
+    "total_volume": 10232.461848042565,
+    "today_trades": 12,
+    "uptime_seconds": 2233,
+    "last_poll": "2026-11-04T02:36:03.992Z"
   },
   "categories": {
     "sports": {
@@ -55,13 +55,24 @@
       ]
     },
     "politics": {
-      "count": 4,
+      "count": 5,
       "buyCount": 3,
-      "sellCount": 1,
+      "sellCount": 2,
       "buyVolume": 1253.5918480098069,
-      "sellVolume": 1898.6187,
-      "totalVolume": 3152.210548009807,
+      "sellVolume": 1899.2139,
+      "totalVolume": 3152.805748009807,
       "recentTrades": [
+        {
+          "time": "2026-11-04T02:36:52.000Z",
+          "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+          "slug": "which-party-will-win-the-senate-in-2026",
+          "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 0.5952000000000001,
+          "direction": "DOWN",
+          "price": 0.008,
+          "outcome": "No"
+        },
         {
           "time": "2026-11-04T02:12:58.000Z",
           "market": "2026 Balance of Power: D Senate, D House",
@@ -182,6 +193,18 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-04T02:36:52.000Z",
+      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "slug": "which-party-will-win-the-senate-in-2026",
+      "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 0.5952000000000001,
+      "direction": "DOWN",
+      "price": 0.008,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-04T02:23:25.000Z",
       "market": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
@@ -316,5 +339,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-04T02:38:13.433Z"
+  "generatedAt": "2026-11-04T02:43:15.791Z"
 }
