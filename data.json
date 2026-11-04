@@ -1,14 +1,14 @@
 {
   "stats": {
-    "saved_at": "2026-11-04T04:43:51.710Z",
+    "saved_at": "2026-11-04T04:46:07.458Z",
     "version": "smart v2",
-    "tracked_address": "0x4f1d5ae26fc31472966e951af3183308736d8de2",
-    "tracked_label": "e46m3",
-    "total_alerts": 257,
-    "total_volume": 957602.1922112863,
-    "today_trades": 257,
-    "uptime_seconds": 1489,
-    "last_poll": "2026-11-04T04:38:19.602Z"
+    "tracked_address": "0xb5d19b53c973be1097119c9ddc48fcb18fff6e35",
+    "tracked_label": "lastminwin",
+    "total_alerts": 264,
+    "total_volume": 963759.9344112863,
+    "today_trades": 264,
+    "uptime_seconds": 1625,
+    "last_poll": "2026-11-04T04:41:28.854Z"
   },
   "categories": {
     "sports": {
@@ -242,12 +242,12 @@
       ]
     },
     "politics": {
-      "count": 165,
-      "buyCount": 165,
+      "count": 171,
+      "buyCount": 171,
       "sellCount": 0,
-      "buyVolume": 7591.456924884942,
+      "buyVolume": 13730.295804884941,
       "sellVolume": 0,
-      "totalVolume": 7591.456924884942,
+      "totalVolume": 13730.295804884941,
       "recentTrades": [
         {
           "time": "2026-11-04T04:40:55.000Z",
@@ -481,12 +481,12 @@
       "recentTrades": []
     },
     "tech": {
-      "count": 8,
-      "buyCount": 8,
+      "count": 9,
+      "buyCount": 9,
       "sellCount": 0,
-      "buyVolume": 111.0932199984,
+      "buyVolume": 129.9965399984,
       "sellVolume": 0,
-      "totalVolume": 111.0932199984,
+      "totalVolume": 129.9965399984,
       "recentTrades": [
         {
           "time": "2026-11-04T04:08:54.000Z",
@@ -575,6 +575,17 @@
           "direction": "DOWN",
           "price": 0.68,
           "outcome": "No"
+        },
+        {
+          "time": "2026-10-30T14:47:18.000Z",
+          "market": "Will Gold (GC) hit (HIGH) $5,000 by end of December?",
+          "slug": "what-will-gold-gc-hit-by-end-of-december",
+          "url": "https://polymarket.com/event/what-will-gold-gc-hit-by-end-of-december?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 18.90332,
+          "direction": "UP",
+          "price": 0.034,
+          "outcome": "Yes"
         }
       ]
     },
@@ -3002,6 +3013,18 @@
       "traderLabel": "Thunderous-Authoritarian-Snarl"
     },
     {
+      "time": "2026-11-04T01:35:58.000Z",
+      "market": "Will James Talarico win the 2028 US Presidential Election?",
+      "slug": "presidential-election-winner-2028",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 750,
+      "direction": "UP",
+      "price": 0.025,
+      "category": "politics",
+      "traderLabel": "lastminwin"
+    },
+    {
       "time": "2026-11-04T00:11:19.000Z",
       "market": "LoL: Top Esports vs Invictus Gaming (BO5) - Worlds Playoffs",
       "slug": "lol-tes-ig1-2026-11-06",
@@ -3398,6 +3421,18 @@
       "traderLabel": "Thunderous-Authoritarian-Snarl"
     },
     {
+      "time": "2026-11-02T10:19:45.000Z",
+      "market": "Will the Democrats win the South Carolina Senate race in 2026?",
+      "slug": "south-carolina-senate-election-winner",
+      "url": "https://polymarket.com/event/south-carolina-senate-election-winner?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 400.14799999999997,
+      "direction": "UP",
+      "price": 0.31,
+      "category": "politics",
+      "traderLabel": "lastminwin"
+    },
+    {
       "time": "2026-11-02T09:21:10.000Z",
       "market": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
       "slug": "cs2-navi-fal2-2026-11-02",
@@ -3672,8 +3707,68 @@
       "price": 0.24,
       "category": "sports",
       "traderLabel": "Thunderous-Authoritarian-Snarl"
+    },
+    {
+      "time": "2026-10-30T14:47:18.000Z",
+      "market": "Will Gold (GC) hit (HIGH) $5,000 by end of December?",
+      "slug": "what-will-gold-gc-hit-by-end-of-december",
+      "url": "https://polymarket.com/event/what-will-gold-gc-hit-by-end-of-december?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 18.90332,
+      "direction": "UP",
+      "price": 0.034,
+      "category": "tech",
+      "traderLabel": "lastminwin"
+    },
+    {
+      "time": "2026-10-30T14:46:01.000Z",
+      "market": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+      "slug": "democratic-presidential-nominee-2028",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 118.01110999999999,
+      "direction": "DOWN",
+      "price": 0.833,
+      "category": "politics",
+      "traderLabel": "lastminwin"
+    },
+    {
+      "time": "2026-10-30T14:44:37.000Z",
+      "market": "Will Kamala Harris win the 2028 US Presidential Election?",
+      "slug": "presidential-election-winner-2028",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 2457.6772499999997,
+      "direction": "DOWN",
+      "price": 0.959,
+      "category": "politics",
+      "traderLabel": "lastminwin"
+    },
+    {
+      "time": "2026-10-30T14:43:03.000Z",
+      "market": "Will Gavin Newsom win the 2028 US Presidential Election?",
+      "slug": "presidential-election-winner-2028",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1394.27472,
+      "direction": "DOWN",
+      "price": 0.874,
+      "category": "politics",
+      "traderLabel": "lastminwin"
+    },
+    {
+      "time": "2026-10-29T09:00:25.000Z",
+      "market": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+      "slug": "republican-presidential-nominee-2028",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 1018.7278,
+      "direction": "UP",
+      "price": 0.173,
+      "category": "politics",
+      "traderLabel": "lastminwin"
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-04T04:43:57.324Z"
+  "generatedAt": "2026-11-04T04:50:45.182Z"
 }
