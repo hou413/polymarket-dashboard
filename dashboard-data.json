@@ -210,13 +210,35 @@
       "label": "chubbytoro",
       "stats48h": {
         "wins": 0,
-        "losses": 15,
-        "totalTrades": 24,
+        "losses": 13,
+        "totalTrades": 25,
         "winRate": 0,
-        "volume": 55071.84179994722,
+        "volume": 57262.213699747226,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Senators (-1.5)",
+          "side": "BUY",
+          "outcome": "Senators",
+          "price": 0.2661756714,
+          "value": 1863.2296998,
+          "timestamp": 1793795173,
+          "slug": "nhl-ott-buf-2026-11-04-spread-away-1pt5",
+          "event_slug": "nhl-ott-buf-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Senators (-1.5)",
+          "side": "BUY",
+          "outcome": "Senators",
+          "price": 0.27,
+          "value": 340.05420000000004,
+          "timestamp": 1793795172,
+          "slug": "nhl-ott-buf-2026-11-04-spread-away-1pt5",
+          "event_slug": "nhl-ott-buf-2026-11-04",
+          "result": "ongoing"
+        },
         {
           "title": "Avalanche vs. Blue Jackets: O/U 5.5",
           "side": "BUY",
@@ -359,28 +381,6 @@
           "slug": "nhl-wpg-mon-2026-11-03",
           "event_slug": "nhl-wpg-mon-2026-11-03",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Rangers (-1.5)",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.3,
-          "value": 3.3869999999999996,
-          "timestamp": 1793711835,
-          "slug": "nhl-stl-nyr-2026-11-03-spread-home-1pt5",
-          "event_slug": "nhl-stl-nyr-2026-11-03",
-          "result": "loss"
-        },
-        {
-          "title": "Golden Knights vs. Penguins",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.5,
-          "value": 9.525,
-          "timestamp": 1793697252,
-          "slug": "nhl-las-pit-2026-11-03",
-          "event_slug": "nhl-las-pit-2026-11-03",
-          "result": "loss"
         }
       ]
     },
@@ -389,7 +389,7 @@
       "label": "Netrol",
       "stats48h": {
         "wins": 0,
-        "losses": 7,
+        "losses": 6,
         "totalTrades": 17,
         "winRate": 0,
         "volume": 134410.51847242378,
@@ -416,7 +416,7 @@
           "timestamp": 1793747488,
           "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
           "event_slug": "which-party-will-win-the-house-in-2026",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will the Republicans win the Florida governor race in 2026?",
@@ -504,7 +504,7 @@
           "timestamp": 1793668011,
           "slug": "us-x-iran-ceasefire-continues-through-november-2",
           "event_slug": "us-iran-ceasefire-continues-throughptptpt",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "US x Iran ceasefire continues through October 31?",
@@ -515,7 +515,7 @@
           "timestamp": 1793667934,
           "slug": "us-x-iran-ceasefire-continues-through-october-31-20260917",
           "event_slug": "us-iran-ceasefire-continues-throughptptpt",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and T",
@@ -747,7 +747,7 @@
       "label": "fantasy7788",
       "stats48h": {
         "wins": 0,
-        "losses": 6,
+        "losses": 2,
         "totalTrades": 50,
         "winRate": 0,
         "volume": 3912.288527825942,
@@ -807,7 +807,7 @@
           "timestamp": 1793760402,
           "slug": "israel-x-iran-ceasefire-continues-through-november-3",
           "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
@@ -829,7 +829,7 @@
           "timestamp": 1793759946,
           "slug": "israel-x-iran-ceasefire-continues-through-november-5",
           "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
@@ -873,7 +873,7 @@
           "timestamp": 1793757850,
           "slug": "israel-x-iran-ceasefire-continues-through-november-15",
           "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Hengam Island no longer under Iranian control by December 31?",
@@ -884,7 +884,7 @@
           "timestamp": 1793757730,
           "slug": "hengam-island-no-longer-under-iranian-control-by-december-31",
           "event_slug": "hengam-island-no-longer-under-iranian-control-byptptpt-20260720014859845",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
@@ -1159,5 +1159,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-04T11:30:31.759Z"
+  "lastUpdate": "2026-11-04T13:10:04.917Z"
 }
