@@ -1,24 +1,46 @@
 {
   "stats": {
-    "saved_at": "2026-11-04T02:18:46.819Z",
+    "saved_at": "2026-11-04T02:31:53.345Z",
     "version": "smart v2",
-    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
-    "tracked_label": "fantasy7788",
-    "total_alerts": 9,
-    "total_volume": 4137.900548042566,
-    "today_trades": 9,
-    "uptime_seconds": 1054,
-    "last_poll": "2026-11-04T02:16:17.985Z"
+    "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+    "tracked_label": "VeryLucky888",
+    "total_alerts": 11,
+    "total_volume": 10231.866648042565,
+    "today_trades": 11,
+    "uptime_seconds": 1840,
+    "last_poll": "2026-11-04T02:29:30.143Z"
   },
   "categories": {
     "sports": {
-      "count": 1,
-      "buyCount": 1,
+      "count": 3,
+      "buyCount": 3,
       "sellCount": 0,
-      "buyVolume": 162,
+      "buyVolume": 6255.9661,
       "sellVolume": 0,
-      "totalVolume": 162,
+      "totalVolume": 6255.9661,
       "recentTrades": [
+        {
+          "time": "2026-11-04T02:23:25.000Z",
+          "market": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+          "slug": "lol-tes-ig1-2026-11-06",
+          "url": "https://polymarket.com/event/lol-tes-ig1-2026-11-06?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 5933.2283,
+          "direction": "Top Esports",
+          "price": 0.47,
+          "outcome": "Top Esports"
+        },
+        {
+          "time": "2026-11-04T02:22:04.000Z",
+          "market": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+          "slug": "lol-tes-ig1-2026-11-06",
+          "url": "https://polymarket.com/event/lol-tes-ig1-2026-11-06?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 160.73780000000002,
+          "direction": "Top Esports",
+          "price": 0.46,
+          "outcome": "Top Esports"
+        },
         {
           "time": "2026-11-04T02:04:10.000Z",
           "market": "Israel x Iran ceasefire continues through November 15?",
@@ -161,6 +183,30 @@
   },
   "recent": [
     {
+      "time": "2026-11-04T02:23:25.000Z",
+      "market": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+      "slug": "lol-tes-ig1-2026-11-06",
+      "url": "https://polymarket.com/event/lol-tes-ig1-2026-11-06?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 5933.2283,
+      "direction": "Top Esports",
+      "price": 0.47,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-04T02:22:04.000Z",
+      "market": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+      "slug": "lol-tes-ig1-2026-11-06",
+      "url": "https://polymarket.com/event/lol-tes-ig1-2026-11-06?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 160.73780000000002,
+      "direction": "Top Esports",
+      "price": 0.46,
+      "category": "sports",
+      "traderLabel": "Netrol"
+    },
+    {
       "time": "2026-11-04T02:12:58.000Z",
       "market": "2026 Balance of Power: D Senate, D House",
       "slug": "balance-of-power-2026-midterms",
@@ -270,5 +316,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-04T02:28:08.612Z"
+  "generatedAt": "2026-11-04T02:33:11.053Z"
 }
