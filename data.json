@@ -1,24 +1,35 @@
 {
   "stats": {
-    "saved_at": "2026-11-04T02:51:32.090Z",
+    "saved_at": "2026-11-04T02:58:06.739Z",
     "version": "smart v2",
-    "tracked_address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
-    "tracked_label": "VeryLucky888",
-    "total_alerts": 13,
-    "total_volume": 10303.368848042564,
-    "today_trades": 13,
-    "uptime_seconds": 3019,
-    "last_poll": "2026-11-04T02:49:09.374Z"
+    "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
+    "tracked_label": "fantasy7788",
+    "total_alerts": 16,
+    "total_volume": 10421.208627843946,
+    "today_trades": 16,
+    "uptime_seconds": 3414,
+    "last_poll": "2026-11-04T02:55:42.772Z"
   },
   "categories": {
     "sports": {
-      "count": 4,
-      "buyCount": 4,
-      "sellCount": 0,
-      "buyVolume": 6326.8731,
-      "sellVolume": 0,
-      "totalVolume": 6326.8731,
+      "count": 6,
+      "buyCount": 5,
+      "sellCount": 1,
+      "buyVolume": 6346.6731,
+      "sellVolume": 32.039779801380995,
+      "totalVolume": 6378.712879801381,
       "recentTrades": [
+        {
+          "time": "2026-11-04T02:46:42.000Z",
+          "market": "Israel x Iran ceasefire continues through November 3?",
+          "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963?utm_source=smart_v2_dashboard",
+          "side": "SELL",
+          "value": 32.039779801380995,
+          "direction": "DOWN",
+          "price": 0.0060921047,
+          "outcome": "No"
+        },
         {
           "time": "2026-11-04T02:40:07.000Z",
           "market": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
@@ -29,6 +40,17 @@
           "direction": "Top Esports",
           "price": 0.17,
           "outcome": "Top Esports"
+        },
+        {
+          "time": "2026-11-04T02:39:06.000Z",
+          "market": "Israel x Iran ceasefire continues through November 5?",
+          "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 19.8,
+          "direction": "DOWN",
+          "price": 0.1,
+          "outcome": "No"
         },
         {
           "time": "2026-11-04T02:23:25.000Z",
@@ -140,13 +162,24 @@
       "recentTrades": []
     },
     "tech": {
-      "count": 4,
-      "buyCount": 4,
+      "count": 5,
+      "buyCount": 5,
       "sellCount": 0,
-      "buyVolume": 823.6900000327587,
+      "buyVolume": 889.6900000327587,
       "sellVolume": 0,
-      "totalVolume": 823.6900000327587,
+      "totalVolume": 889.6900000327587,
       "recentTrades": [
+        {
+          "time": "2026-11-04T02:42:15.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 66,
+          "direction": "DOWN",
+          "price": 0.33,
+          "outcome": "No"
+        },
         {
           "time": "2026-11-04T02:01:36.000Z",
           "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
@@ -205,6 +238,30 @@
   },
   "recent": [
     {
+      "time": "2026-11-04T02:46:42.000Z",
+      "market": "Israel x Iran ceasefire continues through November 3?",
+      "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963?utm_source=smart_v2_dashboard",
+      "side": "SELL",
+      "value": 32.039779801380995,
+      "direction": "DOWN",
+      "price": 0.0060921047,
+      "category": "sports",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-04T02:42:15.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 66,
+      "direction": "DOWN",
+      "price": 0.33,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
+    {
       "time": "2026-11-04T02:40:07.000Z",
       "market": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
       "slug": "lol-tes-ig1-2026-11-06",
@@ -215,6 +272,18 @@
       "price": 0.17,
       "category": "sports",
       "traderLabel": "Netrol"
+    },
+    {
+      "time": "2026-11-04T02:39:06.000Z",
+      "market": "Israel x Iran ceasefire continues through November 5?",
+      "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 19.8,
+      "direction": "DOWN",
+      "price": 0.1,
+      "category": "sports",
+      "traderLabel": "hugecaulk"
     },
     {
       "time": "2026-11-04T02:36:52.000Z",
@@ -362,5 +431,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-04T02:54:48.981Z"
+  "generatedAt": "2026-11-04T02:59:51.381Z"
 }
