@@ -448,26 +448,22 @@
                 <div class="trades-list">
                     ${trader.recentTrades.length === 0 ? '<div class="no-trades">暂无交易</div>' : ''}
                     ${trader.recentTrades.slice(0, 10).map(trade => {
-                        const marketUrl = trade.event_slug 
-                            ? `https://polymarket.com/event/${trade.event_slug}`
-                            : trade.slug 
-                                ? `https://polymarket.com/event/${trade.slug}`
-                                : '#';
-                        return `
-                        <a href="${marketUrl}" target="_blank" rel="noopener" class="trade-item ${trade.side.toLowerCase()}" style="text-decoration:none;color:inherit;">
-                            <div class="trade-info">
-                                <div class="trade-title">${trade.title}</div>
-                                <div class="trade-meta">${trade.outcome} @ ${(trade.price * 100).toFixed(1)}¢</div>
-                            </div>
-                            <div>
-                                <div class="trade-side ${trade.side.toLowerCase()}">
-                                    ${trade.side === 'BUY' ? '📈' : '📉'} ${trade.side}
-                                </div>
-                                <div class="trade-amount">$${formatNumber(trade.value)}</div>
-                                <div class="trade-time">${formatTime(trade.timestamp)}</div>
-                            </div>
-                        </a>
-                    `).join('')}
+                        const slug = trade.event_slug || trade.slug || '';
+                        const url = slug ? 'https://polymarket.com/event/' + slug : '#';
+                        const sideClass = trade.side.toLowerCase();
+                        const icon = trade.side === 'BUY' ? '📈' : '📉';
+                        return '<a href="' + url + '" target="_blank" rel="noopener" class="trade-item ' + sideClass + '" style="text-decoration:none;color:inherit;">' +
+                            '<div class="trade-info">' +
+                                '<div class="trade-title">' + trade.title + '</div>' +
+                                '<div class="trade-meta">' + trade.outcome + ' @ ' + (trade.price * 100).toFixed(1) + '¢</div>' +
+                            '</div>' +
+                            '<div>' +
+                                '<div class="trade-side ' + sideClass + '">' + icon + ' ' + trade.side + '</div>' +
+                                '<div class="trade-amount">$' + formatNumber(trade.value) + '</div>' +
+                                '<div class="trade-time">' + formatTime(trade.timestamp) + '</div>' +
+                            '</div>' +
+                        '</a>';
+                    }).join('')}
                 </div>
             `;
             
