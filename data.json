@@ -1,24 +1,35 @@
 {
   "stats": {
-    "saved_at": "2026-11-04T01:30:59.766Z",
+    "saved_at": "2026-11-04T01:50:40.337Z",
     "version": "smart v2",
     "tracked_address": "0xf7b7009844425e328f135856273c30659be3e490",
     "tracked_label": "fantasy7788",
-    "total_alerts": 69,
-    "total_volume": 247843.3196950149,
-    "today_trades": 111,
-    "uptime_seconds": 73699,
-    "last_poll": "2026-11-04T01:28:35.579Z"
+    "total_alerts": 74,
+    "total_volume": 248878.72869501205,
+    "today_trades": 116,
+    "uptime_seconds": 74880,
+    "last_poll": "2026-11-04T01:48:14.837Z"
   },
   "categories": {
     "sports": {
-      "count": 50,
-      "buyCount": 41,
+      "count": 51,
+      "buyCount": 42,
       "sellCount": 9,
-      "buyVolume": 75181.92380015242,
+      "buyVolume": 75196.88680015242,
       "sellVolume": 43432.244999999995,
-      "totalVolume": 118614.16880015242,
+      "totalVolume": 118629.13180015242,
       "recentTrades": [
+        {
+          "time": "2026-11-04T01:36:30.000Z",
+          "market": "Israel x Iran ceasefire continues through November 5?",
+          "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 14.963,
+          "direction": "DOWN",
+          "price": 0.13,
+          "outcome": "No"
+        },
         {
           "time": "2026-11-03T23:38:46.000Z",
           "market": "Counter-Strike: Liquid vs TYLOO (BO3) - IEM Beijing Group B",
@@ -227,28 +238,39 @@
           "direction": "Jets",
           "price": 0.36,
           "outcome": "Jets"
-        },
-        {
-          "time": "2026-11-03T13:17:15.000Z",
-          "market": "Spread: Rangers (-1.5)",
-          "slug": "nhl-stl-nyr-2026-11-03",
-          "url": "https://polymarket.com/event/nhl-stl-nyr-2026-11-03?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 3.3869999999999996,
-          "direction": "Rangers",
-          "price": 0.3,
-          "outcome": "Rangers"
         }
       ]
     },
     "politics": {
-      "count": 46,
-      "buyCount": 38,
+      "count": 48,
+      "buyCount": 40,
       "sellCount": 8,
-      "buyVolume": 83542.3532051114,
+      "buyVolume": 84390.2992051114,
       "sellVolume": 40836.664690000005,
-      "totalVolume": 124379.0178951114,
+      "totalVolume": 125226.9638951114,
       "recentTrades": [
+        {
+          "time": "2026-11-04T01:43:57.000Z",
+          "market": "Pete Hegseth out as Secretary of Defense by December 31?",
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+          "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 497.94599999999997,
+          "direction": "DOWN",
+          "price": 0.6,
+          "outcome": "No"
+        },
+        {
+          "time": "2026-11-04T01:41:42.000Z",
+          "market": "Kharg Island no longer under Iranian control by December 31?",
+          "slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
+          "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 350.00000000000006,
+          "direction": "UP",
+          "price": 0.07,
+          "outcome": "Yes"
+        },
         {
           "time": "2026-11-04T01:26:15.000Z",
           "market": "US announces end of Iranian blockade by December 31, 2026?",
@@ -446,28 +468,6 @@
           "direction": "DOWN",
           "price": 0.597,
           "outcome": "No"
-        },
-        {
-          "time": "2026-11-03T17:40:42.000Z",
-          "market": "US announces end of Iranian blockade by November 30, 2026?",
-          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
-          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
-          "side": "SELL",
-          "value": 721.1966,
-          "direction": "DOWN",
-          "price": 0.74,
-          "outcome": "No"
-        },
-        {
-          "time": "2026-11-03T17:39:54.000Z",
-          "market": "US announces end of Iranian blockade by November 15, 2026?",
-          "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
-          "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?utm_source=smart_v2_dashboard",
-          "side": "BUY",
-          "value": 535.5229,
-          "direction": "UP",
-          "price": 0.11,
-          "outcome": "Yes"
         }
       ]
     },
@@ -481,13 +481,35 @@
       "recentTrades": []
     },
     "tech": {
-      "count": 15,
-      "buyCount": 15,
+      "count": 17,
+      "buyCount": 17,
       "sellCount": 0,
-      "buyVolume": 4850.1329997511175,
+      "buyVolume": 5022.632999748269,
       "sellVolume": 0,
-      "totalVolume": 4850.1329997511175,
+      "totalVolume": 5022.632999748269,
       "recentTrades": [
+        {
+          "time": "2026-11-04T01:46:30.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 Week of November 2 2026?",
+          "slug": "will-wti-hit-week-of-november-2-2026",
+          "url": "https://polymarket.com/event/will-wti-hit-week-of-november-2-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 15.5,
+          "direction": "UP",
+          "price": 0.31,
+          "outcome": "Yes"
+        },
+        {
+          "time": "2026-11-04T01:45:04.000Z",
+          "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+          "slug": "what-price-will-wti-hit-in-november-2026",
+          "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+          "side": "BUY",
+          "value": 156.9999999971512,
+          "direction": "DOWN",
+          "price": 0.3650715943,
+          "outcome": "No"
+        },
         {
           "time": "2026-11-03T23:27:39.000Z",
           "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
@@ -666,6 +688,66 @@
     }
   },
   "recent": [
+    {
+      "time": "2026-11-04T01:46:30.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 Week of November 2 2026?",
+      "slug": "will-wti-hit-week-of-november-2-2026",
+      "url": "https://polymarket.com/event/will-wti-hit-week-of-november-2-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 15.5,
+      "direction": "UP",
+      "price": 0.31,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-04T01:45:04.000Z",
+      "market": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+      "slug": "what-price-will-wti-hit-in-november-2026",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-november-2026?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 156.9999999971512,
+      "direction": "DOWN",
+      "price": 0.3650715943,
+      "category": "tech",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-04T01:43:57.000Z",
+      "market": "Pete Hegseth out as Secretary of Defense by December 31?",
+      "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+      "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 497.94599999999997,
+      "direction": "DOWN",
+      "price": 0.6,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-04T01:41:42.000Z",
+      "market": "Kharg Island no longer under Iranian control by December 31?",
+      "slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
+      "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 350.00000000000006,
+      "direction": "UP",
+      "price": 0.07,
+      "category": "politics",
+      "traderLabel": "hugecaulk"
+    },
+    {
+      "time": "2026-11-04T01:36:30.000Z",
+      "market": "Israel x Iran ceasefire continues through November 5?",
+      "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963?utm_source=smart_v2_dashboard",
+      "side": "BUY",
+      "value": 14.963,
+      "direction": "DOWN",
+      "price": 0.13,
+      "category": "sports",
+      "traderLabel": "hugecaulk"
+    },
     {
       "time": "2026-11-04T01:26:15.000Z",
       "market": "US announces end of Iranian blockade by December 31, 2026?",
@@ -2000,5 +2082,5 @@
     }
   ],
   "winRates": {},
-  "generatedAt": "2026-11-04T01:49:27.254Z"
+  "generatedAt": "2026-11-04T01:54:29.768Z"
 }
