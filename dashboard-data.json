@@ -1581,10 +1581,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 14265.92332003863,
+        "volume": 13654.810320038629,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.035,
+          "value": 0.665,
+          "timestamp": 1793895733,
+          "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
+          "event_slug": "alaska-senate-election-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Dan Sullivan win the Alaska Senate race in 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.966,
+          "value": 1865.346,
+          "timestamp": 1793895718,
+          "slug": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
+          "event_slug": "alaska-senate-election-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Dan Sullivan win the Alaska Senate race in 2026?",
           "side": "BUY",
@@ -1727,28 +1749,6 @@
           "slug": "will-anthropics-market-cap-be-3pt0t-or-greater-at-market-close-on-ipo-day",
           "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.751,
-          "value": 1067.922,
-          "timestamp": 1793895219,
-          "slug": "will-anthropics-market-cap-be-between-1pt5t-and-1pt75t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.991,
-          "value": 1409.202,
-          "timestamp": 1793895219,
-          "slug": "will-anthropics-market-cap-be-between-2pt75t-and-3pt0t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
         }
       ]
     },
@@ -1758,12 +1758,23 @@
       "stats48h": {
         "wins": 8,
         "losses": 0,
-        "totalTrades": 9,
+        "totalTrades": 10,
         "winRate": 1,
-        "volume": 128917.54429993298,
+        "volume": 142579.435599933,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
+          "side": "BUY",
+          "outcome": "Lorenzo Musetti",
+          "price": 0.83,
+          "value": 13661.8913,
+          "timestamp": 1793896066,
+          "slug": "atp-musetti-assche-2026-11-05",
+          "event_slug": "atp-musetti-assche-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
           "side": "BUY",
@@ -2224,5 +2235,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T16:24:21.902Z"
+  "lastUpdate": "2026-11-05T16:33:59.326Z"
 }
