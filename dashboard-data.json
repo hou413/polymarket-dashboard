@@ -1581,10 +1581,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2577.888589918052,
+        "volume": 2613.774589918052,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Spider-Man: Brand New Day have the best domestic opening week in 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.75,
+          "value": 36,
+          "timestamp": 1793882127,
+          "slug": "will-spider-man-brand-new-day-have-the-best-domestic-opening-week-in-2026",
+          "event_slug": "which-movie-has-biggest-opening-week-in-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Bill Hill win the AK-AL House seat?",
           "side": "SELL",
@@ -1737,17 +1748,6 @@
           "timestamp": 1793864566,
           "slug": "will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102",
           "event_slug": "taipei-mayor-election-winner-20260813125857100",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 440-459 tweets from October 30 to November 6, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.114,
-          "timestamp": 1793864181,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-440-459",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
         }
       ]
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T12:36:21.694Z"
+  "lastUpdate": "2026-11-05T12:44:01.368Z"
 }
