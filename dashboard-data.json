@@ -2096,10 +2096,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 32991.33898038882,
+        "volume": 29081.117110388815,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Olimpia Milano vs. Valencia",
+          "side": "SELL",
+          "outcome": "Valencia",
+          "price": 0.999,
+          "value": 1475.8926299999998,
+          "timestamp": 1793919247,
+          "slug": "euroleague-milano-valencia-2026-11-05",
+          "event_slug": "euroleague-milano-valencia-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
+          "side": "BUY",
+          "outcome": "Maks Kasnikowski",
+          "price": 0.91,
+          "value": 21.9947,
+          "timestamp": 1793918905,
+          "slug": "atp-kasniko-antoniu-2026-11-05",
+          "event_slug": "atp-kasniko-antoniu-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
           "side": "SELL",
@@ -2242,31 +2264,9 @@
           "slug": "euroleague-milano-valencia-2026-11-05",
           "event_slug": "euroleague-milano-valencia-2026-11-05",
           "result": "ongoing"
-        },
-        {
-          "title": "Will KKS Lech Poznań win on 2026-11-05?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9845,
-          "value": 39.38,
-          "timestamp": 1793913931,
-          "slug": "uel-ben-lep-2026-11-05-lep",
-          "event_slug": "uel-ben-lep-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.89,
-          "value": 5368.7292,
-          "timestamp": 1793913285,
-          "slug": "uel-ben-lep-2026-11-05-ben",
-          "event_slug": "uel-ben-lep-2026-11-05",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T22:46:48.945Z"
+  "lastUpdate": "2026-11-05T22:54:32.005Z"
 }
