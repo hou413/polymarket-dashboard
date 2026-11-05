@@ -31,13 +31,68 @@
       "label": "sports_whale_1",
       "stats48h": {
         "wins": 0,
-        "losses": 5,
+        "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1234.052100014144,
+        "volume": 1107.0223000014,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Timberwolves vs. Rockets: O/U 228.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.57,
+          "value": 60.62519999999999,
+          "timestamp": 1793850744,
+          "slug": "nba-min-hou-2026-11-04-total-228pt5",
+          "event_slug": "nba-min-hou-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Rockets: O/U 232.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.74,
+          "value": 14.8,
+          "timestamp": 1793850742,
+          "slug": "nba-min-hou-2026-11-04-total-232pt5",
+          "event_slug": "nba-min-hou-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Rockets: O/U 224.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.52,
+          "value": 9.022,
+          "timestamp": 1793850490,
+          "slug": "nba-min-hou-2026-11-04-total-224pt5",
+          "event_slug": "nba-min-hou-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-6.5)",
+          "side": "SELL",
+          "outcome": "Timberwolves",
+          "price": 0.63,
+          "value": 20.16,
+          "timestamp": 1793850274,
+          "slug": "nba-min-hou-2026-11-04-spread-home-6pt5",
+          "event_slug": "nba-min-hou-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-7.5)",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.3,
+          "value": 9,
+          "timestamp": 1793850274,
+          "slug": "nba-min-hou-2026-11-04-spread-home-7pt5",
+          "event_slug": "nba-min-hou-2026-11-04",
+          "result": "ongoing"
+        },
         {
           "title": "Timberwolves vs. Rockets: O/U 224.5",
           "side": "BUY",
@@ -147,61 +202,6 @@
           "slug": "nba-dal-sas-2026-11-04-spread-home-9pt5",
           "event_slug": "nba-dal-sas-2026-11-04",
           "result": "ongoing"
-        },
-        {
-          "title": "Cavaliers vs. Thunder: O/U 228.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.74,
-          "value": 14.8,
-          "timestamp": 1793848677,
-          "slug": "nba-cle-okc-2026-11-04-total-228pt5",
-          "event_slug": "nba-cle-okc-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "Cavaliers vs. Thunder: O/U 228.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.73,
-          "value": 21.3598,
-          "timestamp": 1793848542,
-          "slug": "nba-cle-okc-2026-11-04-total-228pt5",
-          "event_slug": "nba-cle-okc-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "Cavaliers vs. Thunder: O/U 228.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.7259966419,
-          "value": 121.067200003244,
-          "timestamp": 1793848542,
-          "slug": "nba-cle-okc-2026-11-04-total-228pt5",
-          "event_slug": "nba-cle-okc-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "Pacers vs. Grizzlies: O/U 210.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.380952381,
-          "value": 76.0000000095,
-          "timestamp": 1793848516,
-          "slug": "nba-ind-mem-2026-11-04-total-210pt5",
-          "event_slug": "nba-ind-mem-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "Pacers vs. Grizzlies: O/U 210.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.38,
-          "value": 7.41,
-          "timestamp": 1793848516,
-          "slug": "nba-ind-mem-2026-11-04-total-210pt5",
-          "event_slug": "nba-ind-mem-2026-11-04",
-          "result": "loss"
         }
       ]
     },
@@ -475,7 +475,7 @@
       "stats48h": {
         "wins": 15,
         "losses": 0,
-        "totalTrades": 46,
+        "totalTrades": 44,
         "winRate": 1,
         "volume": 880815.2381,
         "pnl": 0
@@ -1207,12 +1207,78 @@
       "stats48h": {
         "wins": 2,
         "losses": 0,
-        "totalTrades": 2,
+        "totalTrades": 8,
         "winRate": 1,
-        "volume": 54557.121999932984,
+        "volume": 120712.26309993298,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Tommy Paul vs Quentin Halys",
+          "side": "BUY",
+          "outcome": "Tommy Paul",
+          "price": 0.76,
+          "value": 2440.1852,
+          "timestamp": 1793850711,
+          "slug": "atp-paul-halys-2026-11-05",
+          "event_slug": "atp-paul-halys-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Tommy Paul vs Quentin Halys",
+          "side": "BUY",
+          "outcome": "Tommy Paul",
+          "price": 0.75,
+          "value": 159.9075,
+          "timestamp": 1793850693,
+          "slug": "atp-paul-halys-2026-11-05",
+          "event_slug": "atp-paul-halys-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Tommy Paul vs Quentin Halys",
+          "side": "BUY",
+          "outcome": "Tommy Paul",
+          "price": 0.76,
+          "value": 15124.995600000002,
+          "timestamp": 1793850681,
+          "slug": "atp-paul-halys-2026-11-05",
+          "event_slug": "atp-paul-halys-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Tommy Paul vs Quentin Halys",
+          "side": "BUY",
+          "outcome": "Tommy Paul",
+          "price": 0.75,
+          "value": 967.6575,
+          "timestamp": 1793850624,
+          "slug": "atp-paul-halys-2026-11-05",
+          "event_slug": "atp-paul-halys-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Tommy Paul vs Quentin Halys",
+          "side": "BUY",
+          "outcome": "Tommy Paul",
+          "price": 0.75,
+          "value": 46986.412500000006,
+          "timestamp": 1793850612,
+          "slug": "atp-paul-halys-2026-11-05",
+          "event_slug": "atp-paul-halys-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Tommy Paul vs Quentin Halys",
+          "side": "BUY",
+          "outcome": "Tommy Paul",
+          "price": 0.74,
+          "value": 475.9828,
+          "timestamp": 1793850591,
+          "slug": "atp-paul-halys-2026-11-05",
+          "event_slug": "atp-paul-halys-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "76ers vs. Pistons",
           "side": "BUY",
@@ -1241,10 +1307,10 @@
       "address": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
       "label": "chongchong37",
       "stats48h": {
-        "wins": 1,
+        "wins": 2,
         "losses": 2,
         "totalTrades": 8,
-        "winRate": 0.3333333333333333,
+        "winRate": 0.5,
         "volume": 28081.468500000003,
         "pnl": 0
       },
@@ -1302,7 +1368,7 @@
           "timestamp": 1793823871,
           "slug": "nba-cle-okc-2026-11-04-spread-home-3pt5",
           "event_slug": "nba-cle-okc-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Hornets vs. Nets: O/U 213.5",
@@ -1519,5 +1585,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T03:45:23.046Z"
+  "lastUpdate": "2026-11-05T03:59:13.022Z"
 }
