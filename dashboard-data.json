@@ -1581,10 +1581,54 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1700.3052500150902,
+        "volume": 1543.2067200250751,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bank of Mexico decreases interest rates by 25 bps after November 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.864,
+          "value": 520.56864,
+          "timestamp": 1793889772,
+          "slug": "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
+          "event_slug": "bank-of-mexico-decision-in-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bank of Mexico decreases interest rates by 25 bps after November 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8206088312,
+          "value": 189.56064000720002,
+          "timestamp": 1793889724,
+          "slug": "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
+          "event_slug": "bank-of-mexico-decision-in-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bank of Mexico decreases interest rates by 25 bps after November 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8094518919,
+          "value": 269.5474800027,
+          "timestamp": 1793889666,
+          "slug": "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
+          "event_slug": "bank-of-mexico-decision-in-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bank of Mexico decreases interest rates by 25 bps after November 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.799588209,
+          "value": 321.43446001800004,
+          "timestamp": 1793889651,
+          "slug": "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
+          "event_slug": "bank-of-mexico-decision-in-november",
+          "result": "ongoing"
+        },
         {
           "title": "No change in Bank of Mexico’s interest rates after November 2026 meeting?",
           "side": "SELL",
@@ -1704,50 +1748,6 @@
           "timestamp": 1793884843,
           "slug": "will-the-democratic-party-win-the-ny-17-house-seat",
           "event_slug": "ny-17-house-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed increase interest rates by 50+ bps after the January 2027 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 448.39675,
-          "timestamp": 1793883744,
-          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-january-2027-meeting-20260729233815507",
-          "event_slug": "fed-decision-in-january-20260729233815502",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 25 bps after the January 2027 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.987,
-          "value": 444.79155,
-          "timestamp": 1793883744,
-          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815504",
-          "event_slug": "fed-decision-in-january-20260729233815502",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will there be no change in Fed interest rates after the January 2027 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.2587921891,
-          "value": 116.624700017915,
-          "timestamp": 1793883744,
-          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-          "event_slug": "fed-decision-in-january-20260729233815502",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 448.39675,
-          "timestamp": 1793883744,
-          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-january-2027-meeting-20260729233815503",
-          "event_slug": "fed-decision-in-january-20260729233815502",
           "result": "ongoing"
         }
       ]
@@ -2037,7 +2037,7 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 5,
+        "wins": 11,
         "losses": 0,
         "totalTrades": 35,
         "winRate": 1,
@@ -2054,7 +2054,7 @@
           "timestamp": 1793888028,
           "slug": "atp-shelton-rinderk-2026-11-05",
           "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
@@ -2065,7 +2065,7 @@
           "timestamp": 1793888005,
           "slug": "atp-shelton-rinderk-2026-11-05",
           "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
@@ -2076,7 +2076,7 @@
           "timestamp": 1793887779,
           "slug": "atp-shelton-rinderk-2026-11-05",
           "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
@@ -2087,7 +2087,7 @@
           "timestamp": 1793887689,
           "slug": "atp-shelton-rinderk-2026-11-05",
           "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
@@ -2098,7 +2098,7 @@
           "timestamp": 1793887648,
           "slug": "atp-shelton-rinderk-2026-11-05",
           "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
@@ -2120,7 +2120,7 @@
           "timestamp": 1793885259,
           "slug": "atp-shelton-rinderk-2026-11-05",
           "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T14:45:04.366Z"
+  "lastUpdate": "2026-11-05T14:52:46.599Z"
 }
