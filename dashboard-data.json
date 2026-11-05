@@ -31,13 +31,35 @@
       "label": "sports_whale_1",
       "stats48h": {
         "wins": 0,
-        "losses": 0,
+        "losses": 5,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 421.28010001414407,
+        "volume": 1234.052100014144,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Timberwolves vs. Rockets: O/U 224.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.42,
+          "value": 420,
+          "timestamp": 1793849731,
+          "slug": "nba-min-hou-2026-11-04-total-224pt5",
+          "event_slug": "nba-min-hou-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-1.5)",
+          "side": "BUY",
+          "outcome": "Timberwolves",
+          "price": 0.43,
+          "value": 430,
+          "timestamp": 1793849730,
+          "slug": "nba-min-hou-2026-11-04-spread-home-1pt5",
+          "event_slug": "nba-min-hou-2026-11-04",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Trail Blazers (-7.5)",
           "side": "BUY",
@@ -135,7 +157,7 @@
           "timestamp": 1793848677,
           "slug": "nba-cle-okc-2026-11-04-total-228pt5",
           "event_slug": "nba-cle-okc-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Cavaliers vs. Thunder: O/U 228.5",
@@ -146,7 +168,7 @@
           "timestamp": 1793848542,
           "slug": "nba-cle-okc-2026-11-04-total-228pt5",
           "event_slug": "nba-cle-okc-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Cavaliers vs. Thunder: O/U 228.5",
@@ -157,7 +179,7 @@
           "timestamp": 1793848542,
           "slug": "nba-cle-okc-2026-11-04-total-228pt5",
           "event_slug": "nba-cle-okc-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Pacers vs. Grizzlies: O/U 210.5",
@@ -168,7 +190,7 @@
           "timestamp": 1793848516,
           "slug": "nba-ind-mem-2026-11-04-total-210pt5",
           "event_slug": "nba-ind-mem-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Pacers vs. Grizzlies: O/U 210.5",
@@ -179,29 +201,7 @@
           "timestamp": 1793848516,
           "slug": "nba-ind-mem-2026-11-04-total-210pt5",
           "event_slug": "nba-ind-mem-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "Hornets vs. Nets: O/U 220.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.4,
-          "value": 26.968000000000004,
-          "timestamp": 1793848404,
-          "slug": "nba-cha-bkn-2026-11-04-total-220pt5",
-          "event_slug": "nba-cha-bkn-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Rockets: O/U 224.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.57,
-          "value": 10.26,
-          "timestamp": 1793848369,
-          "slug": "nba-min-hou-2026-11-04-total-224pt5",
-          "event_slug": "nba-min-hou-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         }
       ]
     },
@@ -473,10 +473,10 @@
       "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
       "label": "Thunderous-Snarl",
       "stats48h": {
-        "wins": 0,
-        "losses": 15,
-        "totalTrades": 47,
-        "winRate": 0,
+        "wins": 15,
+        "losses": 0,
+        "totalTrades": 46,
+        "winRate": 1,
         "volume": 880815.2381,
         "pnl": 0
       },
@@ -490,7 +490,7 @@
           "timestamp": 1793836497,
           "slug": "lol-gen-ly-2026-11-05-game3",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 3 Winner",
@@ -501,7 +501,7 @@
           "timestamp": 1793836473,
           "slug": "lol-gen-ly-2026-11-05-game3",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 3 Winner",
@@ -512,7 +512,7 @@
           "timestamp": 1793836423,
           "slug": "lol-gen-ly-2026-11-05-game3",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 2 Winner",
@@ -523,7 +523,7 @@
           "timestamp": 1793833647,
           "slug": "lol-gen-ly-2026-11-05-game2",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 2 Winner",
@@ -534,7 +534,7 @@
           "timestamp": 1793833611,
           "slug": "lol-gen-ly-2026-11-05-game2",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 2 Winner",
@@ -545,7 +545,7 @@
           "timestamp": 1793833599,
           "slug": "lol-gen-ly-2026-11-05-game2",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 2 Winner",
@@ -556,7 +556,7 @@
           "timestamp": 1793833593,
           "slug": "lol-gen-ly-2026-11-05-game2",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 2 Winner",
@@ -567,7 +567,7 @@
           "timestamp": 1793833582,
           "slug": "lol-gen-ly-2026-11-05-game2",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 2 Winner",
@@ -578,7 +578,7 @@
           "timestamp": 1793833570,
           "slug": "lol-gen-ly-2026-11-05-game2",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 2 Winner",
@@ -589,7 +589,7 @@
           "timestamp": 1793833552,
           "slug": "lol-gen-ly-2026-11-05-game2",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 2 Winner",
@@ -600,7 +600,7 @@
           "timestamp": 1793833395,
           "slug": "lol-gen-ly-2026-11-05-game2",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 1 Winner",
@@ -611,7 +611,7 @@
           "timestamp": 1793831016,
           "slug": "lol-gen-ly-2026-11-05-game1",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 1 Winner",
@@ -622,7 +622,7 @@
           "timestamp": 1793830944,
           "slug": "lol-gen-ly-2026-11-05-game1",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 1 Winner",
@@ -633,7 +633,7 @@
           "timestamp": 1793830656,
           "slug": "lol-gen-ly-2026-11-05-game1",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 1 Winner",
@@ -644,7 +644,7 @@
           "timestamp": 1793830606,
           "slug": "lol-gen-ly-2026-11-05-game1",
           "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
+          "result": "win"
         }
       ]
     },
@@ -1030,10 +1030,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 146.43071,
+        "volume": 156.74951,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Victor Wembanyama win the 2026-27 NBA MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.3,
+          "value": 12.15,
+          "timestamp": 1793849866,
+          "slug": "will-victor-wembanyama-win-the-2026-27-nba-mvp",
+          "event_slug": "nba-2026-27-mvp",
+          "result": "ongoing"
+        },
         {
           "title": "Will the next US-Iran senior diplomatic meeting take place in Italy by December ",
           "side": "SELL",
@@ -1187,17 +1198,6 @@
           "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
           "event_slug": "new-zealand-legislative-election-winner",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.28,
-          "value": 1.8312000000000002,
-          "timestamp": 1793835501,
-          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
         }
       ]
     },
@@ -1205,10 +1205,10 @@
       "address": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
       "label": "tennischamp",
       "stats48h": {
-        "wins": 0,
-        "losses": 2,
+        "wins": 2,
+        "losses": 0,
         "totalTrades": 2,
-        "winRate": 0,
+        "winRate": 1,
         "volume": 54557.121999932984,
         "pnl": 0
       },
@@ -1222,7 +1222,7 @@
           "timestamp": 1793842716,
           "slug": "nba-phi-det-2026-11-04",
           "event_slug": "nba-phi-det-2026-11-04",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "76ers vs. Pistons",
@@ -1233,7 +1233,7 @@
           "timestamp": 1793839614,
           "slug": "nba-phi-det-2026-11-04",
           "event_slug": "nba-phi-det-2026-11-04",
-          "result": "loss"
+          "result": "win"
         }
       ]
     },
@@ -1241,10 +1241,10 @@
       "address": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
       "label": "chongchong37",
       "stats48h": {
-        "wins": 0,
-        "losses": 1,
+        "wins": 1,
+        "losses": 2,
         "totalTrades": 8,
-        "winRate": 0,
+        "winRate": 0.3333333333333333,
         "volume": 28081.468500000003,
         "pnl": 0
       },
@@ -1313,7 +1313,7 @@
           "timestamp": 1793813949,
           "slug": "nba-cha-bkn-2026-11-04-total-213pt5",
           "event_slug": "nba-cha-bkn-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Pistons (-4.5)",
@@ -1335,7 +1335,7 @@
           "timestamp": 1793812909,
           "slug": "nba-ind-mem-2026-11-04-spread-home-6pt5",
           "event_slug": "nba-ind-mem-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         }
       ]
     },
@@ -1343,10 +1343,10 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 0,
-        "losses": 10,
+        "wins": 10,
+        "losses": 0,
         "totalTrades": 25,
-        "winRate": 0,
+        "winRate": 1,
         "volume": 67924.25052043186,
         "pnl": 0
       },
@@ -1382,7 +1382,7 @@
           "timestamp": 1793840997,
           "slug": "nba-phi-det-2026-11-04",
           "event_slug": "nba-phi-det-2026-11-04",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "76ers vs. Pistons",
@@ -1393,7 +1393,7 @@
           "timestamp": 1793840955,
           "slug": "nba-phi-det-2026-11-04",
           "event_slug": "nba-phi-det-2026-11-04",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
@@ -1437,7 +1437,7 @@
           "timestamp": 1793838544,
           "slug": "nba-chi-nyk-2026-11-04",
           "event_slug": "nba-chi-nyk-2026-11-04",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "Villa Maria: Lucio Ratti vs Carlos Maria Zarate",
@@ -1448,7 +1448,7 @@
           "timestamp": 1793836749,
           "slug": "atp-ratti-zarate-2026-11-04",
           "event_slug": "atp-ratti-zarate-2026-11-04",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "Will CR Flamengo win on 2026-11-04?",
@@ -1459,7 +1459,7 @@
           "timestamp": 1793831224,
           "slug": "bra-fla-gre-2026-11-04-fla",
           "event_slug": "bra-fla-gre-2026-11-04",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "Real Madrid vs. Panathinaikos",
@@ -1470,7 +1470,7 @@
           "timestamp": 1793829490,
           "slug": "euroleague-madrid-panathin-2026-11-04",
           "event_slug": "euroleague-madrid-panathin-2026-11-04",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Arthur Fils vs Tomas Machac",
@@ -1481,7 +1481,7 @@
           "timestamp": 1793829195,
           "slug": "atp-fils-machac-2026-11-04",
           "event_slug": "atp-fils-machac-2026-11-04",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Arthur Fils vs Tomas Machac",
@@ -1492,7 +1492,7 @@
           "timestamp": 1793822139,
           "slug": "atp-fils-machac-2026-11-04",
           "event_slug": "atp-fils-machac-2026-11-04",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Arthur Fils vs Tomas Machac",
@@ -1503,7 +1503,7 @@
           "timestamp": 1793822095,
           "slug": "atp-fils-machac-2026-11-04",
           "event_slug": "atp-fils-machac-2026-11-04",
-          "result": "loss"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Alex Michelsen vs Carlos Alcaraz",
@@ -1514,10 +1514,10 @@
           "timestamp": 1793821669,
           "slug": "atp-michels-alcaraz-2026-11-04",
           "event_slug": "atp-michels-alcaraz-2026-11-04",
-          "result": "loss"
+          "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T03:35:56.106Z"
+  "lastUpdate": "2026-11-05T03:45:23.046Z"
 }
