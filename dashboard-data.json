@@ -209,14 +209,25 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 4,
+        "wins": 3,
         "losses": 4,
-        "totalTrades": 31,
-        "winRate": 0.5,
-        "volume": 41958.7306998,
+        "totalTrades": 32,
+        "winRate": 0.42857142857142855,
+        "volume": 38466.2212998,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Utah vs. Canadiens",
+          "side": "BUY",
+          "outcome": "Utah",
+          "price": 0.54,
+          "value": 5750.6058,
+          "timestamp": 1793893332,
+          "slug": "nhl-utah-mon-2026-11-05",
+          "event_slug": "nhl-utah-mon-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Predators vs. Avalanche: O/U 6.5",
           "side": "BUY",
@@ -367,17 +378,6 @@
           "price": 0.48,
           "value": 9600,
           "timestamp": 1793733324,
-          "slug": "nhl-col-cbj-2026-11-03",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets",
-          "side": "BUY",
-          "outcome": "Blue Jackets",
-          "price": 0.48,
-          "value": 9243.1152,
-          "timestamp": 1793733322,
           "slug": "nhl-col-cbj-2026-11-03",
           "event_slug": "nhl-col-cbj-2026-11-03",
           "result": "win"
@@ -1581,10 +1581,76 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 142.08081000190802,
+        "volume": 85.35605000190802,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Coldplay have the second-greatest number of monthly Spotify listeners this ",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.011,
+          "timestamp": 1793893350,
+          "slug": "will-coldplay-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-20261130",
+          "event_slug": "2-spotify-artist-in-november-20261130",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ariana Grande have the second-greatest number of monthly Spotify listeners ",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.011,
+          "timestamp": 1793893350,
+          "slug": "will-ariana-grande-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-20261130",
+          "event_slug": "2-spotify-artist-in-november-20261130",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Drake have the second-greatest number of monthly Spotify listeners this mon",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.011,
+          "timestamp": 1793893350,
+          "slug": "will-drake-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-20261130",
+          "event_slug": "2-spotify-artist-in-november-20261130",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Justin Bieber have the second-greatest number of monthly Spotify listeners ",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.011,
+          "timestamp": 1793893350,
+          "slug": "will-justin-bieber-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-20261130",
+          "event_slug": "2-spotify-artist-in-november-20261130",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Billie Eilish have the second-greatest number of monthly Spotify listeners ",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.011,
+          "timestamp": 1793893348,
+          "slug": "will-billie-eilish-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-20261130",
+          "event_slug": "2-spotify-artist-in-november-20261130",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Shakira have the second-greatest number of monthly Spotify listeners this m",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.011,
+          "timestamp": 1793893348,
+          "slug": "will-shakira-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-20261130",
+          "event_slug": "2-spotify-artist-in-november-20261130",
+          "result": "ongoing"
+        },
         {
           "title": "Will Rihanna have the second-greatest number of monthly Spotify listeners this m",
           "side": "BUY",
@@ -1682,72 +1748,6 @@
           "timestamp": 1793892694,
           "slug": "will-zelenskyy-and-putin-meet-next-in-belarus",
           "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy and Putin meet next in Turkey before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 14.17444,
-          "timestamp": 1793892694,
-          "slug": "will-zelenskyy-and-putin-meet-next-in-turkey",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy and Putin meet next in Switzerland before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 14.23148,
-          "timestamp": 1793892694,
-          "slug": "will-zelenskyy-and-putin-meet-next-in-switzerland-848-193",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy and Putin meet next in Qatar / UAE before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.991,
-          "value": 14.13166,
-          "timestamp": 1793892694,
-          "slug": "will-zelenskyy-and-putin-meet-next-in-qatar-uae",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy and Putin meet next in Russia before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 14.23148,
-          "timestamp": 1793892694,
-          "slug": "will-zelenskyy-and-putin-meet-next-in-russia",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 660-679 tweets in November 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.01085,
-          "timestamp": 1793891781,
-          "slug": "elon-musk-of-tweets-november-2026-660-679",
-          "event_slug": "elon-musk-of-tweets-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 600-619 tweets in November 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.01085,
-          "timestamp": 1793891781,
-          "slug": "elon-musk-of-tweets-november-2026-600-619",
-          "event_slug": "elon-musk-of-tweets-november-2026",
           "result": "ongoing"
         }
       ]
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T15:42:07.675Z"
+  "lastUpdate": "2026-11-05T15:50:52.432Z"
 }
