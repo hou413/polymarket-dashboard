@@ -706,10 +706,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 2465.486040050969,
+        "volume": 2394.0860400018264,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.28,
+          "value": 19.6,
+          "timestamp": 1793916082,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.43,
+          "value": 215,
+          "timestamp": 1793915757,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+          "result": "ongoing"
+        },
         {
           "title": "Israel x Iran ceasefire continues through November 7?",
           "side": "BUY",
@@ -852,28 +874,6 @@
           "slug": "khamenei-of-tweets-october-30-november-6-2026-0-4",
           "event_slug": "khamenei-of-tweets-october-30-november-6-2026",
           "result": "win"
-        },
-        {
-          "title": "Will Khamenei post 0-4 posts from November 3 to November 10, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.2214347275,
-          "value": 49.99999999914259,
-          "timestamp": 1793873382,
-          "slug": "khamenei-of-tweets-november-3-november-10-2026-0-4",
-          "event_slug": "khamenei-of-tweets-november-3-november-10-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.15,
-          "value": 256.00000005,
-          "timestamp": 1793858764,
-          "slug": "will-wti-dip-to-85-in-november-2026",
-          "event_slug": "what-price-will-wti-hit-in-november-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -2096,10 +2096,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 27529.54888000785,
+        "volume": 26841.5306800102,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Heat vs. Warriors",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.61,
+          "value": 1694.6776,
+          "timestamp": 1793915940,
+          "slug": "nba-mia-gsw-2026-11-05",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
+          "side": "BUY",
+          "outcome": "Maks Kasnikowski",
+          "price": 0.67,
+          "value": 497.30080000000004,
+          "timestamp": 1793915761,
+          "slug": "atp-kasniko-antoniu-2026-11-05",
+          "event_slug": "atp-kasniko-antoniu-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Will Juventus FC win on 2026-11-05?",
           "side": "BUY",
@@ -2242,31 +2264,9 @@
           "slug": "uel-ben-lep-2026-11-05-ben",
           "event_slug": "uel-ben-lep-2026-11-05",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.89,
-          "value": 2846.6294000000003,
-          "timestamp": 1793913136,
-          "slug": "uel-ben-lep-2026-11-05-ben",
-          "event_slug": "uel-ben-lep-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Olimpia Milano vs. Valencia",
-          "side": "BUY",
-          "outcome": "Valencia",
-          "price": 0.6426656394,
-          "value": 33.367199997648,
-          "timestamp": 1793912901,
-          "slug": "euroleague-milano-valencia-2026-11-05",
-          "event_slug": "euroleague-milano-valencia-2026-11-05",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T21:55:44.730Z"
+  "lastUpdate": "2026-11-05T22:03:26.222Z"
 }
