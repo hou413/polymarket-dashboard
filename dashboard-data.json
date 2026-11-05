@@ -706,10 +706,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 2534.823580050969,
+        "volume": 2513.826480050969,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.29,
+          "value": 29.0029,
+          "timestamp": 1793914975,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
         {
           "title": "Pete Hegseth out as Secretary of Defense by November 30?",
           "side": "BUY",
@@ -862,17 +873,6 @@
           "timestamp": 1793858715,
           "slug": "us-announces-end-of-iranian-blockade-by-december-31-2026-20260727171803489-375-949-645-919-269-157-255-857",
           "event_slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kharg Island no longer under Iranian control by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.05,
-          "value": 50,
-          "timestamp": 1793858550,
-          "slug": "kharg-island-no-longer-under-iranian-control-by-december-31-20260730004337418",
-          "event_slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
           "result": "ongoing"
         }
       ]
@@ -1913,10 +1913,10 @@
       "address": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
       "label": "chongchong37",
       "stats48h": {
-        "wins": 5,
+        "wins": 6,
         "losses": 9,
         "totalTrades": 18,
-        "winRate": 0.35714285714285715,
+        "winRate": 0.4,
         "volume": 41924.176799972076,
         "pnl": 0
       },
@@ -1930,7 +1930,7 @@
           "timestamp": 1793899645,
           "slug": "uel-cry-hof-2026-11-05-cry",
           "event_slug": "uel-cry-hof-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-11.5)",
@@ -2092,14 +2092,25 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 2,
+        "wins": 1,
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 28272.84579952016,
+        "volume": 18469.952439982815,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Juventus FC win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.976,
+          "value": 3227.86624,
+          "timestamp": 1793914788,
+          "slug": "uel-az-juv-2026-11-05-juv",
+          "event_slug": "uel-az-juv-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
           "side": "BUY",
@@ -2253,20 +2264,9 @@
           "slug": "atp-struff-ruud-2026-11-05",
           "event_slug": "atp-struff-ruud-2026-11-05",
           "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Jan-Lennard Struff vs Casper Ruud",
-          "side": "BUY",
-          "outcome": "Casper Ruud",
-          "price": 0.6846464556,
-          "value": 13030.75959953735,
-          "timestamp": 1793907753,
-          "slug": "atp-struff-ruud-2026-11-05",
-          "event_slug": "atp-struff-ruud-2026-11-05",
-          "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T21:38:56.052Z"
+  "lastUpdate": "2026-11-05T21:48:04.819Z"
 }
