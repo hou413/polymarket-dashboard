@@ -1104,11 +1104,11 @@
       "address": "0xb5d19b53c973be1097119c9ddc48fcb18fff6e35",
       "label": "lastminwin",
       "stats48h": {
-        "wins": 1,
+        "wins": 0,
         "losses": 0,
-        "totalTrades": 9,
-        "winRate": 1,
-        "volume": 8843.80648,
+        "totalTrades": 8,
+        "winRate": 0,
+        "volume": 8443.65848,
         "pnl": 0
       },
       "recentTrades": [
@@ -1199,17 +1199,6 @@
           "slug": "will-james-talarico-win-the-2028-us-presidential-election",
           "event_slug": "presidential-election-winner-2028",
           "result": "ongoing"
-        },
-        {
-          "title": "Will the Democrats win the South Carolina Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.31,
-          "value": 400.14799999999997,
-          "timestamp": 1793614785,
-          "slug": "will-the-democrats-win-the-south-carolina-senate-race-in-2026",
-          "event_slug": "south-carolina-senate-election-winner",
-          "result": "win"
         }
       ]
     },
@@ -2224,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T10:19:52.940Z"
+  "lastUpdate": "2026-11-05T10:27:29.095Z"
 }
