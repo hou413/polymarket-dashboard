@@ -30,14 +30,80 @@
       "address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
       "label": "sports_whale_1",
       "stats48h": {
-        "wins": 4,
-        "losses": 4,
+        "wins": 2,
+        "losses": 1,
         "totalTrades": 50,
-        "winRate": 0.5,
-        "volume": 1339.4272000014,
+        "winRate": 0.6666666666666666,
+        "volume": 599.3151999999999,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Lakers (-9.5)",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.54,
+          "value": 9.72,
+          "timestamp": 1793853855,
+          "slug": "nba-lal-sac-2026-11-04-spread-away-9pt5",
+          "event_slug": "nba-lal-sac-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Mavericks vs. Spurs: O/U 217.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.61,
+          "value": 10.37,
+          "timestamp": 1793853705,
+          "slug": "nba-dal-sas-2026-11-04-total-217pt5",
+          "event_slug": "nba-dal-sas-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Mavericks vs. Spurs: O/U 215.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.68,
+          "value": 12.24,
+          "timestamp": 1793853705,
+          "slug": "nba-dal-sas-2026-11-04-total-215pt5",
+          "event_slug": "nba-dal-sas-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Mavericks vs. Spurs: O/U 217.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.59,
+          "value": 9.44,
+          "timestamp": 1793853675,
+          "slug": "nba-dal-sas-2026-11-04-total-217pt5",
+          "event_slug": "nba-dal-sas-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Mavericks vs. Spurs: O/U 213.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.74,
+          "value": 79.17999999999999,
+          "timestamp": 1793853673,
+          "slug": "nba-dal-sas-2026-11-04-total-213pt5",
+          "event_slug": "nba-dal-sas-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Heat (-6.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.26,
+          "value": 60.580000000000005,
+          "timestamp": 1793852515,
+          "slug": "nba-mia-lac-2026-11-04-spread-away-6pt5",
+          "event_slug": "nba-mia-lac-2026-11-04",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Heat (-3.5)",
           "side": "BUY",
@@ -136,72 +202,6 @@
           "slug": "nba-min-hou-2026-11-04-total-232pt5",
           "event_slug": "nba-min-hou-2026-11-04",
           "result": "win"
-        },
-        {
-          "title": "Timberwolves vs. Rockets: O/U 224.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.52,
-          "value": 9.022,
-          "timestamp": 1793850490,
-          "slug": "nba-min-hou-2026-11-04-total-224pt5",
-          "event_slug": "nba-min-hou-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Rockets (-6.5)",
-          "side": "SELL",
-          "outcome": "Timberwolves",
-          "price": 0.63,
-          "value": 20.16,
-          "timestamp": 1793850274,
-          "slug": "nba-min-hou-2026-11-04-spread-home-6pt5",
-          "event_slug": "nba-min-hou-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Rockets (-7.5)",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.3,
-          "value": 9,
-          "timestamp": 1793850274,
-          "slug": "nba-min-hou-2026-11-04-spread-home-7pt5",
-          "event_slug": "nba-min-hou-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "Timberwolves vs. Rockets: O/U 224.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.42,
-          "value": 420,
-          "timestamp": 1793849731,
-          "slug": "nba-min-hou-2026-11-04-total-224pt5",
-          "event_slug": "nba-min-hou-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Rockets (-1.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.43,
-          "value": 430,
-          "timestamp": 1793849730,
-          "slug": "nba-min-hou-2026-11-04-spread-home-1pt5",
-          "event_slug": "nba-min-hou-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Trail Blazers (-7.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.6560784314,
-          "value": 33.4600000014,
-          "timestamp": 1793849485,
-          "slug": "nba-por-phx-2026-11-04-spread-away-7pt5",
-          "event_slug": "nba-por-phx-2026-11-04",
-          "result": "ongoing"
         }
       ]
     },
@@ -750,10 +750,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 11572.168300068062,
+        "volume": 11417.266920066466,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.1478301335,
+          "value": 32.878899991735,
+          "timestamp": 1793852665,
+          "slug": "will-wti-dip-to-85-in-november-2026",
+          "event_slug": "what-price-will-wti-hit-in-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in November?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.0288163332,
+          "value": 35.299720006668,
+          "timestamp": 1793852647,
+          "slug": "will-wti-reach-130-in-november-2026",
+          "event_slug": "what-price-will-wti-hit-in-november-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Pete Hegseth out as Secretary of Defense by December 31?",
           "side": "BUY",
@@ -895,28 +917,6 @@
           "timestamp": 1793844142,
           "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
           "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.33,
-          "value": 99,
-          "timestamp": 1793843988,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.33,
-          "value": 124.08000000000001,
-          "timestamp": 1793843077,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
           "result": "ongoing"
         }
       ]
@@ -1858,10 +1858,10 @@
       "address": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
       "label": "chongchong37",
       "stats48h": {
-        "wins": 5,
+        "wins": 6,
         "losses": 7,
         "totalTrades": 27,
-        "winRate": 0.4166666666666667,
+        "winRate": 0.46153846153846156,
         "volume": 35902.25679997207,
         "pnl": 0
       },
@@ -1897,7 +1897,7 @@
           "timestamp": 1793825059,
           "slug": "nba-tor-den-2026-11-04-spread-home-4pt5",
           "event_slug": "nba-tor-den-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Jazz vs. Pelicans: O/U 231.5",
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T04:28:05.298Z"
+  "lastUpdate": "2026-11-05T04:48:25.541Z"
 }
