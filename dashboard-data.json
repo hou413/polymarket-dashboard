@@ -1581,10 +1581,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2241.57727001509,
+        "volume": 2122.31147001509,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "No change in Bank of Mexico’s interest rates after November 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.21,
+          "value": 8.82,
+          "timestamp": 1793888200,
+          "slug": "no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting-1786030375140",
+          "event_slug": "bank-of-mexico-decision-in-november",
+          "result": "ongoing"
+        },
         {
           "title": "Will Alphabet be the largest company in the world by market cap on November 30, ",
           "side": "SELL",
@@ -1737,17 +1748,6 @@
           "timestamp": 1793880217,
           "slug": "will-spider-man-brand-new-day-have-the-best-domestic-opening-weekend-in-2026",
           "event_slug": "which-movie-has-biggest-opening-weekend-in-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kuching City FC vs. Gangwon FC end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.73,
-          "value": 128.0858,
-          "timestamp": 1793879709,
-          "slug": "acl2-kuc-gaw-2026-11-05-draw",
-          "event_slug": "acl2-kuc-gaw-2026-11-05",
           "result": "ongoing"
         }
       ]
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T14:14:52.524Z"
+  "lastUpdate": "2026-11-05T14:24:02.341Z"
 }
