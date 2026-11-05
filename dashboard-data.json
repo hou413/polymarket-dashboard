@@ -1106,12 +1106,23 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 9,
+        "totalTrades": 10,
         "winRate": 0,
-        "volume": 8831.35555,
+        "volume": 8895.35555,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Marjorie Taylor Greene win the 2028 Republican presidential nomination?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 64,
+          "timestamp": 1793900889,
+          "slug": "will-marjorie-taylor-greene-win-the-2028-republican-presidential-nomination",
+          "event_slug": "republican-presidential-nominee-2028",
+          "result": "ongoing"
+        },
         {
           "title": "Will JD Vance win the 2028 US Presidential Election?",
           "side": "BUY",
@@ -1410,13 +1421,35 @@
       "label": "surfandturf",
       "stats48h": {
         "wins": 2,
-        "losses": 10,
+        "losses": 8,
         "totalTrades": 50,
-        "winRate": 0.16666666666666666,
-        "volume": 49855.672837644684,
+        "winRate": 0.2,
+        "volume": 55410.64033764469,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jaguars vs. Ravens",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.19,
+          "value": 9113.5077,
+          "timestamp": 1793900881,
+          "slug": "nfl-jax-bal-2026-11-06",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.19,
+          "value": 47.5,
+          "timestamp": 1793900880,
+          "slug": "nfl-jax-bal-2026-11-06",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Jazz vs. Pelicans",
           "side": "BUY",
@@ -1558,28 +1591,6 @@
           "timestamp": 1793748847,
           "slug": "will-the-democrats-win-the-michigan-senate-race-in-2026",
           "event_slug": "michigan-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Democrats win the Texas Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.21,
-          "value": 1421.6832,
-          "timestamp": 1793748774,
-          "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
-          "event_slug": "texas-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Democrats win the Texas Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.21,
-          "value": 2184.357,
-          "timestamp": 1793748576,
-          "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
-          "event_slug": "texas-senate-election-winner",
           "result": "loss"
         }
       ]
@@ -1768,9 +1779,9 @@
       "label": "tennischamp",
       "stats48h": {
         "wins": 8,
-        "losses": 0,
+        "losses": 2,
         "totalTrades": 10,
-        "winRate": 1,
+        "winRate": 0.8,
         "volume": 142579.435599933,
         "pnl": 0
       },
@@ -1784,7 +1795,7 @@
           "timestamp": 1793896066,
           "slug": "atp-musetti-assche-2026-11-05",
           "event_slug": "atp-musetti-assche-2026-11-05",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
@@ -1795,7 +1806,7 @@
           "timestamp": 1793895678,
           "slug": "atp-musetti-assche-2026-11-05",
           "event_slug": "atp-musetti-assche-2026-11-05",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Rolex Paris Masters: Tommy Paul vs Quentin Halys",
@@ -2071,9 +2082,9 @@
       "label": "name-no-name",
       "stats48h": {
         "wins": 9,
-        "losses": 0,
+        "losses": 2,
         "totalTrades": 38,
-        "winRate": 1,
+        "winRate": 0.8181818181818182,
         "volume": 62170.62529999999,
         "pnl": 0
       },
@@ -2098,7 +2109,7 @@
           "timestamp": 1793892510,
           "slug": "atp-musetti-assche-2026-11-05",
           "event_slug": "atp-musetti-assche-2026-11-05",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will Gukesh Dommaraju win the 2026 World Chess Championship?",
@@ -2175,7 +2186,7 @@
           "timestamp": 1793886393,
           "slug": "atp-musetti-assche-2026-11-05",
           "event_slug": "atp-musetti-assche-2026-11-05",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
@@ -2246,5 +2257,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T17:46:34.731Z"
+  "lastUpdate": "2026-11-05T17:56:02.214Z"
 }
