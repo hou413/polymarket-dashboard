@@ -1581,10 +1581,43 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1543.2067200250751,
+        "volume": 1486.7655300242752,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "No change in Bank of Mexico’s interest rates after November 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.2252380952,
+          "value": 4.7299999991999995,
+          "timestamp": 1793890689,
+          "slug": "no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting-1786030375140",
+          "event_slug": "bank-of-mexico-decision-in-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bill Hill win the AK-AL House seat?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.048,
+          "value": 1.2504,
+          "timestamp": 1793890588,
+          "slug": "will-a-win-the-ak-al-house-seat",
+          "event_slug": "ak-al-house-election-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Microsoft be the largest company in the world by market cap on November 30,",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.19129,
+          "timestamp": 1793890198,
+          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
+          "event_slug": "largest-company-end-of-november-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Bank of Mexico decreases interest rates by 25 bps after November 2026 meeting?",
           "side": "BUY",
@@ -1716,39 +1749,6 @@
           "slug": "will-carson-benge-win-the-2026-nl-rookie-of-the-year-award",
           "event_slug": "mlb-nl-rookie-of-the-year",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Carson Benge win the 2026 NL Rookie of the Year award?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.959,
-          "value": 25.432679999999998,
-          "timestamp": 1793885286,
-          "slug": "will-carson-benge-win-the-2026-nl-rookie-of-the-year-award",
-          "event_slug": "mlb-nl-rookie-of-the-year",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will OpenAI have the highest private market valuation at the end of November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.93,
-          "value": 29.76,
-          "timestamp": 1793885259,
-          "slug": "will-openai-have-the-highest-private-market-valuation-on-november-30-2026",
-          "event_slug": "largest-private-company-end-of-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Democratic Party win the NY-17 House seat?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.996,
-          "value": 7.4202,
-          "timestamp": 1793884843,
-          "slug": "will-the-democratic-party-win-the-ny-17-house-seat",
-          "event_slug": "ny-17-house-election-winner",
-          "result": "ongoing"
         }
       ]
     },
@@ -1860,7 +1860,7 @@
       "stats48h": {
         "wins": 6,
         "losses": 9,
-        "totalTrades": 25,
+        "totalTrades": 22,
         "winRate": 0.4,
         "volume": 35902.25679997207,
         "pnl": 0
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T14:52:46.599Z"
+  "lastUpdate": "2026-11-05T15:01:53.878Z"
 }
