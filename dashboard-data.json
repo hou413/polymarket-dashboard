@@ -209,14 +209,25 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 3,
+        "wins": 2,
         "losses": 4,
-        "totalTrades": 32,
-        "winRate": 0.42857142857142855,
-        "volume": 38466.2212998,
+        "totalTrades": 33,
+        "winRate": 0.3333333333333333,
+        "volume": 37796.9012998,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Blackhawks vs. Lightning",
+          "side": "BUY",
+          "outcome": "Lightning",
+          "price": 0.8,
+          "value": 8930.68,
+          "timestamp": 1793896141,
+          "slug": "nhl-chi-tb-2026-11-05",
+          "event_slug": "nhl-chi-tb-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Utah vs. Canadiens",
           "side": "BUY",
@@ -370,17 +381,6 @@
           "slug": "nhl-las-pit-2026-11-03-spread-home-1pt5",
           "event_slug": "nhl-las-pit-2026-11-03",
           "result": "loss"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets",
-          "side": "BUY",
-          "outcome": "Blue Jackets",
-          "price": 0.48,
-          "value": 9600,
-          "timestamp": 1793733324,
-          "slug": "nhl-col-cbj-2026-11-03",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
         }
       ]
     },
@@ -1581,10 +1581,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 13654.810320038629,
+        "volume": 11127.992270038629,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 700-719 tweets in November 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.005,
+          "value": 0.05425,
+          "timestamp": 1793896827,
+          "slug": "elon-musk-of-tweets-november-2026-700-719",
+          "event_slug": "elon-musk-of-tweets-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 620-639 tweets in November 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.0217,
+          "timestamp": 1793896591,
+          "slug": "elon-musk-of-tweets-november-2026-620-639",
+          "event_slug": "elon-musk-of-tweets-november-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
           "side": "BUY",
@@ -1725,28 +1747,6 @@
           "value": 1398.6131699988,
           "timestamp": 1793895219,
           "slug": "will-anthropics-market-cap-be-between-2pt5t-and-2pt75t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.78,
-          "value": 1109.16,
-          "timestamp": 1793895219,
-          "slug": "will-anthropics-market-cap-be-between-1pt75t-and-2pt0t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be $3.0T or greater at market close on IPO day?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 1417.734,
-          "timestamp": 1793895219,
-          "slug": "will-anthropics-market-cap-be-3pt0t-or-greater-at-market-close-on-ipo-day",
           "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
           "result": "ongoing"
         }
@@ -2235,5 +2235,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T16:33:59.326Z"
+  "lastUpdate": "2026-11-05T16:41:16.115Z"
 }
