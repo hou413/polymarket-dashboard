@@ -1880,14 +1880,25 @@
       "address": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
       "label": "chongchong37",
       "stats48h": {
-        "wins": 6,
+        "wins": 5,
         "losses": 9,
-        "totalTrades": 18,
-        "winRate": 0.4,
-        "volume": 35902.25679997207,
+        "totalTrades": 19,
+        "winRate": 0.35714285714285715,
+        "volume": 41924.176799972076,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Crystal Palace FC win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.49,
+          "value": 7350,
+          "timestamp": 1793899645,
+          "slug": "uel-cry-hof-2026-11-05-cry",
+          "event_slug": "uel-cry-hof-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Spurs (-11.5)",
           "side": "BUY",
@@ -2038,17 +2049,6 @@
           "price": 0.55,
           "value": 478.74750000000006,
           "timestamp": 1793683594,
-          "slug": "ja2-kat-veg-2026-11-02-total-2pt5",
-          "event_slug": "ja2-kat-veg-2026-11-02-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Kataller Toyama vs. Vegalta Sendai: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.52,
-          "value": 1328.0800000000002,
-          "timestamp": 1793683359,
           "slug": "ja2-kat-veg-2026-11-02-total-2pt5",
           "event_slug": "ja2-kat-veg-2026-11-02-more-markets",
           "result": "win"
@@ -2235,5 +2235,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T17:29:55.844Z"
+  "lastUpdate": "2026-11-05T17:37:22.009Z"
 }
