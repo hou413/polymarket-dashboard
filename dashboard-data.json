@@ -211,12 +211,45 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 39,
+        "totalTrades": 40,
         "winRate": 0,
-        "volume": 51624.59680000001,
+        "volume": 59259.9522,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Islanders (-1.5)",
+          "side": "BUY",
+          "outcome": "Islanders",
+          "price": 0.2,
+          "value": 704.5,
+          "timestamp": 1793915307,
+          "slug": "nhl-car-nyi-2026-11-05-spread-home-1pt5",
+          "event_slug": "nhl-car-nyi-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Hurricanes vs. Islanders",
+          "side": "BUY",
+          "outcome": "Islanders",
+          "price": 0.35,
+          "value": 5770.989,
+          "timestamp": 1793915188,
+          "slug": "nhl-car-nyi-2026-11-05",
+          "event_slug": "nhl-car-nyi-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Hurricanes vs. Islanders",
+          "side": "BUY",
+          "outcome": "Islanders",
+          "price": 0.35,
+          "value": 7000,
+          "timestamp": 1793915188,
+          "slug": "nhl-car-nyi-2026-11-05",
+          "event_slug": "nhl-car-nyi-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Predators vs. Avalanche: O/U 5.5",
           "side": "BUY",
@@ -347,39 +380,6 @@
           "timestamp": 1793883612,
           "slug": "nhl-van-wpg-2026-11-05-total-6pt5",
           "event_slug": "nhl-van-wpg-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Canucks vs. Jets: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.6,
-          "value": 85.704,
-          "timestamp": 1793883570,
-          "slug": "nhl-van-wpg-2026-11-05-total-5pt5",
-          "event_slug": "nhl-van-wpg-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Blackhawks vs. Lightning: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.62,
-          "value": 49.3024,
-          "timestamp": 1793871633,
-          "slug": "nhl-chi-tb-2026-11-05-total-5pt5",
-          "event_slug": "nhl-chi-tb-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Blackhawks vs. Lightning",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.79,
-          "value": 5705.127200000001,
-          "timestamp": 1793871540,
-          "slug": "nhl-chi-tb-2026-11-05",
-          "event_slug": "nhl-chi-tb-2026-11-05",
           "result": "ongoing"
         }
       ]
@@ -706,10 +706,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 2513.826480050969,
+        "volume": 2465.486040050969,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Israel x Iran ceasefire continues through November 7?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.07,
+          "value": 225.7101,
+          "timestamp": 1793915611,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-7",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
         {
           "title": "Pete Hegseth out as Secretary of Defense by November 30?",
           "side": "BUY",
@@ -862,17 +873,6 @@
           "timestamp": 1793858764,
           "slug": "will-wti-dip-to-85-in-november-2026",
           "event_slug": "what-price-will-wti-hit-in-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "US announces end of Iranian blockade by December 31, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.558,
-          "value": 274.05054,
-          "timestamp": 1793858715,
-          "slug": "us-announces-end-of-iranian-blockade-by-december-31-2026-20260727171803489-375-949-645-919-269-157-255-857",
-          "event_slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
           "result": "ongoing"
         }
       ]
@@ -1199,12 +1199,34 @@
       "stats48h": {
         "wins": 0,
         "losses": 7,
-        "totalTrades": 34,
+        "totalTrades": 36,
         "winRate": 0,
-        "volume": 514508.41267528175,
+        "volume": 556416.5019546887,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jaguars vs. Ravens",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.2,
+          "value": 35832.338,
+          "timestamp": 1793915322,
+          "slug": "nfl-jax-bal-2026-11-06",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.2,
+          "value": 6787.85,
+          "timestamp": 1793915322,
+          "slug": "nfl-jax-bal-2026-11-06",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Jaguars (-10.5)",
           "side": "BUY",
@@ -1347,28 +1369,6 @@
           "slug": "nba-mil-bos-2026-11-04-spread-home-11pt5",
           "event_slug": "nba-mil-bos-2026-11-04",
           "result": "loss"
-        },
-        {
-          "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.0643880014,
-          "value": 180.693979968862,
-          "timestamp": 1793811987,
-          "slug": "2026-senate-map-r-none",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.0316265847,
-          "value": 531.404740624209,
-          "timestamp": 1793807866,
-          "slug": "2026-senate-map-r-none",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "ongoing"
         }
       ]
     },
@@ -2092,14 +2092,47 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 1,
+        "wins": 0,
         "losses": 0,
         "totalTrades": 50,
-        "winRate": 1,
-        "volume": 18469.952439982815,
+        "winRate": 0,
+        "volume": 27529.54888000785,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Juventus FC win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.964,
+          "value": 8.98448,
+          "timestamp": 1793915668,
+          "slug": "uel-az-juv-2026-11-05-juv",
+          "event_slug": "uel-az-juv-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Juventus FC win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.93,
+          "value": 42.8916,
+          "timestamp": 1793915590,
+          "slug": "uel-az-juv-2026-11-05-juv",
+          "event_slug": "uel-az-juv-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.999,
+          "value": 9221.509259999999,
+          "timestamp": 1793915560,
+          "slug": "uel-ben-lep-2026-11-05-ben",
+          "event_slug": "uel-ben-lep-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Will Juventus FC win on 2026-11-05?",
           "side": "BUY",
@@ -2231,42 +2264,9 @@
           "slug": "euroleague-milano-valencia-2026-11-05",
           "event_slug": "euroleague-milano-valencia-2026-11-05",
           "result": "ongoing"
-        },
-        {
-          "title": "ASVEL Lyon-Villeurbanne vs. FC Bayern Munchen",
-          "side": "SELL",
-          "outcome": "ASVEL Lyon-Villeurbanne",
-          "price": 0.0871402239,
-          "value": 44.91119999582099,
-          "timestamp": 1793912703,
-          "slug": "euroleague-lyonvill-munchen-2026-11-05",
-          "event_slug": "euroleague-lyonvill-munchen-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "ASVEL Lyon-Villeurbanne vs. FC Bayern Munchen",
-          "side": "BUY",
-          "outcome": "ASVEL Lyon-Villeurbanne",
-          "price": 0.0511125555,
-          "value": 26.342899979145,
-          "timestamp": 1793912650,
-          "slug": "euroleague-lyonvill-munchen-2026-11-05",
-          "event_slug": "euroleague-lyonvill-munchen-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Jan-Lennard Struff vs Casper Ruud",
-          "side": "BUY",
-          "outcome": "Casper Ruud",
-          "price": 0.68,
-          "value": 142.53480000000002,
-          "timestamp": 1793907797,
-          "slug": "atp-struff-ruud-2026-11-05",
-          "event_slug": "atp-struff-ruud-2026-11-05",
-          "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T21:48:04.819Z"
+  "lastUpdate": "2026-11-05T21:55:44.730Z"
 }
