@@ -363,7 +363,7 @@
                     }
                 } catch(e) {
                     // Fallback to static JSON (for GitHub Pages)
-                    const res = await fetch('./dashboard-data.json?t=' + Date.now());
+                    const res = await fetch('https://raw.githubusercontent.com/hou413/polymarket-dashboard/main/dashboard-data.json?_=' + Date.now());
                     if (!res.ok) throw new Error('No data');
                     data = await res.json();
                 }
