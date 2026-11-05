@@ -750,10 +750,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 4996.0429600765,
+        "volume": 4917.82856007068,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Donald Trump publicly insult someone on November 5, 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.981407674,
+          "value": 128.14239999417998,
+          "timestamp": 1793886069,
+          "slug": "will-donald-trump-publicly-insult-someone-on-november-5-2026",
+          "event_slug": "will-trump-publicly-insult-someone-on-november-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Khamenei post 0-4 posts from October 30 to November 6, 2026?",
           "side": "BUY",
@@ -904,17 +915,6 @@
           "price": 0.49,
           "value": 980,
           "timestamp": 1793846191,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.48,
-          "value": 206.3568,
-          "timestamp": 1793846161,
           "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
           "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
           "result": "ongoing"
@@ -1581,10 +1581,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2505.9254300186435,
+        "volume": 2461.667200017226,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bank of Mexico decreases interest rates by 25 bps after November 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8158114693,
+          "value": 54.91226999858301,
+          "timestamp": 1793885953,
+          "slug": "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
+          "event_slug": "bank-of-mexico-decision-in-november",
+          "result": "ongoing"
+        },
         {
           "title": "Will Carson Benge win the 2026 NL Rookie of the Year award?",
           "side": "BUY",
@@ -1736,17 +1747,6 @@
           "value": 99.17049999999999,
           "timestamp": 1793879692,
           "slug": "acl2-kuc-gaw-2026-11-05-gaw",
-          "event_slug": "acl2-kuc-gaw-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kuching City FC vs. Gangwon FC end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.73,
-          "value": 99.17049999999999,
-          "timestamp": 1793879692,
-          "slug": "acl2-kuc-gaw-2026-11-05-draw",
           "event_slug": "acl2-kuc-gaw-2026-11-05",
           "result": "ongoing"
         }
@@ -2037,14 +2037,25 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 11,
+        "wins": 10,
         "losses": 0,
-        "totalTrades": 29,
+        "totalTrades": 30,
         "winRate": 1,
-        "volume": 68519.66652043187,
+        "volume": 67424.00762,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
+          "side": "BUY",
+          "outcome": "Lorenzo Musetti",
+          "price": 0.74,
+          "value": 5546.2186,
+          "timestamp": 1793886393,
+          "slug": "atp-musetti-assche-2026-11-05",
+          "event_slug": "atp-musetti-assche-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
           "side": "BUY",
@@ -2198,20 +2209,9 @@
           "slug": "atp-fils-machac-2026-11-04",
           "event_slug": "atp-fils-machac-2026-11-04",
           "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Arthur Fils vs Tomas Machac",
-          "side": "BUY",
-          "outcome": "Arthur Fils",
-          "price": 0.6140522278,
-          "value": 6641.877500431866,
-          "timestamp": 1793822095,
-          "slug": "atp-fils-machac-2026-11-04",
-          "event_slug": "atp-fils-machac-2026-11-04",
-          "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T13:38:33.879Z"
+  "lastUpdate": "2026-11-05T13:47:45.580Z"
 }
