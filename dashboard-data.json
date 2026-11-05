@@ -1581,10 +1581,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2353.410399917652,
+        "volume": 2675.972399917652,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.73,
+          "value": 435.08,
+          "timestamp": 1793880217,
+          "slug": "will-spider-man-brand-new-day-have-the-best-domestic-opening-weekend-in-2026",
+          "event_slug": "which-movie-has-biggest-opening-weekend-in-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Kuching City FC vs. Gangwon FC end in a draw?",
           "side": "BUY",
@@ -1736,17 +1747,6 @@
           "value": 98.77752999959999,
           "timestamp": 1793863989,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 360-379 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.987,
-          "value": 112.518,
-          "timestamp": 1793863989,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-360-379",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
         }
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T12:03:45.872Z"
+  "lastUpdate": "2026-11-05T12:11:24.349Z"
 }
