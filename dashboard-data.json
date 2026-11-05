@@ -1398,10 +1398,10 @@
       "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
       "label": "surfandturf",
       "stats48h": {
-        "wins": 2,
+        "wins": 1,
         "losses": 10,
         "totalTrades": 50,
-        "winRate": 0.16666666666666666,
+        "winRate": 0.09090909090909091,
         "volume": 49855.672837644684,
         "pnl": 0
       },
@@ -1536,7 +1536,7 @@
           "timestamp": 1793753025,
           "slug": "cfb-ohio-akron-2026-11-03-spread-away-6pt5",
           "event_slug": "cfb-ohio-akron-2026-11-03",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Will the Democrats win the Michigan Senate race in 2026?",
@@ -1581,10 +1581,54 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2613.774589918052,
+        "volume": 3610.411070011251,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the Fed increase interest rates by 50+ bps after the January 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 448.39675,
+          "timestamp": 1793883744,
+          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-january-2027-meeting-20260729233815507",
+          "event_slug": "fed-decision-in-january-20260729233815502",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 25 bps after the January 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.987,
+          "value": 444.79155,
+          "timestamp": 1793883744,
+          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815504",
+          "event_slug": "fed-decision-in-january-20260729233815502",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will there be no change in Fed interest rates after the January 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.2587921891,
+          "value": 116.624700017915,
+          "timestamp": 1793883744,
+          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
+          "event_slug": "fed-decision-in-january-20260729233815502",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 448.39675,
+          "timestamp": 1793883744,
+          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-january-2027-meeting-20260729233815503",
+          "event_slug": "fed-decision-in-january-20260729233815502",
+          "result": "ongoing"
+        },
         {
           "title": "Will Spider-Man: Brand New Day have the best domestic opening week in 2026?",
           "side": "BUY",
@@ -1704,50 +1748,6 @@
           "timestamp": 1793868724,
           "slug": "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
           "event_slug": "bank-of-mexico-decision-in-november",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SpaceX be the second-largest company in the world by market cap on December",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.022,
-          "timestamp": 1793868691,
-          "slug": "will-spacex-be-the-second-largest-company-in-the-world-by-market-cap-on-december-31-20260806175739825",
-          "event_slug": "2nd-largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elisabeth Thand Ringqvist be the next Prime Minister of Sweden?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.057,
-          "timestamp": 1793866758,
-          "slug": "will-elisabeth-thand-ringqvist-be-the-next-prime-minister-of-sweden",
-          "event_slug": "next-prime-minister-of-sweden",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the US national average gas price be less than $4.1000 on November 5?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.78,
-          "value": 24.57,
-          "timestamp": 1793866632,
-          "slug": "will-us-gas-price-be-less-than-4pt10-on-november-5-2026",
-          "event_slug": "us-gas-price-on-november-5-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Puma Shen win the next Taipei Mayor election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.2859882508,
-          "value": 436.924269924716,
-          "timestamp": 1793864566,
-          "slug": "will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102",
-          "event_slug": "taipei-mayor-election-winner-20260813125857100",
           "result": "ongoing"
         }
       ]
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T13:07:45.130Z"
+  "lastUpdate": "2026-11-05T13:15:35.067Z"
 }
