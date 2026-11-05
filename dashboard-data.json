@@ -706,10 +706,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 2387.5282800595146,
+        "volume": 2366.6493800669687,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.3699999935,
+          "value": 11.999999999189187,
+          "timestamp": 1793907675,
+          "slug": "will-wti-dip-to-85-in-november-2026",
+          "event_slug": "what-price-will-wti-hit-in-november-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Pete Hegseth out as Secretary of Defense by November 30?",
           "side": "SELL",
@@ -862,17 +873,6 @@
           "timestamp": 1793854953,
           "slug": "will-farsi-hengam-hormuz-or-kharg-island-no-longer-be-under-iranian-control-by-november-30-2026",
           "event_slug": "farsi-hengam-hormuz-or-kharg-island-no-longer-under-iranian-control-byptptpt-20260804165426109",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.1478301335,
-          "value": 32.878899991735,
-          "timestamp": 1793852665,
-          "slug": "will-wti-dip-to-85-in-november-2026",
-          "event_slug": "what-price-will-wti-hit-in-november-2026",
           "result": "ongoing"
         }
       ]
@@ -2092,14 +2092,36 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 9,
+        "wins": 8,
         "losses": 2,
-        "totalTrades": 38,
-        "winRate": 0.8181818181818182,
-        "volume": 62170.62529999999,
+        "totalTrades": 40,
+        "winRate": 0.8,
+        "volume": 67868.39329953735,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Jan-Lennard Struff vs Casper Ruud",
+          "side": "BUY",
+          "outcome": "Casper Ruud",
+          "price": 0.68,
+          "value": 142.53480000000002,
+          "timestamp": 1793907797,
+          "slug": "atp-struff-ruud-2026-11-05",
+          "event_slug": "atp-struff-ruud-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Jan-Lennard Struff vs Casper Ruud",
+          "side": "BUY",
+          "outcome": "Casper Ruud",
+          "price": 0.6846464556,
+          "value": 13030.75959953735,
+          "timestamp": 1793907753,
+          "slug": "atp-struff-ruud-2026-11-05",
+          "event_slug": "atp-struff-ruud-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Will AC Milan win on 2026-11-05?",
           "side": "BUY",
@@ -2242,31 +2264,9 @@
           "slug": "nba-phi-det-2026-11-04",
           "event_slug": "nba-phi-det-2026-11-04",
           "result": "win"
-        },
-        {
-          "title": "76ers vs. Pistons",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.8,
-          "value": 7460.752,
-          "timestamp": 1793840955,
-          "slug": "nba-phi-det-2026-11-04",
-          "event_slug": "nba-phi-det-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.76,
-          "value": 14.774400000000002,
-          "timestamp": 1793840071,
-          "slug": "will-javokhir-sindarov-win-the-2026-world-chess-championship",
-          "event_slug": "2026-world-chess-championship-winner",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T19:37:07.023Z"
+  "lastUpdate": "2026-11-05T19:44:44.061Z"
 }
