@@ -525,7 +525,7 @@
       "stats48h": {
         "wins": 6,
         "losses": 7,
-        "totalTrades": 27,
+        "totalTrades": 26,
         "winRate": 0.46153846153846156,
         "volume": 74507.72420002108,
         "pnl": 0
@@ -1377,13 +1377,24 @@
       "label": "surfandturf",
       "stats48h": {
         "wins": 2,
-        "losses": 8,
+        "losses": 7,
         "totalTrades": 50,
-        "winRate": 0.2,
-        "volume": 55410.64033764469,
+        "winRate": 0.2222222222222222,
+        "volume": 56873.398877644686,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Dplus KIA win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.972,
+          "value": 2362.75704,
+          "timestamp": 1793922123,
+          "slug": "will-dplus-kia-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Jaguars vs. Ravens",
           "side": "BUY",
@@ -1537,17 +1548,6 @@
           "slug": "cfb-ohio-akron-2026-11-03-spread-away-6pt5",
           "event_slug": "cfb-ohio-akron-2026-11-03",
           "result": "win"
-        },
-        {
-          "title": "Will the Democrats win the Michigan Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.15,
-          "value": 899.9984999999999,
-          "timestamp": 1793748847,
-          "slug": "will-the-democrats-win-the-michigan-senate-race-in-2026",
-          "event_slug": "michigan-senate-election-winner",
-          "result": "loss"
         }
       ]
     },
@@ -1559,10 +1559,76 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 584.3906799969999,
+        "volume": 2260.9618099970003,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Gen.G win Worlds 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.53,
+          "value": 1138.5407,
+          "timestamp": 1793922252,
+          "slug": "will-genptg-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.988,
+          "value": 128.44,
+          "timestamp": 1793921997,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 300-319 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.72,
+          "value": 64.5624,
+          "timestamp": 1793921995,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-300-319",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.95,
+          "value": 123.5,
+          "timestamp": 1793921995,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.963,
+          "value": 125.19,
+          "timestamp": 1793921995,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 360-379 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 129.74,
+          "timestamp": 1793921995,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-360-379",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Karmine Corp win Worlds 2026?",
           "side": "BUY",
@@ -1660,72 +1726,6 @@
           "timestamp": 1793916850,
           "slug": "will-the-next-russia-x-ukraine-peace-talks-take-place-in-the-united-states-by-december-31-2027",
           "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will no qualifying Russia x Ukraine peace talks take place by December 31, 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.98,
-          "value": 29.4196,
-          "timestamp": 1793916850,
-          "slug": "will-no-qualifying-russia-x-ukraine-peace-talks-take-place-by-december-31-2027",
-          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Microsoft be the largest company in the world by market cap on November 30,",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.708,
-          "timestamp": 1793916559,
-          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
-          "event_slug": "largest-company-end-of-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Cooper Flagg win the 2026-27 NBA MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.012,
-          "value": 2.52516,
-          "timestamp": 1793916469,
-          "slug": "will-cooper-flagg-win-the-2026-27-nba-mvp",
-          "event_slug": "nba-2026-27-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will \"Obsession\" win Best Picture at the 99th Academy Awards?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.25,
-          "timestamp": 1793910474,
-          "slug": "will-obsession-win-best-picture-at-the-99th-academy-awards",
-          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Behemoth! win Best Picture at the 99th Academy Awards?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.25,
-          "timestamp": 1793910474,
-          "slug": "will-behemoth-win-best-picture-at-the-99th-academy-awards-20260727173620863",
-          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will \"Elsinore\" win Best Picture at the 99th Academy Awards?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.24921000000000001,
-          "timestamp": 1793910474,
-          "slug": "will-elsinore-win-best-picture-at-the-99th-academy-awards",
-          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
           "result": "ongoing"
         }
       ]
@@ -2092,14 +2092,47 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 6,
+        "wins": 5,
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 37833.554990613324,
+        "volume": 39559.39591061333,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.46,
+          "value": 15.138599999999999,
+          "timestamp": 1793922565,
+          "slug": "atp-shelton-paul-2026-11-06",
+          "event_slug": "atp-shelton-paul-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.46,
+          "value": 2413.0036,
+          "timestamp": 1793922501,
+          "slug": "atp-shelton-paul-2026-11-06",
+          "event_slug": "atp-shelton-paul-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.46,
+          "value": 1498.6616000000001,
+          "timestamp": 1793922367,
+          "slug": "atp-shelton-paul-2026-11-06",
+          "event_slug": "atp-shelton-paul-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Chattanooga Mocs vs. Penn State Nittany Lions",
           "side": "BUY",
@@ -2231,42 +2264,9 @@
           "slug": "atp-kasniko-antoniu-2026-11-05",
           "event_slug": "atp-kasniko-antoniu-2026-11-05",
           "result": "win"
-        },
-        {
-          "title": "Heat vs. Warriors",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.61,
-          "value": 1694.6776,
-          "timestamp": 1793915940,
-          "slug": "nba-mia-gsw-2026-11-05",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "BUY",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.67,
-          "value": 497.30080000000004,
-          "timestamp": 1793915761,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Juventus FC win on 2026-11-05?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.964,
-          "value": 8.98448,
-          "timestamp": 1793915668,
-          "slug": "uel-az-juv-2026-11-05-juv",
-          "event_slug": "uel-az-juv-2026-11-05",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T23:40:31.459Z"
+  "lastUpdate": "2026-11-05T23:49:50.519Z"
 }
