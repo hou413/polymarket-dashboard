@@ -210,13 +210,24 @@
       "label": "chubbytoro",
       "stats48h": {
         "wins": 0,
-        "losses": 1,
-        "totalTrades": 37,
+        "losses": 0,
+        "totalTrades": 38,
         "winRate": 0,
-        "volume": 53058.235599800006,
+        "volume": 51309.0759,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Canucks vs. Jets: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.61,
+          "value": 114.07,
+          "timestamp": 1793910673,
+          "slug": "nhl-van-wpg-2026-11-05-total-5pt5",
+          "event_slug": "nhl-van-wpg-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Predators vs. Avalanche",
           "side": "BUY",
@@ -370,17 +381,6 @@
           "slug": "nhl-utah-mon-2026-11-05",
           "event_slug": "nhl-utah-mon-2026-11-05",
           "result": "ongoing"
-        },
-        {
-          "title": "Spread: Senators (-1.5)",
-          "side": "BUY",
-          "outcome": "Senators",
-          "price": 0.2661756714,
-          "value": 1863.2296998,
-          "timestamp": 1793795173,
-          "slug": "nhl-ott-buf-2026-11-04-spread-away-1pt5",
-          "event_slug": "nhl-ott-buf-2026-11-04",
-          "result": "loss"
         }
       ]
     },
@@ -1559,10 +1559,65 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1601.927,
+        "volume": 1581.4699299999997,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will \"Obsession\" win Best Picture at the 99th Academy Awards?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.25,
+          "timestamp": 1793910474,
+          "slug": "will-obsession-win-best-picture-at-the-99th-academy-awards",
+          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Behemoth! win Best Picture at the 99th Academy Awards?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.25,
+          "timestamp": 1793910474,
+          "slug": "will-behemoth-win-best-picture-at-the-99th-academy-awards-20260727173620863",
+          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will \"Elsinore\" win Best Picture at the 99th Academy Awards?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.24921000000000001,
+          "timestamp": 1793910474,
+          "slug": "will-elsinore-win-best-picture-at-the-99th-academy-awards",
+          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will \"I Play Rocky\" win Best Picture at the 99th Academy Awards?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.25,
+          "timestamp": 1793910472,
+          "slug": "will-i-play-rocky-win-best-picture-at-the-99th-academy-awards",
+          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will The Debut win Best Picture at the 99th Academy Awards?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.25,
+          "timestamp": 1793910472,
+          "slug": "will-the-debut-win-best-picture-at-the-99th-academy-awards-20260727174029859",
+          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
+          "result": "ongoing"
+        },
         {
           "title": "Will Wild Horse Nine win Best Picture at the 99th Academy Awards?",
           "side": "BUY",
@@ -1670,61 +1725,6 @@
           "value": 4.427,
           "timestamp": 1793908022,
           "slug": "uel-ben-lep-2026-11-05-exact-score-1-0",
-          "event_slug": "uel-ben-lep-2026-11-05-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 2 - 1 KKS Lech Poznań?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.93,
-          "value": 4.3338,
-          "timestamp": 1793908022,
-          "slug": "uel-ben-lep-2026-11-05-exact-score-2-1",
-          "event_slug": "uel-ben-lep-2026-11-05-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 4 - 0 KKS Lech Poznań?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 4.3804,
-          "timestamp": 1793908020,
-          "slug": "uel-ben-lep-2026-11-05-exact-score-4-0",
-          "event_slug": "uel-ben-lep-2026-11-05-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 3 - 0 KKS Lech Poznań?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.92,
-          "value": 4.2872,
-          "timestamp": 1793908020,
-          "slug": "uel-ben-lep-2026-11-05-exact-score-3-0",
-          "event_slug": "uel-ben-lep-2026-11-05-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 1 - 1 KKS Lech Poznań?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.948,
-          "value": 4.41768,
-          "timestamp": 1793908020,
-          "slug": "uel-ben-lep-2026-11-05-exact-score-1-1",
-          "event_slug": "uel-ben-lep-2026-11-05-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 2 - 0 KKS Lech Poznań?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.92,
-          "value": 4.2872,
-          "timestamp": 1793908019,
-          "slug": "uel-ben-lep-2026-11-05-exact-score-2-0",
           "event_slug": "uel-ben-lep-2026-11-05-exact-score",
           "result": "ongoing"
         }
@@ -2268,5 +2268,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T20:27:57.186Z"
+  "lastUpdate": "2026-11-05T20:37:01.055Z"
 }
