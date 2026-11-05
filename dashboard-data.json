@@ -1220,7 +1220,7 @@
       "label": "ch27er",
       "stats48h": {
         "wins": 0,
-        "losses": 3,
+        "losses": 10,
         "totalTrades": 31,
         "winRate": 0,
         "volume": 373278.1271037652,
@@ -1236,7 +1236,7 @@
           "timestamp": 1793838787,
           "slug": "nba-uta-nop-2026-11-04-spread-home-5pt5",
           "event_slug": "nba-uta-nop-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Pelicans (-4.5)",
@@ -1247,7 +1247,7 @@
           "timestamp": 1793838769,
           "slug": "nba-uta-nop-2026-11-04-spread-home-4pt5",
           "event_slug": "nba-uta-nop-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Jazz vs. Pelicans",
@@ -1258,7 +1258,7 @@
           "timestamp": 1793838760,
           "slug": "nba-uta-nop-2026-11-04",
           "event_slug": "nba-uta-nop-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "76ers vs. Pistons",
@@ -1269,7 +1269,7 @@
           "timestamp": 1793836582,
           "slug": "nba-phi-det-2026-11-04",
           "event_slug": "nba-phi-det-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Pistons (-3.5)",
@@ -1280,7 +1280,7 @@
           "timestamp": 1793836540,
           "slug": "nba-phi-det-2026-11-04-spread-home-3pt5",
           "event_slug": "nba-phi-det-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Celtics (-11.5)",
@@ -1291,7 +1291,7 @@
           "timestamp": 1793833728,
           "slug": "nba-mil-bos-2026-11-04-spread-home-11pt5",
           "event_slug": "nba-mil-bos-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas",
@@ -1335,7 +1335,7 @@
           "timestamp": 1793824500,
           "slug": "nba-mil-bos-2026-11-04-spread-home-11pt5",
           "event_slug": "nba-mil-bos-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas",
@@ -1581,10 +1581,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1700.2314700150898,
+        "volume": 1700.3052500150902,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "No change in Bank of Mexico’s interest rates after November 2026 meeting?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.77,
+          "value": 21.2443,
+          "timestamp": 1793889213,
+          "slug": "no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting-1786030375140",
+          "event_slug": "bank-of-mexico-decision-in-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "No change in Bank of Mexico’s interest rates after November 2026 meeting?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.77,
+          "value": 15.523200000000001,
+          "timestamp": 1793889213,
+          "slug": "no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting-1786030375140",
+          "event_slug": "bank-of-mexico-decision-in-november",
+          "result": "ongoing"
+        },
         {
           "title": "No change in Bank of Mexico’s interest rates after November 2026 meeting?",
           "side": "BUY",
@@ -1727,28 +1749,6 @@
           "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-january-2027-meeting-20260729233815503",
           "event_slug": "fed-decision-in-january-20260729233815502",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Spider-Man: Brand New Day have the best domestic opening week in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.75,
-          "value": 36,
-          "timestamp": 1793882127,
-          "slug": "will-spider-man-brand-new-day-have-the-best-domestic-opening-week-in-2026",
-          "event_slug": "which-movie-has-biggest-opening-week-in-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Bill Hill win the AK-AL House seat?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.047,
-          "value": 0.69372,
-          "timestamp": 1793881026,
-          "slug": "will-a-win-the-ak-al-house-seat",
-          "event_slug": "ak-al-house-election-winner",
-          "result": "ongoing"
         }
       ]
     },
@@ -1860,7 +1860,7 @@
       "stats48h": {
         "wins": 6,
         "losses": 9,
-        "totalTrades": 26,
+        "totalTrades": 25,
         "winRate": 0.4,
         "volume": 35902.25679997207,
         "pnl": 0
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T14:35:23.206Z"
+  "lastUpdate": "2026-11-05T14:45:04.366Z"
 }
