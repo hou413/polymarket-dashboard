@@ -706,10 +706,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 3053.7123800509694,
+        "volume": 2534.823580050969,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.28,
+          "value": 19.6,
+          "timestamp": 1793914378,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.29,
+          "value": 106.51119999999999,
+          "timestamp": 1793914278,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
         {
           "title": "US announces end of Iranian blockade by November 15, 2026?",
           "side": "SELL",
@@ -851,28 +873,6 @@
           "timestamp": 1793858550,
           "slug": "kharg-island-no-longer-under-iranian-control-by-december-31-20260730004337418",
           "event_slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kharg Island no longer under Iranian control by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.05,
-          "value": 225.05,
-          "timestamp": 1793858539,
-          "slug": "kharg-island-no-longer-under-iranian-control-by-december-31-20260730004337418",
-          "event_slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.37,
-          "value": 419.95,
-          "timestamp": 1793858203,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
           "result": "ongoing"
         }
       ]
@@ -2092,14 +2092,58 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 1,
-        "losses": 1,
-        "totalTrades": 49,
-        "winRate": 0.5,
-        "volume": 44449.74619950996,
+        "wins": 2,
+        "losses": 0,
+        "totalTrades": 50,
+        "winRate": 1,
+        "volume": 28272.84579952016,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
+          "side": "BUY",
+          "outcome": "Maks Kasnikowski",
+          "price": 0.76,
+          "value": 769.2264,
+          "timestamp": 1793914525,
+          "slug": "atp-kasniko-antoniu-2026-11-05",
+          "event_slug": "atp-kasniko-antoniu-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
+          "side": "BUY",
+          "outcome": "Maks Kasnikowski",
+          "price": 0.81,
+          "value": 5389.335,
+          "timestamp": 1793914368,
+          "slug": "atp-kasniko-antoniu-2026-11-05",
+          "event_slug": "atp-kasniko-antoniu-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will KKS Lech Poznań win on 2026-11-05?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 39.96,
+          "timestamp": 1793914171,
+          "slug": "uel-ben-lep-2026-11-05-lep",
+          "event_slug": "uel-ben-lep-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.0173161677,
+          "value": 10.867800010197,
+          "timestamp": 1793914156,
+          "slug": "uel-ben-lep-2026-11-05-ben",
+          "event_slug": "uel-ben-lep-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Olimpia Milano vs. Valencia",
           "side": "BUY",
@@ -2208,7 +2252,7 @@
           "timestamp": 1793907797,
           "slug": "atp-struff-ruud-2026-11-05",
           "event_slug": "atp-struff-ruud-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Jan-Lennard Struff vs Casper Ruud",
@@ -2219,54 +2263,10 @@
           "timestamp": 1793907753,
           "slug": "atp-struff-ruud-2026-11-05",
           "event_slug": "atp-struff-ruud-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will AC Milan win on 2026-11-05?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.72,
-          "value": 7593.343199999999,
-          "timestamp": 1793895846,
-          "slug": "uel-mil1-ftc-2026-11-05-mil1",
-          "event_slug": "uel-mil1-ftc-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
-          "side": "BUY",
-          "outcome": "Lorenzo Musetti",
-          "price": 0.49,
-          "value": 502.81840000000005,
-          "timestamp": 1793892510,
-          "slug": "atp-musetti-assche-2026-11-05",
-          "event_slug": "atp-musetti-assche-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Will Gukesh Dommaraju win the 2026 World Chess Championship?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.75,
-          "value": 728.28,
-          "timestamp": 1793892411,
-          "slug": "will-gukesh-dommaraju-win-the-2026-world-chess-championship",
-          "event_slug": "2026-world-chess-championship-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.9,
-          "value": 13561.848,
-          "timestamp": 1793888028,
-          "slug": "atp-shelton-rinderk-2026-11-05",
-          "event_slug": "atp-shelton-rinderk-2026-11-05",
           "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T21:28:56.182Z"
+  "lastUpdate": "2026-11-05T21:38:56.052Z"
 }
