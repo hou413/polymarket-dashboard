@@ -1106,12 +1106,23 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 8,
+        "totalTrades": 9,
         "winRate": 0,
-        "volume": 8443.65848,
+        "volume": 8831.35555,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will JD Vance win the 2028 US Presidential Election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.809,
+          "value": 387.69707000000005,
+          "timestamp": 1793900707,
+          "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+          "event_slug": "presidential-election-winner-2028",
+          "result": "ongoing"
+        },
         {
           "title": "Will Ron DeSantis win the 2028 US Presidential Election?",
           "side": "BUY",
@@ -2235,5 +2246,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T17:37:22.009Z"
+  "lastUpdate": "2026-11-05T17:46:34.731Z"
 }
