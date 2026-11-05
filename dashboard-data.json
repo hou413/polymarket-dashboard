@@ -31,13 +31,35 @@
       "label": "sports_whale_1",
       "stats48h": {
         "wins": 6,
-        "losses": 9,
+        "losses": 7,
         "totalTrades": 50,
-        "winRate": 0.4,
-        "volume": 3133.198300005299,
+        "winRate": 0.46153846153846156,
+        "volume": 3632.803700005299,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Prudential Hong Kong Tennis Open: Zeynep Sonmez vs Claire Liu",
+          "side": "BUY",
+          "outcome": "Zeynep Sonmez",
+          "price": 0.47,
+          "value": 168.636,
+          "timestamp": 1793918533,
+          "slug": "wta-sonmez-liu-2026-11-06",
+          "event_slug": "wta-sonmez-liu-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chennai Open: Anastasia Zakharova vs Lucrezia Stefanini",
+          "side": "BUY",
+          "outcome": "Anastasia Zakharova",
+          "price": 0.47,
+          "value": 405.14939999999996,
+          "timestamp": 1793918527,
+          "slug": "wta-zakharo-stefani-2026-11-06",
+          "event_slug": "wta-zakharo-stefani-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Clippers (-7.5)",
           "side": "SELL",
@@ -180,28 +202,6 @@
           "slug": "nba-dal-sas-2026-11-04-total-213pt5",
           "event_slug": "nba-dal-sas-2026-11-04",
           "result": "win"
-        },
-        {
-          "title": "Spread: Heat (-6.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.26,
-          "value": 60.580000000000005,
-          "timestamp": 1793852515,
-          "slug": "nba-mia-lac-2026-11-04-spread-away-6pt5",
-          "event_slug": "nba-mia-lac-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Heat (-3.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.34,
-          "value": 13.600000000000001,
-          "timestamp": 1793852398,
-          "slug": "nba-mia-lac-2026-11-04-spread-away-3pt5",
-          "event_slug": "nba-mia-lac-2026-11-04",
-          "result": "loss"
         }
       ]
     },
@@ -2096,10 +2096,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 26841.5306800102,
+        "volume": 32991.33898038882,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
+          "side": "SELL",
+          "outcome": "Maks Kasnikowski",
+          "price": 0.705941759,
+          "value": 6225.12150037862,
+          "timestamp": 1793918782,
+          "slug": "atp-kasniko-antoniu-2026-11-05",
+          "event_slug": "atp-kasniko-antoniu-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Heat vs. Warriors",
           "side": "BUY",
@@ -2253,20 +2264,9 @@
           "slug": "uel-ben-lep-2026-11-05-ben",
           "event_slug": "uel-ben-lep-2026-11-05",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.12,
-          "value": 75.3132,
-          "timestamp": 1793913219,
-          "slug": "uel-ben-lep-2026-11-05-ben",
-          "event_slug": "uel-ben-lep-2026-11-05",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T22:37:37.074Z"
+  "lastUpdate": "2026-11-05T22:46:48.945Z"
 }
