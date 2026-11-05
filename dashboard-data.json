@@ -2092,14 +2092,36 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 5,
-        "losses": 2,
-        "totalTrades": 44,
-        "winRate": 0.7142857142857143,
-        "volume": 45381.66679950996,
+        "wins": 4,
+        "losses": 1,
+        "totalTrades": 46,
+        "winRate": 0.8,
+        "volume": 44716.83509950996,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.89,
+          "value": 5368.7292,
+          "timestamp": 1793913285,
+          "slug": "uel-ben-lep-2026-11-05-ben",
+          "event_slug": "uel-ben-lep-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.12,
+          "value": 75.3132,
+          "timestamp": 1793913219,
+          "slug": "uel-ben-lep-2026-11-05-ben",
+          "event_slug": "uel-ben-lep-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
           "side": "BUY",
@@ -2242,31 +2264,9 @@
           "slug": "atp-shelton-rinderk-2026-11-05",
           "event_slug": "atp-shelton-rinderk-2026-11-05",
           "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.55,
-          "value": 562.6555000000001,
-          "timestamp": 1793887648,
-          "slug": "atp-shelton-rinderk-2026-11-05",
-          "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
-          "side": "BUY",
-          "outcome": "Lorenzo Musetti",
-          "price": 0.74,
-          "value": 5546.2186,
-          "timestamp": 1793886393,
-          "slug": "atp-musetti-assche-2026-11-05",
-          "event_slug": "atp-musetti-assche-2026-11-05",
-          "result": "loss"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T21:13:38.315Z"
+  "lastUpdate": "2026-11-05T21:21:17.909Z"
 }
