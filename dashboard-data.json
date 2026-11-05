@@ -750,10 +750,43 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 4917.82856007068,
+        "volume": 2805.9639000661823,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Khamenei post 10-14 posts from November 3 to November 10, 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.0801052089,
+          "value": 9.319440003426001,
+          "timestamp": 1793898501,
+          "slug": "khamenei-of-tweets-november-3-november-10-2026-10-14",
+          "event_slug": "khamenei-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Khamenei post 5-9 posts from November 3 to November 10, 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.2786571626,
+          "value": 48.280139992076,
+          "timestamp": 1793898493,
+          "slug": "khamenei-of-tweets-november-3-november-10-2026-5-9",
+          "event_slug": "khamenei-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Khamenei post 0-4 posts from November 3 to November 10, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.356,
+          "value": 19.725959999999997,
+          "timestamp": 1793898484,
+          "slug": "khamenei-of-tweets-november-3-november-10-2026-0-4",
+          "event_slug": "khamenei-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Donald Trump publicly insult someone on November 5, 2026?",
           "side": "BUY",
@@ -882,39 +915,6 @@
           "price": 0.5,
           "value": 995.78,
           "timestamp": 1793849658,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "US x Iran effective ceasefire continues through November 8, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.18,
-          "value": 483.01019999999994,
-          "timestamp": 1793849514,
-          "slug": "us-x-iran-effective-ceasefire-continues-through-november-8-20261103",
-          "event_slug": "us-iran-effective-ceasefire-continues-throughptptpt-20261103",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.49,
-          "value": 726.18,
-          "timestamp": 1793846820,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.49,
-          "value": 980,
-          "timestamp": 1793846191,
           "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
           "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
           "result": "ongoing"
@@ -2235,5 +2235,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T17:05:42.999Z"
+  "lastUpdate": "2026-11-05T17:14:33.643Z"
 }
