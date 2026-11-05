@@ -746,10 +746,10 @@
       "address": "0xf7b7009844425e328f135856273c30659be3e490",
       "label": "fantasy7788",
       "stats48h": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "totalTrades": 50,
-        "winRate": 0,
+        "winRate": 1,
         "volume": 4996.0429600765,
         "pnl": 0
       },
@@ -763,7 +763,7 @@
           "timestamp": 1793873382,
           "slug": "khamenei-of-tweets-october-30-november-6-2026-0-4",
           "event_slug": "khamenei-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Khamenei post 0-4 posts from November 3 to November 10, 2026?",
@@ -1581,10 +1581,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2675.972399917652,
+        "volume": 2577.888589918052,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Bill Hill win the AK-AL House seat?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.047,
+          "value": 0.69372,
+          "timestamp": 1793881026,
+          "slug": "will-a-win-the-ak-al-house-seat",
+          "event_slug": "ak-al-house-election-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
           "side": "BUY",
@@ -1736,17 +1747,6 @@
           "value": 0.114,
           "timestamp": 1793864181,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-440-459",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8664695614,
-          "value": 98.77752999959999,
-          "timestamp": 1793863989,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
         }
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T12:11:24.349Z"
+  "lastUpdate": "2026-11-05T12:19:04.264Z"
 }
