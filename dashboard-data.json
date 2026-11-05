@@ -1734,10 +1734,10 @@
       "address": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
       "label": "tennischamp",
       "stats48h": {
-        "wins": 7,
+        "wins": 13,
         "losses": 2,
         "totalTrades": 16,
-        "winRate": 0.7777777777777778,
+        "winRate": 0.8666666666666667,
         "volume": 200346.01132,
         "pnl": 0
       },
@@ -1751,7 +1751,7 @@
           "timestamp": 1793907867,
           "slug": "atp-fils-fritz-2026-11-05",
           "event_slug": "atp-fils-fritz-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
@@ -1762,7 +1762,7 @@
           "timestamp": 1793904606,
           "slug": "atp-fils-fritz-2026-11-05",
           "event_slug": "atp-fils-fritz-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
@@ -1773,7 +1773,7 @@
           "timestamp": 1793904499,
           "slug": "atp-fils-fritz-2026-11-05",
           "event_slug": "atp-fils-fritz-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
@@ -1784,7 +1784,7 @@
           "timestamp": 1793904492,
           "slug": "atp-fils-fritz-2026-11-05",
           "event_slug": "atp-fils-fritz-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
@@ -1795,7 +1795,7 @@
           "timestamp": 1793904235,
           "slug": "atp-fils-fritz-2026-11-05",
           "event_slug": "atp-fils-fritz-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
@@ -1806,7 +1806,7 @@
           "timestamp": 1793904132,
           "slug": "atp-fils-fritz-2026-11-05",
           "event_slug": "atp-fils-fritz-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
@@ -2268,5 +2268,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T20:01:41.507Z"
+  "lastUpdate": "2026-11-05T20:11:17.200Z"
 }
