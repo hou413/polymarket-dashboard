@@ -209,14 +209,25 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 5,
+        "wins": 4,
         "losses": 4,
-        "totalTrades": 30,
-        "winRate": 0.5555555555555556,
-        "volume": 51518.690699800005,
+        "totalTrades": 31,
+        "winRate": 0.5,
+        "volume": 41958.7306998,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Predators vs. Avalanche: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.5,
+          "value": 40.04,
+          "timestamp": 1793891004,
+          "slug": "nhl-nsh-col-2026-11-05-total-6pt5",
+          "event_slug": "nhl-nsh-col-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Predators vs. Avalanche: O/U 5.5",
           "side": "BUY",
@@ -366,17 +377,6 @@
           "outcome": "Blue Jackets",
           "price": 0.48,
           "value": 9243.1152,
-          "timestamp": 1793733322,
-          "slug": "nhl-col-cbj-2026-11-03",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets",
-          "side": "BUY",
-          "outcome": "Blue Jackets",
-          "price": 0.48,
-          "value": 9600,
           "timestamp": 1793733322,
           "slug": "nhl-col-cbj-2026-11-03",
           "event_slug": "nhl-col-cbj-2026-11-03",
@@ -1581,10 +1581,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1486.7655300242752,
+        "volume": 2171.0386500256827,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.7,
+          "value": 742.0419999999999,
+          "timestamp": 1793890914,
+          "slug": "will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
+          "event_slug": "taipei-mayor-election-winner-20260813125857100",
+          "result": "ongoing"
+        },
         {
           "title": "No change in Bank of Mexico’s interest rates after November 2026 meeting?",
           "side": "BUY",
@@ -1738,17 +1749,6 @@
           "slug": "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
           "event_slug": "bank-of-mexico-decision-in-november",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Carson Benge win the 2026 NL Rookie of the Year award?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9551732804,
-          "value": 57.768879998592,
-          "timestamp": 1793885287,
-          "slug": "will-carson-benge-win-the-2026-nl-rookie-of-the-year-award",
-          "event_slug": "mlb-nl-rookie-of-the-year",
-          "result": "ongoing"
         }
       ]
     },
@@ -1860,7 +1860,7 @@
       "stats48h": {
         "wins": 6,
         "losses": 9,
-        "totalTrades": 22,
+        "totalTrades": 21,
         "winRate": 0.4,
         "volume": 35902.25679997207,
         "pnl": 0
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T15:01:53.878Z"
+  "lastUpdate": "2026-11-05T15:11:01.737Z"
 }
