@@ -389,10 +389,10 @@
       "label": "Netrol",
       "stats48h": {
         "wins": 4,
-        "losses": 9,
-        "totalTrades": 16,
-        "winRate": 0.3076923076923077,
-        "volume": 134410.51847242378,
+        "losses": 5,
+        "totalTrades": 11,
+        "winRate": 0.4444444444444444,
+        "volume": 113597.55983992378,
         "pnl": 0
       },
       "recentTrades": [
@@ -516,50 +516,6 @@
           "slug": "us-x-iran-ceasefire-continues-through-october-31-20260917",
           "event_slug": "us-iran-ceasefire-continues-throughptptpt",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and T",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.1149778917,
-          "value": 17246.683755000002,
-          "timestamp": 1793647936,
-          "slug": "2026-senate-map-r-ia",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "loss"
-        },
-        {
-          "title": "Will Republicans win Alaska, Iowa, and Maine, and lose Kansas, Michigan, Ohio, a",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.008,
-          "value": 1400,
-          "timestamp": 1793647831,
-          "slug": "2026-senate-map-r-ak-ia-me",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "loss"
-        },
-        {
-          "title": "Will Republicans win Alaska, Iowa, and Texas, and lose Kansas, Maine, Michigan, ",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.0080929993,
-          "value": 1416.2748775,
-          "timestamp": 1793647764,
-          "slug": "2026-senate-map-r-ak-ia-tx",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "loss"
-        },
-        {
-          "title": "Will Republicans win Alaska, Iowa, Maine, Michigan, and Texas, and lose Kansas a",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.005,
-          "value": 750,
-          "timestamp": 1793647678,
-          "slug": "2026-senate-map-r-ak-ia-me-mi-tx",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "loss"
         }
       ]
     },
@@ -750,10 +706,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 1848.9148000661824,
+        "volume": 2387.5282800595146,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.34,
+          "value": 573.9132000000001,
+          "timestamp": 1793906793,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
         {
           "title": "Israel x Iran ceasefire continues through November 5?",
           "side": "SELL",
@@ -905,17 +872,6 @@
           "value": 32.878899991735,
           "timestamp": 1793852665,
           "slug": "will-wti-dip-to-85-in-november-2026",
-          "event_slug": "what-price-will-wti-hit-in-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in November?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.0288163332,
-          "value": 35.299720006668,
-          "timestamp": 1793852647,
-          "slug": "will-wti-reach-130-in-november-2026",
           "event_slug": "what-price-will-wti-hit-in-november-2026",
           "result": "ongoing"
         }
@@ -1603,10 +1559,43 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 7398.8709100058,
+        "volume": 7497.050870004201,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will FC Nordsjælland win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8710472222,
+          "value": 62.715399998399995,
+          "timestamp": 1793907201,
+          "slug": "col-asm-nor-2026-11-05-nor",
+          "event_slug": "col-asm-nor-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will AS Monaco FC vs. FC Nordsjælland end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.83,
+          "value": 59.76,
+          "timestamp": 1793907201,
+          "slug": "col-asm-nor-2026-11-05-draw",
+          "event_slug": "col-asm-nor-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 1.89718,
+          "timestamp": 1793906882,
+          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
           "side": "SELL",
@@ -1737,39 +1726,6 @@
           "timestamp": 1793902305,
           "slug": "will-lee-shu-chuan-win-the-next-new-taipei-mayor-election-20260813125857201",
           "event_slug": "new-taipei-mayor-election-winner-20260813125857200",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Gideon Sa’ar be the next Prime Minister of Israel?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.017,
-          "timestamp": 1793902303,
-          "slug": "will-gideon-saar-be-the-next-prime-minister-of-israel",
-          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Carlos Cuerpo be the next Prime Minister of Spain?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 5.25882,
-          "timestamp": 1793901274,
-          "slug": "will-carlos-cuerpo-be-the-next-prime-minister-of-spain-20260713193458523",
-          "event_slug": "next-prime-minister-of-spain-20260625005215443",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.68,
-          "value": 20.916800000000002,
-          "timestamp": 1793899557,
-          "slug": "will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
-          "event_slug": "taipei-mayor-election-winner-20260813125857100",
           "result": "ongoing"
         }
       ]
@@ -2312,5 +2268,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T19:26:55.214Z"
+  "lastUpdate": "2026-11-05T19:37:07.023Z"
 }
