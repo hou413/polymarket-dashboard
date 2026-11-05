@@ -1860,7 +1860,7 @@
       "stats48h": {
         "wins": 6,
         "losses": 9,
-        "totalTrades": 21,
+        "totalTrades": 19,
         "winRate": 0.4,
         "volume": 35902.25679997207,
         "pnl": 0
@@ -2037,14 +2037,36 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 11,
+        "wins": 9,
         "losses": 0,
-        "totalTrades": 35,
+        "totalTrades": 37,
         "winRate": 1,
-        "volume": 65792.43378,
+        "volume": 54582.28168000001,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
+          "side": "BUY",
+          "outcome": "Lorenzo Musetti",
+          "price": 0.49,
+          "value": 502.81840000000005,
+          "timestamp": 1793892510,
+          "slug": "atp-musetti-assche-2026-11-05",
+          "event_slug": "atp-musetti-assche-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gukesh Dommaraju win the 2026 World Chess Championship?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.75,
+          "value": 728.28,
+          "timestamp": 1793892411,
+          "slug": "will-gukesh-dommaraju-win-the-2026-world-chess-championship",
+          "event_slug": "2026-world-chess-championship-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
           "side": "BUY",
@@ -2187,31 +2209,9 @@
           "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
           "event_slug": "which-company-has-best-ai-model-end-of-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Lakers vs. Kings",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.84,
-          "value": 22.2012,
-          "timestamp": 1793838571,
-          "slug": "nba-lal-sac-2026-11-04",
-          "event_slug": "nba-lal-sac-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "Bulls vs. Knicks",
-          "side": "BUY",
-          "outcome": "Knicks",
-          "price": 0.83,
-          "value": 12419.049299999999,
-          "timestamp": 1793838544,
-          "slug": "nba-chi-nyk-2026-11-04",
-          "event_slug": "nba-chi-nyk-2026-11-04",
-          "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T15:25:55.836Z"
+  "lastUpdate": "2026-11-05T15:34:48.075Z"
 }
