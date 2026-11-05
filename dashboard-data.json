@@ -1581,10 +1581,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 8377.850160073629,
+        "volume": 7488.9481100314,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.68,
+          "value": 20.916800000000002,
+          "timestamp": 1793899557,
+          "slug": "will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
+          "event_slug": "taipei-mayor-election-winner-20260813125857100",
+          "result": "ongoing"
+        },
         {
           "title": "Will Muhammad Mirbaqiri be head of state in Iran end of 2026?",
           "side": "SELL",
@@ -1737,17 +1748,6 @@
           "timestamp": 1793895249,
           "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
           "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8877147527,
-          "value": 909.8188500422301,
-          "timestamp": 1793895219,
-          "slug": "will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
           "result": "ongoing"
         }
       ]
@@ -2235,5 +2235,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T17:21:57.473Z"
+  "lastUpdate": "2026-11-05T17:29:55.844Z"
 }
