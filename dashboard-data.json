@@ -925,14 +925,36 @@
       "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
       "label": "Thunderous-Snarl",
       "stats48h": {
-        "wins": 15,
+        "wins": 13,
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 880815.2381,
+        "volume": 1054858.7566,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Game Handicap: DK (-1.5) vs Bilibili Gaming (+1.5)",
+          "side": "BUY",
+          "outcome": "Bilibili Gaming",
+          "price": 0.73,
+          "value": 40326.5067,
+          "timestamp": 1793905507,
+          "slug": "lol-dk-blg-2026-11-03-game-handicap-away-1pt5",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs",
+          "side": "BUY",
+          "outcome": "Bilibili Gaming",
+          "price": 0.58,
+          "value": 138822.7506,
+          "timestamp": 1793905435,
+          "slug": "lol-dk-blg-2026-11-03",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Gen.G vs LYON - Game 3 Winner",
           "side": "BUY",
@@ -1072,28 +1094,6 @@
           "price": 0.77,
           "value": 26950,
           "timestamp": 1793830944,
-          "slug": "lol-gen-ly-2026-11-05-game1",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Gen.G vs LYON - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.88,
-          "value": 3210.9088,
-          "timestamp": 1793830656,
-          "slug": "lol-gen-ly-2026-11-05-game1",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Gen.G vs LYON - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.84,
-          "value": 1894.83,
-          "timestamp": 1793830606,
           "slug": "lol-gen-ly-2026-11-05-game1",
           "event_slug": "lol-gen-ly-2026-11-05",
           "result": "win"
@@ -1603,10 +1603,76 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2293.2293299984,
+        "volume": 7228.118920005,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Represe",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9932419149,
+          "value": 466.823700003,
+          "timestamp": 1793905450,
+          "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-10-and-12-376",
+          "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Represe",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 469.06,
+          "timestamp": 1793905450,
+          "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-16-or-more-667",
+          "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Represe",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.2915808298,
+          "value": 137.042990006,
+          "timestamp": 1793905450,
+          "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-12-and-14-485",
+          "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Represe",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9989574468,
+          "value": 469.509999996,
+          "timestamp": 1793905450,
+          "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-8-and-10-661",
+          "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.21,
+          "value": 1050,
+          "timestamp": 1793905362,
+          "slug": "uel-ben-lep-2026-11-05-ben",
+          "event_slug": "uel-ben-lep-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will KKS Lech Poznań win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.92101748,
+          "value": 4605.0874,
+          "timestamp": 1793905362,
+          "slug": "uel-ben-lep-2026-11-05-lep",
+          "event_slug": "uel-ben-lep-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Will Moshe Feiglin be the next Prime Minister of Israel?",
           "side": "SELL",
@@ -1704,72 +1770,6 @@
           "timestamp": 1793896591,
           "slug": "elon-musk-of-tweets-november-2026-620-639",
           "event_slug": "elon-musk-of-tweets-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.035,
-          "value": 0.665,
-          "timestamp": 1793895733,
-          "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
-          "event_slug": "alaska-senate-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Dan Sullivan win the Alaska Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.966,
-          "value": 1865.346,
-          "timestamp": 1793895718,
-          "slug": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
-          "event_slug": "alaska-senate-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Dan Sullivan win the Alaska Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9577130102,
-          "value": 375.4234999984,
-          "timestamp": 1793895604,
-          "slug": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
-          "event_slug": "alaska-senate-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the next Russia x Ukraine peace talks take place in the UAE by December 31,",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.143,
-          "value": 1.43,
-          "timestamp": 1793895291,
-          "slug": "will-the-next-russia-x-ukraine-peace-talks-take-place-in-the-uae-by-december-31-2027",
-          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will no qualifying Russia x Ukraine peace talks take place by December 31, 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.982,
-          "value": 9.82,
-          "timestamp": 1793895291,
-          "slug": "will-no-qualifying-russia-x-ukraine-peace-talks-take-place-by-december-31-2027",
-          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the next Russia x Ukraine peace talks take place in Turkey by December 31, ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 9.95,
-          "timestamp": 1793895291,
-          "slug": "will-the-next-russia-x-ukraine-peace-talks-take-place-in-turkey-by-december-31-2027",
-          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
           "result": "ongoing"
         }
       ]
@@ -2312,5 +2312,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T19:02:45.937Z"
+  "lastUpdate": "2026-11-05T19:10:21.452Z"
 }
