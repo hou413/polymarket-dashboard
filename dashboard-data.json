@@ -523,14 +523,36 @@
       "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
       "label": "VeryLucky888",
       "stats48h": {
-        "wins": 7,
-        "losses": 8,
-        "totalTrades": 25,
-        "winRate": 0.4666666666666667,
-        "volume": 48740.78740002107,
+        "wins": 6,
+        "losses": 7,
+        "totalTrades": 27,
+        "winRate": 0.46153846153846156,
+        "volume": 74507.72420002108,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
+          "side": "BUY",
+          "outcome": "Bilibili Gaming",
+          "price": 0.5,
+          "value": 341.535,
+          "timestamp": 1793916852,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
+          "side": "BUY",
+          "outcome": "Bilibili Gaming",
+          "price": 0.5,
+          "value": 25641.025,
+          "timestamp": 1793916814,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Gen.G vs LYON - Game 3 Winner",
           "side": "BUY",
@@ -673,28 +695,6 @@
           "slug": "nba-okc-cle-2026-11-02",
           "event_slug": "nba-okc-cle-2026-11-02",
           "result": "loss"
-        },
-        {
-          "title": "Thunder vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.17,
-          "value": 159.62320000000003,
-          "timestamp": 1793672962,
-          "slug": "nba-okc-cle-2026-11-02",
-          "event_slug": "nba-okc-cle-2026-11-02",
-          "result": "loss"
-        },
-        {
-          "title": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
-          "side": "SELL",
-          "outcome": "Aurora Gaming",
-          "price": 0.56,
-          "value": 56.00000000000001,
-          "timestamp": 1793670592,
-          "slug": "cs2-aur1-g2-2026-11-03",
-          "event_slug": "cs2-aur1-g2-2026-11-03",
-          "result": "win"
         }
       ]
     },
@@ -881,178 +881,178 @@
       "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
       "label": "Thunderous-Snarl",
       "stats48h": {
-        "wins": 13,
+        "wins": 0,
         "losses": 0,
         "totalTrades": 50,
-        "winRate": 1,
-        "volume": 1054858.7566,
+        "winRate": 0,
+        "volume": 388507.3065032357,
         "pnl": 0
       },
       "recentTrades": [
         {
-          "title": "Game Handicap: DK (-1.5) vs Bilibili Gaming (+1.5)",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Bilibili Gaming",
-          "price": 0.73,
-          "value": 40326.5067,
-          "timestamp": 1793905507,
-          "slug": "lol-dk-blg-2026-11-03-game-handicap-away-1pt5",
+          "outcome": "Dplus KIA",
+          "price": 0.43,
+          "value": 1978.0430000000001,
+          "timestamp": 1793917027,
+          "slug": "lol-dk-blg-2026-11-03-game1",
           "event_slug": "lol-dk-blg-2026-11-03",
           "result": "ongoing"
         },
         {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming (BO5) - Worlds Playoffs",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Bilibili Gaming",
-          "price": 0.58,
-          "value": 138822.7506,
-          "timestamp": 1793905435,
-          "slug": "lol-dk-blg-2026-11-03",
+          "outcome": "Dplus KIA",
+          "price": 0.43,
+          "value": 2622.4238,
+          "timestamp": 1793917020,
+          "slug": "lol-dk-blg-2026-11-03-game1",
           "event_slug": "lol-dk-blg-2026-11-03",
           "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 3 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.86,
-          "value": 80518.42020000001,
-          "timestamp": 1793836497,
-          "slug": "lol-gen-ly-2026-11-05-game3",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.43,
+          "value": 879.952,
+          "timestamp": 1793917011,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 3 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.85,
-          "value": 110500,
-          "timestamp": 1793836473,
-          "slug": "lol-gen-ly-2026-11-05-game3",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.5,
+          "value": 25000,
+          "timestamp": 1793916976,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 3 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.84,
-          "value": 71694.12599999999,
-          "timestamp": 1793836423,
-          "slug": "lol-gen-ly-2026-11-05-game3",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.5,
+          "value": 16378.885,
+          "timestamp": 1793916922,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 2 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.86,
-          "value": 86000,
-          "timestamp": 1793833647,
-          "slug": "lol-gen-ly-2026-11-05-game2",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.5,
+          "value": 2788.53,
+          "timestamp": 1793916898,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 2 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.86,
-          "value": 86000,
-          "timestamp": 1793833611,
-          "slug": "lol-gen-ly-2026-11-05-game2",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.51,
+          "value": 3230.85,
+          "timestamp": 1793916885,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 2 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.86,
-          "value": 86000,
-          "timestamp": 1793833599,
-          "slug": "lol-gen-ly-2026-11-05-game2",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.5094643998,
+          "value": 56153.77750323576,
+          "timestamp": 1793916885,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 2 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.86,
-          "value": 34400,
-          "timestamp": 1793833593,
-          "slug": "lol-gen-ly-2026-11-05-game2",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.51,
+          "value": 25500,
+          "timestamp": 1793916856,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 2 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.86,
-          "value": 34400,
-          "timestamp": 1793833582,
-          "slug": "lol-gen-ly-2026-11-05-game2",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.51,
+          "value": 51000,
+          "timestamp": 1793916844,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 2 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.86,
-          "value": 34400,
-          "timestamp": 1793833570,
-          "slug": "lol-gen-ly-2026-11-05-game2",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.5,
+          "value": 20129.555,
+          "timestamp": 1793916825,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 2 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.86,
-          "value": 68800,
-          "timestamp": 1793833552,
-          "slug": "lol-gen-ly-2026-11-05-game2",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.50912982,
+          "value": 66186.87659999999,
+          "timestamp": 1793916820,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 2 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.82,
-          "value": 139400,
-          "timestamp": 1793833395,
-          "slug": "lol-gen-ly-2026-11-05-game2",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.50198017,
+          "value": 40158.41359999999,
+          "timestamp": 1793916802,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 1 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.83,
-          "value": 16646.9531,
-          "timestamp": 1793831016,
-          "slug": "lol-gen-ly-2026-11-05-game1",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.51,
+          "value": 25500,
+          "timestamp": 1793916795,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         },
         {
-          "title": "LoL: Gen.G vs LYON - Game 1 Winner",
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.77,
-          "value": 26950,
-          "timestamp": 1793830944,
-          "slug": "lol-gen-ly-2026-11-05-game1",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "win"
+          "outcome": "Dplus KIA",
+          "price": 0.51,
+          "value": 51000,
+          "timestamp": 1793916789,
+          "slug": "lol-dk-blg-2026-11-03-game1",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
         }
       ]
     },
@@ -1559,10 +1559,54 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1581.4699299999997,
+        "volume": 1412.34307,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the next Russia x Ukraine peace talks take place in the United States by De",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.967,
+          "value": 29.029339999999998,
+          "timestamp": 1793916850,
+          "slug": "will-the-next-russia-x-ukraine-peace-talks-take-place-in-the-united-states-by-december-31-2027",
+          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will no qualifying Russia x Ukraine peace talks take place by December 31, 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.98,
+          "value": 29.4196,
+          "timestamp": 1793916850,
+          "slug": "will-no-qualifying-russia-x-ukraine-peace-talks-take-place-by-december-31-2027",
+          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Microsoft be the largest company in the world by market cap on November 30,",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.708,
+          "timestamp": 1793916559,
+          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
+          "event_slug": "largest-company-end-of-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Cooper Flagg win the 2026-27 NBA MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.012,
+          "value": 2.52516,
+          "timestamp": 1793916469,
+          "slug": "will-cooper-flagg-win-the-2026-27-nba-mvp",
+          "event_slug": "nba-2026-27-mvp",
+          "result": "ongoing"
+        },
         {
           "title": "Will \"Obsession\" win Best Picture at the 99th Academy Awards?",
           "side": "SELL",
@@ -1682,50 +1726,6 @@
           "timestamp": 1793910198,
           "slug": "will-the-drama-win-best-picture-at-the-99th-academy-awards-20260727174029857",
           "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will La Bola Negra win Best Picture at the 99th Academy Awards?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.87,
-          "value": 217.5,
-          "timestamp": 1793910198,
-          "slug": "will-la-bola-negra-win-best-picture-at-the-99th-academy-awards-20260727174029860",
-          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 2 - 2 KKS Lech Poznań?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.959,
-          "value": 4.46894,
-          "timestamp": 1793908022,
-          "slug": "uel-ben-lep-2026-11-05-exact-score-2-2",
-          "event_slug": "uel-ben-lep-2026-11-05-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 4 - 1 KKS Lech Poznań?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.947,
-          "value": 4.4130199999999995,
-          "timestamp": 1793908022,
-          "slug": "uel-ben-lep-2026-11-05-exact-score-4-1",
-          "event_slug": "uel-ben-lep-2026-11-05-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 1 - 0 KKS Lech Poznań?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.95,
-          "value": 4.427,
-          "timestamp": 1793908022,
-          "slug": "uel-ben-lep-2026-11-05-exact-score-1-0",
-          "event_slug": "uel-ben-lep-2026-11-05-exact-score",
           "result": "ongoing"
         }
       ]
@@ -2268,5 +2268,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T22:11:07.838Z"
+  "lastUpdate": "2026-11-05T22:18:48.464Z"
 }
