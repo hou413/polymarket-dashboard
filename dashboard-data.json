@@ -211,12 +211,23 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 38,
+        "totalTrades": 39,
         "winRate": 0,
-        "volume": 51309.0759,
+        "volume": 51624.59680000001,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Predators vs. Avalanche: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.62,
+          "value": 517.7,
+          "timestamp": 1793910739,
+          "slug": "nhl-nsh-col-2026-11-05-total-5pt5",
+          "event_slug": "nhl-nsh-col-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Canucks vs. Jets: O/U 5.5",
           "side": "BUY",
@@ -369,17 +380,6 @@
           "timestamp": 1793871540,
           "slug": "nhl-chi-tb-2026-11-05",
           "event_slug": "nhl-chi-tb-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Utah vs. Canadiens",
-          "side": "BUY",
-          "outcome": "Utah",
-          "price": 0.53,
-          "value": 202.17910000000003,
-          "timestamp": 1793871418,
-          "slug": "nhl-utah-mon-2026-11-05",
-          "event_slug": "nhl-utah-mon-2026-11-05",
           "result": "ongoing"
         }
       ]
@@ -2268,5 +2268,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T20:37:01.055Z"
+  "lastUpdate": "2026-11-05T20:46:06.292Z"
 }
