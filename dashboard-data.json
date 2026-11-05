@@ -1780,12 +1780,34 @@
       "stats48h": {
         "wins": 8,
         "losses": 2,
-        "totalTrades": 10,
+        "totalTrades": 12,
         "winRate": 0.8,
-        "volume": 142579.435599933,
+        "volume": 145829.892399933,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.75,
+          "value": 2540.3999999999996,
+          "timestamp": 1793904235,
+          "slug": "atp-fils-fritz-2026-11-05",
+          "event_slug": "atp-fils-fritz-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.71,
+          "value": 710.0568,
+          "timestamp": 1793904132,
+          "slug": "atp-fils-fritz-2026-11-05",
+          "event_slug": "atp-fils-fritz-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
           "side": "BUY",
@@ -2257,5 +2279,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T18:38:08.935Z"
+  "lastUpdate": "2026-11-05T18:45:41.916Z"
 }
