@@ -1581,10 +1581,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 9729.393360039829,
+        "volume": 8377.850160073629,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Muhammad Mirbaqiri be head of state in Iran end of 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.053,
+          "timestamp": 1793898892,
+          "slug": "will-muhammad-mirbaqiri-be-head-of-state-in-iran-end-of-2026",
+          "event_slug": "iran-leader-end-of-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Zelenskyy and Putin meet next in Saudi Arabia before 2027?",
           "side": "SELL",
@@ -1736,17 +1747,6 @@
           "value": 909.8188500422301,
           "timestamp": 1793895219,
           "slug": "will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9504895921,
-          "value": 1351.5961999662,
-          "timestamp": 1793895219,
-          "slug": "will-anthropics-market-cap-be-between-2pt25t-and-2pt5t-at-market-close-on-ipo-day",
           "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
           "result": "ongoing"
         }
@@ -2235,5 +2235,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T17:14:33.643Z"
+  "lastUpdate": "2026-11-05T17:21:57.473Z"
 }
