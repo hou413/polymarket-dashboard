@@ -209,14 +209,36 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 7,
-        "losses": 5,
-        "totalTrades": 28,
-        "winRate": 0.5833333333333334,
-        "volume": 57883.786699799995,
+        "wins": 6,
+        "losses": 4,
+        "totalTrades": 30,
+        "winRate": 0.6,
+        "volume": 57721.6766998,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Canucks vs. Jets: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.49,
+          "value": 857.99,
+          "timestamp": 1793883612,
+          "slug": "nhl-van-wpg-2026-11-05-total-6pt5",
+          "event_slug": "nhl-van-wpg-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Canucks vs. Jets: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.6,
+          "value": 85.704,
+          "timestamp": 1793883570,
+          "slug": "nhl-van-wpg-2026-11-05-total-5pt5",
+          "event_slug": "nhl-van-wpg-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Blackhawks vs. Lightning: O/U 5.5",
           "side": "BUY",
@@ -359,28 +381,6 @@
           "slug": "nhl-wpg-mon-2026-11-03",
           "event_slug": "nhl-wpg-mon-2026-11-03",
           "result": "win"
-        },
-        {
-          "title": "Spread: Rangers (-1.5)",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.31,
-          "value": 18.6,
-          "timestamp": 1793726010,
-          "slug": "nhl-stl-nyr-2026-11-03-spread-home-1pt5",
-          "event_slug": "nhl-stl-nyr-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Jets (-1.5)",
-          "side": "BUY",
-          "outcome": "Jets",
-          "price": 0.2,
-          "value": 1087.2040000000002,
-          "timestamp": 1793718171,
-          "slug": "nhl-wpg-mon-2026-11-03-spread-away-1pt5",
-          "event_slug": "nhl-wpg-mon-2026-11-03",
-          "result": "loss"
         }
       ]
     },
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T13:00:01.649Z"
+  "lastUpdate": "2026-11-05T13:07:45.130Z"
 }
