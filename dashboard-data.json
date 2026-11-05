@@ -209,14 +209,36 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 1,
-        "losses": 2,
-        "totalTrades": 36,
-        "winRate": 0.3333333333333333,
-        "volume": 35139.73659980001,
+        "wins": 0,
+        "losses": 1,
+        "totalTrades": 37,
+        "winRate": 0,
+        "volume": 53058.235599800006,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Predators vs. Avalanche",
+          "side": "BUY",
+          "outcome": "Avalanche",
+          "price": 0.66,
+          "value": 13200,
+          "timestamp": 1793904276,
+          "slug": "nhl-nsh-col-2026-11-05",
+          "event_slug": "nhl-nsh-col-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Predators vs. Avalanche",
+          "side": "BUY",
+          "outcome": "Avalanche",
+          "price": 0.66,
+          "value": 10118.0112,
+          "timestamp": 1793904276,
+          "slug": "nhl-nsh-col-2026-11-05",
+          "event_slug": "nhl-nsh-col-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Utah (-1.5)",
           "side": "BUY",
@@ -359,28 +381,6 @@
           "slug": "nhl-ott-buf-2026-11-04-spread-away-1pt5",
           "event_slug": "nhl-ott-buf-2026-11-04",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Senators (-1.5)",
-          "side": "BUY",
-          "outcome": "Senators",
-          "price": 0.27,
-          "value": 340.05420000000004,
-          "timestamp": 1793795172,
-          "slug": "nhl-ott-buf-2026-11-04-spread-away-1pt5",
-          "event_slug": "nhl-ott-buf-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.6,
-          "value": 5059.458,
-          "timestamp": 1793748394,
-          "slug": "nhl-col-cbj-2026-11-03-total-5pt5",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
         }
       ]
     },
@@ -1780,12 +1780,45 @@
       "stats48h": {
         "wins": 8,
         "losses": 2,
-        "totalTrades": 12,
+        "totalTrades": 15,
         "winRate": 0.8,
-        "volume": 145829.892399933,
+        "volume": 168066.69319993298,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.78,
+          "value": 14820,
+          "timestamp": 1793904606,
+          "slug": "atp-fils-fritz-2026-11-05",
+          "event_slug": "atp-fils-fritz-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.78,
+          "value": 5261.7864,
+          "timestamp": 1793904499,
+          "slug": "atp-fils-fritz-2026-11-05",
+          "event_slug": "atp-fils-fritz-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.77,
+          "value": 2155.0144,
+          "timestamp": 1793904492,
+          "slug": "atp-fils-fritz-2026-11-05",
+          "event_slug": "atp-fils-fritz-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
           "side": "BUY",
@@ -2279,5 +2312,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T18:45:41.916Z"
+  "lastUpdate": "2026-11-05T18:53:13.062Z"
 }
