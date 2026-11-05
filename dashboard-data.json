@@ -389,9 +389,9 @@
       "label": "Netrol",
       "stats48h": {
         "wins": 4,
-        "losses": 8,
+        "losses": 9,
         "totalTrades": 17,
-        "winRate": 0.3333333333333333,
+        "winRate": 0.3076923076923077,
         "volume": 134410.51847242378,
         "pnl": 0
       },
@@ -471,7 +471,7 @@
           "timestamp": 1793681758,
           "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
           "event_slug": "which-party-will-win-the-senate-in-2026",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "2026 Balance of Power: D Senate, D House",
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T11:29:14.297Z"
+  "lastUpdate": "2026-11-05T11:38:36.234Z"
 }
