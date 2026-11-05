@@ -2037,14 +2037,69 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 10,
+        "wins": 5,
         "losses": 0,
-        "totalTrades": 30,
+        "totalTrades": 35,
         "winRate": 1,
-        "volume": 67424.00762,
+        "volume": 65792.43378,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.9,
+          "value": 13561.848,
+          "timestamp": 1793888028,
+          "slug": "atp-shelton-rinderk-2026-11-05",
+          "event_slug": "atp-shelton-rinderk-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.59,
+          "value": 59.589999999999996,
+          "timestamp": 1793888005,
+          "slug": "atp-shelton-rinderk-2026-11-05",
+          "event_slug": "atp-shelton-rinderk-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
+          "side": "SELL",
+          "outcome": "Ben Shelton",
+          "price": 0.29,
+          "value": 290,
+          "timestamp": 1793887779,
+          "slug": "atp-shelton-rinderk-2026-11-05",
+          "event_slug": "atp-shelton-rinderk-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.4,
+          "value": 412.36800000000005,
+          "timestamp": 1793887689,
+          "slug": "atp-shelton-rinderk-2026-11-05",
+          "event_slug": "atp-shelton-rinderk-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.55,
+          "value": 562.6555000000001,
+          "timestamp": 1793887648,
+          "slug": "atp-shelton-rinderk-2026-11-05",
+          "event_slug": "atp-shelton-rinderk-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
           "side": "BUY",
@@ -2154,64 +2209,9 @@
           "slug": "nba-chi-nyk-2026-11-04",
           "event_slug": "nba-chi-nyk-2026-11-04",
           "result": "win"
-        },
-        {
-          "title": "Villa Maria: Lucio Ratti vs Carlos Maria Zarate",
-          "side": "SELL",
-          "outcome": "Carlos Maria Zarate",
-          "price": 0.999,
-          "value": 57.932010000000005,
-          "timestamp": 1793836749,
-          "slug": "atp-ratti-zarate-2026-11-04",
-          "event_slug": "atp-ratti-zarate-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "Will CR Flamengo win on 2026-11-04?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.87,
-          "value": 5405.9451,
-          "timestamp": 1793831224,
-          "slug": "bra-fla-gre-2026-11-04-fla",
-          "event_slug": "bra-fla-gre-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "Real Madrid vs. Panathinaikos",
-          "side": "BUY",
-          "outcome": "Panathinaikos",
-          "price": 0.989,
-          "value": 9.89,
-          "timestamp": 1793829490,
-          "slug": "euroleague-madrid-panathin-2026-11-04",
-          "event_slug": "euroleague-madrid-panathin-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Arthur Fils vs Tomas Machac",
-          "side": "SELL",
-          "outcome": "Arthur Fils",
-          "price": 0.999,
-          "value": 10953.80523,
-          "timestamp": 1793829195,
-          "slug": "atp-fils-machac-2026-11-04",
-          "event_slug": "atp-fils-machac-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Arthur Fils vs Tomas Machac",
-          "side": "BUY",
-          "outcome": "Arthur Fils",
-          "price": 0.61,
-          "value": 90.46300000000001,
-          "timestamp": 1793822139,
-          "slug": "atp-fils-machac-2026-11-04",
-          "event_slug": "atp-fils-machac-2026-11-04",
-          "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T14:05:44.876Z"
+  "lastUpdate": "2026-11-05T14:14:52.524Z"
 }
