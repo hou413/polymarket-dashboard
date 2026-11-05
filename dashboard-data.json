@@ -1198,13 +1198,46 @@
       "label": "ch27er",
       "stats48h": {
         "wins": 0,
-        "losses": 10,
-        "totalTrades": 31,
+        "losses": 7,
+        "totalTrades": 34,
         "winRate": 0,
-        "volume": 373278.1271037652,
+        "volume": 514508.41267528175,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Jaguars (-10.5)",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.55,
+          "value": 81805.7075,
+          "timestamp": 1793913661,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-10pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-8.5)",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.47,
+          "value": 46.957699999999996,
+          "timestamp": 1793913651,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-8pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-9.5)",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.5,
+          "value": 60179.885,
+          "timestamp": 1793913621,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-9pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Pelicans (-5.5)",
           "side": "BUY",
@@ -1336,39 +1369,6 @@
           "slug": "2026-senate-map-r-none",
           "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
           "result": "ongoing"
-        },
-        {
-          "title": "2026 Balance of Power: R Senate, R House",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.0198488398,
-          "value": 2.626199993938,
-          "timestamp": 1793751291,
-          "slug": "2026-balance-of-power-r-senate-r-house-537",
-          "event_slug": "balance-of-power-2026-midterms",
-          "result": "loss"
-        },
-        {
-          "title": "Will Republicans win Alaska, Iowa, Michigan, Ohio, and Texas, and lose Kansas an",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 134.5718,
-          "timestamp": 1793721132,
-          "slug": "2026-senate-map-r-ak-ia-mi-oh-tx",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "loss"
-        },
-        {
-          "title": "Will Republicans win Iowa and Ohio, and lose Alaska, Kansas, Maine, Michigan, an",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.0116035924,
-          "value": 665.066628489592,
-          "timestamp": 1793720721,
-          "slug": "2026-senate-map-r-ia-oh",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "loss"
         }
       ]
     },
@@ -2092,14 +2092,47 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 4,
+        "wins": 1,
         "losses": 1,
-        "totalTrades": 46,
-        "winRate": 0.8,
-        "volume": 44716.83509950996,
+        "totalTrades": 49,
+        "winRate": 0.5,
+        "volume": 44449.74619950996,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Olimpia Milano vs. Valencia",
+          "side": "BUY",
+          "outcome": "Valencia",
+          "price": 0.99,
+          "value": 165.33,
+          "timestamp": 1793914083,
+          "slug": "euroleague-milano-valencia-2026-11-05",
+          "event_slug": "euroleague-milano-valencia-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Olimpia Milano vs. Valencia",
+          "side": "BUY",
+          "outcome": "Valencia",
+          "price": 0.99,
+          "value": 290.15909999999997,
+          "timestamp": 1793914035,
+          "slug": "euroleague-milano-valencia-2026-11-05",
+          "event_slug": "euroleague-milano-valencia-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will KKS Lech Poznań win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9845,
+          "value": 39.38,
+          "timestamp": 1793913931,
+          "slug": "uel-ben-lep-2026-11-05-lep",
+          "event_slug": "uel-ben-lep-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
           "side": "BUY",
@@ -2231,42 +2264,9 @@
           "slug": "atp-shelton-rinderk-2026-11-05",
           "event_slug": "atp-shelton-rinderk-2026-11-05",
           "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.59,
-          "value": 59.589999999999996,
-          "timestamp": 1793888005,
-          "slug": "atp-shelton-rinderk-2026-11-05",
-          "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
-          "side": "SELL",
-          "outcome": "Ben Shelton",
-          "price": 0.29,
-          "value": 290,
-          "timestamp": 1793887779,
-          "slug": "atp-shelton-rinderk-2026-11-05",
-          "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.4,
-          "value": 412.36800000000005,
-          "timestamp": 1793887689,
-          "slug": "atp-shelton-rinderk-2026-11-05",
-          "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T21:21:17.909Z"
+  "lastUpdate": "2026-11-05T21:28:56.182Z"
 }
