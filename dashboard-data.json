@@ -1603,10 +1603,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2303.2023299983994,
+        "volume": 2293.2293299984,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Moshe Feiglin be the next Prime Minister of Israel?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.017,
+          "timestamp": 1793902539,
+          "slug": "will-moshe-feiglin-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
         {
           "title": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
           "side": "SELL",
@@ -1758,17 +1769,6 @@
           "value": 9.95,
           "timestamp": 1793895291,
           "slug": "will-the-next-russia-x-ukraine-peace-talks-take-place-in-turkey-by-december-31-2027",
-          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the next Russia x Ukraine peace talks take place in Switzerland by December",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 9.99,
-          "timestamp": 1793895291,
-          "slug": "will-the-next-russia-x-ukraine-peace-talks-take-place-in-switzerland-by-december-31-2027",
           "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
           "result": "ongoing"
         }
@@ -2257,5 +2257,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T18:20:47.857Z"
+  "lastUpdate": "2026-11-05T18:28:19.604Z"
 }
