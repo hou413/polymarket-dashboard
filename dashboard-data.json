@@ -1603,10 +1603,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 7488.9481100314,
+        "volume": 5600.002930031399,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Carlos Cuerpo be the next Prime Minister of Spain?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 5.25882,
+          "timestamp": 1793901274,
+          "slug": "will-carlos-cuerpo-be-the-next-prime-minister-of-spain-20260713193458523",
+          "event_slug": "next-prime-minister-of-spain-20260625005215443",
+          "result": "ongoing"
+        },
         {
           "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
           "side": "SELL",
@@ -1758,17 +1769,6 @@
           "value": 1884.714,
           "timestamp": 1793895249,
           "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 1894.204,
-          "timestamp": 1793895249,
-          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
           "event_slug": "largest-company-end-of-december-2026",
           "result": "ongoing"
         }
@@ -2257,5 +2257,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T17:56:02.214Z"
+  "lastUpdate": "2026-11-05T18:03:30.894Z"
 }
