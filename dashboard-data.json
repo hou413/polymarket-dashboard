@@ -1581,10 +1581,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 15083.55782004023,
+        "volume": 14265.92332003863,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Dan Sullivan win the Alaska Senate race in 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9577130102,
+          "value": 375.4234999984,
+          "timestamp": 1793895604,
+          "slug": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
+          "event_slug": "alaska-senate-election-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will the next Russia x Ukraine peace talks take place in the UAE by December 31,",
           "side": "BUY",
@@ -1738,17 +1749,6 @@
           "slug": "will-anthropics-market-cap-be-between-2pt75t-and-3pt0t-at-market-close-on-ipo-day",
           "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.839,
-          "value": 1193.058,
-          "timestamp": 1793895219,
-          "slug": "will-anthropics-market-cap-be-between-1pt25t-and-1pt5t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
         }
       ]
     },
@@ -1758,12 +1758,23 @@
       "stats48h": {
         "wins": 8,
         "losses": 0,
-        "totalTrades": 8,
+        "totalTrades": 9,
         "winRate": 1,
-        "volume": 120712.26309993298,
+        "volume": 128917.54429993298,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
+          "side": "BUY",
+          "outcome": "Lorenzo Musetti",
+          "price": 0.68,
+          "value": 8205.281200000001,
+          "timestamp": 1793895678,
+          "slug": "atp-musetti-assche-2026-11-05",
+          "event_slug": "atp-musetti-assche-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Tommy Paul vs Quentin Halys",
           "side": "BUY",
@@ -2039,12 +2050,23 @@
       "stats48h": {
         "wins": 9,
         "losses": 0,
-        "totalTrades": 37,
+        "totalTrades": 38,
         "winRate": 1,
-        "volume": 54582.28168000001,
+        "volume": 62170.62529999999,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will AC Milan win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.72,
+          "value": 7593.343199999999,
+          "timestamp": 1793895846,
+          "slug": "uel-mil1-ftc-2026-11-05-mil1",
+          "event_slug": "uel-mil1-ftc-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
           "side": "BUY",
@@ -2198,20 +2220,9 @@
           "slug": "will-javokhir-sindarov-win-the-2026-world-chess-championship",
           "event_slug": "2026-world-chess-championship-winner",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Z.ai have the best AI model at the end of December 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 4.99958,
-          "timestamp": 1793839989,
-          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
-          "event_slug": "which-company-has-best-ai-model-end-of-2026",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T16:17:03.868Z"
+  "lastUpdate": "2026-11-05T16:24:21.902Z"
 }
