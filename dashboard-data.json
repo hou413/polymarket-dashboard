@@ -702,14 +702,25 @@
       "address": "0xf7b7009844425e328f135856273c30659be3e490",
       "label": "fantasy7788",
       "stats48h": {
-        "wins": 1,
+        "wins": 0,
         "losses": 0,
         "totalTrades": 50,
-        "winRate": 1,
-        "volume": 2394.0860400018264,
+        "winRate": 0,
+        "volume": 2207.4632399888715,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in November?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.13,
+          "value": 65,
+          "timestamp": 1793916220,
+          "slug": "will-wti-reach-115-in-november-2026",
+          "event_slug": "what-price-will-wti-hit-in-november-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Pete Hegseth out as Secretary of Defense by November 30?",
           "side": "BUY",
@@ -863,17 +874,6 @@
           "slug": "will-donald-trump-publicly-insult-someone-on-november-5-2026",
           "event_slug": "will-trump-publicly-insult-someone-on-november-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Khamenei post 0-4 posts from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9084183545,
-          "value": 251.622800012955,
-          "timestamp": 1793873382,
-          "slug": "khamenei-of-tweets-october-30-november-6-2026-0-4",
-          "event_slug": "khamenei-of-tweets-october-30-november-6-2026",
-          "result": "win"
         }
       ]
     },
@@ -2268,5 +2268,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T22:03:26.222Z"
+  "lastUpdate": "2026-11-05T22:11:07.838Z"
 }
