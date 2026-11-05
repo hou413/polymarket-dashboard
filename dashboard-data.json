@@ -1603,10 +1603,54 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 7228.118920005,
+        "volume": 7398.8709100058,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.105,
+          "value": 33.142199999999995,
+          "timestamp": 1793905737,
+          "slug": "will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
+          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Represe",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 45.954,
+          "timestamp": 1793905570,
+          "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-16-or-more-667",
+          "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Represe",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9966304348,
+          "value": 45.8450000008,
+          "timestamp": 1793905570,
+          "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-10-and-12-376",
+          "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Represe",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 45.954,
+          "timestamp": 1793905570,
+          "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-8-and-10-661",
+          "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
+          "result": "ongoing"
+        },
         {
           "title": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Represe",
           "side": "BUY",
@@ -1726,50 +1770,6 @@
           "timestamp": 1793899557,
           "slug": "will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
           "event_slug": "taipei-mayor-election-winner-20260813125857100",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Muhammad Mirbaqiri be head of state in Iran end of 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.053,
-          "timestamp": 1793898892,
-          "slug": "will-muhammad-mirbaqiri-be-head-of-state-in-iran-end-of-2026",
-          "event_slug": "iran-leader-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy and Putin meet next in Saudi Arabia before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.01426,
-          "timestamp": 1793897382,
-          "slug": "will-zelenskyy-and-putin-meet-next-in-saudi-arabia",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 700-719 tweets in November 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.005,
-          "value": 0.05425,
-          "timestamp": 1793896827,
-          "slug": "elon-musk-of-tweets-november-2026-700-719",
-          "event_slug": "elon-musk-of-tweets-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 620-639 tweets in November 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.0217,
-          "timestamp": 1793896591,
-          "slug": "elon-musk-of-tweets-november-2026-620-639",
-          "event_slug": "elon-musk-of-tweets-november-2026",
           "result": "ongoing"
         }
       ]
@@ -2312,5 +2312,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T19:10:21.452Z"
+  "lastUpdate": "2026-11-05T19:19:22.272Z"
 }
