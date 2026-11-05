@@ -211,12 +211,34 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 40,
+        "totalTrades": 42,
         "winRate": 0,
-        "volume": 59259.9522,
+        "volume": 61262.9061,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Penguins (-1.5)",
+          "side": "BUY",
+          "outcome": "Penguins",
+          "price": 0.31,
+          "value": 1003.9939,
+          "timestamp": 1793919975,
+          "slug": "nhl-bos-pit-2026-11-05-spread-home-1pt5",
+          "event_slug": "nhl-bos-pit-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Penguins (-1.5)",
+          "side": "BUY",
+          "outcome": "Penguins",
+          "price": 0.31,
+          "value": 1860,
+          "timestamp": 1793919975,
+          "slug": "nhl-bos-pit-2026-11-05-spread-home-1pt5",
+          "event_slug": "nhl-bos-pit-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Islanders (-1.5)",
           "side": "BUY",
@@ -358,28 +380,6 @@
           "timestamp": 1793891004,
           "slug": "nhl-nsh-col-2026-11-05-total-6pt5",
           "event_slug": "nhl-nsh-col-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Predators vs. Avalanche: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.61,
-          "value": 3.05,
-          "timestamp": 1793886609,
-          "slug": "nhl-nsh-col-2026-11-05-total-5pt5",
-          "event_slug": "nhl-nsh-col-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Canucks vs. Jets: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.49,
-          "value": 857.99,
-          "timestamp": 1793883612,
-          "slug": "nhl-van-wpg-2026-11-05-total-6pt5",
-          "event_slug": "nhl-van-wpg-2026-11-05",
           "result": "ongoing"
         }
       ]
@@ -1559,10 +1559,76 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 982.92617,
+        "volume": 584.3906799969999,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Karmine Corp win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.99,
+          "value": 103.95,
+          "timestamp": 1793919916,
+          "slug": "will-karmine-corp-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will T1 win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.81,
+          "value": 85.05000000000001,
+          "timestamp": 1793919916,
+          "slug": "will-t1-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Invictus Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.928,
+          "value": 97.44000000000001,
+          "timestamp": 1793919916,
+          "slug": "will-invictus-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gen.G win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.47,
+          "value": 49.349999999999994,
+          "timestamp": 1793919916,
+          "slug": "will-genptg-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Dplus KIA win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9704025714,
+          "value": 101.892269997,
+          "timestamp": 1793919916,
+          "slug": "will-dplus-kia-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.3,
+          "value": 22.194,
+          "timestamp": 1793919807,
+          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+          "event_slug": "new-zealand-legislative-election-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
           "side": "SELL",
@@ -1659,72 +1725,6 @@
           "value": 0.24921000000000001,
           "timestamp": 1793910474,
           "slug": "will-elsinore-win-best-picture-at-the-99th-academy-awards",
-          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will \"I Play Rocky\" win Best Picture at the 99th Academy Awards?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.25,
-          "timestamp": 1793910472,
-          "slug": "will-i-play-rocky-win-best-picture-at-the-99th-academy-awards",
-          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will The Debut win Best Picture at the 99th Academy Awards?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.25,
-          "timestamp": 1793910472,
-          "slug": "will-the-debut-win-best-picture-at-the-99th-academy-awards-20260727174029859",
-          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Wild Horse Nine win Best Picture at the 99th Academy Awards?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.99764704,
-          "value": 249.41176000000002,
-          "timestamp": 1793910198,
-          "slug": "will-wild-horse-nine-win-best-picture-at-the-99th-academy-awards-20260727173620861",
-          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will The Invite win Best Picture at the 99th Academy Awards?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 249,
-          "timestamp": 1793910198,
-          "slug": "will-the-invite-win-best-picture-at-the-99th-academy-awards-20260727174029858",
-          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will The Odyssey win Best Picture at the 99th Academy Awards?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.44,
-          "value": 110,
-          "timestamp": 1793910198,
-          "slug": "will-the-odyssey-win-best-picture-at-the-99th-academy-awards-20260727173620859",
-          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Project Hail Mary win Best Picture at the 99th Academy Awards?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 249.5,
-          "timestamp": 1793910198,
-          "slug": "will-project-hail-mary-win-best-picture-at-the-99th-academy-awards-20260727174029850",
           "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
           "result": "ongoing"
         }
@@ -2096,10 +2096,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 46059.317250529806,
+        "volume": 43066.2658505298,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Z.ai have the best AI model at the end of December 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 5.04124,
+          "timestamp": 1793920128,
+          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
+          "event_slug": "which-company-has-best-ai-model-end-of-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
+          "side": "SELL",
+          "outcome": "Maks Kasnikowski",
+          "price": 0.999,
+          "value": 999,
+          "timestamp": 1793920101,
+          "slug": "atp-kasniko-antoniu-2026-11-05",
+          "event_slug": "atp-kasniko-antoniu-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Will Gukesh Dommaraju win the 2026 World Chess Championship?",
           "side": "BUY",
@@ -2242,31 +2264,9 @@
           "slug": "uel-ben-lep-2026-11-05-ben",
           "event_slug": "uel-ben-lep-2026-11-05",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Juventus FC win on 2026-11-05?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.976,
-          "value": 3227.86624,
-          "timestamp": 1793914788,
-          "slug": "uel-az-juv-2026-11-05-juv",
-          "event_slug": "uel-az-juv-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "BUY",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.76,
-          "value": 769.2264,
-          "timestamp": 1793914525,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T23:02:12.888Z"
+  "lastUpdate": "2026-11-05T23:09:47.692Z"
 }
