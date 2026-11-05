@@ -706,10 +706,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 2366.6493800669687,
+        "volume": 3053.7123800509694,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "US announces end of Iranian blockade by November 15, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.11,
+          "value": 696.927,
+          "timestamp": 1793912581,
+          "slug": "us-announces-end-of-iranian-blockade-by-november-15-2026",
+          "event_slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "result": "ongoing"
+        },
         {
           "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
           "side": "BUY",
@@ -862,17 +873,6 @@
           "timestamp": 1793858203,
           "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
           "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Farsi, Hengam, Hormuz or Kharg Island no longer be under Iranian control by",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.029183432,
-          "value": 9.864000016,
-          "timestamp": 1793854953,
-          "slug": "will-farsi-hengam-hormuz-or-kharg-island-no-longer-be-under-iranian-control-by-november-30-2026",
-          "event_slug": "farsi-hengam-hormuz-or-kharg-island-no-longer-under-iranian-control-byptptpt-20260804165426109",
           "result": "ongoing"
         }
       ]
@@ -2092,14 +2092,58 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 8,
+        "wins": 5,
         "losses": 2,
-        "totalTrades": 40,
-        "winRate": 0.8,
-        "volume": 67868.39329953735,
+        "totalTrades": 44,
+        "winRate": 0.7142857142857143,
+        "volume": 45381.66679950996,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.89,
+          "value": 2846.6294000000003,
+          "timestamp": 1793913136,
+          "slug": "uel-ben-lep-2026-11-05-ben",
+          "event_slug": "uel-ben-lep-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Olimpia Milano vs. Valencia",
+          "side": "BUY",
+          "outcome": "Valencia",
+          "price": 0.6426656394,
+          "value": 33.367199997648,
+          "timestamp": 1793912901,
+          "slug": "euroleague-milano-valencia-2026-11-05",
+          "event_slug": "euroleague-milano-valencia-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "ASVEL Lyon-Villeurbanne vs. FC Bayern Munchen",
+          "side": "SELL",
+          "outcome": "ASVEL Lyon-Villeurbanne",
+          "price": 0.0871402239,
+          "value": 44.91119999582099,
+          "timestamp": 1793912703,
+          "slug": "euroleague-lyonvill-munchen-2026-11-05",
+          "event_slug": "euroleague-lyonvill-munchen-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "ASVEL Lyon-Villeurbanne vs. FC Bayern Munchen",
+          "side": "BUY",
+          "outcome": "ASVEL Lyon-Villeurbanne",
+          "price": 0.0511125555,
+          "value": 26.342899979145,
+          "timestamp": 1793912650,
+          "slug": "euroleague-lyonvill-munchen-2026-11-05",
+          "event_slug": "euroleague-lyonvill-munchen-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Jan-Lennard Struff vs Casper Ruud",
           "side": "BUY",
@@ -2220,53 +2264,9 @@
           "slug": "atp-musetti-assche-2026-11-05",
           "event_slug": "atp-musetti-assche-2026-11-05",
           "result": "loss"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.67,
-          "value": 7443.887600000001,
-          "timestamp": 1793885259,
-          "slug": "atp-shelton-rinderk-2026-11-05",
-          "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.76,
-          "value": 29.9896,
-          "timestamp": 1793847388,
-          "slug": "will-javokhir-sindarov-win-the-2026-world-chess-championship",
-          "event_slug": "2026-world-chess-championship-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Lakers vs. Kings",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.84,
-          "value": 17866.094399999998,
-          "timestamp": 1793847333,
-          "slug": "nba-lal-sac-2026-11-04",
-          "event_slug": "nba-lal-sac-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "76ers vs. Pistons",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.74,
-          "value": 98.0056,
-          "timestamp": 1793840997,
-          "slug": "nba-phi-det-2026-11-04",
-          "event_slug": "nba-phi-det-2026-11-04",
-          "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T21:03:21.994Z"
+  "lastUpdate": "2026-11-05T21:13:38.315Z"
 }
