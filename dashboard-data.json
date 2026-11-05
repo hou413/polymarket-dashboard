@@ -1581,10 +1581,54 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 85.35605000190802,
+        "volume": 121.70026000149996,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the next Russia x Ukraine peace talks take place in Turkey by December 31, ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 21.89,
+          "timestamp": 1793894380,
+          "slug": "will-the-next-russia-x-ukraine-peace-talks-take-place-in-turkey-by-december-31-2027",
+          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will no qualifying Russia x Ukraine peace talks take place by December 31, 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.983,
+          "value": 21.626,
+          "timestamp": 1793894380,
+          "slug": "will-no-qualifying-russia-x-ukraine-peace-talks-take-place-by-december-31-2027",
+          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the next Russia x Ukraine peace talks take place in Switzerland by December",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 21.956,
+          "timestamp": 1793894379,
+          "slug": "will-the-next-russia-x-ukraine-peace-talks-take-place-in-switzerland-by-december-31-2027",
+          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
+          "result": "ongoing"
+        },
+        {
+          "title": "Exact Score: Al Kholood Saudi Club 0 - 3 Al Khaleej Saudi Club?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.005,
+          "timestamp": 1793894287,
+          "slug": "spl-kho-kha-2026-11-05-exact-score-0-3",
+          "event_slug": "spl-kho-kha-2026-11-05-exact-score",
+          "result": "ongoing"
+        },
         {
           "title": "Will Coldplay have the second-greatest number of monthly Spotify listeners this ",
           "side": "SELL",
@@ -1705,50 +1749,6 @@
           "slug": "will-zelenskyy-and-putin-meet-next-in-italy-vatican",
           "event_slug": "where-will-zelenskyy-and-putin-meet-next",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy and Putin meet next in Kazakhstan before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.01426,
-          "timestamp": 1793892904,
-          "slug": "will-zelenskyy-and-putin-meet-next-in-kazakhstan-485-344",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy and Putin not meet before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.05,
-          "value": 0.7130000000000001,
-          "timestamp": 1793892694,
-          "slug": "will-zelenskyy-and-putin-not-meet",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy and Putin meet next in China before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9941346424,
-          "value": 14.176360000624001,
-          "timestamp": 1793892694,
-          "slug": "will-zelenskyy-and-putin-meet-next-in-china",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy  and Putin meet next in Belarus before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9978380084,
-          "value": 14.229169999784,
-          "timestamp": 1793892694,
-          "slug": "will-zelenskyy-and-putin-meet-next-in-belarus",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
         }
       ]
     },
@@ -1860,7 +1860,7 @@
       "stats48h": {
         "wins": 6,
         "losses": 9,
-        "totalTrades": 19,
+        "totalTrades": 18,
         "winRate": 0.4,
         "volume": 35902.25679997207,
         "pnl": 0
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T15:50:52.432Z"
+  "lastUpdate": "2026-11-05T16:01:01.803Z"
 }
