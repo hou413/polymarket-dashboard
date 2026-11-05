@@ -1581,10 +1581,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 11127.992270038629,
+        "volume": 9729.393360039829,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Zelenskyy and Putin meet next in Saudi Arabia before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.01426,
+          "timestamp": 1793897382,
+          "slug": "will-zelenskyy-and-putin-meet-next-in-saudi-arabia",
+          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 700-719 tweets in November 2026?",
           "side": "SELL",
@@ -1736,17 +1747,6 @@
           "value": 1351.5961999662,
           "timestamp": 1793895219,
           "slug": "will-anthropics-market-cap-be-between-2pt25t-and-2pt5t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $2.5T and $2.75T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9835535654,
-          "value": 1398.6131699988,
-          "timestamp": 1793895219,
-          "slug": "will-anthropics-market-cap-be-between-2pt5t-and-2pt75t-at-market-close-on-ipo-day",
           "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
           "result": "ongoing"
         }
@@ -2235,5 +2235,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T16:48:33.540Z"
+  "lastUpdate": "2026-11-05T16:55:48.760Z"
 }
