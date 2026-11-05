@@ -209,14 +209,25 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 6,
+        "wins": 5,
         "losses": 4,
-        "totalTrades": 29,
-        "winRate": 0.6,
-        "volume": 57721.6766998,
+        "totalTrades": 30,
+        "winRate": 0.5555555555555556,
+        "volume": 51518.690699800005,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Predators vs. Avalanche: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.61,
+          "value": 3.05,
+          "timestamp": 1793886609,
+          "slug": "nhl-nsh-col-2026-11-05-total-5pt5",
+          "event_slug": "nhl-nsh-col-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Canucks vs. Jets: O/U 6.5",
           "side": "BUY",
@@ -369,17 +380,6 @@
           "timestamp": 1793733322,
           "slug": "nhl-col-cbj-2026-11-03",
           "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Jets vs. Canadiens",
-          "side": "BUY",
-          "outcome": "Jets",
-          "price": 0.4,
-          "value": 6206.036,
-          "timestamp": 1793730510,
-          "slug": "nhl-wpg-mon-2026-11-03",
-          "event_slug": "nhl-wpg-mon-2026-11-03",
           "result": "win"
         }
       ]
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T13:47:45.580Z"
+  "lastUpdate": "2026-11-05T13:58:04.254Z"
 }
