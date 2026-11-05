@@ -750,10 +750,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 2805.9639000661823,
+        "volume": 1848.9148000661824,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Israel x Iran ceasefire continues through November 5?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.01,
+          "value": 38.730900000000005,
+          "timestamp": 1793903352,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-5",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
         {
           "title": "Will Khamenei post 10-14 posts from November 3 to November 10, 2026?",
           "side": "BUY",
@@ -906,17 +917,6 @@
           "timestamp": 1793852647,
           "slug": "will-wti-reach-130-in-november-2026",
           "event_slug": "what-price-will-wti-hit-in-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.5,
-          "value": 995.78,
-          "timestamp": 1793849658,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
           "result": "ongoing"
         }
       ]
@@ -1904,7 +1904,7 @@
       "stats48h": {
         "wins": 5,
         "losses": 9,
-        "totalTrades": 19,
+        "totalTrades": 18,
         "winRate": 0.35714285714285715,
         "volume": 41924.176799972076,
         "pnl": 0
@@ -2257,5 +2257,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T18:28:19.604Z"
+  "lastUpdate": "2026-11-05T18:38:08.935Z"
 }
