@@ -211,7 +211,7 @@
       "stats48h": {
         "wins": 6,
         "losses": 4,
-        "totalTrades": 30,
+        "totalTrades": 29,
         "winRate": 0.6,
         "volume": 57721.6766998,
         "pnl": 0
@@ -1398,10 +1398,10 @@
       "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
       "label": "surfandturf",
       "stats48h": {
-        "wins": 1,
+        "wins": 2,
         "losses": 10,
         "totalTrades": 50,
-        "winRate": 0.09090909090909091,
+        "winRate": 0.16666666666666666,
         "volume": 49855.672837644684,
         "pnl": 0
       },
@@ -1536,7 +1536,7 @@
           "timestamp": 1793753025,
           "slug": "cfb-ohio-akron-2026-11-03-spread-away-6pt5",
           "event_slug": "cfb-ohio-akron-2026-11-03",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will the Democrats win the Michigan Senate race in 2026?",
@@ -1581,10 +1581,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 3610.411070011251,
+        "volume": 3600.561270011251,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the Democratic Party win the NY-17 House seat?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.996,
+          "value": 7.4202,
+          "timestamp": 1793884843,
+          "slug": "will-the-democratic-party-win-the-ny-17-house-seat",
+          "event_slug": "ny-17-house-election-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will the Fed increase interest rates by 50+ bps after the January 2027 meeting?",
           "side": "BUY",
@@ -1735,17 +1746,6 @@
           "price": 0.838,
           "value": 30.168,
           "timestamp": 1793869021,
-          "slug": "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
-          "event_slug": "bank-of-mexico-decision-in-november",
-          "result": "ongoing"
-        },
-        {
-          "title": "Bank of Mexico decreases interest rates by 25 bps after November 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.785,
-          "value": 17.27,
-          "timestamp": 1793868724,
           "slug": "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
           "event_slug": "bank-of-mexico-decision-in-november",
           "result": "ongoing"
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T13:15:35.067Z"
+  "lastUpdate": "2026-11-05T13:23:15.966Z"
 }
