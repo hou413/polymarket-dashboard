@@ -1559,10 +1559,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2260.9618099970003,
+        "volume": 2265.532469997,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Karmine Corp win Worlds 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.01,
+          "value": 33.6,
+          "timestamp": 1793922822,
+          "slug": "will-karmine-corp-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Gen.G win Worlds 2026?",
           "side": "SELL",
@@ -1716,17 +1727,6 @@
           "slug": "spl-ett-hil-2026-11-07-draw",
           "event_slug": "spl-ett-hil-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Will the next Russia x Ukraine peace talks take place in the United States by De",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.967,
-          "value": 29.029339999999998,
-          "timestamp": 1793916850,
-          "slug": "will-the-next-russia-x-ukraine-peace-talks-take-place-in-the-united-states-by-december-31-2027",
-          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
-          "result": "ongoing"
         }
       ]
     },
@@ -1734,14 +1734,25 @@
       "address": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
       "label": "tennischamp",
       "stats48h": {
-        "wins": 13,
+        "wins": 12,
         "losses": 2,
-        "totalTrades": 16,
-        "winRate": 0.8666666666666667,
-        "volume": 200346.01132,
+        "totalTrades": 17,
+        "winRate": 0.8571428571428571,
+        "volume": 180012.05932,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jaguars vs. Ravens",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.8,
+          "value": 33144,
+          "timestamp": 1793922873,
+          "slug": "nfl-jax-bal-2026-11-06",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
           "side": "SELL",
@@ -1894,17 +1905,6 @@
           "timestamp": 1793850591,
           "slug": "atp-paul-halys-2026-11-05",
           "event_slug": "atp-paul-halys-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "76ers vs. Pistons",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.8,
-          "value": 53477.952000000005,
-          "timestamp": 1793842716,
-          "slug": "nba-phi-det-2026-11-04",
-          "event_slug": "nba-phi-det-2026-11-04",
           "result": "win"
         }
       ]
@@ -2268,5 +2268,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T23:49:50.519Z"
+  "lastUpdate": "2026-11-05T23:57:57.470Z"
 }
