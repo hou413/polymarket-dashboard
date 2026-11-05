@@ -209,14 +209,47 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 2,
-        "losses": 4,
-        "totalTrades": 33,
+        "wins": 1,
+        "losses": 2,
+        "totalTrades": 36,
         "winRate": 0.3333333333333333,
-        "volume": 37796.9012998,
+        "volume": 35139.73659980001,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Utah (-1.5)",
+          "side": "BUY",
+          "outcome": "Utah",
+          "price": 0.32,
+          "value": 392.4832,
+          "timestamp": 1793902387,
+          "slug": "nhl-utah-mon-2026-11-05-spread-away-1pt5",
+          "event_slug": "nhl-utah-mon-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Utah vs. Canadiens",
+          "side": "BUY",
+          "outcome": "Utah",
+          "price": 0.53,
+          "value": 5766.453,
+          "timestamp": 1793902248,
+          "slug": "nhl-utah-mon-2026-11-05",
+          "event_slug": "nhl-utah-mon-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Canucks vs. Jets: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.29,
+          "value": 93.38,
+          "timestamp": 1793901955,
+          "slug": "nhl-van-wpg-2026-11-05-total-7pt5",
+          "event_slug": "nhl-van-wpg-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Blackhawks vs. Lightning",
           "side": "BUY",
@@ -348,39 +381,6 @@
           "slug": "nhl-col-cbj-2026-11-03-total-5pt5",
           "event_slug": "nhl-col-cbj-2026-11-03",
           "result": "win"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.6,
-          "value": 6000,
-          "timestamp": 1793748394,
-          "slug": "nhl-col-cbj-2026-11-03-total-5pt5",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.31,
-          "value": 2329.1819,
-          "timestamp": 1793739069,
-          "slug": "nhl-las-pit-2026-11-03-spread-home-1pt5",
-          "event_slug": "nhl-las-pit-2026-11-03",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.3,
-          "value": 580.299,
-          "timestamp": 1793735755,
-          "slug": "nhl-las-pit-2026-11-03-spread-home-1pt5",
-          "event_slug": "nhl-las-pit-2026-11-03",
-          "result": "loss"
         }
       ]
     },
@@ -1603,10 +1603,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 5600.002930031399,
+        "volume": 2303.2023299983994,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.42,
+          "value": 4.242,
+          "timestamp": 1793902305,
+          "slug": "will-lee-shu-chuan-win-the-next-new-taipei-mayor-election-20260813125857201",
+          "event_slug": "new-taipei-mayor-election-winner-20260813125857200",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gideon Sa’ar be the next Prime Minister of Israel?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.017,
+          "timestamp": 1793902303,
+          "slug": "will-gideon-saar-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
         {
           "title": "Will Carlos Cuerpo be the next Prime Minister of Spain?",
           "side": "SELL",
@@ -1748,28 +1770,6 @@
           "timestamp": 1793895291,
           "slug": "will-the-next-russia-x-ukraine-peace-talks-take-place-in-switzerland-by-december-31-2027",
           "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.7462305585,
-          "value": 1416.345600033,
-          "timestamp": 1793895249,
-          "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Microsoft be the largest company in the world by market cap on December 31?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.993,
-          "value": 1884.714,
-          "timestamp": 1793895249,
-          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-          "event_slug": "largest-company-end-of-december-2026",
           "result": "ongoing"
         }
       ]
@@ -2257,5 +2257,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-05T18:10:59.783Z"
+  "lastUpdate": "2026-11-05T18:20:47.857Z"
 }
