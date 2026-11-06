@@ -390,9 +390,9 @@
       "stats48h": {
         "wins": 4,
         "losses": 5,
-        "totalTrades": 11,
+        "totalTrades": 10,
         "winRate": 0.4444444444444444,
-        "volume": 113597.55983992378,
+        "volume": 112446.32780000001,
         "pnl": 0
       },
       "recentTrades": [
@@ -503,17 +503,6 @@
           "value": 16.8,
           "timestamp": 1793668011,
           "slug": "us-x-iran-ceasefire-continues-through-november-2",
-          "event_slug": "us-iran-ceasefire-continues-throughptptpt",
-          "result": "ongoing"
-        },
-        {
-          "title": "US x Iran ceasefire continues through October 31?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.5496610263,
-          "value": 1151.2320399237722,
-          "timestamp": 1793667934,
-          "slug": "us-x-iran-ceasefire-continues-through-october-31-20260917",
           "event_slug": "us-iran-ceasefire-continues-throughptptpt",
           "result": "ongoing"
         }
@@ -2268,5 +2257,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T01:00:35.968Z"
+  "lastUpdate": "2026-11-06T01:08:03.952Z"
 }
