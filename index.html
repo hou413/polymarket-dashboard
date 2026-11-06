@@ -454,7 +454,7 @@
                 </div>
                 <div class="trades-list">
                     ${trader.recentTrades.length === 0 ? '<div class="no-trades">暂无交易</div>' : ''}
-                    ${trader.recentTrades.slice(0, 10).map(trade => {
+                    ${trader.recentTrades.slice(0, 50).map(trade => {
                         const slug = trade.event_slug || trade.slug || '';
                         const url = slug ? 'https://polymarket.com/event/' + slug : '#';
                         const sideClass = trade.side.toLowerCase();
