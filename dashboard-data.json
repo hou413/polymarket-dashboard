@@ -2829,10 +2829,10 @@
       "label": "surfandturf",
       "stats48h": {
         "wins": 5,
-        "losses": 40,
-        "totalTrades": 48,
-        "winRate": 0.1111111111111111,
-        "volume": 181158.15647764472,
+        "losses": 36,
+        "totalTrades": 44,
+        "winRate": 0.12195121951219512,
+        "volume": 175308.14747764473,
         "pnl": 0
       },
       "recentTrades": [
@@ -3318,50 +3318,6 @@
           "timestamp": 1793725062,
           "slug": "will-the-republicans-win-the-michigan-senate-race-in-2026",
           "event_slug": "michigan-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Republicans win the Minnesota Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.09,
-          "value": 450,
-          "timestamp": 1793722462,
-          "slug": "will-the-republicans-win-the-minnesota-senate-race-in-2026",
-          "event_slug": "minnesota-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Republicans win the Minnesota Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.09,
-          "value": 225,
-          "timestamp": 1793722441,
-          "slug": "will-the-republicans-win-the-minnesota-senate-race-in-2026",
-          "event_slug": "minnesota-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Democrats win the Minnesota Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.09,
-          "value": 225,
-          "timestamp": 1793722435,
-          "slug": "will-the-democrats-win-the-minnesota-senate-race-in-2026",
-          "event_slug": "minnesota-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Democrats win the Minnesota Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.09,
-          "value": 4950.009,
-          "timestamp": 1793722212,
-          "slug": "will-the-democrats-win-the-minnesota-senate-race-in-2026",
-          "event_slug": "minnesota-senate-election-winner",
           "result": "loss"
         }
       ]
@@ -4280,12 +4236,23 @@
       "stats48h": {
         "wins": 5,
         "losses": 6,
-        "totalTrades": 13,
+        "totalTrades": 14,
         "winRate": 0.45454545454545453,
-        "volume": 40073.073000000004,
+        "volume": 43163.253000000004,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will FC UTA Arad win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.5,
+          "value": 3090.18,
+          "timestamp": 1793982268,
+          "slug": "rou1-fua-fpp-2026-11-06-fua",
+          "event_slug": "rou1-fua-fpp-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Spurs (-16.5)",
           "side": "BUY",
@@ -5565,13 +5532,564 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 0,
+        "totalTrades": 500,
         "winRate": 0,
-        "volume": 0,
+        "volume": 4410.37839799856,
         "pnl": 0
       },
-      "recentTrades": []
+      "recentTrades": [
+        {
+          "title": "Taranto: Kilian Feldbausch vs Sumit Nagal",
+          "side": "BUY",
+          "outcome": "Kilian Feldbausch",
+          "price": 0.34,
+          "value": 5.1000000000000005,
+          "timestamp": 1793982376,
+          "slug": "atp-feldbau-nagal-2026-11-06",
+          "event_slug": "atp-feldbau-nagal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "KHL: Salavat Yulaev Ufa vs. Avtomobilist Yekaterinburg",
+          "side": "BUY",
+          "outcome": "Avtomobilist Yekaterinburg",
+          "price": 0.01,
+          "value": 1.73,
+          "timestamp": 1793982058,
+          "slug": "khl-sal-avt-2026-11-06",
+          "event_slug": "khl-sal-avt-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC vs. Al Ahli Doha SC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.04,
+          "value": 4.15,
+          "timestamp": 1793981680,
+          "slug": "qat1-ara-ahl-2026-11-06-draw",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC vs. Al Ahli Doha SC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.05,
+          "value": 4.84,
+          "timestamp": 1793981677,
+          "slug": "qat1-ara-ahl-2026-11-06-draw",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.91,
+          "value": 197.47,
+          "timestamp": 1793981656,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Ahli Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.008,
+          "value": 1.17,
+          "timestamp": 1793981650,
+          "slug": "qat1-ara-ahl-2026-11-06-ahl",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.89,
+          "value": 219.83,
+          "timestamp": 1793981649,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Ahli Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.0078545455,
+          "value": 1.0800000062500001,
+          "timestamp": 1793981647,
+          "slug": "qat1-ara-ahl-2026-11-06-ahl",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.89,
+          "value": 216.27,
+          "timestamp": 1793981647,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC vs. Al Ahli Doha SC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.13,
+          "value": 2.34,
+          "timestamp": 1793981640,
+          "slug": "qat1-ara-ahl-2026-11-06-draw",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.34,
+          "value": 8.5,
+          "timestamp": 1793981635,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.22,
+          "value": 4.4,
+          "timestamp": 1793981601,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC vs. Al Ahli Doha SC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 17.22,
+          "timestamp": 1793981589,
+          "slug": "qat1-ara-ahl-2026-11-06-draw",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.75,
+          "value": 18.75,
+          "timestamp": 1793981562,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC UTA Arad vs. FC Petrolul Ploieşti: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.0289999999,
+          "value": 4.769999994551724,
+          "timestamp": 1793981553,
+          "slug": "rou1-fua-fpp-2026-11-06-total-4pt5",
+          "event_slug": "rou1-fua-fpp-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lando Norris win the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.87,
+          "value": 217.5,
+          "timestamp": 1793981526,
+          "slug": "f1-brazilian-grand-prix-winner-norris-2026-11-08",
+          "event_slug": "f1-brazilian-grand-prix-winner-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.94,
+          "value": 78.02,
+          "timestamp": 1793981526,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.77,
+          "value": 6.93,
+          "timestamp": 1793981515,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lando Norris win the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.87,
+          "value": 187.05,
+          "timestamp": 1793981503,
+          "slug": "f1-brazilian-grand-prix-winner-norris-2026-11-08",
+          "event_slug": "f1-brazilian-grand-prix-winner-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.22,
+          "value": 6.6,
+          "timestamp": 1793981416,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.77,
+          "value": 187.88,
+          "timestamp": 1793981310,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.82,
+          "value": 177.94,
+          "timestamp": 1793981290,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.82,
+          "value": 191.06,
+          "timestamp": 1793981289,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.81,
+          "value": 27.540000000000003,
+          "timestamp": 1793981280,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.81,
+          "value": 196.02,
+          "timestamp": 1793981278,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.81,
+          "value": 115.83000000000001,
+          "timestamp": 1793981275,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.81,
+          "value": 196.02,
+          "timestamp": 1793981272,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.81,
+          "value": 196.02,
+          "timestamp": 1793981271,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.81,
+          "value": 196.02,
+          "timestamp": 1793981269,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.8,
+          "value": 195.68,
+          "timestamp": 1793981268,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.88,
+          "value": 102.89840000000001,
+          "timestamp": 1793981268,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.8,
+          "value": 193.60000000000002,
+          "timestamp": 1793981257,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.8,
+          "value": 24,
+          "timestamp": 1793981256,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.22,
+          "value": 5.94,
+          "timestamp": 1793981248,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will \"Godzilla Minus Zero\" score at least 92 on the Rotten Tomatoes Tomatometer?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.1197585513,
+          "value": 14.879999999025,
+          "timestamp": 1793981227,
+          "slug": "will-godzilla-minus-zero-score-at-least-92-on-the-rotten-tomatoes-tomatometer-20261109",
+          "event_slug": "godzilla-minus-zero-rotten-tomatoes-score-20261109",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.005,
+          "value": 1.18,
+          "timestamp": 1793981203,
+          "slug": "qat1-ara-ahl-2026-11-06-total-5pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.01,
+          "value": 1.1,
+          "timestamp": 1793981169,
+          "slug": "qat1-ara-ahl-2026-11-06-total-5pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.25,
+          "value": 60.99,
+          "timestamp": 1793981154,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Al Arabi Doha SC vs. Al Ahli Doha SC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.25,
+          "value": 60.99,
+          "timestamp": 1793981152,
+          "slug": "qat1-ara-ahl-2026-11-06-total-4pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
+          "side": "BUY",
+          "outcome": "Scarlett Fagan",
+          "price": 0.31,
+          "value": 479.26,
+          "timestamp": 1793981106,
+          "slug": "itf-tilbue1-fagan1-2026-11-06",
+          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
+          "side": "BUY",
+          "outcome": "Scarlett Fagan",
+          "price": 0.31,
+          "value": 66.34,
+          "timestamp": 1793981098,
+          "slug": "itf-tilbue1-fagan1-2026-11-06",
+          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
+          "side": "BUY",
+          "outcome": "Scarlett Fagan",
+          "price": 0.31,
+          "value": 66.34,
+          "timestamp": 1793981097,
+          "slug": "itf-tilbue1-fagan1-2026-11-06",
+          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
+          "side": "BUY",
+          "outcome": "Scarlett Fagan",
+          "price": 0.31,
+          "value": 66.34,
+          "timestamp": 1793981095,
+          "slug": "itf-tilbue1-fagan1-2026-11-06",
+          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
+          "side": "BUY",
+          "outcome": "Scarlett Fagan",
+          "price": 0.31,
+          "value": 31,
+          "timestamp": 1793981094,
+          "slug": "itf-tilbue1-fagan1-2026-11-06",
+          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
+          "side": "BUY",
+          "outcome": "Scarlett Fagan",
+          "price": 0.31,
+          "value": 31,
+          "timestamp": 1793981092,
+          "slug": "itf-tilbue1-fagan1-2026-11-06",
+          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bengaluru FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.9382233555,
+          "value": 4.699997999783163,
+          "timestamp": 1793980485,
+          "slug": "isp-goa-ben-2026-11-06-ben",
+          "event_slug": "isp-goa-ben-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bengaluru FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.93,
+          "value": 42.78,
+          "timestamp": 1793980480,
+          "slug": "isp-goa-ben-2026-11-06-ben",
+          "event_slug": "isp-goa-ben-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bengaluru FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.9299999852,
+          "value": 33.36999999895053,
+          "timestamp": 1793980477,
+          "slug": "isp-goa-ben-2026-11-06-ben",
+          "event_slug": "isp-goa-ben-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bengaluru FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.93,
+          "value": 17.67,
+          "timestamp": 1793980476,
+          "slug": "isp-goa-ben-2026-11-06-ben",
+          "event_slug": "isp-goa-ben-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bengaluru FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.93,
+          "value": 222.27,
+          "timestamp": 1793980474,
+          "slug": "isp-goa-ben-2026-11-06-ben",
+          "event_slug": "isp-goa-ben-2026-11-06",
+          "result": "ongoing"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-06T16:14:07.846Z"
+  "lastUpdate": "2026-11-06T16:31:21.583Z"
 }
