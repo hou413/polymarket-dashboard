@@ -4944,14 +4944,25 @@
       "address": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
       "label": "takeormake",
       "stats48h": {
-        "wins": 28,
+        "wins": 27,
         "losses": 22,
         "totalTrades": 500,
-        "winRate": 0.56,
-        "volume": 6753.0376400735395,
+        "winRate": 0.5510204081632653,
+        "volume": 6734.21764007354,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Venezia FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.42,
+          "value": 9.66,
+          "timestamp": 1793964291,
+          "slug": "sea-ven-udi-2026-11-06-ven",
+          "event_slug": "sea-ven-udi-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Warriors (-20.5)",
           "side": "BUY",
@@ -5490,17 +5501,6 @@
           "slug": "nba-mia-gsw-2026-11-05",
           "event_slug": "nba-mia-gsw-2026-11-05",
           "result": "loss"
-        },
-        {
-          "title": "Heat vs. Warriors",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.89,
-          "value": 28.48,
-          "timestamp": 1793941299,
-          "slug": "nba-mia-gsw-2026-11-05",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "win"
         }
       ]
     },
@@ -5512,10 +5512,98 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 4192.132899971262,
+        "volume": 4437.87889897179,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the 10-year Treasury yield hit 5.09% in November?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.669999997,
+          "value": 53.549999000223885,
+          "timestamp": 1793964820,
+          "slug": "will-the-10-year-treasury-yield-hit-5pt09-in-november",
+          "event_slug": "how-high-will-10-year-treasury-yield-go-in-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 4.8,
+          "timestamp": 1793964730,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 1.44,
+          "timestamp": 1793964726,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.6,
+          "value": 110.196,
+          "timestamp": 1793964517,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "SELL",
+          "outcome": "USA Women",
+          "price": 0.57,
+          "value": 106.02,
+          "timestamp": 1793964441,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.58,
+          "value": 128.17999999999998,
+          "timestamp": 1793964438,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.58,
+          "value": 127.6,
+          "timestamp": 1793964408,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the match end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7,
+          "value": 59.49999999999999,
+          "timestamp": 1793963907,
+          "slug": "crint-zwea-irla-2026-11-06-draw",
+          "event_slug": "crint-zwea-irla-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Will the match end in a draw?",
           "side": "BUY",
@@ -5977,97 +6065,9 @@
           "slug": "khl-amu-ska-2026-11-06",
           "event_slug": "khl-amu-ska-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "KBO Playoff: KT Wiz vs. Samsung Lions",
-          "side": "BUY",
-          "outcome": "Samsung Lions",
-          "price": 0.8399999969,
-          "value": 21.75999999969524,
-          "timestamp": 1793961229,
-          "slug": "kbo-kt-sam-2026-11-06",
-          "event_slug": "kbo-kt-sam-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "KBO Playoff: KT Wiz vs. Samsung Lions",
-          "side": "BUY",
-          "outcome": "Samsung Lions",
-          "price": 0.82,
-          "value": 58.22,
-          "timestamp": 1793961219,
-          "slug": "kbo-kt-sam-2026-11-06",
-          "event_slug": "kbo-kt-sam-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
-          "side": "BUY",
-          "outcome": "Sydney Sixers",
-          "price": 0.8,
-          "value": 159.20000000000002,
-          "timestamp": 1793961181,
-          "slug": "cricwbbl-mes-sys-2026-11-06",
-          "event_slug": "cricwbbl-mes-sys-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.25,
-          "value": 8.24,
-          "timestamp": 1793961024,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
-          "side": "BUY",
-          "outcome": "Sydney Sixers",
-          "price": 0.85,
-          "value": 32.3,
-          "timestamp": 1793960955,
-          "slug": "cricwbbl-mes-sys-2026-11-06",
-          "event_slug": "cricwbbl-mes-sys-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
-          "side": "BUY",
-          "outcome": "Sydney Sixers",
-          "price": 0.9,
-          "value": 56.7,
-          "timestamp": 1793960820,
-          "slug": "cricwbbl-mes-sys-2026-11-06",
-          "event_slug": "cricwbbl-mes-sys-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Taranto: Maxim Mrva vs Matteo Martineau",
-          "side": "BUY",
-          "outcome": "Maxim Mrva",
-          "price": 0.24,
-          "value": 0.72,
-          "timestamp": 1793960815,
-          "slug": "atp-mrva-martin-2026-11-06",
-          "event_slug": "atp-mrva-martin-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "M15 Antalya: Mattia Nannelli vs Dragos Nicolae Madaras",
-          "side": "BUY",
-          "outcome": "Dragos Nicolae Madaras",
-          "price": 0.56,
-          "value": 8.4,
-          "timestamp": 1793960745,
-          "slug": "itf-nannel1-madara1-2026-11-06",
-          "event_slug": "itf-nannel1-madara1-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T11:20:31.386Z"
+  "lastUpdate": "2026-11-06T11:37:06.065Z"
 }
