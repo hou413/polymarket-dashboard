@@ -595,10 +595,10 @@
       "label": "chubbytoro",
       "stats48h": {
         "wins": 8,
-        "losses": 18,
-        "totalTrades": 33,
-        "winRate": 0.3076923076923077,
-        "volume": 107402.4291000745,
+        "losses": 17,
+        "totalTrades": 32,
+        "winRate": 0.32,
+        "volume": 105073.2472000745,
         "pnl": 0
       },
       "recentTrades": [
@@ -953,17 +953,6 @@
           "slug": "nhl-col-cbj-2026-11-03-total-5pt5",
           "event_slug": "nhl-col-cbj-2026-11-03",
           "result": "win"
-        },
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.31,
-          "value": 2329.1819,
-          "timestamp": 1793739069,
-          "slug": "nhl-las-pit-2026-11-03-spread-home-1pt5",
-          "event_slug": "nhl-las-pit-2026-11-03",
-          "result": "loss"
         }
       ]
     },
@@ -1188,12 +1177,23 @@
       "stats48h": {
         "wins": 2,
         "losses": 0,
-        "totalTrades": 132,
+        "totalTrades": 133,
         "winRate": 1,
-        "volume": 18119.753700115918,
+        "volume": 18104.280900155918,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "US x Iran effective ceasefire continues through November 8, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.17,
+          "value": 174.00000004,
+          "timestamp": 1793998516,
+          "slug": "us-x-iran-effective-ceasefire-continues-through-november-8-20261103",
+          "event_slug": "us-iran-effective-ceasefire-continues-throughptptpt-20261103",
+          "result": "ongoing"
+        },
         {
           "title": "Pete Hegseth out as Secretary of Defense by November 30?",
           "side": "BUY",
@@ -1731,17 +1731,6 @@
           "timestamp": 1793830662,
           "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
           "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "US announces end of Iranian blockade by November 15, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.12,
-          "value": 189.4728,
-          "timestamp": 1793826120,
-          "slug": "us-announces-end-of-iranian-blockade-by-november-15-2026",
-          "event_slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
           "result": "ongoing"
         }
       ]
@@ -3110,10 +3099,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 5641.663940024274,
+        "volume": 5631.781940024274,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 40-64 tweets from November 5 to November 7, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.003,
+          "value": 0.108,
+          "timestamp": 1793998066,
+          "slug": "elon-musk-of-tweets-november-5-november-7-2026-40-64",
+          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 40-64 tweets from November 5 to November 7, 2026?",
           "side": "BUY",
@@ -3650,17 +3650,6 @@
           "value": 9.98,
           "timestamp": 1793991468,
           "slug": "will-robert-f-kennedy-jr-be-the-next-to-leave-the-trump-cabinet-before-2027-947",
-          "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Marco Rubio be the next to leave the Trump Cabinet before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 9.99,
-          "timestamp": 1793991468,
-          "slug": "will-marco-rubio-be-the-next-to-leave-the-trump-cabinet-before-2027-457",
           "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
           "result": "ongoing"
         }
@@ -5314,10 +5303,384 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 4871.198367997365,
+        "volume": 4742.868276991474,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Derby County FC vs. Bolton Wanderers FC: Both Teams to Score",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.01,
+          "value": 2.38,
+          "timestamp": 1793998944,
+          "slug": "elc-der-bol-2026-11-06-btts",
+          "event_slug": "elc-der-bol-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Venezia FC vs. Udinese Calcio: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.8099999982,
+          "value": 22.549998999888892,
+          "timestamp": 1793998933,
+          "slug": "sea-ven-udi-2026-11-06-total-1pt5",
+          "event_slug": "sea-ven-udi-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Venezia FC vs. Udinese Calcio: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.5499999951,
+          "value": 22.569999998921816,
+          "timestamp": 1793998930,
+          "slug": "sea-ven-udi-2026-11-06-total-2pt5",
+          "event_slug": "sea-ven-udi-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Venezia FC vs. Udinese Calcio: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.81,
+          "value": 59.940000000000005,
+          "timestamp": 1793998926,
+          "slug": "sea-ven-udi-2026-11-06-total-1pt5",
+          "event_slug": "sea-ven-udi-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Venezia FC vs. Udinese Calcio: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.5399999935,
+          "value": 36.73999899775927,
+          "timestamp": 1793998921,
+          "slug": "sea-ven-udi-2026-11-06-total-2pt5",
+          "event_slug": "sea-ven-udi-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Venezia FC vs. Udinese Calcio: O/U 1.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.96,
+          "value": 24.2208,
+          "timestamp": 1793998837,
+          "slug": "sea-ven-udi-2026-11-06-total-1pt5",
+          "event_slug": "sea-ven-udi-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Alcione Milano vs. AC Lumezzane: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.45,
+          "value": 4.5,
+          "timestamp": 1793998836,
+          "slug": "serc-alc-acl-2026-11-06-total-0pt5",
+          "event_slug": "serc-alc-acl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Venezia FC vs. Udinese Calcio: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.85,
+          "value": 21.4455,
+          "timestamp": 1793998834,
+          "slug": "sea-ven-udi-2026-11-06-total-1pt5",
+          "event_slug": "sea-ven-udi-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Hamburger SV win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.03,
+          "value": 12.36,
+          "timestamp": 1793998653,
+          "slug": "bun-hsv-moe-2026-11-06-hsv",
+          "event_slug": "bun-hsv-moe-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Hamburger SV vs. Borussia Mönchengladbach: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.03,
+          "value": 6.569999999999999,
+          "timestamp": 1793998650,
+          "slug": "bun-hsv-moe-2026-11-06-total-3pt5",
+          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Dordrecht win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.96,
+          "value": 24,
+          "timestamp": 1793998645,
+          "slug": "ned2-dor-bre-2026-11-06-dor",
+          "event_slug": "ned2-dor-bre-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Dordrecht win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9541534657,
+          "value": 16.319984000352655,
+          "timestamp": 1793998641,
+          "slug": "ned2-dor-bre-2026-11-06-dor",
+          "event_slug": "ned2-dor-bre-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Venezia FC win on 2026-11-06?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.32,
+          "value": 17.28,
+          "timestamp": 1793998600,
+          "slug": "sea-ven-udi-2026-11-06-ven",
+          "event_slug": "sea-ven-udi-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Venezia FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.33,
+          "value": 18.150000000000002,
+          "timestamp": 1793998597,
+          "slug": "sea-ven-udi-2026-11-06-ven",
+          "event_slug": "sea-ven-udi-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Venezia FC vs. Udinese Calcio: O/U 0.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 0.54,
+          "timestamp": 1793998585,
+          "slug": "sea-ven-udi-2026-11-06-total-0pt5",
+          "event_slug": "sea-ven-udi-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Venezia FC vs. Udinese Calcio: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.02,
+          "value": 1.53,
+          "timestamp": 1793998584,
+          "slug": "sea-ven-udi-2026-11-06-total-0pt5",
+          "event_slug": "sea-ven-udi-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Venezia FC vs. Udinese Calcio: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.02,
+          "value": 2.0100000000000002,
+          "timestamp": 1793998582,
+          "slug": "sea-ven-udi-2026-11-06-total-0pt5",
+          "event_slug": "sea-ven-udi-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Alcione Milano vs. AC Lumezzane: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.37,
+          "value": 3.7,
+          "timestamp": 1793998572,
+          "slug": "serc-alc-acl-2026-11-06-total-0pt5",
+          "event_slug": "serc-alc-acl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Willem II Tilburg vs. PEC Zwolle: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.93,
+          "value": 132.06,
+          "timestamp": 1793998420,
+          "slug": "ere-wii-zwo-2026-11-06-total-2pt5",
+          "event_slug": "ere-wii-zwo-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Alcione Milano vs. AC Lumezzane: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.2899999962,
+          "value": 11.579999998262068,
+          "timestamp": 1793998375,
+          "slug": "serc-alc-acl-2026-11-06-total-0pt5",
+          "event_slug": "serc-alc-acl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Grenoble Foot 38 win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.91,
+          "value": 29.12,
+          "timestamp": 1793998372,
+          "slug": "fr2-gre-rei-2026-11-06-gre",
+          "event_slug": "fr2-gre-rei-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Grenoble Foot 38 vs. Stade de Reims end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.94,
+          "value": 23.5,
+          "timestamp": 1793998365,
+          "slug": "fr2-gre-rei-2026-11-06-draw",
+          "event_slug": "fr2-gre-rei-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Heracles Almelo vs. Roda JC Kerkrade: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.04,
+          "value": 7.63,
+          "timestamp": 1793998324,
+          "slug": "ned2-her-rod-2026-11-06-total-6pt5",
+          "event_slug": "ned2-her-rod-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "USL Dunkerque vs. En Avant Guingamp: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.91,
+          "value": 154.70000000000002,
+          "timestamp": 1793998290,
+          "slug": "fr2-usd-gui-2026-11-06-total-3pt5",
+          "event_slug": "fr2-usd-gui-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sevilla FC vs. Deportivo Alavés: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.01,
+          "value": 2.92,
+          "timestamp": 1793998245,
+          "slug": "lal-sev-ala-2026-11-06-first-half-total-0pt5",
+          "event_slug": "lal-sev-ala-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jong PSV Eindhoven win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.94,
+          "value": 43.239999999999995,
+          "timestamp": 1793998245,
+          "slug": "ned2-ven-psv-2026-11-06-psv",
+          "event_slug": "ned2-ven-psv-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jong PSV Eindhoven win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.94,
+          "value": 29.139999999999997,
+          "timestamp": 1793998243,
+          "slug": "ned2-ven-psv-2026-11-06-psv",
+          "event_slug": "ned2-ven-psv-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Hamburger SV vs. Borussia Mönchengladbach: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.71,
+          "value": 42.599999999999994,
+          "timestamp": 1793998216,
+          "slug": "bun-hsv-moe-2026-11-06-total-3pt5",
+          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "VVV Venlo vs. Jong PSV Eindhoven: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.87,
+          "value": 0.3741,
+          "timestamp": 1793998194,
+          "slug": "ned2-ven-psv-2026-11-06-total-2pt5",
+          "event_slug": "ned2-ven-psv-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will VVV Venlo vs. Jong PSV Eindhoven end in a draw?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.84,
+          "value": 32.76,
+          "timestamp": 1793998189,
+          "slug": "ned2-ven-psv-2026-11-06-draw",
+          "event_slug": "ned2-ven-psv-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Hamburger SV vs. Borussia Mönchengladbach: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.71,
+          "value": 29.82,
+          "timestamp": 1793998105,
+          "slug": "bun-hsv-moe-2026-11-06-total-4pt5",
+          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the match end in a draw?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.25,
+          "value": 0.1125,
+          "timestamp": 1793998095,
+          "slug": "crint-bgd-wst-2026-11-04-draw",
+          "event_slug": "crint-bgd-wst-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "Alcione Milano vs. AC Lumezzane: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.2699999992,
+          "value": 6.999999999259259,
+          "timestamp": 1793998042,
+          "slug": "serc-alc-acl-2026-11-06-total-0pt5",
+          "event_slug": "serc-alc-acl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Hamburger SV vs. Borussia Mönchengladbach: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 2.2,
+          "timestamp": 1793998035,
+          "slug": "bun-hsv-moe-2026-11-06-total-2pt5",
+          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Sevilla FC leading at halftime?",
           "side": "BUY",
@@ -5493,383 +5856,9 @@
           "slug": "lal-sev-ala-2026-11-06-first-half-total-0pt5",
           "event_slug": "lal-sev-ala-2026-11-06-more-markets",
           "result": "ongoing"
-        },
-        {
-          "title": "Toulouse FC leading at halftime?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.0699999999,
-          "value": 13.000000001428571,
-          "timestamp": 1793997219,
-          "slug": "fl1-tou-str-2026-11-06-halftime-result-home",
-          "event_slug": "fl1-tou-str-2026-11-06-halftime-result",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will RC Strasbourg Alsace win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.83,
-          "value": 17.2806,
-          "timestamp": 1793997214,
-          "slug": "fl1-tou-str-2026-11-06-str",
-          "event_slug": "fl1-tou-str-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sevilla FC vs. Deportivo Alavés: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5,
-          "value": 19.49,
-          "timestamp": 1793997214,
-          "slug": "lal-sev-ala-2026-11-06-first-half-total-0pt5",
-          "event_slug": "lal-sev-ala-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Toulouse FC vs. RC Strasbourg Alsace: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4899999877,
-          "value": 5.1899999997204045,
-          "timestamp": 1793997208,
-          "slug": "fl1-tou-str-2026-11-06-first-half-total-0pt5",
-          "event_slug": "fl1-tou-str-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Toulouse FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4,
-          "value": 11.98,
-          "timestamp": 1793997193,
-          "slug": "fl1-tou-str-2026-11-06-tou",
-          "event_slug": "fl1-tou-str-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sevilla FC vs. Deportivo Alavés: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.47,
-          "value": 12.219999999999999,
-          "timestamp": 1793997193,
-          "slug": "lal-sev-ala-2026-11-06-first-half-total-0pt5",
-          "event_slug": "lal-sev-ala-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sevilla FC vs. Deportivo Alavés: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.3899999992,
-          "value": 10.119999999241026,
-          "timestamp": 1793997189,
-          "slug": "lal-sev-ala-2026-11-06-first-half-total-0pt5",
-          "event_slug": "lal-sev-ala-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Toulouse FC win on 2026-11-06?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.52,
-          "value": 8.84,
-          "timestamp": 1793997172,
-          "slug": "fl1-tou-str-2026-11-06-tou",
-          "event_slug": "fl1-tou-str-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Toulouse FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.52,
-          "value": 34.84,
-          "timestamp": 1793997171,
-          "slug": "fl1-tou-str-2026-11-06-tou",
-          "event_slug": "fl1-tou-str-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Toulouse FC vs. RC Strasbourg Alsace: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.47,
-          "value": 5.17,
-          "timestamp": 1793997169,
-          "slug": "fl1-tou-str-2026-11-06-first-half-total-0pt5",
-          "event_slug": "fl1-tou-str-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4,
-          "value": 79.98,
-          "timestamp": 1793997147,
-          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.41,
-          "value": 81.58999999999999,
-          "timestamp": 1793997147,
-          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will RC Strasbourg Alsace win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.81,
-          "value": 35.64,
-          "timestamp": 1793997112,
-          "slug": "fl1-tou-str-2026-11-06-str",
-          "event_slug": "fl1-tou-str-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Toulouse FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.49,
-          "value": 32.83,
-          "timestamp": 1793997111,
-          "slug": "fl1-tou-str-2026-11-06-tou",
-          "event_slug": "fl1-tou-str-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will RC Strasbourg Alsace win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.82,
-          "value": 26.24,
-          "timestamp": 1793997109,
-          "slug": "fl1-tou-str-2026-11-06-str",
-          "event_slug": "fl1-tou-str-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Toulouse FC vs. RC Strasbourg Alsace: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4099773979,
-          "value": 59.8600000014757,
-          "timestamp": 1793997109,
-          "slug": "fl1-tou-str-2026-11-06-first-half-total-0pt5",
-          "event_slug": "fl1-tou-str-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will RC Strasbourg Alsace win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8299999984,
-          "value": 20.7899959999229,
-          "timestamp": 1793997106,
-          "slug": "fl1-tou-str-2026-11-06-str",
-          "event_slug": "fl1-tou-str-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Toulouse FC vs. RC Strasbourg Alsace: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4,
-          "value": 7.050000000000001,
-          "timestamp": 1793997105,
-          "slug": "fl1-tou-str-2026-11-06-first-half-total-0pt5",
-          "event_slug": "fl1-tou-str-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Toulouse FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.5299999981,
-          "value": 65.37999999561886,
-          "timestamp": 1793997103,
-          "slug": "fl1-tou-str-2026-11-06-tou",
-          "event_slug": "fl1-tou-str-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Toulouse FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.55,
-          "value": 139.15,
-          "timestamp": 1793997102,
-          "slug": "fl1-tou-str-2026-11-06-tou",
-          "event_slug": "fl1-tou-str-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Toulouse FC vs. RC Strasbourg Alsace: 1st Half O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.0209999999,
-          "value": 1.650000001142857,
-          "timestamp": 1793997100,
-          "slug": "fl1-tou-str-2026-11-06-first-half-total-1pt5",
-          "event_slug": "fl1-tou-str-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Toulouse FC vs. RC Strasbourg Alsace: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.5599999185,
-          "value": 1.6499999998660366,
-          "timestamp": 1793997100,
-          "slug": "fl1-tou-str-2026-11-06-first-half-total-0pt5",
-          "event_slug": "fl1-tou-str-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Toulouse FC vs. RC Strasbourg Alsace: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.9399999986,
-          "value": 26.59999400038299,
-          "timestamp": 1793997087,
-          "slug": "fl1-tou-str-2026-11-06-first-half-total-0pt5",
-          "event_slug": "fl1-tou-str-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Toulouse FC vs. RC Strasbourg Alsace: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.04,
-          "value": 1.1500000000000001,
-          "timestamp": 1793997072,
-          "slug": "fl1-tou-str-2026-11-06-first-half-total-0pt5",
-          "event_slug": "fl1-tou-str-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Deportivo Alavés leading at halftime?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.01,
-          "value": 2.43,
-          "timestamp": 1793997064,
-          "slug": "lal-sev-ala-2026-11-06-halftime-result-away",
-          "event_slug": "lal-sev-ala-2026-11-06-halftime-result",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Toulouse FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.56,
-          "value": 0.21840000000000004,
-          "timestamp": 1793997055,
-          "slug": "fl1-tou-str-2026-11-06-tou",
-          "event_slug": "fl1-tou-str-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Venezia FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.3,
-          "value": 10.854,
-          "timestamp": 1793997054,
-          "slug": "sea-ven-udi-2026-11-06-ven",
-          "event_slug": "sea-ven-udi-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Hammarby IF vs. IF Elfsborg: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.94,
-          "value": 28.229986,
-          "timestamp": 1793997025,
-          "slug": "swe-hif-elf-2026-11-06-total-5pt5",
-          "event_slug": "swe-hif-elf-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Standard Liege win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.19,
-          "value": 8.74,
-          "timestamp": 1793996962,
-          "slug": "bel1-sta-bev-2026-11-06-sta",
-          "event_slug": "bel1-sta-bev-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will PEC Zwolle win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.72,
-          "value": 15.389999999999999,
-          "timestamp": 1793996880,
-          "slug": "ere-wii-zwo-2026-11-06-zwo",
-          "event_slug": "ere-wii-zwo-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Willem II Tilburg win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.3282758338,
-          "value": 3.3600000003139714,
-          "timestamp": 1793996880,
-          "slug": "ere-wii-zwo-2026-11-06-wii",
-          "event_slug": "ere-wii-zwo-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Standard Liege win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.75,
-          "value": 43.449999,
-          "timestamp": 1793996857,
-          "slug": "bel1-sta-bev-2026-11-06-sta",
-          "event_slug": "bel1-sta-bev-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Standard Liege win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.79,
-          "value": 122.45,
-          "timestamp": 1793996857,
-          "slug": "bel1-sta-bev-2026-11-06-sta",
-          "event_slug": "bel1-sta-bev-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Standard Liege win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.7899999933,
-          "value": 21.079998001220268,
-          "timestamp": 1793996853,
-          "slug": "bel1-sta-bev-2026-11-06-sta",
-          "event_slug": "bel1-sta-bev-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T20:49:42.585Z"
+  "lastUpdate": "2026-11-06T21:05:26.317Z"
 }
