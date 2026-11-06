@@ -34,10 +34,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2055.9968,
+        "volume": 3301.6968,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Heat vs. Warriors: O/U 223.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.56,
+          "value": 811.72,
+          "timestamp": 1793942280,
+          "slug": "nba-mia-gsw-2026-11-05-total-223pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Heat vs. Warriors: O/U 223.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.56,
+          "value": 811.72,
+          "timestamp": 1793942280,
+          "slug": "nba-mia-gsw-2026-11-05-total-223pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Warriors (-8.5)",
           "side": "BUY",
@@ -178,28 +200,6 @@
           "value": 275.89,
           "timestamp": 1793936712,
           "slug": "nba-mia-gsw-2026-11-05-spread-home-2pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-9.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.74,
-          "value": 370,
-          "timestamp": 1793936710,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-9pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-1.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.43,
-          "value": 7.74,
-          "timestamp": 1793936709,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-1pt5",
           "event_slug": "nba-mia-gsw-2026-11-05",
           "result": "ongoing"
         }
@@ -389,10 +389,10 @@
       "label": "Netrol",
       "stats48h": {
         "wins": 3,
-        "losses": 2,
-        "totalTrades": 5,
-        "winRate": 0.6,
-        "volume": 75092.6955,
+        "losses": 1,
+        "totalTrades": 4,
+        "winRate": 0.75,
+        "volume": 72392.6955,
         "pnl": 0
       },
       "recentTrades": [
@@ -438,17 +438,6 @@
           "timestamp": 1793729352,
           "slug": "will-the-republicans-win-the-texas-governor-race-in-2026",
           "event_slug": "texas-governor-winner-2026",
-          "result": "loss"
-        },
-        {
-          "title": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, an",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.06,
-          "value": 2700,
-          "timestamp": 1793683063,
-          "slug": "2026-senate-map-r-ia-ks",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
           "result": "loss"
         }
       ]
@@ -1849,7 +1838,7 @@
       "stats48h": {
         "wins": 6,
         "losses": 9,
-        "totalTrades": 18,
+        "totalTrades": 16,
         "winRate": 0.4,
         "volume": 44095.42929997208,
         "pnl": 0
@@ -2202,5 +2191,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T05:18:53.064Z"
+  "lastUpdate": "2026-11-06T05:26:06.114Z"
 }
