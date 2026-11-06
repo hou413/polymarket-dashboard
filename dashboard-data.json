@@ -34,10 +34,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 3301.6968,
+        "volume": 3201.5068,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Warriors (-9.5)",
+          "side": "SELL",
+          "outcome": "Heat",
+          "price": 0.18,
+          "value": 81.09,
+          "timestamp": 1793942854,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-9pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Warriors (-9.5)",
+          "side": "SELL",
+          "outcome": "Heat",
+          "price": 0.18,
+          "value": 98.91,
+          "timestamp": 1793942854,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-9pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Heat vs. Warriors: O/U 223.5",
           "side": "BUY",
@@ -178,28 +200,6 @@
           "value": 6.84,
           "timestamp": 1793939698,
           "slug": "nba-mia-gsw-2026-11-05-spread-home-1pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-4.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.43,
-          "value": 4.3,
-          "timestamp": 1793938354,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-4pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-2.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.47,
-          "value": 275.89,
-          "timestamp": 1793936712,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-2pt5",
           "event_slug": "nba-mia-gsw-2026-11-05",
           "result": "ongoing"
         }
@@ -1482,10 +1482,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 303.02353999443403,
+        "volume": 307.801539992834,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.0268076923,
+          "value": 5.5759999984,
+          "timestamp": 1793942646,
+          "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
+          "event_slug": "alaska-senate-election-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 280-299 tweets from October 30 to November 6, 2026?",
           "side": "SELL",
@@ -1638,17 +1649,6 @@
           "timestamp": 1793935864,
           "slug": "tom-francis-announced-as-next-james-bond",
           "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.006,
-          "value": 0.798,
-          "timestamp": 1793935408,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
         }
       ]
@@ -1838,7 +1838,7 @@
       "stats48h": {
         "wins": 6,
         "losses": 9,
-        "totalTrades": 16,
+        "totalTrades": 15,
         "winRate": 0.4,
         "volume": 44095.42929997208,
         "pnl": 0
@@ -2191,5 +2191,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T05:26:06.114Z"
+  "lastUpdate": "2026-11-06T05:34:47.717Z"
 }
