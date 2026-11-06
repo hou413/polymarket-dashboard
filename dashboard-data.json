@@ -1504,10 +1504,43 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1029.2120199862343,
+        "volume": 303.02353999443403,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 280-299 tweets from October 30 to November 6, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.752,
+          "value": 4.95568,
+          "timestamp": 1793941360,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-280-299",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO d",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.05,
+          "value": 0.263,
+          "timestamp": 1793941294,
+          "slug": "will-anthropics-market-cap-be-between-2pt25t-and-2pt5t-at-market-close-on-ipo-day",
+          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 280-299 tweets from October 30 to November 6, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.751,
+          "value": 4.34829,
+          "timestamp": 1793941291,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-280-299",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
           "side": "SELL",
@@ -1637,39 +1670,6 @@
           "value": 0.798,
           "timestamp": 1793935408,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9492494361,
-          "value": 252.50035000260002,
-          "timestamp": 1793935249,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9736605263,
-          "value": 258.9936999958,
-          "timestamp": 1793935249,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 300-319 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8430879699,
-          "value": 224.2613999934,
-          "timestamp": 1793935249,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-300-319",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
         }
@@ -2213,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T05:02:56.661Z"
+  "lastUpdate": "2026-11-06T05:11:38.405Z"
 }
