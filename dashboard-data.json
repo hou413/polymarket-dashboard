@@ -34,10 +34,43 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 5041.37560023295,
+        "volume": 5194.15910023765,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Suns (-7.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.32,
+          "value": 79.36,
+          "timestamp": 1793931880,
+          "slug": "nba-orl-phx-2026-11-05-spread-home-7pt5",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-10.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.4605956113,
+          "value": 146.9300000047,
+          "timestamp": 1793931508,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-10pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-3.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.71,
+          "value": 13.489999999999998,
+          "timestamp": 1793931426,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-3pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Jaguars vs. Ravens: O/U 38.5",
           "side": "BUY",
@@ -167,39 +200,6 @@
           "value": 3.9000000000000004,
           "timestamp": 1793931259,
           "slug": "nfl-jax-bal-2026-11-06-total-34pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 34.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.38,
-          "value": 7.6,
-          "timestamp": 1793931247,
-          "slug": "nfl-jax-bal-2026-11-06-total-34pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-14.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.35,
-          "value": 69.9965,
-          "timestamp": 1793930890,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-14pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 40.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.47,
-          "value": 9.399999999999999,
-          "timestamp": 1793930686,
-          "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
           "result": "ongoing"
         }
@@ -2070,14 +2070,36 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 3,
+        "wins": 2,
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 34308.812600102916,
+        "volume": 25039.567860200383,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Carlos Alcaraz",
+          "price": 0.73,
+          "value": 9.6944,
+          "timestamp": 1793931910,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Carlos Alcaraz",
+          "price": 0.73,
+          "value": 3319.6896,
+          "timestamp": 1793931871,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "New Hampshire Wildcats vs. Rider Broncs",
           "side": "BUY",
@@ -2220,31 +2242,9 @@
           "slug": "nba-sas-sac-2026-11-06",
           "event_slug": "nba-sas-sac-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.8853947935,
-          "value": 1869.6084999025352,
-          "timestamp": 1793919541,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Juventus FC win on 2026-11-05?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.999,
-          "value": 10729.02024,
-          "timestamp": 1793919505,
-          "slug": "uel-az-juv-2026-11-05-juv",
-          "event_slug": "uel-az-juv-2026-11-05",
-          "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T02:19:04.516Z"
+  "lastUpdate": "2026-11-06T02:27:49.067Z"
 }
