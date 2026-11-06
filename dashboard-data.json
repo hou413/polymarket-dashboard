@@ -2687,12 +2687,23 @@
       "stats48h": {
         "wins": 3,
         "losses": 24,
-        "totalTrades": 31,
+        "totalTrades": 32,
         "winRate": 0.1111111111111111,
-        "volume": 132490.4444776447,
+        "volume": 138277.74247764467,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Gen.G win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.47,
+          "value": 5787.298,
+          "timestamp": 1794005299,
+          "slug": "will-genptg-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs",
           "side": "BUY",
@@ -3044,10 +3055,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 5319.7035100221865,
+        "volume": 5268.072620022186,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 400-419 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.009,
+          "value": 0.21609,
+          "timestamp": 1794005802,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-400-419",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 460-479 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.04802000000000001,
+          "timestamp": 1794005382,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-460-479",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 320-339 tweets from November 3 to November 10, 2026?",
           "side": "SELL",
@@ -3573,28 +3606,6 @@
           "value": 60.324289997468,
           "timestamp": 1793993008,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-140-164",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 65-89 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.5,
-          "value": 12.615,
-          "timestamp": 1793993007,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-65-89",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 40-64 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.982,
-          "value": 39.28,
-          "timestamp": 1793993007,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-40-64",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
           "result": "ongoing"
         }
@@ -5248,10 +5259,43 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3396.0362599971054,
+        "volume": 3348.256259995802,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will CD Riestra win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.05,
+          "value": 2.04,
+          "timestamp": 1794006223,
+          "slug": "arg-ind-rie-2026-11-06-rie",
+          "event_slug": "arg-ind-rie-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Cali: Alice Tubello vs Bianca Andreescu",
+          "side": "BUY",
+          "outcome": "Alice Tubello",
+          "price": 0.05,
+          "value": 2.99,
+          "timestamp": 1794006169,
+          "slug": "wta-tubello-andrees-2026-11-06",
+          "event_slug": "wta-tubello-andrees-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Cali: Alice Tubello vs Bianca Andreescu",
+          "side": "BUY",
+          "outcome": "Alice Tubello",
+          "price": 0.05,
+          "value": 7.940000000000001,
+          "timestamp": 1794005872,
+          "slug": "wta-tubello-andrees-2026-11-06",
+          "event_slug": "wta-tubello-andrees-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "CA Independiente vs. CD Riestra: O/U 4.5",
           "side": "BUY",
@@ -5768,42 +5812,9 @@
           "slug": "arg-uni-vel-2026-11-06-vel",
           "event_slug": "arg-uni-vel-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Will CA Unión vs. CA Vélez Sarsfield end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8399999977,
-          "value": 43.35000000130357,
-          "timestamp": 1794003981,
-          "slug": "arg-uni-vel-2026-11-06-draw",
-          "event_slug": "arg-uni-vel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Vélez Sarsfield win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.1,
-          "value": 7.5,
-          "timestamp": 1794003981,
-          "slug": "arg-uni-vel-2026-11-06-vel",
-          "event_slug": "arg-uni-vel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Vélez Sarsfield win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9,
-          "value": 9.9,
-          "timestamp": 1794003966,
-          "slug": "arg-uni-vel-2026-11-06-vel",
-          "event_slug": "arg-uni-vel-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T22:54:42.910Z"
+  "lastUpdate": "2026-11-06T23:08:35.357Z"
 }
