@@ -596,12 +596,23 @@
       "stats48h": {
         "wins": 16,
         "losses": 21,
-        "totalTrades": 37,
+        "totalTrades": 38,
         "winRate": 0.43243243243243246,
-        "volume": 125431.85949974722,
+        "volume": 127352.43969974722,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Ducks vs. Flames",
+          "side": "BUY",
+          "outcome": "Flames",
+          "price": 0.54,
+          "value": 1920.5802,
+          "timestamp": 1793959041,
+          "slug": "nhl-ana-cal-2026-11-06",
+          "event_slug": "",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Penguins (-1.5)",
           "side": "BUY",
@@ -3370,14 +3381,47 @@
       "address": "0x511f9c771449162349795d17becf8b37031acbe1",
       "label": "ethanaz",
       "stats48h": {
-        "wins": 2,
+        "wins": 1,
         "losses": 1,
         "totalTrades": 500,
-        "winRate": 0.6666666666666666,
-        "volume": 8007.629600024131,
+        "winRate": 0.5,
+        "volume": 8153.954480021531,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Microsoft be the largest company in the world by market cap on November 30,",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.19556,
+          "timestamp": 1793958691,
+          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
+          "event_slug": "largest-company-end-of-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Alphabet be the largest company in the world by market cap on November 30, ",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.49878,
+          "timestamp": 1793958691,
+          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
+          "event_slug": "largest-company-end-of-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Microsoft be the largest company in the world by market cap on November 30,",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 400.599,
+          "timestamp": 1793958529,
+          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
+          "event_slug": "largest-company-end-of-november-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
           "side": "BUY",
@@ -3894,39 +3938,6 @@
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Tom Francis announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.013,
-          "value": 1.67011,
-          "timestamp": 1793935864,
-          "slug": "tom-francis-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.006,
-          "value": 0.798,
-          "timestamp": 1793935408,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9492494361,
-          "value": 252.50035000260002,
-          "timestamp": 1793935249,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "win"
         }
       ]
     },
@@ -4886,5 +4897,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T09:51:37.974Z"
+  "lastUpdate": "2026-11-06T10:02:17.225Z"
 }
