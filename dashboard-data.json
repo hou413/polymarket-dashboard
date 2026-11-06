@@ -30,14 +30,25 @@
       "address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
       "label": "sports_whale_1",
       "stats48h": {
-        "wins": 8,
+        "wins": 7,
         "losses": 1,
         "totalTrades": 50,
-        "winRate": 0.8888888888888888,
-        "volume": 8068.082400013001,
+        "winRate": 0.875,
+        "volume": 7619.922400013001,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Warriors (-1.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.38,
+          "value": 6.84,
+          "timestamp": 1793939698,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-1pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Warriors (-4.5)",
           "side": "BUY",
@@ -189,17 +200,6 @@
           "value": 240,
           "timestamp": 1793936172,
           "slug": "nfl-jax-bal-2026-11-06-total-32pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Jaguars (-16.5)",
-          "side": "SELL",
-          "outcome": "Jaguars",
-          "price": 0.91,
-          "value": 455,
-          "timestamp": 1793936125,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-16pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
           "result": "win"
         }
@@ -1176,9 +1176,9 @@
       "label": "ch27er",
       "stats48h": {
         "wins": 1,
-        "losses": 11,
+        "losses": 13,
         "totalTrades": 24,
-        "winRate": 0.08333333333333333,
+        "winRate": 0.07142857142857142,
         "volume": 578371.7720000001,
         "pnl": 0
       },
@@ -1203,7 +1203,7 @@
           "timestamp": 1793923656,
           "slug": "nfl-jax-bal-2026-11-06-spread-away-9pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Jaguars vs. Ravens: O/U 42.5",
@@ -1269,7 +1269,7 @@
           "timestamp": 1793913621,
           "slug": "nfl-jax-bal-2026-11-06-spread-away-9pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Pelicans (-5.5)",
@@ -1537,10 +1537,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1058.6587999918008,
+        "volume": 1059.9032799918007,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.045,
+          "value": 1.3729500000000001,
+          "timestamp": 1793939325,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will New Zealand First Party win the second-most seats in the New Zealand House ",
           "side": "SELL",
@@ -1692,17 +1703,6 @@
           "value": 0.12847,
           "timestamp": 1793930568,
           "slug": "harris-dickinson-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Richard Madden announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.12847,
-          "timestamp": 1793930568,
-          "slug": "richard-madden-announced-as-next-james-bond",
           "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
         }
@@ -2246,5 +2246,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T04:29:24.045Z"
+  "lastUpdate": "2026-11-06T04:38:57.616Z"
 }
