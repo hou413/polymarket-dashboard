@@ -3374,10 +3374,32 @@
         "losses": 1,
         "totalTrades": 500,
         "winRate": 0.6666666666666666,
-        "volume": 6449.681000013531,
+        "volume": 8007.629600024131,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.277960396,
+          "value": 1.4036999998,
+          "timestamp": 1793957899,
+          "slug": "will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
+          "event_slug": "taipei-mayor-election-winner-20260813125857100",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.28,
+          "value": 2039.8000000000002,
+          "timestamp": 1793957895,
+          "slug": "will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
+          "event_slug": "taipei-mayor-election-winner-20260813125857100",
+          "result": "ongoing"
+        },
         {
           "title": "Bank of England decreases interest rates by 25 bps after December 2026 meeting?",
           "side": "SELL",
@@ -3905,28 +3927,6 @@
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "win"
-        },
-        {
-          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9736605263,
-          "value": 258.9936999958,
-          "timestamp": 1793935249,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 300-319 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8430879699,
-          "value": 224.2613999934,
-          "timestamp": 1793935249,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-300-319",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -4886,5 +4886,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T09:42:41.286Z"
+  "lastUpdate": "2026-11-06T09:51:37.974Z"
 }
