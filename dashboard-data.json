@@ -2863,7 +2863,7 @@
       "stats48h": {
         "wins": 5,
         "losses": 42,
-        "totalTrades": 61,
+        "totalTrades": 60,
         "winRate": 0.10638297872340426,
         "volume": 184645.77847764472,
         "pnl": 0
@@ -3429,10 +3429,21 @@
         "losses": 2,
         "totalTrades": 500,
         "winRate": 0.7142857142857143,
-        "volume": 9765.14605002153,
+        "volume": 9721.85133002153,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the Republican Party hold between 175 and 179 House seats after the 2026 mi",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.289,
+          "value": 28.9,
+          "timestamp": 1793965737,
+          "slug": "will-the-republicans-hold-between-175-and-179-house-seats-after-the-2026-midterm-elections",
+          "event_slug": "republican-house-seats-after-the-2026-midterm-elections-lower-brackets",
+          "result": "ongoing"
+        },
         {
           "title": "Will Brian Schatz be the next Senate Majority Leader?",
           "side": "BUY",
@@ -3971,17 +3982,6 @@
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-280-299",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "win"
-        },
-        {
-          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.976,
-          "value": 72.19472,
-          "timestamp": 1793940415,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -4247,12 +4247,23 @@
       "stats48h": {
         "wins": 5,
         "losses": 6,
-        "totalTrades": 11,
+        "totalTrades": 12,
         "winRate": 0.45454545454545453,
-        "volume": 40028.573000000004,
+        "volume": 40070.573000000004,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "76ers vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.42,
+          "value": 42,
+          "timestamp": 1793966202,
+          "slug": "nba-phi-cle-2026-11-06",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Magic vs. Suns: O/U 222.5",
           "side": "BUY",
@@ -5508,14 +5519,80 @@
       "address": "0xc785252b25901a591e9d962e09f4342468444ef2",
       "label": "dips.",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 1,
+        "losses": 1,
         "totalTrades": 500,
-        "winRate": 0,
-        "volume": 4478.231298971791,
+        "winRate": 0.5,
+        "volume": 4198.371298971791,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 2.16,
+          "timestamp": 1793966610,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Anyang vs. Seoul Knights",
+          "side": "BUY",
+          "outcome": "Seoul Knights",
+          "price": 0.01,
+          "value": 2.38,
+          "timestamp": 1793966589,
+          "slug": "bkkbl-any-seo-2026-11-06",
+          "event_slug": "bkkbl-any-seo-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Anyang vs. Seoul Knights",
+          "side": "BUY",
+          "outcome": "Seoul Knights",
+          "price": 0.01,
+          "value": 1.07,
+          "timestamp": 1793966587,
+          "slug": "bkkbl-any-seo-2026-11-06",
+          "event_slug": "bkkbl-any-seo-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Anyang vs. Seoul Knights",
+          "side": "BUY",
+          "outcome": "Seoul Knights",
+          "price": 0.02,
+          "value": 3.77,
+          "timestamp": 1793966544,
+          "slug": "bkkbl-any-seo-2026-11-06",
+          "event_slug": "bkkbl-any-seo-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 4.8,
+          "timestamp": 1793966304,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 1.92,
+          "timestamp": 1793966304,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
         {
           "title": "KHL: Admiral Vladivostok vs. Barys Astana",
           "side": "BUY",
@@ -5767,7 +5844,7 @@
           "timestamp": 1793963403,
           "slug": "atp-doubles-chanrai-donspol-2026-11-06",
           "event_slug": "atp-doubles-chanrai-donspol-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Taipei (Doubles): Chandrasekar/Rai vs Donski/Poljak",
@@ -5778,7 +5855,7 @@
           "timestamp": 1793963337,
           "slug": "atp-doubles-chanrai-donspol-2026-11-06",
           "event_slug": "atp-doubles-chanrai-donspol-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
@@ -5999,75 +6076,9 @@
           "slug": "khl-adm-bar-2026-11-06",
           "event_slug": "khl-adm-bar-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.24,
-          "value": 54.239999999999995,
-          "timestamp": 1793962314,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "W50 Heraklion: Angela Fita Boluda vs Alisa Oktiabreva",
-          "side": "BUY",
-          "outcome": "Angela Fita Boluda",
-          "price": 0.06,
-          "value": 86.34,
-          "timestamp": 1793962227,
-          "slug": "itf-boluda1-oktiab1-2026-11-06",
-          "event_slug": "itf-boluda1-oktiab1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W50 Heraklion: Angela Fita Boluda vs Alisa Oktiabreva",
-          "side": "BUY",
-          "outcome": "Angela Fita Boluda",
-          "price": 0.06,
-          "value": 86.34,
-          "timestamp": 1793962225,
-          "slug": "itf-boluda1-oktiab1-2026-11-06",
-          "event_slug": "itf-boluda1-oktiab1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
-          "side": "BUY",
-          "outcome": "Melbourne Stars",
-          "price": 0.28,
-          "value": 56.84,
-          "timestamp": 1793961796,
-          "slug": "cricwbbl-mes-sys-2026-11-06",
-          "event_slug": "cricwbbl-mes-sys-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
-          "side": "BUY",
-          "outcome": "Melbourne Stars",
-          "price": 0.28,
-          "value": 3.08,
-          "timestamp": 1793961795,
-          "slug": "cricwbbl-mes-sys-2026-11-06",
-          "event_slug": "cricwbbl-mes-sys-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.24,
-          "value": 9.12,
-          "timestamp": 1793961685,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T11:53:44.717Z"
+  "lastUpdate": "2026-11-06T12:09:46.845Z"
 }
