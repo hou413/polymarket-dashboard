@@ -34,10 +34,65 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 8142.803200000001,
+        "volume": 6733.4692000000005,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Jaguars (-13.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.49,
+          "value": 1077.7549999999999,
+          "timestamp": 1793928475,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-13pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-13.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.49,
+          "value": 1077.7549999999999,
+          "timestamp": 1793928475,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-13pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-6.5)",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.27,
+          "value": 270,
+          "timestamp": 1793928445,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-6pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-19.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.3,
+          "value": 0.534,
+          "timestamp": 1793928142,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-19pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-20.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.27,
+          "value": 5.67,
+          "timestamp": 1793928142,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-20pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Jaguars vs. Ravens: O/U 42.5",
           "side": "BUY",
@@ -146,61 +201,6 @@
           "timestamp": 1793927823,
           "slug": "nfl-jax-bal-2026-11-06-total-38pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-6.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.39,
-          "value": 1025.622,
-          "timestamp": 1793927806,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-6pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-3.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.31,
-          "value": 310,
-          "timestamp": 1793927806,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-3pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-3.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.31,
-          "value": 930,
-          "timestamp": 1793927736,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-3pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-10.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.42,
-          "value": 1406.79,
-          "timestamp": 1793927704,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-10pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Prudential Hong Kong Tennis Open: Zeynep Sonmez vs Claire Liu",
-          "side": "BUY",
-          "outcome": "Zeynep Sonmez",
-          "price": 0.47,
-          "value": 168.636,
-          "timestamp": 1793918533,
-          "slug": "wta-sonmez-liu-2026-11-06",
-          "event_slug": "wta-sonmez-liu-2026-11-06",
           "result": "ongoing"
         }
       ]
@@ -502,9 +502,9 @@
       "label": "VeryLucky888",
       "stats48h": {
         "wins": 7,
-        "losses": 6,
+        "losses": 8,
         "totalTrades": 20,
-        "winRate": 0.5384615384615384,
+        "winRate": 0.4666666666666667,
         "volume": 73956.08770002107,
         "pnl": 0
       },
@@ -518,7 +518,7 @@
           "timestamp": 1793925090,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -529,7 +529,7 @@
           "timestamp": 1793925088,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
@@ -860,7 +860,7 @@
       "label": "Thunderous-Snarl",
       "stats48h": {
         "wins": 0,
-        "losses": 0,
+        "losses": 15,
         "totalTrades": 50,
         "winRate": 0,
         "volume": 185737.73730041692,
@@ -876,7 +876,7 @@
           "timestamp": 1793924478,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -887,7 +887,7 @@
           "timestamp": 1793924431,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -898,7 +898,7 @@
           "timestamp": 1793924427,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -909,7 +909,7 @@
           "timestamp": 1793924349,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -920,7 +920,7 @@
           "timestamp": 1793924325,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -931,7 +931,7 @@
           "timestamp": 1793924308,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -942,7 +942,7 @@
           "timestamp": 1793923504,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -953,7 +953,7 @@
           "timestamp": 1793923497,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -964,7 +964,7 @@
           "timestamp": 1793923497,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -975,7 +975,7 @@
           "timestamp": 1793923488,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -986,7 +986,7 @@
           "timestamp": 1793923470,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -997,7 +997,7 @@
           "timestamp": 1793923320,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -1008,7 +1008,7 @@
           "timestamp": 1793923311,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -1019,7 +1019,7 @@
           "timestamp": 1793923308,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -1030,7 +1030,7 @@
           "timestamp": 1793923281,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "loss"
         }
       ]
     },
@@ -2070,14 +2070,25 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 4,
+        "wins": 3,
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 33404.022430234705,
+        "volume": 34673.217000102915,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "New Hampshire Wildcats vs. Rider Broncs",
+          "side": "BUY",
+          "outcome": "New Hampshire Wildcats",
+          "price": 0.8283404748,
+          "value": 2745.087199868208,
+          "timestamp": 1793928445,
+          "slug": "cbb-nhamp-rider-2026-11-05",
+          "event_slug": "cbb-nhamp-rider-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Heat vs. Warriors",
           "side": "BUY",
@@ -2231,20 +2242,9 @@
           "slug": "will-javokhir-sindarov-win-the-2026-world-chess-championship",
           "event_slug": "2026-world-chess-championship-winner",
           "result": "ongoing"
-        },
-        {
-          "title": "Olimpia Milano vs. Valencia",
-          "side": "SELL",
-          "outcome": "Valencia",
-          "price": 0.999,
-          "value": 1475.8926299999998,
-          "timestamp": 1793919247,
-          "slug": "euroleague-milano-valencia-2026-11-05",
-          "event_slug": "euroleague-milano-valencia-2026-11-05",
-          "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T01:22:46.327Z"
+  "lastUpdate": "2026-11-06T01:31:37.321Z"
 }
