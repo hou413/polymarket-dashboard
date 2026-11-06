@@ -3425,14 +3425,36 @@
       "address": "0x511f9c771449162349795d17becf8b37031acbe1",
       "label": "ethanaz",
       "stats48h": {
-        "wins": 2,
-        "losses": 3,
+        "wins": 5,
+        "losses": 2,
         "totalTrades": 500,
-        "winRate": 0.4,
-        "volume": 9755.27348002153,
+        "winRate": 0.7142857142857143,
+        "volume": 9765.14605002153,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Brian Schatz be the next Senate Majority Leader?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.942,
+          "value": 9.42,
+          "timestamp": 1793964772,
+          "slug": "will-brian-schatz-be-the-next-senate-majority-leader",
+          "event_slug": "next-senate-majority-leader-485",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chuck Schumer be the next Senate Majority Leader?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.19,
+          "value": 1.9,
+          "timestamp": 1793964771,
+          "slug": "will-chuck-schumer-be-the-next-senate-majority-leader",
+          "event_slug": "next-senate-majority-leader-485",
+          "result": "ongoing"
+        },
         {
           "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
           "side": "BUY",
@@ -3706,7 +3728,7 @@
           "timestamp": 1793944021,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-0-39",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 115-139 tweets from November 5 to November 7, 2026?",
@@ -3761,7 +3783,7 @@
           "timestamp": 1793943972,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-0-39",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 90-114 tweets from November 5 to November 7, 2026?",
@@ -3783,7 +3805,7 @@
           "timestamp": 1793943886,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-0-39",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 190-214 tweets from November 5 to November 7, 2026?",
@@ -3959,28 +3981,6 @@
           "timestamp": 1793940415,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.045,
-          "value": 1.3729500000000001,
-          "timestamp": 1793939325,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "loss"
-        },
-        {
-          "title": "Will New Zealand First Party win the second-most seats in the New Zealand House ",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.07448,
-          "timestamp": 1793938527,
-          "slug": "will-new-zealand-first-party-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-election-2nd-place-393",
           "result": "ongoing"
         }
       ]
@@ -5512,10 +5512,65 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 4437.87889897179,
+        "volume": 4478.231298971791,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "KHL: Admiral Vladivostok vs. Barys Astana",
+          "side": "BUY",
+          "outcome": "Barys Astana",
+          "price": 0.01,
+          "value": 1.35,
+          "timestamp": 1793965795,
+          "slug": "khl-adm-bar-2026-11-06",
+          "event_slug": "khl-adm-bar-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Levanga Hokkaido vs. Akita Northern Happinets",
+          "side": "BUY",
+          "outcome": "Levanga Hokkaido",
+          "price": 0.8,
+          "value": 25.6,
+          "timestamp": 1793965702,
+          "slug": "bkjpn-lev-aki-2026-11-06",
+          "event_slug": "bkjpn-lev-aki-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "W15 Antalya: Ada Kumru vs Jana Bojovic",
+          "side": "BUY",
+          "outcome": "Ada Kumru",
+          "price": 0.28,
+          "value": 5.6000000000000005,
+          "timestamp": 1793965684,
+          "slug": "itf-kumru1-bojovi1-2026-11-06",
+          "event_slug": "itf-kumru1-bojovi1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.68,
+          "value": 126.48,
+          "timestamp": 1793965311,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.68,
+          "value": 128.52,
+          "timestamp": 1793965309,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Will the 10-year Treasury yield hit 5.09% in November?",
           "side": "BUY",
@@ -6010,64 +6065,9 @@
           "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
           "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
           "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.24,
-          "value": 59.28,
-          "timestamp": 1793961684,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.24,
-          "value": 59.28,
-          "timestamp": 1793961684,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.24,
-          "value": 59.28,
-          "timestamp": 1793961684,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.24,
-          "value": 59.28,
-          "timestamp": 1793961684,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "KHL: Amur Khabarovsk vs. SKA St. Petersburg",
-          "side": "BUY",
-          "outcome": "Amur Khabarovsk",
-          "price": 0.52,
-          "value": 10.0776,
-          "timestamp": 1793961496,
-          "slug": "khl-amu-ska-2026-11-06",
-          "event_slug": "khl-amu-ska-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T11:37:06.065Z"
+  "lastUpdate": "2026-11-06T11:53:44.717Z"
 }
