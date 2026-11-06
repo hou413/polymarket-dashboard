@@ -2829,10 +2829,10 @@
       "label": "surfandturf",
       "stats48h": {
         "wins": 5,
-        "losses": 36,
-        "totalTrades": 44,
-        "winRate": 0.12195121951219512,
-        "volume": 175308.14747764473,
+        "losses": 35,
+        "totalTrades": 43,
+        "winRate": 0.125,
+        "volume": 174884.07137764472,
         "pnl": 0
       },
       "recentTrades": [
@@ -3308,17 +3308,6 @@
           "slug": "will-the-democrats-win-the-maine-senate-race-in-2026",
           "event_slug": "maine-senate-election-winner",
           "result": "loss"
-        },
-        {
-          "title": "Will the Republicans win the Michigan Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.21,
-          "value": 424.0761,
-          "timestamp": 1793725062,
-          "slug": "will-the-republicans-win-the-michigan-senate-race-in-2026",
-          "event_slug": "michigan-senate-election-winner",
-          "result": "loss"
         }
       ]
     },
@@ -3330,10 +3319,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 14267.186950017262,
+        "volume": 14268.70769001726,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Ivanka Popović be the next Prime Minister of Serbia?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.04,
+          "value": 1.2,
+          "timestamp": 1793984289,
+          "slug": "will-ivanka-popovic-be-the-next-prime-minister-of-serbia",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ivanka Popović be the next Prime Minister of Serbia?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.02,
+          "value": 0.4,
+          "timestamp": 1793984203,
+          "slug": "will-ivanka-popovic-be-the-next-prime-minister-of-serbia",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
         {
           "title": "Will Ivanka Popović be the next Prime Minister of Serbia?",
           "side": "SELL",
@@ -3859,28 +3870,6 @@
           "value": 0.15852000000000002,
           "timestamp": 1793944564,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-115-139",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 165-189 tweets from November 5 to November 7, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.026420000000000003,
-          "timestamp": 1793944234,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-165-189",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 140-164 tweets from November 5 to November 7, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.004,
-          "value": 0.052840000000000005,
-          "timestamp": 1793944234,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-140-164",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
           "result": "ongoing"
         }
@@ -5523,10 +5512,120 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 32010.423109230553,
+        "volume": 31685.495740237617,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Bursaspor win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.46,
+          "value": 17.02,
+          "timestamp": 1793984680,
+          "slug": "tur2-ant-bur-2026-11-06-bur",
+          "event_slug": "tur2-ant-bur-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bursaspor win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.46,
+          "value": 13.8,
+          "timestamp": 1793984673,
+          "slug": "tur2-ant-bur-2026-11-06-bur",
+          "event_slug": "tur2-ant-bur-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bursaspor win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.44,
+          "value": 4.4,
+          "timestamp": 1793984638,
+          "slug": "tur2-ant-bur-2026-11-06-bur",
+          "event_slug": "tur2-ant-bur-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bursaspor win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.44,
+          "value": 21.12,
+          "timestamp": 1793984638,
+          "slug": "tur2-ant-bur-2026-11-06-bur",
+          "event_slug": "tur2-ant-bur-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bursaspor win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.44,
+          "value": 14.52,
+          "timestamp": 1793984634,
+          "slug": "tur2-ant-bur-2026-11-06-bur",
+          "event_slug": "tur2-ant-bur-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Google have the best AI model at the end of November 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.72,
+          "value": 11.52,
+          "timestamp": 1793984520,
+          "slug": "will-google-have-the-best-ai-model-at-the-end-of-november-2026",
+          "event_slug": "which-company-has-the-best-ai-model-end-of-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC UTA Arad vs. FC Petrolul Ploieşti: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.0098954739,
+          "value": 1.1900000047923,
+          "timestamp": 1793984509,
+          "slug": "rou1-fua-fpp-2026-11-06-total-0pt5",
+          "event_slug": "rou1-fua-fpp-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC UTA Arad vs. FC Petrolul Ploieşti: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 1.1,
+          "timestamp": 1793984493,
+          "slug": "rou1-fua-fpp-2026-11-06-total-0pt5",
+          "event_slug": "rou1-fua-fpp-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC UTA Arad vs. FC Petrolul Ploieşti: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.0095749912,
+          "value": 1.1100000048424001,
+          "timestamp": 1793984485,
+          "slug": "rou1-fua-fpp-2026-11-06-total-0pt5",
+          "event_slug": "rou1-fua-fpp-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC UTA Arad vs. FC Petrolul Ploieşti: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.03,
+          "value": 1.65,
+          "timestamp": 1793984455,
+          "slug": "rou1-fua-fpp-2026-11-06-total-0pt5",
+          "event_slug": "rou1-fua-fpp-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Will US gas hit $3.95 (Low) in November?",
           "side": "BUY",
@@ -5966,119 +6065,9 @@
           "slug": "atp-doubles-pinozei-nijbbat-2026-11-06",
           "event_slug": "atp-doubles-pinozei-nijbbat-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Chennai Open: Mai Hontama vs Magda Linette",
-          "side": "SELL",
-          "outcome": "Magda Linette",
-          "price": 0.9133772684,
-          "value": 38.252240000592,
-          "timestamp": 1793982562,
-          "slug": "wta-hontama-linette-2026-11-06",
-          "event_slug": "wta-hontama-linette-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Chennai Open: Mai Hontama vs Magda Linette",
-          "side": "SELL",
-          "outcome": "Magda Linette",
-          "price": 0.935,
-          "value": 32.725,
-          "timestamp": 1793982561,
-          "slug": "wta-hontama-linette-2026-11-06",
-          "event_slug": "wta-hontama-linette-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Chennai Open: Mai Hontama vs Magda Linette",
-          "side": "SELL",
-          "outcome": "Magda Linette",
-          "price": 0.934,
-          "value": 5.80014,
-          "timestamp": 1793982561,
-          "slug": "wta-hontama-linette-2026-11-06",
-          "event_slug": "wta-hontama-linette-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Chennai Open: Mai Hontama vs Magda Linette",
-          "side": "BUY",
-          "outcome": "Magda Linette",
-          "price": 0.9399999998,
-          "value": 84.68998900198085,
-          "timestamp": 1793982559,
-          "slug": "wta-hontama-linette-2026-11-06",
-          "event_slug": "wta-hontama-linette-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Chennai Open: Mai Hontama vs Magda Linette",
-          "side": "BUY",
-          "outcome": "Magda Linette",
-          "price": 0.94,
-          "value": 37.599999999999994,
-          "timestamp": 1793982553,
-          "slug": "wta-hontama-linette-2026-11-06",
-          "event_slug": "wta-hontama-linette-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Taranto: Kilian Feldbausch vs Sumit Nagal",
-          "side": "BUY",
-          "outcome": "Kilian Feldbausch",
-          "price": 0.34,
-          "value": 5.1000000000000005,
-          "timestamp": 1793982376,
-          "slug": "atp-feldbau-nagal-2026-11-06",
-          "event_slug": "atp-feldbau-nagal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "KHL: Salavat Yulaev Ufa vs. Avtomobilist Yekaterinburg",
-          "side": "BUY",
-          "outcome": "Avtomobilist Yekaterinburg",
-          "price": 0.01,
-          "value": 1.73,
-          "timestamp": 1793982058,
-          "slug": "khl-sal-avt-2026-11-06",
-          "event_slug": "khl-sal-avt-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Al Arabi Doha SC vs. Al Ahli Doha SC end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.04,
-          "value": 4.15,
-          "timestamp": 1793981680,
-          "slug": "qat1-ara-ahl-2026-11-06-draw",
-          "event_slug": "qat1-ara-ahl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Al Arabi Doha SC vs. Al Ahli Doha SC end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.05,
-          "value": 4.84,
-          "timestamp": 1793981677,
-          "slug": "qat1-ara-ahl-2026-11-06-draw",
-          "event_slug": "qat1-ara-ahl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.91,
-          "value": 197.47,
-          "timestamp": 1793981656,
-          "slug": "qat1-ara-ahl-2026-11-06-ara",
-          "event_slug": "qat1-ara-ahl-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T17:02:32.102Z"
+  "lastUpdate": "2026-11-06T17:18:47.914Z"
 }
