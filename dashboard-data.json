@@ -34,10 +34,142 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 5089.58510023765,
+        "volume": 5084.511700024601,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jaguars vs. Ravens: O/U 40.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.54875,
+          "value": 43.9,
+          "timestamp": 1793933686,
+          "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 30.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.79,
+          "value": 1500.605,
+          "timestamp": 1793933685,
+          "slug": "nfl-jax-bal-2026-11-06-total-30pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 30.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.79,
+          "value": 1500.605,
+          "timestamp": 1793933685,
+          "slug": "nfl-jax-bal-2026-11-06-total-30pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-14.5)",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.26,
+          "value": 51.997400000000006,
+          "timestamp": 1793933683,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-14pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-10.5)",
+          "side": "SELL",
+          "outcome": "Jaguars",
+          "price": 0.85,
+          "value": 169.9915,
+          "timestamp": 1793933643,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-10pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 36.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.3796525097,
+          "value": 196.66000002459998,
+          "timestamp": 1793933643,
+          "slug": "nfl-jax-bal-2026-11-06-total-36pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 40.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.54,
+          "value": 5.4,
+          "timestamp": 1793933584,
+          "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 40.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.53,
+          "value": 0.53,
+          "timestamp": 1793933550,
+          "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-20.5)",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.49,
+          "value": 97.02,
+          "timestamp": 1793933545,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-20pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 42.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.59,
+          "value": 718.6141,
+          "timestamp": 1793933503,
+          "slug": "nfl-jax-bal-2026-11-06-total-42pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-19.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.56,
+          "value": 11.200000000000001,
+          "timestamp": 1793933472,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-19pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-14.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.74,
+          "value": 740,
+          "timestamp": 1793933466,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-14pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Magic (-4.5)",
           "side": "BUY",
@@ -68,138 +200,6 @@
           "value": 4.508699999999999,
           "timestamp": 1793933031,
           "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-21.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.25,
-          "value": 2.5,
-          "timestamp": 1793933029,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-21pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Suns (-7.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.32,
-          "value": 79.36,
-          "timestamp": 1793931880,
-          "slug": "nba-orl-phx-2026-11-05-spread-home-7pt5",
-          "event_slug": "nba-orl-phx-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-10.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.4605956113,
-          "value": 146.9300000047,
-          "timestamp": 1793931508,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-10pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-3.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.71,
-          "value": 13.489999999999998,
-          "timestamp": 1793931426,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-3pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 38.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.56,
-          "value": 2.8000000000000003,
-          "timestamp": 1793931399,
-          "slug": "nfl-jax-bal-2026-11-06-total-38pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-10.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.4,
-          "value": 2,
-          "timestamp": 1793931399,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-10pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Suns (-5.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.35,
-          "value": 83.3,
-          "timestamp": 1793931379,
-          "slug": "nba-orl-phx-2026-11-05-spread-home-5pt5",
-          "event_slug": "nba-orl-phx-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Suns (-4.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.38,
-          "value": 287.28000000000003,
-          "timestamp": 1793931379,
-          "slug": "nba-orl-phx-2026-11-05-spread-home-4pt5",
-          "event_slug": "nba-orl-phx-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-10.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.44,
-          "value": 1209.6964,
-          "timestamp": 1793931352,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-10pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 38.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.54,
-          "value": 339.12,
-          "timestamp": 1793931333,
-          "slug": "nfl-jax-bal-2026-11-06-total-38pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-13.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.38,
-          "value": 545.11,
-          "timestamp": 1793931327,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-13pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-13.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.3758383741,
-          "value": 2330.01000023295,
-          "timestamp": 1793931327,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-13pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
           "result": "ongoing"
         }
@@ -2246,5 +2246,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T02:50:10.107Z"
+  "lastUpdate": "2026-11-06T02:57:25.872Z"
 }
