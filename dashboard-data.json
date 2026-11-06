@@ -34,10 +34,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2948.51160002465,
+        "volume": 4719.181600024651,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jaguars vs. Ravens: O/U 30.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.44,
+          "value": 1957.78,
+          "timestamp": 1793935417,
+          "slug": "nfl-jax-bal-2026-11-06-total-30pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Jaguars (-16.5)",
           "side": "BUY",
@@ -189,17 +200,6 @@
           "value": 115,
           "timestamp": 1793934963,
           "slug": "nba-mia-gsw-2026-11-05-spread-home-7pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-6.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.27,
-          "value": 187.11,
-          "timestamp": 1793934963,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-6pt5",
           "event_slug": "nba-mia-gsw-2026-11-05",
           "result": "ongoing"
         }
@@ -1537,10 +1537,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1191.8241699917999,
+        "volume": 1192.5791799918,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.006,
+          "value": 0.798,
+          "timestamp": 1793935408,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
           "side": "BUY",
@@ -1693,17 +1704,6 @@
           "timestamp": 1793929699,
           "slug": "will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
           "event_slug": "taipei-mayor-election-winner-20260813125857100",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 360-379 tweets from October 30 to November 6, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.04299,
-          "timestamp": 1793929326,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-360-379",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
         }
       ]
@@ -2246,5 +2246,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T03:22:34.477Z"
+  "lastUpdate": "2026-11-06T03:29:49.678Z"
 }
