@@ -594,11 +594,11 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 20,
+        "wins": 16,
         "losses": 22,
-        "totalTrades": 42,
-        "winRate": 0.47619047619047616,
-        "volume": 141313.1708999338,
+        "totalTrades": 38,
+        "winRate": 0.42105263157894735,
+        "volume": 125441.38449974722,
         "pnl": 0
       },
       "recentTrades": [
@@ -1019,50 +1019,6 @@
           "slug": "nhl-las-pit-2026-11-03",
           "event_slug": "nhl-las-pit-2026-11-03",
           "result": "loss"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets",
-          "side": "BUY",
-          "outcome": "Blue Jackets",
-          "price": 0.4595669332,
-          "value": 3713.6408997865683,
-          "timestamp": 1793697000,
-          "slug": "nhl-col-cbj-2026-11-03",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets",
-          "side": "BUY",
-          "outcome": "Blue Jackets",
-          "price": 0.45,
-          "value": 4050,
-          "timestamp": 1793697000,
-          "slug": "nhl-col-cbj-2026-11-03",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Jets vs. Canadiens",
-          "side": "BUY",
-          "outcome": "Jets",
-          "price": 0.36,
-          "value": 3866.1408,
-          "timestamp": 1793696865,
-          "slug": "nhl-wpg-mon-2026-11-03",
-          "event_slug": "nhl-wpg-mon-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Jets vs. Canadiens",
-          "side": "BUY",
-          "outcome": "Jets",
-          "price": 0.3535003917,
-          "value": 4242.004700400001,
-          "timestamp": 1793696865,
-          "slug": "nhl-wpg-mon-2026-11-03",
-          "event_slug": "nhl-wpg-mon-2026-11-03",
-          "result": "win"
         }
       ]
     },
@@ -1884,7 +1840,7 @@
       "stats48h": {
         "wins": 0,
         "losses": 48,
-        "totalTrades": 174,
+        "totalTrades": 159,
         "winRate": 0,
         "volume": 636796.51720175,
         "pnl": 0
@@ -4941,5 +4897,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T09:06:33.032Z"
+  "lastUpdate": "2026-11-06T09:15:32.134Z"
 }
