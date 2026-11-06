@@ -30,14 +30,36 @@
       "address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
       "label": "sports_whale_1",
       "stats48h": {
-        "wins": 1,
+        "wins": 0,
         "losses": 0,
         "totalTrades": 50,
-        "winRate": 1,
-        "volume": 2099.8867999999998,
+        "winRate": 0,
+        "volume": 2059.2967999999996,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Warriors (-12.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.66,
+          "value": 11.22,
+          "timestamp": 1793940768,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-12pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Warriors (-10.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.52,
+          "value": 312,
+          "timestamp": 1793940430,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-10pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Heat vs. Warriors: O/U 221.5",
           "side": "SELL",
@@ -180,28 +202,6 @@
           "slug": "nba-mia-gsw-2026-11-05-total-234pt5",
           "event_slug": "nba-mia-gsw-2026-11-05",
           "result": "ongoing"
-        },
-        {
-          "title": "Spread: Heat (-7.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.21,
-          "value": 3.9899999999999998,
-          "timestamp": 1793936593,
-          "slug": "nba-mia-gsw-2026-11-05-spread-away-7pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 36.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.36,
-          "value": 359.82,
-          "timestamp": 1793936559,
-          "slug": "nfl-jax-bal-2026-11-06-total-36pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "win"
         }
       ]
     },
@@ -389,10 +389,10 @@
       "label": "Netrol",
       "stats48h": {
         "wins": 4,
-        "losses": 5,
-        "totalTrades": 9,
-        "winRate": 0.4444444444444444,
-        "volume": 112429.52780000001,
+        "losses": 4,
+        "totalTrades": 8,
+        "winRate": 0.5,
+        "volume": 103217.4903,
         "pnl": 0
       },
       "recentTrades": [
@@ -483,17 +483,6 @@
           "slug": "2026-balance-of-power-d-senate-d-house-949",
           "event_slug": "balance-of-power-2026-midterms",
           "result": "win"
-        },
-        {
-          "title": "Will the Republicans win the Texas Senate race in 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.25,
-          "value": 9212.0375,
-          "timestamp": 1793681580,
-          "slug": "will-the-republicans-win-the-texas-senate-race-in-2026",
-          "event_slug": "texas-senate-election-winner",
-          "result": "loss"
         }
       ]
     },
@@ -1537,10 +1526,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1293.1175899862342,
+        "volume": 1293.139179986234,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.006,
+          "value": 0.15006,
+          "timestamp": 1793940642,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
           "side": "BUY",
@@ -1693,17 +1693,6 @@
           "timestamp": 1793935249,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "James Norton announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.12847,
-          "timestamp": 1793930637,
-          "slug": "james-norton-announced-as-next-james-bond-289",
-          "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
         }
       ]
@@ -2246,5 +2235,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T04:48:30.816Z"
+  "lastUpdate": "2026-11-06T04:55:43.648Z"
 }
