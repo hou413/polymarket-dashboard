@@ -525,7 +525,7 @@
       "stats48h": {
         "wins": 6,
         "losses": 7,
-        "totalTrades": 24,
+        "totalTrades": 22,
         "winRate": 0.46153846153846156,
         "volume": 74507.72420002108,
         "pnl": 0
@@ -885,10 +885,65 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 431523.64619895024,
+        "volume": 436993.8176999169,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Dplus KIA",
+          "price": 0.3173735258,
+          "value": 9521.202600264742,
+          "timestamp": 1793923504,
+          "slug": "lol-dk-blg-2026-11-03-game3",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Dplus KIA",
+          "price": 0.34,
+          "value": 5002.0698,
+          "timestamp": 1793923497,
+          "slug": "lol-dk-blg-2026-11-03-game3",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Dplus KIA",
+          "price": 0.3274722561,
+          "value": 5006.4024007019225,
+          "timestamp": 1793923497,
+          "slug": "lol-dk-blg-2026-11-03-game3",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Dplus KIA",
+          "price": 0.33,
+          "value": 2619.9558,
+          "timestamp": 1793923488,
+          "slug": "lol-dk-blg-2026-11-03-game3",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Dplus KIA",
+          "price": 0.31,
+          "value": 528.2927,
+          "timestamp": 1793923470,
+          "slug": "lol-dk-blg-2026-11-03-game3",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
           "side": "BUY",
@@ -996,61 +1051,6 @@
           "value": 37600,
           "timestamp": 1793923225,
           "slug": "lol-dk-blg-2026-11-03-game3",
-          "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Dplus KIA",
-          "price": 0.46,
-          "value": 10093.1544,
-          "timestamp": 1793923200,
-          "slug": "lol-dk-blg-2026-11-03-game3",
-          "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Dplus KIA",
-          "price": 0.49,
-          "value": 2700.0616999999997,
-          "timestamp": 1793917729,
-          "slug": "lol-dk-blg-2026-11-03-game1",
-          "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Dplus KIA",
-          "price": 0.49,
-          "value": 1427.664,
-          "timestamp": 1793917723,
-          "slug": "lol-dk-blg-2026-11-03-game1",
-          "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Dplus KIA",
-          "price": 0.47,
-          "value": 2648.4453,
-          "timestamp": 1793917708,
-          "slug": "lol-dk-blg-2026-11-03-game1",
-          "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Dplus KIA",
-          "price": 0.52,
-          "value": 338.42640000000006,
-          "timestamp": 1793917654,
-          "slug": "lol-dk-blg-2026-11-03-game1",
           "event_slug": "lol-dk-blg-2026-11-03",
           "result": "ongoing"
         }
@@ -1201,10 +1201,21 @@
         "losses": 6,
         "totalTrades": 32,
         "winRate": 0,
-        "volume": 550489.6869546887,
+        "volume": 615575.6778546888,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Jaguars (-9.5)",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.51,
+          "value": 65444.3475,
+          "timestamp": 1793923656,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-9pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Jaguars vs. Ravens: O/U 42.5",
           "side": "BUY",
@@ -1357,17 +1368,6 @@
           "timestamp": 1793828461,
           "slug": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
           "event_slug": "democratic-presidential-nominee-2028",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.085,
-          "value": 358.3566,
-          "timestamp": 1793825443,
-          "slug": "2026-senate-map-r-none",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
           "result": "ongoing"
         }
       ]
@@ -1559,10 +1559,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2235.7379099970003,
+        "volume": 2203.742809997,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Barnet FC win on 2026-11-14?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.192,
+          "timestamp": 1793923732,
+          "slug": "el2-wal-bar-2026-11-14-bar",
+          "event_slug": "el2-wal-bar-2026-11-14",
+          "result": "ongoing"
+        },
         {
           "title": "Will the next US-Iran senior diplomatic meeting take place in the United States ",
           "side": "SELL",
@@ -1713,17 +1724,6 @@
           "price": 0.3,
           "value": 22.194,
           "timestamp": 1793919807,
-          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.29,
-          "value": 32.187099999999994,
-          "timestamp": 1793918128,
           "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
           "event_slug": "new-zealand-legislative-election-winner",
           "result": "ongoing"
@@ -2092,7 +2092,7 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 5,
+        "wins": 6,
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
@@ -2219,7 +2219,7 @@
           "timestamp": 1793919505,
           "slug": "uel-az-juv-2026-11-05-juv",
           "event_slug": "uel-az-juv-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
@@ -2268,5 +2268,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T00:05:32.470Z"
+  "lastUpdate": "2026-11-06T00:15:28.441Z"
 }
