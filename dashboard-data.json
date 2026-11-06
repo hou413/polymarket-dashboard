@@ -1265,7 +1265,7 @@
       "stats48h": {
         "wins": 1,
         "losses": 0,
-        "totalTrades": 141,
+        "totalTrades": 138,
         "winRate": 1,
         "volume": 18119.753700115918,
         "pnl": 0
@@ -2830,7 +2830,7 @@
       "stats48h": {
         "wins": 5,
         "losses": 42,
-        "totalTrades": 52,
+        "totalTrades": 51,
         "winRate": 0.10638297872340426,
         "volume": 184645.77847764472,
         "pnl": 0
@@ -3396,10 +3396,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 14337.478510017261,
+        "volume": 14304.154390017262,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.57,
+          "value": 4.6398,
+          "timestamp": 1793979256,
+          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
         {
           "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
           "side": "BUY",
@@ -3938,17 +3949,6 @@
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-115-139",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 165-189 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 37.96392,
-          "timestamp": 1793944021,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-165-189",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -4302,12 +4302,23 @@
       "stats48h": {
         "wins": 5,
         "losses": 6,
-        "totalTrades": 12,
+        "totalTrades": 13,
         "winRate": 0.45454545454545453,
-        "volume": 40070.573000000004,
+        "volume": 40073.073000000004,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Spurs (-16.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.5,
+          "value": 2.5,
+          "timestamp": 1793979046,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-16pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "76ers vs. Cavaliers",
           "side": "BUY",
@@ -4446,10 +4457,10 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 29,
+        "wins": 33,
         "losses": 6,
         "totalTrades": 83,
-        "winRate": 0.8285714285714286,
+        "winRate": 0.8461538461538461,
         "volume": 122811.11961000174,
         "pnl": 0
       },
@@ -4485,7 +4496,7 @@
           "timestamp": 1793973727,
           "slug": "atp-shelton-paul-2026-11-06",
           "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
@@ -4562,7 +4573,7 @@
           "timestamp": 1793922565,
           "slug": "atp-shelton-paul-2026-11-06",
           "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
@@ -4573,7 +4584,7 @@
           "timestamp": 1793922501,
           "slug": "atp-shelton-paul-2026-11-06",
           "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
@@ -4584,7 +4595,7 @@
           "timestamp": 1793922367,
           "slug": "atp-shelton-paul-2026-11-06",
           "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Chattanooga Mocs vs. Penn State Nittany Lions",
@@ -5575,13 +5586,189 @@
       "label": "dips.",
       "stats48h": {
         "wins": 0,
-        "losses": 6,
+        "losses": 1,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3341.364289000244,
+        "volume": 3851.305858999233,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.64,
+          "value": 17.28,
+          "timestamp": 1793979525,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.66,
+          "value": 33,
+          "timestamp": 1793979510,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.42,
+          "value": 76.86,
+          "timestamp": 1793979472,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.41,
+          "value": 18.45,
+          "timestamp": 1793979472,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.42,
+          "value": 18.921,
+          "timestamp": 1793979448,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.42,
+          "value": 15.959999999999999,
+          "timestamp": 1793979447,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.6199999977,
+          "value": 80.63999900085162,
+          "timestamp": 1793979445,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.62,
+          "value": 16.12,
+          "timestamp": 1793979444,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.3972053899,
+          "value": 62.77999999660207,
+          "timestamp": 1793979424,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Al Arabi Doha SC (-1.5)",
+          "side": "BUY",
+          "outcome": "Al Arabi Doha SC",
+          "price": 0.41,
+          "value": 15.579999999999998,
+          "timestamp": 1793979303,
+          "slug": "qat1-ara-ahl-2026-11-06-spread-home-1pt5",
+          "event_slug": "qat1-ara-ahl-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zimbabwe win?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.67,
+          "value": 30.82,
+          "timestamp": 1793978961,
+          "slug": "crint-afg-zwe-2026-11-05-zwe",
+          "event_slug": "crint-afg-zwe-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zimbabwe win?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7,
+          "value": 1228.5,
+          "timestamp": 1793978959,
+          "slug": "crint-afg-zwe-2026-11-05-zwe",
+          "event_slug": "crint-afg-zwe-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zimbabwe win?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.69,
+          "value": 84.0696,
+          "timestamp": 1793978916,
+          "slug": "crint-afg-zwe-2026-11-05-zwe",
+          "event_slug": "crint-afg-zwe-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will \"Godzilla Minus Zero\" score at least 92 on the Rotten Tomatoes Tomatometer?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.0889887064,
+          "value": 0.866750000336,
+          "timestamp": 1793978866,
+          "slug": "will-godzilla-minus-zero-score-at-least-92-on-the-rotten-tomatoes-tomatometer-20261109",
+          "event_slug": "godzilla-minus-zero-rotten-tomatoes-score-20261109",
+          "result": "ongoing"
+        },
+        {
+          "title": "Villa Maria: Oriol Roca Batalla vs Nicolas Kicker",
+          "side": "SELL",
+          "outcome": "Oriol Roca Batalla",
+          "price": 0.001,
+          "value": 0.21831,
+          "timestamp": 1793978749,
+          "slug": "atp-batalla-kicker-2026-11-06",
+          "event_slug": "atp-batalla-kicker-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Villa Maria: Oriol Roca Batalla vs Nicolas Kicker",
+          "side": "BUY",
+          "outcome": "Oriol Roca Batalla",
+          "price": 0.005,
+          "value": 1.86,
+          "timestamp": 1793978746,
+          "slug": "atp-batalla-kicker-2026-11-06",
+          "event_slug": "atp-batalla-kicker-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "FC Goa vs. Bengaluru FC: O/U 2.5",
           "side": "BUY",
@@ -5955,185 +6142,9 @@
           "slug": "atp-doubles-cashnak-harrsku-2026-11-06",
           "event_slug": "atp-doubles-cashnak-harrsku-2026-11-06",
           "result": "loss"
-        },
-        {
-          "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
-          "side": "BUY",
-          "outcome": "Chitwan Rhinos",
-          "price": 0.77,
-          "value": 73.15,
-          "timestamp": 1793975304,
-          "slug": "cricnpl-chi-pok-2026-11-06",
-          "event_slug": "cricnpl-chi-pok-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Bengaluru FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.3599999982,
-          "value": 56.2399999988,
-          "timestamp": 1793975164,
-          "slug": "isp-goa-ben-2026-11-06-ben",
-          "event_slug": "isp-goa-ben-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
-          "side": "BUY",
-          "outcome": "Pokhara Avengers",
-          "price": 0.16,
-          "value": 9.888,
-          "timestamp": 1793975134,
-          "slug": "cricnpl-chi-pok-2026-11-06",
-          "event_slug": "cricnpl-chi-pok-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 6.44,
-          "timestamp": 1793975121,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "FURIA",
-          "price": 0.4,
-          "value": 10.25,
-          "timestamp": 1793974858,
-          "slug": "cs2-furia-bb3-2026-11-06",
-          "event_slug": "cs2-furia-bb3-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Will \"Nobody Wants This: Season 3\" be the #2 global Netflix show this week?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.97,
-          "value": 23.28,
-          "timestamp": 1793974834,
-          "slug": "will-nobody-wants-this-season-3-be-the-2-global-netflix-show-this-week-20261110",
-          "event_slug": "what-will-be-the-2-global-netflix-show-this-week-november-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sukhothai FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.81,
-          "value": 1.4175,
-          "timestamp": 1793974827,
-          "slug": "tha1-lam-suk-2026-11-06-suk",
-          "event_slug": "tha1-lam-suk-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Lamphun Warriors FC vs. Sukhothai FC: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.779,
-          "value": 31.16,
-          "timestamp": 1793974752,
-          "slug": "tha1-lam-suk-2026-11-06-total-0pt5",
-          "event_slug": "tha1-lam-suk-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "FURIA",
-          "price": 0.45,
-          "value": 3.6,
-          "timestamp": 1793974701,
-          "slug": "cs2-furia-bb3-2026-11-06",
-          "event_slug": "cs2-furia-bb3-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Will \"Nobody Wants This: Season 3\" be the #2 global Netflix show this week?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.97,
-          "value": 116.519989,
-          "timestamp": 1793974689,
-          "slug": "will-nobody-wants-this-season-3-be-the-2-global-netflix-show-this-week-20261110",
-          "event_slug": "what-will-be-the-2-global-netflix-show-this-week-november-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the 30-year Treasury yield hit 5.65% in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.88,
-          "value": 17.6,
-          "timestamp": 1793974675,
-          "slug": "will-the-30-year-treasury-yield-hit-5pt65-in-november",
-          "event_slug": "how-high-will-30-year-treasury-yield-go-in-november",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "FURIA",
-          "price": 0.5,
-          "value": 15.99,
-          "timestamp": 1793974444,
-          "slug": "cs2-furia-bb3-2026-11-06",
-          "event_slug": "cs2-furia-bb3-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "FURIA",
-          "price": 0.66,
-          "value": 18.6186,
-          "timestamp": 1793974306,
-          "slug": "cs2-furia-bb3-2026-11-06",
-          "event_slug": "cs2-furia-bb3-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Chennai Open: Mai Hontama vs Magda Linette",
-          "side": "BUY",
-          "outcome": "Magda Linette",
-          "price": 0.49,
-          "value": 182.28,
-          "timestamp": 1793974275,
-          "slug": "wta-hontama-linette-2026-11-06",
-          "event_slug": "wta-hontama-linette-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Chennai Open: Mai Hontama vs Magda Linette",
-          "side": "BUY",
-          "outcome": "Magda Linette",
-          "price": 0.49,
-          "value": 494.9,
-          "timestamp": 1793974273,
-          "slug": "wta-hontama-linette-2026-11-06",
-          "event_slug": "wta-hontama-linette-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "FURIA",
-          "price": 0.67,
-          "value": 130.65,
-          "timestamp": 1793974249,
-          "slug": "cs2-furia-bb3-2026-11-06",
-          "event_slug": "cs2-furia-bb3-2026-11-06",
-          "result": "loss"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T15:26:58.610Z"
+  "lastUpdate": "2026-11-06T15:42:57.677Z"
 }
