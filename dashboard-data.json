@@ -885,10 +885,43 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 436993.8176999169,
+        "volume": 313637.7461999169,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Dplus KIA",
+          "price": 0.49,
+          "value": 2311.8837,
+          "timestamp": 1793924349,
+          "slug": "lol-dk-blg-2026-11-03-game3",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Dplus KIA",
+          "price": 0.48,
+          "value": 1389.9648,
+          "timestamp": 1793924325,
+          "slug": "lol-dk-blg-2026-11-03-game3",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Dplus KIA",
+          "price": 0.46,
+          "value": 3639.2946,
+          "timestamp": 1793924308,
+          "slug": "lol-dk-blg-2026-11-03-game3",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
           "side": "BUY",
@@ -1017,39 +1050,6 @@
           "price": 0.47,
           "value": 902.7853999999999,
           "timestamp": 1793923243,
-          "slug": "lol-dk-blg-2026-11-03-game3",
-          "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Dplus KIA",
-          "price": 0.47,
-          "value": 46097.21459999999,
-          "timestamp": 1793923243,
-          "slug": "lol-dk-blg-2026-11-03-game3",
-          "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Dplus KIA",
-          "price": 0.47,
-          "value": 47000,
-          "timestamp": 1793923233,
-          "slug": "lol-dk-blg-2026-11-03-game3",
-          "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Dplus KIA",
-          "price": 0.47,
-          "value": 37600,
-          "timestamp": 1793923225,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
           "result": "ongoing"
@@ -1199,7 +1199,7 @@
       "stats48h": {
         "wins": 0,
         "losses": 6,
-        "totalTrades": 32,
+        "totalTrades": 28,
         "winRate": 0,
         "volume": 615575.6778546888,
         "pnl": 0
@@ -2268,5 +2268,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T00:15:28.441Z"
+  "lastUpdate": "2026-11-06T00:23:05.769Z"
 }
