@@ -594,14 +594,25 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 14,
+        "wins": 13,
         "losses": 21,
         "totalTrades": 39,
-        "winRate": 0.4,
-        "volume": 135352.34120002174,
+        "winRate": 0.38235294117647056,
+        "volume": 135267.76220007453,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Ducks vs. Flames",
+          "side": "BUY",
+          "outcome": "Flames",
+          "price": 0.56,
+          "value": 1849.6688000000001,
+          "timestamp": 1793976633,
+          "slug": "nhl-ana-cal-2026-11-06",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Flames (-1.5)",
           "side": "BUY",
@@ -1019,17 +1030,6 @@
           "slug": "nhl-wpg-mon-2026-11-03-spread-away-1pt5",
           "event_slug": "nhl-wpg-mon-2026-11-03",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Blue Jackets (-1.5)",
-          "side": "BUY",
-          "outcome": "Blue Jackets",
-          "price": 0.2677478288,
-          "value": 1934.247799947232,
-          "timestamp": 1793717416,
-          "slug": "nhl-col-cbj-2026-11-03-spread-home-1pt5",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
         }
       ]
     },
@@ -3425,14 +3425,102 @@
       "address": "0x511f9c771449162349795d17becf8b37031acbe1",
       "label": "ethanaz",
       "stats48h": {
-        "wins": 1,
+        "wins": 0,
         "losses": 0,
         "totalTrades": 500,
-        "winRate": 1,
-        "volume": 10055.17759003127,
+        "winRate": 0,
+        "volume": 14337.478510017261,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.48,
+          "value": 35.519999999999996,
+          "timestamp": 1793977179,
+          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 73.63,
+          "timestamp": 1793977179,
+          "slug": "will-ebba-busch-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.5716830069,
+          "value": 543.453300019278,
+          "timestamp": 1793977104,
+          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 2041.74,
+          "timestamp": 1793977102,
+          "slug": "will-ebba-busch-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.57,
+          "value": 149.33999999999997,
+          "timestamp": 1793977090,
+          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 260.69,
+          "timestamp": 1793977090,
+          "slug": "will-ebba-busch-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4564366632,
+          "value": 425.47199996851197,
+          "timestamp": 1793976612,
+          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 1082.56,
+          "timestamp": 1793976612,
+          "slug": "will-ebba-busch-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
         {
           "title": "Will Trump and Putin meet next in another country?",
           "side": "SELL",
@@ -3894,94 +3982,6 @@
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-165-189",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 90-114 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9097805727,
-          "value": 33.998500001798995,
-          "timestamp": 1793944021,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-90-114",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 65-89 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.68,
-          "value": 25.8672,
-          "timestamp": 1793944021,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-65-89",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 140-164 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 37.88784,
-          "timestamp": 1793944021,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-140-164",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post <40 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.921,
-          "value": 35.03484,
-          "timestamp": 1793944021,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-0-39",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "win"
-        },
-        {
-          "title": "Will Elon Musk post 115-139 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.98,
-          "value": 52.92,
-          "timestamp": 1793943973,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-115-139",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 165-189 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 53.892,
-          "timestamp": 1793943973,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-165-189",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 140-164 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 53.784,
-          "timestamp": 1793943972,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-140-164",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 65-89 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.68,
-          "value": 36.720000000000006,
-          "timestamp": 1793943972,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-65-89",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -3991,12 +3991,34 @@
       "stats48h": {
         "wins": 20,
         "losses": 2,
-        "totalTrades": 28,
+        "totalTrades": 30,
         "winRate": 0.9090909090909091,
-        "volume": 391074.7690398944,
+        "volume": 391789.8341798721,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
+          "side": "SELL",
+          "outcome": "Alexandra Eala",
+          "price": 0.900134619,
+          "value": 473.27277997782,
+          "timestamp": 1793977456,
+          "slug": "wta-ruzic-eala-2026-11-06",
+          "event_slug": "wta-ruzic-eala-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
+          "side": "SELL",
+          "outcome": "Alexandra Eala",
+          "price": 0.901,
+          "value": 241.79236000000003,
+          "timestamp": 1793977428,
+          "slug": "wta-ruzic-eala-2026-11-06",
+          "event_slug": "wta-ruzic-eala-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
           "side": "SELL",
@@ -5585,14 +5607,146 @@
       "address": "0xc785252b25901a591e9d962e09f4342468444ef2",
       "label": "dips.",
       "stats48h": {
-        "wins": 1,
-        "losses": 9,
+        "wins": 0,
+        "losses": 10,
         "totalTrades": 500,
-        "winRate": 0.1,
-        "volume": 1998.8552890076303,
+        "winRate": 0,
+        "volume": 2151.5229890010005,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Al Arabi Doha SC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.86,
+          "value": 4.3,
+          "timestamp": 1793977336,
+          "slug": "qat1-ara-ahl-2026-11-06-ara",
+          "event_slug": "qat1-ara-ahl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lamphun Warriors FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 49.9596,
+          "timestamp": 1793977234,
+          "slug": "tha1-lam-suk-2026-11-06-lam",
+          "event_slug": "tha1-lam-suk-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lamphun Warriors FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 16.740000000000002,
+          "timestamp": 1793977225,
+          "slug": "tha1-lam-suk-2026-11-06-lam",
+          "event_slug": "tha1-lam-suk-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lamphun Warriors FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 94.86,
+          "timestamp": 1793977224,
+          "slug": "tha1-lam-suk-2026-11-06-lam",
+          "event_slug": "tha1-lam-suk-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lamphun Warriors FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 26.970000000000002,
+          "timestamp": 1793977222,
+          "slug": "tha1-lam-suk-2026-11-06-lam",
+          "event_slug": "tha1-lam-suk-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lamphun Warriors FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 43.71,
+          "timestamp": 1793977221,
+          "slug": "tha1-lam-suk-2026-11-06-lam",
+          "event_slug": "tha1-lam-suk-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lamphun Warriors FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.89,
+          "value": 51.62,
+          "timestamp": 1793977168,
+          "slug": "tha1-lam-suk-2026-11-06-lam",
+          "event_slug": "tha1-lam-suk-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.22,
+          "value": 12.98,
+          "timestamp": 1793977146,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lamphun Warriors FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.84,
+          "value": 50.4,
+          "timestamp": 1793977129,
+          "slug": "tha1-lam-suk-2026-11-06-lam",
+          "event_slug": "tha1-lam-suk-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lamphun Warriors FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.84,
+          "value": 26.04,
+          "timestamp": 1793977128,
+          "slug": "tha1-lam-suk-2026-11-06-lam",
+          "event_slug": "tha1-lam-suk-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lamphun Warriors FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.84,
+          "value": 42,
+          "timestamp": 1793977126,
+          "slug": "tha1-lam-suk-2026-11-06-lam",
+          "event_slug": "tha1-lam-suk-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
+          "side": "BUY",
+          "outcome": "Antonia Ruzic",
+          "price": 0.075,
+          "value": 108.3,
+          "timestamp": 1793976541,
+          "slug": "wta-ruzic-eala-2026-11-06",
+          "event_slug": "wta-ruzic-eala-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Pete Hegseth out as Secretary of Defense by November 30?",
           "side": "BUY",
@@ -5756,7 +5910,7 @@
           "timestamp": 1793975319,
           "slug": "atp-doubles-cashnak-harrsku-2026-11-06",
           "event_slug": "atp-doubles-cashnak-harrsku-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
@@ -6010,141 +6164,9 @@
           "slug": "cs2-furia-bb3-2026-11-06",
           "event_slug": "cs2-furia-bb3-2026-11-06",
           "result": "loss"
-        },
-        {
-          "title": "Will the 10-year Treasury yield dip below 4.73% in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.5259901645,
-          "value": 52.47000000448095,
-          "timestamp": 1793973822,
-          "slug": "will-the-10-year-treasury-yield-dip-below-4pt73-in-november",
-          "event_slug": "how-low-will-10-year-treasury-yield-get-in-november",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Matthew Jordan win the 2026 Abu Dhabi Championship?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.929,
-          "value": 18.580000000000002,
-          "timestamp": 1793973696,
-          "slug": "dpwt-2026-abu-dhabi-championship-winner-matthew-jordan-win",
-          "event_slug": "dpwt-2026-abu-dhabi-championship-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
-          "side": "BUY",
-          "outcome": "Chitwan Rhinos",
-          "price": 0.64,
-          "value": 64,
-          "timestamp": 1793973598,
-          "slug": "cricnpl-chi-pok-2026-11-06",
-          "event_slug": "cricnpl-chi-pok-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
-          "side": "BUY",
-          "outcome": "USA Women",
-          "price": 0.05,
-          "value": 3.0600000000000005,
-          "timestamp": 1793973403,
-          "slug": "crint-rwaw-usaw-2026-11-06",
-          "event_slug": "crint-rwaw-usaw-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Maccabi Tel Aviv FC vs. Maccabi Petah Tikva FC: O/U 4.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.02,
-          "value": 0.1,
-          "timestamp": 1793973307,
-          "slug": "isr-mta-mpt-2026-11-06-total-4pt5",
-          "event_slug": "isr-mta-mpt-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Maccabi Tel Aviv FC vs. Maccabi Petah Tikva FC: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.04,
-          "value": 4.1,
-          "timestamp": 1793973307,
-          "slug": "isr-mta-mpt-2026-11-06-total-4pt5",
-          "event_slug": "isr-mta-mpt-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "BetBoom Team",
-          "price": 0.46,
-          "value": 35.88,
-          "timestamp": 1793973291,
-          "slug": "cs2-furia-bb3-2026-11-06",
-          "event_slug": "cs2-furia-bb3-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Maccabi Tel Aviv FC vs. Maccabi Petah Tikva FC: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.04,
-          "value": 2.05,
-          "timestamp": 1793973249,
-          "slug": "isr-mta-mpt-2026-11-06-total-4pt5",
-          "event_slug": "isr-mta-mpt-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Maccabi Tel Aviv FC vs. Maccabi Petah Tikva FC: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.0489999994,
-          "value": 2.55000000177551,
-          "timestamp": 1793973238,
-          "slug": "isr-mta-mpt-2026-11-06-total-4pt5",
-          "event_slug": "isr-mta-mpt-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Maccabi Tel Aviv FC vs. Maccabi Petah Tikva FC: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.0589999984,
-          "value": 1.8300000003728802,
-          "timestamp": 1793973238,
-          "slug": "isr-mta-mpt-2026-11-06-total-4pt5",
-          "event_slug": "isr-mta-mpt-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Madura United vs. Arema FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 0.1,
-          "timestamp": 1793973210,
-          "slug": "idn1-mau-are-2026-11-06-total-2pt5",
-          "event_slug": "idn1-mau-are-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Maccabi Tel Aviv FC win on 2026-11-06?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.93,
-          "value": 190.49190000000002,
-          "timestamp": 1793973192,
-          "slug": "isr-mta-mpt-2026-11-06-mta",
-          "event_slug": "isr-mta-mpt-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T14:50:06.091Z"
+  "lastUpdate": "2026-11-06T15:09:19.003Z"
 }
