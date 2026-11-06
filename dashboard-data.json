@@ -3425,14 +3425,36 @@
       "address": "0x511f9c771449162349795d17becf8b37031acbe1",
       "label": "ethanaz",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 2,
+        "losses": 1,
         "totalTrades": 500,
-        "winRate": 0,
-        "volume": 6205.843850013531,
+        "winRate": 0.6666666666666666,
+        "volume": 6713.55700001353,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Invictus Gaming win Worlds 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.071,
+          "value": 4.79889,
+          "timestamp": 1793953843,
+          "slug": "will-invictus-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Puma Shen win the next Taipei Mayor election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.28,
+          "value": 503.17120000000006,
+          "timestamp": 1793953638,
+          "slug": "will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102",
+          "event_slug": "taipei-mayor-election-winner-20260813125857100",
+          "result": "ongoing"
+        },
         {
           "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
           "side": "SELL",
@@ -3816,7 +3838,7 @@
           "timestamp": 1793940415,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
@@ -3860,7 +3882,7 @@
           "timestamp": 1793939325,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will New Zealand First Party win the second-most seats in the New Zealand House ",
@@ -3926,7 +3948,7 @@
           "timestamp": 1793935249,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
@@ -3959,28 +3981,6 @@
           "timestamp": 1793935249,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "James Norton announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.12847,
-          "timestamp": 1793930637,
-          "slug": "james-norton-announced-as-next-james-bond-289",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Joe Alwyn announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.12847,
-          "timestamp": 1793930637,
-          "slug": "placeholder-8-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
         }
       ]
@@ -4941,5 +4941,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T08:29:07.684Z"
+  "lastUpdate": "2026-11-06T08:38:07.977Z"
 }
