@@ -34,10 +34,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2059.2967999999996,
+        "volume": 2055.9968,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Warriors (-8.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.44,
+          "value": 7.92,
+          "timestamp": 1793940867,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-8pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Warriors (-12.5)",
           "side": "BUY",
@@ -189,17 +200,6 @@
           "value": 7.74,
           "timestamp": 1793936709,
           "slug": "nba-mia-gsw-2026-11-05-spread-home-1pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Heat vs. Warriors: O/U 234.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.66,
-          "value": 11.22,
-          "timestamp": 1793936608,
-          "slug": "nba-mia-gsw-2026-11-05-total-234pt5",
           "event_slug": "nba-mia-gsw-2026-11-05",
           "result": "ongoing"
         }
@@ -388,11 +388,11 @@
       "address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
       "label": "Netrol",
       "stats48h": {
-        "wins": 4,
-        "losses": 4,
-        "totalTrades": 8,
+        "wins": 3,
+        "losses": 3,
+        "totalTrades": 6,
         "winRate": 0.5,
-        "volume": 103217.4903,
+        "volume": 75700.4455,
         "pnl": 0
       },
       "recentTrades": [
@@ -461,28 +461,6 @@
           "slug": "2026-senate-map-r-ia-me",
           "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
           "result": "loss"
-        },
-        {
-          "title": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.231561328,
-          "value": 11578.0664,
-          "timestamp": 1793681758,
-          "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-          "event_slug": "which-party-will-win-the-senate-in-2026",
-          "result": "loss"
-        },
-        {
-          "title": "2026 Balance of Power: D Senate, D House",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.76,
-          "value": 15938.9784,
-          "timestamp": 1793681667,
-          "slug": "2026-balance-of-power-d-senate-d-house-949",
-          "event_slug": "balance-of-power-2026-midterms",
-          "result": "win"
         }
       ]
     },
@@ -849,13 +827,24 @@
       "label": "Thunderous-Snarl",
       "stats48h": {
         "wins": 0,
-        "losses": 15,
+        "losses": 14,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 185737.73730041692,
+        "volume": 152461.22850041688,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "PARIVISION",
+          "price": 0.29,
+          "value": 17400,
+          "timestamp": 1793940981,
+          "slug": "cs2-prv-navi-2026-11-06",
+          "event_slug": "cs2-prv-navi-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
           "side": "BUY",
@@ -1006,17 +995,6 @@
           "price": 0.4827960096,
           "value": 27098.369598868703,
           "timestamp": 1793923308,
-          "slug": "lol-dk-blg-2026-11-03-game3",
-          "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Dplus KIA",
-          "price": 0.48,
-          "value": 50676.508799999996,
-          "timestamp": 1793923281,
           "slug": "lol-dk-blg-2026-11-03-game3",
           "event_slug": "lol-dk-blg-2026-11-03",
           "result": "loss"
@@ -1526,10 +1504,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 1293.139179986234,
+        "volume": 1029.2120199862343,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.026,
+          "value": 0.47684,
+          "timestamp": 1793941008,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
           "side": "SELL",
@@ -1681,17 +1670,6 @@
           "value": 224.2613999934,
           "timestamp": 1793935249,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-300-319",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 264.404,
-          "timestamp": 1793935249,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
         }
@@ -2235,5 +2213,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T04:55:43.648Z"
+  "lastUpdate": "2026-11-06T05:02:56.661Z"
 }
