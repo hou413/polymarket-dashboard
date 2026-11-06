@@ -1354,10 +1354,10 @@
       "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
       "label": "surfandturf",
       "stats48h": {
-        "wins": 1,
+        "wins": 2,
         "losses": 3,
         "totalTrades": 50,
-        "winRate": 0.25,
+        "winRate": 0.4,
         "volume": 80756.10643764467,
         "pnl": 0
       },
@@ -1448,7 +1448,7 @@
           "timestamp": 1793922123,
           "slug": "will-dplus-kia-win-worlds-2026",
           "event_slug": "worlds-2026-winner",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Jaguars vs. Ravens",
@@ -2246,5 +2246,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T02:35:04.136Z"
+  "lastUpdate": "2026-11-06T02:42:19.218Z"
 }
