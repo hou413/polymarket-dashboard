@@ -34,10 +34,153 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 8948.026399999999,
+        "volume": 5041.37560023295,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jaguars vs. Ravens: O/U 38.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.56,
+          "value": 2.8000000000000003,
+          "timestamp": 1793931399,
+          "slug": "nfl-jax-bal-2026-11-06-total-38pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-10.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.4,
+          "value": 2,
+          "timestamp": 1793931399,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-10pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Suns (-5.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.35,
+          "value": 83.3,
+          "timestamp": 1793931379,
+          "slug": "nba-orl-phx-2026-11-05-spread-home-5pt5",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Suns (-4.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.38,
+          "value": 287.28000000000003,
+          "timestamp": 1793931379,
+          "slug": "nba-orl-phx-2026-11-05-spread-home-4pt5",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-10.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.44,
+          "value": 1209.6964,
+          "timestamp": 1793931352,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-10pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 38.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.54,
+          "value": 339.12,
+          "timestamp": 1793931333,
+          "slug": "nfl-jax-bal-2026-11-06-total-38pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-13.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.38,
+          "value": 545.11,
+          "timestamp": 1793931327,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-13pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-13.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.3758383741,
+          "value": 2330.01000023295,
+          "timestamp": 1793931327,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-13pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Suns (-7.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.29,
+          "value": 74.82,
+          "timestamp": 1793931303,
+          "slug": "nba-orl-phx-2026-11-05-spread-home-7pt5",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Suns (-6.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.3,
+          "value": 73.8,
+          "timestamp": 1793931277,
+          "slug": "nba-orl-phx-2026-11-05-spread-home-6pt5",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 36.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.47,
+          "value": 2.5427,
+          "timestamp": 1793931259,
+          "slug": "nfl-jax-bal-2026-11-06-total-36pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 34.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.39,
+          "value": 3.9000000000000004,
+          "timestamp": 1793931259,
+          "slug": "nfl-jax-bal-2026-11-06-total-34pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 34.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.38,
+          "value": 7.6,
+          "timestamp": 1793931247,
+          "slug": "nfl-jax-bal-2026-11-06-total-34pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Jaguars (-14.5)",
           "side": "BUY",
@@ -57,149 +200,6 @@
           "value": 9.399999999999999,
           "timestamp": 1793930686,
           "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 38.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.38,
-          "value": 494.19,
-          "timestamp": 1793930427,
-          "slug": "nfl-jax-bal-2026-11-06-total-38pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 38.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.38,
-          "value": 1405.81,
-          "timestamp": 1793930425,
-          "slug": "nfl-jax-bal-2026-11-06-total-38pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 42.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.43,
-          "value": 86,
-          "timestamp": 1793930416,
-          "slug": "nfl-jax-bal-2026-11-06-total-42pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-10.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.49,
-          "value": 3111.255,
-          "timestamp": 1793930391,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-10pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-10.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.49,
-          "value": 1101.275,
-          "timestamp": 1793930391,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-10pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Ravens (-1.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.83,
-          "value": 881.4599999999999,
-          "timestamp": 1793930262,
-          "slug": "nfl-jax-bal-2026-11-06-spread-home-1pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 38.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.3,
-          "value": 47.556000000000004,
-          "timestamp": 1793930188,
-          "slug": "nfl-jax-bal-2026-11-06-total-38pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 38.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.3,
-          "value": 914.85,
-          "timestamp": 1793930187,
-          "slug": "nfl-jax-bal-2026-11-06-total-38pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 40.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 17.099999999999998,
-          "timestamp": 1793930181,
-          "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 38.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.285,
-          "value": 22.799999999999997,
-          "timestamp": 1793930092,
-          "slug": "nfl-jax-bal-2026-11-06-total-38pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 40.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.37,
-          "value": 25.3339,
-          "timestamp": 1793930044,
-          "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-16.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.37,
-          "value": 740,
-          "timestamp": 1793929791,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-16pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-6.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.28,
-          "value": 21.000000000000004,
-          "timestamp": 1793929711,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-6pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
           "result": "ongoing"
         }
@@ -2070,15 +2070,181 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 0,
+        "wins": 3,
         "losses": 0,
-        "totalTrades": 0,
-        "winRate": 0,
-        "volume": 0,
+        "totalTrades": 50,
+        "winRate": 1,
+        "volume": 34308.812600102916,
         "pnl": 0
       },
-      "recentTrades": []
+      "recentTrades": [
+        {
+          "title": "New Hampshire Wildcats vs. Rider Broncs",
+          "side": "BUY",
+          "outcome": "New Hampshire Wildcats",
+          "price": 0.65,
+          "value": 26,
+          "timestamp": 1793929776,
+          "slug": "cbb-nhamp-rider-2026-11-05",
+          "event_slug": "cbb-nhamp-rider-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "New Hampshire Wildcats vs. Rider Broncs",
+          "side": "BUY",
+          "outcome": "New Hampshire Wildcats",
+          "price": 0.8283404748,
+          "value": 2745.087199868208,
+          "timestamp": 1793928445,
+          "slug": "cbb-nhamp-rider-2026-11-05",
+          "event_slug": "cbb-nhamp-rider-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Heat vs. Warriors",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.61,
+          "value": 81.7644,
+          "timestamp": 1793926246,
+          "slug": "nba-mia-gsw-2026-11-05",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Z.ai have the best AI model at the end of December 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 9.97832,
+          "timestamp": 1793925972,
+          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
+          "event_slug": "which-company-has-best-ai-model-end-of-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.46,
+          "value": 15.138599999999999,
+          "timestamp": 1793922565,
+          "slug": "atp-shelton-paul-2026-11-06",
+          "event_slug": "atp-shelton-paul-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.46,
+          "value": 2413.0036,
+          "timestamp": 1793922501,
+          "slug": "atp-shelton-paul-2026-11-06",
+          "event_slug": "atp-shelton-paul-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.46,
+          "value": 1498.6616000000001,
+          "timestamp": 1793922367,
+          "slug": "atp-shelton-paul-2026-11-06",
+          "event_slug": "atp-shelton-paul-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chattanooga Mocs vs. Penn State Nittany Lions",
+          "side": "BUY",
+          "outcome": "Penn State Nittany Lions",
+          "price": 0.8809470489,
+          "value": 2478.245000083524,
+          "timestamp": 1793920480,
+          "slug": "cbb-chat-pennst-2026-11-05",
+          "event_slug": "cbb-chat-pennst-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
+          "side": "SELL",
+          "outcome": "Maks Kasnikowski",
+          "price": 0.999,
+          "value": 1553.445,
+          "timestamp": 1793920435,
+          "slug": "atp-kasniko-antoniu-2026-11-05",
+          "event_slug": "atp-kasniko-antoniu-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Will Z.ai have the best AI model at the end of December 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 5.04124,
+          "timestamp": 1793920128,
+          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
+          "event_slug": "which-company-has-best-ai-model-end-of-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
+          "side": "SELL",
+          "outcome": "Maks Kasnikowski",
+          "price": 0.999,
+          "value": 999,
+          "timestamp": 1793920101,
+          "slug": "atp-kasniko-antoniu-2026-11-05",
+          "event_slug": "atp-kasniko-antoniu-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Will Gukesh Dommaraju win the 2026 World Chess Championship?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.76,
+          "value": 37.0272,
+          "timestamp": 1793919699,
+          "slug": "will-gukesh-dommaraju-win-the-2026-world-chess-championship",
+          "event_slug": "2026-world-chess-championship-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.9072944126,
+          "value": 9847.791700248652,
+          "timestamp": 1793919633,
+          "slug": "nba-sas-sac-2026-11-06",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.8853947935,
+          "value": 1869.6084999025352,
+          "timestamp": 1793919541,
+          "slug": "nba-sas-sac-2026-11-06",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Juventus FC win on 2026-11-05?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.999,
+          "value": 10729.02024,
+          "timestamp": 1793919505,
+          "slug": "uel-az-juv-2026-11-05-juv",
+          "event_slug": "uel-az-juv-2026-11-05",
+          "result": "win"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-06T02:11:49.432Z"
+  "lastUpdate": "2026-11-06T02:19:04.516Z"
 }
