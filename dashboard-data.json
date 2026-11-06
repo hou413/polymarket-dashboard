@@ -960,37 +960,14 @@
       "address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
       "label": "Netrol",
       "stats48h": {
-        "wins": 2,
+        "wins": 0,
         "losses": 0,
-        "totalTrades": 2,
-        "winRate": 1,
-        "volume": 18609.4552,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "Will the Democrats win the Florida governor race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.68,
-          "value": 218.28000000000003,
-          "timestamp": 1793747541,
-          "slug": "will-the-democrats-win-the-florida-governor-race-in-2026",
-          "event_slug": "florida-governor-winner-2026",
-          "result": "win"
-        },
-        {
-          "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.94,
-          "value": 18391.1752,
-          "timestamp": 1793747488,
-          "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
-          "event_slug": "which-party-will-win-the-house-in-2026",
-          "result": "win"
-        }
-      ]
+      "recentTrades": []
     },
     {
       "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
@@ -2686,10 +2663,10 @@
       "label": "surfandturf",
       "stats48h": {
         "wins": 3,
-        "losses": 24,
-        "totalTrades": 32,
-        "winRate": 0.1111111111111111,
-        "volume": 138277.74247764467,
+        "losses": 22,
+        "totalTrades": 30,
+        "winRate": 0.12,
+        "volume": 132839.70027764468,
         "pnl": 0
       },
       "recentTrades": [
@@ -3022,28 +2999,6 @@
           "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
           "event_slug": "texas-senate-election-winner",
           "result": "loss"
-        },
-        {
-          "title": "Will the Republicans win the Michigan Senate race in 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 363.331,
-          "timestamp": 1793747464,
-          "slug": "will-the-republicans-win-the-michigan-senate-race-in-2026",
-          "event_slug": "michigan-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Republicans win the Texas Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.24,
-          "value": 5074.7112,
-          "timestamp": 1793747080,
-          "slug": "will-the-republicans-win-the-texas-senate-race-in-2026",
-          "event_slug": "texas-senate-election-winner",
-          "result": "loss"
         }
       ]
     },
@@ -3051,10 +3006,10 @@
       "address": "0x511f9c771449162349795d17becf8b37031acbe1",
       "label": "ethanaz",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 5,
+        "losses": 1,
         "totalTrades": 500,
-        "winRate": 0,
+        "winRate": 0.8333333333333334,
         "volume": 5268.072620022186,
         "pnl": 0
       },
@@ -3189,7 +3144,7 @@
           "timestamp": 1793998066,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-40-64",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will Elon Musk post 40-64 tweets from November 5 to November 7, 2026?",
@@ -3200,7 +3155,7 @@
           "timestamp": 1793997093,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-40-64",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 115-139 tweets from November 5 to November 7, 2026?",
@@ -3288,7 +3243,7 @@
           "timestamp": 1793996581,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-40-64",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 140-164 tweets from November 5 to November 7, 2026?",
@@ -3310,7 +3265,7 @@
           "timestamp": 1793996581,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-40-64",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 140-164 tweets from November 5 to November 7, 2026?",
@@ -3398,7 +3353,7 @@
           "timestamp": 1793994165,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-40-64",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 165-189 tweets from November 5 to November 7, 2026?",
@@ -3431,7 +3386,7 @@
           "timestamp": 1793994141,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-40-64",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 115-139 tweets from November 5 to November 7, 2026?",
@@ -5259,10 +5214,54 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3348.256259995802,
+        "volume": 2354.614659995053,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Operário Ferroviário EC vs. SC Recife: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.98,
+          "value": 19.6,
+          "timestamp": 1794006529,
+          "slug": "bra2-ope-rec-2026-11-06-total-2pt5",
+          "event_slug": "bra2-ope-rec-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Operário Ferroviário EC vs. SC Recife: 1st Half O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.3559525346,
+          "value": 14.209999999250932,
+          "timestamp": 1794006517,
+          "slug": "bra2-ope-rec-2026-11-06-first-half-total-2pt5",
+          "event_slug": "bra2-ope-rec-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Bank of Korea hike by 25 bps at the November 2026 meeting?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.95,
+          "value": 23.75,
+          "timestamp": 1794006451,
+          "slug": "will-the-bank-of-korea-hike-by-25-bps-at-the-november-2026-meeting",
+          "event_slug": "bank-of-korea-decision-in-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump say \"Mars\" at Cape Canaveral?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.17,
+          "value": 6.4566,
+          "timestamp": 1794006427,
+          "slug": "will-trump-say-mars-at-cape-canaveral-november-6",
+          "event_slug": "what-will-trump-say-at-cape-canaveral-november-6",
+          "result": "ongoing"
+        },
         {
           "title": "Will CD Riestra win on 2026-11-06?",
           "side": "BUY",
@@ -5768,53 +5767,9 @@
           "slug": "arg-uni-vel-2026-11-06-vel",
           "event_slug": "arg-uni-vel-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Will CA Unión win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8,
-          "value": 386.6,
-          "timestamp": 1794004030,
-          "slug": "arg-uni-vel-2026-11-06-uni",
-          "event_slug": "arg-uni-vel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Unión vs. CA Vélez Sarsfield end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.86,
-          "value": 75.67999999999999,
-          "timestamp": 1794004006,
-          "slug": "arg-uni-vel-2026-11-06-draw",
-          "event_slug": "arg-uni-vel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Unión win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.79,
-          "value": 99.9982,
-          "timestamp": 1794003993,
-          "slug": "arg-uni-vel-2026-11-06-uni",
-          "event_slug": "arg-uni-vel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Vélez Sarsfield win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 495.38,
-          "timestamp": 1794003993,
-          "slug": "arg-uni-vel-2026-11-06-vel",
-          "event_slug": "arg-uni-vel-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T23:08:35.357Z"
+  "lastUpdate": "2026-11-06T23:22:33.955Z"
 }
