@@ -595,10 +595,10 @@
       "label": "chubbytoro",
       "stats48h": {
         "wins": 16,
-        "losses": 22,
-        "totalTrades": 38,
-        "winRate": 0.42105263157894735,
-        "volume": 125441.38449974722,
+        "losses": 21,
+        "totalTrades": 37,
+        "winRate": 0.43243243243243246,
+        "volume": 125431.85949974722,
         "pnl": 0
       },
       "recentTrades": [
@@ -1008,17 +1008,6 @@
           "slug": "nhl-stl-nyr-2026-11-03-spread-home-1pt5",
           "event_slug": "nhl-stl-nyr-2026-11-03",
           "result": "win"
-        },
-        {
-          "title": "Golden Knights vs. Penguins",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.5,
-          "value": 9.525,
-          "timestamp": 1793697252,
-          "slug": "nhl-las-pit-2026-11-03",
-          "event_slug": "nhl-las-pit-2026-11-03",
-          "result": "loss"
         }
       ]
     },
@@ -1840,7 +1829,7 @@
       "stats48h": {
         "wins": 0,
         "losses": 48,
-        "totalTrades": 159,
+        "totalTrades": 156,
         "winRate": 0,
         "volume": 636796.51720175,
         "pnl": 0
@@ -4897,5 +4886,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T09:15:32.134Z"
+  "lastUpdate": "2026-11-06T09:24:27.642Z"
 }
