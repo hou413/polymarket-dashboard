@@ -1276,7 +1276,7 @@
       "stats48h": {
         "wins": 1,
         "losses": 0,
-        "totalTrades": 136,
+        "totalTrades": 133,
         "winRate": 1,
         "volume": 18119.753700115918,
         "pnl": 0
@@ -2818,10 +2818,10 @@
       "label": "surfandturf",
       "stats48h": {
         "wins": 5,
-        "losses": 34,
-        "totalTrades": 42,
-        "winRate": 0.1282051282051282,
-        "volume": 174759.6673776447,
+        "losses": 33,
+        "totalTrades": 41,
+        "winRate": 0.13157894736842105,
+        "volume": 171732.15717764472,
         "pnl": 0
       },
       "recentTrades": [
@@ -3273,17 +3273,6 @@
           "value": 71.94,
           "timestamp": 1793729515,
           "slug": "will-the-republicans-win-the-michigan-senate-race-in-2026",
-          "event_slug": "michigan-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Democrats win the Michigan Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.22,
-          "value": 3027.5102,
-          "timestamp": 1793727967,
-          "slug": "will-the-democrats-win-the-michigan-senate-race-in-2026",
           "event_slug": "michigan-senate-election-winner",
           "result": "loss"
         }
@@ -5490,10 +5479,109 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 20519.465240232817,
+        "volume": 13469.652740232817,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Luca Van Assche vs Rinky Hijikata",
+          "side": "SELL",
+          "outcome": "Luca Van Assche",
+          "price": 0.85,
+          "value": 1.9975,
+          "timestamp": 1793987653,
+          "slug": "atp-assche-hijikat-2026-11-06",
+          "event_slug": "atp-assche-hijikat-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Luca Van Assche vs Rinky Hijikata",
+          "side": "BUY",
+          "outcome": "Luca Van Assche",
+          "price": 0.82,
+          "value": 21.32,
+          "timestamp": 1793987650,
+          "slug": "atp-assche-hijikat-2026-11-06",
+          "event_slug": "atp-assche-hijikat-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the 10-year Treasury yield dip below 4.70% in November?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.37,
+          "value": 14.8,
+          "timestamp": 1793987620,
+          "slug": "will-the-10-year-treasury-yield-dip-below-4pt70-in-november",
+          "event_slug": "how-low-will-10-year-treasury-yield-get-in-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 38.410000000000004,
+          "timestamp": 1793987049,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 74.06,
+          "timestamp": 1793987047,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "W15 Hilton Head Island, SC: Kallista Liu vs Emery Combs",
+          "side": "BUY",
+          "outcome": "Kallista Liu",
+          "price": 0.39,
+          "value": 602.94,
+          "timestamp": 1793987043,
+          "slug": "itf-liu13-combs1-2026-11-06",
+          "event_slug": "itf-liu13-combs1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "W15 Hilton Head Island, SC: Kallista Liu vs Emery Combs",
+          "side": "BUY",
+          "outcome": "Kallista Liu",
+          "price": 0.39,
+          "value": 572.52,
+          "timestamp": 1793987041,
+          "slug": "itf-liu13-combs1-2026-11-06",
+          "event_slug": "itf-liu13-combs1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "W15 Hilton Head Island, SC: Kallista Liu vs Emery Combs",
+          "side": "BUY",
+          "outcome": "Kallista Liu",
+          "price": 0.39,
+          "value": 572.52,
+          "timestamp": 1793987040,
+          "slug": "itf-liu13-combs1-2026-11-06",
+          "event_slug": "itf-liu13-combs1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "W15 Hilton Head Island, SC: Kallista Liu vs Emery Combs",
+          "side": "BUY",
+          "outcome": "Kallista Liu",
+          "price": 0.39,
+          "value": 572.52,
+          "timestamp": 1793987037,
+          "slug": "itf-liu13-combs1-2026-11-06",
+          "event_slug": "itf-liu13-combs1-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Sariyer SK vs. Igdir FK: O/U 0.5",
           "side": "BUY",
@@ -5944,108 +6032,9 @@
           "slug": "itf-tilbue1-fagan1-2026-11-06",
           "event_slug": "itf-tilbue1-fagan1-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 1439.25,
-          "timestamp": 1793982993,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 1439.25,
-          "timestamp": 1793982991,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 1439.25,
-          "timestamp": 1793982991,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 1439.25,
-          "timestamp": 1793982988,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 1439.25,
-          "timestamp": 1793982988,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 174.79999999999998,
-          "timestamp": 1793982987,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 323.95,
-          "timestamp": 1793982984,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 800.8499999999999,
-          "timestamp": 1793982984,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 1025.05,
-          "timestamp": 1793982982,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T17:43:46.864Z"
+  "lastUpdate": "2026-11-06T17:57:44.719Z"
 }
