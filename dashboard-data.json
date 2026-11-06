@@ -594,11 +594,11 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 8,
+        "wins": 6,
         "losses": 17,
-        "totalTrades": 32,
-        "winRate": 0.32,
-        "volume": 105073.2472000745,
+        "totalTrades": 30,
+        "winRate": 0.2608695652173913,
+        "volume": 94013.7892000745,
         "pnl": 0
       },
       "recentTrades": [
@@ -931,28 +931,6 @@
           "slug": "nhl-ott-buf-2026-11-04-spread-away-1pt5",
           "event_slug": "nhl-ott-buf-2026-11-04",
           "result": "loss"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.6,
-          "value": 5059.458,
-          "timestamp": 1793748394,
-          "slug": "nhl-col-cbj-2026-11-03-total-5pt5",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.6,
-          "value": 6000,
-          "timestamp": 1793748394,
-          "slug": "nhl-col-cbj-2026-11-03-total-5pt5",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
         }
       ]
     },
@@ -1121,7 +1099,7 @@
       "stats48h": {
         "wins": 2,
         "losses": 0,
-        "totalTrades": 146,
+        "totalTrades": 145,
         "winRate": 1,
         "volume": 15855.032198904313,
         "pnl": 0
@@ -2663,10 +2641,10 @@
       "label": "surfandturf",
       "stats48h": {
         "wins": 3,
-        "losses": 22,
-        "totalTrades": 30,
-        "winRate": 0.12,
-        "volume": 132839.70027764468,
+        "losses": 18,
+        "totalTrades": 26,
+        "winRate": 0.14285714285714285,
+        "volume": 123497.80837764467,
         "pnl": 0
       },
       "recentTrades": [
@@ -2955,50 +2933,6 @@
           "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
           "event_slug": "texas-senate-election-winner",
           "result": "loss"
-        },
-        {
-          "title": "Will the Democrats win the Texas Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.21,
-          "value": 2184.357,
-          "timestamp": 1793748576,
-          "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
-          "event_slug": "texas-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Republicans win the Texas Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.2,
-          "value": 4275.784,
-          "timestamp": 1793748489,
-          "slug": "will-the-republicans-win-the-texas-senate-race-in-2026",
-          "event_slug": "texas-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Republicans win the Texas Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.19,
-          "value": 1165.0286999999998,
-          "timestamp": 1793748390,
-          "slug": "will-the-republicans-win-the-texas-senate-race-in-2026",
-          "event_slug": "texas-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Democrats win the Texas Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.19,
-          "value": 1716.7222,
-          "timestamp": 1793748348,
-          "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
-          "event_slug": "texas-senate-election-winner",
-          "result": "loss"
         }
       ]
     },
@@ -3010,10 +2944,54 @@
         "losses": 1,
         "totalTrades": 500,
         "winRate": 0.8333333333333334,
-        "volume": 5268.072620022186,
+        "volume": 4712.236260024719,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Anthropic’s market cap be between $400B and $600B at market close on IPO da",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 29.97,
+          "timestamp": 1794007183,
+          "slug": "will-anthropics-market-cap-be-between-400b-and-600b-at-market-close-on-ipo-day-by-december-31-2027",
+          "event_slug": "anthropic-ipo-closing-market-cap-119",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic not IPO by December 31, 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.979,
+          "value": 29.37,
+          "timestamp": 1794007182,
+          "slug": "will-anthropic-not-ipo-by-december-31-2027",
+          "event_slug": "anthropic-ipo-closing-market-cap-119",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 320-339 tweets in November 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.0217,
+          "timestamp": 1794007152,
+          "slug": "elon-musk-of-tweets-november-2026-320-339",
+          "event_slug": "elon-musk-of-tweets-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 320-339 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.096,
+          "value": 1.68,
+          "timestamp": 1794007152,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-320-339",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 400-419 tweets from November 3 to November 10, 2026?",
           "side": "SELL",
@@ -3518,50 +3496,6 @@
           "timestamp": 1793993302,
           "slug": "f1-brazilian-grand-prix-winner-alonso-2026-11-08",
           "event_slug": "f1-brazilian-grand-prix-winner-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Oscar Piastri win the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.989,
-          "value": 283.843,
-          "timestamp": 1793993302,
-          "slug": "f1-brazilian-grand-prix-winner-piastri-2026-11-08",
-          "event_slug": "f1-brazilian-grand-prix-winner-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Charles Leclerc win the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.95,
-          "value": 272.65,
-          "timestamp": 1793993302,
-          "slug": "f1-brazilian-grand-prix-winner-leclerc-2026-11-08",
-          "event_slug": "f1-brazilian-grand-prix-winner-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 190-214 tweets from November 5 to November 7, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.060770000000000005,
-          "timestamp": 1793993242,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-190-214",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 140-164 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9928289993,
-          "value": 60.324289997468,
-          "timestamp": 1793993008,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-140-164",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
           "result": "ongoing"
         }
       ]
@@ -5214,10 +5148,439 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2354.614659995053,
+        "volume": 701.7232989906515,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Karmine Corp Make the Worlds 2026 Grand Final?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.96,
+          "value": 48,
+          "timestamp": 1794007680,
+          "slug": "will-karmine-corp-make-the-worlds-2026-grand-final",
+          "event_slug": "worlds-2026-team-to-make-grand-finals",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Club Independiente Petrolero win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.6499999961,
+          "value": 16.499999001000006,
+          "timestamp": 1794007662,
+          "slug": "bol1-idp-tom-2026-11-06-idp",
+          "event_slug": "bol1-idp-tom-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Club Independiente Petrolero win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.66,
+          "value": 21.12,
+          "timestamp": 1794007657,
+          "slug": "bol1-idp-tom-2026-11-06-idp",
+          "event_slug": "bol1-idp-tom-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Boca Juniors vs. San Martin de Corrientes",
+          "side": "BUY",
+          "outcome": "San Martin de Corrientes",
+          "price": 0.15,
+          "value": 45,
+          "timestamp": 1794007650,
+          "slug": "bkarg-boc-san-2026-11-06",
+          "event_slug": "bkarg-boc-san-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CD Real Tomayapo win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.89,
+          "value": 16.02,
+          "timestamp": 1794007629,
+          "slug": "bol1-idp-tom-2026-11-06-tom",
+          "event_slug": "bol1-idp-tom-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CD Real Tomayapo win on 2026-11-06?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.88,
+          "value": 22.88,
+          "timestamp": 1794007609,
+          "slug": "bol1-idp-tom-2026-11-06-tom",
+          "event_slug": "bol1-idp-tom-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CD Real Tomayapo win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.88,
+          "value": 28.16,
+          "timestamp": 1794007603,
+          "slug": "bol1-idp-tom-2026-11-06-tom",
+          "event_slug": "bol1-idp-tom-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CD Real Tomayapo win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.88,
+          "value": 26.4,
+          "timestamp": 1794007602,
+          "slug": "bol1-idp-tom-2026-11-06-tom",
+          "event_slug": "bol1-idp-tom-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CD Real Tomayapo win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.88,
+          "value": 17.6,
+          "timestamp": 1794007591,
+          "slug": "bol1-idp-tom-2026-11-06-tom",
+          "event_slug": "bol1-idp-tom-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Club Independiente Petrolero win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.68,
+          "value": 12.24,
+          "timestamp": 1794007578,
+          "slug": "bol1-idp-tom-2026-11-06-idp",
+          "event_slug": "bol1-idp-tom-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Club Independiente Petrolero win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.7,
+          "value": 19.599999999999998,
+          "timestamp": 1794007560,
+          "slug": "bol1-idp-tom-2026-11-06-idp",
+          "event_slug": "bol1-idp-tom-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Club Independiente Petrolero win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.73,
+          "value": 11.877099999999999,
+          "timestamp": 1794007486,
+          "slug": "bol1-idp-tom-2026-11-06-idp",
+          "event_slug": "bol1-idp-tom-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007437,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007437,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump say \"Space Force\" at Cape Canaveral?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.98,
+          "value": 6.859999999999999,
+          "timestamp": 1794007434,
+          "slug": "will-trump-say-space-force-at-cape-canaveral-november-6",
+          "event_slug": "what-will-trump-say-at-cape-canaveral-november-6",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump say \"Space Force\" at Cape Canaveral?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.98,
+          "value": 12.74,
+          "timestamp": 1794007434,
+          "slug": "will-trump-say-space-force-at-cape-canaveral-november-6",
+          "event_slug": "what-will-trump-say-at-cape-canaveral-november-6",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump say \"Space Force\" at Cape Canaveral?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.98,
+          "value": 50.96,
+          "timestamp": 1794007434,
+          "slug": "will-trump-say-space-force-at-cape-canaveral-november-6",
+          "event_slug": "what-will-trump-say-at-cape-canaveral-november-6",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump say \"Space Force\" at Cape Canaveral?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.98,
+          "value": 25.48,
+          "timestamp": 1794007432,
+          "slug": "will-trump-say-space-force-at-cape-canaveral-november-6",
+          "event_slug": "what-will-trump-say-at-cape-canaveral-november-6",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 2.16,
+          "timestamp": 1794007389,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007362,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007362,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007362,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007360,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007360,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007360,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007359,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007359,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007359,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007359,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007357,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007357,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007357,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007357,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bilibili Gaming win Worlds 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.216,
+          "value": 6.4799999999999995,
+          "timestamp": 1794007356,
+          "slug": "will-bilibili-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Eastern Washington Eagles vs. Oregon Ducks",
+          "side": "BUY",
+          "outcome": "Eastern Washington Eagles",
+          "price": 0.08,
+          "value": 0.0296,
+          "timestamp": 1794007338,
+          "slug": "cbb-ewash-ore-2026-11-06",
+          "event_slug": "cbb-ewash-ore-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Arkansas-Pine Bluff Golden Lions vs. Baylor Bears: O/U 157.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.69,
+          "value": 34.5,
+          "timestamp": 1794007318,
+          "slug": "cbb-arpb-bayl-2026-11-06-total-157pt5",
+          "event_slug": "cbb-arpb-bayl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "EC Vitória vs. Fluminense FC: 1st Half O/U 1.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.52,
+          "value": 5.2,
+          "timestamp": 1794007287,
+          "slug": "bra-vit-flu-2026-11-06-first-half-total-1pt5",
+          "event_slug": "bra-vit-flu-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "EC Vitória vs. Fluminense FC: 1st Half O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.52,
+          "value": 28.080000000000002,
+          "timestamp": 1794007279,
+          "slug": "bra-vit-flu-2026-11-06-first-half-total-1pt5",
+          "event_slug": "bra-vit-flu-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Operário Ferroviário EC vs. SC Recife: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.19,
+          "value": 6.84,
+          "timestamp": 1794007267,
+          "slug": "bra2-ope-rec-2026-11-06-total-4pt5",
+          "event_slug": "bra2-ope-rec-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Operário Ferroviário EC vs. SC Recife: O/U 2.5",
           "side": "BUY",
@@ -5338,438 +5701,9 @@
           "slug": "bra2-ope-rec-2026-11-06-halftime-result-draw",
           "event_slug": "bra2-ope-rec-2026-11-06-halftime-result",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Operário Ferroviário EC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.68,
-          "value": 218.96,
-          "timestamp": 1794005160,
-          "slug": "bra2-ope-rec-2026-11-06-ope",
-          "event_slug": "bra2-ope-rec-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Operário Ferroviário EC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.68,
-          "value": 218.96,
-          "timestamp": 1794005158,
-          "slug": "bra2-ope-rec-2026-11-06-ope",
-          "event_slug": "bra2-ope-rec-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Operário Ferroviário EC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.68,
-          "value": 216.24,
-          "timestamp": 1794005157,
-          "slug": "bra2-ope-rec-2026-11-06-ope",
-          "event_slug": "bra2-ope-rec-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Operário Ferroviário EC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.68,
-          "value": 199.24,
-          "timestamp": 1794005155,
-          "slug": "bra2-ope-rec-2026-11-06-ope",
-          "event_slug": "bra2-ope-rec-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Independiente vs. CD Riestra end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.84,
-          "value": 26.04,
-          "timestamp": 1794005152,
-          "slug": "arg-ind-rie-2026-11-06-draw",
-          "event_slug": "arg-ind-rie-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Operário Ferroviário EC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.68,
-          "value": 42.160000000000004,
-          "timestamp": 1794005146,
-          "slug": "bra2-ope-rec-2026-11-06-ope",
-          "event_slug": "bra2-ope-rec-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Operário Ferroviário EC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.68,
-          "value": 46.24,
-          "timestamp": 1794005130,
-          "slug": "bra2-ope-rec-2026-11-06-ope",
-          "event_slug": "bra2-ope-rec-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Operário Ferroviário EC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.67,
-          "value": 49.580000000000005,
-          "timestamp": 1794005112,
-          "slug": "bra2-ope-rec-2026-11-06-ope",
-          "event_slug": "bra2-ope-rec-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Operário Ferroviário EC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.5099999054,
-          "value": 1.239999999992114,
-          "timestamp": 1794005095,
-          "slug": "bra2-ope-rec-2026-11-06-ope",
-          "event_slug": "bra2-ope-rec-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Massachusetts Minutemen vs. Boston College Eagles",
-          "side": "BUY",
-          "outcome": "Massachusetts Minutemen",
-          "price": 0.04,
-          "value": 24.68,
-          "timestamp": 1794005034,
-          "slug": "cbb-umass-boscol-2026-11-06",
-          "event_slug": "cbb-umass-boscol-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Unión win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.06,
-          "value": 7.5,
-          "timestamp": 1794005008,
-          "slug": "arg-uni-vel-2026-11-06-uni",
-          "event_slug": "arg-uni-vel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Unión vs. CA Vélez Sarsfield: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.04,
-          "value": 8.870000000000001,
-          "timestamp": 1794004938,
-          "slug": "arg-uni-vel-2026-11-06-total-1pt5",
-          "event_slug": "arg-uni-vel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Unión vs. CA Vélez Sarsfield: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.04,
-          "value": 19.150000000000002,
-          "timestamp": 1794004936,
-          "slug": "arg-uni-vel-2026-11-06-total-1pt5",
-          "event_slug": "arg-uni-vel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Northeastern Huskies vs. Virginia Cavaliers",
-          "side": "BUY",
-          "outcome": "Virginia Cavaliers",
-          "price": 0.97,
-          "value": 388,
-          "timestamp": 1794004869,
-          "slug": "cbb-neast-vir-2026-11-06",
-          "event_slug": "cbb-neast-vir-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Layne Riggs win the 2026 NASCAR Craftsman Truck Series championship?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.36,
-          "value": 6.12,
-          "timestamp": 1794004788,
-          "slug": "will-layne-riggs-win-the-2026-nascar-craftsman-truck-series-championship",
-          "event_slug": "nascar-craftsman-truck-series-champion-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Famalicão vs. FC Arouca: O/U 1.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.039,
-          "value": 2.43945,
-          "timestamp": 1794004756,
-          "slug": "por-fam-aro-2026-11-06-total-1pt5",
-          "event_slug": "por-fam-aro-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Famalicão vs. FC Arouca: O/U 1.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.0223824065,
-          "value": 1.106810001425,
-          "timestamp": 1794004755,
-          "slug": "por-fam-aro-2026-11-06-total-1pt5",
-          "event_slug": "por-fam-aro-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Famalicão vs. FC Arouca: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.04,
-          "value": 8.333200000000001,
-          "timestamp": 1794004752,
-          "slug": "por-fam-aro-2026-11-06-total-1pt5",
-          "event_slug": "por-fam-aro-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Famalicão win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.01,
-          "value": 1.3800000000000001,
-          "timestamp": 1794004749,
-          "slug": "por-fam-aro-2026-11-06-fam",
-          "event_slug": "por-fam-aro-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Famalicão vs. FC Arouca: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.69,
-          "timestamp": 1794004734,
-          "slug": "por-fam-aro-2026-11-06-total-0pt5",
-          "event_slug": "por-fam-aro-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Famalicão vs. FC Arouca: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.3,
-          "timestamp": 1794004717,
-          "slug": "por-fam-aro-2026-11-06-total-0pt5",
-          "event_slug": "por-fam-aro-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Famalicão vs. FC Arouca: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 2.38,
-          "timestamp": 1794004716,
-          "slug": "por-fam-aro-2026-11-06-total-0pt5",
-          "event_slug": "por-fam-aro-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Famalicão vs. FC Arouca: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 2.38,
-          "timestamp": 1794004714,
-          "slug": "por-fam-aro-2026-11-06-total-0pt5",
-          "event_slug": "por-fam-aro-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Famalicão win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.03,
-          "value": 7.26,
-          "timestamp": 1794004708,
-          "slug": "por-fam-aro-2026-11-06-fam",
-          "event_slug": "por-fam-aro-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Famalicão vs. FC Arouca: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.03,
-          "value": 1.8299999999999998,
-          "timestamp": 1794004693,
-          "slug": "por-fam-aro-2026-11-06-total-0pt5",
-          "event_slug": "por-fam-aro-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Platense win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4163072648,
-          "value": 21.42000000155749,
-          "timestamp": 1794004687,
-          "slug": "arg-slo-pla-2026-11-06-pla",
-          "event_slug": "arg-slo-pla-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Famalicão win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.02,
-          "value": 1.05,
-          "timestamp": 1794004686,
-          "slug": "por-fam-aro-2026-11-06-fam",
-          "event_slug": "por-fam-aro-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Famalicão win on 2026-11-06?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.021,
-          "value": 1.26,
-          "timestamp": 1794004669,
-          "slug": "por-fam-aro-2026-11-06-fam",
-          "event_slug": "por-fam-aro-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Famalicão win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.04,
-          "value": 3.2800000000000002,
-          "timestamp": 1794004666,
-          "slug": "por-fam-aro-2026-11-06-fam",
-          "event_slug": "por-fam-aro-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Famalicão win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.04,
-          "value": 2.15,
-          "timestamp": 1794004663,
-          "slug": "por-fam-aro-2026-11-06-fam",
-          "event_slug": "por-fam-aro-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs",
-          "side": "BUY",
-          "outcome": "T1",
-          "price": 0.87,
-          "value": 113.1,
-          "timestamp": 1794004629,
-          "slug": "lol-kc-t1-2026-11-04",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Platense win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.47,
-          "value": 27.729999999999997,
-          "timestamp": 1794004602,
-          "slug": "arg-slo-pla-2026-11-06-pla",
-          "event_slug": "arg-slo-pla-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Famalicão vs. FC Arouca: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.94,
-          "value": 2.9985999999999997,
-          "timestamp": 1794004600,
-          "slug": "por-fam-aro-2026-11-06-total-0pt5",
-          "event_slug": "por-fam-aro-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will \"Godzilla Minus Zero\" score at least 92 on the Rotten Tomatoes Tomatometer?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.1299999994,
-          "value": 10.48000000163077,
-          "timestamp": 1794004486,
-          "slug": "will-godzilla-minus-zero-score-at-least-92-on-the-rotten-tomatoes-tomatometer-20261109",
-          "event_slug": "godzilla-minus-zero-rotten-tomatoes-score-20261109",
-          "result": "ongoing"
-        },
-        {
-          "title": "West Florida Argonauts vs. Florida International Golden Panthers",
-          "side": "BUY",
-          "outcome": "West Florida Argonauts",
-          "price": 0.0589999996,
-          "value": 3.5700000007966097,
-          "timestamp": 1794004482,
-          "slug": "cbb-uwf-flint-2026-11-06",
-          "event_slug": "cbb-uwf-flint-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the 10-year Treasury yield hit 5.29% in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9,
-          "value": 50.4,
-          "timestamp": 1794004420,
-          "slug": "will-the-10-year-treasury-yield-hit-5pt29-in-november",
-          "event_slug": "how-high-will-10-year-treasury-yield-go-in-november",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Independiente win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.16,
-          "value": 6.08,
-          "timestamp": 1794004140,
-          "slug": "arg-ind-rie-2026-11-06-ind",
-          "event_slug": "arg-ind-rie-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Vélez Sarsfield win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 24.439999999999998,
-          "timestamp": 1794004032,
-          "slug": "arg-uni-vel-2026-11-06-vel",
-          "event_slug": "arg-uni-vel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Vélez Sarsfield win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 450.26,
-          "timestamp": 1794004032,
-          "slug": "arg-uni-vel-2026-11-06-vel",
-          "event_slug": "arg-uni-vel-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T23:22:33.955Z"
+  "lastUpdate": "2026-11-06T23:37:58.409Z"
 }
