@@ -1027,10 +1027,10 @@
       "label": "Netrol",
       "stats48h": {
         "wins": 3,
-        "losses": 1,
-        "totalTrades": 4,
-        "winRate": 0.75,
-        "volume": 72392.6955,
+        "losses": 0,
+        "totalTrades": 3,
+        "winRate": 1,
+        "volume": 40392.6955,
         "pnl": 0
       },
       "recentTrades": [
@@ -1066,17 +1066,6 @@
           "slug": "will-the-republicans-win-the-florida-governor-race-in-2026",
           "event_slug": "florida-governor-winner-2026",
           "result": "win"
-        },
-        {
-          "title": "Will the Republicans win the Texas governor race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.64,
-          "value": 32000,
-          "timestamp": 1793729352,
-          "slug": "will-the-republicans-win-the-texas-governor-race-in-2026",
-          "event_slug": "texas-governor-winner-2026",
-          "result": "loss"
         }
       ]
     },
@@ -2818,10 +2807,10 @@
       "label": "surfandturf",
       "stats48h": {
         "wins": 5,
-        "losses": 33,
-        "totalTrades": 41,
-        "winRate": 0.13157894736842105,
-        "volume": 171732.15717764472,
+        "losses": 32,
+        "totalTrades": 40,
+        "winRate": 0.13513513513513514,
+        "volume": 171660.21717764472,
         "pnl": 0
       },
       "recentTrades": [
@@ -3264,17 +3253,6 @@
           "slug": "will-the-democrats-win-the-michigan-senate-race-in-2026",
           "event_slug": "michigan-senate-election-winner",
           "result": "loss"
-        },
-        {
-          "title": "Will the Republicans win the Michigan Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.22,
-          "value": 71.94,
-          "timestamp": 1793729515,
-          "slug": "will-the-republicans-win-the-michigan-senate-race-in-2026",
-          "event_slug": "michigan-senate-election-winner",
-          "result": "loss"
         }
       ]
     },
@@ -3286,10 +3264,153 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9407.606660055048,
+        "volume": 9414.72357004724,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Amir Ohana be the next Prime Minister of Israel?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.1,
+          "timestamp": 1793988993,
+          "slug": "will-amir-ohana-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Israel Katz be the next Prime Minister of Israel?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.1,
+          "timestamp": 1793988993,
+          "slug": "will-israel-katz-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yossi Cohen be the next Prime Minister of Israel?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.1,
+          "timestamp": 1793988993,
+          "slug": "will-yossi-cohen-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 183.88595,
+          "timestamp": 1793988922,
+          "slug": "will-ebba-busch-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.5297173854,
+          "value": 97.897069995774,
+          "timestamp": 1793988922,
+          "slug": "will-ulf-kristersson-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.799,
+          "value": 79.9,
+          "timestamp": 1793988774,
+          "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Naftali Bennett be the next Prime Minister of Israel?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.984009,
+          "value": 98.40090000000001,
+          "timestamp": 1793988774,
+          "slug": "will-naftali-bennett-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.35,
+          "value": 35,
+          "timestamp": 1793988772,
+          "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sal Stewart win the 2026 NL Rookie of the Year award?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.992,
+          "value": 9.93984,
+          "timestamp": 1793988552,
+          "slug": "will-sal-stewart-win-the-2026-nl-rookie-of-the-year-award",
+          "event_slug": "mlb-nl-rookie-of-the-year",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Miloš Vučević win the next Serbia presidential election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 0.31764,
+          "timestamp": 1793988252,
+          "slug": "will-milos-vucevic-win-the-next-serbia-presidential-election-20260629192336833",
+          "event_slug": "next-serbia-presidential-election-winner-20260629192336823",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Israel Katz be the next Prime Minister of Israel?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 1.67434,
+          "timestamp": 1793988238,
+          "slug": "will-israel-katz-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yossi Cohen be the next Prime Minister of Israel?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 1.67434,
+          "timestamp": 1793988238,
+          "slug": "will-yossi-cohen-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Amir Ohana be the next Prime Minister of Israel?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 1.67434,
+          "timestamp": 1793988237,
+          "slug": "will-amir-ohana-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
         {
           "title": "Will Naftali Bennett be the next Prime Minister of Israel?",
           "side": "BUY",
@@ -3695,149 +3816,6 @@
           "timestamp": 1793973972,
           "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
           "event_slug": "largest-company-end-of-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.63,
-          "value": 4.914,
-          "timestamp": 1793971248,
-          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
-          "event_slug": "next-prime-minister-of-sweden",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will OpenAI have the highest IPO Market Cap 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 2.811,
-          "timestamp": 1793970969,
-          "slug": "will-openai-have-the-highest-ipo-market-cap-2026-734",
-          "event_slug": "largest-ipo-by-market-cap-in-2026-287",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Brian Schatz be the next Senate Majority Leader?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.948,
-          "value": 185.808,
-          "timestamp": 1793970423,
-          "slug": "will-brian-schatz-be-the-next-senate-majority-leader",
-          "event_slug": "next-senate-majority-leader-485",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4435178983,
-          "value": 42.373700003582,
-          "timestamp": 1793968131,
-          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
-          "event_slug": "next-prime-minister-of-sweden",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 95.25338,
-          "timestamp": 1793968129,
-          "slug": "will-ebba-busch-be-the-next-prime-minister-of-sweden",
-          "event_slug": "next-prime-minister-of-sweden",
-          "result": "ongoing"
-        },
-        {
-          "title": "Callum Turner announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.41,
-          "value": 21.414299999999997,
-          "timestamp": 1793967609,
-          "slug": "callum-turner-announced-as-next-james-bond-288",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 81.836,
-          "timestamp": 1793967057,
-          "slug": "will-ebba-busch-be-the-next-prime-minister-of-sweden",
-          "event_slug": "next-prime-minister-of-sweden",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4,
-          "value": 24,
-          "timestamp": 1793967057,
-          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
-          "event_slug": "next-prime-minister-of-sweden",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Avigdor Lieberman receive the first mandate to form a government after the ",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 4.89397,
-          "timestamp": 1793966632,
-          "slug": "will-avigdor-lieberman-receive-the-first-mandate-to-form-a-government-after-the-2026-israeli-election-20261019144924877",
-          "event_slug": "who-will-receive-the-first-mandate-to-form-israels-next-government-20261019144924877",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Miloš Parandilović win the next Serbia presidential election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.02316,
-          "timestamp": 1793966632,
-          "slug": "will-milos-parandilovic-win-the-next-serbia-presidential-election-20260629192336839",
-          "event_slug": "next-serbia-presidential-election-winner-20260629192336823",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Republican Party hold between 175 and 179 House seats after the 2026 mi",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.289,
-          "value": 28.9,
-          "timestamp": 1793965737,
-          "slug": "will-the-republicans-hold-between-175-and-179-house-seats-after-the-2026-midterm-elections",
-          "event_slug": "republican-house-seats-after-the-2026-midterm-elections-lower-brackets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Brian Schatz be the next Senate Majority Leader?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.942,
-          "value": 9.42,
-          "timestamp": 1793964772,
-          "slug": "will-brian-schatz-be-the-next-senate-majority-leader",
-          "event_slug": "next-senate-majority-leader-485",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chuck Schumer be the next Senate Majority Leader?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.19,
-          "value": 1.9,
-          "timestamp": 1793964771,
-          "slug": "will-chuck-schumer-be-the-next-senate-majority-leader",
-          "event_slug": "next-senate-majority-leader-485",
           "result": "ongoing"
         }
       ]
@@ -5479,10 +5457,164 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 7705.852740176175,
+        "volume": 3854.485699995654,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "AL Wakrah SC vs. Al Shahaniya: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.05,
+          "value": 5.09,
+          "timestamp": 1793989500,
+          "slug": "qat1-alw-sha-2026-11-06-total-2pt5",
+          "event_slug": "qat1-alw-sha-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sariyer SK vs. Igdir FK: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.0235346603,
+          "value": 1.028700001713,
+          "timestamp": 1793989491,
+          "slug": "tur2-sar-igd-2026-11-06-total-0pt5",
+          "event_slug": "tur2-sar-igd-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "AL Wakrah SC vs. Al Shahaniya: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.17,
+          "value": 4.08,
+          "timestamp": 1793989420,
+          "slug": "qat1-alw-sha-2026-11-06-total-2pt5",
+          "event_slug": "qat1-alw-sha-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "AL Wakrah SC vs. Al Shahaniya: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.16,
+          "value": 14.24,
+          "timestamp": 1793989411,
+          "slug": "qat1-alw-sha-2026-11-06-total-2pt5",
+          "event_slug": "qat1-alw-sha-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "AL Wakrah SC vs. Al Shahaniya: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.16,
+          "value": 6.4,
+          "timestamp": 1793989410,
+          "slug": "qat1-alw-sha-2026-11-06-total-2pt5",
+          "event_slug": "qat1-alw-sha-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "AL Wakrah SC vs. Al Shahaniya: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.16,
+          "value": 6.88,
+          "timestamp": 1793989404,
+          "slug": "qat1-alw-sha-2026-11-06-total-2pt5",
+          "event_slug": "qat1-alw-sha-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "AL Wakrah SC vs. Al Shahaniya: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.17,
+          "value": 7.82,
+          "timestamp": 1793989383,
+          "slug": "qat1-alw-sha-2026-11-06-total-2pt5",
+          "event_slug": "qat1-alw-sha-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Nafta 1903 Lendava vs. Olimpija Ljubljana end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.06,
+          "value": 3.1799999999999997,
+          "timestamp": 1793989258,
+          "slug": "slo-naf-oli-2026-11-06-draw",
+          "event_slug": "slo-naf-oli-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will LKP Motor Lublin win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.54,
+          "value": 45.900000000000006,
+          "timestamp": 1793989234,
+          "slug": "pol-mot-plo-2026-11-06-mot",
+          "event_slug": "pol-mot-plo-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will LKP Motor Lublin win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.54,
+          "value": 25.92,
+          "timestamp": 1793989233,
+          "slug": "pol-mot-plo-2026-11-06-mot",
+          "event_slug": "pol-mot-plo-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Olimpija Ljubljana win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.96,
+          "value": 24,
+          "timestamp": 1793989203,
+          "slug": "slo-naf-oli-2026-11-06-oli",
+          "event_slug": "slo-naf-oli-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "LKP Motor Lublin vs. Wisla Plock: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.98,
+          "value": 234.22,
+          "timestamp": 1793989026,
+          "slug": "pol-mot-plo-2026-11-06-total-3pt5",
+          "event_slug": "pol-mot-plo-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "LKP Motor Lublin vs. Wisla Plock: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.83,
+          "value": 208.32999999999998,
+          "timestamp": 1793988996,
+          "slug": "pol-mot-plo-2026-11-06-total-4pt5",
+          "event_slug": "pol-mot-plo-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 3.22,
+          "timestamp": 1793988724,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
         {
           "title": "Will AL Wakrah SC vs. Al Shahaniya end in a draw?",
           "side": "BUY",
@@ -5878,163 +6010,9 @@
           "slug": "tur2-ant-bur-2026-11-06-bur",
           "event_slug": "tur2-ant-bur-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Bursaspor win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.44,
-          "value": 14.52,
-          "timestamp": 1793984634,
-          "slug": "tur2-ant-bur-2026-11-06-bur",
-          "event_slug": "tur2-ant-bur-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Google have the best AI model at the end of November 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.72,
-          "value": 11.52,
-          "timestamp": 1793984520,
-          "slug": "will-google-have-the-best-ai-model-at-the-end-of-november-2026",
-          "event_slug": "which-company-has-the-best-ai-model-end-of-november",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC UTA Arad vs. FC Petrolul Ploieşti: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.0098954739,
-          "value": 1.1900000047923,
-          "timestamp": 1793984509,
-          "slug": "rou1-fua-fpp-2026-11-06-total-0pt5",
-          "event_slug": "rou1-fua-fpp-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC UTA Arad vs. FC Petrolul Ploieşti: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.1,
-          "timestamp": 1793984493,
-          "slug": "rou1-fua-fpp-2026-11-06-total-0pt5",
-          "event_slug": "rou1-fua-fpp-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC UTA Arad vs. FC Petrolul Ploieşti: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.0095749912,
-          "value": 1.1100000048424001,
-          "timestamp": 1793984485,
-          "slug": "rou1-fua-fpp-2026-11-06-total-0pt5",
-          "event_slug": "rou1-fua-fpp-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC UTA Arad vs. FC Petrolul Ploieşti: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.03,
-          "value": 1.65,
-          "timestamp": 1793984455,
-          "slug": "rou1-fua-fpp-2026-11-06-total-0pt5",
-          "event_slug": "rou1-fua-fpp-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will US gas hit $3.95 (Low) in November?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.87,
-          "value": 26.1,
-          "timestamp": 1793984229,
-          "slug": "will-gas-hit-3pt95-low-by-november-30-2026",
-          "event_slug": "will-gas-hit-by-end-of-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "AL Wakrah SC vs. Al Shahaniya: O/U 2.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.53,
-          "value": 25.970000000000002,
-          "timestamp": 1793983660,
-          "slug": "qat1-alw-sha-2026-11-06-total-2pt5",
-          "event_slug": "qat1-alw-sha-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "AL Wakrah SC vs. Al Shahaniya: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 27.929999999999996,
-          "timestamp": 1793983657,
-          "slug": "qat1-alw-sha-2026-11-06-total-2pt5",
-          "event_slug": "qat1-alw-sha-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "SELL",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.979,
-          "value": 2.99574,
-          "timestamp": 1793983291,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.9799999917,
-          "value": 58.860000001491834,
-          "timestamp": 1793983288,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.9799999994,
-          "value": 1306.1100000603408,
-          "timestamp": 1793983287,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.9799999996,
-          "value": 1481.3100000553836,
-          "timestamp": 1793983284,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.9799999996,
-          "value": 1481.3100000553836,
-          "timestamp": 1793983282,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T18:12:28.265Z"
+  "lastUpdate": "2026-11-06T18:27:11.232Z"
 }
