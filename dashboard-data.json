@@ -30,14 +30,25 @@
       "address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
       "label": "sports_whale_1",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 7,
+        "losses": 1,
         "totalTrades": 50,
-        "winRate": 0,
-        "volume": 8068.782400013,
+        "winRate": 0.875,
+        "volume": 8068.082400013001,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Warriors (-4.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.43,
+          "value": 4.3,
+          "timestamp": 1793938354,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-4pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Warriors (-2.5)",
           "side": "BUY",
@@ -102,7 +113,7 @@
           "timestamp": 1793936559,
           "slug": "nfl-jax-bal-2026-11-06-total-36pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Jaguars vs. Ravens: O/U 42.5",
@@ -113,7 +124,7 @@
           "timestamp": 1793936500,
           "slug": "nfl-jax-bal-2026-11-06-total-42pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Jaguars vs. Ravens: O/U 42.5",
@@ -124,7 +135,7 @@
           "timestamp": 1793936500,
           "slug": "nfl-jax-bal-2026-11-06-total-42pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Jaguars vs. Ravens: O/U 32.5",
@@ -135,7 +146,7 @@
           "timestamp": 1793936494,
           "slug": "nfl-jax-bal-2026-11-06-total-32pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Jaguars vs. Ravens: O/U 36.5",
@@ -146,7 +157,7 @@
           "timestamp": 1793936482,
           "slug": "nfl-jax-bal-2026-11-06-total-36pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Jaguars vs. Ravens: O/U 30.5",
@@ -157,7 +168,7 @@
           "timestamp": 1793936181,
           "slug": "nfl-jax-bal-2026-11-06-total-30pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Jaguars vs. Ravens: O/U 30.5",
@@ -168,7 +179,7 @@
           "timestamp": 1793936173,
           "slug": "nfl-jax-bal-2026-11-06-total-30pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Jaguars vs. Ravens: O/U 32.5",
@@ -179,7 +190,7 @@
           "timestamp": 1793936172,
           "slug": "nfl-jax-bal-2026-11-06-total-32pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Jaguars (-16.5)",
@@ -189,17 +200,6 @@
           "value": 455,
           "timestamp": 1793936125,
           "slug": "nfl-jax-bal-2026-11-06-spread-away-16pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-21.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.25,
-          "value": 5,
-          "timestamp": 1793936071,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-21pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
           "result": "ongoing"
         }
@@ -1175,10 +1175,10 @@
       "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
       "label": "ch27er",
       "stats48h": {
-        "wins": 0,
+        "wins": 1,
         "losses": 6,
         "totalTrades": 24,
-        "winRate": 0,
+        "winRate": 0.14285714285714285,
         "volume": 578371.7720000001,
         "pnl": 0
       },
@@ -1214,7 +1214,7 @@
           "timestamp": 1793920180,
           "slug": "nfl-jax-bal-2026-11-06-total-42pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Jaguars vs. Ravens",
@@ -1355,9 +1355,9 @@
       "label": "surfandturf",
       "stats48h": {
         "wins": 2,
-        "losses": 3,
+        "losses": 6,
         "totalTrades": 50,
-        "winRate": 0.4,
+        "winRate": 0.25,
         "volume": 80756.10643764467,
         "pnl": 0
       },
@@ -1382,7 +1382,7 @@
           "timestamp": 1793930556,
           "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Jaguars vs. Ravens: O/U 40.5",
@@ -1393,7 +1393,7 @@
           "timestamp": 1793930505,
           "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Jaguars vs. Ravens: O/U 40.5",
@@ -1404,7 +1404,7 @@
           "timestamp": 1793929906,
           "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Jaguars vs. Ravens",
@@ -1535,52 +1535,716 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 0,
+        "totalTrades": 50,
         "winRate": 0,
-        "volume": 0,
+        "volume": 1058.6587999918008,
         "pnl": 0
       },
-      "recentTrades": []
+      "recentTrades": [
+        {
+          "title": "Will New Zealand First Party win the second-most seats in the New Zealand House ",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.07448,
+          "timestamp": 1793938527,
+          "slug": "will-new-zealand-first-party-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+          "event_slug": "new-zealand-election-2nd-place-393",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will National Party win the second-most seats in the New Zealand House of Repres",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7,
+          "value": 52.136,
+          "timestamp": 1793938312,
+          "slug": "will-national-party-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election-992",
+          "event_slug": "new-zealand-election-2nd-place-393",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.021,
+          "value": 2.793,
+          "timestamp": 1793937726,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Tom Francis announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.013,
+          "value": 1.67011,
+          "timestamp": 1793935864,
+          "slug": "tom-francis-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.006,
+          "value": 0.798,
+          "timestamp": 1793935408,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9492494361,
+          "value": 252.50035000260002,
+          "timestamp": 1793935249,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9736605263,
+          "value": 258.9936999958,
+          "timestamp": 1793935249,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 300-319 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8430879699,
+          "value": 224.2613999934,
+          "timestamp": 1793935249,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-300-319",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.994,
+          "value": 264.404,
+          "timestamp": 1793935249,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "James Norton announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.12847,
+          "timestamp": 1793930637,
+          "slug": "james-norton-announced-as-next-james-bond-289",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Joe Alwyn announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.12847,
+          "timestamp": 1793930637,
+          "slug": "placeholder-8-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jack O'Connell announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.12847,
+          "timestamp": 1793930568,
+          "slug": "jack-oconnell-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Theo James announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.003,
+          "value": 0.38541000000000003,
+          "timestamp": 1793930568,
+          "slug": "theo-james-announced-as-next-james-bond-893",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Harris Dickinson announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.12847,
+          "timestamp": 1793930568,
+          "slug": "harris-dickinson-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Richard Madden announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.12847,
+          "timestamp": 1793930568,
+          "slug": "richard-madden-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        }
+      ]
     },
     {
       "address": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
       "label": "tennischamp",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
-        "totalTrades": 0,
-        "winRate": 0,
-        "volume": 0,
+        "wins": 7,
+        "losses": 2,
+        "totalTrades": 22,
+        "winRate": 0.7777777777777778,
+        "volume": 201418.00273995387,
         "pnl": 0
       },
-      "recentTrades": []
+      "recentTrades": [
+        {
+          "title": "Magic vs. Suns",
+          "side": "SELL",
+          "outcome": "Suns",
+          "price": 0.997,
+          "value": 445.51942,
+          "timestamp": 1793938224,
+          "slug": "nba-orl-phx-2026-11-05",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Suns",
+          "side": "SELL",
+          "outcome": "Suns",
+          "price": 0.998,
+          "value": 1379.2858999999999,
+          "timestamp": 1793937949,
+          "slug": "nba-orl-phx-2026-11-05",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Suns",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.8999999995,
+          "value": 1342.9999999538888,
+          "timestamp": 1793936173,
+          "slug": "nba-orl-phx-2026-11-05",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Suns",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.91,
+          "value": 40564.524000000005,
+          "timestamp": 1793936145,
+          "slug": "nba-orl-phx-2026-11-05",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens",
+          "side": "SELL",
+          "outcome": "Jaguars",
+          "price": 0.999,
+          "value": 41388.57,
+          "timestamp": 1793936115,
+          "slug": "nfl-jax-bal-2026-11-06",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.8,
+          "value": 33144,
+          "timestamp": 1793922873,
+          "slug": "nfl-jax-bal-2026-11-06",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+          "side": "SELL",
+          "outcome": "Taylor Fritz",
+          "price": 0.999,
+          "value": 33358.488119999995,
+          "timestamp": 1793907867,
+          "slug": "atp-fils-fritz-2026-11-05",
+          "event_slug": "atp-fils-fritz-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.78,
+          "value": 14820,
+          "timestamp": 1793904606,
+          "slug": "atp-fils-fritz-2026-11-05",
+          "event_slug": "atp-fils-fritz-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.78,
+          "value": 5261.7864,
+          "timestamp": 1793904499,
+          "slug": "atp-fils-fritz-2026-11-05",
+          "event_slug": "atp-fils-fritz-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.77,
+          "value": 2155.0144,
+          "timestamp": 1793904492,
+          "slug": "atp-fils-fritz-2026-11-05",
+          "event_slug": "atp-fils-fritz-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.75,
+          "value": 2540.3999999999996,
+          "timestamp": 1793904235,
+          "slug": "atp-fils-fritz-2026-11-05",
+          "event_slug": "atp-fils-fritz-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.71,
+          "value": 710.0568,
+          "timestamp": 1793904132,
+          "slug": "atp-fils-fritz-2026-11-05",
+          "event_slug": "atp-fils-fritz-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
+          "side": "BUY",
+          "outcome": "Lorenzo Musetti",
+          "price": 0.83,
+          "value": 13661.8913,
+          "timestamp": 1793896066,
+          "slug": "atp-musetti-assche-2026-11-05",
+          "event_slug": "atp-musetti-assche-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
+          "side": "BUY",
+          "outcome": "Lorenzo Musetti",
+          "price": 0.68,
+          "value": 8205.281200000001,
+          "timestamp": 1793895678,
+          "slug": "atp-musetti-assche-2026-11-05",
+          "event_slug": "atp-musetti-assche-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Rolex Paris Masters: Tommy Paul vs Quentin Halys",
+          "side": "BUY",
+          "outcome": "Tommy Paul",
+          "price": 0.76,
+          "value": 2440.1852,
+          "timestamp": 1793850711,
+          "slug": "atp-paul-halys-2026-11-05",
+          "event_slug": "atp-paul-halys-2026-11-05",
+          "result": "win"
+        }
+      ]
     },
     {
       "address": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
       "label": "chongchong37",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
-        "totalTrades": 0,
-        "winRate": 0,
-        "volume": 0,
+        "wins": 5,
+        "losses": 9,
+        "totalTrades": 18,
+        "winRate": 0.35714285714285715,
+        "volume": 44095.42929997208,
         "pnl": 0
       },
-      "recentTrades": []
+      "recentTrades": [
+        {
+          "title": "Magic vs. Suns: O/U 222.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 2650,
+          "timestamp": 1793930254,
+          "slug": "nba-orl-phx-2026-11-05-total-222pt5",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Crystal Palace FC win on 2026-11-05?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.49,
+          "value": 7350,
+          "timestamp": 1793899645,
+          "slug": "uel-cry-hof-2026-11-05-cry",
+          "event_slug": "uel-cry-hof-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Spurs (-11.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.55,
+          "value": 6583.659500000001,
+          "timestamp": 1793844493,
+          "slug": "nba-dal-sas-2026-11-04-spread-home-11pt5",
+          "event_slug": "nba-dal-sas-2026-11-04",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Spurs (-11.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.54,
+          "value": 1056.5748,
+          "timestamp": 1793842423,
+          "slug": "nba-dal-sas-2026-11-04-spread-home-11pt5",
+          "event_slug": "nba-dal-sas-2026-11-04",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Nuggets (-4.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.52,
+          "value": 208,
+          "timestamp": 1793825059,
+          "slug": "nba-tor-den-2026-11-04-spread-home-4pt5",
+          "event_slug": "nba-tor-den-2026-11-04",
+          "result": "win"
+        },
+        {
+          "title": "Jazz vs. Pelicans: O/U 231.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.49,
+          "value": 28.4494,
+          "timestamp": 1793824165,
+          "slug": "nba-uta-nop-2026-11-04-total-231pt5",
+          "event_slug": "nba-uta-nop-2026-11-04",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Thunder (-3.5)",
+          "side": "BUY",
+          "outcome": "Thunder",
+          "price": 0.5,
+          "value": 7000,
+          "timestamp": 1793823871,
+          "slug": "nba-cle-okc-2026-11-04-spread-home-3pt5",
+          "event_slug": "nba-cle-okc-2026-11-04",
+          "result": "win"
+        },
+        {
+          "title": "Hornets vs. Nets: O/U 213.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 7800,
+          "timestamp": 1793813949,
+          "slug": "nba-cha-bkn-2026-11-04-total-213pt5",
+          "event_slug": "nba-cha-bkn-2026-11-04",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Pistons (-4.5)",
+          "side": "BUY",
+          "outcome": "Pistons",
+          "price": 0.44,
+          "value": 4835.6396,
+          "timestamp": 1793813541,
+          "slug": "nba-phi-det-2026-11-04-spread-home-4pt5",
+          "event_slug": "nba-phi-det-2026-11-04",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Grizzlies (-6.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.52,
+          "value": 569.1452,
+          "timestamp": 1793812909,
+          "slug": "nba-ind-mem-2026-11-04-spread-home-6pt5",
+          "event_slug": "nba-ind-mem-2026-11-04",
+          "result": "win"
+        },
+        {
+          "title": "Will Manchester United FC win on 2026-11-03?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.55,
+          "value": 1947.1045000000001,
+          "timestamp": 1793724316,
+          "slug": "ucl-mnu-rom-2026-11-03-mnu",
+          "event_slug": "ucl-mnu-rom-2026-11-03",
+          "result": "loss"
+        },
+        {
+          "title": "Will Shanghai Port FC win on 2026-11-03?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4491323087,
+          "value": 837.815899972067,
+          "timestamp": 1793692525,
+          "slug": "acle-nuj-shp-2026-11-03-shp",
+          "event_slug": "acle-nuj-shp-2026-11-03",
+          "result": "loss"
+        },
+        {
+          "title": "Newcastle United Jets vs. Shanghai Port FC: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 1979.7804,
+          "timestamp": 1793692234,
+          "slug": "acle-nuj-shp-2026-11-03-total-3pt5",
+          "event_slug": "acle-nuj-shp-2026-11-03-more-markets",
+          "result": "loss"
+        },
+        {
+          "title": "Newcastle United Jets vs. Shanghai Port FC: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.51,
+          "value": 703.8000000000001,
+          "timestamp": 1793692201,
+          "slug": "acle-nuj-shp-2026-11-03-total-3pt5",
+          "event_slug": "acle-nuj-shp-2026-11-03-more-markets",
+          "result": "loss"
+        },
+        {
+          "title": "Kataller Toyama vs. Vegalta Sendai: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 545.46,
+          "timestamp": 1793685880,
+          "slug": "ja2-kat-veg-2026-11-02-total-1pt5",
+          "event_slug": "ja2-kat-veg-2026-11-02-more-markets",
+          "result": "win"
+        }
+      ]
     },
     {
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 0,
+        "wins": 3,
         "losses": 0,
-        "totalTrades": 0,
-        "winRate": 0,
-        "volume": 0,
+        "totalTrades": 50,
+        "winRate": 1,
+        "volume": 25039.567860200383,
         "pnl": 0
       },
-      "recentTrades": []
+      "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Carlos Alcaraz",
+          "price": 0.73,
+          "value": 9.6944,
+          "timestamp": 1793931910,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Carlos Alcaraz",
+          "price": 0.73,
+          "value": 3319.6896,
+          "timestamp": 1793931871,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "New Hampshire Wildcats vs. Rider Broncs",
+          "side": "BUY",
+          "outcome": "New Hampshire Wildcats",
+          "price": 0.65,
+          "value": 26,
+          "timestamp": 1793929776,
+          "slug": "cbb-nhamp-rider-2026-11-05",
+          "event_slug": "cbb-nhamp-rider-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "New Hampshire Wildcats vs. Rider Broncs",
+          "side": "BUY",
+          "outcome": "New Hampshire Wildcats",
+          "price": 0.8283404748,
+          "value": 2745.087199868208,
+          "timestamp": 1793928445,
+          "slug": "cbb-nhamp-rider-2026-11-05",
+          "event_slug": "cbb-nhamp-rider-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Heat vs. Warriors",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.61,
+          "value": 81.7644,
+          "timestamp": 1793926246,
+          "slug": "nba-mia-gsw-2026-11-05",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Z.ai have the best AI model at the end of December 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 9.97832,
+          "timestamp": 1793925972,
+          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
+          "event_slug": "which-company-has-best-ai-model-end-of-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.46,
+          "value": 15.138599999999999,
+          "timestamp": 1793922565,
+          "slug": "atp-shelton-paul-2026-11-06",
+          "event_slug": "atp-shelton-paul-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.46,
+          "value": 2413.0036,
+          "timestamp": 1793922501,
+          "slug": "atp-shelton-paul-2026-11-06",
+          "event_slug": "atp-shelton-paul-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
+          "side": "BUY",
+          "outcome": "Ben Shelton",
+          "price": 0.46,
+          "value": 1498.6616000000001,
+          "timestamp": 1793922367,
+          "slug": "atp-shelton-paul-2026-11-06",
+          "event_slug": "atp-shelton-paul-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chattanooga Mocs vs. Penn State Nittany Lions",
+          "side": "BUY",
+          "outcome": "Penn State Nittany Lions",
+          "price": 0.8809470489,
+          "value": 2478.245000083524,
+          "timestamp": 1793920480,
+          "slug": "cbb-chat-pennst-2026-11-05",
+          "event_slug": "cbb-chat-pennst-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
+          "side": "SELL",
+          "outcome": "Maks Kasnikowski",
+          "price": 0.999,
+          "value": 1553.445,
+          "timestamp": 1793920435,
+          "slug": "atp-kasniko-antoniu-2026-11-05",
+          "event_slug": "atp-kasniko-antoniu-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Will Z.ai have the best AI model at the end of December 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 5.04124,
+          "timestamp": 1793920128,
+          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
+          "event_slug": "which-company-has-best-ai-model-end-of-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
+          "side": "SELL",
+          "outcome": "Maks Kasnikowski",
+          "price": 0.999,
+          "value": 999,
+          "timestamp": 1793920101,
+          "slug": "atp-kasniko-antoniu-2026-11-05",
+          "event_slug": "atp-kasniko-antoniu-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Will Gukesh Dommaraju win the 2026 World Chess Championship?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.76,
+          "value": 37.0272,
+          "timestamp": 1793919699,
+          "slug": "will-gukesh-dommaraju-win-the-2026-world-chess-championship",
+          "event_slug": "2026-world-chess-championship-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.9072944126,
+          "value": 9847.791700248652,
+          "timestamp": 1793919633,
+          "slug": "nba-sas-sac-2026-11-06",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-06T04:10:02.692Z"
+  "lastUpdate": "2026-11-06T04:19:35.265Z"
 }
