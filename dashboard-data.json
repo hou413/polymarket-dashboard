@@ -390,9 +390,9 @@
       "stats48h": {
         "wins": 4,
         "losses": 5,
-        "totalTrades": 10,
+        "totalTrades": 9,
         "winRate": 0.4444444444444444,
-        "volume": 112446.32780000001,
+        "volume": 112429.52780000001,
         "pnl": 0
       },
       "recentTrades": [
@@ -494,17 +494,6 @@
           "slug": "will-the-republicans-win-the-texas-senate-race-in-2026",
           "event_slug": "texas-senate-election-winner",
           "result": "loss"
-        },
-        {
-          "title": "US x Iran ceasefire continues through November 2?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.56,
-          "value": 16.8,
-          "timestamp": 1793668011,
-          "slug": "us-x-iran-ceasefire-continues-through-november-2",
-          "event_slug": "us-iran-ceasefire-continues-throughptptpt",
-          "result": "ongoing"
         }
       ]
     },
@@ -512,10 +501,10 @@
       "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
       "label": "VeryLucky888",
       "stats48h": {
-        "wins": 5,
+        "wins": 7,
         "losses": 6,
         "totalTrades": 20,
-        "winRate": 0.45454545454545453,
+        "winRate": 0.5384615384615384,
         "volume": 73956.08770002107,
         "pnl": 0
       },
@@ -551,7 +540,7 @@
           "timestamp": 1793916852,
           "slug": "lol-dk-blg-2026-11-03-game1",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
@@ -562,7 +551,7 @@
           "timestamp": 1793916814,
           "slug": "lol-dk-blg-2026-11-03-game1",
           "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Gen.G vs LYON - Game 3 Winner",
@@ -1548,10 +1537,76 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2216.9984099969997,
+        "volume": 1705.77014,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.99,
+          "value": 11.879999999999999,
+          "timestamp": 1793927328,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.944,
+          "value": 11.328,
+          "timestamp": 1793927328,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 300-319 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.78,
+          "value": 9.36,
+          "timestamp": 1793927328,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-300-319",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 360-379 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 11.975999999999999,
+          "timestamp": 1793927328,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-360-379",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.95,
+          "value": 11.399999999999999,
+          "timestamp": 1793927326,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Artificial win Best Picture at the 99th Academy Awards?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.25,
+          "timestamp": 1793927299,
+          "slug": "will-artificial-win-best-picture-at-the-99th-academy-awards-20260727174029865",
+          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
+          "result": "ongoing"
+        },
         {
           "title": "Will Invictus Gaming win Worlds 2026?",
           "side": "SELL",
@@ -1649,72 +1704,6 @@
           "timestamp": 1793921995,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 360-379 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 129.74,
-          "timestamp": 1793921995,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-360-379",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Karmine Corp win Worlds 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.99,
-          "value": 103.95,
-          "timestamp": 1793919916,
-          "slug": "will-karmine-corp-win-worlds-2026",
-          "event_slug": "worlds-2026-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will T1 win Worlds 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.81,
-          "value": 85.05000000000001,
-          "timestamp": 1793919916,
-          "slug": "will-t1-win-worlds-2026",
-          "event_slug": "worlds-2026-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Invictus Gaming win Worlds 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.928,
-          "value": 97.44000000000001,
-          "timestamp": 1793919916,
-          "slug": "will-invictus-gaming-win-worlds-2026",
-          "event_slug": "worlds-2026-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Gen.G win Worlds 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.47,
-          "value": 49.349999999999994,
-          "timestamp": 1793919916,
-          "slug": "will-genptg-win-worlds-2026",
-          "event_slug": "worlds-2026-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Dplus KIA win Worlds 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9704025714,
-          "value": 101.892269997,
-          "timestamp": 1793919916,
-          "slug": "will-dplus-kia-win-worlds-2026",
-          "event_slug": "worlds-2026-winner",
           "result": "ongoing"
         }
       ]
@@ -2257,5 +2246,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T01:08:03.952Z"
+  "lastUpdate": "2026-11-06T01:15:26.949Z"
 }
