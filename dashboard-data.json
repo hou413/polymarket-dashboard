@@ -594,11 +594,11 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 11,
+        "wins": 8,
         "losses": 19,
-        "totalTrades": 37,
-        "winRate": 0.36666666666666664,
-        "volume": 136425.8433000745,
+        "totalTrades": 34,
+        "winRate": 0.2962962962962963,
+        "volume": 107982.7281000745,
         "pnl": 0
       },
       "recentTrades": [
@@ -975,39 +975,6 @@
           "slug": "nhl-las-pit-2026-11-03-spread-home-1pt5",
           "event_slug": "nhl-las-pit-2026-11-03",
           "result": "loss"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets",
-          "side": "BUY",
-          "outcome": "Blue Jackets",
-          "price": 0.48,
-          "value": 9600,
-          "timestamp": 1793733324,
-          "slug": "nhl-col-cbj-2026-11-03",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets",
-          "side": "BUY",
-          "outcome": "Blue Jackets",
-          "price": 0.48,
-          "value": 9243.1152,
-          "timestamp": 1793733322,
-          "slug": "nhl-col-cbj-2026-11-03",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Avalanche vs. Blue Jackets",
-          "side": "BUY",
-          "outcome": "Blue Jackets",
-          "price": 0.48,
-          "value": 9600,
-          "timestamp": 1793733322,
-          "slug": "nhl-col-cbj-2026-11-03",
-          "event_slug": "nhl-col-cbj-2026-11-03",
-          "result": "win"
         }
       ]
     },
@@ -3242,10 +3209,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 5114.738150060678,
+        "volume": 4523.419650060677,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Pete Hegseth be the next to leave the Trump Cabinet before 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 14.955,
+          "timestamp": 1793992369,
+          "slug": "will-pete-hegseth-be-the-next-to-leave-the-trump-cabinet-before-2027-718",
+          "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will no one leave the Trump Cabinet before 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 14.925,
+          "timestamp": 1793992369,
+          "slug": "will-no-one-leave-the-trump-cabinet-before-2027-819",
+          "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
+          "result": "ongoing"
+        },
         {
           "title": "Will no one leave the Trump Cabinet before 2027?",
           "side": "BUY",
@@ -3773,28 +3762,6 @@
           "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
           "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.35,
-          "value": 586.0189999999999,
-          "timestamp": 1793987817,
-          "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
-          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 165-189 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 35.1795,
-          "timestamp": 1793986498,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-165-189",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -4303,14 +4270,25 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 33,
+        "wins": 32,
         "losses": 6,
-        "totalTrades": 83,
-        "winRate": 0.8461538461538461,
-        "volume": 122811.11961000174,
+        "totalTrades": 84,
+        "winRate": 0.8421052631578947,
+        "volume": 124976.52961000176,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spurs vs. Kings",
+          "side": "SELL",
+          "outcome": "Spurs",
+          "price": 0.89,
+          "value": 2225,
+          "timestamp": 1793992518,
+          "slug": "nba-sas-sac-2026-11-06",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
           "side": "BUY",
@@ -4846,17 +4824,6 @@
           "price": 0.9,
           "value": 13561.848,
           "timestamp": 1793888028,
-          "slug": "atp-shelton-rinderk-2026-11-05",
-          "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.59,
-          "value": 59.589999999999996,
-          "timestamp": 1793888005,
           "slug": "atp-shelton-rinderk-2026-11-05",
           "event_slug": "atp-shelton-rinderk-2026-11-05",
           "result": "win"
@@ -5435,10 +5402,186 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1204.6314439949806,
+        "volume": 3665.3696140092356,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will US gas hit $4.30 (High) in November?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.06,
+          "value": 1.7999999999999998,
+          "timestamp": 1793992743,
+          "slug": "will-gas-hit-4pt30-high-by-november-30-2026",
+          "event_slug": "will-gas-hit-by-end-of-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will US gas hit $4.30 (High) in November?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.06,
+          "value": 1.74,
+          "timestamp": 1793992738,
+          "slug": "will-gas-hit-4pt30-high-by-november-30-2026",
+          "event_slug": "will-gas-hit-by-end-of-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Eintracht Braunschweig vs. FC Energie Cottbus end in a draw?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.91,
+          "value": 19.11,
+          "timestamp": 1793992720,
+          "slug": "bl2-bra-fce-2026-11-06-draw",
+          "event_slug": "bl2-bra-fce-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Eintracht Braunschweig vs. FC Energie Cottbus end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.11,
+          "value": 3.85,
+          "timestamp": 1793992690,
+          "slug": "bl2-bra-fce-2026-11-06-draw",
+          "event_slug": "bl2-bra-fce-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Costa do Sauipe: Juan Carlos Prado vs Camilo Ugo Carabelli",
+          "side": "BUY",
+          "outcome": "Juan Carlos Prado",
+          "price": 0.0144166139,
+          "value": 3.417169992717,
+          "timestamp": 1793992681,
+          "slug": "atp-prado-carabel-2026-11-06",
+          "event_slug": "atp-prado-carabel-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 2.3000000000000003,
+          "timestamp": 1793992545,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will SK Rapid win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.94,
+          "value": 6.109999999999999,
+          "timestamp": 1793992542,
+          "slug": "aut-scr-wac-2026-11-06-scr",
+          "event_slug": "aut-scr-wac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "SELL",
+          "outcome": "Taylor Fritz",
+          "price": 0.34,
+          "value": 303.28000000000003,
+          "timestamp": 1793992441,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.3699999999,
+          "value": 333.26000001992975,
+          "timestamp": 1793992438,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charlottesville (Doubles): Jans/Vliegen vs Hilderbrand/Pavel",
+          "side": "BUY",
+          "outcome": "Jans/Vliegen",
+          "price": 0.98,
+          "value": 749.6999999999999,
+          "timestamp": 1793992330,
+          "slug": "atp-doubles-jansvli-hildpav-2026-11-07",
+          "event_slug": "atp-doubles-jansvli-hildpav-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 2.3000000000000003,
+          "timestamp": 1793992317,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Cali: Leyre Romero Gormaz vs Julia Riera",
+          "side": "BUY",
+          "outcome": "Julia Riera",
+          "price": 0.81,
+          "value": 1354.3200000000002,
+          "timestamp": 1793992152,
+          "slug": "wta-gormaz-riera-2026-11-06",
+          "event_slug": "wta-gormaz-riera-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Heracles Almelo win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.18,
+          "value": 7.02,
+          "timestamp": 1793992134,
+          "slug": "ned2-her-rod-2026-11-06-her",
+          "event_slug": "ned2-her-rod-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Heracles Almelo win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.18,
+          "value": 5.76,
+          "timestamp": 1793992131,
+          "slug": "ned2-her-rod-2026-11-06-her",
+          "event_slug": "ned2-her-rod-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Heracles Almelo vs. Roda JC Kerkrade: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.005,
+          "value": 1.18,
+          "timestamp": 1793992123,
+          "slug": "ned2-her-rod-2026-11-06-total-0pt5",
+          "event_slug": "ned2-her-rod-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Heracles Almelo win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.18,
+          "value": 3.2399999999999998,
+          "timestamp": 1793992123,
+          "slug": "ned2-her-rod-2026-11-06-her",
+          "event_slug": "ned2-her-rod-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Jong AZ Alkmaar vs. Almere City FC: O/U 3.5",
           "side": "BUY",
@@ -5812,185 +5955,9 @@
           "slug": "tur-gfk-kas-2026-11-06-total-2pt5",
           "event_slug": "tur-gfk-kas-2026-11-06-more-markets",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Sariyer SK win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 31.959999999999997,
-          "timestamp": 1793991094,
-          "slug": "tur2-sar-igd-2026-11-06-sar",
-          "event_slug": "tur2-sar-igd-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SK Rapid win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.93,
-          "value": 90.21000000000001,
-          "timestamp": 1793991007,
-          "slug": "aut-scr-wac-2026-11-06-scr",
-          "event_slug": "aut-scr-wac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SK Rapid win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.94,
-          "value": 1.0058,
-          "timestamp": 1793990976,
-          "slug": "aut-scr-wac-2026-11-06-scr",
-          "event_slug": "aut-scr-wac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SK Rapid win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.94,
-          "value": 6.1852,
-          "timestamp": 1793990800,
-          "slug": "aut-scr-wac-2026-11-06-scr",
-          "event_slug": "aut-scr-wac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sariyer SK vs. Igdir FK: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.74,
-          "value": 27.38,
-          "timestamp": 1793990790,
-          "slug": "tur2-sar-igd-2026-11-06-total-2pt5",
-          "event_slug": "tur2-sar-igd-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SG Dynamo Dresden win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.02,
-          "value": 1.07,
-          "timestamp": 1793990790,
-          "slug": "bl2-dyn-fur-2026-11-06-dyn",
-          "event_slug": "bl2-dyn-fur-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sariyer SK vs. Igdir FK: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.72,
-          "value": 9.288,
-          "timestamp": 1793990785,
-          "slug": "tur2-sar-igd-2026-11-06-total-2pt5",
-          "event_slug": "tur2-sar-igd-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sariyer SK vs. Igdir FK: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.72,
-          "value": 10.799999999999999,
-          "timestamp": 1793990779,
-          "slug": "tur2-sar-igd-2026-11-06-total-2pt5",
-          "event_slug": "tur2-sar-igd-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sariyer SK vs. Igdir FK: O/U 2.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.25,
-          "value": 5.75,
-          "timestamp": 1793990746,
-          "slug": "tur2-sar-igd-2026-11-06-total-2pt5",
-          "event_slug": "tur2-sar-igd-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sariyer SK vs. Igdir FK: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.2799999925,
-          "value": 7.499999999107138,
-          "timestamp": 1793990745,
-          "slug": "tur2-sar-igd-2026-11-06-total-2pt5",
-          "event_slug": "tur2-sar-igd-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Igdir FK win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.2,
-          "value": 18.19,
-          "timestamp": 1793990718,
-          "slug": "tur2-sar-igd-2026-11-06-igd",
-          "event_slug": "tur2-sar-igd-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Igdir FK win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.18,
-          "value": 7.199999999999999,
-          "timestamp": 1793990703,
-          "slug": "tur2-sar-igd-2026-11-06-igd",
-          "event_slug": "tur2-sar-igd-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Igdir FK win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.25,
-          "value": 66.96,
-          "timestamp": 1793990679,
-          "slug": "tur2-sar-igd-2026-11-06-igd",
-          "event_slug": "tur2-sar-igd-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sariyer SK vs. Igdir FK: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.51,
-          "value": 14.280000000000001,
-          "timestamp": 1793990677,
-          "slug": "tur2-sar-igd-2026-11-06-total-2pt5",
-          "event_slug": "tur2-sar-igd-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Barracas Central win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.35,
-          "value": 4.199999999999999,
-          "timestamp": 1793990629,
-          "slug": "arg-bar-rac-2026-11-06-bar",
-          "event_slug": "arg-bar-rac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sariyer SK vs. Igdir FK: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.8499999976,
-          "value": 35.669999999284705,
-          "timestamp": 1793990613,
-          "slug": "tur2-sar-igd-2026-11-06-total-2pt5",
-          "event_slug": "tur2-sar-igd-2026-11-06-more-markets",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T19:10:05.764Z"
+  "lastUpdate": "2026-11-06T19:23:18.442Z"
 }
