@@ -34,10 +34,32 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 9635.325100052869,
+        "volume": 8948.026399999999,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Jaguars (-14.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.35,
+          "value": 69.9965,
+          "timestamp": 1793930890,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-14pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 40.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.47,
+          "value": 9.399999999999999,
+          "timestamp": 1793930686,
+          "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Jaguars vs. Ravens: O/U 38.5",
           "side": "BUY",
@@ -178,28 +200,6 @@
           "value": 21.000000000000004,
           "timestamp": 1793929711,
           "slug": "nfl-jax-bal-2026-11-06-spread-away-6pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-14.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.56,
-          "value": 24.080000000000002,
-          "timestamp": 1793929456,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-14pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-13.5)",
-          "side": "SELL",
-          "outcome": "Jaguars",
-          "price": 0.4957410931,
-          "value": 742.615200052869,
-          "timestamp": 1793929455,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-13pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
           "result": "ongoing"
         }
@@ -1355,13 +1355,24 @@
       "label": "surfandturf",
       "stats48h": {
         "wins": 1,
-        "losses": 4,
+        "losses": 3,
         "totalTrades": 50,
-        "winRate": 0.2,
-        "volume": 71773.43973764467,
+        "winRate": 0.25,
+        "volume": 80756.10643764467,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jaguars vs. Ravens",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.18,
+          "value": 9000.018,
+          "timestamp": 1793930950,
+          "slug": "nfl-jax-bal-2026-11-06",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Jaguars vs. Ravens: O/U 40.5",
           "side": "SELL",
@@ -1515,17 +1526,6 @@
           "slug": "ucl-bvb-bet-2026-11-04-bvb",
           "event_slug": "ucl-bvb-bet-2026-11-04",
           "result": "loss"
-        },
-        {
-          "title": "Will LYON win Worlds 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.01,
-          "value": 17.351300000000002,
-          "timestamp": 1793826633,
-          "slug": "will-lyon-win-worlds-2026",
-          "event_slug": "worlds-2026-winner",
-          "result": "loss"
         }
       ]
     },
@@ -1537,10 +1537,87 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 381.67240999840004,
+        "volume": 296.4955399984,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "James Norton announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.12847,
+          "timestamp": 1793930637,
+          "slug": "james-norton-announced-as-next-james-bond-289",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Joe Alwyn announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.12847,
+          "timestamp": 1793930637,
+          "slug": "placeholder-8-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jack O'Connell announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.12847,
+          "timestamp": 1793930568,
+          "slug": "jack-oconnell-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Theo James announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.003,
+          "value": 0.38541000000000003,
+          "timestamp": 1793930568,
+          "slug": "theo-james-announced-as-next-james-bond-893",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Harris Dickinson announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.12847,
+          "timestamp": 1793930568,
+          "slug": "harris-dickinson-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Richard Madden announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.12847,
+          "timestamp": 1793930568,
+          "slug": "richard-madden-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jacob Elordi announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.12847,
+          "timestamp": 1793930568,
+          "slug": "jacob-elordi-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
         {
           "title": "Will Chris Van Hollen be the next Senate Majority Leader?",
           "side": "BUY",
@@ -1626,83 +1703,6 @@
           "value": 41.28,
           "timestamp": 1793929071,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.951,
-          "value": 40.893,
-          "timestamp": 1793929071,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 300-319 tweets from October 30 to November 6, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 1.3041,
-          "timestamp": 1793928937,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-300-319",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 360-379 tweets from October 30 to November 6, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.012,
-          "timestamp": 1793927905,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-360-379",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 11.52,
-          "timestamp": 1793927503,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 300-319 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.78,
-          "value": 9.36,
-          "timestamp": 1793927503,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-300-319",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.946,
-          "value": 11.352,
-          "timestamp": 1793927503,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.991,
-          "value": 11.892,
-          "timestamp": 1793927503,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
         }
@@ -2070,181 +2070,15 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 3,
+        "wins": 0,
         "losses": 0,
-        "totalTrades": 50,
-        "winRate": 1,
-        "volume": 34308.812600102916,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "New Hampshire Wildcats vs. Rider Broncs",
-          "side": "BUY",
-          "outcome": "New Hampshire Wildcats",
-          "price": 0.65,
-          "value": 26,
-          "timestamp": 1793929776,
-          "slug": "cbb-nhamp-rider-2026-11-05",
-          "event_slug": "cbb-nhamp-rider-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "New Hampshire Wildcats vs. Rider Broncs",
-          "side": "BUY",
-          "outcome": "New Hampshire Wildcats",
-          "price": 0.8283404748,
-          "value": 2745.087199868208,
-          "timestamp": 1793928445,
-          "slug": "cbb-nhamp-rider-2026-11-05",
-          "event_slug": "cbb-nhamp-rider-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Heat vs. Warriors",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.61,
-          "value": 81.7644,
-          "timestamp": 1793926246,
-          "slug": "nba-mia-gsw-2026-11-05",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Z.ai have the best AI model at the end of December 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 9.97832,
-          "timestamp": 1793925972,
-          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
-          "event_slug": "which-company-has-best-ai-model-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.46,
-          "value": 15.138599999999999,
-          "timestamp": 1793922565,
-          "slug": "atp-shelton-paul-2026-11-06",
-          "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.46,
-          "value": 2413.0036,
-          "timestamp": 1793922501,
-          "slug": "atp-shelton-paul-2026-11-06",
-          "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.46,
-          "value": 1498.6616000000001,
-          "timestamp": 1793922367,
-          "slug": "atp-shelton-paul-2026-11-06",
-          "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Chattanooga Mocs vs. Penn State Nittany Lions",
-          "side": "BUY",
-          "outcome": "Penn State Nittany Lions",
-          "price": 0.8809470489,
-          "value": 2478.245000083524,
-          "timestamp": 1793920480,
-          "slug": "cbb-chat-pennst-2026-11-05",
-          "event_slug": "cbb-chat-pennst-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "SELL",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.999,
-          "value": 1553.445,
-          "timestamp": 1793920435,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Z.ai have the best AI model at the end of December 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 5.04124,
-          "timestamp": 1793920128,
-          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
-          "event_slug": "which-company-has-best-ai-model-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "SELL",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.999,
-          "value": 999,
-          "timestamp": 1793920101,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Gukesh Dommaraju win the 2026 World Chess Championship?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.76,
-          "value": 37.0272,
-          "timestamp": 1793919699,
-          "slug": "will-gukesh-dommaraju-win-the-2026-world-chess-championship",
-          "event_slug": "2026-world-chess-championship-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.9072944126,
-          "value": 9847.791700248652,
-          "timestamp": 1793919633,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.8853947935,
-          "value": 1869.6084999025352,
-          "timestamp": 1793919541,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Juventus FC win on 2026-11-05?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.999,
-          "value": 10729.02024,
-          "timestamp": 1793919505,
-          "slug": "uel-az-juv-2026-11-05-juv",
-          "event_slug": "uel-az-juv-2026-11-05",
-          "result": "win"
-        }
-      ]
+      "recentTrades": []
     }
   ],
-  "lastUpdate": "2026-11-06T02:04:44.938Z"
+  "lastUpdate": "2026-11-06T02:11:49.432Z"
 }
