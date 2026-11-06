@@ -1850,8 +1850,8 @@
       "label": "Thunderous-Snarl",
       "stats48h": {
         "wins": 0,
-        "losses": 48,
-        "totalTrades": 154,
+        "losses": 50,
+        "totalTrades": 152,
         "winRate": 0,
         "volume": 636796.51720175,
         "pnl": 0
@@ -1866,7 +1866,7 @@
           "timestamp": 1793952046,
           "slug": "cs2-prv-navi-2026-11-06",
           "event_slug": "cs2-prv-navi-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs",
@@ -1877,7 +1877,7 @@
           "timestamp": 1793940981,
           "slug": "cs2-prv-navi-2026-11-06",
           "event_slug": "cs2-prv-navi-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -4941,5 +4941,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T10:30:10.943Z"
+  "lastUpdate": "2026-11-06T10:38:28.366Z"
 }
