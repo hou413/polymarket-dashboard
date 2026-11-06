@@ -210,9 +210,9 @@
       "label": "chubbytoro",
       "stats48h": {
         "wins": 3,
-        "losses": 8,
+        "losses": 12,
         "totalTrades": 42,
-        "winRate": 0.2727272727272727,
+        "winRate": 0.2,
         "volume": 61262.9061,
         "pnl": 0
       },
@@ -281,7 +281,7 @@
           "timestamp": 1793910739,
           "slug": "nhl-nsh-col-2026-11-05-total-5pt5",
           "event_slug": "nhl-nsh-col-2026-11-05",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Canucks vs. Jets: O/U 5.5",
@@ -303,7 +303,7 @@
           "timestamp": 1793904276,
           "slug": "nhl-nsh-col-2026-11-05",
           "event_slug": "nhl-nsh-col-2026-11-05",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Predators vs. Avalanche",
@@ -314,7 +314,7 @@
           "timestamp": 1793904276,
           "slug": "nhl-nsh-col-2026-11-05",
           "event_slug": "nhl-nsh-col-2026-11-05",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Utah (-1.5)",
@@ -380,7 +380,7 @@
           "timestamp": 1793891004,
           "slug": "nhl-nsh-col-2026-11-05-total-6pt5",
           "event_slug": "nhl-nsh-col-2026-11-05",
-          "result": "ongoing"
+          "result": "loss"
         }
       ]
     },
@@ -2191,5 +2191,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T05:34:47.717Z"
+  "lastUpdate": "2026-11-06T05:43:27.760Z"
 }
