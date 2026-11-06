@@ -34,10 +34,54 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 5194.15910023765,
+        "volume": 5089.58510023765,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Magic (-4.5)",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.14,
+          "value": 33.6,
+          "timestamp": 1793933194,
+          "slug": "nba-orl-phx-2026-11-05-spread-away-4pt5",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Suns: O/U 224.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 9.88,
+          "timestamp": 1793933032,
+          "slug": "nba-orl-phx-2026-11-05-total-224pt5",
+          "event_slug": "nba-orl-phx-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 40.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.57,
+          "value": 4.508699999999999,
+          "timestamp": 1793933031,
+          "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jaguars (-21.5)",
+          "side": "BUY",
+          "outcome": "Jaguars",
+          "price": 0.25,
+          "value": 2.5,
+          "timestamp": 1793933029,
+          "slug": "nfl-jax-bal-2026-11-06-spread-away-21pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Suns (-7.5)",
           "side": "BUY",
@@ -158,50 +202,6 @@
           "slug": "nfl-jax-bal-2026-11-06-spread-away-13pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Spread: Suns (-7.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.29,
-          "value": 74.82,
-          "timestamp": 1793931303,
-          "slug": "nba-orl-phx-2026-11-05-spread-home-7pt5",
-          "event_slug": "nba-orl-phx-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Suns (-6.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.3,
-          "value": 73.8,
-          "timestamp": 1793931277,
-          "slug": "nba-orl-phx-2026-11-05-spread-home-6pt5",
-          "event_slug": "nba-orl-phx-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 36.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.47,
-          "value": 2.5427,
-          "timestamp": 1793931259,
-          "slug": "nfl-jax-bal-2026-11-06-total-36pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 34.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.39,
-          "value": 3.9000000000000004,
-          "timestamp": 1793931259,
-          "slug": "nfl-jax-bal-2026-11-06-total-34pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
         }
       ]
     },
@@ -209,10 +209,10 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 1,
-        "losses": 0,
+        "wins": 2,
+        "losses": 2,
         "totalTrades": 42,
-        "winRate": 1,
+        "winRate": 0.5,
         "volume": 61262.9061,
         "pnl": 0
       },
@@ -226,7 +226,7 @@
           "timestamp": 1793919975,
           "slug": "nhl-bos-pit-2026-11-05-spread-home-1pt5",
           "event_slug": "nhl-bos-pit-2026-11-05",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Penguins (-1.5)",
@@ -237,7 +237,7 @@
           "timestamp": 1793919975,
           "slug": "nhl-bos-pit-2026-11-05-spread-home-1pt5",
           "event_slug": "nhl-bos-pit-2026-11-05",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Islanders (-1.5)",
@@ -347,7 +347,7 @@
           "timestamp": 1793901955,
           "slug": "nhl-van-wpg-2026-11-05-total-7pt5",
           "event_slug": "nhl-van-wpg-2026-11-05",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Blackhawks vs. Lightning",
@@ -2246,5 +2246,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T02:42:19.218Z"
+  "lastUpdate": "2026-11-06T02:50:10.107Z"
 }
