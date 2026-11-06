@@ -363,7 +363,13 @@
                     }
                 } catch(e) {
                     // Fallback to static JSON (for GitHub Pages)
-                    const res = await fetch('https://raw.githubusercontent.com/hou413/polymarket-dashboard/main/dashboard-data.json?_=' + Date.now());
+                    // 尝试 GitHub Pages（带 cache-busting），失败则 fallback 到 raw
+                    const ts = Date.now();
+                    let res = await fetch('https://hou413.github.io/polymarket-dashboard/dashboard-data.json?_=' + ts);
+                    if (!res.ok) {
+                        console.warn('GitHub Pages failed, trying raw...');
+                        res = await fetch('https://raw.githubusercontent.com/hou413/polymarket-dashboard/main/dashboard-data.json?_=' + ts);
+                    }
                     if (!res.ok) throw new Error('No data');
                     data = await res.json();
                 }
