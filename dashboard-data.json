@@ -596,12 +596,23 @@
       "stats48h": {
         "wins": 16,
         "losses": 21,
-        "totalTrades": 38,
+        "totalTrades": 39,
         "winRate": 0.43243243243243246,
-        "volume": 127352.43969974722,
+        "volume": 129651.12960002173,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Flames (-1.5)",
+          "side": "BUY",
+          "outcome": "Flames",
+          "price": 0.3292294505,
+          "value": 2298.689900274515,
+          "timestamp": 1793959105,
+          "slug": "nhl-ana-cal-2026-11-06-spread-home-1pt5",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Ducks vs. Flames",
           "side": "BUY",
@@ -610,7 +621,7 @@
           "value": 1920.5802,
           "timestamp": 1793959041,
           "slug": "nhl-ana-cal-2026-11-06",
-          "event_slug": "",
+          "event_slug": "nhl-ana-cal-2026-11-06",
           "result": "ongoing"
         },
         {
@@ -1840,7 +1851,7 @@
       "stats48h": {
         "wins": 0,
         "losses": 48,
-        "totalTrades": 156,
+        "totalTrades": 154,
         "winRate": 0,
         "volume": 636796.51720175,
         "pnl": 0
@@ -4897,5 +4908,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T10:02:17.225Z"
+  "lastUpdate": "2026-11-06T10:11:54.641Z"
 }
