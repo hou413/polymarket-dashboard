@@ -996,11 +996,11 @@
       "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
       "label": "VeryLucky888",
       "stats48h": {
-        "wins": 7,
+        "wins": 6,
         "losses": 8,
-        "totalTrades": 15,
-        "winRate": 0.4666666666666667,
-        "volume": 73956.08770002107,
+        "totalTrades": 14,
+        "winRate": 0.42857142857142855,
+        "volume": 35344.737700021076,
         "pnl": 0
       },
       "recentTrades": [
@@ -1157,17 +1157,6 @@
           "slug": "dota2-navi-gl-2026-11-03-game1",
           "event_slug": "dota2-navi-gl-2026-11-03",
           "result": "win"
-        },
-        {
-          "title": "Spread: Paris Saint-Germain FC (-1.5)",
-          "side": "SELL",
-          "outcome": "Paris Saint-Germain FC",
-          "price": 0.999,
-          "value": 38611.35,
-          "timestamp": 1793742558,
-          "slug": "ucl-vil-psg-2026-11-03-spread-away-1pt5",
-          "event_slug": "ucl-vil-psg-2026-11-03-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -1177,12 +1166,78 @@
       "stats48h": {
         "wins": 2,
         "losses": 0,
-        "totalTrades": 140,
+        "totalTrades": 146,
         "winRate": 1,
-        "volume": 18331.250799968333,
+        "volume": 15855.032198904313,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "US x Iran effective ceasefire continues through November 30, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7099999815,
+          "value": 9.999998999436638,
+          "timestamp": 1794001789,
+          "slug": "us-x-iran-effective-ceasefire-continues-through-november-30-20261103",
+          "event_slug": "us-iran-effective-ceasefire-continues-throughptptpt-20261103",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 30?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4095533912,
+          "value": 272.9999999846219,
+          "timestamp": 1794001744,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-30",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 15?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.2383509906,
+          "value": 602.9999999766045,
+          "timestamp": 1794001734,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-15",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 7?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.0598884599,
+          "value": 137.99999998935448,
+          "timestamp": 1794001729,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-7",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
+        {
+          "title": "US x Iran effective ceasefire continues through November 15, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.5796948502,
+          "value": 197.00000001324187,
+          "timestamp": 1794001714,
+          "slug": "us-x-iran-effective-ceasefire-continues-through-november-15-20261103",
+          "event_slug": "us-iran-effective-ceasefire-continues-throughptptpt-20261103",
+          "result": "ongoing"
+        },
+        {
+          "title": "US x Iran effective ceasefire continues through November 8, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4467897263,
+          "value": 499.9999999727197,
+          "timestamp": 1794001711,
+          "slug": "us-x-iran-effective-ceasefire-continues-through-november-8-20261103",
+          "event_slug": "us-iran-effective-ceasefire-continues-throughptptpt-20261103",
+          "result": "ongoing"
+        },
         {
           "title": "US x Iran effective ceasefire continues through November 8, 2026?",
           "side": "SELL",
@@ -1666,72 +1721,6 @@
           "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
           "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
           "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.48,
-          "value": 480,
-          "timestamp": 1793845512,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.34,
-          "value": 47.2702,
-          "timestamp": 1793845344,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.53,
-          "value": 1060,
-          "timestamp": 1793844720,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.34,
-          "value": 638.9484,
-          "timestamp": 1793844337,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.52,
-          "value": 1872,
-          "timestamp": 1793844142,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.33,
-          "value": 99,
-          "timestamp": 1793843988,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
         }
       ]
     },
@@ -1740,13 +1729,24 @@
       "label": "Thunderous-Snarl",
       "stats48h": {
         "wins": 0,
-        "losses": 50,
-        "totalTrades": 151,
+        "losses": 49,
+        "totalTrades": 152,
         "winRate": 0,
-        "volume": 636796.51720175,
+        "volume": 733007.9872017498,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5)",
+          "side": "BUY",
+          "outcome": "Karmine Corp",
+          "price": 0.66,
+          "value": 99000,
+          "timestamp": 1794001729,
+          "slug": "lol-kc-t1-2026-11-04-game-handicap-home-2pt5",
+          "event_slug": "lol-kc-t1-2026-11-04",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs",
           "side": "BUY",
@@ -2282,17 +2282,6 @@
           "price": 0.5,
           "value": 16378.885,
           "timestamp": 1793916922,
-          "slug": "lol-dk-blg-2026-11-03-game1",
-          "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Dplus KIA",
-          "price": 0.5,
-          "value": 2788.53,
-          "timestamp": 1793916898,
           "slug": "lol-dk-blg-2026-11-03-game1",
           "event_slug": "lol-dk-blg-2026-11-03",
           "result": "loss"
@@ -3095,14 +3084,47 @@
       "address": "0x511f9c771449162349795d17becf8b37031acbe1",
       "label": "ethanaz",
       "stats48h": {
-        "wins": 3,
+        "wins": 0,
         "losses": 1,
         "totalTrades": 500,
-        "winRate": 0.75,
-        "volume": 5530.909590022675,
+        "winRate": 0,
+        "volume": 5410.717680022674,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 440-459 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 0.09604000000000001,
+          "timestamp": 1794001728,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-440-459",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 500-519 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.024010000000000004,
+          "timestamp": 1794001728,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-500-519",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 160-179 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 0.09604000000000001,
+          "timestamp": 1794001728,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-160-179",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 115-139 tweets from November 5 to November 7, 2026?",
           "side": "SELL",
@@ -3619,39 +3641,6 @@
           "slug": "will-pete-hegseth-be-the-next-to-leave-the-trump-cabinet-before-2027-718",
           "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
           "result": "loss"
-        },
-        {
-          "title": "Will Pete Hegseth be the next to leave the Trump Cabinet before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 14.955,
-          "timestamp": 1793992369,
-          "slug": "will-pete-hegseth-be-the-next-to-leave-the-trump-cabinet-before-2027-718",
-          "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
-          "result": "win"
-        },
-        {
-          "title": "Will no one leave the Trump Cabinet before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 14.925,
-          "timestamp": 1793992369,
-          "slug": "will-no-one-leave-the-trump-cabinet-before-2027-819",
-          "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
-          "result": "win"
-        },
-        {
-          "title": "Will no one leave the Trump Cabinet before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.984,
-          "value": 90.52799999999999,
-          "timestamp": 1793991495,
-          "slug": "will-no-one-leave-the-trump-cabinet-before-2027-819",
-          "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
-          "result": "win"
         }
       ]
     },
@@ -5300,13 +5289,431 @@
       "label": "dips.",
       "stats48h": {
         "wins": 0,
-        "losses": 1,
+        "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2127.8131819877995,
+        "volume": 2942.4532259981743,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.18,
+          "value": 4.68,
+          "timestamp": 1794002274,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.18,
+          "value": 3.5999999999999996,
+          "timestamp": 1794002272,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the fight end before Round 3?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.4578363054,
+          "value": 10.579999999251758,
+          "timestamp": 1794002262,
+          "slug": "ufc-wel-seo1-2026-11-07-ends-before-round-3",
+          "event_slug": "ufc-wel-seo1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.18,
+          "value": 5.3999999999999995,
+          "timestamp": 1794002227,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.18,
+          "value": 4.859999999999999,
+          "timestamp": 1794002227,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.18,
+          "value": 8.1,
+          "timestamp": 1794002214,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.18,
+          "value": 36,
+          "timestamp": 1794002212,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Everton FC vs. Coventry City FC: Coventry City FC O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.963,
+          "value": 37.63404,
+          "timestamp": 1794002082,
+          "slug": "epl-eve-cov-2026-11-06-team-total-away-1pt5",
+          "event_slug": "epl-eve-cov-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Everton FC vs. Coventry City FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.04,
+          "value": 0.0276,
+          "timestamp": 1794002055,
+          "slug": "epl-eve-cov-2026-11-06-total-4pt5",
+          "event_slug": "epl-eve-cov-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.19,
+          "value": 7.6,
+          "timestamp": 1794002047,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.19,
+          "value": 93.86,
+          "timestamp": 1794001938,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.19,
+          "value": 76.95,
+          "timestamp": 1794001938,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.19,
+          "value": 93.86,
+          "timestamp": 1794001938,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.19,
+          "value": 93.86,
+          "timestamp": 1794001936,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.19,
+          "value": 93.86,
+          "timestamp": 1794001936,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.19,
+          "value": 93.86,
+          "timestamp": 1794001936,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Arouca win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.4599999974,
+          "value": 14.399999998608697,
+          "timestamp": 1794001923,
+          "slug": "por-fam-aro-2026-11-06-aro",
+          "event_slug": "por-fam-aro-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charlottesville (Doubles): Blancaneaux/Zheng vs Milavsky/Shick",
+          "side": "BUY",
+          "outcome": "Blancaneaux/Zheng",
+          "price": 0.2,
+          "value": 3.2,
+          "timestamp": 1794001915,
+          "slug": "atp-doubles-blanzhe-milashi-2026-11-06",
+          "event_slug": "atp-doubles-blanzhe-milashi-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC Famalicão vs. FC Arouca: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.83,
+          "value": 48.97,
+          "timestamp": 1794001906,
+          "slug": "por-fam-aro-2026-11-06-total-0pt5",
+          "event_slug": "por-fam-aro-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Famalicão win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.76,
+          "value": 4.5600000000000005,
+          "timestamp": 1794001906,
+          "slug": "por-fam-aro-2026-11-06-fam",
+          "event_slug": "por-fam-aro-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Arouca win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.49,
+          "value": 22.4665,
+          "timestamp": 1794001876,
+          "slug": "por-fam-aro-2026-11-06-aro",
+          "event_slug": "por-fam-aro-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Arouca win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.49,
+          "value": 21.07,
+          "timestamp": 1794001875,
+          "slug": "por-fam-aro-2026-11-06-aro",
+          "event_slug": "por-fam-aro-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Knight win Worlds 2026 Finals MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.862,
+          "value": 4.31,
+          "timestamp": 1794001857,
+          "slug": "will-knight-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Famalicão win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.18,
+          "value": 12.9996,
+          "timestamp": 1794001852,
+          "slug": "por-fam-aro-2026-11-06-fam",
+          "event_slug": "por-fam-aro-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Deportivo Alavés win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.94,
+          "value": 18.799999999999997,
+          "timestamp": 1794001827,
+          "slug": "lal-sev-ala-2026-11-06-ala",
+          "event_slug": "lal-sev-ala-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Arouca win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.5,
+          "value": 16.32,
+          "timestamp": 1794001812,
+          "slug": "por-fam-aro-2026-11-06-aro",
+          "event_slug": "por-fam-aro-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Derby County FC vs. Bolton Wanderers FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.9699999998,
+          "value": 38.83999600199175,
+          "timestamp": 1794001801,
+          "slug": "elc-der-bol-2026-11-06-total-4pt5",
+          "event_slug": "elc-der-bol-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Derby County FC vs. Bolton Wanderers FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.97,
+          "value": 339.84997599999997,
+          "timestamp": 1794001800,
+          "slug": "elc-der-bol-2026-11-06-total-4pt5",
+          "event_slug": "elc-der-bol-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Derby County FC vs. Bolton Wanderers FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.97,
+          "value": 339.84997599999997,
+          "timestamp": 1794001798,
+          "slug": "elc-der-bol-2026-11-06-total-4pt5",
+          "event_slug": "elc-der-bol-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Derby County FC vs. Bolton Wanderers FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.97,
+          "value": 339.84997599999997,
+          "timestamp": 1794001797,
+          "slug": "elc-der-bol-2026-11-06-total-4pt5",
+          "event_slug": "elc-der-bol-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Derby County FC vs. Bolton Wanderers FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.97,
+          "value": 339.84997599999997,
+          "timestamp": 1794001795,
+          "slug": "elc-der-bol-2026-11-06-total-4pt5",
+          "event_slug": "elc-der-bol-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Derby County FC vs. Bolton Wanderers FC: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 3.63,
+          "timestamp": 1794001785,
+          "slug": "elc-der-bol-2026-11-06-total-3pt5",
+          "event_slug": "elc-der-bol-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Derby County FC vs. Bolton Wanderers FC: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 1.19,
+          "timestamp": 1794001783,
+          "slug": "elc-der-bol-2026-11-06-total-3pt5",
+          "event_slug": "elc-der-bol-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Arouca win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7192127803,
+          "value": 267.1400000053316,
+          "timestamp": 1794001782,
+          "slug": "por-fam-aro-2026-11-06-aro",
+          "event_slug": "por-fam-aro-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Derby County FC vs. Bolton Wanderers FC end in a draw?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.04,
+          "value": 1.59,
+          "timestamp": 1794001690,
+          "slug": "elc-der-bol-2026-11-06-draw",
+          "event_slug": "elc-der-bol-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sevilla FC vs. Deportivo Alavés: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.28,
+          "value": 2.24,
+          "timestamp": 1794001591,
+          "slug": "lal-sev-ala-2026-11-06-total-0pt5",
+          "event_slug": "lal-sev-ala-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sevilla FC vs. Deportivo Alavés: O/U 0.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.32,
+          "value": 11.84,
+          "timestamp": 1794001458,
+          "slug": "lal-sev-ala-2026-11-06-total-0pt5",
+          "event_slug": "lal-sev-ala-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sevilla FC vs. Deportivo Alavés: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.33,
+          "value": 12.21,
+          "timestamp": 1794001458,
+          "slug": "lal-sev-ala-2026-11-06-total-0pt5",
+          "event_slug": "lal-sev-ala-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Sevilla FC vs. Deportivo Alavés: O/U 0.5",
           "side": "BUY",
@@ -5438,427 +5845,9 @@
           "slug": "per1-cag-cuf-2026-11-06-cag",
           "event_slug": "per1-cag-cuf-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Will CA Grau win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.95,
-          "value": 32.3,
-          "timestamp": 1794001039,
-          "slug": "per1-cag-cuf-2026-11-06-cag",
-          "event_slug": "per1-cag-cuf-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Venezia FC vs. Udinese Calcio: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.93,
-          "value": 86.49000000000001,
-          "timestamp": 1794001035,
-          "slug": "sea-ven-udi-2026-11-06-total-3pt5",
-          "event_slug": "sea-ven-udi-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Standard Liege vs. SK Beveren: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.93,
-          "value": 225.06,
-          "timestamp": 1794000982,
-          "slug": "bel1-sta-bev-2026-11-06-total-3pt5",
-          "event_slug": "bel1-sta-bev-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Standard Liege vs. SK Beveren: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.93,
-          "value": 222.27,
-          "timestamp": 1794000981,
-          "slug": "bel1-sta-bev-2026-11-06-total-3pt5",
-          "event_slug": "bel1-sta-bev-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Massachusetts Minutemen vs. Boston College Eagles",
-          "side": "BUY",
-          "outcome": "Boston College Eagles",
-          "price": 0.655,
-          "value": 6.550000000000001,
-          "timestamp": 1794000978,
-          "slug": "cbb-umass-boscol-2026-11-06",
-          "event_slug": "cbb-umass-boscol-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Wisla Krakow win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.97,
-          "value": 1.2222,
-          "timestamp": 1794000970,
-          "slug": "pol-wis-cra-2026-11-06-wis",
-          "event_slug": "pol-wis-cra-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Grau vs. Cusco FC: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.04,
-          "value": 1.19,
-          "timestamp": 1794000964,
-          "slug": "per1-cag-cuf-2026-11-06-total-4pt5",
-          "event_slug": "per1-cag-cuf-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Standard Liege vs. SK Beveren: O/U 3.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.03,
-          "value": 7.26,
-          "timestamp": 1794000961,
-          "slug": "bel1-sta-bev-2026-11-06-total-3pt5",
-          "event_slug": "bel1-sta-bev-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Grau vs. Cusco FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.5793981787,
-          "value": 23.77999899813994,
-          "timestamp": 1794000960,
-          "slug": "per1-cag-cuf-2026-11-06-total-2pt5",
-          "event_slug": "per1-cag-cuf-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Standard Liege vs. SK Beveren: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.0699999998,
-          "value": 19.339999994742858,
-          "timestamp": 1794000952,
-          "slug": "bel1-sta-bev-2026-11-06-total-3pt5",
-          "event_slug": "bel1-sta-bev-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Standard Liege vs. SK Beveren: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.1,
-          "value": 12.740000000000002,
-          "timestamp": 1794000943,
-          "slug": "bel1-sta-bev-2026-11-06-total-3pt5",
-          "event_slug": "bel1-sta-bev-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Grau vs. Cusco FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.21,
-          "value": 8.61,
-          "timestamp": 1794000943,
-          "slug": "per1-cag-cuf-2026-11-06-total-3pt5",
-          "event_slug": "per1-cag-cuf-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Wisla Krakow vs. KS Cracovia Krakow end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 17.28,
-          "timestamp": 1794000934,
-          "slug": "pol-wis-cra-2026-11-06-draw",
-          "event_slug": "pol-wis-cra-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Grau win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.07,
-          "value": 2.66,
-          "timestamp": 1794000933,
-          "slug": "per1-cag-cuf-2026-11-06-cag",
-          "event_slug": "per1-cag-cuf-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Grau vs. Cusco FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.589999995,
-          "value": 36.480000000847454,
-          "timestamp": 1794000931,
-          "slug": "per1-cag-cuf-2026-11-06-total-2pt5",
-          "event_slug": "per1-cag-cuf-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Grau vs. Cusco FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.66,
-          "value": 168.96,
-          "timestamp": 1794000898,
-          "slug": "per1-cag-cuf-2026-11-06-total-2pt5",
-          "event_slug": "per1-cag-cuf-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Toulouse FC vs. RC Strasbourg Alsace: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.1289999894,
-          "value": 1.4499999998527033,
-          "timestamp": 1794000892,
-          "slug": "fl1-tou-str-2026-11-06-total-4pt5",
-          "event_slug": "fl1-tou-str-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Grau vs. Cusco FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.83,
-          "value": 206.67,
-          "timestamp": 1794000882,
-          "slug": "per1-cag-cuf-2026-11-06-total-2pt5",
-          "event_slug": "per1-cag-cuf-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Grau vs. Cusco FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.8399999947,
-          "value": 12.579997000626209,
-          "timestamp": 1794000870,
-          "slug": "per1-cag-cuf-2026-11-06-total-2pt5",
-          "event_slug": "per1-cag-cuf-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Grau vs. Cusco FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.97,
-          "value": 231.82999999999998,
-          "timestamp": 1794000837,
-          "slug": "per1-cag-cuf-2026-11-06-total-2pt5",
-          "event_slug": "per1-cag-cuf-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Grau vs. Cusco FC end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 1.6167999999999998,
-          "timestamp": 1794000730,
-          "slug": "per1-cag-cuf-2026-11-06-draw",
-          "event_slug": "per1-cag-cuf-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Grau win on 2026-11-06?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.8681818182,
-          "value": 28.6500000006,
-          "timestamp": 1794000699,
-          "slug": "per1-cag-cuf-2026-11-06-cag",
-          "event_slug": "per1-cag-cuf-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Grau win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.86,
-          "value": 54.18,
-          "timestamp": 1794000696,
-          "slug": "per1-cag-cuf-2026-11-06-cag",
-          "event_slug": "per1-cag-cuf-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Grau win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.09,
-          "value": 39.4686,
-          "timestamp": 1794000657,
-          "slug": "per1-cag-cuf-2026-11-06-cag",
-          "event_slug": "per1-cag-cuf-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Cusco FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.97,
-          "value": 17.46,
-          "timestamp": 1794000636,
-          "slug": "per1-cag-cuf-2026-11-06-cuf",
-          "event_slug": "per1-cag-cuf-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Costa do Sauipe: Facundo Acosta vs Marco Cecchinato",
-          "side": "BUY",
-          "outcome": "Marco Cecchinato",
-          "price": 0.005,
-          "value": 1.44,
-          "timestamp": 1794000594,
-          "slug": "atp-acosta-cecchin-2026-11-06",
-          "event_slug": "atp-acosta-cecchin-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Costa do Sauipe: Facundo Acosta vs Marco Cecchinato",
-          "side": "BUY",
-          "outcome": "Marco Cecchinato",
-          "price": 0.005,
-          "value": 1.55,
-          "timestamp": 1794000585,
-          "slug": "atp-acosta-cecchin-2026-11-06",
-          "event_slug": "atp-acosta-cecchin-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Everton FC vs. Coventry City FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.59,
-          "value": 29.5,
-          "timestamp": 1794000582,
-          "slug": "epl-eve-cov-2026-11-06-total-3pt5",
-          "event_slug": "epl-eve-cov-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Arzignano Valchiampo win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.97,
-          "value": 21.34,
-          "timestamp": 1794000324,
-          "slug": "serc-uni-arz-2026-11-06-arz",
-          "event_slug": "serc-uni-arz-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ascoli Calcio 1898 FC vs. Palermo FC end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.03,
-          "value": 1.44,
-          "timestamp": 1794000324,
-          "slug": "itsb-asc-pal-2026-11-06-draw",
-          "event_slug": "itsb-asc-pal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Union Brescia vs. FC Arzignano Valchiampo: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.3,
-          "timestamp": 1794000321,
-          "slug": "serc-uni-arz-2026-11-06-total-4pt5",
-          "event_slug": "serc-uni-arz-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Ascoli Calcio 1898 FC vs. Palermo FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.92,
-          "value": 9.200000000000001,
-          "timestamp": 1794000279,
-          "slug": "itsb-asc-pal-2026-11-06-total-2pt5",
-          "event_slug": "itsb-asc-pal-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Arzignano Valchiampo win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.05,
-          "value": 5.79,
-          "timestamp": 1794000270,
-          "slug": "serc-uni-arz-2026-11-06-arz",
-          "event_slug": "serc-uni-arz-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ascoli Calcio 1898 FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 17.28,
-          "timestamp": 1794000261,
-          "slug": "itsb-asc-pal-2026-11-06-asc",
-          "event_slug": "itsb-asc-pal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Everton FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.79,
-          "value": 23.700000000000003,
-          "timestamp": 1794000223,
-          "slug": "epl-eve-cov-2026-11-06-eve",
-          "event_slug": "epl-eve-cov-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Venezia FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.83,
-          "value": 120.35,
-          "timestamp": 1794000154,
-          "slug": "sea-ven-udi-2026-11-06-ven",
-          "event_slug": "sea-ven-udi-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Hamburger SV vs. Borussia Mönchengladbach: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.01,
-          "value": 2.6,
-          "timestamp": 1794000145,
-          "slug": "bun-hsv-moe-2026-11-06-total-4pt5",
-          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Venezia FC vs. Udinese Calcio: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 13.68,
-          "timestamp": 1794000144,
-          "slug": "sea-ven-udi-2026-11-06-total-3pt5",
-          "event_slug": "sea-ven-udi-2026-11-06-more-markets",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T21:46:17.003Z"
+  "lastUpdate": "2026-11-06T22:01:12.062Z"
 }
