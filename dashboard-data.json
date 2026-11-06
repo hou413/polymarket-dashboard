@@ -1883,13 +1883,24 @@
       "label": "Thunderous-Snarl",
       "stats48h": {
         "wins": 0,
-        "losses": 49,
-        "totalTrades": 184,
+        "losses": 48,
+        "totalTrades": 185,
         "winRate": 0,
-        "volume": 634952.45320175,
+        "volume": 636796.51720175,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "PARIVISION",
+          "price": 0.6,
+          "value": 5074.914,
+          "timestamp": 1793952046,
+          "slug": "cs2-prv-navi-2026-11-06",
+          "event_slug": "cs2-prv-navi-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs",
           "side": "BUY",
@@ -2425,17 +2436,6 @@
           "price": 0.5,
           "value": 2788.53,
           "timestamp": 1793916898,
-          "slug": "lol-dk-blg-2026-11-03-game1",
-          "event_slug": "lol-dk-blg-2026-11-03",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Dplus KIA",
-          "price": 0.51,
-          "value": 3230.85,
-          "timestamp": 1793916885,
           "slug": "lol-dk-blg-2026-11-03-game1",
           "event_slug": "lol-dk-blg-2026-11-03",
           "result": "loss"
@@ -4941,5 +4941,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T08:00:49.281Z"
+  "lastUpdate": "2026-11-06T08:09:45.500Z"
 }
