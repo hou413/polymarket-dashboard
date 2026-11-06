@@ -1884,7 +1884,7 @@
       "stats48h": {
         "wins": 0,
         "losses": 48,
-        "totalTrades": 184,
+        "totalTrades": 183,
         "winRate": 0,
         "volume": 636796.51720175,
         "pnl": 0
@@ -3429,10 +3429,21 @@
         "losses": 1,
         "totalTrades": 500,
         "winRate": 0.6666666666666666,
-        "volume": 6713.55700001353,
+        "volume": 6449.681000013531,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bank of England decreases interest rates by 25 bps after December 2026 meeting?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.528,
+          "timestamp": 1793954094,
+          "slug": "bank-of-england-decreases-interest-rates-by-25-bps-after-december-2026-meeting",
+          "event_slug": "bank-of-england-decision-in-december-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Invictus Gaming win Worlds 2026?",
           "side": "SELL",
@@ -3969,17 +3980,6 @@
           "value": 224.2613999934,
           "timestamp": 1793935249,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-300-319",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 264.404,
-          "timestamp": 1793935249,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
         }
@@ -4941,5 +4941,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T08:38:07.977Z"
+  "lastUpdate": "2026-11-06T08:48:36.678Z"
 }
