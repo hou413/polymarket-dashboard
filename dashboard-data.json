@@ -1276,7 +1276,7 @@
       "stats48h": {
         "wins": 1,
         "losses": 0,
-        "totalTrades": 133,
+        "totalTrades": 132,
         "winRate": 1,
         "volume": 18119.753700115918,
         "pnl": 0
@@ -3286,10 +3286,43 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 7492.636799991429,
+        "volume": 9407.606660055048,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Naftali Bennett be the next Prime Minister of Israel?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.984027593,
+          "value": 1647.59676006362,
+          "timestamp": 1793987817,
+          "slug": "will-naftali-bennett-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.799,
+          "value": 1337.79766,
+          "timestamp": 1793987817,
+          "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.35,
+          "value": 586.0189999999999,
+          "timestamp": 1793987817,
+          "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 165-189 tweets from November 5 to November 7, 2026?",
           "side": "BUY",
@@ -3805,39 +3838,6 @@
           "timestamp": 1793964771,
           "slug": "will-chuck-schumer-be-the-next-senate-majority-leader",
           "event_slug": "next-senate-majority-leader-485",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.3,
-          "value": 382.8,
-          "timestamp": 1793963209,
-          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
-          "event_slug": "next-prime-minister-of-sweden",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 1273.448,
-          "timestamp": 1793963209,
-          "slug": "will-ebba-busch-be-the-next-prime-minister-of-sweden",
-          "event_slug": "next-prime-minister-of-sweden",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Microsoft be the largest company in the world by market cap on November 30,",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.19556,
-          "timestamp": 1793958691,
-          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
-          "event_slug": "largest-company-end-of-november-2026",
           "result": "ongoing"
         }
       ]
@@ -5479,10 +5479,87 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 13469.652740232817,
+        "volume": 7705.852740176175,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will AL Wakrah SC vs. Al Shahaniya end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 29.76,
+          "timestamp": 1793988609,
+          "slug": "qat1-alw-sha-2026-11-06-draw",
+          "event_slug": "qat1-alw-sha-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will AL Wakrah SC vs. Al Shahaniya end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 30.69,
+          "timestamp": 1793988588,
+          "slug": "qat1-alw-sha-2026-11-06-draw",
+          "event_slug": "qat1-alw-sha-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Luca Van Assche vs Rinky Hijikata",
+          "side": "SELL",
+          "outcome": "Luca Van Assche",
+          "price": 0.94,
+          "value": 37.599999999999994,
+          "timestamp": 1793988249,
+          "slug": "atp-assche-hijikat-2026-11-06",
+          "event_slug": "atp-assche-hijikat-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Luca Van Assche vs Rinky Hijikata",
+          "side": "BUY",
+          "outcome": "Luca Van Assche",
+          "price": 0.95,
+          "value": 38,
+          "timestamp": 1793988247,
+          "slug": "atp-assche-hijikat-2026-11-06",
+          "event_slug": "atp-assche-hijikat-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Energie Cottbus win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.79,
+          "value": 24.490000000000002,
+          "timestamp": 1793988133,
+          "slug": "bl2-bra-fce-2026-11-06-fce",
+          "event_slug": "bl2-bra-fce-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Luca Van Assche vs Rinky Hijikata",
+          "side": "SELL",
+          "outcome": "Luca Van Assche",
+          "price": 0.6,
+          "value": 15.6,
+          "timestamp": 1793987749,
+          "slug": "atp-assche-hijikat-2026-11-06",
+          "event_slug": "atp-assche-hijikat-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Luca Van Assche vs Rinky Hijikata",
+          "side": "BUY",
+          "outcome": "Luca Van Assche",
+          "price": 0.6099999886,
+          "value": 16.11999999874098,
+          "timestamp": 1793987746,
+          "slug": "atp-assche-hijikat-2026-11-06",
+          "event_slug": "atp-assche-hijikat-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Luca Van Assche vs Rinky Hijikata",
           "side": "SELL",
@@ -5955,86 +6032,9 @@
           "slug": "itf-tilbue1-fagan1-2026-11-06",
           "event_slug": "itf-tilbue1-fagan1-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.9799999996,
-          "value": 1481.3100000553836,
-          "timestamp": 1793983281,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Villa Maria (Doubles): Pino/Zeitune vs Nijboer/Batalla",
-          "side": "SELL",
-          "outcome": "Nijboer/Batalla",
-          "price": 0.51,
-          "value": 51,
-          "timestamp": 1793983261,
-          "slug": "atp-doubles-pinozei-nijbbat-2026-11-06",
-          "event_slug": "atp-doubles-pinozei-nijbbat-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Villa Maria (Doubles): Pino/Zeitune vs Nijboer/Batalla",
-          "side": "BUY",
-          "outcome": "Nijboer/Batalla",
-          "price": 0.53,
-          "value": 53,
-          "timestamp": 1793983261,
-          "slug": "atp-doubles-pinozei-nijbbat-2026-11-06",
-          "event_slug": "atp-doubles-pinozei-nijbbat-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Villa Maria (Doubles): Pino/Zeitune vs Nijboer/Batalla",
-          "side": "BUY",
-          "outcome": "Nijboer/Batalla",
-          "price": 0.53,
-          "value": 53,
-          "timestamp": 1793983023,
-          "slug": "atp-doubles-pinozei-nijbbat-2026-11-06",
-          "event_slug": "atp-doubles-pinozei-nijbbat-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 1439.25,
-          "timestamp": 1793982999,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 1439.25,
-          "timestamp": 1793982997,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "W15 Hilton Head Island, SC: Jantje Tilbuerger vs Scarlett Fagan",
-          "side": "BUY",
-          "outcome": "Jantje Tilbuerger",
-          "price": 0.95,
-          "value": 1439.25,
-          "timestamp": 1793982996,
-          "slug": "itf-tilbue1-fagan1-2026-11-06",
-          "event_slug": "itf-tilbue1-fagan1-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T17:57:44.719Z"
+  "lastUpdate": "2026-11-06T18:12:28.265Z"
 }
