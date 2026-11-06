@@ -595,10 +595,10 @@
       "label": "chubbytoro",
       "stats48h": {
         "wins": 13,
-        "losses": 21,
-        "totalTrades": 39,
-        "winRate": 0.38235294117647056,
-        "volume": 135267.76220007453,
+        "losses": 19,
+        "totalTrades": 37,
+        "winRate": 0.40625,
+        "volume": 132649.56710007452,
         "pnl": 0
       },
       "recentTrades": [
@@ -1008,28 +1008,6 @@
           "slug": "nhl-stl-nyr-2026-11-03-spread-home-1pt5",
           "event_slug": "nhl-stl-nyr-2026-11-03",
           "result": "win"
-        },
-        {
-          "title": "Spread: Jets (-1.5)",
-          "side": "BUY",
-          "outcome": "Jets",
-          "price": 0.2,
-          "value": 1087.2040000000002,
-          "timestamp": 1793718171,
-          "slug": "nhl-wpg-mon-2026-11-03-spread-away-1pt5",
-          "event_slug": "nhl-wpg-mon-2026-11-03",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Jets (-1.5)",
-          "side": "BUY",
-          "outcome": "Jets",
-          "price": 0.1913738875,
-          "value": 1530.9911,
-          "timestamp": 1793718171,
-          "slug": "nhl-wpg-mon-2026-11-03-spread-away-1pt5",
-          "event_slug": "nhl-wpg-mon-2026-11-03",
-          "result": "loss"
         }
       ]
     },
@@ -1287,7 +1265,7 @@
       "stats48h": {
         "wins": 1,
         "losses": 0,
-        "totalTrades": 147,
+        "totalTrades": 141,
         "winRate": 1,
         "volume": 18119.753700115918,
         "pnl": 0
@@ -2584,10 +2562,10 @@
       "label": "ch27er",
       "stats48h": {
         "wins": 1,
-        "losses": 18,
-        "totalTrades": 24,
-        "winRate": 0.05263157894736842,
-        "volume": 640006.8678037656,
+        "losses": 17,
+        "totalTrades": 23,
+        "winRate": 0.05555555555555555,
+        "volume": 640001.0318037656,
         "pnl": 0
       },
       "recentTrades": [
@@ -2841,17 +2819,6 @@
           "value": 665.066628489592,
           "timestamp": 1793720721,
           "slug": "2026-senate-map-r-ia-oh",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "loss"
-        },
-        {
-          "title": "Will Republicans win Alaska, Iowa, and Kansas, and lose Maine, Michigan, Ohio, a",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.02,
-          "value": 5.836,
-          "timestamp": 1793718447,
-          "slug": "2026-senate-map-r-ak-ia-ks",
           "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
           "result": "loss"
         }
@@ -5608,13 +5575,90 @@
       "label": "dips.",
       "stats48h": {
         "wins": 0,
-        "losses": 10,
+        "losses": 6,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2151.5229890010005,
+        "volume": 3341.364289000244,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "FC Goa vs. Bengaluru FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.64,
+          "value": 12.8,
+          "timestamp": 1793978604,
+          "slug": "isp-goa-ben-2026-11-06-total-2pt5",
+          "event_slug": "isp-goa-ben-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
+          "side": "BUY",
+          "outcome": "Alexandra Eala",
+          "price": 0.77,
+          "value": 1129.59,
+          "timestamp": 1793978416,
+          "slug": "wta-ruzic-eala-2026-11-06",
+          "event_slug": "wta-ruzic-eala-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ireland A win?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.83,
+          "value": 83,
+          "timestamp": 1793978217,
+          "slug": "crint-zwea-irla-2026-11-06-irla",
+          "event_slug": "crint-zwea-irla-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chennai Open (Doubles): Bhamidipaty/Revathi vs Haverlag/Udvardy",
+          "side": "BUY",
+          "outcome": "Bhamidipaty/Revathi",
+          "price": 0.05,
+          "value": 1.5,
+          "timestamp": 1793978131,
+          "slug": "wta-doubles-bhamrev-haveudv-2026-11-05",
+          "event_slug": "wta-doubles-bhamrev-haveudv-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the 10-year Treasury yield dip below 4.70% in November?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.62,
+          "value": 24.8,
+          "timestamp": 1793978020,
+          "slug": "will-the-10-year-treasury-yield-dip-below-4pt70-in-november",
+          "event_slug": "how-low-will-10-year-treasury-yield-get-in-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.22,
+          "value": 1.54,
+          "timestamp": 1793977996,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the match end in a draw?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.6099999966,
+          "value": 62.929999999242625,
+          "timestamp": 1793977861,
+          "slug": "crint-zwea-irla-2026-11-06-draw",
+          "event_slug": "crint-zwea-irla-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Will Al Arabi Doha SC win on 2026-11-06?",
           "side": "BUY",
@@ -6087,86 +6131,9 @@
           "slug": "cs2-furia-bb3-2026-11-06",
           "event_slug": "cs2-furia-bb3-2026-11-06",
           "result": "loss"
-        },
-        {
-          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "FURIA",
-          "price": 0.6,
-          "value": 6.51,
-          "timestamp": 1793974234,
-          "slug": "cs2-furia-bb3-2026-11-06",
-          "event_slug": "cs2-furia-bb3-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "FURIA",
-          "price": 0.56,
-          "value": 35.28,
-          "timestamp": 1793974233,
-          "slug": "cs2-furia-bb3-2026-11-06",
-          "event_slug": "cs2-furia-bb3-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "FURIA",
-          "price": 0.24,
-          "value": 2.4,
-          "timestamp": 1793974035,
-          "slug": "cs2-furia-bb3-2026-11-06",
-          "event_slug": "cs2-furia-bb3-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
-          "side": "BUY",
-          "outcome": "Pokhara Avengers",
-          "price": 0.51,
-          "value": 35.689800000000005,
-          "timestamp": 1793973954,
-          "slug": "cricnpl-chi-pok-2026-11-06",
-          "event_slug": "cricnpl-chi-pok-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
-          "side": "BUY",
-          "outcome": "Pokhara Avengers",
-          "price": 0.49,
-          "value": 0.2989,
-          "timestamp": 1793973952,
-          "slug": "cricnpl-chi-pok-2026-11-06",
-          "event_slug": "cricnpl-chi-pok-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
-          "side": "BUY",
-          "outcome": "Rwanda Women",
-          "price": 0.974,
-          "value": 9.74,
-          "timestamp": 1793973925,
-          "slug": "crint-rwaw-usaw-2026-11-06",
-          "event_slug": "crint-rwaw-usaw-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "FURIA",
-          "price": 0.14,
-          "value": 36.400000000000006,
-          "timestamp": 1793973894,
-          "slug": "cs2-furia-bb3-2026-11-06",
-          "event_slug": "cs2-furia-bb3-2026-11-06",
-          "result": "loss"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T15:09:19.003Z"
+  "lastUpdate": "2026-11-06T15:26:58.610Z"
 }
