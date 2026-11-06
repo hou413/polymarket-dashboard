@@ -3425,14 +3425,58 @@
       "address": "0x511f9c771449162349795d17becf8b37031acbe1",
       "label": "ethanaz",
       "stats48h": {
-        "wins": 5,
+        "wins": 3,
         "losses": 2,
         "totalTrades": 500,
-        "winRate": 0.7142857142857143,
-        "volume": 9721.85133002153,
+        "winRate": 0.6,
+        "volume": 9670.663990027098,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 81.836,
+          "timestamp": 1793967057,
+          "slug": "will-ebba-busch-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4,
+          "value": 24,
+          "timestamp": 1793967057,
+          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Avigdor Lieberman receive the first mandate to form a government after the ",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 4.89397,
+          "timestamp": 1793966632,
+          "slug": "will-avigdor-lieberman-receive-the-first-mandate-to-form-a-government-after-the-2026-israeli-election-20261019144924877",
+          "event_slug": "who-will-receive-the-first-mandate-to-form-israels-next-government-20261019144924877",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Miloš Parandilović win the next Serbia presidential election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.02316,
+          "timestamp": 1793966632,
+          "slug": "will-milos-parandilovic-win-the-next-serbia-presidential-election-20260629192336839",
+          "event_slug": "next-serbia-presidential-election-winner-20260629192336823",
+          "result": "ongoing"
+        },
         {
           "title": "Will the Republican Party hold between 175 and 179 House seats after the 2026 mi",
           "side": "BUY",
@@ -3938,50 +3982,6 @@
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.006,
-          "value": 0.15006,
-          "timestamp": 1793940642,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9380006759,
-          "value": 69.383909996323,
-          "timestamp": 1793940415,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "win"
-        },
-        {
-          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 73.52618,
-          "timestamp": 1793940415,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 280-299 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.2552429363,
-          "value": 18.880319998111,
-          "timestamp": 1793940415,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-280-299",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "win"
         }
       ]
     },
@@ -5523,10 +5523,54 @@
         "losses": 1,
         "totalTrades": 500,
         "winRate": 0.5,
-        "volume": 4198.371298971791,
+        "volume": 3553.291298967463,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Chiba Jets vs. Altiri Chiba",
+          "side": "BUY",
+          "outcome": "Altiri Chiba",
+          "price": 0.2899999861,
+          "value": 5.840000000082745,
+          "timestamp": 1793967670,
+          "slug": "bkjpn-chi-alt-2026-11-06",
+          "event_slug": "bkjpn-chi-alt-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 1.92,
+          "timestamp": 1793967129,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "Rwanda Women",
+          "price": 0.18,
+          "value": 5.58,
+          "timestamp": 1793967117,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 4.8,
+          "timestamp": 1793967111,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
         {
           "title": "Pete Hegseth out as Secretary of Defense by November 30?",
           "side": "BUY",
@@ -6032,53 +6076,9 @@
           "slug": "cricwbbl-mes-sys-2026-11-06",
           "event_slug": "cricwbbl-mes-sys-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
-          "side": "BUY",
-          "outcome": "Melbourne Stars",
-          "price": 0.53,
-          "value": 389.02000000000004,
-          "timestamp": 1793962515,
-          "slug": "cricwbbl-mes-sys-2026-11-06",
-          "event_slug": "cricwbbl-mes-sys-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
-          "side": "BUY",
-          "outcome": "Melbourne Stars",
-          "price": 0.5264223027,
-          "value": 263.4100000049327,
-          "timestamp": 1793962515,
-          "slug": "cricwbbl-mes-sys-2026-11-06",
-          "event_slug": "cricwbbl-mes-sys-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 5.75,
-          "timestamp": 1793962432,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "KHL: Admiral Vladivostok vs. Barys Astana",
-          "side": "BUY",
-          "outcome": "Barys Astana",
-          "price": 0.2299999945,
-          "value": 5.039999999478257,
-          "timestamp": 1793962372,
-          "slug": "khl-adm-bar-2026-11-06",
-          "event_slug": "khl-adm-bar-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T12:09:46.845Z"
+  "lastUpdate": "2026-11-06T12:26:39.679Z"
 }
