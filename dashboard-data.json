@@ -32,178 +32,12 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 50,
+        "totalTrades": 0,
         "winRate": 0,
-        "volume": 8051.767600079999,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "Jaguars vs. Ravens: O/U 40.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.62,
-          "value": 5.561400000000001,
-          "timestamp": 1793928861,
-          "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 40.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.61,
-          "value": 0.9272,
-          "timestamp": 1793928840,
-          "slug": "nfl-jax-bal-2026-11-06-total-40pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-9.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.43,
-          "value": 1111.12,
-          "timestamp": 1793928831,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-9pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-9.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.41,
-          "value": 1024.7949999999998,
-          "timestamp": 1793928780,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-9pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-9.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.40919984,
-          "value": 1022.7950000799999,
-          "timestamp": 1793928780,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-9pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-6.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.35,
-          "value": 716.4499999999999,
-          "timestamp": 1793928598,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-6pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-3.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.27,
-          "value": 4.86,
-          "timestamp": 1793928597,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-3pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-5.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.3,
-          "value": 569.85,
-          "timestamp": 1793928579,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-5pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-4.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.28,
-          "value": 503.86000000000007,
-          "timestamp": 1793928577,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-4pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-6.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.33,
-          "value": 659.835,
-          "timestamp": 1793928577,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-6pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-13.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.49,
-          "value": 1077.7549999999999,
-          "timestamp": 1793928475,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-13pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-13.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.49,
-          "value": 1077.7549999999999,
-          "timestamp": 1793928475,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-13pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-6.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.27,
-          "value": 270,
-          "timestamp": 1793928445,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-6pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-19.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.3,
-          "value": 0.534,
-          "timestamp": 1793928142,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-19pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-20.5)",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.27,
-          "value": 5.67,
-          "timestamp": 1793928142,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-20pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        }
-      ]
+      "recentTrades": []
     },
     {
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
@@ -211,291 +45,25 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 42,
+        "totalTrades": 0,
         "winRate": 0,
-        "volume": 61262.9061,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.31,
-          "value": 1003.9939,
-          "timestamp": 1793919975,
-          "slug": "nhl-bos-pit-2026-11-05-spread-home-1pt5",
-          "event_slug": "nhl-bos-pit-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.31,
-          "value": 1860,
-          "timestamp": 1793919975,
-          "slug": "nhl-bos-pit-2026-11-05-spread-home-1pt5",
-          "event_slug": "nhl-bos-pit-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Islanders (-1.5)",
-          "side": "BUY",
-          "outcome": "Islanders",
-          "price": 0.2,
-          "value": 704.5,
-          "timestamp": 1793915307,
-          "slug": "nhl-car-nyi-2026-11-05-spread-home-1pt5",
-          "event_slug": "nhl-car-nyi-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Hurricanes vs. Islanders",
-          "side": "BUY",
-          "outcome": "Islanders",
-          "price": 0.35,
-          "value": 5770.989,
-          "timestamp": 1793915188,
-          "slug": "nhl-car-nyi-2026-11-05",
-          "event_slug": "nhl-car-nyi-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Hurricanes vs. Islanders",
-          "side": "BUY",
-          "outcome": "Islanders",
-          "price": 0.35,
-          "value": 7000,
-          "timestamp": 1793915188,
-          "slug": "nhl-car-nyi-2026-11-05",
-          "event_slug": "nhl-car-nyi-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Predators vs. Avalanche: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.62,
-          "value": 517.7,
-          "timestamp": 1793910739,
-          "slug": "nhl-nsh-col-2026-11-05-total-5pt5",
-          "event_slug": "nhl-nsh-col-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Canucks vs. Jets: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.61,
-          "value": 114.07,
-          "timestamp": 1793910673,
-          "slug": "nhl-van-wpg-2026-11-05-total-5pt5",
-          "event_slug": "nhl-van-wpg-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Predators vs. Avalanche",
-          "side": "BUY",
-          "outcome": "Avalanche",
-          "price": 0.66,
-          "value": 13200,
-          "timestamp": 1793904276,
-          "slug": "nhl-nsh-col-2026-11-05",
-          "event_slug": "nhl-nsh-col-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Predators vs. Avalanche",
-          "side": "BUY",
-          "outcome": "Avalanche",
-          "price": 0.66,
-          "value": 10118.0112,
-          "timestamp": 1793904276,
-          "slug": "nhl-nsh-col-2026-11-05",
-          "event_slug": "nhl-nsh-col-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Utah (-1.5)",
-          "side": "BUY",
-          "outcome": "Utah",
-          "price": 0.32,
-          "value": 392.4832,
-          "timestamp": 1793902387,
-          "slug": "nhl-utah-mon-2026-11-05-spread-away-1pt5",
-          "event_slug": "nhl-utah-mon-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Utah vs. Canadiens",
-          "side": "BUY",
-          "outcome": "Utah",
-          "price": 0.53,
-          "value": 5766.453,
-          "timestamp": 1793902248,
-          "slug": "nhl-utah-mon-2026-11-05",
-          "event_slug": "nhl-utah-mon-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Canucks vs. Jets: O/U 7.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.29,
-          "value": 93.38,
-          "timestamp": 1793901955,
-          "slug": "nhl-van-wpg-2026-11-05-total-7pt5",
-          "event_slug": "nhl-van-wpg-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Blackhawks vs. Lightning",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.8,
-          "value": 8930.68,
-          "timestamp": 1793896141,
-          "slug": "nhl-chi-tb-2026-11-05",
-          "event_slug": "nhl-chi-tb-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Utah vs. Canadiens",
-          "side": "BUY",
-          "outcome": "Utah",
-          "price": 0.54,
-          "value": 5750.6058,
-          "timestamp": 1793893332,
-          "slug": "nhl-utah-mon-2026-11-05",
-          "event_slug": "nhl-utah-mon-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Predators vs. Avalanche: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.5,
-          "value": 40.04,
-          "timestamp": 1793891004,
-          "slug": "nhl-nsh-col-2026-11-05-total-6pt5",
-          "event_slug": "nhl-nsh-col-2026-11-05",
-          "result": "ongoing"
-        }
-      ]
+      "recentTrades": []
     },
     {
       "address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
       "label": "Netrol",
       "stats48h": {
-        "wins": 4,
-        "losses": 5,
-        "totalTrades": 9,
-        "winRate": 0.4444444444444444,
-        "volume": 112429.52780000001,
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "Will the Democrats win the Florida governor race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.68,
-          "value": 218.28000000000003,
-          "timestamp": 1793747541,
-          "slug": "will-the-democrats-win-the-florida-governor-race-in-2026",
-          "event_slug": "florida-governor-winner-2026",
-          "result": "win"
-        },
-        {
-          "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.94,
-          "value": 18391.1752,
-          "timestamp": 1793747488,
-          "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
-          "event_slug": "which-party-will-win-the-house-in-2026",
-          "result": "win"
-        },
-        {
-          "title": "Will the Republicans win the Florida governor race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.61,
-          "value": 21783.2403,
-          "timestamp": 1793738121,
-          "slug": "will-the-republicans-win-the-florida-governor-race-in-2026",
-          "event_slug": "florida-governor-winner-2026",
-          "result": "win"
-        },
-        {
-          "title": "Will the Republicans win the Texas governor race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.64,
-          "value": 32000,
-          "timestamp": 1793729352,
-          "slug": "will-the-republicans-win-the-texas-governor-race-in-2026",
-          "event_slug": "texas-governor-winner-2026",
-          "result": "loss"
-        },
-        {
-          "title": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, an",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.06,
-          "value": 2700,
-          "timestamp": 1793683063,
-          "slug": "2026-senate-map-r-ia-ks",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "loss"
-        },
-        {
-          "title": "Will Republicans win Iowa and Maine, and lose Alaska, Kansas, Michigan, Ohio, an",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.0189921875,
-          "value": 607.75,
-          "timestamp": 1793682955,
-          "slug": "2026-senate-map-r-ia-me",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "loss"
-        },
-        {
-          "title": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.231561328,
-          "value": 11578.0664,
-          "timestamp": 1793681758,
-          "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-          "event_slug": "which-party-will-win-the-senate-in-2026",
-          "result": "loss"
-        },
-        {
-          "title": "2026 Balance of Power: D Senate, D House",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.76,
-          "value": 15938.9784,
-          "timestamp": 1793681667,
-          "slug": "2026-balance-of-power-d-senate-d-house-949",
-          "event_slug": "balance-of-power-2026-midterms",
-          "result": "win"
-        },
-        {
-          "title": "Will the Republicans win the Texas Senate race in 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.25,
-          "value": 9212.0375,
-          "timestamp": 1793681580,
-          "slug": "will-the-republicans-win-the-texas-senate-race-in-2026",
-          "event_slug": "texas-senate-election-winner",
-          "result": "loss"
-        }
-      ]
+      "recentTrades": []
     },
     {
       "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
@@ -1537,10 +1105,76 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 137.37714,
+        "volume": 223.7749099984,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 360-379 tweets from October 30 to November 6, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.04299,
+          "timestamp": 1793929326,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-360-379",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will NVIDIA be the largest company in the world by market cap on November 30, 20",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 7.4773,
+          "timestamp": 1793929320,
+          "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
+          "event_slug": "largest-company-end-of-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 340-359 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.992,
+          "value": 42.656,
+          "timestamp": 1793929071,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-340-359",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 280-299 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.3120353488,
+          "value": 13.4175199984,
+          "timestamp": 1793929071,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-280-299",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.96,
+          "value": 41.28,
+          "timestamp": 1793929071,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 260-279 tweets from October 30 to November 6, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.951,
+          "value": 40.893,
+          "timestamp": 1793929071,
+          "slug": "elon-musk-of-tweets-october-30-november-6-2026-260-279",
+          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 300-319 tweets from October 30 to November 6, 2026?",
           "side": "SELL",
@@ -1638,72 +1272,6 @@
           "timestamp": 1793927328,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-300-319",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 360-379 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 11.975999999999999,
-          "timestamp": 1793927328,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-360-379",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.95,
-          "value": 11.399999999999999,
-          "timestamp": 1793927326,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Artificial win Best Picture at the 99th Academy Awards?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.25,
-          "timestamp": 1793927299,
-          "slug": "will-artificial-win-best-picture-at-the-99th-academy-awards-20260727174029865",
-          "event_slug": "oscars-2027-best-picture-winner-20260727173620857",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Invictus Gaming win Worlds 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.064,
-          "value": 35.4496,
-          "timestamp": 1793924839,
-          "slug": "will-invictus-gaming-win-worlds-2026",
-          "event_slug": "worlds-2026-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Barnet FC win on 2026-11-14?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.192,
-          "timestamp": 1793923732,
-          "slug": "el2-wal-bar-2026-11-14-bar",
-          "event_slug": "el2-wal-bar-2026-11-14",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the next US-Iran senior diplomatic meeting take place in the United States ",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.016,
-          "value": 0.10144,
-          "timestamp": 1793923212,
-          "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-the-united-states-by-september-30-2026-20260622185050772-copy",
-          "event_slug": "where-will-the-next-us-iran-senior-diplomatic-meeting-take-placeptptpt",
           "result": "ongoing"
         }
       ]
@@ -2246,5 +1814,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T01:39:34.958Z"
+  "lastUpdate": "2026-11-06T01:48:39.165Z"
 }
