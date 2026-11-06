@@ -1884,7 +1884,7 @@
       "stats48h": {
         "wins": 0,
         "losses": 49,
-        "totalTrades": 186,
+        "totalTrades": 184,
         "winRate": 0,
         "volume": 634952.45320175,
         "pnl": 0
@@ -3429,10 +3429,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 6008.04032001353,
+        "volume": 6205.843850013531,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.7,
+          "value": 197.932,
+          "timestamp": 1793950774,
+          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
         {
           "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
           "side": "BUY",
@@ -3971,17 +3982,6 @@
           "slug": "placeholder-8-announced-as-next-james-bond",
           "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
-        },
-        {
-          "title": "Jack O'Connell announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.12847,
-          "timestamp": 1793930568,
-          "slug": "jack-oconnell-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
         }
       ]
     },
@@ -4246,10 +4246,10 @@
       "label": "chongchong37",
       "stats48h": {
         "wins": 5,
-        "losses": 9,
-        "totalTrades": 14,
-        "winRate": 0.35714285714285715,
-        "volume": 43549.96929997208,
+        "losses": 7,
+        "totalTrades": 12,
+        "winRate": 0.4166666666666667,
+        "volume": 40866.38889997207,
         "pnl": 0
       },
       "recentTrades": [
@@ -4383,28 +4383,6 @@
           "timestamp": 1793692525,
           "slug": "acle-nuj-shp-2026-11-03-shp",
           "event_slug": "acle-nuj-shp-2026-11-03",
-          "result": "loss"
-        },
-        {
-          "title": "Newcastle United Jets vs. Shanghai Port FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.52,
-          "value": 1979.7804,
-          "timestamp": 1793692234,
-          "slug": "acle-nuj-shp-2026-11-03-total-3pt5",
-          "event_slug": "acle-nuj-shp-2026-11-03-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Newcastle United Jets vs. Shanghai Port FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.51,
-          "value": 703.8000000000001,
-          "timestamp": 1793692201,
-          "slug": "acle-nuj-shp-2026-11-03-total-3pt5",
-          "event_slug": "acle-nuj-shp-2026-11-03-more-markets",
           "result": "loss"
         }
       ]
@@ -4974,5 +4952,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T07:42:56.260Z"
+  "lastUpdate": "2026-11-06T07:51:53.779Z"
 }
