@@ -525,7 +525,7 @@
       "stats48h": {
         "wins": 5,
         "losses": 6,
-        "totalTrades": 21,
+        "totalTrades": 20,
         "winRate": 0.45454545454545453,
         "volume": 73956.08770002107,
         "pnl": 0
@@ -1199,12 +1199,23 @@
       "stats48h": {
         "wins": 0,
         "losses": 6,
-        "totalTrades": 23,
+        "totalTrades": 24,
         "winRate": 0,
-        "volume": 615575.6778546888,
+        "volume": 578371.7720000001,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jaguars vs. Ravens",
+          "side": "BUY",
+          "outcome": "Ravens",
+          "price": 0.22,
+          "value": 16461.819,
+          "timestamp": 1793926107,
+          "slug": "nfl-jax-bal-2026-11-06",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Jaguars (-9.5)",
           "side": "BUY",
@@ -1357,17 +1368,6 @@
           "timestamp": 1793830330,
           "slug": "2026-senate-map-r-none",
           "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.2499736934,
-          "value": 53665.724854688764,
-          "timestamp": 1793828461,
-          "slug": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
-          "event_slug": "democratic-presidential-nominee-2028",
           "result": "ongoing"
         }
       ]
@@ -2092,14 +2092,36 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 6,
+        "wins": 4,
         "losses": 0,
         "totalTrades": 50,
         "winRate": 1,
-        "volume": 39559.39591061333,
+        "volume": 33404.022430234705,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Heat vs. Warriors",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.61,
+          "value": 81.7644,
+          "timestamp": 1793926246,
+          "slug": "nba-mia-gsw-2026-11-05",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Z.ai have the best AI model at the end of December 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 9.97832,
+          "timestamp": 1793925972,
+          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
+          "event_slug": "which-company-has-best-ai-model-end-of-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
           "side": "BUY",
@@ -2242,31 +2264,9 @@
           "slug": "euroleague-milano-valencia-2026-11-05",
           "event_slug": "euroleague-milano-valencia-2026-11-05",
           "result": "win"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "BUY",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.91,
-          "value": 21.9947,
-          "timestamp": 1793918905,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "SELL",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.705941759,
-          "value": 6225.12150037862,
-          "timestamp": 1793918782,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T00:45:38.639Z"
+  "lastUpdate": "2026-11-06T00:53:07.677Z"
 }
