@@ -595,10 +595,10 @@
       "label": "chubbytoro",
       "stats48h": {
         "wins": 8,
-        "losses": 19,
-        "totalTrades": 34,
-        "winRate": 0.2962962962962963,
-        "volume": 107982.7281000745,
+        "losses": 18,
+        "totalTrades": 33,
+        "winRate": 0.3076923076923077,
+        "volume": 107402.4291000745,
         "pnl": 0
       },
       "recentTrades": [
@@ -964,17 +964,6 @@
           "slug": "nhl-las-pit-2026-11-03-spread-home-1pt5",
           "event_slug": "nhl-las-pit-2026-11-03",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.3,
-          "value": 580.299,
-          "timestamp": 1793735755,
-          "slug": "nhl-las-pit-2026-11-03-spread-home-1pt5",
-          "event_slug": "nhl-las-pit-2026-11-03",
-          "result": "loss"
         }
       ]
     },
@@ -1029,11 +1018,11 @@
       "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
       "label": "VeryLucky888",
       "stats48h": {
-        "wins": 8,
+        "wins": 7,
         "losses": 8,
-        "totalTrades": 16,
-        "winRate": 0.5,
-        "volume": 74541.08770002107,
+        "totalTrades": 15,
+        "winRate": 0.4666666666666667,
+        "volume": 73956.08770002107,
         "pnl": 0
       },
       "recentTrades": [
@@ -1198,17 +1187,6 @@
           "price": 0.999,
           "value": 38611.35,
           "timestamp": 1793742558,
-          "slug": "ucl-vil-psg-2026-11-03-spread-away-1pt5",
-          "event_slug": "ucl-vil-psg-2026-11-03-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Paris Saint-Germain FC (-1.5)",
-          "side": "SELL",
-          "outcome": "Paris Saint-Germain FC",
-          "price": 0.3,
-          "value": 585,
-          "timestamp": 1793735722,
           "slug": "ucl-vil-psg-2026-11-03-spread-away-1pt5",
           "event_slug": "ucl-vil-psg-2026-11-03-more-markets",
           "result": "win"
@@ -2762,11 +2740,11 @@
       "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
       "label": "surfandturf",
       "stats48h": {
-        "wins": 4,
-        "losses": 29,
-        "totalTrades": 36,
-        "winRate": 0.12121212121212122,
-        "volume": 169119.56237764473,
+        "wins": 3,
+        "losses": 27,
+        "totalTrades": 33,
+        "winRate": 0.1,
+        "volume": 133716.01327764473,
         "pnl": 0
       },
       "recentTrades": [
@@ -3132,39 +3110,6 @@
           "slug": "will-the-democrats-win-the-maine-senate-race-in-2026",
           "event_slug": "maine-senate-election-winner",
           "result": "loss"
-        },
-        {
-          "title": "Will the Republicans win the Michigan Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 17633.3364,
-          "timestamp": 1793735937,
-          "slug": "will-the-republicans-win-the-michigan-senate-race-in-2026",
-          "event_slug": "michigan-senate-election-winner",
-          "result": "loss"
-        },
-        {
-          "title": "Will FC Barcelona win on 2026-11-03?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.76,
-          "value": 17227.9156,
-          "timestamp": 1793735394,
-          "slug": "ucl-fcb-ast-2026-11-03-fcb",
-          "event_slug": "ucl-fcb-ast-2026-11-03",
-          "result": "win"
-        },
-        {
-          "title": "Will the Democrats win the Maine Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.29,
-          "value": 542.2971,
-          "timestamp": 1793735277,
-          "slug": "will-the-democrats-win-the-maine-senate-race-in-2026",
-          "event_slug": "maine-senate-election-winner",
-          "result": "loss"
         }
       ]
     },
@@ -3176,10 +3121,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3418.7844999968797,
+        "volume": 4507.941799999548,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will no qualifying Russia x Ukraine peace talks take place by December 31, 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.019,
+          "value": 0.247,
+          "timestamp": 1793994648,
+          "slug": "will-no-qualifying-russia-x-ukraine-peace-talks-take-place-by-december-31-2027",
+          "event_slug": "where-will-the-next-russia-x-ukraine-peace-talks-take-place",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Dan Sullivan win the Alaska Senate race in 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9880345572,
+          "value": 1130.499260002668,
+          "timestamp": 1793994313,
+          "slug": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
+          "event_slug": "alaska-senate-election-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 90-114 tweets from November 5 to November 7, 2026?",
           "side": "BUY",
@@ -3707,28 +3674,6 @@
           "slug": "will-pete-hegseth-be-the-next-to-leave-the-trump-cabinet-before-2027-718",
           "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Scott Bessent be the next to leave the Trump Cabinet before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 20.79448,
-          "timestamp": 1793991108,
-          "slug": "will-scott-bessent-be-the-next-to-leave-the-trump-cabinet-before-2027-122",
-          "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Doug Burgum be the next to leave the Trump Cabinet before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 20.79448,
-          "timestamp": 1793991108,
-          "slug": "will-doug-burgum-be-the-next-to-leave-the-trump-cabinet-before-2027-153",
-          "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
-          "result": "ongoing"
         }
       ]
     },
@@ -4082,12 +4027,23 @@
       "stats48h": {
         "wins": 6,
         "losses": 5,
-        "totalTrades": 13,
+        "totalTrades": 14,
         "winRate": 0.5454545454545454,
-        "volume": 41216.1485,
+        "volume": 41839.7275,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Celtics (-8.5)",
+          "side": "BUY",
+          "outcome": "Celtics",
+          "price": 0.55,
+          "value": 623.5790000000001,
+          "timestamp": 1793994594,
+          "slug": "nba-bos-cha-2026-11-06-spread-away-8pt5",
+          "event_slug": "nba-bos-cha-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Will FC UTA Arad win on 2026-11-06?",
           "side": "BUY",
@@ -4802,13 +4758,46 @@
       "label": "takeormake",
       "stats48h": {
         "wins": 27,
-        "losses": 19,
+        "losses": 16,
         "totalTrades": 500,
-        "winRate": 0.5869565217391305,
-        "volume": 6803.685040073539,
+        "winRate": 0.627906976744186,
+        "volume": 6612.97504007354,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Celtics vs. Hornets: O/U 210.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.44,
+          "value": 3.52,
+          "timestamp": 1793994481,
+          "slug": "nba-bos-cha-2026-11-06-total-210pt5",
+          "event_slug": "nba-bos-cha-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics vs. Hornets: O/U 210.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.44,
+          "value": 3.52,
+          "timestamp": 1793994477,
+          "slug": "nba-bos-cha-2026-11-06-total-210pt5",
+          "event_slug": "nba-bos-cha-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics vs. Hornets: O/U 209.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.47,
+          "value": 8.93,
+          "timestamp": 1793994447,
+          "slug": "nba-bos-cha-2026-11-06-total-209pt5",
+          "event_slug": "nba-bos-cha-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Celtics vs. Hornets: O/U 209.5",
           "side": "BUY",
@@ -5325,39 +5314,6 @@
           "slug": "nba-mia-gsw-2026-11-05-total-221pt5",
           "event_slug": "nba-mia-gsw-2026-11-05",
           "result": "loss"
-        },
-        {
-          "title": "Heat vs. Warriors: O/U 227.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.34,
-          "value": 72.42,
-          "timestamp": 1793941630,
-          "slug": "nba-mia-gsw-2026-11-05-total-227pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Heat vs. Warriors: O/U 223.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.54,
-          "value": 73.98,
-          "timestamp": 1793941630,
-          "slug": "nba-mia-gsw-2026-11-05-total-223pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Heat vs. Warriors: O/U 225.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.44,
-          "value": 60.28,
-          "timestamp": 1793941630,
-          "slug": "nba-mia-gsw-2026-11-05-total-225pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "loss"
         }
       ]
     },
@@ -5365,14 +5321,289 @@
       "address": "0xc785252b25901a591e9d962e09f4342468444ef2",
       "label": "dips.",
       "stats48h": {
-        "wins": 1,
+        "wins": 0,
         "losses": 0,
         "totalTrades": 500,
-        "winRate": 1,
-        "volume": 3790.5336600042356,
+        "winRate": 0,
+        "volume": 3116.173187985375,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "SK Rapid vs. Wolfsberger AC: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.75,
+          "value": 11.25,
+          "timestamp": 1793995374,
+          "slug": "aut-scr-wac-2026-11-06-total-3pt5",
+          "event_slug": "aut-scr-wac-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Barracas Central vs. Racing Club: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.01,
+          "value": 6.22,
+          "timestamp": 1793995063,
+          "slug": "arg-bar-rac-2026-11-06-total-2pt5",
+          "event_slug": "arg-bar-rac-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Barracas Central vs. Racing Club: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.05,
+          "value": 1.4800000000000002,
+          "timestamp": 1793995033,
+          "slug": "arg-bar-rac-2026-11-06-total-2pt5",
+          "event_slug": "arg-bar-rac-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Argeș Pitești win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8,
+          "value": 28,
+          "timestamp": 1793994871,
+          "slug": "rou1-fap-din-2026-11-06-fap",
+          "event_slug": "rou1-fap-din-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Argeș Pitești win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8,
+          "value": 42.400000000000006,
+          "timestamp": 1793994862,
+          "slug": "rou1-fap-din-2026-11-06-fap",
+          "event_slug": "rou1-fap-din-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Barracas Central vs. Racing Club: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.85,
+          "value": 452.2,
+          "timestamp": 1793994852,
+          "slug": "arg-bar-rac-2026-11-06-total-2pt5",
+          "event_slug": "arg-bar-rac-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Barracas Central vs. Racing Club: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.85,
+          "value": 17,
+          "timestamp": 1793994849,
+          "slug": "arg-bar-rac-2026-11-06-total-2pt5",
+          "event_slug": "arg-bar-rac-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Palermo FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8,
+          "value": 9.600000000000001,
+          "timestamp": 1793994834,
+          "slug": "itsb-asc-pal-2026-11-06-pal",
+          "event_slug": "itsb-asc-pal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Argeș Pitești win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.79,
+          "value": 6.7861,
+          "timestamp": 1793994813,
+          "slug": "rou1-fap-din-2026-11-06-fap",
+          "event_slug": "rou1-fap-din-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC Argeș Pitești vs. Dinamo 1948: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.98,
+          "value": 72.52,
+          "timestamp": 1793994811,
+          "slug": "rou1-fap-din-2026-11-06-total-1pt5",
+          "event_slug": "rou1-fap-din-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will IF Elfsborg win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.014,
+          "value": 3.08,
+          "timestamp": 1793994811,
+          "slug": "swe-hif-elf-2026-11-06-elf",
+          "event_slug": "swe-hif-elf-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Argeș Pitești win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.79,
+          "value": 195.13,
+          "timestamp": 1793994810,
+          "slug": "rou1-fap-din-2026-11-06-fap",
+          "event_slug": "rou1-fap-din-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Argeș Pitești win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7899999994,
+          "value": 195.99999999113925,
+          "timestamp": 1793994808,
+          "slug": "rou1-fap-din-2026-11-06-fap",
+          "event_slug": "rou1-fap-din-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Barracas Central vs. Racing Club: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.83,
+          "value": 313.74,
+          "timestamp": 1793994804,
+          "slug": "arg-bar-rac-2026-11-06-total-2pt5",
+          "event_slug": "arg-bar-rac-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Barracas Central vs. Racing Club: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.83,
+          "value": 268.09,
+          "timestamp": 1793994802,
+          "slug": "arg-bar-rac-2026-11-06-total-2pt5",
+          "event_slug": "arg-bar-rac-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Argeș Pitești win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.79,
+          "value": 191.18,
+          "timestamp": 1793994787,
+          "slug": "rou1-fap-din-2026-11-06-fap",
+          "event_slug": "rou1-fap-din-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Argeș Pitești win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.789999997,
+          "value": 31.99999899848102,
+          "timestamp": 1793994778,
+          "slug": "rou1-fap-din-2026-11-06-fap",
+          "event_slug": "rou1-fap-din-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will AC Lumezzane win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7,
+          "value": 38.5,
+          "timestamp": 1793994670,
+          "slug": "serc-alc-acl-2026-11-06-acl",
+          "event_slug": "serc-alc-acl-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Cali: Leyre Romero Gormaz vs Julia Riera",
+          "side": "SELL",
+          "outcome": "Leyre Romero Gormaz",
+          "price": 0.9,
+          "value": 4.689,
+          "timestamp": 1793994586,
+          "slug": "wta-gormaz-riera-2026-11-06",
+          "event_slug": "wta-gormaz-riera-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Cali: Leyre Romero Gormaz vs Julia Riera",
+          "side": "BUY",
+          "outcome": "Leyre Romero Gormaz",
+          "price": 0.9299999885,
+          "value": 4.849989000027017,
+          "timestamp": 1793994585,
+          "slug": "wta-gormaz-riera-2026-11-06",
+          "event_slug": "wta-gormaz-riera-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Cali: Leyre Romero Gormaz vs Julia Riera",
+          "side": "SELL",
+          "outcome": "Leyre Romero Gormaz",
+          "price": 0.9563291139,
+          "value": 151.09999999619998,
+          "timestamp": 1793994577,
+          "slug": "wta-gormaz-riera-2026-11-06",
+          "event_slug": "wta-gormaz-riera-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Cali: Leyre Romero Gormaz vs Julia Riera",
+          "side": "BUY",
+          "outcome": "Leyre Romero Gormaz",
+          "price": 0.97,
+          "value": 153.26,
+          "timestamp": 1793994576,
+          "slug": "wta-gormaz-riera-2026-11-06",
+          "event_slug": "wta-gormaz-riera-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Drexel Dragons vs. Penn Quakers (W)",
+          "side": "BUY",
+          "outcome": "Drexel Dragons",
+          "price": 0.3808340972,
+          "value": 37.394100004068,
+          "timestamp": 1793994330,
+          "slug": "cwbb-drexel-penn-2026-11-06",
+          "event_slug": "cwbb-drexel-penn-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Willem II Tilburg vs. PEC Zwolle: 1st Half O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.25,
+          "value": 2.7,
+          "timestamp": 1793994241,
+          "slug": "ere-wii-zwo-2026-11-06-first-half-total-2pt5",
+          "event_slug": "ere-wii-zwo-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Willem II Tilburg vs. PEC Zwolle: 1st Half O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5499999849,
+          "value": 7.2800000001309035,
+          "timestamp": 1793994234,
+          "slug": "ere-wii-zwo-2026-11-06-first-half-total-2pt5",
+          "event_slug": "ere-wii-zwo-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Cali: Leyre Romero Gormaz vs Julia Riera",
           "side": "BUY",
@@ -5647,284 +5878,9 @@
           "slug": "bl3-vik-fcs-2026-11-06-total-4pt5",
           "event_slug": "bl3-vik-fcs-2026-11-06-more-markets",
           "result": "ongoing"
-        },
-        {
-          "title": "FC Viktoria Cologne vs. 1. FC Saarbrucken: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.9109411401,
-          "value": 55.859991998065304,
-          "timestamp": 1793993002,
-          "slug": "bl3-vik-fcs-2026-11-06-total-4pt5",
-          "event_slug": "bl3-vik-fcs-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "SG Dynamo Dresden vs. SpVgg Greuther Fürth: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.03,
-          "value": 4.8,
-          "timestamp": 1793992957,
-          "slug": "bl2-dyn-fur-2026-11-06-total-3pt5",
-          "event_slug": "bl2-dyn-fur-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will US gas hit $4.30 (High) in November?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.06,
-          "value": 1.7999999999999998,
-          "timestamp": 1793992743,
-          "slug": "will-gas-hit-4pt30-high-by-november-30-2026",
-          "event_slug": "will-gas-hit-by-end-of-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will US gas hit $4.30 (High) in November?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.06,
-          "value": 1.74,
-          "timestamp": 1793992738,
-          "slug": "will-gas-hit-4pt30-high-by-november-30-2026",
-          "event_slug": "will-gas-hit-by-end-of-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Eintracht Braunschweig vs. FC Energie Cottbus end in a draw?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.91,
-          "value": 19.11,
-          "timestamp": 1793992720,
-          "slug": "bl2-bra-fce-2026-11-06-draw",
-          "event_slug": "bl2-bra-fce-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Eintracht Braunschweig vs. FC Energie Cottbus end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.11,
-          "value": 3.85,
-          "timestamp": 1793992690,
-          "slug": "bl2-bra-fce-2026-11-06-draw",
-          "event_slug": "bl2-bra-fce-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Costa do Sauipe: Juan Carlos Prado vs Camilo Ugo Carabelli",
-          "side": "BUY",
-          "outcome": "Juan Carlos Prado",
-          "price": 0.0144166139,
-          "value": 3.417169992717,
-          "timestamp": 1793992681,
-          "slug": "atp-prado-carabel-2026-11-06",
-          "event_slug": "atp-prado-carabel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 2.3000000000000003,
-          "timestamp": 1793992545,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SK Rapid win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.94,
-          "value": 6.109999999999999,
-          "timestamp": 1793992542,
-          "slug": "aut-scr-wac-2026-11-06-scr",
-          "event_slug": "aut-scr-wac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
-          "side": "SELL",
-          "outcome": "Taylor Fritz",
-          "price": 0.34,
-          "value": 303.28000000000003,
-          "timestamp": 1793992441,
-          "slug": "atp-fritz-alcaraz-2026-11-06",
-          "event_slug": "atp-fritz-alcaraz-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
-          "side": "BUY",
-          "outcome": "Taylor Fritz",
-          "price": 0.3699999999,
-          "value": 333.26000001992975,
-          "timestamp": 1793992438,
-          "slug": "atp-fritz-alcaraz-2026-11-06",
-          "event_slug": "atp-fritz-alcaraz-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charlottesville (Doubles): Jans/Vliegen vs Hilderbrand/Pavel",
-          "side": "BUY",
-          "outcome": "Jans/Vliegen",
-          "price": 0.98,
-          "value": 749.6999999999999,
-          "timestamp": 1793992330,
-          "slug": "atp-doubles-jansvli-hildpav-2026-11-07",
-          "event_slug": "atp-doubles-jansvli-hildpav-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 2.3000000000000003,
-          "timestamp": 1793992317,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cali: Leyre Romero Gormaz vs Julia Riera",
-          "side": "BUY",
-          "outcome": "Julia Riera",
-          "price": 0.81,
-          "value": 1354.3200000000002,
-          "timestamp": 1793992152,
-          "slug": "wta-gormaz-riera-2026-11-06",
-          "event_slug": "wta-gormaz-riera-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Heracles Almelo win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.18,
-          "value": 7.02,
-          "timestamp": 1793992134,
-          "slug": "ned2-her-rod-2026-11-06-her",
-          "event_slug": "ned2-her-rod-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Heracles Almelo win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.18,
-          "value": 5.76,
-          "timestamp": 1793992131,
-          "slug": "ned2-her-rod-2026-11-06-her",
-          "event_slug": "ned2-her-rod-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Heracles Almelo vs. Roda JC Kerkrade: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.005,
-          "value": 1.18,
-          "timestamp": 1793992123,
-          "slug": "ned2-her-rod-2026-11-06-total-0pt5",
-          "event_slug": "ned2-her-rod-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Heracles Almelo win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.18,
-          "value": 3.2399999999999998,
-          "timestamp": 1793992123,
-          "slug": "ned2-her-rod-2026-11-06-her",
-          "event_slug": "ned2-her-rod-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jong AZ Alkmaar vs. Almere City FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.53,
-          "value": 15.9,
-          "timestamp": 1793991873,
-          "slug": "ned2-az-alm-2026-11-06-total-3pt5",
-          "event_slug": "ned2-az-alm-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jong AZ Alkmaar vs. Almere City FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.7099999924,
-          "value": 17.819997999250724,
-          "timestamp": 1793991867,
-          "slug": "ned2-az-alm-2026-11-06-total-2pt5",
-          "event_slug": "ned2-az-alm-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "LKP Motor Lublin vs. Wisla Plock: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.0699999994,
-          "value": 1.1100000004857142,
-          "timestamp": 1793991792,
-          "slug": "pol-mot-plo-2026-11-06-total-5pt5",
-          "event_slug": "pol-mot-plo-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "LKP Motor Lublin vs. Wisla Plock: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.07,
-          "value": 0.7525000000000001,
-          "timestamp": 1793991784,
-          "slug": "pol-mot-plo-2026-11-06-total-5pt5",
-          "event_slug": "pol-mot-plo-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "LKP Motor Lublin vs. Wisla Plock: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.0599999982,
-          "value": 1.339999999799999,
-          "timestamp": 1793991783,
-          "slug": "pol-mot-plo-2026-11-06-total-5pt5",
-          "event_slug": "pol-mot-plo-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "LKP Motor Lublin vs. Wisla Plock: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.0525547433,
-          "value": 1.559999998658162,
-          "timestamp": 1793991756,
-          "slug": "pol-mot-plo-2026-11-06-total-5pt5",
-          "event_slug": "pol-mot-plo-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will LKP Motor Lublin win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.97,
-          "value": 23.28,
-          "timestamp": 1793991712,
-          "slug": "pol-mot-plo-2026-11-06-mot",
-          "event_slug": "pol-mot-plo-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T19:50:07.362Z"
+  "lastUpdate": "2026-11-06T20:05:57.027Z"
 }
