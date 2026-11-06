@@ -1482,10 +1482,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 503.43401000179904,
+        "volume": 454.992530001799,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 115-139 tweets from November 5 to November 7, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.012,
+          "value": 0.15852000000000002,
+          "timestamp": 1793944564,
+          "slug": "elon-musk-of-tweets-november-5-november-7-2026-115-139",
+          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 165-189 tweets from November 5 to November 7, 2026?",
           "side": "SELL",
@@ -1637,17 +1648,6 @@
           "value": 49.302,
           "timestamp": 1793943972,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-0-39",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 90-114 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9,
-          "value": 48.6,
-          "timestamp": 1793943972,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-90-114",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
           "result": "ongoing"
         }
@@ -1836,11 +1836,11 @@
       "address": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
       "label": "chongchong37",
       "stats48h": {
-        "wins": 6,
+        "wins": 5,
         "losses": 9,
-        "totalTrades": 15,
-        "winRate": 0.4,
-        "volume": 44095.42929997208,
+        "totalTrades": 14,
+        "winRate": 0.35714285714285715,
+        "volume": 43549.96929997208,
         "pnl": 0
       },
       "recentTrades": [
@@ -1997,17 +1997,6 @@
           "slug": "acle-nuj-shp-2026-11-03-total-3pt5",
           "event_slug": "acle-nuj-shp-2026-11-03-more-markets",
           "result": "loss"
-        },
-        {
-          "title": "Kataller Toyama vs. Vegalta Sendai: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5,
-          "value": 545.46,
-          "timestamp": 1793685880,
-          "slug": "ja2-kat-veg-2026-11-02-total-1pt5",
-          "event_slug": "ja2-kat-veg-2026-11-02-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -2191,5 +2180,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T05:59:14.907Z"
+  "lastUpdate": "2026-11-06T06:07:50.042Z"
 }
