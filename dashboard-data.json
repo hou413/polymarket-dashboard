@@ -971,11 +971,11 @@
       "address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
       "label": "Netrol",
       "stats48h": {
-        "wins": 3,
+        "wins": 2,
         "losses": 0,
-        "totalTrades": 3,
+        "totalTrades": 2,
         "winRate": 1,
-        "volume": 40392.6955,
+        "volume": 18609.4552,
         "pnl": 0
       },
       "recentTrades": [
@@ -999,17 +999,6 @@
           "timestamp": 1793747488,
           "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
           "event_slug": "which-party-will-win-the-house-in-2026",
-          "result": "win"
-        },
-        {
-          "title": "Will the Republicans win the Florida governor race in 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.61,
-          "value": 21783.2403,
-          "timestamp": 1793738121,
-          "slug": "will-the-republicans-win-the-florida-governor-race-in-2026",
-          "event_slug": "florida-governor-winner-2026",
           "result": "win"
         }
       ]
@@ -3121,10 +3110,65 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 5509.211850025401,
+        "volume": 5641.663940024274,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 40-64 tweets from November 5 to November 7, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9975010908,
+          "value": 73.156729999272,
+          "timestamp": 1793997093,
+          "slug": "elon-musk-of-tweets-november-5-november-7-2026-40-64",
+          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 115-139 tweets from November 5 to November 7, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.949,
+          "value": 69.59966,
+          "timestamp": 1793997093,
+          "slug": "elon-musk-of-tweets-november-5-november-7-2026-115-139",
+          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 140-164 tweets from November 5 to November 7, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.99,
+          "value": 72.6066,
+          "timestamp": 1793997093,
+          "slug": "elon-musk-of-tweets-november-5-november-7-2026-140-164",
+          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 165-189 tweets from November 5 to November 7, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 73.26666,
+          "timestamp": 1793997093,
+          "slug": "elon-musk-of-tweets-november-5-november-7-2026-165-189",
+          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 90-114 tweets from November 5 to November 7, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.5,
+          "value": 36.67,
+          "timestamp": 1793997093,
+          "slug": "elon-musk-of-tweets-november-5-november-7-2026-90-114",
+          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 65-89 tweets from November 5 to November 7, 2026?",
           "side": "BUY",
@@ -3618,61 +3662,6 @@
           "timestamp": 1793991468,
           "slug": "will-marco-rubio-be-the-next-to-leave-the-trump-cabinet-before-2027-457",
           "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Susie Wiles be the next to leave the Trump Cabinet before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.054,
-          "value": 0.54,
-          "timestamp": 1793991468,
-          "slug": "will-susie-wiles-be-the-next-to-leave-the-trump-cabinet-before-2027-628",
-          "event_slug": "who-will-be-the-next-to-leave-the-trump-cabinet-474",
-          "result": "ongoing"
-        },
-        {
-          "title": "Gavin Newsom 2028 presidential odds leader on November 30?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.979,
-          "value": 50.908,
-          "timestamp": 1793991291,
-          "slug": "gavin-newsom-2028-presidential-odds-leader-on-november-30",
-          "event_slug": "2028-presidential-odds-leader-on-november-30",
-          "result": "ongoing"
-        },
-        {
-          "title": "Marco Rubio 2028 presidential odds leader on November 30?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.99,
-          "value": 51.48,
-          "timestamp": 1793991291,
-          "slug": "marco-rubio-2028-presidential-odds-leader-on-november-30",
-          "event_slug": "2028-presidential-odds-leader-on-november-30",
-          "result": "ongoing"
-        },
-        {
-          "title": "JD Vance 2028 presidential odds leader on November 30?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.74,
-          "value": 38.48,
-          "timestamp": 1793991291,
-          "slug": "jd-vance-2028-presidential-odds-leader-on-november-30",
-          "event_slug": "2028-presidential-odds-leader-on-november-30",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kamala Harris 2028 presidential odds leader on November 30?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9892223077,
-          "value": 51.4395600004,
-          "timestamp": 1793991289,
-          "slug": "kamala-harris-2028-presidential-odds-leader-on-november-30",
-          "event_slug": "2028-presidential-odds-leader-on-november-30",
           "result": "ongoing"
         }
       ]
@@ -4193,14 +4182,25 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 31,
+        "wins": 30,
         "losses": 4,
-        "totalTrades": 88,
-        "winRate": 0.8857142857142857,
-        "volume": 110138.00691000174,
+        "totalTrades": 89,
+        "winRate": 0.8823529411764706,
+        "volume": 97109.10491046438,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Carlos Alcaraz",
+          "price": 0.16,
+          "value": 1.8576,
+          "timestamp": 1793997354,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
           "side": "BUY",
@@ -4739,17 +4739,6 @@
           "slug": "atp-struff-ruud-2026-11-05",
           "event_slug": "atp-struff-ruud-2026-11-05",
           "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Jan-Lennard Struff vs Casper Ruud",
-          "side": "BUY",
-          "outcome": "Casper Ruud",
-          "price": 0.6846464556,
-          "value": 13030.75959953735,
-          "timestamp": 1793907753,
-          "slug": "atp-struff-ruud-2026-11-05",
-          "event_slug": "atp-struff-ruud-2026-11-05",
-          "result": "win"
         }
       ]
     },
@@ -4758,13 +4747,24 @@
       "label": "takeormake",
       "stats48h": {
         "wins": 27,
-        "losses": 16,
+        "losses": 15,
         "totalTrades": 500,
-        "winRate": 0.627906976744186,
-        "volume": 6612.97504007354,
+        "winRate": 0.6428571428571429,
+        "volume": 6534.9652400735395,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: 49ers (-8.5)",
+          "side": "BUY",
+          "outcome": "Raiders",
+          "price": 0.47,
+          "value": 8.3002,
+          "timestamp": 1793997949,
+          "slug": "nfl-lv-sf-2026-11-08-spread-home-8pt5",
+          "event_slug": "nfl-lv-sf-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Celtics vs. Hornets: O/U 210.5",
           "side": "BUY",
@@ -5303,17 +5303,6 @@
           "slug": "nba-mia-gsw-2026-11-05-spread-home-5pt5",
           "event_slug": "nba-mia-gsw-2026-11-05",
           "result": "win"
-        },
-        {
-          "title": "Heat vs. Warriors: O/U 221.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.63,
-          "value": 86.31,
-          "timestamp": 1793941632,
-          "slug": "nba-mia-gsw-2026-11-05-total-221pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "loss"
         }
       ]
     },
@@ -5325,10 +5314,263 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2054.0476209899102,
+        "volume": 4871.198367997365,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Sevilla FC leading at halftime?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.88,
+          "value": 219.12,
+          "timestamp": 1793998000,
+          "slug": "lal-sev-ala-2026-11-06-halftime-result-home",
+          "event_slug": "lal-sev-ala-2026-11-06-halftime-result",
+          "result": "ongoing"
+        },
+        {
+          "title": "Helmond Sport vs. FC Volendam: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.98,
+          "value": 25.48,
+          "timestamp": 1793997967,
+          "slug": "ned2-hel-vol-2026-11-06-total-4pt5",
+          "event_slug": "ned2-hel-vol-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Helmond Sport vs. FC Volendam: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.98,
+          "value": 38.22,
+          "timestamp": 1793997966,
+          "slug": "ned2-hel-vol-2026-11-06-total-4pt5",
+          "event_slug": "ned2-hel-vol-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.95,
+          "value": 53.199999999999996,
+          "timestamp": 1793997952,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.94,
+          "value": 112.8,
+          "timestamp": 1793997945,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.94,
+          "value": 25.38,
+          "timestamp": 1793997943,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Stade de Reims win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 0.651,
+          "timestamp": 1793997729,
+          "slug": "fr2-gre-rei-2026-11-06-rei",
+          "event_slug": "fr2-gre-rei-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Cusco FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.28,
+          "value": 5.040000000000001,
+          "timestamp": 1793997706,
+          "slug": "per1-cag-cuf-2026-11-06-cuf",
+          "event_slug": "per1-cag-cuf-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Hamburger SV vs. Borussia Mönchengladbach: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.82,
+          "value": 19.68,
+          "timestamp": 1793997544,
+          "slug": "bun-hsv-moe-2026-11-06-total-2pt5",
+          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.86,
+          "value": 279.5,
+          "timestamp": 1793997472,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Hamburger SV vs. Borussia Mönchengladbach: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.85,
+          "value": 52.699999999999996,
+          "timestamp": 1793997468,
+          "slug": "bun-hsv-moe-2026-11-06-total-2pt5",
+          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Hamburger SV vs. Borussia Mönchengladbach: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.85,
+          "value": 52.699999999999996,
+          "timestamp": 1793997466,
+          "slug": "bun-hsv-moe-2026-11-06-total-2pt5",
+          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Taylor Fritz",
+          "price": 0.844863407,
+          "value": 2917.3699949970296,
+          "timestamp": 1793997442,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Hamburger SV win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.5,
+          "value": 86.9,
+          "timestamp": 1793997417,
+          "slug": "bun-hsv-moe-2026-11-06-hsv",
+          "event_slug": "bun-hsv-moe-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Everton FC vs. Coventry City FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.05,
+          "value": 7.540000000000001,
+          "timestamp": 1793997255,
+          "slug": "epl-eve-cov-2026-11-06-total-4pt5",
+          "event_slug": "epl-eve-cov-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sevilla FC vs. Deportivo Alavés: 1st Half O/U 0.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 1.0244,
+          "timestamp": 1793997222,
+          "slug": "lal-sev-ala-2026-11-06-first-half-total-0pt5",
+          "event_slug": "lal-sev-ala-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Toulouse FC leading at halftime?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.0699999999,
+          "value": 13.000000001428571,
+          "timestamp": 1793997219,
+          "slug": "fl1-tou-str-2026-11-06-halftime-result-home",
+          "event_slug": "fl1-tou-str-2026-11-06-halftime-result",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will RC Strasbourg Alsace win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.83,
+          "value": 17.2806,
+          "timestamp": 1793997214,
+          "slug": "fl1-tou-str-2026-11-06-str",
+          "event_slug": "fl1-tou-str-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sevilla FC vs. Deportivo Alavés: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 19.49,
+          "timestamp": 1793997214,
+          "slug": "lal-sev-ala-2026-11-06-first-half-total-0pt5",
+          "event_slug": "lal-sev-ala-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Toulouse FC vs. RC Strasbourg Alsace: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.4899999877,
+          "value": 5.1899999997204045,
+          "timestamp": 1793997208,
+          "slug": "fl1-tou-str-2026-11-06-first-half-total-0pt5",
+          "event_slug": "fl1-tou-str-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Toulouse FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4,
+          "value": 11.98,
+          "timestamp": 1793997193,
+          "slug": "fl1-tou-str-2026-11-06-tou",
+          "event_slug": "fl1-tou-str-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sevilla FC vs. Deportivo Alavés: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.47,
+          "value": 12.219999999999999,
+          "timestamp": 1793997193,
+          "slug": "lal-sev-ala-2026-11-06-first-half-total-0pt5",
+          "event_slug": "lal-sev-ala-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sevilla FC vs. Deportivo Alavés: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.3899999992,
+          "value": 10.119999999241026,
+          "timestamp": 1793997189,
+          "slug": "lal-sev-ala-2026-11-06-first-half-total-0pt5",
+          "event_slug": "lal-sev-ala-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Will Toulouse FC win on 2026-11-06?",
           "side": "SELL",
@@ -5625,262 +5867,9 @@
           "slug": "bel1-sta-bev-2026-11-06-sta",
           "event_slug": "bel1-sta-bev-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.96,
-          "value": 28.89,
-          "timestamp": 1793996817,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.05,
-          "value": 9.18,
-          "timestamp": 1793996662,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.9366868971,
-          "value": 225.1199979904079,
-          "timestamp": 1793996638,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.93,
-          "value": 33.480000000000004,
-          "timestamp": 1793996625,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8499999878,
-          "value": 45.44999999765881,
-          "timestamp": 1793996599,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8299999994,
-          "value": 41.54999999996385,
-          "timestamp": 1793996590,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.83,
-          "value": 24.9,
-          "timestamp": 1793996589,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.830999977,
-          "value": 24.99000000133933,
-          "timestamp": 1793996584,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.831,
-          "value": 16.619999999999997,
-          "timestamp": 1793996583,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8306526545,
-          "value": 38.48000000211294,
-          "timestamp": 1793996581,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8299999921,
-          "value": 16.859998999525306,
-          "timestamp": 1793996577,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Argeș Pitești vs. Dinamo 1948: O/U 2.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.08,
-          "value": 1.5904,
-          "timestamp": 1793996577,
-          "slug": "rou1-fap-din-2026-11-06-total-2pt5",
-          "event_slug": "rou1-fap-din-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Argeș Pitești vs. Dinamo 1948: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.0899999995,
-          "value": 1.7900000000555554,
-          "timestamp": 1793996575,
-          "slug": "rou1-fap-din-2026-11-06-total-2pt5",
-          "event_slug": "rou1-fap-din-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.83,
-          "value": 24.9249,
-          "timestamp": 1793996539,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Argeș Pitești win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8399999973,
-          "value": 25.229997998903578,
-          "timestamp": 1793996536,
-          "slug": "rou1-fap-din-2026-11-06-fap",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Olympiacos B.C. vs. KK Crvena Zvezda",
-          "side": "BUY",
-          "outcome": "KK Crvena Zvezda",
-          "price": 0.88,
-          "value": 36.08,
-          "timestamp": 1793996499,
-          "slug": "euroleague-olympiac-zvezda-2026-11-06",
-          "event_slug": "euroleague-olympiac-zvezda-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Dinamo 1948 win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9,
-          "value": 134.67999600000002,
-          "timestamp": 1793996490,
-          "slug": "rou1-fap-din-2026-11-06-din",
-          "event_slug": "rou1-fap-din-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Argeș Pitești vs. Dinamo 1948: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.87,
-          "value": 40.89,
-          "timestamp": 1793996475,
-          "slug": "rou1-fap-din-2026-11-06-total-2pt5",
-          "event_slug": "rou1-fap-din-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Wisla Krakow win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.63,
-          "value": 12.6,
-          "timestamp": 1793996256,
-          "slug": "pol-wis-cra-2026-11-06-wis",
-          "event_slug": "pol-wis-cra-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Wisla Krakow win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.65,
-          "value": 50.7,
-          "timestamp": 1793996253,
-          "slug": "pol-wis-cra-2026-11-06-wis",
-          "event_slug": "pol-wis-cra-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Hamburger SV vs. Borussia Mönchengladbach: 1st Half O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.98,
-          "value": 225.629957,
-          "timestamp": 1793996158,
-          "slug": "bun-hsv-moe-2026-11-06-first-half-total-2pt5",
-          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Everton FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.61,
-          "value": 67.1,
-          "timestamp": 1793996076,
-          "slug": "epl-eve-cov-2026-11-06-eve",
-          "event_slug": "epl-eve-cov-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Everton FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.61,
-          "value": 42.699999999999996,
-          "timestamp": 1793996074,
-          "slug": "epl-eve-cov-2026-11-06-eve",
-          "event_slug": "epl-eve-cov-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T20:35:41.172Z"
+  "lastUpdate": "2026-11-06T20:49:42.585Z"
 }
