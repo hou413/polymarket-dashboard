@@ -594,11 +594,11 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 15,
+        "wins": 14,
         "losses": 21,
-        "totalTrades": 40,
-        "winRate": 0.4166666666666667,
-        "volume": 137222.13800002175,
+        "totalTrades": 39,
+        "winRate": 0.4,
+        "volume": 135352.34120002174,
         "pnl": 0
       },
       "recentTrades": [
@@ -1030,17 +1030,6 @@
           "slug": "nhl-col-cbj-2026-11-03-spread-home-1pt5",
           "event_slug": "nhl-col-cbj-2026-11-03",
           "result": "win"
-        },
-        {
-          "title": "Jets vs. Canadiens",
-          "side": "BUY",
-          "outcome": "Jets",
-          "price": 0.36,
-          "value": 1869.7968,
-          "timestamp": 1793714793,
-          "slug": "nhl-wpg-mon-2026-11-03",
-          "event_slug": "nhl-wpg-mon-2026-11-03",
-          "result": "win"
         }
       ]
     },
@@ -1298,7 +1287,7 @@
       "stats48h": {
         "wins": 1,
         "losses": 0,
-        "totalTrades": 152,
+        "totalTrades": 147,
         "winRate": 1,
         "volume": 18119.753700115918,
         "pnl": 0
@@ -3440,10 +3429,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 1,
-        "volume": 10011.233020032281,
+        "volume": 10013.854270032069,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Trump and Putin meet next in China?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.13,
+          "value": 2.6715,
+          "timestamp": 1793974138,
+          "slug": "will-trump-and-putin-meet-next-in-china-784",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump and Putin meet next in United States?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 20.48835,
+          "timestamp": 1793974138,
+          "slug": "will-trump-and-putin-meet-next-in-united-states",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
         {
           "title": "Will Apple be the largest company in the world by market cap on November 30, 202",
           "side": "SELL",
@@ -3971,28 +3982,6 @@
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-65-89",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 90-114 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8854495913,
-          "value": 9.748800000213,
-          "timestamp": 1793943886,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-90-114",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 115-139 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.98,
-          "value": 10.7898,
-          "timestamp": 1793943886,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-115-139",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -4468,14 +4457,36 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 31,
+        "wins": 29,
         "losses": 6,
-        "totalTrades": 81,
-        "winRate": 0.8378378378378378,
-        "volume": 116304.92881000176,
+        "totalTrades": 83,
+        "winRate": 0.8285714285714286,
+        "volume": 122811.11961000174,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Carlos Alcaraz",
+          "price": 0.73,
+          "value": 7.3438,
+          "timestamp": 1793974609,
+          "slug": "atp-fritz-alcaraz-2026-11-06",
+          "event_slug": "atp-fritz-alcaraz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.9,
+          "value": 7201.215,
+          "timestamp": 1793974530,
+          "slug": "nba-sas-sac-2026-11-06",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
           "side": "SELL",
@@ -5000,28 +5011,6 @@
           "price": 0.59,
           "value": 59.589999999999996,
           "timestamp": 1793888005,
-          "slug": "atp-shelton-rinderk-2026-11-05",
-          "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
-          "side": "SELL",
-          "outcome": "Ben Shelton",
-          "price": 0.29,
-          "value": 290,
-          "timestamp": 1793887779,
-          "slug": "atp-shelton-rinderk-2026-11-05",
-          "event_slug": "atp-shelton-rinderk-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Arthur Rinderknech",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.4,
-          "value": 412.36800000000005,
-          "timestamp": 1793887689,
           "slug": "atp-shelton-rinderk-2026-11-05",
           "event_slug": "atp-shelton-rinderk-2026-11-05",
           "result": "win"
@@ -5600,10 +5589,230 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2102.6732900067336,
+        "volume": 2293.5193790097937,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters (Doubles): Cash/Nakashima vs Harrison/Skupski",
+          "side": "BUY",
+          "outcome": "Cash/Nakashima",
+          "price": 0.0129411765,
+          "value": 1.65000000375,
+          "timestamp": 1793975319,
+          "slug": "atp-doubles-cashnak-harrsku-2026-11-06",
+          "event_slug": "atp-doubles-cashnak-harrsku-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
+          "side": "BUY",
+          "outcome": "Chitwan Rhinos",
+          "price": 0.77,
+          "value": 73.15,
+          "timestamp": 1793975304,
+          "slug": "cricnpl-chi-pok-2026-11-06",
+          "event_slug": "cricnpl-chi-pok-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Bengaluru FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.3599999982,
+          "value": 56.2399999988,
+          "timestamp": 1793975164,
+          "slug": "isp-goa-ben-2026-11-06-ben",
+          "event_slug": "isp-goa-ben-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
+          "side": "BUY",
+          "outcome": "Pokhara Avengers",
+          "price": 0.16,
+          "value": 9.888,
+          "timestamp": 1793975134,
+          "slug": "cricnpl-chi-pok-2026-11-06",
+          "event_slug": "cricnpl-chi-pok-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 6.44,
+          "timestamp": 1793975121,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "FURIA",
+          "price": 0.4,
+          "value": 10.25,
+          "timestamp": 1793974858,
+          "slug": "cs2-furia-bb3-2026-11-06",
+          "event_slug": "cs2-furia-bb3-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will \"Nobody Wants This: Season 3\" be the #2 global Netflix show this week?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.97,
+          "value": 23.28,
+          "timestamp": 1793974834,
+          "slug": "will-nobody-wants-this-season-3-be-the-2-global-netflix-show-this-week-20261110",
+          "event_slug": "what-will-be-the-2-global-netflix-show-this-week-november-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sukhothai FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.81,
+          "value": 1.4175,
+          "timestamp": 1793974827,
+          "slug": "tha1-lam-suk-2026-11-06-suk",
+          "event_slug": "tha1-lam-suk-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Lamphun Warriors FC vs. Sukhothai FC: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.779,
+          "value": 31.16,
+          "timestamp": 1793974752,
+          "slug": "tha1-lam-suk-2026-11-06-total-0pt5",
+          "event_slug": "tha1-lam-suk-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "FURIA",
+          "price": 0.45,
+          "value": 3.6,
+          "timestamp": 1793974701,
+          "slug": "cs2-furia-bb3-2026-11-06",
+          "event_slug": "cs2-furia-bb3-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will \"Nobody Wants This: Season 3\" be the #2 global Netflix show this week?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.97,
+          "value": 116.519989,
+          "timestamp": 1793974689,
+          "slug": "will-nobody-wants-this-season-3-be-the-2-global-netflix-show-this-week-20261110",
+          "event_slug": "what-will-be-the-2-global-netflix-show-this-week-november-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the 30-year Treasury yield hit 5.65% in November?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.88,
+          "value": 17.6,
+          "timestamp": 1793974675,
+          "slug": "will-the-30-year-treasury-yield-hit-5pt65-in-november",
+          "event_slug": "how-high-will-30-year-treasury-yield-go-in-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "FURIA",
+          "price": 0.5,
+          "value": 15.99,
+          "timestamp": 1793974444,
+          "slug": "cs2-furia-bb3-2026-11-06",
+          "event_slug": "cs2-furia-bb3-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "FURIA",
+          "price": 0.66,
+          "value": 18.6186,
+          "timestamp": 1793974306,
+          "slug": "cs2-furia-bb3-2026-11-06",
+          "event_slug": "cs2-furia-bb3-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chennai Open: Mai Hontama vs Magda Linette",
+          "side": "BUY",
+          "outcome": "Magda Linette",
+          "price": 0.49,
+          "value": 182.28,
+          "timestamp": 1793974275,
+          "slug": "wta-hontama-linette-2026-11-06",
+          "event_slug": "wta-hontama-linette-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chennai Open: Mai Hontama vs Magda Linette",
+          "side": "BUY",
+          "outcome": "Magda Linette",
+          "price": 0.49,
+          "value": 494.9,
+          "timestamp": 1793974273,
+          "slug": "wta-hontama-linette-2026-11-06",
+          "event_slug": "wta-hontama-linette-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "FURIA",
+          "price": 0.67,
+          "value": 130.65,
+          "timestamp": 1793974249,
+          "slug": "cs2-furia-bb3-2026-11-06",
+          "event_slug": "cs2-furia-bb3-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "FURIA",
+          "price": 0.6,
+          "value": 6.51,
+          "timestamp": 1793974234,
+          "slug": "cs2-furia-bb3-2026-11-06",
+          "event_slug": "cs2-furia-bb3-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "FURIA",
+          "price": 0.56,
+          "value": 35.28,
+          "timestamp": 1793974233,
+          "slug": "cs2-furia-bb3-2026-11-06",
+          "event_slug": "cs2-furia-bb3-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "FURIA",
+          "price": 0.24,
+          "value": 2.4,
+          "timestamp": 1793974035,
+          "slug": "cs2-furia-bb3-2026-11-06",
+          "event_slug": "cs2-furia-bb3-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
           "side": "BUY",
@@ -5933,229 +6142,9 @@
           "slug": "cs2-furia-bb3-2026-11-06",
           "event_slug": "cs2-furia-bb3-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Maccabi Petah Tikva FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9399999904,
-          "value": 47.04999999948936,
-          "timestamp": 1793972656,
-          "slug": "isr-mta-mpt-2026-11-06-mpt",
-          "event_slug": "isr-mta-mpt-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
-          "side": "BUY",
-          "outcome": "Rwanda Women",
-          "price": 0.95,
-          "value": 190,
-          "timestamp": 1793972175,
-          "slug": "crint-rwaw-usaw-2026-11-06",
-          "event_slug": "crint-rwaw-usaw-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
-          "side": "BUY",
-          "outcome": "Rwanda Women",
-          "price": 0.94,
-          "value": 64.954,
-          "timestamp": 1793972013,
-          "slug": "crint-rwaw-usaw-2026-11-06",
-          "event_slug": "crint-rwaw-usaw-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
-          "side": "BUY",
-          "outcome": "Chitwan Rhinos",
-          "price": 0.5,
-          "value": 22.88,
-          "timestamp": 1793971993,
-          "slug": "cricnpl-chi-pok-2026-11-06",
-          "event_slug": "cricnpl-chi-pok-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 1.3800000000000001,
-          "timestamp": 1793971330,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 15.870000000000001,
-          "timestamp": 1793971330,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 113.62,
-          "timestamp": 1793971329,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 113.62,
-          "timestamp": 1793971329,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Maccabi Petah Tikva FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.909,
-          "value": 90.9,
-          "timestamp": 1793971258,
-          "slug": "isr-mta-mpt-2026-11-06-mpt",
-          "event_slug": "isr-mta-mpt-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Maccabi Petah Tikva FC win on 2026-11-06?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.901,
-          "value": 72.08,
-          "timestamp": 1793971224,
-          "slug": "isr-mta-mpt-2026-11-06-mpt",
-          "event_slug": "isr-mta-mpt-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Maccabi Petah Tikva FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.909,
-          "value": 72.72,
-          "timestamp": 1793971221,
-          "slug": "isr-mta-mpt-2026-11-06-mpt",
-          "event_slug": "isr-mta-mpt-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
-          "side": "SELL",
-          "outcome": "Rwanda Women",
-          "price": 0.82,
-          "value": 54.12,
-          "timestamp": 1793971174,
-          "slug": "crint-rwaw-usaw-2026-11-06",
-          "event_slug": "crint-rwaw-usaw-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
-          "side": "BUY",
-          "outcome": "Rwanda Women",
-          "price": 0.82,
-          "value": 54.94,
-          "timestamp": 1793971173,
-          "slug": "crint-rwaw-usaw-2026-11-06",
-          "event_slug": "crint-rwaw-usaw-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.24,
-          "value": 5.279999999999999,
-          "timestamp": 1793971120,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
-          "side": "BUY",
-          "outcome": "Rwanda Women",
-          "price": 0.89,
-          "value": 8.9,
-          "timestamp": 1793970805,
-          "slug": "crint-rwaw-usaw-2026-11-06",
-          "event_slug": "crint-rwaw-usaw-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
-          "side": "BUY",
-          "outcome": "Rwanda Women",
-          "price": 0.84,
-          "value": 45.36,
-          "timestamp": 1793970771,
-          "slug": "crint-rwaw-usaw-2026-11-06",
-          "event_slug": "crint-rwaw-usaw-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will \"Nobody Wants This: Season 3\" be the #2 US Netflix show this week?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.014,
-          "value": 1.4000000000000001,
-          "timestamp": 1793970702,
-          "slug": "will-nobody-wants-this-season-3-be-the-2-us-netflix-show-this-week-20261110",
-          "event_slug": "what-will-be-the-2-us-netflix-show-this-week-november-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Maccabi Tel Aviv FC win on 2026-11-06?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.32,
-          "value": 21.424000000000003,
-          "timestamp": 1793970657,
-          "slug": "isr-mta-mpt-2026-11-06-mta",
-          "event_slug": "isr-mta-mpt-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Maccabi Tel Aviv FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.25,
-          "value": 20.24,
-          "timestamp": 1793970654,
-          "slug": "isr-mta-mpt-2026-11-06-mta",
-          "event_slug": "isr-mta-mpt-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Maccabi Tel Aviv FC vs. Maccabi Petah Tikva FC end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.84,
-          "value": 30.24,
-          "timestamp": 1793970558,
-          "slug": "isr-mta-mpt-2026-11-06-draw",
-          "event_slug": "isr-mta-mpt-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T14:14:07.352Z"
+  "lastUpdate": "2026-11-06T14:31:36.350Z"
 }
