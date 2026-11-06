@@ -3425,14 +3425,36 @@
       "address": "0x511f9c771449162349795d17becf8b37031acbe1",
       "label": "ethanaz",
       "stats48h": {
-        "wins": 1,
-        "losses": 1,
+        "wins": 2,
+        "losses": 3,
         "totalTrades": 500,
-        "winRate": 0.5,
-        "volume": 8153.954480021531,
+        "winRate": 0.4,
+        "volume": 9755.27348002153,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.3,
+          "value": 382.8,
+          "timestamp": 1793963209,
+          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 1273.448,
+          "timestamp": 1793963209,
+          "slug": "will-ebba-busch-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
         {
           "title": "Will Microsoft be the largest company in the world by market cap on November 30,",
           "side": "SELL",
@@ -3849,7 +3871,7 @@
           "timestamp": 1793941360,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-280-299",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO d",
@@ -3871,7 +3893,7 @@
           "timestamp": 1793941291,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-280-299",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
@@ -3926,7 +3948,7 @@
           "timestamp": 1793940415,
           "slug": "elon-musk-of-tweets-october-30-november-6-2026-280-299",
           "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
@@ -3959,28 +3981,6 @@
           "timestamp": 1793938527,
           "slug": "will-new-zealand-first-party-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
           "event_slug": "new-zealand-election-2nd-place-393",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will National Party win the second-most seats in the New Zealand House of Repres",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.7,
-          "value": 52.136,
-          "timestamp": 1793938312,
-          "slug": "will-national-party-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election-992",
-          "event_slug": "new-zealand-election-2nd-place-393",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 320-339 tweets from October 30 to November 6, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.021,
-          "value": 2.793,
-          "timestamp": 1793937726,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-320-339",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
           "result": "ongoing"
         }
       ]
@@ -4939,7 +4939,1135 @@
           "result": "win"
         }
       ]
+    },
+    {
+      "address": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+      "label": "takeormake",
+      "stats48h": {
+        "wins": 28,
+        "losses": 22,
+        "totalTrades": 500,
+        "winRate": 0.56,
+        "volume": 6753.0376400735395,
+        "pnl": 0
+      },
+      "recentTrades": [
+        {
+          "title": "Spread: Warriors (-20.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.7254465849,
+          "value": 828.4599999558001,
+          "timestamp": 1793943202,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-20pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-22.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.14,
+          "value": 2.1,
+          "timestamp": 1793943186,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-22pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-22.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.117184412,
+          "value": 43.78244001144,
+          "timestamp": 1793943121,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-22pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-12.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.77,
+          "value": 31.57,
+          "timestamp": 1793943105,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-12pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-18.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.2623536232,
+          "value": 452.56000002,
+          "timestamp": 1793942979,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-18pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-12.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.737909699,
+          "value": 441.270000002,
+          "timestamp": 1793942979,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-12pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-16.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.3878302533,
+          "value": 566.6200000713,
+          "timestamp": 1793942979,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-16pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-10.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.8302479339,
+          "value": 301.38000000569997,
+          "timestamp": 1793942979,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-10pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-8.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.9376571429,
+          "value": 164.0900000075,
+          "timestamp": 1793942977,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-8pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-9.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.8796091205,
+          "value": 270.0399999935,
+          "timestamp": 1793942977,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-9pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-16.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.57,
+          "value": 570,
+          "timestamp": 1793942974,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-16pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-10.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.15,
+          "value": 150,
+          "timestamp": 1793942974,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-10pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-12.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.2408925319,
+          "value": 264.50000002620004,
+          "timestamp": 1793942974,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-12pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-8.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.89,
+          "value": 35.6,
+          "timestamp": 1793942827,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-8pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-9.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.83,
+          "value": 16.268,
+          "timestamp": 1793942827,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-9pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-14.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.45,
+          "value": 201.6,
+          "timestamp": 1793942826,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-14pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-16.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.3,
+          "value": 171,
+          "timestamp": 1793942826,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-16pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-10.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.6155913978,
+          "value": 171.7499999862,
+          "timestamp": 1793942779,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-10pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-16.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.2177472527,
+          "value": 39.6299999914,
+          "timestamp": 1793942778,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-16pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-12.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.49,
+          "value": 133.28,
+          "timestamp": 1793942778,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-12pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-8.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.35,
+          "value": 71.75,
+          "timestamp": 1793942758,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-8pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-5.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.15,
+          "value": 98.25,
+          "timestamp": 1793942758,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-5pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-16.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.22,
+          "value": 118.36,
+          "timestamp": 1793942509,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-16pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Heat vs. Warriors",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.01,
+          "value": 2.94,
+          "timestamp": 1793942496,
+          "slug": "nba-mia-gsw-2026-11-05",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-18.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.74,
+          "value": 7.4,
+          "timestamp": 1793942406,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-18pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-9.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.1855947137,
+          "value": 42.1300000099,
+          "timestamp": 1793942406,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-9pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-7.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.12,
+          "value": 1.2,
+          "timestamp": 1793942404,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-7pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-10.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.22,
+          "value": 8.14,
+          "timestamp": 1793942307,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-10pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-18.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.65,
+          "value": 19.5,
+          "timestamp": 1793942307,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-18pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-20.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.76,
+          "value": 32.68,
+          "timestamp": 1793942307,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-20pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-5.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.94,
+          "value": 57.339999999999996,
+          "timestamp": 1793942115,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-5pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-2.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.95,
+          "value": 38.949999999999996,
+          "timestamp": 1793942103,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-2pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Heat vs. Warriors",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.03,
+          "value": 2.37,
+          "timestamp": 1793942098,
+          "slug": "nba-mia-gsw-2026-11-05",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-12.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.49,
+          "value": 82.81,
+          "timestamp": 1793942061,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-12pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-5.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.8387643678,
+          "value": 291.8899999944,
+          "timestamp": 1793941965,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-5pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-3.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.89,
+          "value": 16.91,
+          "timestamp": 1793941965,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-3pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-7.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.7566887417,
+          "value": 228.5199999934,
+          "timestamp": 1793941963,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-7pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-12.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.4896511628,
+          "value": 252.6600000048,
+          "timestamp": 1793941963,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-12pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-14.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.37,
+          "value": 185,
+          "timestamp": 1793941963,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-14pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Heat vs. Warriors",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.05,
+          "value": 2.75,
+          "timestamp": 1793941702,
+          "slug": "nba-mia-gsw-2026-11-05",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-8.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.65,
+          "value": 5.2,
+          "timestamp": 1793941645,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-8pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-5.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.8,
+          "value": 4,
+          "timestamp": 1793941645,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-5pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        },
+        {
+          "title": "Heat vs. Warriors: O/U 221.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.63,
+          "value": 86.31,
+          "timestamp": 1793941632,
+          "slug": "nba-mia-gsw-2026-11-05-total-221pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Heat vs. Warriors: O/U 227.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.34,
+          "value": 72.42,
+          "timestamp": 1793941630,
+          "slug": "nba-mia-gsw-2026-11-05-total-227pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Heat vs. Warriors: O/U 223.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 73.98,
+          "timestamp": 1793941630,
+          "slug": "nba-mia-gsw-2026-11-05-total-223pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Heat vs. Warriors: O/U 225.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.44,
+          "value": 60.28,
+          "timestamp": 1793941630,
+          "slug": "nba-mia-gsw-2026-11-05-total-225pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Heat vs. Warriors",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.08,
+          "value": 0.8,
+          "timestamp": 1793941630,
+          "slug": "nba-mia-gsw-2026-11-05",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-12.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.54,
+          "value": 1.7172000000000003,
+          "timestamp": 1793941596,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-12pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Heat vs. Warriors",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.08,
+          "value": 2.8000000000000003,
+          "timestamp": 1793941594,
+          "slug": "nba-mia-gsw-2026-11-05",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "loss"
+        },
+        {
+          "title": "Heat vs. Warriors",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.89,
+          "value": 28.48,
+          "timestamp": 1793941299,
+          "slug": "nba-mia-gsw-2026-11-05",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "address": "0xc785252b25901a591e9d962e09f4342468444ef2",
+      "label": "dips.",
+      "stats48h": {
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 500,
+        "winRate": 0,
+        "volume": 4192.132899971262,
+        "pnl": 0
+      },
+      "recentTrades": [
+        {
+          "title": "Will the match end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7,
+          "value": 128.1,
+          "timestamp": 1793963865,
+          "slug": "crint-zwea-irla-2026-11-06-draw",
+          "event_slug": "crint-zwea-irla-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the match end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7,
+          "value": 70,
+          "timestamp": 1793963865,
+          "slug": "crint-zwea-irla-2026-11-06-draw",
+          "event_slug": "crint-zwea-irla-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.03,
+          "value": 6.63,
+          "timestamp": 1793963634,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.05,
+          "value": 1.4880000000000002,
+          "timestamp": 1793963631,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "KHL: Amur Khabarovsk vs. SKA St. Petersburg",
+          "side": "BUY",
+          "outcome": "Amur Khabarovsk",
+          "price": 0.01,
+          "value": 1.05,
+          "timestamp": 1793963614,
+          "slug": "khl-amu-ska-2026-11-06",
+          "event_slug": "khl-amu-ska-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Sydney Sixers",
+          "price": 0.54,
+          "value": 426.06,
+          "timestamp": 1793963563,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Sydney Sixers",
+          "price": 0.55,
+          "value": 52.68450000000001,
+          "timestamp": 1793963557,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Sydney Sixers",
+          "price": 0.55,
+          "value": 301.40000000000003,
+          "timestamp": 1793963554,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Sydney Sixers",
+          "price": 0.5,
+          "value": 4.99,
+          "timestamp": 1793963455,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Taipei (Doubles): Chandrasekar/Rai vs Donski/Poljak",
+          "side": "BUY",
+          "outcome": "Chandrasekar/Rai",
+          "price": 0.85,
+          "value": 2.516,
+          "timestamp": 1793963403,
+          "slug": "atp-doubles-chanrai-donspol-2026-11-06",
+          "event_slug": "atp-doubles-chanrai-donspol-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Taipei (Doubles): Chandrasekar/Rai vs Donski/Poljak",
+          "side": "BUY",
+          "outcome": "Donski/Poljak",
+          "price": 0.1,
+          "value": 0.08600000000000001,
+          "timestamp": 1793963337,
+          "slug": "atp-doubles-chanrai-donspol-2026-11-06",
+          "event_slug": "atp-doubles-chanrai-donspol-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.84,
+          "value": 21,
+          "timestamp": 1793963251,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.82,
+          "value": 160.72,
+          "timestamp": 1793963226,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "SELL",
+          "outcome": "Melbourne Stars",
+          "price": 0.59,
+          "value": 49.559999999999995,
+          "timestamp": 1793963169,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.57,
+          "value": 54.15,
+          "timestamp": 1793963163,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.62,
+          "value": 18.6,
+          "timestamp": 1793963026,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.6,
+          "value": 11.219999999999999,
+          "timestamp": 1793963025,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.57,
+          "value": 4.56,
+          "timestamp": 1793963023,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.53,
+          "value": 14.84,
+          "timestamp": 1793962992,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.53,
+          "value": 104.94000000000001,
+          "timestamp": 1793962989,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.53,
+          "value": 31.8,
+          "timestamp": 1793962989,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.53,
+          "value": 91.16000000000001,
+          "timestamp": 1793962986,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.57,
+          "value": 205.76999999999998,
+          "timestamp": 1793962830,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.68,
+          "value": 38.080000000000005,
+          "timestamp": 1793962735,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.5410224606,
+          "value": 414.98999996715565,
+          "timestamp": 1793962542,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.54,
+          "value": 37.260000000000005,
+          "timestamp": 1793962536,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.53,
+          "value": 386.56080000000003,
+          "timestamp": 1793962516,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.53,
+          "value": 389.02000000000004,
+          "timestamp": 1793962515,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.5264223027,
+          "value": 263.4100000049327,
+          "timestamp": 1793962515,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 5.75,
+          "timestamp": 1793962432,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "KHL: Admiral Vladivostok vs. Barys Astana",
+          "side": "BUY",
+          "outcome": "Barys Astana",
+          "price": 0.2299999945,
+          "value": 5.039999999478257,
+          "timestamp": 1793962372,
+          "slug": "khl-adm-bar-2026-11-06",
+          "event_slug": "khl-adm-bar-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 54.239999999999995,
+          "timestamp": 1793962314,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "W50 Heraklion: Angela Fita Boluda vs Alisa Oktiabreva",
+          "side": "BUY",
+          "outcome": "Angela Fita Boluda",
+          "price": 0.06,
+          "value": 86.34,
+          "timestamp": 1793962227,
+          "slug": "itf-boluda1-oktiab1-2026-11-06",
+          "event_slug": "itf-boluda1-oktiab1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "W50 Heraklion: Angela Fita Boluda vs Alisa Oktiabreva",
+          "side": "BUY",
+          "outcome": "Angela Fita Boluda",
+          "price": 0.06,
+          "value": 86.34,
+          "timestamp": 1793962225,
+          "slug": "itf-boluda1-oktiab1-2026-11-06",
+          "event_slug": "itf-boluda1-oktiab1-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.28,
+          "value": 56.84,
+          "timestamp": 1793961796,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Melbourne Stars",
+          "price": 0.28,
+          "value": 3.08,
+          "timestamp": 1793961795,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 9.12,
+          "timestamp": 1793961685,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 59.28,
+          "timestamp": 1793961684,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 59.28,
+          "timestamp": 1793961684,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 59.28,
+          "timestamp": 1793961684,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 59.28,
+          "timestamp": 1793961684,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "KHL: Amur Khabarovsk vs. SKA St. Petersburg",
+          "side": "BUY",
+          "outcome": "Amur Khabarovsk",
+          "price": 0.52,
+          "value": 10.0776,
+          "timestamp": 1793961496,
+          "slug": "khl-amu-ska-2026-11-06",
+          "event_slug": "khl-amu-ska-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "KBO Playoff: KT Wiz vs. Samsung Lions",
+          "side": "BUY",
+          "outcome": "Samsung Lions",
+          "price": 0.8399999969,
+          "value": 21.75999999969524,
+          "timestamp": 1793961229,
+          "slug": "kbo-kt-sam-2026-11-06",
+          "event_slug": "kbo-kt-sam-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "KBO Playoff: KT Wiz vs. Samsung Lions",
+          "side": "BUY",
+          "outcome": "Samsung Lions",
+          "price": 0.82,
+          "value": 58.22,
+          "timestamp": 1793961219,
+          "slug": "kbo-kt-sam-2026-11-06",
+          "event_slug": "kbo-kt-sam-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Sydney Sixers",
+          "price": 0.8,
+          "value": 159.20000000000002,
+          "timestamp": 1793961181,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.25,
+          "value": 8.24,
+          "timestamp": 1793961024,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Sydney Sixers",
+          "price": 0.85,
+          "value": 32.3,
+          "timestamp": 1793960955,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Stars vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Sydney Sixers",
+          "price": 0.9,
+          "value": 56.7,
+          "timestamp": 1793960820,
+          "slug": "cricwbbl-mes-sys-2026-11-06",
+          "event_slug": "cricwbbl-mes-sys-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Taranto: Maxim Mrva vs Matteo Martineau",
+          "side": "BUY",
+          "outcome": "Maxim Mrva",
+          "price": 0.24,
+          "value": 0.72,
+          "timestamp": 1793960815,
+          "slug": "atp-mrva-martin-2026-11-06",
+          "event_slug": "atp-mrva-martin-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "M15 Antalya: Mattia Nannelli vs Dragos Nicolae Madaras",
+          "side": "BUY",
+          "outcome": "Dragos Nicolae Madaras",
+          "price": 0.56,
+          "value": 8.4,
+          "timestamp": 1793960745,
+          "slug": "itf-nannel1-madara1-2026-11-06",
+          "event_slug": "itf-nannel1-madara1-2026-11-06",
+          "result": "ongoing"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-06T11:04:13.262Z"
+  "lastUpdate": "2026-11-06T11:20:31.386Z"
 }
