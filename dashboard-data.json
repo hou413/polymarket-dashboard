@@ -523,14 +523,36 @@
       "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
       "label": "VeryLucky888",
       "stats48h": {
-        "wins": 6,
-        "losses": 7,
-        "totalTrades": 19,
-        "winRate": 0.46153846153846156,
-        "volume": 74507.72420002108,
+        "wins": 5,
+        "losses": 6,
+        "totalTrades": 21,
+        "winRate": 0.45454545454545453,
+        "volume": 73956.08770002107,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Dplus KIA",
+          "price": 0.14,
+          "value": 29.241800000000005,
+          "timestamp": 1793925090,
+          "slug": "lol-dk-blg-2026-11-03-game3",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Dplus KIA",
+          "price": 0.14,
+          "value": 14.620200000000002,
+          "timestamp": 1793925088,
+          "slug": "lol-dk-blg-2026-11-03-game3",
+          "event_slug": "lol-dk-blg-2026-11-03",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
           "side": "BUY",
@@ -673,28 +695,6 @@
           "slug": "ucl-vil-psg-2026-11-03-spread-away-1pt5",
           "event_slug": "ucl-vil-psg-2026-11-03-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Spread: Paris Saint-Germain FC (-1.5)",
-          "side": "SELL",
-          "outcome": "Paris Saint-Germain FC",
-          "price": 0.3,
-          "value": 585,
-          "timestamp": 1793735722,
-          "slug": "ucl-vil-psg-2026-11-03-spread-away-1pt5",
-          "event_slug": "ucl-vil-psg-2026-11-03-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Thunder vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.05,
-          "value": 10.4985,
-          "timestamp": 1793673120,
-          "slug": "nba-okc-cle-2026-11-02",
-          "event_slug": "nba-okc-cle-2026-11-02",
-          "result": "loss"
         }
       ]
     },
@@ -1559,10 +1559,21 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 2203.742809997,
+        "volume": 2216.9984099969997,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Invictus Gaming win Worlds 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.064,
+          "value": 35.4496,
+          "timestamp": 1793924839,
+          "slug": "will-invictus-gaming-win-worlds-2026",
+          "event_slug": "worlds-2026-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Barnet FC win on 2026-11-14?",
           "side": "SELL",
@@ -1715,17 +1726,6 @@
           "timestamp": 1793919916,
           "slug": "will-dplus-kia-win-worlds-2026",
           "event_slug": "worlds-2026-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.3,
-          "value": 22.194,
-          "timestamp": 1793919807,
-          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
           "result": "ongoing"
         }
       ]
@@ -2268,5 +2268,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T00:30:38.211Z"
+  "lastUpdate": "2026-11-06T00:38:09.952Z"
 }
