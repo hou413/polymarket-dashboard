@@ -2415,12 +2415,45 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 10,
+        "totalTrades": 13,
         "winRate": 0,
-        "volume": 8895.35555,
+        "volume": 11755.353050000002,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.874,
+          "value": 1622.144,
+          "timestamp": 1793960811,
+          "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
+          "event_slug": "democratic-presidential-nominee-2028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Marjorie Taylor Greene win the 2028 Republican presidential nomination?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.005,
+          "value": 100,
+          "timestamp": 1793960710,
+          "slug": "will-marjorie-taylor-greene-win-the-2028-republican-presidential-nomination",
+          "event_slug": "republican-presidential-nominee-2028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will JD Vance win the 2028 US Presidential Election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.791,
+          "value": 1137.8535,
+          "timestamp": 1793960344,
+          "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+          "event_slug": "presidential-election-winner-2028",
+          "result": "ongoing"
+        },
         {
           "title": "Will Marjorie Taylor Greene win the 2028 Republican presidential nomination?",
           "side": "BUY",
@@ -4908,5 +4941,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T10:21:06.609Z"
+  "lastUpdate": "2026-11-06T10:30:10.943Z"
 }
