@@ -389,10 +389,10 @@
       "label": "Netrol",
       "stats48h": {
         "wins": 3,
-        "losses": 3,
-        "totalTrades": 6,
-        "winRate": 0.5,
-        "volume": 75700.4455,
+        "losses": 2,
+        "totalTrades": 5,
+        "winRate": 0.6,
+        "volume": 75092.6955,
         "pnl": 0
       },
       "recentTrades": [
@@ -448,17 +448,6 @@
           "value": 2700,
           "timestamp": 1793683063,
           "slug": "2026-senate-map-r-ia-ks",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "loss"
-        },
-        {
-          "title": "Will Republicans win Iowa and Maine, and lose Alaska, Kansas, Michigan, Ohio, an",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.0189921875,
-          "value": 607.75,
-          "timestamp": 1793682955,
-          "slug": "2026-senate-map-r-ia-me",
           "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
           "result": "loss"
         }
@@ -2213,5 +2202,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T05:11:38.405Z"
+  "lastUpdate": "2026-11-06T05:18:53.064Z"
 }
