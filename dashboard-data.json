@@ -596,12 +596,23 @@
       "stats48h": {
         "wins": 16,
         "losses": 21,
-        "totalTrades": 39,
+        "totalTrades": 40,
         "winRate": 0.43243243243243246,
-        "volume": 129651.12960002173,
+        "volume": 135635.42660002175,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Ducks vs. Flames",
+          "side": "BUY",
+          "outcome": "Flames",
+          "price": 0.55,
+          "value": 5984.297000000001,
+          "timestamp": 1793970247,
+          "slug": "nhl-ana-cal-2026-11-06",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Flames (-1.5)",
           "side": "BUY",
@@ -1287,7 +1298,7 @@
       "stats48h": {
         "wins": 1,
         "losses": 0,
-        "totalTrades": 173,
+        "totalTrades": 170,
         "winRate": 1,
         "volume": 18119.753700115918,
         "pnl": 0
@@ -3426,13 +3437,24 @@
       "label": "ethanaz",
       "stats48h": {
         "wins": 3,
-        "losses": 1,
+        "losses": 0,
         "totalTrades": 500,
-        "winRate": 0.75,
-        "volume": 9824.61724003068,
+        "winRate": 1,
+        "volume": 10005.469560030682,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Brian Schatz be the next Senate Majority Leader?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.948,
+          "value": 185.808,
+          "timestamp": 1793970423,
+          "slug": "will-brian-schatz-be-the-next-senate-majority-leader",
+          "event_slug": "next-senate-majority-leader-485",
+          "result": "ongoing"
+        },
         {
           "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
           "side": "BUY",
@@ -3971,17 +3993,6 @@
           "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
           "event_slug": "alaska-senate-election-winner",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 280-299 tweets from October 30 to November 6, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.752,
-          "value": 4.95568,
-          "timestamp": 1793941360,
-          "slug": "elon-musk-of-tweets-october-30-november-6-2026-280-299",
-          "event_slug": "elon-musk-of-tweets-october-30-november-6-2026",
-          "result": "loss"
         }
       ]
     },
@@ -3991,12 +4002,34 @@
       "stats48h": {
         "wins": 20,
         "losses": 2,
-        "totalTrades": 22,
+        "totalTrades": 24,
         "winRate": 0.9090909090909091,
-        "volume": 319690.08063988684,
+        "volume": 351010.3714398943,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
+          "side": "BUY",
+          "outcome": "Alexandra Eala",
+          "price": 0.8399072167,
+          "value": 452.617600007463,
+          "timestamp": 1793969988,
+          "slug": "wta-ruzic-eala-2026-11-06",
+          "event_slug": "wta-ruzic-eala-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
+          "side": "BUY",
+          "outcome": "Alexandra Eala",
+          "price": 0.84,
+          "value": 30867.6732,
+          "timestamp": 1793969956,
+          "slug": "wta-ruzic-eala-2026-11-06",
+          "event_slug": "wta-ruzic-eala-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Magic vs. Suns",
           "side": "SELL",
@@ -5523,10 +5556,120 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 940.8400000000004,
+        "volume": 1065.233999999999,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "Rwanda Women",
+          "price": 0.89,
+          "value": 8.9,
+          "timestamp": 1793970805,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "Rwanda Women",
+          "price": 0.84,
+          "value": 45.36,
+          "timestamp": 1793970771,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will \"Nobody Wants This: Season 3\" be the #2 US Netflix show this week?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.014,
+          "value": 1.4000000000000001,
+          "timestamp": 1793970702,
+          "slug": "will-nobody-wants-this-season-3-be-the-2-us-netflix-show-this-week-20261110",
+          "event_slug": "what-will-be-the-2-us-netflix-show-this-week-november-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Maccabi Tel Aviv FC win on 2026-11-06?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.32,
+          "value": 21.424000000000003,
+          "timestamp": 1793970657,
+          "slug": "isr-mta-mpt-2026-11-06-mta",
+          "event_slug": "isr-mta-mpt-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Maccabi Tel Aviv FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.25,
+          "value": 20.24,
+          "timestamp": 1793970654,
+          "slug": "isr-mta-mpt-2026-11-06-mta",
+          "event_slug": "isr-mta-mpt-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Maccabi Tel Aviv FC vs. Maccabi Petah Tikva FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.84,
+          "value": 30.24,
+          "timestamp": 1793970558,
+          "slug": "isr-mta-mpt-2026-11-06-draw",
+          "event_slug": "isr-mta-mpt-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
+          "side": "BUY",
+          "outcome": "Chitwan Rhinos",
+          "price": 0.57,
+          "value": 0.57,
+          "timestamp": 1793970501,
+          "slug": "cricnpl-chi-pok-2026-11-06",
+          "event_slug": "cricnpl-chi-pok-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.11,
+          "value": 1.98,
+          "timestamp": 1793970447,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.12,
+          "value": 17.28,
+          "timestamp": 1793970405,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "M15 Monastir: Alejandro Moro Canas vs John Echeverria",
+          "side": "BUY",
+          "outcome": "Alejandro Moro Canas",
+          "price": 0.92,
+          "value": 23,
+          "timestamp": 1793970279,
+          "slug": "itf-canas1-echeve1-2026-11-06",
+          "event_slug": "itf-canas1-echeve1-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Will Afghanistan win?",
           "side": "BUY",
@@ -5966,119 +6109,9 @@
           "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
           "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
           "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968495,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968495,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968494,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968494,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968491,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968488,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968486,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968486,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968486,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968485,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T13:02:28.797Z"
+  "lastUpdate": "2026-11-06T13:20:00.044Z"
 }
