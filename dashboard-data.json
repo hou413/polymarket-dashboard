@@ -594,14 +594,25 @@
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
       "stats48h": {
-        "wins": 16,
+        "wins": 15,
         "losses": 21,
         "totalTrades": 40,
-        "winRate": 0.43243243243243246,
-        "volume": 135635.42660002175,
+        "winRate": 0.4166666666666667,
+        "volume": 137222.13800002175,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Flames (-1.5)",
+          "side": "BUY",
+          "outcome": "Flames",
+          "price": 0.34,
+          "value": 1590.0984,
+          "timestamp": 1793970616,
+          "slug": "nhl-ana-cal-2026-11-06-spread-home-1pt5",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Ducks vs. Flames",
           "side": "BUY",
@@ -1030,17 +1041,6 @@
           "slug": "nhl-wpg-mon-2026-11-03",
           "event_slug": "nhl-wpg-mon-2026-11-03",
           "result": "win"
-        },
-        {
-          "title": "Spread: Rangers (-1.5)",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.3,
-          "value": 3.3869999999999996,
-          "timestamp": 1793711835,
-          "slug": "nhl-stl-nyr-2026-11-03-spread-home-1pt5",
-          "event_slug": "nhl-stl-nyr-2026-11-03",
-          "result": "win"
         }
       ]
     },
@@ -1298,7 +1298,7 @@
       "stats48h": {
         "wins": 1,
         "losses": 0,
-        "totalTrades": 170,
+        "totalTrades": 167,
         "winRate": 1,
         "volume": 18119.753700115918,
         "pnl": 0
@@ -2874,7 +2874,7 @@
       "stats48h": {
         "wins": 5,
         "losses": 42,
-        "totalTrades": 59,
+        "totalTrades": 55,
         "winRate": 0.10638297872340426,
         "volume": 184645.77847764472,
         "pnl": 0
@@ -3440,10 +3440,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 1,
-        "volume": 10005.469560030682,
+        "volume": 9996.652600032281,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.63,
+          "value": 4.914,
+          "timestamp": 1793971248,
+          "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will OpenAI have the highest IPO Market Cap 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 2.811,
+          "timestamp": 1793970969,
+          "slug": "will-openai-have-the-highest-ipo-market-cap-2026-734",
+          "event_slug": "largest-ipo-by-market-cap-in-2026-287",
+          "result": "ongoing"
+        },
         {
           "title": "Will Brian Schatz be the next Senate Majority Leader?",
           "side": "BUY",
@@ -3970,28 +3992,6 @@
           "timestamp": 1793943886,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-165-189",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 140-164 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 10.965959999999999,
-          "timestamp": 1793943886,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-140-164",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.0268076923,
-          "value": 5.5759999984,
-          "timestamp": 1793942646,
-          "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
-          "event_slug": "alaska-senate-election-winner",
           "result": "ongoing"
         }
       ]
@@ -5556,10 +5556,153 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1065.233999999999,
+        "volume": 1877.798,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "Rwanda Women",
+          "price": 0.95,
+          "value": 190,
+          "timestamp": 1793972175,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "Rwanda Women",
+          "price": 0.94,
+          "value": 64.954,
+          "timestamp": 1793972013,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nepal Premier League: Chitwan Rhinos vs Pokhara Avengers",
+          "side": "BUY",
+          "outcome": "Chitwan Rhinos",
+          "price": 0.5,
+          "value": 22.88,
+          "timestamp": 1793971993,
+          "slug": "cricnpl-chi-pok-2026-11-06",
+          "event_slug": "cricnpl-chi-pok-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 1.3800000000000001,
+          "timestamp": 1793971330,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 15.870000000000001,
+          "timestamp": 1793971330,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 113.62,
+          "timestamp": 1793971329,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.23,
+          "value": 113.62,
+          "timestamp": 1793971329,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Maccabi Petah Tikva FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.909,
+          "value": 90.9,
+          "timestamp": 1793971258,
+          "slug": "isr-mta-mpt-2026-11-06-mpt",
+          "event_slug": "isr-mta-mpt-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Maccabi Petah Tikva FC win on 2026-11-06?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.901,
+          "value": 72.08,
+          "timestamp": 1793971224,
+          "slug": "isr-mta-mpt-2026-11-06-mpt",
+          "event_slug": "isr-mta-mpt-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Maccabi Petah Tikva FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.909,
+          "value": 72.72,
+          "timestamp": 1793971221,
+          "slug": "isr-mta-mpt-2026-11-06-mpt",
+          "event_slug": "isr-mta-mpt-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "SELL",
+          "outcome": "Rwanda Women",
+          "price": 0.82,
+          "value": 54.12,
+          "timestamp": 1793971174,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Rwanda Women vs USA Women",
+          "side": "BUY",
+          "outcome": "Rwanda Women",
+          "price": 0.82,
+          "value": 54.94,
+          "timestamp": 1793971173,
+          "slug": "crint-rwaw-usaw-2026-11-06",
+          "event_slug": "crint-rwaw-usaw-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.24,
+          "value": 5.279999999999999,
+          "timestamp": 1793971120,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
         {
           "title": "Victoria Women T20I: Rwanda Women vs USA Women",
           "side": "BUY",
@@ -5966,152 +6109,9 @@
           "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
           "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
           "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968515,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968515,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968512,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968510,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968510,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968507,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968507,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968504,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968503,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968501,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968501,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968501,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1793968497,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T13:20:00.044Z"
+  "lastUpdate": "2026-11-06T13:39:04.805Z"
 }
