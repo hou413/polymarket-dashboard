@@ -34,10 +34,76 @@
         "losses": 0,
         "totalTrades": 50,
         "winRate": 0,
-        "volume": 9284.456800013,
+        "volume": 8068.782400013,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Warriors (-2.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.47,
+          "value": 275.89,
+          "timestamp": 1793936712,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-2pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Warriors (-9.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.74,
+          "value": 370,
+          "timestamp": 1793936710,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-9pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Warriors (-1.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.43,
+          "value": 7.74,
+          "timestamp": 1793936709,
+          "slug": "nba-mia-gsw-2026-11-05-spread-home-1pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Heat vs. Warriors: O/U 234.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.66,
+          "value": 11.22,
+          "timestamp": 1793936608,
+          "slug": "nba-mia-gsw-2026-11-05-total-234pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Heat (-7.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.21,
+          "value": 3.9899999999999998,
+          "timestamp": 1793936593,
+          "slug": "nba-mia-gsw-2026-11-05-spread-away-7pt5",
+          "event_slug": "nba-mia-gsw-2026-11-05",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaguars vs. Ravens: O/U 36.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.36,
+          "value": 359.82,
+          "timestamp": 1793936559,
+          "slug": "nfl-jax-bal-2026-11-06-total-36pt5",
+          "event_slug": "nfl-jax-bal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Jaguars vs. Ravens: O/U 42.5",
           "side": "SELL",
@@ -134,72 +200,6 @@
           "value": 5,
           "timestamp": 1793936071,
           "slug": "nfl-jax-bal-2026-11-06-spread-away-21pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-21.5)",
-          "side": "BUY",
-          "outcome": "Ravens",
-          "price": 0.25,
-          "value": 5,
-          "timestamp": 1793936068,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-21pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-17.5)",
-          "side": "SELL",
-          "outcome": "Jaguars",
-          "price": 0.91,
-          "value": 500.045,
-          "timestamp": 1793936067,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-17pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-20.5)",
-          "side": "SELL",
-          "outcome": "Jaguars",
-          "price": 0.78,
-          "value": 437.28360000000004,
-          "timestamp": 1793936067,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-20pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 36.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.33,
-          "value": 78.2958,
-          "timestamp": 1793936047,
-          "slug": "nfl-jax-bal-2026-11-06-total-36pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-20.5)",
-          "side": "SELL",
-          "outcome": "Jaguars",
-          "price": 0.79,
-          "value": 592.105,
-          "timestamp": 1793936034,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-20pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jaguars (-20.5)",
-          "side": "SELL",
-          "outcome": "Jaguars",
-          "price": 0.79,
-          "value": 631.605,
-          "timestamp": 1793936032,
-          "slug": "nfl-jax-bal-2026-11-06-spread-away-20pt5",
           "event_slug": "nfl-jax-bal-2026-11-06",
           "result": "ongoing"
         }
@@ -2246,5 +2246,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-06T03:45:43.562Z"
+  "lastUpdate": "2026-11-06T03:52:55.483Z"
 }
