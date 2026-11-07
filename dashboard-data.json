@@ -600,12 +600,23 @@
       "stats48h": {
         "wins": 6,
         "losses": 22,
-        "totalTrades": 48,
+        "totalTrades": 49,
         "winRate": 0.21428571428571427,
-        "volume": 113419.05240027451,
+        "volume": 113464.05240027451,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Edmonton Elks vs. British Columbia Lions",
+          "side": "BUY",
+          "outcome": "Edmonton Elks",
+          "price": 0.45,
+          "value": 45,
+          "timestamp": 1794084525,
+          "slug": "cfl-edm-bc-2026-11-07",
+          "event_slug": "cfl-edm-bc-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Rangers vs. Kraken",
           "side": "BUY",
@@ -1272,7 +1283,7 @@
       "stats48h": {
         "wins": 11,
         "losses": 0,
-        "totalTrades": 82,
+        "totalTrades": 81,
         "winRate": 1,
         "volume": 16009.226739023778,
         "pnl": 0
@@ -2530,9 +2541,9 @@
       "stats48h": {
         "wins": 3,
         "losses": 17,
-        "totalTrades": 23,
+        "totalTrades": 22,
         "winRate": 0.15,
-        "volume": 759986.951154689,
+        "volume": 759628.5945546889,
         "pnl": 0
       },
       "recentTrades": [
@@ -2776,17 +2787,6 @@
           "timestamp": 1793828461,
           "slug": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
           "event_slug": "democratic-presidential-nominee-2028",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.085,
-          "value": 358.3566,
-          "timestamp": 1793825443,
-          "slug": "2026-senate-map-r-none",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
           "result": "ongoing"
         }
       ]
@@ -3266,10 +3266,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 5078.7344099695,
+        "volume": 4627.4234099694995,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Amy Klobuchar be the next Senate Majority Leader?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.28400000000000003,
+          "timestamp": 1794084522,
+          "slug": "will-amy-klobuchar-be-the-next-senate-majority-leader",
+          "event_slug": "next-senate-majority-leader-485",
+          "result": "ongoing"
+        },
         {
           "title": "Josh Shapiro Democratic nomination odds leader on November 30?",
           "side": "SELL",
@@ -3808,17 +3819,6 @@
           "slug": "theo-james-announced-as-next-james-bond-893",
           "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
-        },
-        {
-          "title": "No one announced as next James Bond?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.905,
-          "value": 451.595,
-          "timestamp": 1794076935,
-          "slug": "no-one-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
         }
       ]
     },
@@ -3827,10 +3827,10 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 37,
+        "wins": 41,
         "losses": 7,
         "totalTrades": 54,
-        "winRate": 0.8409090909090909,
+        "winRate": 0.8541666666666666,
         "volume": 432567.96471605136,
         "pnl": 0
       },
@@ -3855,7 +3855,7 @@
           "timestamp": 1794071914,
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BYU vs. Utah",
@@ -3866,7 +3866,7 @@
           "timestamp": 1794071821,
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BYU vs. Utah",
@@ -3877,7 +3877,7 @@
           "timestamp": 1794071769,
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BYU vs. Utah",
@@ -3888,7 +3888,7 @@
           "timestamp": 1794071758,
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Florida State vs. Boston College AND Rolex Paris Masters: Casper Ruud vs Carlos ",
@@ -4392,11 +4392,11 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 9,
+        "wins": 8,
         "losses": 7,
-        "totalTrades": 24,
-        "winRate": 0.5625,
-        "volume": 39175.36809979835,
+        "totalTrades": 23,
+        "winRate": 0.5333333333333333,
+        "volume": 38967.36809979835,
         "pnl": 0
       },
       "recentTrades": [
@@ -4652,17 +4652,6 @@
           "slug": "nba-dal-sas-2026-11-04-spread-home-11pt5",
           "event_slug": "nba-dal-sas-2026-11-04",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Nuggets (-4.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.52,
-          "value": 208,
-          "timestamp": 1793825059,
-          "slug": "nba-tor-den-2026-11-04-spread-home-4pt5",
-          "event_slug": "nba-tor-den-2026-11-04",
-          "result": "win"
         }
       ]
     },
@@ -5236,14 +5225,113 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 2,
-        "losses": 1,
+        "wins": 9,
+        "losses": 2,
         "totalTrades": 500,
-        "winRate": 0.6666666666666666,
-        "volume": 34746.92981984429,
+        "winRate": 0.8181818181818182,
+        "volume": 35922.254729901106,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Penn State vs. Washington",
+          "side": "BUY",
+          "outcome": "Washington",
+          "price": 0.59,
+          "value": 361.08,
+          "timestamp": 1794084843,
+          "slug": "cfb-pennst-wash-2026-11-07",
+          "event_slug": "cfb-pennst-wash-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Houston (-10.5)",
+          "side": "BUY",
+          "outcome": "Houston",
+          "price": 0.56,
+          "value": 95.76,
+          "timestamp": 1794084789,
+          "slug": "cfb-cin-hou-2026-11-07-spread-home-10pt5",
+          "event_slug": "cfb-cin-hou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oregon vs. Ohio State",
+          "side": "BUY",
+          "outcome": "Oregon",
+          "price": 0.23,
+          "value": 203.78,
+          "timestamp": 1794084622,
+          "slug": "cfb-ore-ohiost-2026-11-07",
+          "event_slug": "cfb-ore-ohiost-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Maryland vs. Purdue",
+          "side": "BUY",
+          "outcome": "Maryland",
+          "price": 0.97,
+          "value": 905.01,
+          "timestamp": 1794084573,
+          "slug": "cfb-mary-pur-2026-11-07",
+          "event_slug": "cfb-mary-pur-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oregon vs. Ohio State",
+          "side": "BUY",
+          "outcome": "Ohio State",
+          "price": 0.75,
+          "value": 15,
+          "timestamp": 1794084526,
+          "slug": "cfb-ore-ohiost-2026-11-07",
+          "event_slug": "cfb-ore-ohiost-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Penn State vs. Washington",
+          "side": "BUY",
+          "outcome": "Penn State",
+          "price": 0.39,
+          "value": 87.74610000000001,
+          "timestamp": 1794084513,
+          "slug": "cfb-pennst-wash-2026-11-07",
+          "event_slug": "cfb-pennst-wash-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Maryland vs. Purdue",
+          "side": "BUY",
+          "outcome": "Purdue",
+          "price": 0.3365472233,
+          "value": 538.1390100566999,
+          "timestamp": 1794084498,
+          "slug": "cfb-mary-pur-2026-11-07",
+          "event_slug": "cfb-mary-pur-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Penn State vs. Washington",
+          "side": "BUY",
+          "outcome": "Washington",
+          "price": 0.56,
+          "value": 363.44000000000005,
+          "timestamp": 1794084252,
+          "slug": "cfb-pennst-wash-2026-11-07",
+          "event_slug": "cfb-pennst-wash-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Western Kentucky vs. Middle Tennessee",
+          "side": "BUY",
+          "outcome": "Western Kentucky",
+          "price": 0.49,
+          "value": 4.9,
+          "timestamp": 1794084192,
+          "slug": "cfb-wkent-mtnst-2026-11-07",
+          "event_slug": "cfb-wkent-mtnst-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Texas vs. Missouri: O/U 51.5",
           "side": "BUY",
@@ -5374,7 +5462,7 @@
           "timestamp": 1794083088,
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BYU vs. Utah",
@@ -5385,7 +5473,7 @@
           "timestamp": 1794083086,
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BYU vs. Utah",
@@ -5396,7 +5484,7 @@
           "timestamp": 1794083085,
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BYU vs. Utah",
@@ -5407,7 +5495,7 @@
           "timestamp": 1794083083,
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BYU vs. Utah",
@@ -5418,7 +5506,7 @@
           "timestamp": 1794083083,
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BYU vs. Utah",
@@ -5429,7 +5517,7 @@
           "timestamp": 1794083080,
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "UCLA vs. Minnesota: O/U 49.5",
@@ -5484,7 +5572,7 @@
           "timestamp": 1794082543,
           "slug": "cfb-flst-boscol-2026-11-07",
           "event_slug": "cfb-flst-boscol-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Oklahoma State vs. Kansas State",
@@ -5572,7 +5660,7 @@
           "timestamp": 1794082215,
           "slug": "cfb-flst-boscol-2026-11-07",
           "event_slug": "cfb-flst-boscol-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: BYU (-1.5)",
@@ -5583,7 +5671,7 @@
           "timestamp": 1794081793,
           "slug": "cfb-byu-utah-2026-11-07-spread-away-1pt5",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Florida State (-4.5)",
@@ -5694,105 +5782,6 @@
           "slug": "cfb-okst-kanst-2026-11-07",
           "event_slug": "cfb-okst-kanst-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State",
-          "side": "BUY",
-          "outcome": "Kansas State",
-          "price": 0.01,
-          "value": 1,
-          "timestamp": 1794080965,
-          "slug": "cfb-okst-kanst-2026-11-07",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah",
-          "side": "BUY",
-          "outcome": "BYU",
-          "price": 0.28,
-          "value": 484.5316,
-          "timestamp": 1794080946,
-          "slug": "cfb-byu-utah-2026-11-07",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Maryland vs. Purdue",
-          "side": "BUY",
-          "outcome": "Purdue",
-          "price": 0.42,
-          "value": 441,
-          "timestamp": 1794080779,
-          "slug": "cfb-mary-pur-2026-11-07",
-          "event_slug": "cfb-mary-pur-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas vs. Missouri",
-          "side": "BUY",
-          "outcome": "Texas",
-          "price": 0.52,
-          "value": 203.32,
-          "timestamp": 1794080769,
-          "slug": "cfb-tx-missr-2026-11-07",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Clemson vs. Syracuse",
-          "side": "BUY",
-          "outcome": "Syracuse",
-          "price": 0.06,
-          "value": 1.02,
-          "timestamp": 1794080760,
-          "slug": "cfb-clmsn-syra-2026-11-07",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Texas (-1.5)",
-          "side": "BUY",
-          "outcome": "Texas",
-          "price": 0.44,
-          "value": 24.64,
-          "timestamp": 1794080562,
-          "slug": "cfb-tx-missr-2026-11-07-spread-away-1pt5",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Missouri (-4.5)",
-          "side": "BUY",
-          "outcome": "Texas",
-          "price": 0.6314893617,
-          "value": 29.6799999999,
-          "timestamp": 1794080562,
-          "slug": "cfb-tx-missr-2026-11-07-spread-home-4pt5",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas vs. Missouri",
-          "side": "BUY",
-          "outcome": "Missouri",
-          "price": 0.63,
-          "value": 6.4386,
-          "timestamp": 1794080538,
-          "slug": "cfb-tx-missr-2026-11-07",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas vs. Missouri",
-          "side": "BUY",
-          "outcome": "Missouri",
-          "price": 0.63,
-          "value": 207.9,
-          "timestamp": 1794080482,
-          "slug": "cfb-tx-missr-2026-11-07",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -5805,10 +5794,230 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2813.121479002021,
+        "volume": 1769.543584989936,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Avaí FC vs. São Bernardo FC: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.09,
+          "value": 2.5155,
+          "timestamp": 1794084834,
+          "slug": "bra2-ava-ber-2026-11-07-total-3pt5",
+          "event_slug": "bra2-ava-ber-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Grêmio Novorizontino win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.93,
+          "value": 25.110000000000003,
+          "timestamp": 1794084744,
+          "slug": "bra2-nov-fec-2026-11-07-nov",
+          "event_slug": "bra2-nov-fec-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Auburn (-3.5)",
+          "side": "BUY",
+          "outcome": "Auburn",
+          "price": 0.31,
+          "value": 227.54,
+          "timestamp": 1794084730,
+          "slug": "cfb-ark-aubrn-2026-11-07-spread-home-3pt5",
+          "event_slug": "cfb-ark-aubrn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Auburn (-3.5)",
+          "side": "BUY",
+          "outcome": "Auburn",
+          "price": 0.31,
+          "value": 227.54,
+          "timestamp": 1794084729,
+          "slug": "cfb-ark-aubrn-2026-11-07-spread-home-3pt5",
+          "event_slug": "cfb-ark-aubrn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Grêmio Novorizontino vs. Fortaleza EC: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.439999977,
+          "value": 2.299999999772721,
+          "timestamp": 1794084642,
+          "slug": "bra2-nov-fec-2026-11-07-total-3pt5",
+          "event_slug": "bra2-nov-fec-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Maryland vs. Purdue",
+          "side": "BUY",
+          "outcome": "Maryland",
+          "price": 0.975,
+          "value": 19.719998999999998,
+          "timestamp": 1794084579,
+          "slug": "cfb-mary-pur-2026-11-07",
+          "event_slug": "cfb-mary-pur-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Maryland vs. Purdue",
+          "side": "BUY",
+          "outcome": "Maryland",
+          "price": 0.9699373953,
+          "value": 267.71998598843635,
+          "timestamp": 1794084571,
+          "slug": "cfb-mary-pur-2026-11-07",
+          "event_slug": "cfb-mary-pur-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Auburn (-7.5)",
+          "side": "BUY",
+          "outcome": "Auburn",
+          "price": 0.07,
+          "value": 35,
+          "timestamp": 1794084462,
+          "slug": "cfb-ark-aubrn-2026-11-07-spread-home-7pt5",
+          "event_slug": "cfb-ark-aubrn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Real Madrid CF (-2.5)",
+          "side": "BUY",
+          "outcome": "Real Madrid CF",
+          "price": 0.58,
+          "value": 5.8,
+          "timestamp": 1794084453,
+          "slug": "lal-val-rea-2026-11-07-spread-away-2pt5",
+          "event_slug": "lal-val-rea-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will São Bernardo FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.95,
+          "value": 19,
+          "timestamp": 1794084420,
+          "slug": "bra2-ava-ber-2026-11-07-ber",
+          "event_slug": "bra2-ava-ber-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "SBV Excelsior vs. Go Ahead Eagles: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.04,
+          "value": 2.47,
+          "timestamp": 1794084337,
+          "slug": "ere-exc-goa-2026-11-07-first-half-total-0pt5",
+          "event_slug": "ere-exc-goa-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "1st Half Spread: Real Madrid CF (-1.5)",
+          "side": "BUY",
+          "outcome": "Real Madrid CF",
+          "price": 0.94,
+          "value": 58.279999999999994,
+          "timestamp": 1794084303,
+          "slug": "lal-val-rea-2026-11-07-first-half-spread-away-1pt5",
+          "event_slug": "lal-val-rea-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "1st Half Spread: Real Madrid CF (-1.5)",
+          "side": "BUY",
+          "outcome": "Real Madrid CF",
+          "price": 0.94,
+          "value": 134.42,
+          "timestamp": 1794084301,
+          "slug": "lal-val-rea-2026-11-07-first-half-spread-away-1pt5",
+          "event_slug": "lal-val-rea-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sporting CP vs. Moreirense FC: 1st Half O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.25,
+          "value": 0.96,
+          "timestamp": 1794084268,
+          "slug": "por-spo-mor-2026-11-07-first-half-total-1pt5",
+          "event_slug": "por-spo-mor-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Paris Saint-Germain FC vs. ES Troyes AC: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.0130060835,
+          "value": 1.8600000013349998,
+          "timestamp": 1794084267,
+          "slug": "fl1-psg-tro-2026-11-07-first-half-total-0pt5",
+          "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pau FC vs. FC Nantes: Both Teams to Score",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.86,
+          "value": 52.46,
+          "timestamp": 1794084262,
+          "slug": "fr2-pau-nan-2026-11-07-btts",
+          "event_slug": "fr2-pau-nan-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pau FC vs. FC Nantes: Both Teams to Score",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.86,
+          "value": 33.54,
+          "timestamp": 1794084261,
+          "slug": "fr2-pau-nan-2026-11-07-btts",
+          "event_slug": "fr2-pau-nan-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Paris Saint-Germain FC vs. ES Troyes AC: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.0265878875,
+          "value": 1.920000000391925,
+          "timestamp": 1794084250,
+          "slug": "fl1-psg-tro-2026-11-07-first-half-total-0pt5",
+          "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Paris Saint-Germain FC vs. ES Troyes AC: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.02,
+          "value": 2.85,
+          "timestamp": 1794084247,
+          "slug": "fl1-psg-tro-2026-11-07-first-half-total-0pt5",
+          "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Libertad Loja win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.96,
+          "value": 19.2,
+          "timestamp": 1794084186,
+          "slug": "ecu1-lib-cse-2026-11-07-lib",
+          "event_slug": "ecu1-lib-cse-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Penn State vs. Washington",
           "side": "SELL",
@@ -6138,226 +6347,6 @@
           "slug": "cfb-del-kenest-2026-11-07-spread-home-1pt5",
           "event_slug": "cfb-del-kenest-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Real Madrid CF win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.79,
-          "value": 52.93,
-          "timestamp": 1794083274,
-          "slug": "lal-val-rea-2026-11-07-rea",
-          "event_slug": "lal-val-rea-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Real Madrid CF win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8299999972,
-          "value": 55.65000000226505,
-          "timestamp": 1794083269,
-          "slug": "lal-val-rea-2026-11-07-rea",
-          "event_slug": "lal-val-rea-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Costa do Sauipe: Facundo Acosta vs Thiago Seyboth Wild",
-          "side": "BUY",
-          "outcome": "Thiago Seyboth Wild",
-          "price": 0.4,
-          "value": 782.7800000000001,
-          "timestamp": 1794083260,
-          "slug": "atp-acosta-wild-2026-11-07",
-          "event_slug": "atp-acosta-wild-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Costa do Sauipe: Facundo Acosta vs Thiago Seyboth Wild",
-          "side": "BUY",
-          "outcome": "Thiago Seyboth Wild",
-          "price": 0.4,
-          "value": 535.58,
-          "timestamp": 1794083211,
-          "slug": "atp-acosta-wild-2026-11-07",
-          "event_slug": "atp-acosta-wild-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Benevento Calcio vs. US Avellino 1912 end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.13,
-          "value": 0.0494,
-          "timestamp": 1794083191,
-          "slug": "itsb-ben-ave-2026-11-07-draw",
-          "event_slug": "itsb-ben-ave-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Corvinul 1921 Hunedoara win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.97,
-          "value": 66.4644,
-          "timestamp": 1794083098,
-          "slug": "rou1-fcs-cor-2026-11-07-cor",
-          "event_slug": "rou1-fcs-cor-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.19,
-          "value": 1.33,
-          "timestamp": 1794082996,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.19,
-          "value": 2.09,
-          "timestamp": 1794082995,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Nantes win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.024,
-          "value": 6.941280000000001,
-          "timestamp": 1794082954,
-          "slug": "fr2-pau-nan-2026-11-07-nan",
-          "event_slug": "fr2-pau-nan-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UCLA vs. Minnesota",
-          "side": "BUY",
-          "outcome": "UCLA",
-          "price": 0.95,
-          "value": 91.4945,
-          "timestamp": 1794082948,
-          "slug": "cfb-ucla-minnst-2026-11-07",
-          "event_slug": "cfb-ucla-minnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Blues vs. Predators: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.76,
-          "value": 6.08,
-          "timestamp": 1794082944,
-          "slug": "nhl-stl-nsh-2026-11-07-total-3pt5",
-          "event_slug": "nhl-stl-nsh-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah: O/U 55.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.92,
-          "value": 439.76,
-          "timestamp": 1794082911,
-          "slug": "cfb-byu-utah-2026-11-07-total-55pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Valencia CF vs. Real Madrid CF end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8199999998,
-          "value": 82.9999989997561,
-          "timestamp": 1794082900,
-          "slug": "lal-val-rea-2026-11-07-draw",
-          "event_slug": "lal-val-rea-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Lando Norris get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.05,
-          "value": 1.69,
-          "timestamp": 1794082896,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-norris-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "SV Ried vs. LASK Linz: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.06,
-          "value": 1.44,
-          "timestamp": 1794082894,
-          "slug": "aut-svr-ask-2026-11-07-total-5pt5",
-          "event_slug": "aut-svr-ask-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Real Madrid CF win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.23,
-          "value": 5.29,
-          "timestamp": 1794082893,
-          "slug": "lal-val-rea-2026-11-07-rea",
-          "event_slug": "lal-val-rea-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Lando Norris get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.06,
-          "value": 2.6399999999999997,
-          "timestamp": 1794082881,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-norris-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Minnesota Team Total: O/U 23.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.32,
-          "value": 18.240000000000002,
-          "timestamp": 1794082870,
-          "slug": "cfb-ucla-minnst-2026-11-07-team-total-minnst-23pt5",
-          "event_slug": "cfb-ucla-minnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SV Ried vs. LASK Linz end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 15.763799999999998,
-          "timestamp": 1794082869,
-          "slug": "aut-svr-ask-2026-11-07-draw",
-          "event_slug": "aut-svr-ask-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Minnesota Team Total: O/U 23.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.31,
-          "value": 14.57,
-          "timestamp": 1794082864,
-          "slug": "cfb-ucla-minnst-2026-11-07-team-total-minnst-23pt5",
-          "event_slug": "cfb-ucla-minnst-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -6616,14 +6605,36 @@
       "label": "JabJabich",
       "specialty": "Tennis+NFL",
       "stats48h": {
-        "wins": 12,
+        "wins": 10,
         "losses": 5,
         "totalTrades": 182,
-        "winRate": 0.7058823529411765,
-        "volume": 73527.88203543233,
+        "winRate": 0.6666666666666666,
+        "volume": 75687.86941436259,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: PRIVATE vs OG (BO3) - ESL Challenger League Europe Cup #11 Group",
+          "side": "BUY",
+          "outcome": "",
+          "price": 0.7952459997,
+          "value": 2474.6651289135107,
+          "timestamp": 1794084765,
+          "slug": "",
+          "event_slug": "",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: DNK vs The Last Resort (BO3) - ESL Challenger League Europe Cup ",
+          "side": "BUY",
+          "outcome": "DNK",
+          "price": 0.3389224965,
+          "value": 128.915949993705,
+          "timestamp": 1794084351,
+          "slug": "cs2-dnk2-tlr-2026-11-07",
+          "event_slug": "cs2-dnk2-tlr-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: DNK vs The Last Resort (BO3) - ESL Challenger League Europe Cup ",
           "side": "BUY",
@@ -7151,28 +7162,6 @@
           "slug": "cs2-btf-maybe-2026-11-07-game2",
           "event_slug": "cs2-btf-maybe-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Counter-Strike: Butterfly vs maybe - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Butterfly",
-          "price": 0.6880645161,
-          "value": 106.6499999955,
-          "timestamp": 1794045675,
-          "slug": "cs2-btf-maybe-2026-11-07-game2",
-          "event_slug": "cs2-btf-maybe-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Counter-Strike: Butterfly vs maybe (BO3) - CCT Europe Group Stage",
-          "side": "BUY",
-          "outcome": "Butterfly",
-          "price": 0.7656071347,
-          "value": 336.94369998147,
-          "timestamp": 1794043360,
-          "slug": "cs2-btf-maybe-2026-11-07",
-          "event_slug": "cs2-btf-maybe-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -7183,12 +7172,23 @@
       "stats48h": {
         "wins": 26,
         "losses": 3,
-        "totalTrades": 29,
+        "totalTrades": 30,
         "winRate": 0.896551724137931,
-        "volume": 21194.165399146197,
+        "volume": 38192.765398412805,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Alabama vs. LSU",
+          "side": "BUY",
+          "outcome": "Alabama",
+          "price": 0.3976520316,
+          "value": 16998.5999992666,
+          "timestamp": 1794084805,
+          "slug": "cfb-ala-lsu-2026-11-07",
+          "event_slug": "cfb-ala-lsu-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Panthers vs. Capitals",
           "side": "SELL",
@@ -7515,14 +7515,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 42,
+        "wins": 41,
         "losses": 1,
         "totalTrades": 62,
-        "winRate": 0.9767441860465116,
-        "volume": 53719.43821,
+        "winRate": 0.9761904761904762,
+        "volume": 54754.05382,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Paris Saint-Germain FC vs. ES Troyes AC: O/U 0.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.999,
+          "value": 1772.61561,
+          "timestamp": 1794084424,
+          "slug": "fl1-psg-tro-2026-11-07-total-0pt5",
+          "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "ADO Den Haag vs. Sparta Rotterdam: O/U 3.5",
           "side": "SELL",
@@ -8061,17 +8072,6 @@
           "slug": "atp-fritz-alcaraz-2026-11-06",
           "event_slug": "atp-fritz-alcaraz-2026-11-06",
           "result": "win"
-        },
-        {
-          "title": "Sydney FC vs. Central Coast Mariners FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.82,
-          "value": 738,
-          "timestamp": 1793958600,
-          "slug": "aus-syd-ccm-2026-11-06-total-3pt5",
-          "event_slug": "aus-syd-ccm-2026-11-06-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -8568,5 +8568,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T20:45:04.562Z"
+  "lastUpdate": "2026-11-07T20:57:35.164Z"
 }
