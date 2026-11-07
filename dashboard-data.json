@@ -3002,10 +3002,21 @@
         "losses": 1,
         "totalTrades": 500,
         "winRate": 0.5,
-        "volume": 8423.895000050357,
+        "volume": 8350.780340050358,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO d",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.025,
+          "value": 0.15200000000000002,
+          "timestamp": 1794038074,
+          "slug": "will-anthropics-market-cap-be-between-2pt25t-and-2pt5t-at-market-close-on-ipo-day",
+          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 260-279 tweets from November 3 to November 10, 2026?",
           "side": "SELL",
@@ -3542,17 +3553,6 @@
           "value": 72.6066,
           "timestamp": 1793997093,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-140-164",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 165-189 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 73.26666,
-          "timestamp": 1793997093,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-165-189",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
           "result": "ongoing"
         }
@@ -5365,10 +5365,54 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2219.4311100146156,
+        "volume": 1853.5297130133038,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Yanbian Longding win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.65,
+          "value": 20.150000000000002,
+          "timestamp": 1794038661,
+          "slug": "chi2-yan-shi-2026-11-07-yan",
+          "event_slug": "chi2-yan-shi-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yanbian Longding vs. Shijiazhuang Gongfu FC end in a draw?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.58,
+          "value": 5.8,
+          "timestamp": 1794038647,
+          "slug": "chi2-yan-shi-2026-11-07-draw",
+          "event_slug": "chi2-yan-shi-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yanbian Longding vs. Shijiazhuang Gongfu FC end in a draw?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.58,
+          "value": 17.98,
+          "timestamp": 1794038599,
+          "slug": "chi2-yan-shi-2026-11-07-draw",
+          "event_slug": "chi2-yan-shi-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.53,
+          "value": 4.7700000000000005,
+          "timestamp": 1794038550,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
         {
           "title": "Will National Party win the most seats in the New Zealand House of Representativ",
           "side": "BUY",
@@ -5873,50 +5917,6 @@
           "timestamp": 1794035194,
           "slug": "cricwbbl-mer-ads-2026-11-06",
           "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "LG Sakers vs. Goyang",
-          "side": "BUY",
-          "outcome": "LG Sakers",
-          "price": 0.88,
-          "value": 26.4,
-          "timestamp": 1794035118,
-          "slug": "bkkbl-lg-goy-2026-11-07",
-          "event_slug": "bkkbl-lg-goy-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "TheMongolz",
-          "price": 0.46,
-          "value": 47.1914,
-          "timestamp": 1794035113,
-          "slug": "cs2-mglz-navi-2026-11-07",
-          "event_slug": "cs2-mglz-navi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ningbo Professional FC vs. Jiangxi Dingnan United end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8037978523,
-          "value": 25.919997001311394,
-          "timestamp": 1794035104,
-          "slug": "chi2-nip-jia-2026-11-07-draw",
-          "event_slug": "chi2-nip-jia-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ningbo Professional FC vs. Jiangxi Dingnan United end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.81,
-          "value": 315.09000000000003,
-          "timestamp": 1794035103,
-          "slug": "chi2-nip-jia-2026-11-07-draw",
-          "event_slug": "chi2-nip-jia-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -7985,5 +7985,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T08:01:07.721Z"
+  "lastUpdate": "2026-11-07T08:10:38.766Z"
 }
