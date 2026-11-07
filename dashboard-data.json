@@ -34,10 +34,417 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9115.611300094479,
+        "volume": 6250.034700036999,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Raptors vs. Bucks: O/U 222.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.62,
+          "value": 12.4,
+          "timestamp": 1794019129,
+          "slug": "nba-tor-mil-2026-11-06-total-222pt5",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Raptors (-2.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.56,
+          "value": 112.00000000000001,
+          "timestamp": 1794019128,
+          "slug": "nba-tor-mil-2026-11-06-spread-away-2pt5",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Raptors (-1.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.51,
+          "value": 18.36,
+          "timestamp": 1794019128,
+          "slug": "nba-tor-mil-2026-11-06-spread-away-1pt5",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Raptors (-1.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.55,
+          "value": 77,
+          "timestamp": 1794019050,
+          "slug": "nba-tor-mil-2026-11-06-spread-away-1pt5",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Raptors (-2.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.59,
+          "value": 23.599999999999998,
+          "timestamp": 1794019048,
+          "slug": "nba-tor-mil-2026-11-06-spread-away-2pt5",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bucks (-2.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.4296360328,
+          "value": 236.0850000236,
+          "timestamp": 1794019047,
+          "slug": "nba-tor-mil-2026-11-06-spread-home-2pt5",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bucks (-2.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.43,
+          "value": 202.315,
+          "timestamp": 1794019047,
+          "slug": "nba-tor-mil-2026-11-06-spread-home-2pt5",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Grizzlies: O/U 236.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.66,
+          "value": 132,
+          "timestamp": 1794018978,
+          "slug": "nba-okc-mem-2026-11-06-total-236pt5",
+          "event_slug": "nba-okc-mem-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 221.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.67,
+          "value": 163.48000000000002,
+          "timestamp": 1794018970,
+          "slug": "nba-min-nop-2026-11-06-total-221pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 223.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.61,
+          "value": 122,
+          "timestamp": 1794018970,
+          "slug": "nba-min-nop-2026-11-06-total-223pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Grizzlies: O/U 234.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.27,
+          "value": 13.635000000000002,
+          "timestamp": 1794018967,
+          "slug": "nba-okc-mem-2026-11-06-total-234pt5",
+          "event_slug": "nba-okc-mem-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Grizzlies: O/U 234.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.27,
+          "value": 40.365,
+          "timestamp": 1794018967,
+          "slug": "nba-okc-mem-2026-11-06-total-234pt5",
+          "event_slug": "nba-okc-mem-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Grizzlies: O/U 244.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.64,
+          "value": 11.52,
+          "timestamp": 1794018967,
+          "slug": "nba-okc-mem-2026-11-06-total-244pt5",
+          "event_slug": "nba-okc-mem-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks: O/U 226.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.7292800728,
+          "value": 400.7394000036,
+          "timestamp": 1794018922,
+          "slug": "nba-uta-dal-2026-11-06-total-226pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks: O/U 226.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.73,
+          "value": 357.74379999999996,
+          "timestamp": 1794018922,
+          "slug": "nba-uta-dal-2026-11-06-total-226pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks: O/U 227.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.69,
+          "value": 3.4499999999999997,
+          "timestamp": 1794018922,
+          "slug": "nba-uta-dal-2026-11-06-total-227pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks: O/U 225.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.75,
+          "value": 237,
+          "timestamp": 1794018916,
+          "slug": "nba-uta-dal-2026-11-06-total-225pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "76ers vs. Cavaliers: O/U 225.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.27,
+          "value": 10.8,
+          "timestamp": 1794018915,
+          "slug": "nba-phi-cle-2026-11-06-total-225pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Mavericks (-7.5)",
+          "side": "BUY",
+          "outcome": "Mavericks",
+          "price": 0.35,
+          "value": 70,
+          "timestamp": 1794018811,
+          "slug": "nba-uta-dal-2026-11-06-spread-home-7pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks: O/U 229.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.67,
+          "value": 26.793300000000002,
+          "timestamp": 1794018798,
+          "slug": "nba-uta-dal-2026-11-06-total-229pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-5.5)",
+          "side": "SELL",
+          "outcome": "76ers",
+          "price": 0.35,
+          "value": 70,
+          "timestamp": 1794018772,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-5pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-13.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.76,
+          "value": 417.62,
+          "timestamp": 1794018771,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-13pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-13.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.76,
+          "value": 342.38,
+          "timestamp": 1794018771,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-13pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-7.5)",
+          "side": "SELL",
+          "outcome": "76ers",
+          "price": 0.47,
+          "value": 2.3499999999999996,
+          "timestamp": 1794018763,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-7pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 225.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.43,
+          "value": 8.6,
+          "timestamp": 1794018715,
+          "slug": "nba-min-nop-2026-11-06-total-225pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 227.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.47,
+          "value": 9.399999999999999,
+          "timestamp": 1794018630,
+          "slug": "nba-min-nop-2026-11-06-total-227pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-13.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.79,
+          "value": 31.592100000000002,
+          "timestamp": 1794018619,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-13pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-5.5)",
+          "side": "SELL",
+          "outcome": "76ers",
+          "price": 0.41,
+          "value": 82,
+          "timestamp": 1794018612,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-5pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 219.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.72,
+          "value": 14.399999999999999,
+          "timestamp": 1794018604,
+          "slug": "nba-min-nop-2026-11-06-total-219pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 221.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.66,
+          "value": 13.200000000000001,
+          "timestamp": 1794018604,
+          "slug": "nba-min-nop-2026-11-06-total-221pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks: O/U 235.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.45,
+          "value": 18,
+          "timestamp": 1794018598,
+          "slug": "nba-uta-dal-2026-11-06-total-235pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 228.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.44,
+          "value": 175.78,
+          "timestamp": 1794018591,
+          "slug": "nba-min-nop-2026-11-06-total-228pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 231.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.6693322204,
+          "value": 200.46500000979998,
+          "timestamp": 1794018591,
+          "slug": "nba-min-nop-2026-11-06-total-231pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 233.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.3,
+          "value": 89.85,
+          "timestamp": 1794018589,
+          "slug": "nba-min-nop-2026-11-06-total-233pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 231.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.67,
+          "value": 200.66500000000002,
+          "timestamp": 1794018589,
+          "slug": "nba-min-nop-2026-11-06-total-231pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 233.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.3,
+          "value": 89.85,
+          "timestamp": 1794018589,
+          "slug": "nba-min-nop-2026-11-06-total-233pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 228.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.44,
+          "value": 175.78,
+          "timestamp": 1794018589,
+          "slug": "nba-min-nop-2026-11-06-total-228pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Cavaliers (-1.5)",
           "side": "BUY",
@@ -179,413 +586,6 @@
           "timestamp": 1794018244,
           "slug": "nba-phi-cle-2026-11-06-total-215pt5",
           "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-13.5)",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.81,
-          "value": 202.5,
-          "timestamp": 1794018244,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-13pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers: O/U 225.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.43,
-          "value": 17.2,
-          "timestamp": 1794018244,
-          "slug": "nba-phi-cle-2026-11-06-total-225pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-13.5)",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.88,
-          "value": 220,
-          "timestamp": 1794018039,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-13pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-9.5)",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.76,
-          "value": 7.6,
-          "timestamp": 1794018019,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-9pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 233.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.2993427099,
-          "value": 493.76579998005,
-          "timestamp": 1794017629,
-          "slug": "nba-min-nop-2026-11-06-total-233pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 229.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4031355925,
-          "value": 492.14389996807495,
-          "timestamp": 1794017629,
-          "slug": "nba-min-nop-2026-11-06-total-229pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 233.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.35207603,
-          "value": 423.6214000563,
-          "timestamp": 1794017629,
-          "slug": "nba-min-nop-2026-11-06-total-233pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 225.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.53,
-          "value": 59.0738,
-          "timestamp": 1794017629,
-          "slug": "nba-min-nop-2026-11-06-total-225pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 230.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.3807918969,
-          "value": 413.54000003339996,
-          "timestamp": 1794017628,
-          "slug": "nba-min-nop-2026-11-06-total-230pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-11.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.7,
-          "value": 28,
-          "timestamp": 1794017628,
-          "slug": "nba-min-nop-2026-11-06-spread-away-11pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 223.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.6,
-          "value": 345,
-          "timestamp": 1794017628,
-          "slug": "nba-min-nop-2026-11-06-total-223pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 235.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.26,
-          "value": 157.04,
-          "timestamp": 1794017628,
-          "slug": "nba-min-nop-2026-11-06-total-235pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 228.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4398039216,
-          "value": 448.60000003199997,
-          "timestamp": 1794017628,
-          "slug": "nba-min-nop-2026-11-06-total-228pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Raptors vs. Bucks: O/U 234.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.33,
-          "value": 13.200000000000001,
-          "timestamp": 1794017463,
-          "slug": "nba-tor-mil-2026-11-06-total-234pt5",
-          "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Raptors (-1.5)",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.71,
-          "value": 28.4,
-          "timestamp": 1794017454,
-          "slug": "nba-tor-mil-2026-11-06-spread-away-1pt5",
-          "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-1.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.48,
-          "value": 192,
-          "timestamp": 1794017427,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-1pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-8.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.84,
-          "value": 219.23999999999998,
-          "timestamp": 1794017427,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-8pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Bucks (-10.5)",
-          "side": "BUY",
-          "outcome": "Raptors",
-          "price": 0.64,
-          "value": 128,
-          "timestamp": 1794017344,
-          "slug": "nba-tor-mil-2026-11-06-spread-home-10pt5",
-          "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-8.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.85,
-          "value": 67.99149999999999,
-          "timestamp": 1794017340,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-8pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-2.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.63,
-          "value": 12.6,
-          "timestamp": 1794017337,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-2pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-3.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.69,
-          "value": 138,
-          "timestamp": 1794017227,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-3pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-8.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.86,
-          "value": 172,
-          "timestamp": 1794017199,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-8pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 227.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.58,
-          "value": 115.99999999999999,
-          "timestamp": 1794017133,
-          "slug": "nba-min-nop-2026-11-06-total-227pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 230.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.51,
-          "value": 2.55,
-          "timestamp": 1794017133,
-          "slug": "nba-min-nop-2026-11-06-total-230pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Thunder vs. Grizzlies: O/U 228.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.63,
-          "value": 126,
-          "timestamp": 1794017127,
-          "slug": "nba-okc-mem-2026-11-06-total-228pt5",
-          "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Thunder vs. Grizzlies: O/U 224.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.74,
-          "value": 71.03999999999999,
-          "timestamp": 1794017127,
-          "slug": "nba-okc-mem-2026-11-06-total-224pt5",
-          "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Thunder vs. Grizzlies: O/U 232.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5,
-          "value": 13.66,
-          "timestamp": 1794017127,
-          "slug": "nba-okc-mem-2026-11-06-total-232pt5",
-          "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-2.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.68,
-          "value": 136,
-          "timestamp": 1794017122,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-2pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-1.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.59,
-          "value": 28.5914,
-          "timestamp": 1794017097,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-1pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-3.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.74,
-          "value": 148,
-          "timestamp": 1794017097,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-3pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-1.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.65,
-          "value": 156,
-          "timestamp": 1794017097,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-1pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-1.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.59,
-          "value": 118,
-          "timestamp": 1794017097,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-1pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks: O/U 225.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.63,
-          "value": 36.54,
-          "timestamp": 1794017065,
-          "slug": "nba-uta-dal-2026-11-06-total-225pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks: O/U 227.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 263.34,
-          "timestamp": 1794017065,
-          "slug": "nba-uta-dal-2026-11-06-total-227pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks",
-          "side": "SELL",
-          "outcome": "Wizards",
-          "price": 0.3,
-          "value": 155.772,
-          "timestamp": 1794017058,
-          "slug": "nba-was-atl-2026-11-06",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.7,
-          "value": 1154.6499999999999,
-          "timestamp": 1794017058,
-          "slug": "nba-was-atl-2026-11-06",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Thunder (-19.5)",
-          "side": "BUY",
-          "outcome": "Grizzlies",
-          "price": 0.4864734799,
-          "value": 273.135400024654,
-          "timestamp": 1794017038,
-          "slug": "nba-okc-mem-2026-11-06-spread-away-19pt5",
-          "event_slug": "nba-okc-mem-2026-11-06",
           "result": "ongoing"
         }
       ]
@@ -963,11 +963,11 @@
       "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
       "label": "VeryLucky888",
       "stats48h": {
-        "wins": 2,
-        "losses": 7,
-        "totalTrades": 10,
-        "winRate": 0.2222222222222222,
-        "volume": 27874.2693,
+        "wins": 3,
+        "losses": 5,
+        "totalTrades": 8,
+        "winRate": 0.375,
+        "volume": 27706.805500000002,
         "pnl": 0
       },
       "recentTrades": [
@@ -980,7 +980,7 @@
           "timestamp": 1794009874,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -1058,28 +1058,6 @@
           "slug": "lol-gen-ly-2026-11-05-game3",
           "event_slug": "lol-gen-ly-2026-11-05",
           "result": "loss"
-        },
-        {
-          "title": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
-          "side": "BUY",
-          "outcome": "Top Esports",
-          "price": 0.17,
-          "value": 70.90700000000001,
-          "timestamp": 1793760007,
-          "slug": "lol-tes-ig1-2026-11-06-game4",
-          "event_slug": "lol-tes-ig1-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
-          "side": "BUY",
-          "outcome": "Top Esports",
-          "price": 0.47,
-          "value": 96.5568,
-          "timestamp": 1793759616,
-          "slug": "lol-tes-ig1-2026-11-06-game4",
-          "event_slug": "lol-tes-ig1-2026-11-06",
-          "result": "loss"
         }
       ]
     },
@@ -1089,7 +1067,7 @@
       "stats48h": {
         "wins": 2,
         "losses": 0,
-        "totalTrades": 118,
+        "totalTrades": 115,
         "winRate": 1,
         "volume": 15855.032198904313,
         "pnl": 0
@@ -1651,10 +1629,10 @@
       "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
       "label": "Thunderous-Snarl",
       "stats48h": {
-        "wins": 0,
-        "losses": 12,
+        "wins": 21,
+        "losses": 29,
         "totalTrades": 193,
-        "winRate": 0,
+        "winRate": 0.42,
         "volume": 665209.6305040508,
         "pnl": 0
       },
@@ -1668,7 +1646,7 @@
           "timestamp": 1794013972,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1679,7 +1657,7 @@
           "timestamp": 1794013950,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1690,7 +1668,7 @@
           "timestamp": 1794013935,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1701,7 +1679,7 @@
           "timestamp": 1794013930,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1712,7 +1690,7 @@
           "timestamp": 1794013894,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1723,7 +1701,7 @@
           "timestamp": 1794013851,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1734,7 +1712,7 @@
           "timestamp": 1794013813,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1745,7 +1723,7 @@
           "timestamp": 1794013761,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1756,7 +1734,7 @@
           "timestamp": 1794013728,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1767,7 +1745,7 @@
           "timestamp": 1794013674,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1778,7 +1756,7 @@
           "timestamp": 1794013648,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1789,7 +1767,7 @@
           "timestamp": 1794013626,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1800,7 +1778,7 @@
           "timestamp": 1794013605,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1811,7 +1789,7 @@
           "timestamp": 1794013588,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1822,7 +1800,7 @@
           "timestamp": 1794013576,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1833,7 +1811,7 @@
           "timestamp": 1794013564,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -1844,7 +1822,7 @@
           "timestamp": 1794013455,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1855,7 +1833,7 @@
           "timestamp": 1794010563,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1866,7 +1844,7 @@
           "timestamp": 1794010510,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1877,7 +1855,7 @@
           "timestamp": 1794010498,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1888,7 +1866,7 @@
           "timestamp": 1794010462,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1899,7 +1877,7 @@
           "timestamp": 1794010405,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1910,7 +1888,7 @@
           "timestamp": 1794010399,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1921,7 +1899,7 @@
           "timestamp": 1794010273,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1932,7 +1910,7 @@
           "timestamp": 1794010201,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1943,7 +1921,7 @@
           "timestamp": 1794010158,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1954,7 +1932,7 @@
           "timestamp": 1794010147,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1965,7 +1943,7 @@
           "timestamp": 1794010077,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1976,7 +1954,7 @@
           "timestamp": 1794010050,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1987,7 +1965,7 @@
           "timestamp": 1794010027,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -1998,7 +1976,7 @@
           "timestamp": 1794009955,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -2009,7 +1987,7 @@
           "timestamp": 1794009946,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -2020,7 +1998,7 @@
           "timestamp": 1794009925,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -2031,7 +2009,7 @@
           "timestamp": 1794009901,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -2042,7 +2020,7 @@
           "timestamp": 1794009882,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -2053,7 +2031,7 @@
           "timestamp": 1794009829,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -2064,7 +2042,7 @@
           "timestamp": 1794009793,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -2075,7 +2053,7 @@
           "timestamp": 1794009766,
           "slug": "lol-kc-t1-2026-11-04-game3",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -2674,10 +2652,10 @@
       "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
       "label": "surfandturf",
       "stats48h": {
-        "wins": 2,
+        "wins": 3,
         "losses": 16,
         "totalTrades": 28,
-        "winRate": 0.1111111111111111,
+        "winRate": 0.15789473684210525,
         "volume": 229695.36137764467,
         "pnl": 0
       },
@@ -2757,7 +2735,7 @@
           "timestamp": 1794002766,
           "slug": "lol-kc-t1-2026-11-04",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Jaguars vs. Ravens",
@@ -3560,10 +3538,10 @@
       "address": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
       "label": "tennischamp",
       "stats48h": {
-        "wins": 28,
+        "wins": 30,
         "losses": 2,
         "totalTrades": 36,
-        "winRate": 0.9333333333333333,
+        "winRate": 0.9375,
         "volume": 395065.30320987006,
         "pnl": 0
       },
@@ -3577,7 +3555,7 @@
           "timestamp": 1794016236,
           "slug": "nba-bos-cha-2026-11-06",
           "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "76ers vs. Cavaliers",
@@ -3599,7 +3577,7 @@
           "timestamp": 1794012970,
           "slug": "nba-bos-cha-2026-11-06",
           "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Valparaiso Beacons vs. Purdue Boilermakers",
@@ -3970,14 +3948,25 @@
       "address": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
       "label": "chongchong37",
       "stats48h": {
-        "wins": 6,
+        "wins": 7,
         "losses": 5,
-        "totalTrades": 14,
-        "winRate": 0.5454545454545454,
-        "volume": 41839.7275,
+        "totalTrades": 15,
+        "winRate": 0.5833333333333334,
+        "volume": 41866.732500000006,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Spurs (-16.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.55,
+          "value": 27.005000000000003,
+          "timestamp": 1794019326,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-16pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Celtics (-8.5)",
           "side": "BUY",
@@ -3987,7 +3976,7 @@
           "timestamp": 1793994594,
           "slug": "nba-bos-cha-2026-11-06-spread-away-8pt5",
           "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will FC UTA Arad win on 2026-11-06?",
@@ -4138,7 +4127,7 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 32,
+        "wins": 34,
         "losses": 0,
         "totalTrades": 98,
         "winRate": 1,
@@ -4254,7 +4243,7 @@
           "timestamp": 1794002271,
           "slug": "nba-bos-cha-2026-11-06",
           "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Celtics vs. Hornets",
@@ -4265,7 +4254,7 @@
           "timestamp": 1794002215,
           "slug": "nba-bos-cha-2026-11-06",
           "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
@@ -4706,480 +4695,40 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 12629.198000390377,
+        "volume": 7760.005900016607,
         "pnl": 0
       },
       "recentTrades": [
         {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.32,
-          "value": 108.224,
-          "timestamp": 1794018868,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-11.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.45,
-          "value": 2.25,
-          "timestamp": 1794018858,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-11pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-9.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.5686396821,
-          "value": 131.63440000932903,
-          "timestamp": 1794018858,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-9pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-2.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.89,
-          "value": 17.8,
-          "timestamp": 1794018858,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-2pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks",
+          "title": "Spread: Mavericks (-11.5)",
           "side": "BUY",
           "outcome": "Mavericks",
-          "price": 0.6574253094,
-          "value": 2724.212700079344,
-          "timestamp": 1794018838,
-          "slug": "nba-uta-dal-2026-11-06",
+          "price": 0.5175886834,
+          "value": 42.92999999587728,
+          "timestamp": 1794019494,
+          "slug": "nba-uta-dal-2026-11-06-spread-home-11pt5",
           "event_slug": "nba-uta-dal-2026-11-06",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Mavericks (-13.5)",
+          "title": "Spread: Mavericks (-10.5)",
           "side": "BUY",
           "outcome": "Mavericks",
-          "price": 0.15,
-          "value": 0.882,
-          "timestamp": 1794018838,
-          "slug": "nba-uta-dal-2026-11-06-spread-home-13pt5",
+          "price": 0.5699999971,
+          "value": 42.920000001635096,
+          "timestamp": 1794019494,
+          "slug": "nba-uta-dal-2026-11-06-spread-home-10pt5",
           "event_slug": "nba-uta-dal-2026-11-06",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Cavaliers (-17.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.14,
-          "value": 19.6,
-          "timestamp": 1794018807,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-17pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.19,
-          "value": 454.31850000000003,
-          "timestamp": 1794018807,
-          "slug": "nba-phi-cle-2026-11-06",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "New Mexico vs. Nevada",
-          "side": "BUY",
-          "outcome": "Nevada",
-          "price": 0.0875296834,
-          "value": 265.3900000688,
-          "timestamp": 1794018798,
-          "slug": "cfb-nmx-nevada-2026-11-06",
-          "event_slug": "cfb-nmx-nevada-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-1.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.85,
-          "value": 22.099999999999998,
-          "timestamp": 1794018796,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-1pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.2,
-          "value": 1444.4,
-          "timestamp": 1794018780,
-          "slug": "nba-phi-cle-2026-11-06",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-3.5)",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.12,
-          "value": 19.32,
-          "timestamp": 1794018778,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-3pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-13.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.19,
-          "value": 17.86,
-          "timestamp": 1794018759,
-          "slug": "nba-min-nop-2026-11-06-spread-away-13pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-3.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.57,
-          "value": 26.22,
-          "timestamp": 1794018757,
-          "slug": "nba-min-nop-2026-11-06-spread-away-3pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "New Mexico vs. Nevada",
-          "side": "BUY",
-          "outcome": "New Mexico",
-          "price": 0.9,
-          "value": 45.477000000000004,
-          "timestamp": 1794018754,
-          "slug": "cfb-nmx-nevada-2026-11-06",
-          "event_slug": "cfb-nmx-nevada-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "New Mexico vs. Nevada",
-          "side": "BUY",
-          "outcome": "Nevada",
-          "price": 0.1,
-          "value": 203.353,
-          "timestamp": 1794018676,
-          "slug": "cfb-nmx-nevada-2026-11-06",
-          "event_slug": "cfb-nmx-nevada-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.24,
-          "value": 219.348,
-          "timestamp": 1794018660,
-          "slug": "nba-phi-cle-2026-11-06",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Raptors vs. Bucks",
-          "side": "BUY",
-          "outcome": "Raptors",
-          "price": 0.4391377399,
-          "value": 823.8224000524,
-          "timestamp": 1794018660,
-          "slug": "nba-tor-mil-2026-11-06",
-          "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.3593909866,
-          "value": 590.1199999972,
-          "timestamp": 1794018583,
-          "slug": "nba-uta-dal-2026-11-06",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.3388582667,
-          "value": 516.033700026762,
-          "timestamp": 1794018577,
-          "slug": "nba-uta-dal-2026-11-06",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-7.5)",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.64,
-          "value": 3.2,
-          "timestamp": 1794018577,
-          "slug": "nba-uta-dal-2026-11-06-spread-home-7pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-5.5)",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.54,
-          "value": 13.5,
-          "timestamp": 1794018576,
-          "slug": "nba-uta-dal-2026-11-06-spread-home-5pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.3,
-          "value": 444.59999999999997,
-          "timestamp": 1794018567,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.29,
-          "value": 23.748099999999997,
-          "timestamp": 1794018565,
-          "slug": "nba-uta-dal-2026-11-06",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-3.5)",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.4,
-          "value": 3.3360000000000003,
-          "timestamp": 1794018564,
-          "slug": "nba-uta-dal-2026-11-06-spread-home-3pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-9.5)",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.6601086957,
-          "value": 182.1900000132,
-          "timestamp": 1794018564,
-          "slug": "nba-uta-dal-2026-11-06-spread-home-9pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-8.5)",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.62,
-          "value": 3.1,
-          "timestamp": 1794018564,
-          "slug": "nba-uta-dal-2026-11-06-spread-home-8pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.7046664335,
-          "value": 564.1488999957651,
-          "timestamp": 1794018561,
-          "slug": "nba-phi-cle-2026-11-06",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-5.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.47,
-          "value": 4.432099999999999,
-          "timestamp": 1794018558,
-          "slug": "nba-min-nop-2026-11-06-spread-away-5pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.28,
-          "value": 5.8912,
-          "timestamp": 1794018558,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.2631195989,
-          "value": 1256.254000164094,
-          "timestamp": 1794018549,
-          "slug": "nba-phi-cle-2026-11-06",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.72,
-          "value": 370.8,
-          "timestamp": 1794018528,
-          "slug": "nba-phi-cle-2026-11-06",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks: O/U 227.5",
+          "title": "Jazz vs. Mavericks: O/U 223.5",
           "side": "BUY",
           "outcome": "Over",
           "price": 0.57,
-          "value": 14.249999999999998,
-          "timestamp": 1794018528,
-          "slug": "nba-uta-dal-2026-11-06-total-227pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks: O/U 233.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.38,
-          "value": 7.603800000000001,
-          "timestamp": 1794018528,
-          "slug": "nba-uta-dal-2026-11-06-total-233pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-5.5)",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.46,
-          "value": 39.1,
-          "timestamp": 1794018528,
-          "slug": "nba-uta-dal-2026-11-06-spread-home-5pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.2608143289,
-          "value": 230.218199976741,
-          "timestamp": 1794018528,
-          "slug": "nba-uta-dal-2026-11-06",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nebraska vs. Illinois",
-          "side": "BUY",
-          "outcome": "Illinois",
-          "price": 0.44,
-          "value": 3.08,
-          "timestamp": 1794018526,
-          "slug": "cfb-nebr-ill-2026-11-06",
-          "event_slug": "cfb-nebr-ill-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.26,
-          "value": 2.8600000000000003,
-          "timestamp": 1794018474,
-          "slug": "nba-uta-dal-2026-11-06",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Connecticut Huskies (-7.5)",
-          "side": "BUY",
-          "outcome": "Connecticut Huskies",
-          "price": 0.86,
-          "value": 14.241599999999998,
-          "timestamp": 1794018454,
-          "slug": "cbb-mich-uconn-2026-11-06-spread-home-7pt5",
-          "event_slug": "cbb-mich-uconn-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nebraska vs. Illinois",
-          "side": "BUY",
-          "outcome": "Illinois",
-          "price": 0.43,
-          "value": 609.31,
-          "timestamp": 1794018453,
-          "slug": "cfb-nebr-ill-2026-11-06",
-          "event_slug": "cfb-nebr-ill-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nebraska (-4.5)",
-          "side": "BUY",
-          "outcome": "Illinois",
-          "price": 0.61,
-          "value": 12.2,
-          "timestamp": 1794018453,
-          "slug": "cfb-nebr-ill-2026-11-06-spread-away-4pt5",
-          "event_slug": "cfb-nebr-ill-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "New Mexico vs. Nevada",
-          "side": "BUY",
-          "outcome": "Nevada",
-          "price": 0.11,
-          "value": 6.93,
-          "timestamp": 1794018388,
-          "slug": "cfb-nmx-nevada-2026-11-06",
-          "event_slug": "cfb-nmx-nevada-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks",
-          "side": "BUY",
-          "outcome": "Mavericks",
-          "price": 0.68,
-          "value": 888.08,
-          "timestamp": 1794018354,
-          "slug": "nba-uta-dal-2026-11-06",
+          "value": 54.72,
+          "timestamp": 1794019494,
+          "slug": "nba-uta-dal-2026-11-06-total-223pt5",
           "event_slug": "nba-uta-dal-2026-11-06",
           "result": "ongoing"
         },
@@ -5188,20 +4737,174 @@
           "side": "BUY",
           "outcome": "Over",
           "price": 0.63,
-          "value": 49.14,
-          "timestamp": 1794018336,
+          "value": 11.97,
+          "timestamp": 1794019494,
           "slug": "nba-uta-dal-2026-11-06-total-221pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks: O/U 229.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.35,
+          "value": 46.9,
+          "timestamp": 1794019494,
+          "slug": "nba-uta-dal-2026-11-06-total-229pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks: O/U 224.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.53,
+          "value": 50.88,
+          "timestamp": 1794019494,
+          "slug": "nba-uta-dal-2026-11-06-total-224pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Mavericks (-8.5)",
+          "side": "BUY",
+          "outcome": "Mavericks",
+          "price": 0.66,
+          "value": 40.260000000000005,
+          "timestamp": 1794019494,
+          "slug": "nba-uta-dal-2026-11-06-spread-home-8pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Mavericks (-12.5)",
+          "side": "BUY",
+          "outcome": "Mavericks",
+          "price": 0.4646808511,
+          "value": 43.6800000034,
+          "timestamp": 1794019494,
+          "slug": "nba-uta-dal-2026-11-06-spread-home-12pt5",
           "event_slug": "nba-uta-dal-2026-11-06",
           "result": "ongoing"
         },
         {
           "title": "Jazz vs. Mavericks",
           "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.3141133512,
-          "value": 141.938400006744,
-          "timestamp": 1794018336,
+          "outcome": "Mavericks",
+          "price": 0.92,
+          "value": 1503.28,
+          "timestamp": 1794019494,
           "slug": "nba-uta-dal-2026-11-06",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-14.5)",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.4,
+          "value": 110,
+          "timestamp": 1794019477,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-14pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Raptors vs. Bucks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.4820003334,
+          "value": 86.745600001998,
+          "timestamp": 1794019476,
+          "slug": "nba-tor-mil-2026-11-06",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Raptors (-6.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.75,
+          "value": 150,
+          "timestamp": 1794019476,
+          "slug": "nba-tor-mil-2026-11-06-spread-away-6pt5",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-17.5)",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.5,
+          "value": 202,
+          "timestamp": 1794019446,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-17pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-16.5)",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.45,
+          "value": 336.6,
+          "timestamp": 1794019440,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-16pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-11.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.19,
+          "value": 34.58,
+          "timestamp": 1794019438,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-11pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.1,
+          "value": 21.200000000000003,
+          "timestamp": 1794019435,
+          "slug": "nba-uta-dal-2026-11-06",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Mavericks (-15.5)",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.7067346939,
+          "value": 69.2600000022,
+          "timestamp": 1794019435,
+          "slug": "nba-uta-dal-2026-11-06-spread-home-15pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Mavericks (-2.5)",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.14,
+          "value": 6.44,
+          "timestamp": 1794019435,
+          "slug": "nba-uta-dal-2026-11-06-spread-home-2pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Mavericks (-13.5)",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.62,
+          "value": 28.52,
+          "timestamp": 1794019435,
+          "slug": "nba-uta-dal-2026-11-06-spread-home-13pt5",
           "event_slug": "nba-uta-dal-2026-11-06",
           "result": "ongoing"
         },
@@ -5209,10 +4912,32 @@
           "title": "Spread: Mavericks (-5.5)",
           "side": "BUY",
           "outcome": "Jazz",
-          "price": 0.49,
-          "value": 36.75,
-          "timestamp": 1794018336,
+          "price": 0.25,
+          "value": 11.5,
+          "timestamp": 1794019435,
           "slug": "nba-uta-dal-2026-11-06-spread-home-5pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks: O/U 225.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.42,
+          "value": 8.4,
+          "timestamp": 1794019435,
+          "slug": "nba-uta-dal-2026-11-06-total-225pt5",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Mavericks (-11.5)",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.55,
+          "value": 44.550000000000004,
+          "timestamp": 1794019435,
+          "slug": "nba-uta-dal-2026-11-06-spread-home-11pt5",
           "event_slug": "nba-uta-dal-2026-11-06",
           "result": "ongoing"
         },
@@ -5220,32 +4945,21 @@
           "title": "Spread: Mavericks (-7.5)",
           "side": "BUY",
           "outcome": "Jazz",
-          "price": 0.61,
-          "value": 3.66,
-          "timestamp": 1794018336,
+          "price": 0.35,
+          "value": 2.8,
+          "timestamp": 1794019435,
           "slug": "nba-uta-dal-2026-11-06-spread-home-7pt5",
           "event_slug": "nba-uta-dal-2026-11-06",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Mavericks (-6.5)",
+          "title": "Spread: Mavericks (-4.5)",
           "side": "BUY",
           "outcome": "Jazz",
-          "price": 0.52,
-          "value": 36.92,
-          "timestamp": 1794018336,
-          "slug": "nba-uta-dal-2026-11-06-spread-home-6pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-6.5)",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.51,
-          "value": 2.55,
-          "timestamp": 1794018300,
-          "slug": "nba-uta-dal-2026-11-06-spread-home-6pt5",
+          "price": 0.22,
+          "value": 10.12,
+          "timestamp": 1794019435,
+          "slug": "nba-uta-dal-2026-11-06-spread-home-4pt5",
           "event_slug": "nba-uta-dal-2026-11-06",
           "result": "ongoing"
         },
@@ -5253,11 +4967,286 @@
           "title": "Jazz vs. Mavericks",
           "side": "BUY",
           "outcome": "Jazz",
-          "price": 0.28,
-          "value": 2.8000000000000003,
-          "timestamp": 1794018300,
+          "price": 0.08,
+          "value": 2.88,
+          "timestamp": 1794019428,
           "slug": "nba-uta-dal-2026-11-06",
           "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Raptors vs. Bucks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.39,
+          "value": 5.8500000000000005,
+          "timestamp": 1794019422,
+          "slug": "nba-tor-mil-2026-11-06",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Timberwolves (-4.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.63,
+          "value": 3.7800000000000002,
+          "timestamp": 1794019416,
+          "slug": "nba-min-nop-2026-11-06-spread-away-4pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.41,
+          "value": 1.0004,
+          "timestamp": 1794019408,
+          "slug": "nba-min-nop-2026-11-06",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Raptors vs. Bucks",
+          "side": "BUY",
+          "outcome": "Raptors",
+          "price": 0.6093494948,
+          "value": 140.509900005932,
+          "timestamp": 1794019401,
+          "slug": "nba-tor-mil-2026-11-06",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Timberwolves (-7.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.7,
+          "value": 11.661999999999999,
+          "timestamp": 1794019357,
+          "slug": "nba-min-nop-2026-11-06-spread-away-7pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.39,
+          "value": 7.1097,
+          "timestamp": 1794019357,
+          "slug": "nba-min-nop-2026-11-06",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "76ers vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.97,
+          "value": 21.621299999999998,
+          "timestamp": 1794019335,
+          "slug": "nba-phi-cle-2026-11-06",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "76ers vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.97,
+          "value": 1529.69,
+          "timestamp": 1794019332,
+          "slug": "nba-phi-cle-2026-11-06",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-15.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.46,
+          "value": 2.3000000000000003,
+          "timestamp": 1794019326,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-15pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-13.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.38,
+          "value": 56.24,
+          "timestamp": 1794019326,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-13pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-17.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.56,
+          "value": 62.160000000000004,
+          "timestamp": 1794019326,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-17pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.11,
+          "value": 2.75,
+          "timestamp": 1794019300,
+          "slug": "nba-uta-dal-2026-11-06",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-5.5)",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.8979166667,
+          "value": 21.5500000008,
+          "timestamp": 1794019261,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-5pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "76ers vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.95,
+          "value": 197.67600000000002,
+          "timestamp": 1794019261,
+          "slug": "nba-phi-cle-2026-11-06",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "76ers vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.94,
+          "value": 261.837,
+          "timestamp": 1794019243,
+          "slug": "nba-phi-cle-2026-11-06",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "76ers vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.93,
+          "value": 1525.2,
+          "timestamp": 1794019221,
+          "slug": "nba-phi-cle-2026-11-06",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jazz vs. Mavericks",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.15,
+          "value": 299.25,
+          "timestamp": 1794019209,
+          "slug": "nba-uta-dal-2026-11-06",
+          "event_slug": "nba-uta-dal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.34,
+          "value": 34,
+          "timestamp": 1794019153,
+          "slug": "nba-min-nop-2026-11-06",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Grizzlies: O/U 238.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.5540237194,
+          "value": 77.54670000441799,
+          "timestamp": 1794019134,
+          "slug": "nba-okc-mem-2026-11-06-total-238pt5",
+          "event_slug": "nba-okc-mem-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Thunder (-23.5)",
+          "side": "BUY",
+          "outcome": "Grizzlies",
+          "price": 0.55,
+          "value": 5.5,
+          "timestamp": 1794019134,
+          "slug": "nba-okc-mem-2026-11-06-spread-away-23pt5",
+          "event_slug": "nba-okc-mem-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-3.5)",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.93,
+          "value": 14.88,
+          "timestamp": 1794019126,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-3pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-17.5)",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.31,
+          "value": 35.65,
+          "timestamp": 1794019125,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-17pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-11.5)",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.5711936023,
+          "value": 23.927300000347003,
+          "timestamp": 1794019125,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-11pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.29,
+          "value": 441.38,
+          "timestamp": 1794019125,
+          "slug": "nba-min-nop-2026-11-06",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans",
+          "side": "BUY",
+          "outcome": "Timberwolves",
+          "price": 0.69,
+          "value": 13.799999999999999,
+          "timestamp": 1794019105,
+          "slug": "nba-min-nop-2026-11-06",
+          "event_slug": "nba-min-nop-2026-11-06",
           "result": "ongoing"
         }
       ]
@@ -5270,10 +5259,450 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 4432.437890979118,
+        "volume": 3502.9553838934503,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "76ers vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.0136375438,
+          "value": 39.129999862183,
+          "timestamp": 1794019612,
+          "slug": "nba-phi-cle-2026-11-06",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "76ers vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.0116533864,
+          "value": 1.9499999987022576,
+          "timestamp": 1794019611,
+          "slug": "nba-phi-cle-2026-11-06",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.35,
+          "value": 18.9,
+          "timestamp": 1794019573,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Blue Jackets vs. Sabres: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.92,
+          "value": 92,
+          "timestamp": 1794019501,
+          "slug": "nhl-cbj-buf-2026-11-06-total-7pt5",
+          "event_slug": "nhl-cbj-buf-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Blue Jackets vs. Sabres: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.89,
+          "value": 62.300000000000004,
+          "timestamp": 1794019491,
+          "slug": "nhl-cbj-buf-2026-11-06-total-7pt5",
+          "event_slug": "nhl-cbj-buf-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Grizzlies (-18.5)",
+          "side": "BUY",
+          "outcome": "Thunder",
+          "price": 0.98,
+          "value": 19.619992,
+          "timestamp": 1794019399,
+          "slug": "nba-okc-mem-2026-11-06-spread-home-18pt5",
+          "event_slug": "nba-okc-mem-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "76ers vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.974,
+          "value": 19.48,
+          "timestamp": 1794019390,
+          "slug": "nba-phi-cle-2026-11-06",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "76ers vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.974,
+          "value": 53.57,
+          "timestamp": 1794019386,
+          "slug": "nba-phi-cle-2026-11-06",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "76ers vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.974,
+          "value": 34.089999999999996,
+          "timestamp": 1794019384,
+          "slug": "nba-phi-cle-2026-11-06",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.57,
+          "value": 371.07,
+          "timestamp": 1794019335,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.57,
+          "value": 369.92999999999995,
+          "timestamp": 1794019333,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.57,
+          "value": 338.01,
+          "timestamp": 1794019332,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.57,
+          "value": 310.08,
+          "timestamp": 1794019330,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.12,
+          "value": 4.08,
+          "timestamp": 1794019326,
+          "slug": "arg-tig-cas-2026-11-06-total-2pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.12,
+          "value": 6,
+          "timestamp": 1794019324,
+          "slug": "arg-tig-cas-2026-11-06-total-2pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.13,
+          "value": 5.46,
+          "timestamp": 1794019323,
+          "slug": "arg-tig-cas-2026-11-06-total-2pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.1299999996,
+          "value": 26.699999997846152,
+          "timestamp": 1794019321,
+          "slug": "arg-tig-cas-2026-11-06-total-2pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: CA Tigre (-1.5)",
+          "side": "SELL",
+          "outcome": "CA Tigre",
+          "price": 0.5,
+          "value": 13,
+          "timestamp": 1794019318,
+          "slug": "arg-tig-cas-2026-11-06-spread-home-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.4117743172,
+          "value": 210.00000001052805,
+          "timestamp": 1794019317,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.4,
+          "value": 18.48,
+          "timestamp": 1794019315,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 2.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.19,
+          "value": 3.0039000000000002,
+          "timestamp": 1794019315,
+          "slug": "arg-tig-cas-2026-11-06-total-2pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: CA Tigre (-1.5)",
+          "side": "BUY",
+          "outcome": "CA Tigre",
+          "price": 0.4975900711,
+          "value": 82.59000000117798,
+          "timestamp": 1794019315,
+          "slug": "arg-tig-cas-2026-11-06-spread-home-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.1863481229,
+          "value": 8.190000001455001,
+          "timestamp": 1794019312,
+          "slug": "arg-tig-cas-2026-11-06-total-2pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.4804669223,
+          "value": 2.519999999837425,
+          "timestamp": 1794019311,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.78,
+          "value": 79.95,
+          "timestamp": 1794019267,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.73,
+          "value": 0.0219,
+          "timestamp": 1794019239,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.73,
+          "value": 22.63,
+          "timestamp": 1794019237,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.8,
+          "value": 16,
+          "timestamp": 1794019221,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.0899999953,
+          "value": 1.5399999995777733,
+          "timestamp": 1794019195,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.05,
+          "value": 18.648500000000002,
+          "timestamp": 1794019182,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.0599999999,
+          "value": 22.839999981933335,
+          "timestamp": 1794019179,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.08,
+          "value": 6.009600000000001,
+          "timestamp": 1794019171,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.08,
+          "value": 6.009600000000001,
+          "timestamp": 1794019170,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.1099999997,
+          "value": 7.020000000854545,
+          "timestamp": 1794019168,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.8699999999,
+          "value": 444.10999701895287,
+          "timestamp": 1794019165,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.8896202029,
+          "value": 435.209999000518,
+          "timestamp": 1794019164,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.06,
+          "value": 34.930000019999994,
+          "timestamp": 1794019161,
+          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
+          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Banfield vs. CA Tucumán: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 1.3800000000000001,
+          "timestamp": 1794019075,
+          "slug": "arg-ban-cat-2026-11-06-total-3pt5",
+          "event_slug": "arg-ban-cat-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Banfield vs. CA Tucumán: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.03,
+          "value": 3.69,
+          "timestamp": 1794019042,
+          "slug": "arg-ban-cat-2026-11-06-total-3pt5",
+          "event_slug": "arg-ban-cat-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Grizzlies: O/U 230.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.82,
+          "value": 57.4,
+          "timestamp": 1794018966,
+          "slug": "nba-okc-mem-2026-11-06-total-230pt5",
+          "event_slug": "nba-okc-mem-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Cavaliers (-21.5)",
           "side": "BUY",
@@ -5383,449 +5812,9 @@
           "slug": "cwbb-idaho-gnzg-2026-11-06",
           "event_slug": "cwbb-idaho-gnzg-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "AHL: Providence Bruins vs. Hamilton Hammers",
-          "side": "BUY",
-          "outcome": "Hamilton Hammers",
-          "price": 0.1,
-          "value": 2,
-          "timestamp": 1794018687,
-          "slug": "ahl-pro-ham-2026-11-07",
-          "event_slug": "ahl-pro-ham-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: East Carolina (-1.5)",
-          "side": "BUY",
-          "outcome": "South Florida",
-          "price": 0.54,
-          "value": 54,
-          "timestamp": 1794018651,
-          "slug": "cfb-sfl-ecar-2026-11-06-spread-home-1pt5",
-          "event_slug": "cfb-sfl-ecar-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Tigre vs. CA Sarmiento end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.95,
-          "value": 0.874,
-          "timestamp": 1794018510,
-          "slug": "arg-tig-cas-2026-11-06-draw",
-          "event_slug": "arg-tig-cas-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Tigre vs. CA Sarmiento: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 6.5600000000000005,
-          "timestamp": 1794018499,
-          "slug": "arg-tig-cas-2026-11-06-total-0pt5",
-          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Atlético San Luis vs. FC Juárez: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.8597315297,
-          "value": 422.2599959805651,
-          "timestamp": 1794018489,
-          "slug": "mex-asl-jua-2026-11-06-total-0pt5",
-          "event_slug": "mex-asl-jua-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-15.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.11,
-          "value": 5.5,
-          "timestamp": 1794018489,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-15pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-13.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.15,
-          "value": 18.9,
-          "timestamp": 1794018489,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-13pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Ducks vs. Flames",
-          "side": "BUY",
-          "outcome": "Flames",
-          "price": 0.87,
-          "value": 506.34,
-          "timestamp": 1794018465,
-          "slug": "nhl-ana-cal-2026-11-06",
-          "event_slug": "nhl-ana-cal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Sarmiento win on 2026-11-06?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.972,
-          "value": 2.14812,
-          "timestamp": 1794018411,
-          "slug": "arg-tig-cas-2026-11-06-cas",
-          "event_slug": "arg-tig-cas-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Sarmiento win on 2026-11-06?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.973,
-          "value": 7.61859,
-          "timestamp": 1794018409,
-          "slug": "arg-tig-cas-2026-11-06-cas",
-          "event_slug": "arg-tig-cas-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Sarmiento win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.95,
-          "value": 38.039995,
-          "timestamp": 1794018402,
-          "slug": "arg-tig-cas-2026-11-06-cas",
-          "event_slug": "arg-tig-cas-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Idaho Vandals vs. Gonzaga Bulldogs (W)",
-          "side": "BUY",
-          "outcome": "Gonzaga Bulldogs",
-          "price": 0.6,
-          "value": 22.8,
-          "timestamp": 1794018343,
-          "slug": "cwbb-idaho-gnzg-2026-11-06",
-          "event_slug": "cwbb-idaho-gnzg-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Club Tijuana win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9,
-          "value": 52.2,
-          "timestamp": 1794018342,
-          "slug": "mex-nec-tij-2026-11-06-tij",
-          "event_slug": "mex-nec-tij-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-11.5)",
-          "side": "SELL",
-          "outcome": "Cavaliers",
-          "price": 0.12,
-          "value": 8.879999999999999,
-          "timestamp": 1794018160,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-11pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-7.5)",
-          "side": "SELL",
-          "outcome": "Cavaliers",
-          "price": 0.83,
-          "value": 30.709999999999997,
-          "timestamp": 1794018159,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-7pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-11.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.13,
-          "value": 9.620000000000001,
-          "timestamp": 1794018159,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-11pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-7.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.26,
-          "value": 6.76,
-          "timestamp": 1794018159,
-          "slug": "nba-phi-cle-2026-11-06-spread-home-7pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-7.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.87,
-          "value": 32.19,
-          "timestamp": 1794018157,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-7pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Southern Miss Golden Eagles vs. Iowa State Cyclones: O/U 145.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.57,
-          "value": 5.699999999999999,
-          "timestamp": 1794018118,
-          "slug": "cbb-soumis-iowast-2026-11-06-total-145pt5",
-          "event_slug": "cbb-soumis-iowast-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
-          "side": "BUY",
-          "outcome": "India",
-          "price": 0.53,
-          "value": 92.75,
-          "timestamp": 1794018061,
-          "slug": "crint-nzl-ind-2026-11-06",
-          "event_slug": "crint-nzl-ind-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.61,
-          "value": 1791.57,
-          "timestamp": 1794017985,
-          "slug": "nba-phi-cle-2026-11-06",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-6.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.98,
-          "value": 24.5,
-          "timestamp": 1794017976,
-          "slug": "nba-was-atl-2026-11-06-spread-home-6pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-36.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.9589999994,
-          "value": 38.43999400194995,
-          "timestamp": 1794017973,
-          "slug": "nba-bos-cha-2026-11-06-spread-away-36pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Iowa State Cyclones (-29.5)",
-          "side": "BUY",
-          "outcome": "Southern Miss Golden Eagles",
-          "price": 0.41,
-          "value": 200.48999999999998,
-          "timestamp": 1794017955,
-          "slug": "cbb-soumis-iowast-2026-11-06-spread-home-29pt5",
-          "event_slug": "cbb-soumis-iowast-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: O/U 202.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.06,
-          "value": 2.04,
-          "timestamp": 1794017920,
-          "slug": "nba-bos-cha-2026-11-06-total-202pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Alabama Crimson Tide (-25.5)",
-          "side": "BUY",
-          "outcome": "Alabama Crimson Tide",
-          "price": 0.15,
-          "value": 22.5,
-          "timestamp": 1794017878,
-          "slug": "cbb-arkst-ala-2026-11-06-spread-home-25pt5",
-          "event_slug": "cbb-arkst-ala-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Alabama Crimson Tide (-25.5)",
-          "side": "BUY",
-          "outcome": "Alabama Crimson Tide",
-          "price": 0.16,
-          "value": 27.2,
-          "timestamp": 1794017877,
-          "slug": "cbb-arkst-ala-2026-11-06-spread-home-25pt5",
-          "event_slug": "cbb-arkst-ala-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will New Zealand A win?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.0699999996,
-          "value": 1.9499999988571428,
-          "timestamp": 1794017869,
-          "slug": "crint-nzla-inda-2026-11-06-nzla",
-          "event_slug": "crint-nzla-inda-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: CA Tigre (-1.5)",
-          "side": "BUY",
-          "outcome": "CA Tigre",
-          "price": 0.36,
-          "value": 8.64,
-          "timestamp": 1794017865,
-          "slug": "arg-tig-cas-2026-11-06-spread-home-1pt5",
-          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Tigre vs. CA Sarmiento end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.76,
-          "value": 28.12,
-          "timestamp": 1794017857,
-          "slug": "arg-tig-cas-2026-11-06-draw",
-          "event_slug": "arg-tig-cas-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: O/U 202.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.03,
-          "value": 1.1099999999999999,
-          "timestamp": 1794017847,
-          "slug": "nba-bos-cha-2026-11-06-total-202pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Tigre vs. CA Sarmiento: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.1299999998,
-          "value": 6.879999999415384,
-          "timestamp": 1794017835,
-          "slug": "arg-tig-cas-2026-11-06-total-0pt5",
-          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Tigre vs. CA Sarmiento: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5099999946,
-          "value": 19.979999998447056,
-          "timestamp": 1794017832,
-          "slug": "arg-tig-cas-2026-11-06-total-1pt5",
-          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: O/U 202.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.01,
-          "value": 0.5605,
-          "timestamp": 1794017817,
-          "slug": "nba-bos-cha-2026-11-06-total-202pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: O/U 202.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.02,
-          "value": 0.1748,
-          "timestamp": 1794017817,
-          "slug": "nba-bos-cha-2026-11-06-total-202pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: O/U 202.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.05,
-          "value": 3.24,
-          "timestamp": 1794017815,
-          "slug": "nba-bos-cha-2026-11-06-total-202pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Austin Peay Governors vs. Kennesaw State Owls",
-          "side": "BUY",
-          "outcome": "Kennesaw State Owls",
-          "price": 0.94,
-          "value": 70.5,
-          "timestamp": 1794017700,
-          "slug": "cbb-ausp-kenest-2026-11-06",
-          "event_slug": "cbb-ausp-kenest-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.18,
-          "value": 4.5,
-          "timestamp": 1794017680,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Tigre vs. CA Sarmiento: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.84,
-          "value": 365.4,
-          "timestamp": 1794017635,
-          "slug": "arg-tig-cas-2026-11-06-total-0pt5",
-          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Tigre vs. CA Sarmiento: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.82,
-          "value": 253.38,
-          "timestamp": 1794017610,
-          "slug": "arg-tig-cas-2026-11-06-total-0pt5",
-          "event_slug": "arg-tig-cas-2026-11-06-more-markets",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T02:36:25.178Z"
+  "lastUpdate": "2026-11-07T02:48:40.963Z"
 }
