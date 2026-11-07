@@ -5361,14 +5361,25 @@
       "label": "dips.",
       "specialty": "Soccer+NBA",
       "stats48h": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "totalTrades": 500,
-        "winRate": 0,
-        "volume": 2254.2509970075976,
+        "winRate": 1,
+        "volume": 2276.340397007598,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will V-Varen Nagasaki win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.6,
+          "value": 22.8,
+          "timestamp": 1794035641,
+          "slug": "jap-avi-vva-2026-11-07-vva",
+          "event_slug": "jap-avi-vva-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "LG Sakers vs. Goyang",
           "side": "BUY",
@@ -5631,7 +5642,7 @@
           "timestamp": 1794034453,
           "slug": "jap-ngr-kyo-2026-11-07-total-2pt5",
           "event_slug": "jap-ngr-kyo-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LG Sakers vs. Goyang",
@@ -5906,17 +5917,6 @@
           "timestamp": 1794033487,
           "slug": "aus-auc-wel-2026-11-06-total-1pt5",
           "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jeju SK FC vs. Gwangju FC: O/U 3.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.11,
-          "value": 0.7106,
-          "timestamp": 1794033367,
-          "slug": "kor-jej-gwa-2026-11-07-total-3pt5",
-          "event_slug": "kor-jej-gwa-2026-11-07-more-markets",
           "result": "ongoing"
         }
       ]
@@ -7049,5 +7049,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T07:12:30.626Z"
+  "lastUpdate": "2026-11-07T07:21:41.444Z"
 }
