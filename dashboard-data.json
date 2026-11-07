@@ -31,13 +31,145 @@
       "label": "sports_whale_1",
       "stats48h": {
         "wins": 0,
-        "losses": 0,
+        "losses": 4,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 6171.715499995149,
+        "volume": 5553.026299977251,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Trail Blazers (-10.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.77,
+          "value": 15.4,
+          "timestamp": 1794023232,
+          "slug": "nba-por-lal-2026-11-06-spread-away-10pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-10.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.75,
+          "value": 30,
+          "timestamp": 1794023221,
+          "slug": "nba-por-lal-2026-11-06-spread-away-10pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-1.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.41,
+          "value": 82,
+          "timestamp": 1794022948,
+          "slug": "nba-por-lal-2026-11-06-spread-away-1pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-2.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.44,
+          "value": 96.8,
+          "timestamp": 1794022948,
+          "slug": "nba-por-lal-2026-11-06-spread-away-2pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers: O/U 218.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.42,
+          "value": 16.132199999999997,
+          "timestamp": 1794022878,
+          "slug": "nba-por-lal-2026-11-06-total-218pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.37,
+          "value": 14.807400000000001,
+          "timestamp": 1794022878,
+          "slug": "nba-por-lal-2026-11-06-total-216pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers: O/U 220.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.47,
+          "value": 16.9999,
+          "timestamp": 1794022878,
+          "slug": "nba-por-lal-2026-11-06-total-220pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-12.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.81,
+          "value": 189.54000000000002,
+          "timestamp": 1794022872,
+          "slug": "nba-por-lal-2026-11-06-spread-away-12pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-2.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.7,
+          "value": 31.493,
+          "timestamp": 1794022750,
+          "slug": "nba-por-lal-2026-11-06-spread-home-2pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-14.5)",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.38,
+          "value": 22.42,
+          "timestamp": 1794022692,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-14pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-12.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.75,
+          "value": 162.75,
+          "timestamp": 1794022539,
+          "slug": "nba-por-lal-2026-11-06-spread-away-12pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-10.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.6917830731,
+          "value": 841.8999999627,
+          "timestamp": 1794022539,
+          "slug": "nba-por-lal-2026-11-06-spread-away-10pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Lakers (-1.5)",
           "side": "BUY",
@@ -377,7 +509,7 @@
           "timestamp": 1794021372,
           "slug": "nba-okc-mem-2026-11-06-total-232pt5",
           "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Thunder vs. Grizzlies: O/U 232.5",
@@ -388,7 +520,7 @@
           "timestamp": 1794021372,
           "slug": "nba-okc-mem-2026-11-06-total-232pt5",
           "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Raptors (-9.5)",
@@ -432,7 +564,7 @@
           "timestamp": 1794021021,
           "slug": "nba-okc-mem-2026-11-06-spread-away-15pt5",
           "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Thunder (-19.5)",
@@ -443,7 +575,7 @@
           "timestamp": 1794021021,
           "slug": "nba-okc-mem-2026-11-06-spread-away-19pt5",
           "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Timberwolves (-4.5)",
@@ -454,138 +586,6 @@
           "timestamp": 1794021013,
           "slug": "nba-min-nop-2026-11-06-spread-away-4pt5",
           "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-5.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.47,
-          "value": 328.765,
-          "timestamp": 1794021013,
-          "slug": "nba-min-nop-2026-11-06-spread-away-5pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-5.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.47,
-          "value": 8.290799999999999,
-          "timestamp": 1794021013,
-          "slug": "nba-min-nop-2026-11-06-spread-away-5pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 211.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.65,
-          "value": 97.825,
-          "timestamp": 1794021010,
-          "slug": "nba-min-nop-2026-11-06-total-211pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 209.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.73,
-          "value": 29.1708,
-          "timestamp": 1794021010,
-          "slug": "nba-min-nop-2026-11-06-total-209pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 211.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.65,
-          "value": 227.175,
-          "timestamp": 1794021010,
-          "slug": "nba-min-nop-2026-11-06-total-211pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "SELL",
-          "outcome": "Pelicans",
-          "price": 0.27,
-          "value": 69.6951,
-          "timestamp": 1794021009,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks: O/U 226.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.22,
-          "value": 14.3,
-          "timestamp": 1794020925,
-          "slug": "nba-uta-dal-2026-11-06-total-226pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks: O/U 225.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.72,
-          "value": 216.35999999999999,
-          "timestamp": 1794020925,
-          "slug": "nba-uta-dal-2026-11-06-total-225pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks: O/U 223.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.594797048,
-          "value": 80.595000004,
-          "timestamp": 1794020925,
-          "slug": "nba-uta-dal-2026-11-06-total-223pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks: O/U 224.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.6676470588,
-          "value": 56.749999998,
-          "timestamp": 1794020925,
-          "slug": "nba-uta-dal-2026-11-06-total-224pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks: O/U 223.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5897893628,
-          "value": 560.0049999786,
-          "timestamp": 1794020925,
-          "slug": "nba-uta-dal-2026-11-06-total-223pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Mavericks: O/U 221.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.45,
-          "value": 450,
-          "timestamp": 1794020925,
-          "slug": "nba-uta-dal-2026-11-06-total-221pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
           "result": "ongoing"
         }
       ]
@@ -1631,7 +1631,7 @@
       "stats48h": {
         "wins": 21,
         "losses": 29,
-        "totalTrades": 184,
+        "totalTrades": 181,
         "winRate": 0.42,
         "volume": 665209.6305040508,
         "pnl": 0
@@ -2353,9 +2353,9 @@
       "label": "ch27er",
       "stats48h": {
         "wins": 1,
-        "losses": 14,
+        "losses": 18,
         "totalTrades": 26,
-        "winRate": 0.06666666666666667,
+        "winRate": 0.05263157894736842,
         "volume": 766789.864875282,
         "pnl": 0
       },
@@ -2391,7 +2391,7 @@
           "timestamp": 1794012672,
           "slug": "nba-uta-dal-2026-11-06-spread-home-5pt5",
           "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Thunder vs. Grizzlies",
@@ -2402,7 +2402,7 @@
           "timestamp": 1794012307,
           "slug": "nba-okc-mem-2026-11-06",
           "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Thunder vs. Grizzlies",
@@ -2413,7 +2413,7 @@
           "timestamp": 1794012307,
           "slug": "nba-okc-mem-2026-11-06",
           "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Thunder (-3.5)",
@@ -2424,7 +2424,7 @@
           "timestamp": 1794012256,
           "slug": "nba-okc-mem-2026-11-06-spread-away-3pt5",
           "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Jaguars vs. Ravens",
@@ -2652,14 +2652,25 @@
       "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
       "label": "surfandturf",
       "stats48h": {
-        "wins": 3,
-        "losses": 16,
-        "totalTrades": 29,
-        "winRate": 0.15789473684210525,
-        "volume": 229695.36332764465,
+        "wins": 6,
+        "losses": 17,
+        "totalTrades": 30,
+        "winRate": 0.2608695652173913,
+        "volume": 230052.70927764467,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Dan Sullivan win the Alaska Senate race in 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.017,
+          "value": 357.34595,
+          "timestamp": 1794023296,
+          "slug": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
+          "event_slug": "alaska-senate-election-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Dan Sullivan win the Alaska Senate race in 2026?",
           "side": "BUY",
@@ -2702,7 +2713,7 @@
           "timestamp": 1794013386,
           "slug": "nba-okc-mem-2026-11-06",
           "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Thunder vs. Grizzlies",
@@ -2713,7 +2724,7 @@
           "timestamp": 1794011406,
           "slug": "nba-okc-mem-2026-11-06",
           "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Thunder vs. Grizzlies",
@@ -2724,7 +2735,7 @@
           "timestamp": 1794009906,
           "slug": "nba-okc-mem-2026-11-06",
           "event_slug": "nba-okc-mem-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Gen.G win Worlds 2026?",
@@ -2933,7 +2944,7 @@
           "timestamp": 1793826627,
           "slug": "will-karmine-corp-win-worlds-2026",
           "event_slug": "worlds-2026-winner",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will Liverpool FC win on 2026-11-04?",
@@ -4706,10 +4717,274 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 17712.70310000918,
+        "volume": 13075.006729969753,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Trail Blazers vs. Lakers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.61,
+          "value": 4575,
+          "timestamp": 1794023518,
+          "slug": "nba-por-lal-2026-11-06",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.07,
+          "value": 2.0300000000000002,
+          "timestamp": 1794023491,
+          "slug": "nba-sas-sac-2026-11-06",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.16,
+          "value": 2.72,
+          "timestamp": 1794023448,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-18.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.5,
+          "value": 51.5,
+          "timestamp": 1794023440,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.61,
+          "value": 30.5,
+          "timestamp": 1794023371,
+          "slug": "nba-por-lal-2026-11-06",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.2,
+          "value": 2.8000000000000003,
+          "timestamp": 1794023341,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.16,
+          "value": 2.88,
+          "timestamp": 1794023163,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.11,
+          "value": 2.09,
+          "timestamp": 1794023118,
+          "slug": "nba-sas-sac-2026-11-06",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nebraska vs. Illinois",
+          "side": "BUY",
+          "outcome": "Illinois",
+          "price": 0.84,
+          "value": 663.6,
+          "timestamp": 1794023094,
+          "slug": "cfb-nebr-ill-2026-11-06",
+          "event_slug": "cfb-nebr-ill-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Timberwolves (-4.5)",
+          "side": "BUY",
+          "outcome": "Timberwolves",
+          "price": 0.5400307692,
+          "value": 175.50999999,
+          "timestamp": 1794023091,
+          "slug": "nba-min-nop-2026-11-06-spread-away-4pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.09,
+          "value": 7.207199999999999,
+          "timestamp": 1794023088,
+          "slug": "nba-sas-sac-2026-11-06",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.0039131653,
+          "value": 1.9409299888000002,
+          "timestamp": 1794023082,
+          "slug": "nba-min-nop-2026-11-06",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.003,
+          "value": 0.744,
+          "timestamp": 1794023077,
+          "slug": "nba-min-nop-2026-11-06",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.91,
+          "value": 3203.2000000000003,
+          "timestamp": 1794023071,
+          "slug": "nba-sas-sac-2026-11-06",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "Arizona",
+          "price": 0.8,
+          "value": 191.99200000000002,
+          "timestamp": 1794023052,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.9,
+          "value": 1109.286,
+          "timestamp": 1794022951,
+          "slug": "nba-sas-sac-2026-11-06",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-13.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.6276194805,
+          "value": 48.326699998500004,
+          "timestamp": 1794022951,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-13pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: O/U 236.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 21.6,
+          "timestamp": 1794022950,
+          "slug": "nba-sas-sac-2026-11-06-total-236pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: O/U 228.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.73,
+          "value": 22.63,
+          "timestamp": 1794022950,
+          "slug": "nba-sas-sac-2026-11-06-total-228pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Timberwolves (-6.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.1675742574,
+          "value": 67.6999999896,
+          "timestamp": 1794022948,
+          "slug": "nba-min-nop-2026-11-06-spread-away-6pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 219.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.41,
+          "value": 2.05,
+          "timestamp": 1794022948,
+          "slug": "nba-min-nop-2026-11-06-total-219pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-3.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.83,
+          "value": 33.1336,
+          "timestamp": 1794022873,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-3pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: O/U 234.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.59,
+          "value": 45.43,
+          "timestamp": 1794022873,
+          "slug": "nba-sas-sac-2026-11-06-total-234pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.87,
+          "value": 94.83,
+          "timestamp": 1794022873,
+          "slug": "nba-sas-sac-2026-11-06",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spurs vs. Kings",
           "side": "BUY",
@@ -4995,270 +5270,6 @@
           "slug": "nba-sas-sac-2026-11-06",
           "event_slug": "nba-sas-sac-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.097555424,
-          "value": 255.400100032,
-          "timestamp": 1794022567,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.89,
-          "value": 4.45,
-          "timestamp": 1794022542,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.59,
-          "value": 2712.23,
-          "timestamp": 1794022489,
-          "slug": "nba-por-lal-2026-11-06",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "TCU vs. Arizona",
-          "side": "BUY",
-          "outcome": "TCU",
-          "price": 0.28,
-          "value": 2.8000000000000003,
-          "timestamp": 1794022462,
-          "slug": "cfb-tcu-arz-2026-11-06",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 217.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4807668285,
-          "value": 283.25820001563,
-          "timestamp": 1794022458,
-          "slug": "nba-min-nop-2026-11-06-total-217pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-8.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.6847619048,
-          "value": 28.760000001599998,
-          "timestamp": 1794022456,
-          "slug": "nba-min-nop-2026-11-06-spread-away-8pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.05,
-          "value": 1696.0500000000002,
-          "timestamp": 1794022456,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.54,
-          "value": 329.886,
-          "timestamp": 1794022449,
-          "slug": "nba-por-lal-2026-11-06",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nebraska vs. Illinois",
-          "side": "BUY",
-          "outcome": "Illinois",
-          "price": 0.59,
-          "value": 192.34,
-          "timestamp": 1794022399,
-          "slug": "cfb-nebr-ill-2026-11-06",
-          "event_slug": "cfb-nebr-ill-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-6.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.59,
-          "value": 14.395999999999999,
-          "timestamp": 1794022351,
-          "slug": "nba-min-nop-2026-11-06-spread-away-6pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "TCU vs. Arizona",
-          "side": "BUY",
-          "outcome": "TCU",
-          "price": 0.3,
-          "value": 2.6999999999999997,
-          "timestamp": 1794022336,
-          "slug": "cfb-tcu-arz-2026-11-06",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.06,
-          "value": 0.96,
-          "timestamp": 1794022335,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-9.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.71,
-          "value": 142,
-          "timestamp": 1794022333,
-          "slug": "nba-min-nop-2026-11-06-spread-away-9pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-4.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.2833333333,
-          "value": 4.2499999995,
-          "timestamp": 1794022333,
-          "slug": "nba-min-nop-2026-11-06-spread-away-4pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.05,
-          "value": 2.5500000000000003,
-          "timestamp": 1794022323,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.11,
-          "value": 2.09,
-          "timestamp": 1794022320,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.9369951976,
-          "value": 5950.8564999576,
-          "timestamp": 1794022275,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.9,
-          "value": 9,
-          "timestamp": 1794022267,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-2.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.85,
-          "value": 17,
-          "timestamp": 1794022267,
-          "slug": "nba-min-nop-2026-11-06-spread-away-2pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-4.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.7,
-          "value": 3.5,
-          "timestamp": 1794022266,
-          "slug": "nba-min-nop-2026-11-06-spread-away-4pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-16.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.48,
-          "value": 45.12,
-          "timestamp": 1794022239,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-16pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.85,
-          "value": 15.299999999999999,
-          "timestamp": 1794022231,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.9,
-          "value": 3199.5,
-          "timestamp": 1794022230,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-5.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.41,
-          "value": 82,
-          "timestamp": 1794022216,
-          "slug": "nba-min-nop-2026-11-06-spread-away-5pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
         }
       ]
     },
@@ -5270,10 +5281,483 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1828.7236390216738,
+        "volume": 1856.5975900004746,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spurs vs. Kings: 1H O/U 125.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.46,
+          "value": 44.620000000000005,
+          "timestamp": 1794023616,
+          "slug": "nba-sas-sac-2026-11-06-1h-total-125pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Atlante FC vs. Club Santos Laguna end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.71,
+          "value": 9.23,
+          "timestamp": 1794023613,
+          "slug": "mex-atla-san-2026-11-06-draw",
+          "event_slug": "mex-atla-san-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: 1H O/U 119.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.79,
+          "value": 28.44,
+          "timestamp": 1794023506,
+          "slug": "nba-sas-sac-2026-11-06-1h-total-119pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: 1H O/U 119.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.79,
+          "value": 29.23,
+          "timestamp": 1794023506,
+          "slug": "nba-sas-sac-2026-11-06-1h-total-119pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: 1H O/U 119.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.7987764984,
+          "value": 47.919999997888205,
+          "timestamp": 1794023505,
+          "slug": "nba-sas-sac-2026-11-06-1h-total-119pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: O/U 240.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.5,
+          "value": 46.49,
+          "timestamp": 1794023500,
+          "slug": "nba-sas-sac-2026-11-06-total-240pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: O/U 254.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.21,
+          "value": 19.529999999999998,
+          "timestamp": 1794023500,
+          "slug": "nba-sas-sac-2026-11-06-total-254pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers: 1H O/U 107.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.62,
+          "value": 78.12,
+          "timestamp": 1794023493,
+          "slug": "nba-por-lal-2026-11-06-1h-total-107pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers: 1H O/U 107.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.62,
+          "value": 65.1,
+          "timestamp": 1794023493,
+          "slug": "nba-por-lal-2026-11-06-1h-total-107pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: 1H O/U 117.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.84,
+          "value": 16.8,
+          "timestamp": 1794023488,
+          "slug": "nba-sas-sac-2026-11-06-1h-total-117pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: O/U 232.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.7,
+          "value": 123.89999999999999,
+          "timestamp": 1794023481,
+          "slug": "nba-sas-sac-2026-11-06-total-232pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: O/U 252.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.23,
+          "value": 9.200000000000001,
+          "timestamp": 1794023481,
+          "slug": "nba-sas-sac-2026-11-06-total-252pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: O/U 226.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.82,
+          "value": 42.64,
+          "timestamp": 1794023479,
+          "slug": "nba-sas-sac-2026-11-06-total-226pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "1H Spread: Lakers (-1.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.08,
+          "value": 3.1,
+          "timestamp": 1794023371,
+          "slug": "nba-por-lal-2026-11-06-1h-spread-home-1pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers: 1H O/U 113.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.71,
+          "value": 30.529999999999998,
+          "timestamp": 1794023370,
+          "slug": "nba-por-lal-2026-11-06-1h-total-113pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Utah Royals FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.63,
+          "value": 15.120000000000001,
+          "timestamp": 1794023296,
+          "slug": "nwsl-wav-roy-2026-11-06-roy",
+          "event_slug": "nwsl-wav-roy-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers: 1H O/U 115.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.74,
+          "value": 59.94,
+          "timestamp": 1794023296,
+          "slug": "nba-por-lal-2026-11-06-1h-total-115pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers: 1H O/U 115.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.78,
+          "value": 78,
+          "timestamp": 1794023295,
+          "slug": "nba-por-lal-2026-11-06-1h-total-115pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Arizona (-7.5)",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.42,
+          "value": 120.96,
+          "timestamp": 1794023275,
+          "slug": "cfb-tcu-arz-2026-11-06-spread-home-7pt5",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Arizona (-7.5)",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.42,
+          "value": 120.96,
+          "timestamp": 1794023269,
+          "slug": "cfb-tcu-arz-2026-11-06-spread-home-7pt5",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Arizona (-7.5)",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.42,
+          "value": 117.6,
+          "timestamp": 1794023256,
+          "slug": "cfb-tcu-arz-2026-11-06-spread-home-7pt5",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: O/U 224.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.8321505376,
+          "value": 77.3899999968,
+          "timestamp": 1794023143,
+          "slug": "nba-sas-sac-2026-11-06-total-224pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: O/U 224.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.85,
+          "value": 79.05,
+          "timestamp": 1794023142,
+          "slug": "nba-sas-sac-2026-11-06-total-224pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: 1H O/U 119.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.82,
+          "value": 34.44,
+          "timestamp": 1794023110,
+          "slug": "nba-sas-sac-2026-11-06-1h-total-119pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will San Diego Wave FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.32,
+          "value": 8,
+          "timestamp": 1794023107,
+          "slug": "nwsl-wav-roy-2026-11-06-wav",
+          "event_slug": "nwsl-wav-roy-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: 1H O/U 119.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.83,
+          "value": 32.37,
+          "timestamp": 1794023106,
+          "slug": "nba-sas-sac-2026-11-06-1h-total-119pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Ducks (-1.5)",
+          "side": "BUY",
+          "outcome": "Flames",
+          "price": 0.01,
+          "value": 1.76,
+          "timestamp": 1794023070,
+          "slug": "nhl-ana-cal-2026-11-06-spread-away-1pt5",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Ducks vs. Flames: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.02,
+          "value": 3.81,
+          "timestamp": 1794022969,
+          "slug": "nhl-ana-cal-2026-11-06-total-7pt5",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Ducks vs. Flames: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.02,
+          "value": 1.09,
+          "timestamp": 1794022968,
+          "slug": "nhl-ana-cal-2026-11-06-total-7pt5",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 221.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.72,
+          "value": 14.399999999999999,
+          "timestamp": 1794022962,
+          "slug": "nba-min-nop-2026-11-06-total-221pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Ducks vs. Flames: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 1.8900000000000001,
+          "timestamp": 1794022960,
+          "slug": "nhl-ana-cal-2026-11-06-total-7pt5",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans: O/U 217.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.68,
+          "value": 20.400000000000002,
+          "timestamp": 1794022923,
+          "slug": "nba-min-nop-2026-11-06-total-217pt5",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-39.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.02,
+          "value": 1.86,
+          "timestamp": 1794022890,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-39pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Ducks vs. Flames: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.6,
+          "value": 0.132,
+          "timestamp": 1794022884,
+          "slug": "nhl-ana-cal-2026-11-06-total-7pt5",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Ducks vs. Flames: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.61,
+          "value": 61,
+          "timestamp": 1794022873,
+          "slug": "nhl-ana-cal-2026-11-06-total-7pt5",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Ducks vs. Flames: O/U 8.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.29,
+          "value": 25.52,
+          "timestamp": 1794022864,
+          "slug": "nhl-ana-cal-2026-11-06-total-8pt5",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Ducks vs. Flames: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.61,
+          "value": 61,
+          "timestamp": 1794022863,
+          "slug": "nhl-ana-cal-2026-11-06-total-7pt5",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Ducks (-1.5)",
+          "side": "BUY",
+          "outcome": "Ducks",
+          "price": 0.4,
+          "value": 11.98,
+          "timestamp": 1794022861,
+          "slug": "nhl-ana-cal-2026-11-06-spread-away-1pt5",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers Team Total: O/U 113.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.4244083208,
+          "value": 15.179999998531395,
+          "timestamp": 1794022825,
+          "slug": "nba-por-lal-2026-11-06-team-total-por-113pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers: 1H O/U 111.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.28,
+          "value": 11.48,
+          "timestamp": 1794022822,
+          "slug": "nba-por-lal-2026-11-06-1h-total-111pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Ducks vs. Flames",
+          "side": "SELL",
+          "outcome": "Flames",
+          "price": 0.12,
+          "value": 1.2,
+          "timestamp": 1794022821,
+          "slug": "nhl-ana-cal-2026-11-06",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Ducks vs. Flames",
+          "side": "BUY",
+          "outcome": "Flames",
+          "price": 0.12,
+          "value": 7.199999999999999,
+          "timestamp": 1794022821,
+          "slug": "nhl-ana-cal-2026-11-06",
+          "event_slug": "nhl-ana-cal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Queens (NC) Royals vs. Oklahoma State Cowboys: O/U 175.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.05,
+          "value": 6.34,
+          "timestamp": 1794022807,
+          "slug": "cbb-queen-okst-2026-11-06-total-175pt5",
+          "event_slug": "cbb-queen-okst-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Flames (-1.5)",
           "side": "BUY",
@@ -5282,7 +5766,7 @@
           "value": 56.26,
           "timestamp": 1794022798,
           "slug": "nhl-ana-cal-2026-11-06-spread-home-1pt5",
-          "event_slug": "",
+          "event_slug": "nhl-ana-cal-2026-11-06",
           "result": "ongoing"
         },
         {
@@ -5350,482 +5834,9 @@
           "slug": "nba-min-nop-2026-11-06-spread-away-13pt5",
           "event_slug": "nba-min-nop-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 209.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.04,
-          "value": 2.99,
-          "timestamp": 1794022620,
-          "slug": "nba-min-nop-2026-11-06-total-209pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-15.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.0149999999,
-          "value": 1.1000000026666665,
-          "timestamp": 1794022606,
-          "slug": "nba-min-nop-2026-11-06-spread-away-15pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Atlante FC win on 2026-11-06?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.14,
-          "value": 1.4000000000000001,
-          "timestamp": 1794022590,
-          "slug": "mex-atla-san-2026-11-06-atla",
-          "event_slug": "mex-atla-san-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Atlante FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.16,
-          "value": 1.71,
-          "timestamp": 1794022588,
-          "slug": "mex-atla-san-2026-11-06-atla",
-          "event_slug": "mex-atla-san-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Club Santos Laguna win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4099999997,
-          "value": 159.60000001321953,
-          "timestamp": 1794022587,
-          "slug": "mex-atla-san-2026-11-06-san",
-          "event_slug": "mex-atla-san-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Club Santos Laguna win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.5173292202,
-          "value": 38.740000000256444,
-          "timestamp": 1794022585,
-          "slug": "mex-atla-san-2026-11-06-san",
-          "event_slug": "mex-atla-san-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sharks vs. Wild: O/U 5.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.58,
-          "value": 15.573,
-          "timestamp": 1794022575,
-          "slug": "nhl-sj-min-2026-11-06-total-5pt5",
-          "event_slug": "nhl-sj-min-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sharks vs. Wild: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.62,
-          "value": 53.94,
-          "timestamp": 1794022567,
-          "slug": "nhl-sj-min-2026-11-06-total-5pt5",
-          "event_slug": "nhl-sj-min-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sharks vs. Wild: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.63,
-          "value": 40.4019,
-          "timestamp": 1794022566,
-          "slug": "nhl-sj-min-2026-11-06-total-5pt5",
-          "event_slug": "nhl-sj-min-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.05,
-          "value": 105.99000000000001,
-          "timestamp": 1794022462,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.05,
-          "value": 108.19000000000001,
-          "timestamp": 1794022461,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.05,
-          "value": 137.34,
-          "timestamp": 1794022461,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.05,
-          "value": 146.59,
-          "timestamp": 1794022459,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.05,
-          "value": 148.34,
-          "timestamp": 1794022459,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Pelicans (-2.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.04,
-          "value": 2.94,
-          "timestamp": 1794022459,
-          "slug": "nba-min-nop-2026-11-06-spread-home-2pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.05,
-          "value": 15.290000000000001,
-          "timestamp": 1794022459,
-          "slug": "nba-min-nop-2026-11-06",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Raptors (-15.5)",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.844999996,
-          "value": 4.229998999976336,
-          "timestamp": 1794022449,
-          "slug": "nba-tor-mil-2026-11-06-spread-away-15pt5",
-          "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Raptors vs. Bucks: O/U 227.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.01,
-          "value": 1.32,
-          "timestamp": 1794022390,
-          "slug": "nba-tor-mil-2026-11-06-total-227pt5",
-          "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Raptors vs. Bucks: O/U 231.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.01,
-          "value": 1.48,
-          "timestamp": 1794022359,
-          "slug": "nba-tor-mil-2026-11-06-total-231pt5",
-          "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Atlante FC vs. Club Santos Laguna end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.79,
-          "value": 65.57000000000001,
-          "timestamp": 1794022342,
-          "slug": "mex-atla-san-2026-11-06-draw",
-          "event_slug": "mex-atla-san-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-2.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.87,
-          "value": 79.17,
-          "timestamp": 1794022338,
-          "slug": "nba-min-nop-2026-11-06-spread-away-2pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Raptors vs. Bucks: O/U 229.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.01,
-          "value": 1.17,
-          "timestamp": 1794022327,
-          "slug": "nba-tor-mil-2026-11-06-total-229pt5",
-          "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-19.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.0299999997,
-          "value": 2.1699999982999993,
-          "timestamp": 1794022290,
-          "slug": "nba-min-nop-2026-11-06-spread-away-19pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-6.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.34,
-          "value": 31.28,
-          "timestamp": 1794022287,
-          "slug": "nba-min-nop-2026-11-06-spread-away-6pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Raptors (-9.5)",
-          "side": "BUY",
-          "outcome": "Raptors",
-          "price": 0.63,
-          "value": 17.01,
-          "timestamp": 1794022273,
-          "slug": "nba-tor-mil-2026-11-06-spread-away-9pt5",
-          "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Raptors (-9.5)",
-          "side": "BUY",
-          "outcome": "Raptors",
-          "price": 0.63,
-          "value": 12.6,
-          "timestamp": 1794022273,
-          "slug": "nba-tor-mil-2026-11-06-spread-away-9pt5",
-          "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 213.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.69,
-          "value": 103.49999999999999,
-          "timestamp": 1794022263,
-          "slug": "nba-min-nop-2026-11-06-total-213pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-11.5)",
-          "side": "SELL",
-          "outcome": "Timberwolves",
-          "price": 0.146,
-          "value": 1.022,
-          "timestamp": 1794022258,
-          "slug": "nba-min-nop-2026-11-06-spread-away-11pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-11.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.15,
-          "value": 1.05,
-          "timestamp": 1794022258,
-          "slug": "nba-min-nop-2026-11-06-spread-away-11pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers: 1H O/U 109.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.58,
-          "value": 31.319999999999997,
-          "timestamp": 1794022197,
-          "slug": "nba-por-lal-2026-11-06-1h-total-109pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Atlante FC vs. Club Santos Laguna: Atlante FC O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.56,
-          "value": 20.160000000000004,
-          "timestamp": 1794022173,
-          "slug": "mex-atla-san-2026-11-06-team-total-home-0pt5",
-          "event_slug": "mex-atla-san-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 219.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.74,
-          "value": 82.14,
-          "timestamp": 1794022165,
-          "slug": "nba-min-nop-2026-11-06-total-219pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-21.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.02,
-          "value": 1.47,
-          "timestamp": 1794022158,
-          "slug": "nba-min-nop-2026-11-06-spread-away-21pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 203.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.014,
-          "value": 0.546,
-          "timestamp": 1794022158,
-          "slug": "nba-min-nop-2026-11-06-total-203pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-15.5)",
-          "side": "SELL",
-          "outcome": "Timberwolves",
-          "price": 0.011,
-          "value": 0.43999999999999995,
-          "timestamp": 1794022156,
-          "slug": "nba-min-nop-2026-11-06-spread-away-15pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 203.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.013,
-          "value": 0.45825,
-          "timestamp": 1794022156,
-          "slug": "nba-min-nop-2026-11-06-total-203pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-15.5)",
-          "side": "SELL",
-          "outcome": "Timberwolves",
-          "price": 0.011,
-          "value": 0.3685,
-          "timestamp": 1794022156,
-          "slug": "nba-min-nop-2026-11-06-spread-away-15pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 203.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.04,
-          "value": 2.97,
-          "timestamp": 1794022155,
-          "slug": "nba-min-nop-2026-11-06-total-203pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-15.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.04,
-          "value": 2.94,
-          "timestamp": 1794022155,
-          "slug": "nba-min-nop-2026-11-06-spread-away-15pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Timberwolves vs. Pelicans: O/U 217.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.64,
-          "value": 23.68,
-          "timestamp": 1794022155,
-          "slug": "nba-min-nop-2026-11-06-total-217pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sharks vs. Wild: O/U 7.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.04,
-          "value": 0.7992,
-          "timestamp": 1794022152,
-          "slug": "nhl-sj-min-2026-11-06-total-7pt5",
-          "event_slug": "nhl-sj-min-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Raptors (-1.5)",
-          "side": "BUY",
-          "outcome": "Raptors",
-          "price": 0.95,
-          "value": 86.45,
-          "timestamp": 1794022147,
-          "slug": "nba-tor-mil-2026-11-06-spread-away-1pt5",
-          "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sharks vs. Wild: O/U 7.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.08,
-          "value": 1.5992,
-          "timestamp": 1794022143,
-          "slug": "nhl-sj-min-2026-11-06-total-7pt5",
-          "event_slug": "nhl-sj-min-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T03:41:15.478Z"
+  "lastUpdate": "2026-11-07T03:55:19.039Z"
 }
