@@ -4651,7 +4651,7 @@
       "stats48h": {
         "wins": 42,
         "losses": 3,
-        "totalTrades": 87,
+        "totalTrades": 85,
         "winRate": 0.9333333333333333,
         "volume": 126131.44043048154,
         "pnl": 0
@@ -5218,10 +5218,109 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 4802.831100009898,
+        "volume": 4977.885700016299,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: BYU (-1.5)",
+          "side": "BUY",
+          "outcome": "Utah",
+          "price": 0.89,
+          "value": 34.1137,
+          "timestamp": 1794081793,
+          "slug": "cfb-byu-utah-2026-11-07-spread-away-1pt5",
+          "event_slug": "cfb-byu-utah-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Florida State (-4.5)",
+          "side": "BUY",
+          "outcome": "Florida State",
+          "price": 0.53,
+          "value": 12.72,
+          "timestamp": 1794081724,
+          "slug": "cfb-flst-boscol-2026-11-07-spread-away-4pt5",
+          "event_slug": "cfb-flst-boscol-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Florida State (-2.5)",
+          "side": "BUY",
+          "outcome": "Florida State",
+          "price": 0.7887055556,
+          "value": 42.5901000024,
+          "timestamp": 1794081724,
+          "slug": "cfb-flst-boscol-2026-11-07-spread-away-2pt5",
+          "event_slug": "cfb-flst-boscol-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas (-4.5)",
+          "side": "BUY",
+          "outcome": "Missouri",
+          "price": 0.75,
+          "value": 17.25,
+          "timestamp": 1794081657,
+          "slug": "cfb-tx-missr-2026-11-07-spread-away-4pt5",
+          "event_slug": "cfb-tx-missr-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas vs. Missouri",
+          "side": "BUY",
+          "outcome": "Missouri",
+          "price": 0.41,
+          "value": 20.5,
+          "timestamp": 1794081580,
+          "slug": "cfb-tx-missr-2026-11-07",
+          "event_slug": "cfb-tx-missr-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UCLA vs. Minnesota",
+          "side": "BUY",
+          "outcome": "Minnesota",
+          "price": 0.43,
+          "value": 2.15,
+          "timestamp": 1794081561,
+          "slug": "cfb-ucla-minnst-2026-11-07",
+          "event_slug": "cfb-ucla-minnst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas vs. Missouri",
+          "side": "BUY",
+          "outcome": "Texas",
+          "price": 0.57,
+          "value": 82.08,
+          "timestamp": 1794081409,
+          "slug": "cfb-tx-missr-2026-11-07",
+          "event_slug": "cfb-tx-missr-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UCLA vs. Minnesota",
+          "side": "BUY",
+          "outcome": "Minnesota",
+          "price": 0.43,
+          "value": 2.15,
+          "timestamp": 1794081370,
+          "slug": "cfb-ucla-minnst-2026-11-07",
+          "event_slug": "cfb-ucla-minnst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: UCLA (-6.5)",
+          "side": "BUY",
+          "outcome": "Minnesota",
+          "price": 0.7563636364,
+          "value": 83.200000004,
+          "timestamp": 1794081312,
+          "slug": "cfb-ucla-minnst-2026-11-07-spread-away-6pt5",
+          "event_slug": "cfb-ucla-minnst-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "UCLA vs. Minnesota",
           "side": "BUY",
@@ -5672,105 +5771,6 @@
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Florida State vs. Boston College",
-          "side": "BUY",
-          "outcome": "Boston College",
-          "price": 0.27,
-          "value": 1.35,
-          "timestamp": 1794078052,
-          "slug": "cfb-flst-boscol-2026-11-07",
-          "event_slug": "cfb-flst-boscol-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Baylor (-10.5)",
-          "side": "BUY",
-          "outcome": "Iowa State",
-          "price": 0.58,
-          "value": 39.44,
-          "timestamp": 1794078040,
-          "slug": "cfb-iowast-bayl-2026-11-07-spread-home-10pt5",
-          "event_slug": "cfb-iowast-bayl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Baylor (-10.5)",
-          "side": "BUY",
-          "outcome": "Iowa State",
-          "price": 0.58,
-          "value": 39.44,
-          "timestamp": 1794078010,
-          "slug": "cfb-iowast-bayl-2026-11-07-spread-home-10pt5",
-          "event_slug": "cfb-iowast-bayl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Florida State vs. Boston College",
-          "side": "BUY",
-          "outcome": "Boston College",
-          "price": 0.26,
-          "value": 1.3,
-          "timestamp": 1794077976,
-          "slug": "cfb-flst-boscol-2026-11-07",
-          "event_slug": "cfb-flst-boscol-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Clemson vs. Syracuse",
-          "side": "BUY",
-          "outcome": "Clemson",
-          "price": 0.56,
-          "value": 16.3408,
-          "timestamp": 1794077844,
-          "slug": "cfb-clmsn-syra-2026-11-07",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Maryland vs. Purdue",
-          "side": "BUY",
-          "outcome": "Maryland",
-          "price": 0.21,
-          "value": 4.6284,
-          "timestamp": 1794077430,
-          "slug": "cfb-mary-pur-2026-11-07",
-          "event_slug": "cfb-mary-pur-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Maryland vs. Purdue",
-          "side": "BUY",
-          "outcome": "Maryland",
-          "price": 0.2,
-          "value": 1,
-          "timestamp": 1794077394,
-          "slug": "cfb-mary-pur-2026-11-07",
-          "event_slug": "cfb-mary-pur-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UCLA vs. Minnesota",
-          "side": "BUY",
-          "outcome": "Minnesota",
-          "price": 0.44,
-          "value": 2.2,
-          "timestamp": 1794077223,
-          "slug": "cfb-ucla-minnst-2026-11-07",
-          "event_slug": "cfb-ucla-minnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Oklahoma State (-7.5)",
-          "side": "BUY",
-          "outcome": "Oklahoma State",
-          "price": 0.8,
-          "value": 16,
-          "timestamp": 1794077185,
-          "slug": "cfb-okst-kanst-2026-11-07-spread-away-7pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -5783,10 +5783,318 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2513.2293790163594,
+        "volume": 2393.6242340210947,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will George Russell get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.6599999996,
+          "value": 152.03000000786062,
+          "timestamp": 1794081736,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-russell-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "CD La Serena vs. CD Palestino: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.849999995,
+          "value": 8.569999999588235,
+          "timestamp": 1794081703,
+          "slug": "chi1-cls-cdp-2026-11-07-total-1pt5",
+          "event_slug": "chi1-cls-cdp-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "North Carolina Central vs. Norfolk State",
+          "side": "BUY",
+          "outcome": "North Carolina Central",
+          "price": 0.099,
+          "value": 0.23958000000000002,
+          "timestamp": 1794081681,
+          "slug": "cfb-ncc-norfst-2026-11-07",
+          "event_slug": "cfb-ncc-norfst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Forge FC Hamilton win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.02,
+          "value": 1.4613999999999998,
+          "timestamp": 1794081669,
+          "slug": "canpl-for-ott-2026-11-07-for",
+          "event_slug": "canpl-for-ott-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lommel SK win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.66,
+          "value": 29.040000000000003,
+          "timestamp": 1794081667,
+          "slug": "bel1-rafc-lom-2026-11-07-lom",
+          "event_slug": "bel1-rafc-lom-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lommel SK win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.6599999837,
+          "value": 3.229999000228811,
+          "timestamp": 1794081666,
+          "slug": "bel1-rafc-lom-2026-11-07-lom",
+          "event_slug": "bel1-rafc-lom-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CD La Serena win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.65,
+          "value": 9.997000000000002,
+          "timestamp": 1794081661,
+          "slug": "chi1-cls-cdp-2026-11-07-cls",
+          "event_slug": "chi1-cls-cdp-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CD La Serena win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.69,
+          "value": 34.5,
+          "timestamp": 1794081654,
+          "slug": "chi1-cls-cdp-2026-11-07-cls",
+          "event_slug": "chi1-cls-cdp-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "CD La Serena vs. CD Palestino: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.71,
+          "value": 2.8968,
+          "timestamp": 1794081640,
+          "slug": "chi1-cls-cdp-2026-11-07-total-1pt5",
+          "event_slug": "chi1-cls-cdp-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "UCLA vs. Minnesota",
+          "side": "BUY",
+          "outcome": "UCLA",
+          "price": 0.6499999854,
+          "value": 6.699998999507712,
+          "timestamp": 1794081610,
+          "slug": "cfb-ucla-minnst-2026-11-07",
+          "event_slug": "cfb-ucla-minnst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CD La Serena win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.01,
+          "value": 1.24,
+          "timestamp": 1794081558,
+          "slug": "chi1-cls-cdp-2026-11-07-cls",
+          "event_slug": "chi1-cls-cdp-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.19,
+          "value": 44.46,
+          "timestamp": 1794081507,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.19,
+          "value": 5.13,
+          "timestamp": 1794081507,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.1957063117,
+          "value": 22.789999997465,
+          "timestamp": 1794081496,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lewis Hamilton get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.914,
+          "value": 224.83486000000002,
+          "timestamp": 1794081483,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-hamilton-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Charles Leclerc get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.161,
+          "value": 4.83,
+          "timestamp": 1794081445,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-leclerc-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Charles Leclerc get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.161,
+          "value": 3.22,
+          "timestamp": 1794081444,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-leclerc-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Charles Leclerc get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.161,
+          "value": 3.22,
+          "timestamp": 1794081418,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-leclerc-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Charles Leclerc get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.161,
+          "value": 3.22,
+          "timestamp": 1794081405,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-leclerc-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Alverca vs. Casa Pia AC end in a draw?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.95,
+          "value": 34.570499999999996,
+          "timestamp": 1794081405,
+          "slug": "por-alv-cas-2026-11-07-draw",
+          "event_slug": "por-alv-cas-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.02,
+          "value": 0.8928,
+          "timestamp": 1794081367,
+          "slug": "arg-gye-riv1-2026-11-07-total-2pt5",
+          "event_slug": "arg-gye-riv1-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.02,
+          "value": 3.23,
+          "timestamp": 1794081366,
+          "slug": "arg-gye-riv1-2026-11-07-total-2pt5",
+          "event_slug": "arg-gye-riv1-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Pogon Szczecin win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.86,
+          "value": 69.66,
+          "timestamp": 1794081358,
+          "slug": "pol-wlo-psz-2026-11-07-psz",
+          "event_slug": "pol-wlo-psz-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CA Gimnasia y Esgrima de Mendoza win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.92,
+          "value": 35.8708,
+          "timestamp": 1794081352,
+          "slug": "arg-gye-riv1-2026-11-07-gye",
+          "event_slug": "arg-gye-riv1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CA Gimnasia y Esgrima de Mendoza win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.96,
+          "value": 56.879999999999995,
+          "timestamp": 1794081351,
+          "slug": "arg-gye-riv1-2026-11-07-gye",
+          "event_slug": "arg-gye-riv1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.05,
+          "value": 10.440000000000001,
+          "timestamp": 1794081342,
+          "slug": "arg-gye-riv1-2026-11-07-total-1pt5",
+          "event_slug": "arg-gye-riv1-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.05,
+          "value": 1.04,
+          "timestamp": 1794081339,
+          "slug": "arg-gye-riv1-2026-11-07-total-1pt5",
+          "event_slug": "arg-gye-riv1-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lewis Hamilton get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.909,
+          "value": 9.129996,
+          "timestamp": 1794081321,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-hamilton-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Will CD La Serena win on 2026-11-07?",
           "side": "BUY",
@@ -6027,314 +6335,6 @@
           "timestamp": 1794080959,
           "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
           "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.35,
-          "value": 37.099999999999994,
-          "timestamp": 1794080937,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia end in a dr",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.13,
-          "value": 0.78,
-          "timestamp": 1794080727,
-          "slug": "arg-gye-riv1-2026-11-07-draw",
-          "event_slug": "arg-gye-riv1-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Penn State Nittany Lions vs. Cincinnati Bearcats (W)",
-          "side": "BUY",
-          "outcome": "Penn State Nittany Lions",
-          "price": 0.04,
-          "value": 1.1500000000000001,
-          "timestamp": 1794080712,
-          "slug": "cwbb-pennst-cin-2026-11-07",
-          "event_slug": "cwbb-pennst-cin-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Oscar Piastri get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.04,
-          "value": 15.36,
-          "timestamp": 1794080484,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-piastri-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Panthers vs. Capitals: O/U 9.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.15,
-          "value": 0.12299999999999998,
-          "timestamp": 1794080458,
-          "slug": "nhl-fla-wsh-2026-11-07-total-9pt5",
-          "event_slug": "nhl-fla-wsh-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Panthers vs. Capitals: O/U 9.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.17,
-          "value": 5.1000000000000005,
-          "timestamp": 1794080457,
-          "slug": "nhl-fla-wsh-2026-11-07-total-9pt5",
-          "event_slug": "nhl-fla-wsh-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Nico Hulkenberg get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.98,
-          "value": 70.919954,
-          "timestamp": 1794080434,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-hulkenberg-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Nico Hulkenberg get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9669999994,
-          "value": 29.219984998869712,
-          "timestamp": 1794080427,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-hulkenberg-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Nico Hulkenberg get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.98,
-          "value": 173.359991,
-          "timestamp": 1794080385,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-hulkenberg-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Lamar Cardinals vs. Abilene Christian Wildcats",
-          "side": "BUY",
-          "outcome": "Abilene Christian Wildcats",
-          "price": 0.58,
-          "value": 27.839999999999996,
-          "timestamp": 1794080374,
-          "slug": "cbb-lamar-abchr-2026-11-07",
-          "event_slug": "cbb-lamar-abchr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Lamar Cardinals vs. Abilene Christian Wildcats",
-          "side": "BUY",
-          "outcome": "Abilene Christian Wildcats",
-          "price": 0.58,
-          "value": 28.419999999999998,
-          "timestamp": 1794080373,
-          "slug": "cbb-lamar-abchr-2026-11-07",
-          "event_slug": "cbb-lamar-abchr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will George Russell get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.877,
-          "value": 74.545,
-          "timestamp": 1794080320,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-russell-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will George Russell get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.877,
-          "value": 70.16,
-          "timestamp": 1794080319,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-russell-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will George Russell get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.877,
-          "value": 15.619369999999998,
-          "timestamp": 1794080317,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-russell-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will George Russell get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8769999997,
-          "value": 8.92999899994527,
-          "timestamp": 1794080316,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-russell-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will George Russell get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.889,
-          "value": 62.230000000000004,
-          "timestamp": 1794080299,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-russell-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.3,
-          "value": 4.361999999999999,
-          "timestamp": 1794080229,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Aberdeen FC vs. Hibernian FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.0083392063,
-          "value": 0.468580001997,
-          "timestamp": 1794080179,
-          "slug": "scop-abe-hib-2026-11-07-total-3pt5",
-          "event_slug": "scop-abe-hib-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Panthers vs. Capitals",
-          "side": "BUY",
-          "outcome": "Capitals",
-          "price": 0.75,
-          "value": 37.5,
-          "timestamp": 1794080178,
-          "slug": "nhl-fla-wsh-2026-11-07",
-          "event_slug": "nhl-fla-wsh-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CDT Real Oruro win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.389999998,
-          "value": 13.580000000358973,
-          "timestamp": 1794080121,
-          "slug": "bol1-gvs-oru-2026-11-07-oru",
-          "event_slug": "bol1-gvs-oru-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Forge FC Hamilton vs. Atletico Ottawa end in a draw?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.35,
-          "value": 5.061,
-          "timestamp": 1794080116,
-          "slug": "canpl-for-ott-2026-11-07-draw",
-          "event_slug": "canpl-for-ott-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Forge FC Hamilton vs. Atletico Ottawa end in a draw?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.3,
-          "value": 7.8,
-          "timestamp": 1794080109,
-          "slug": "canpl-for-ott-2026-11-07-draw",
-          "event_slug": "canpl-for-ott-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Forge FC Hamilton vs. Atletico Ottawa end in a draw?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.289294304,
-          "value": 7.829999998744352,
-          "timestamp": 1794080109,
-          "slug": "canpl-for-ott-2026-11-07-draw",
-          "event_slug": "canpl-for-ott-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Aberdeen FC vs. Hibernian FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.08,
-          "value": 4.3500000000000005,
-          "timestamp": 1794080083,
-          "slug": "scop-abe-hib-2026-11-07-total-3pt5",
-          "event_slug": "scop-abe-hib-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Forge FC Hamilton vs. Atletico Ottawa: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.73,
-          "value": 73,
-          "timestamp": 1794080080,
-          "slug": "canpl-for-ott-2026-11-07-total-2pt5",
-          "event_slug": "canpl-for-ott-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Purdue (-17.5)",
-          "side": "BUY",
-          "outcome": "Maryland",
-          "price": 0.98,
-          "value": 58.8,
-          "timestamp": 1794080017,
-          "slug": "cfb-mary-pur-2026-11-07-spread-home-17pt5",
-          "event_slug": "cfb-mary-pur-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU Team Total: O/U 23.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.7,
-          "value": 52.5,
-          "timestamp": 1794080011,
-          "slug": "cfb-byu-utah-2026-11-07-team-total-byu-23pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "England Lions Tour of West Indies Unofficial ODIs: West Indies A vs England Lion",
-          "side": "BUY",
-          "outcome": "England Lions",
-          "price": 0.58,
-          "value": 16.82,
-          "timestamp": 1794080010,
-          "slug": "crint-wsta-gbra-2026-11-07",
-          "event_slug": "crint-wsta-gbra-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -8546,5 +8546,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T19:57:45.616Z"
+  "lastUpdate": "2026-11-07T20:08:45.642Z"
 }
