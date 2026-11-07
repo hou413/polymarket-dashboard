@@ -34,13 +34,24 @@
       "specialty": "NBA+NFL",
       "stats48h": {
         "wins": 24,
-        "losses": 25,
+        "losses": 24,
         "totalTrades": 500,
-        "winRate": 0.4897959183673469,
-        "volume": 13360.013899996498,
+        "winRate": 0.5,
+        "volume": 13309.333899996498,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Nuggets (-18.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.72,
+          "value": 144,
+          "timestamp": 1794091153,
+          "slug": "nba-den-ind-2026-11-07-spread-away-18pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Nuggets (-8.5)",
           "side": "BUY",
@@ -577,17 +588,6 @@
           "value": 5.6000000000000005,
           "timestamp": 1794026965,
           "slug": "nba-por-lal-2026-11-06-spread-away-6pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Lakers (-4.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.62,
-          "value": 194.68,
-          "timestamp": 1794026680,
-          "slug": "nba-por-lal-2026-11-06-spread-home-4pt5",
           "event_slug": "nba-por-lal-2026-11-06",
           "result": "loss"
         }
@@ -1305,7 +1305,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 0,
-        "totalTrades": 84,
+        "totalTrades": 83,
         "winRate": 1,
         "volume": 15733.628199021141,
         "pnl": 0
@@ -3816,14 +3816,36 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 37,
+        "wins": 35,
         "losses": 5,
-        "totalTrades": 60,
-        "winRate": 0.8809523809523809,
-        "volume": 438080.6406160513,
+        "totalTrades": 62,
+        "winRate": 0.875,
+        "volume": 469938.0439260513,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "UFC Fight Night: Andre Petroski vs. Mantas Kondratavicius (Middleweight, Main Ca",
+          "side": "BUY",
+          "outcome": "Mantas Kondratavicius",
+          "price": 0.76,
+          "value": 17439.2564,
+          "timestamp": 1794091465,
+          "slug": "ufc-and10-man18-2026-11-07",
+          "event_slug": "ufc-and10-man18-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
+          "side": "SELL",
+          "outcome": "Seokhyeon Ko",
+          "price": 0.999,
+          "value": 17668.60371,
+          "timestamp": 1794091407,
+          "slug": "ufc-wel-seo1-2026-11-07",
+          "event_slug": "ufc-wel-seo1-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
           "side": "BUY",
@@ -4351,28 +4373,6 @@
           "slug": "atp-fils-fritz-2026-11-05",
           "event_slug": "atp-fils-fritz-2026-11-05",
           "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
-          "side": "BUY",
-          "outcome": "Taylor Fritz",
-          "price": 0.75,
-          "value": 2540.3999999999996,
-          "timestamp": 1793904235,
-          "slug": "atp-fils-fritz-2026-11-05",
-          "event_slug": "atp-fils-fritz-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
-          "side": "BUY",
-          "outcome": "Taylor Fritz",
-          "price": 0.71,
-          "value": 710.0568,
-          "timestamp": 1793904132,
-          "slug": "atp-fils-fritz-2026-11-05",
-          "event_slug": "atp-fils-fritz-2026-11-05",
-          "result": "win"
         }
       ]
     },
@@ -4383,12 +4383,45 @@
       "stats48h": {
         "wins": 11,
         "losses": 7,
-        "totalTrades": 31,
+        "totalTrades": 34,
         "winRate": 0.6111111111111112,
-        "volume": 49663.36459978554,
+        "volume": 50756.55759975734,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Philadelphia Union (-2.5)",
+          "side": "BUY",
+          "outcome": "Toronto FC",
+          "price": 0.566708942,
+          "value": 353.00299997179997,
+          "timestamp": 1794091474,
+          "slug": "mls-phi-tor-2026-11-07-spread-home-2pt5",
+          "event_slug": "mls-phi-tor-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Philadelphia Union (-2.5)",
+          "side": "BUY",
+          "outcome": "Toronto FC",
+          "price": 0.558,
+          "value": 125.55000000000001,
+          "timestamp": 1794091438,
+          "slug": "mls-phi-tor-2026-11-07-spread-home-2pt5",
+          "event_slug": "mls-phi-tor-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Philadelphia Union (-2.5)",
+          "side": "BUY",
+          "outcome": "Toronto FC",
+          "price": 0.52,
+          "value": 614.64,
+          "timestamp": 1794091242,
+          "slug": "mls-phi-tor-2026-11-07-spread-home-2pt5",
+          "event_slug": "mls-phi-tor-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Inter Miami CF vs. Charlotte FC: O/U 6.5",
           "side": "BUY",
@@ -5302,14 +5335,91 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "totalTrades": 500,
-        "winRate": 0,
-        "volume": 22037.100200057394,
+        "winRate": 1,
+        "volume": 21966.923300060018,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Nuggets (-11.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.5,
+          "value": 50,
+          "timestamp": 1794091564,
+          "slug": "nba-den-ind-2026-11-07-spread-away-11pt5",
+          "event_slug": "",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-9.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.44,
+          "value": 4.4,
+          "timestamp": 1794091564,
+          "slug": "nba-den-ind-2026-11-07-spread-away-9pt5",
+          "event_slug": "",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-10.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.47,
+          "value": 4.699999999999999,
+          "timestamp": 1794091564,
+          "slug": "nba-den-ind-2026-11-07-spread-away-10pt5",
+          "event_slug": "",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "BUY",
+          "outcome": "Texas A&M",
+          "price": 0.46,
+          "value": 4.6000000000000005,
+          "timestamp": 1794091144,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.6,
+          "value": 134.994,
+          "timestamp": 1794091051,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.48,
+          "value": 14.7408,
+          "timestamp": 1794090870,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
+          "side": "BUY",
+          "outcome": "Seokhyeon Ko",
+          "price": 0.9418586047,
+          "value": 50.624900002625004,
+          "timestamp": 1794090843,
+          "slug": "ufc-wel-seo1-2026-11-07",
+          "event_slug": "ufc-wel-seo1-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Nuggets (-7.5)",
           "side": "BUY",
@@ -5660,7 +5770,7 @@
           "timestamp": 1794089227,
           "slug": "ufc-jon5-jos27-2026-11-07",
           "event_slug": "ufc-jon5-jos27-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -5782,83 +5892,6 @@
           "slug": "cfb-ore-ohiost-2026-11-07",
           "event_slug": "cfb-ore-ohiost-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Cincinnati vs. Houston",
-          "side": "BUY",
-          "outcome": "Cincinnati",
-          "price": 0.19,
-          "value": 2.47,
-          "timestamp": 1794087991,
-          "slug": "cfb-cin-hou-2026-11-07",
-          "event_slug": "cfb-cin-hou-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Alabama vs. LSU",
-          "side": "BUY",
-          "outcome": "LSU",
-          "price": 0.56,
-          "value": 164.24800000000002,
-          "timestamp": 1794087798,
-          "slug": "cfb-ala-lsu-2026-11-07",
-          "event_slug": "cfb-ala-lsu-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cincinnati vs. Houston",
-          "side": "BUY",
-          "outcome": "Cincinnati",
-          "price": 0.21,
-          "value": 1.05,
-          "timestamp": 1794087723,
-          "slug": "cfb-cin-hou-2026-11-07",
-          "event_slug": "cfb-cin-hou-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Pacers (-5.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.16,
-          "value": 14.56,
-          "timestamp": 1794087486,
-          "slug": "nba-den-ind-2026-11-07-spread-home-5pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oregon vs. Ohio State",
-          "side": "BUY",
-          "outcome": "Oregon",
-          "price": 0.11,
-          "value": 127.4889,
-          "timestamp": 1794087475,
-          "slug": "cfb-ore-ohiost-2026-11-07",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pacers Team Total: O/U 111.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.48,
-          "value": 4.8,
-          "timestamp": 1794086911,
-          "slug": "nba-den-ind-2026-11-07-team-total-ind-111pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pacers Team Total: O/U 110.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.51,
-          "value": 19.619699999999998,
-          "timestamp": 1794086899,
-          "slug": "nba-den-ind-2026-11-07-team-total-ind-110pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -5871,10 +5904,384 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 5283.986819000867,
+        "volume": 2086.692239995455,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "D.C. United SC vs. New York City FC: New York City FC O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.7,
+          "value": 79.8,
+          "timestamp": 1794091575,
+          "slug": "mls-dcu-nyc-2026-11-07-team-total-away-0pt5",
+          "event_slug": "mls-dcu-nyc-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: 1H O/U 105.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.36,
+          "value": 3.5999999999999996,
+          "timestamp": 1794091566,
+          "slug": "nba-den-ind-2026-11-07-1h-total-105pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Cavalry FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.44,
+          "value": 16.28,
+          "timestamp": 1794091489,
+          "slug": "canpl-cav-sup-2026-11-07-cav",
+          "event_slug": "canpl-cav-sup-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Cavalry FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.44,
+          "value": 11.44,
+          "timestamp": 1794091461,
+          "slug": "canpl-cav-sup-2026-11-07-cav",
+          "event_slug": "canpl-cav-sup-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Cavalry FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.44,
+          "value": 11.88,
+          "timestamp": 1794091431,
+          "slug": "canpl-cav-sup-2026-11-07-cav",
+          "event_slug": "canpl-cav-sup-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 208.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.29,
+          "value": 20.59,
+          "timestamp": 1794091429,
+          "slug": "nba-den-ind-2026-11-07-total-208pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Cavalry FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.42,
+          "value": 7.173599999999999,
+          "timestamp": 1794091420,
+          "slug": "canpl-cav-sup-2026-11-07-cav",
+          "event_slug": "canpl-cav-sup-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 226.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.74,
+          "value": 22.2,
+          "timestamp": 1794091417,
+          "slug": "nba-den-ind-2026-11-07-total-226pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 212.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.38,
+          "value": 20.9,
+          "timestamp": 1794091417,
+          "slug": "nba-den-ind-2026-11-07-total-212pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 208.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.29,
+          "value": 7.539999999999999,
+          "timestamp": 1794091414,
+          "slug": "nba-den-ind-2026-11-07-total-208pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Cavalry FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.44,
+          "value": 11.44,
+          "timestamp": 1794091245,
+          "slug": "canpl-cav-sup-2026-11-07-cav",
+          "event_slug": "canpl-cav-sup-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chicago Fire FC win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.38,
+          "value": 538.84,
+          "timestamp": 1794091189,
+          "slug": "mls-chi-clb-2026-11-07-chi",
+          "event_slug": "mls-chi-clb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chicago Fire FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.38,
+          "value": 557.84,
+          "timestamp": 1794091186,
+          "slug": "mls-chi-clb-2026-11-07-chi",
+          "event_slug": "mls-chi-clb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chicago Fire FC vs. Columbus Crew: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.69,
+          "value": 17.939999999999998,
+          "timestamp": 1794091185,
+          "slug": "mls-chi-clb-2026-11-07-total-6pt5",
+          "event_slug": "mls-chi-clb-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Cincinnati win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 1.0695,
+          "timestamp": 1794091089,
+          "slug": "mls-fcc-nas-2026-11-07-fcc",
+          "event_slug": "mls-fcc-nas-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chicago Fire FC vs. Columbus Crew: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.71,
+          "value": 7.81,
+          "timestamp": 1794091060,
+          "slug": "mls-chi-clb-2026-11-07-total-6pt5",
+          "event_slug": "mls-chi-clb-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chicago Fire FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.4,
+          "value": 20.380000000000003,
+          "timestamp": 1794091057,
+          "slug": "mls-chi-clb-2026-11-07-chi",
+          "event_slug": "mls-chi-clb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Columbus Crew win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.11,
+          "value": 1.4244999999999999,
+          "timestamp": 1794091020,
+          "slug": "mls-chi-clb-2026-11-07-clb",
+          "event_slug": "mls-chi-clb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Columbus Crew win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.1096552723,
+          "value": 7.570599999592,
+          "timestamp": 1794091018,
+          "slug": "mls-chi-clb-2026-11-07-clb",
+          "event_slug": "mls-chi-clb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Columbus Crew win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.09,
+          "value": 9,
+          "timestamp": 1794091017,
+          "slug": "mls-chi-clb-2026-11-07-clb",
+          "event_slug": "mls-chi-clb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Columbus Crew win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.09,
+          "value": 21.06,
+          "timestamp": 1794091015,
+          "slug": "mls-chi-clb-2026-11-07-clb",
+          "event_slug": "mls-chi-clb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chicago Fire FC vs. Columbus Crew: O/U 5.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.82,
+          "value": 0.82,
+          "timestamp": 1794090948,
+          "slug": "mls-chi-clb-2026-11-07-total-5pt5",
+          "event_slug": "mls-chi-clb-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Columbus Crew win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.1299999997,
+          "value": 9.989999996946155,
+          "timestamp": 1794090943,
+          "slug": "mls-chi-clb-2026-11-07-clb",
+          "event_slug": "mls-chi-clb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chicago Fire FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4,
+          "value": 11.38,
+          "timestamp": 1794090943,
+          "slug": "mls-chi-clb-2026-11-07-chi",
+          "event_slug": "mls-chi-clb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Columbus Crew win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.08,
+          "value": 15.58,
+          "timestamp": 1794090942,
+          "slug": "mls-chi-clb-2026-11-07-clb",
+          "event_slug": "mls-chi-clb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chicago Fire FC vs. Columbus Crew: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.8,
+          "value": 20.25,
+          "timestamp": 1794090940,
+          "slug": "mls-chi-clb-2026-11-07-total-5pt5",
+          "event_slug": "mls-chi-clb-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
+          "side": "BUY",
+          "outcome": "Seokhyeon Ko",
+          "price": 0.97,
+          "value": 0.5238,
+          "timestamp": 1794090907,
+          "slug": "ufc-wel-seo1-2026-11-07",
+          "event_slug": "ufc-wel-seo1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Fight to Go the Distance?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.22,
+          "value": 0.022000000000000002,
+          "timestamp": 1794090888,
+          "slug": "ufc-wel-seo1-2026-11-07-go-the-distance",
+          "event_slug": "ufc-wel-seo1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Charlotte FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.033,
+          "value": 22.77,
+          "timestamp": 1794090883,
+          "slug": "mls-mia-clt-2026-11-07-clt",
+          "event_slug": "mls-mia-clt-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
+          "side": "BUY",
+          "outcome": "Wellington Turman",
+          "price": 0.04,
+          "value": 1.9264,
+          "timestamp": 1794090859,
+          "slug": "ufc-wel-seo1-2026-11-07",
+          "event_slug": "ufc-wel-seo1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
+          "side": "BUY",
+          "outcome": "Wellington Turman",
+          "price": 0.08,
+          "value": 3.18,
+          "timestamp": 1794090835,
+          "slug": "ufc-wel-seo1-2026-11-07",
+          "event_slug": "ufc-wel-seo1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Inter Miami CF vs. Charlotte FC: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.17,
+          "value": 34.68,
+          "timestamp": 1794090828,
+          "slug": "mls-mia-clt-2026-11-07-total-7pt5",
+          "event_slug": "mls-mia-clt-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Louisiana Tech Team Total: O/U 20.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.05,
+          "value": 3.0600000000000005,
+          "timestamp": 1794090777,
+          "slug": "cfb-loutch-troy-2026-11-07-team-total-loutch-20pt5",
+          "event_slug": "cfb-loutch-troy-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chicago Fire FC vs. Columbus Crew: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.74,
+          "value": 0.0074,
+          "timestamp": 1794090750,
+          "slug": "mls-chi-clb-2026-11-07-total-7pt5",
+          "event_slug": "mls-chi-clb-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Philadelphia Union vs. Toronto FC: O/U 3.5",
           "side": "BUY",
@@ -6049,380 +6456,6 @@
           "timestamp": 1794090580,
           "slug": "arg-boc-def-2026-11-07-boc",
           "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
-          "side": "BUY",
-          "outcome": "Seokhyeon Ko",
-          "price": 0.88,
-          "value": 15.84,
-          "timestamp": 1794090579,
-          "slug": "ufc-wel-seo1-2026-11-07",
-          "event_slug": "ufc-wel-seo1-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
-          "side": "BUY",
-          "outcome": "Seokhyeon Ko",
-          "price": 0.88,
-          "value": 18.48,
-          "timestamp": 1794090571,
-          "slug": "ufc-wel-seo1-2026-11-07",
-          "event_slug": "ufc-wel-seo1-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Boca Juniors win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8699999999,
-          "value": 88.6999999998046,
-          "timestamp": 1794090571,
-          "slug": "arg-boc-def-2026-11-07-boc",
-          "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Boca Juniors vs. CSyD Defensa y Justicia: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.88,
-          "value": 60.519997999999994,
-          "timestamp": 1794090562,
-          "slug": "arg-boc-def-2026-11-07-total-0pt5",
-          "event_slug": "arg-boc-def-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Boca Juniors win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.9099999997,
-          "value": 63.769998998976924,
-          "timestamp": 1794090559,
-          "slug": "arg-boc-def-2026-11-07-boc",
-          "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
-          "side": "BUY",
-          "outcome": "Seokhyeon Ko",
-          "price": 0.89,
-          "value": 106.8,
-          "timestamp": 1794090558,
-          "slug": "ufc-wel-seo1-2026-11-07",
-          "event_slug": "ufc-wel-seo1-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Boca Juniors win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8713002285,
-          "value": 395.1199939984055,
-          "timestamp": 1794090552,
-          "slug": "arg-boc-def-2026-11-07-boc",
-          "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
-          "side": "BUY",
-          "outcome": "UT Martin Skyhawks",
-          "price": 0.56,
-          "value": 552.72,
-          "timestamp": 1794090546,
-          "slug": "cbb-tmrt-iupui-2026-11-07",
-          "event_slug": "cbb-tmrt-iupui-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
-          "side": "BUY",
-          "outcome": "UT Martin Skyhawks",
-          "price": 0.56,
-          "value": 15.680000000000001,
-          "timestamp": 1794090544,
-          "slug": "cbb-tmrt-iupui-2026-11-07",
-          "event_slug": "cbb-tmrt-iupui-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Boca Juniors win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.919999998,
-          "value": 18.559998999652176,
-          "timestamp": 1794090541,
-          "slug": "arg-boc-def-2026-11-07-boc",
-          "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Boca Juniors win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.91,
-          "value": 40.904500000000006,
-          "timestamp": 1794090537,
-          "slug": "arg-boc-def-2026-11-07-boc",
-          "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Boca Juniors win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.9199999996,
-          "value": 81.8399910044174,
-          "timestamp": 1794090528,
-          "slug": "arg-boc-def-2026-11-07-boc",
-          "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Fight to Go the Distance?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.49,
-          "value": 3.0282,
-          "timestamp": 1794090526,
-          "slug": "ufc-wel-seo1-2026-11-07-go-the-distance",
-          "event_slug": "ufc-wel-seo1-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Boca Juniors win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.9498309706,
-          "value": 17.419900000804,
-          "timestamp": 1794090496,
-          "slug": "arg-boc-def-2026-11-07-boc",
-          "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Boca Juniors win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.86,
-          "value": 416.24,
-          "timestamp": 1794090453,
-          "slug": "arg-boc-def-2026-11-07-boc",
-          "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Boca Juniors win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8699999989,
-          "value": 63.35999799988966,
-          "timestamp": 1794090447,
-          "slug": "arg-boc-def-2026-11-07-boc",
-          "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Boca Juniors win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.93,
-          "value": 2.5854,
-          "timestamp": 1794090411,
-          "slug": "arg-boc-def-2026-11-07-boc",
-          "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
-          "side": "BUY",
-          "outcome": "UT Martin Skyhawks",
-          "price": 0.54,
-          "value": 205.20000000000002,
-          "timestamp": 1794090343,
-          "slug": "cbb-tmrt-iupui-2026-11-07",
-          "event_slug": "cbb-tmrt-iupui-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
-          "side": "BUY",
-          "outcome": "UT Martin Skyhawks",
-          "price": 0.54,
-          "value": 334.8,
-          "timestamp": 1794090336,
-          "slug": "cbb-tmrt-iupui-2026-11-07",
-          "event_slug": "cbb-tmrt-iupui-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
-          "side": "BUY",
-          "outcome": "UT Martin Skyhawks",
-          "price": 0.54,
-          "value": 528.12,
-          "timestamp": 1794090334,
-          "slug": "cbb-tmrt-iupui-2026-11-07",
-          "event_slug": "cbb-tmrt-iupui-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Boca Juniors vs. CSyD Defensa y Justicia: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.84,
-          "value": 1.8144,
-          "timestamp": 1794090318,
-          "slug": "arg-boc-def-2026-11-07-total-0pt5",
-          "event_slug": "arg-boc-def-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Nuggets (-9.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.43,
-          "value": 4.3,
-          "timestamp": 1794090301,
-          "slug": "nba-den-ind-2026-11-07-1h-spread-away-9pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Nuggets (-13.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.29,
-          "value": 2.9,
-          "timestamp": 1794090301,
-          "slug": "nba-den-ind-2026-11-07-1h-spread-away-13pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: 1H O/U 109.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 562.5899999999999,
-          "timestamp": 1794090298,
-          "slug": "nba-den-ind-2026-11-07-1h-total-109pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: 1H O/U 109.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 836.7599999999999,
-          "timestamp": 1794090295,
-          "slug": "nba-den-ind-2026-11-07-1h-total-109pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: 1H O/U 109.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 34.199999999999996,
-          "timestamp": 1794090259,
-          "slug": "nba-den-ind-2026-11-07-1h-total-109pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: 1H O/U 109.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 34.199999999999996,
-          "timestamp": 1794090228,
-          "slug": "nba-den-ind-2026-11-07-1h-total-109pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
-          "side": "BUY",
-          "outcome": "Wellington Turman",
-          "price": 0.17,
-          "value": 3.06,
-          "timestamp": 1794090208,
-          "slug": "ufc-wel-seo1-2026-11-07",
-          "event_slug": "ufc-wel-seo1-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Boca Juniors win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.84,
-          "value": 32.76,
-          "timestamp": 1794090186,
-          "slug": "arg-boc-def-2026-11-07-boc",
-          "event_slug": "arg-boc-def-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: 1H O/U 109.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 34.199999999999996,
-          "timestamp": 1794090183,
-          "slug": "nba-den-ind-2026-11-07-1h-total-109pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: 1H O/U 109.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 31.349999999999998,
-          "timestamp": 1794090147,
-          "slug": "nba-den-ind-2026-11-07-1h-total-109pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: 1H O/U 109.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 18.24,
-          "timestamp": 1794090144,
-          "slug": "nba-den-ind-2026-11-07-1h-total-109pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: 1H O/U 109.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 34.199999999999996,
-          "timestamp": 1794090142,
-          "slug": "nba-den-ind-2026-11-07-1h-total-109pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: 1H O/U 109.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 56.99999999999999,
-          "timestamp": 1794090141,
-          "slug": "nba-den-ind-2026-11-07-1h-total-109pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -6684,7 +6717,7 @@
       "stats48h": {
         "wins": 10,
         "losses": 11,
-        "totalTrades": 178,
+        "totalTrades": 177,
         "winRate": 0.47619047619047616,
         "volume": 78970.24204534286,
         "pnl": 0
@@ -7247,14 +7280,25 @@
       "label": "0xfC0847fe",
       "specialty": "Soccer+NHL",
       "stats48h": {
-        "wins": 23,
+        "wins": 22,
         "losses": 1,
-        "totalTrades": 55,
-        "winRate": 0.9583333333333334,
-        "volume": 75277.18159838807,
+        "totalTrades": 56,
+        "winRate": 0.9565217391304348,
+        "volume": 74848.98159841108,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.54,
+          "value": 10.8,
+          "timestamp": 1794090985,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Texas A&M vs. South Carolina",
           "side": "BUY",
@@ -7793,17 +7837,6 @@
           "slug": "nhl-ana-cal-2026-11-06",
           "event_slug": "nhl-ana-cal-2026-11-06",
           "result": "loss"
-        },
-        {
-          "title": "Jaguars vs. Ravens",
-          "side": "BUY",
-          "outcome": "Jaguars",
-          "price": 0.8959183673,
-          "value": 438.99999997699996,
-          "timestamp": 1793931906,
-          "slug": "nfl-jax-bal-2026-11-06",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "win"
         }
       ]
     },
@@ -8854,5 +8887,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T22:35:34.428Z"
+  "lastUpdate": "2026-11-07T22:49:27.558Z"
 }
