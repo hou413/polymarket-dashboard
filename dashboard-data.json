@@ -1067,12 +1067,34 @@
       "stats48h": {
         "wins": 10,
         "losses": 0,
-        "totalTrades": 110,
+        "totalTrades": 112,
         "winRate": 1,
-        "volume": 15855.032198904313,
+        "volume": 13962.241498843732,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Israel x Iran ceasefire continues through November 15?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.2,
+          "value": 34.462,
+          "timestamp": 1794033807,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-15",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 7?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.0364919337,
+          "value": 12.290000007482012,
+          "timestamp": 1794033796,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-7",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
         {
           "title": "US x Iran effective ceasefire continues through November 30, 2026?",
           "side": "BUY",
@@ -1599,28 +1621,6 @@
           "timestamp": 1793845848,
           "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
           "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.3596614184,
-          "value": 1284.696200068064,
-          "timestamp": 1793845641,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.35,
-          "value": 654.8465,
-          "timestamp": 1793845630,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
           "result": "ongoing"
         }
       ]
@@ -5358,10 +5358,120 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 998.9262199995839,
+        "volume": 1640.0728199990988,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "W100 Incheon: Han Shi vs Katie Swan",
+          "side": "BUY",
+          "outcome": "Katie Swan",
+          "price": 0.4,
+          "value": 30.34,
+          "timestamp": 1794034011,
+          "slug": "itf-shi1-swan1-2026-11-07",
+          "event_slug": "itf-shi1-swan1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "W100 Incheon: Han Shi vs Katie Swan",
+          "side": "SELL",
+          "outcome": "Katie Swan",
+          "price": 0.39,
+          "value": 3.8766,
+          "timestamp": 1794034009,
+          "slug": "itf-shi1-swan1-2026-11-07",
+          "event_slug": "itf-shi1-swan1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "W100 Incheon: Han Shi vs Katie Swan",
+          "side": "BUY",
+          "outcome": "Katie Swan",
+          "price": 0.4,
+          "value": 88.38,
+          "timestamp": 1794034006,
+          "slug": "itf-shi1-swan1-2026-11-07",
+          "event_slug": "itf-shi1-swan1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Seongnam Ilhwa vs. Daegu FC: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.98,
+          "value": 4.9,
+          "timestamp": 1794033984,
+          "slug": "kor2-seo-dag-2026-11-07-total-0pt5",
+          "event_slug": "kor2-seo-dag-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Seongnam Ilhwa vs. Daegu FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.85,
+          "value": 81.6,
+          "timestamp": 1794033978,
+          "slug": "kor2-seo-dag-2026-11-07-draw",
+          "event_slug": "kor2-seo-dag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.52,
+          "value": 35.36,
+          "timestamp": 1794033949,
+          "slug": "crint-namw-usaw-2026-11-07",
+          "event_slug": "crint-namw-usaw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.51,
+          "value": 25.5,
+          "timestamp": 1794033948,
+          "slug": "crint-namw-usaw-2026-11-07",
+          "event_slug": "crint-namw-usaw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona: O/U 57.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.6,
+          "value": 293.4,
+          "timestamp": 1794033930,
+          "slug": "cfb-tcu-arz-2026-11-06-total-57pt5",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona: O/U 57.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.6,
+          "value": 293.4,
+          "timestamp": 1794033921,
+          "slug": "cfb-tcu-arz-2026-11-06-total-57pt5",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.3089999975,
+          "value": 9.329999999514563,
+          "timestamp": 1794033769,
+          "slug": "aus-auc-wel-2026-11-06-total-0pt5",
+          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Will Sagan Tosu win on 2026-11-07?",
           "side": "BUY",
@@ -5800,116 +5910,6 @@
           "timestamp": 1794031995,
           "slug": "jap-yom-fag-2026-11-07-fag",
           "event_slug": "jap-yom-fag-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.05,
-          "value": 1.2400000000000002,
-          "timestamp": 1794031987,
-          "slug": "jap-yom-fag-2026-11-07-yom",
-          "event_slug": "jap-yom-fag-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Yokohama F·Marinos vs. Fagiano Okayama: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.74,
-          "value": 22.94,
-          "timestamp": 1794031929,
-          "slug": "jap-yom-fag-2026-11-07-total-2pt5",
-          "event_slug": "jap-yom-fag-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
-          "side": "BUY",
-          "outcome": "New Zealand",
-          "price": 0.06,
-          "value": 34.68,
-          "timestamp": 1794031902,
-          "slug": "crint-nzl-ind-2026-11-06",
-          "event_slug": "crint-nzl-ind-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.29,
-          "value": 25.81,
-          "timestamp": 1794031864,
-          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.29,
-          "value": 5.8,
-          "timestamp": 1794031864,
-          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Tokushima Vortis win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.85,
-          "value": 26.349999999999998,
-          "timestamp": 1794031848,
-          "slug": "ja2-tok-teg-2026-11-07-tok",
-          "event_slug": "ja2-tok-teg-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.79,
-          "value": 32.39,
-          "timestamp": 1794031770,
-          "slug": "jap-yom-fag-2026-11-07-yom",
-          "event_slug": "jap-yom-fag-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.79,
-          "value": 35.550000000000004,
-          "timestamp": 1794031768,
-          "slug": "jap-yom-fag-2026-11-07-yom",
-          "event_slug": "jap-yom-fag-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.79,
-          "value": 26.86,
-          "timestamp": 1794031768,
-          "slug": "jap-yom-fag-2026-11-07-yom",
-          "event_slug": "jap-yom-fag-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
-          "side": "BUY",
-          "outcome": "New Zealand",
-          "price": 0.06,
-          "value": 13.32,
-          "timestamp": 1794031767,
-          "slug": "crint-nzl-ind-2026-11-06",
-          "event_slug": "crint-nzl-ind-2026-11-06",
           "result": "ongoing"
         }
       ]
@@ -7038,5 +7038,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T06:43:45.031Z"
+  "lastUpdate": "2026-11-07T06:49:54.374Z"
 }
