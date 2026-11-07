@@ -1195,7 +1195,7 @@
       "stats48h": {
         "wins": 11,
         "losses": 0,
-        "totalTrades": 119,
+        "totalTrades": 116,
         "winRate": 1,
         "volume": 13665.61477885982,
         "pnl": 0
@@ -2453,9 +2453,9 @@
       "stats48h": {
         "wins": 3,
         "losses": 18,
-        "totalTrades": 26,
+        "totalTrades": 25,
         "winRate": 0.14285714285714285,
-        "volume": 766789.864875282,
+        "volume": 766258.4601346578,
         "pnl": 0
       },
       "recentTrades": [
@@ -2733,17 +2733,6 @@
           "slug": "2026-senate-map-r-none",
           "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.0316265847,
-          "value": 531.404740624209,
-          "timestamp": 1793807866,
-          "slug": "2026-senate-map-r-none",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "ongoing"
         }
       ]
     },
@@ -2754,12 +2743,23 @@
       "stats48h": {
         "wins": 6,
         "losses": 18,
-        "totalTrades": 35,
+        "totalTrades": 36,
         "winRate": 0.25,
-        "volume": 330335.05817821797,
+        "volume": 330614.39597821794,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Arsenal FC (-1.5)",
+          "side": "BUY",
+          "outcome": "Arsenal FC",
+          "price": 0.42,
+          "value": 279.3378,
+          "timestamp": 1794067035,
+          "slug": "epl-ars-hul-2026-11-07-spread-home-1pt5",
+          "event_slug": "epl-ars-hul-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Will Arsenal FC win on 2026-11-07?",
           "side": "BUY",
@@ -4261,9 +4261,9 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 8,
-        "losses": 7,
+        "losses": 8,
         "totalTrades": 16,
-        "winRate": 0.5333333333333333,
+        "winRate": 0.5,
         "volume": 41899.56250000001,
         "pnl": 0
       },
@@ -4277,7 +4277,7 @@
           "timestamp": 1794055633,
           "slug": "bl2-fcn-svd-2026-11-07-total-1pt5",
           "event_slug": "bl2-fcn-svd-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-16.5)",
@@ -5585,10 +5585,395 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1314.399872031489,
+        "volume": 1521.398898995027,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will SC Paderborn 07 vs. Eintracht Frankfurt end in a draw?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.8783199141,
+          "value": 32.726199999365996,
+          "timestamp": 1794067510,
+          "slug": "bun-scp-ein-2026-11-07-draw",
+          "event_slug": "bun-scp-ein-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will SC Paderborn 07 vs. Eintracht Frankfurt end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9,
+          "value": 62.1,
+          "timestamp": 1794067507,
+          "slug": "bun-scp-ein-2026-11-07-draw",
+          "event_slug": "bun-scp-ein-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will SC Paderborn 07 win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.87,
+          "value": 36.54,
+          "timestamp": 1794067506,
+          "slug": "bun-scp-ein-2026-11-07-scp",
+          "event_slug": "bun-scp-ein-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Torino FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.76,
+          "value": 50.92,
+          "timestamp": 1794067500,
+          "slug": "sea-tor-lec-2026-11-07-tor",
+          "event_slug": "sea-tor-lec-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Torino FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.76,
+          "value": 143.64000000000001,
+          "timestamp": 1794067497,
+          "slug": "sea-tor-lec-2026-11-07-tor",
+          "event_slug": "sea-tor-lec-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Torino FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.4899999993,
+          "value": 109.18999999401429,
+          "timestamp": 1794067488,
+          "slug": "sea-tor-lec-2026-11-07-tor",
+          "event_slug": "sea-tor-lec-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Torino FC vs. US Lecce end in a draw?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.4807851095,
+          "value": 23.99000000210194,
+          "timestamp": 1794067485,
+          "slug": "sea-tor-lec-2026-11-07-draw",
+          "event_slug": "sea-tor-lec-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Sydney Sixers vs Sydney Thunder",
+          "side": "BUY",
+          "outcome": "Sydney Sixers",
+          "price": 0.55,
+          "value": 209.00000000000003,
+          "timestamp": 1794067447,
+          "slug": "cricwbbl-sys-syt-2026-11-07",
+          "event_slug": "cricwbbl-sys-syt-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: BV Borussia 09 Dortmund (-3.5)",
+          "side": "BUY",
+          "outcome": "BV Borussia 09 Dortmund",
+          "price": 0.0939999991,
+          "value": 4.439999999489361,
+          "timestamp": 1794067422,
+          "slug": "bun-dor-elv-2026-11-07-spread-home-3pt5",
+          "event_slug": "bun-dor-elv-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: BV Borussia 09 Dortmund (-3.5)",
+          "side": "BUY",
+          "outcome": "BV Borussia 09 Dortmund",
+          "price": 0.0939999991,
+          "value": 9.359999996382976,
+          "timestamp": 1794067419,
+          "slug": "bun-dor-elv-2026-11-07-spread-home-3pt5",
+          "event_slug": "bun-dor-elv-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: BV Borussia 09 Dortmund (-3.5)",
+          "side": "BUY",
+          "outcome": "BV Borussia 09 Dortmund",
+          "price": 0.0939999991,
+          "value": 9.359999996382976,
+          "timestamp": 1794067417,
+          "slug": "bun-dor-elv-2026-11-07-spread-home-3pt5",
+          "event_slug": "bun-dor-elv-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: BV Borussia 09 Dortmund (-3.5)",
+          "side": "BUY",
+          "outcome": "BV Borussia 09 Dortmund",
+          "price": 0.0939999991,
+          "value": 4.439999999489361,
+          "timestamp": 1794067417,
+          "slug": "bun-dor-elv-2026-11-07-spread-home-3pt5",
+          "event_slug": "bun-dor-elv-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Eintracht Frankfurt win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 53.69820000000001,
+          "timestamp": 1794067377,
+          "slug": "bun-scp-ein-2026-11-07-ein",
+          "event_slug": "bun-scp-ein-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lando Norris win the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.81,
+          "value": 21.060000000000002,
+          "timestamp": 1794067210,
+          "slug": "f1-brazilian-grand-prix-winner-norris-2026-11-08",
+          "event_slug": "f1-brazilian-grand-prix-winner-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Cádiz CF win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 9.3,
+          "timestamp": 1794067182,
+          "slug": "es2-cad-ovi-2026-11-07-cad",
+          "event_slug": "es2-cad-ovi-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Luca Van Assche vs Ben Shelton",
+          "side": "SELL",
+          "outcome": "Luca Van Assche",
+          "price": 0.001,
+          "value": 0.11852,
+          "timestamp": 1794067132,
+          "slug": "atp-assche-shelton-2026-11-07",
+          "event_slug": "atp-assche-shelton-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Luca Van Assche vs Ben Shelton",
+          "side": "SELL",
+          "outcome": "Luca Van Assche",
+          "price": 0.002,
+          "value": 0.14,
+          "timestamp": 1794067132,
+          "slug": "atp-assche-shelton-2026-11-07",
+          "event_slug": "atp-assche-shelton-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rolex Paris Masters: Luca Van Assche vs Ben Shelton",
+          "side": "BUY",
+          "outcome": "Luca Van Assche",
+          "price": 0.014,
+          "value": 2.6392800000000003,
+          "timestamp": 1794067129,
+          "slug": "atp-assche-shelton-2026-11-07",
+          "event_slug": "atp-assche-shelton-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: NK Slaven Belupo (-1.5)",
+          "side": "BUY",
+          "outcome": "HNK Gorica",
+          "price": 0.17,
+          "value": 1.8649000000000002,
+          "timestamp": 1794067098,
+          "slug": "hr1-gor-sla-2026-11-07-spread-away-1pt5",
+          "event_slug": "hr1-gor-sla-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.3,
+          "value": 29.7,
+          "timestamp": 1794067044,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.3,
+          "value": 9.9,
+          "timestamp": 1794067042,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.3,
+          "value": 9.9,
+          "timestamp": 1794067042,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.31,
+          "value": 3.41,
+          "timestamp": 1794067024,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.31,
+          "value": 7.13,
+          "timestamp": 1794067023,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.31,
+          "value": 32.55,
+          "timestamp": 1794067012,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 1.84,
+          "timestamp": 1794066964,
+          "slug": "bun-lei-aug-2026-11-07-total-5pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ben Shelton win the 2026 Paris, France?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.34,
+          "value": 51.00000000000001,
+          "timestamp": 1794066912,
+          "slug": "atp-tournament-winner-2026-135039-competitor-808628",
+          "event_slug": "atp-tournament-winner-2026-135039",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC Koper vs. Mura Murska Sobota: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.86,
+          "value": 7.829998999999999,
+          "timestamp": 1794066883,
+          "slug": "slo-kop-mur-2026-11-07-total-1pt5",
+          "event_slug": "slo-kop-mur-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ben Shelton win the 2026 Paris, France?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.32,
+          "value": 0.96,
+          "timestamp": 1794066873,
+          "slug": "atp-tournament-winner-2026-135039-competitor-808628",
+          "event_slug": "atp-tournament-winner-2026-135039",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC Koper vs. Mura Murska Sobota: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.04,
+          "value": 1.59,
+          "timestamp": 1794066843,
+          "slug": "slo-kop-mur-2026-11-07-total-1pt5",
+          "event_slug": "slo-kop-mur-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Alliance vs maybe (BO3) - ESL Challenger League Europe Cup #11 G",
+          "side": "BUY",
+          "outcome": "Alliance",
+          "price": 0.963,
+          "value": 48.15,
+          "timestamp": 1794066843,
+          "slug": "cs2-all-maybe-2026-11-07",
+          "event_slug": "cs2-all-maybe-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC Koper vs. Mura Murska Sobota: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.05,
+          "value": 1.1900000000000002,
+          "timestamp": 1794066841,
+          "slug": "slo-kop-mur-2026-11-07-total-1pt5",
+          "event_slug": "slo-kop-mur-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "BV Borussia 09 Dortmund vs. SV 07 Elversberg: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.04,
+          "value": 6.15,
+          "timestamp": 1794066838,
+          "slug": "bun-dor-elv-2026-11-07-total-4pt5",
+          "event_slug": "bun-dor-elv-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chennai Open: Magda Linette vs Anastasia Zakharova",
+          "side": "SELL",
+          "outcome": "Magda Linette",
+          "price": 0.78,
+          "value": 130.26,
+          "timestamp": 1794066829,
+          "slug": "wta-linette-zakharo-2026-11-07",
+          "event_slug": "wta-linette-zakharo-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Chennai Open: Magda Linette vs Anastasia Zakharova",
+          "side": "BUY",
+          "outcome": "Magda Linette",
+          "price": 0.82,
+          "value": 136.94,
+          "timestamp": 1794066825,
+          "slug": "wta-linette-zakharo-2026-11-07",
+          "event_slug": "wta-linette-zakharo-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Will SS Juve Stabia vs. SS Arezzo end in a draw?",
           "side": "BUY",
@@ -5752,391 +6137,6 @@
           "timestamp": 1794066616,
           "slug": "sea-tor-lec-2026-11-07-tor",
           "event_slug": "sea-tor-lec-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Torino FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.3134745649,
-          "value": 55.360000004546116,
-          "timestamp": 1794066613,
-          "slug": "sea-tor-lec-2026-11-07-tor",
-          "event_slug": "sea-tor-lec-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "1. FSV Mainz 05 vs. FC Bayern München: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.98,
-          "value": 421.82997500000005,
-          "timestamp": 1794066610,
-          "slug": "bun-mai-bay-2026-11-07-total-1pt5",
-          "event_slug": "bun-mai-bay-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Bayern München win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.95,
-          "value": 98.8,
-          "timestamp": 1794066607,
-          "slug": "bun-mai-bay-2026-11-07-bay",
-          "event_slug": "bun-mai-bay-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ben Shelton win the 2026 Paris, France?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.31,
-          "value": 5.58,
-          "timestamp": 1794066604,
-          "slug": "atp-tournament-winner-2026-135039-competitor-808628",
-          "event_slug": "atp-tournament-winner-2026-135039",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will US Lecce win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8959999973,
-          "value": 26.909997998909606,
-          "timestamp": 1794066604,
-          "slug": "sea-tor-lec-2026-11-07-lec",
-          "event_slug": "sea-tor-lec-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ben Shelton win the 2026 Paris, France?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.31,
-          "value": 8.06,
-          "timestamp": 1794066603,
-          "slug": "atp-tournament-winner-2026-135039-competitor-808628",
-          "event_slug": "atp-tournament-winner-2026-135039",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Mura Murska Sobota win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.16,
-          "value": 4.32,
-          "timestamp": 1794066580,
-          "slug": "slo-kop-mur-2026-11-07-mur",
-          "event_slug": "slo-kop-mur-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "1. FSV Mainz 05 vs. FC Bayern München: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.0899999999,
-          "value": 44.390000020677775,
-          "timestamp": 1794066573,
-          "slug": "bun-mai-bay-2026-11-07-total-1pt5",
-          "event_slug": "bun-mai-bay-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "1. FSV Mainz 05 vs. FC Bayern München: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.35,
-          "value": 14.7,
-          "timestamp": 1794066561,
-          "slug": "bun-mai-bay-2026-11-07-total-2pt5",
-          "event_slug": "bun-mai-bay-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will BV Borussia 09 Dortmund win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.16,
-          "value": 63.84,
-          "timestamp": 1794066531,
-          "slug": "bun-dor-elv-2026-11-07-dor",
-          "event_slug": "bun-dor-elv-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ben Shelton win the 2026 Paris, France?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.33,
-          "value": 6.6000000000000005,
-          "timestamp": 1794066517,
-          "slug": "atp-tournament-winner-2026-135039-competitor-808628",
-          "event_slug": "atp-tournament-winner-2026-135039",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ben Shelton win the 2026 Paris, France?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.33,
-          "value": 6.6000000000000005,
-          "timestamp": 1794066514,
-          "slug": "atp-tournament-winner-2026-135039-competitor-808628",
-          "event_slug": "atp-tournament-winner-2026-135039",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ben Shelton win the 2026 Paris, France?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.33,
-          "value": 6.6000000000000005,
-          "timestamp": 1794066513,
-          "slug": "atp-tournament-winner-2026-135039-competitor-808628",
-          "event_slug": "atp-tournament-winner-2026-135039",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ben Shelton win the 2026 Paris, France?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.33,
-          "value": 6.6000000000000005,
-          "timestamp": 1794066510,
-          "slug": "atp-tournament-winner-2026-135039-competitor-808628",
-          "event_slug": "atp-tournament-winner-2026-135039",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ben Shelton win the 2026 Paris, France?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.33,
-          "value": 6.6000000000000005,
-          "timestamp": 1794066508,
-          "slug": "atp-tournament-winner-2026-135039-competitor-808628",
-          "event_slug": "atp-tournament-winner-2026-135039",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Zlín vs. 1. FC Slovácko: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.83,
-          "value": 15.0894,
-          "timestamp": 1794066454,
-          "slug": "cze1-fcz-fcs-2026-11-07-total-1pt5",
-          "event_slug": "cze1-fcz-fcs-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Fulham FC vs. Newcastle United FC: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.06,
-          "value": 2.4,
-          "timestamp": 1794066396,
-          "slug": "epl-ful-new-2026-11-07-first-half-total-0pt5",
-          "event_slug": "epl-ful-new-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Watford FC win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.85,
-          "value": 4.25,
-          "timestamp": 1794066340,
-          "slug": "elc-wat-mid-2026-11-07-wat",
-          "event_slug": "elc-wat-mid-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Watford FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.84,
-          "value": 4.2,
-          "timestamp": 1794066334,
-          "slug": "elc-wat-mid-2026-11-07-wat",
-          "event_slug": "elc-wat-mid-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Watford FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.84,
-          "value": 4.0488,
-          "timestamp": 1794066333,
-          "slug": "elc-wat-mid-2026-11-07-wat",
-          "event_slug": "elc-wat-mid-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Arsenal FC leading at halftime?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.359999984,
-          "value": 6.290000000444432,
-          "timestamp": 1794066330,
-          "slug": "epl-ars-hul-2026-11-07-halftime-result-home",
-          "event_slug": "epl-ars-hul-2026-11-07-halftime-result",
-          "result": "ongoing"
-        },
-        {
-          "title": "Arsenal FC vs. Hull City AFC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.61,
-          "value": 1.6957999999999998,
-          "timestamp": 1794066330,
-          "slug": "epl-ars-hul-2026-11-07-total-2pt5",
-          "event_slug": "epl-ars-hul-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Arsenal FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.759999996,
-          "value": 22.909999999421053,
-          "timestamp": 1794066328,
-          "slug": "epl-ars-hul-2026-11-07-ars",
-          "event_slug": "epl-ars-hul-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cagliari Calcio vs. Frosinone Calcio: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.39,
-          "value": 0.0741,
-          "timestamp": 1794066327,
-          "slug": "sea-cag-fro-2026-11-07-total-1pt5",
-          "event_slug": "sea-cag-fro-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Arsenal FC win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.79,
-          "value": 26.86,
-          "timestamp": 1794066324,
-          "slug": "epl-ars-hul-2026-11-07-ars",
-          "event_slug": "epl-ars-hul-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Arsenal FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8099999877,
-          "value": 29.52000000173333,
-          "timestamp": 1794066321,
-          "slug": "epl-ars-hul-2026-11-07-ars",
-          "event_slug": "epl-ars-hul-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BV Borussia 09 Dortmund vs. SV 07 Elversberg: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.98,
-          "timestamp": 1794066312,
-          "slug": "bun-dor-elv-2026-11-07-total-0pt5",
-          "event_slug": "bun-dor-elv-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Arsenal FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.87,
-          "value": 13.92,
-          "timestamp": 1794066304,
-          "slug": "epl-ars-hul-2026-11-07-ars",
-          "event_slug": "epl-ars-hul-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Hull City AFC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.0299999998,
-          "value": 1.5499999996666665,
-          "timestamp": 1794066288,
-          "slug": "epl-ars-hul-2026-11-07-hul",
-          "event_slug": "epl-ars-hul-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Arsenal FC vs. Hull City AFC: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.7344045344,
-          "value": 26.249998998956524,
-          "timestamp": 1794066286,
-          "slug": "epl-ars-hul-2026-11-07-first-half-total-0pt5",
-          "event_slug": "epl-ars-hul-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Hull City AFC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.0299999995,
-          "value": 1.239999999333333,
-          "timestamp": 1794066276,
-          "slug": "epl-ars-hul-2026-11-07-hul",
-          "event_slug": "epl-ars-hul-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Arsenal FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.83,
-          "value": 25.73,
-          "timestamp": 1794066268,
-          "slug": "epl-ars-hul-2026-11-07-ars",
-          "event_slug": "epl-ars-hul-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "SC Paderborn 07 vs. Eintracht Frankfurt: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.956,
-          "value": 4.779999999999999,
-          "timestamp": 1794066259,
-          "slug": "bun-scp-ein-2026-11-07-total-6pt5",
-          "event_slug": "bun-scp-ein-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Arsenal FC vs. Hull City AFC: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.06,
-          "value": 2.79,
-          "timestamp": 1794066259,
-          "slug": "epl-ars-hul-2026-11-07-total-0pt5",
-          "event_slug": "epl-ars-hul-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Arsenal FC (-1.5)",
-          "side": "BUY",
-          "outcome": "Hull City AFC",
-          "price": 0.47,
-          "value": 83.66,
-          "timestamp": 1794066244,
-          "slug": "epl-ars-hul-2026-11-07-spread-home-1pt5",
-          "event_slug": "epl-ars-hul-2026-11-07-more-markets",
           "result": "ongoing"
         }
       ]
@@ -7284,10 +7284,10 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 36,
+        "wins": 38,
         "losses": 4,
         "totalTrades": 49,
-        "winRate": 0.9,
+        "winRate": 0.9047619047619048,
         "volume": 53687.80194000001,
         "pnl": 0
       },
@@ -7378,7 +7378,7 @@
           "timestamp": 1794061000,
           "slug": "bl2-fcn-svd-2026-11-07-total-0pt5",
           "event_slug": "bl2-fcn-svd-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Málaga CF vs. Real Racing Club: O/U 0.5",
@@ -7422,7 +7422,7 @@
           "timestamp": 1794056079,
           "slug": "bl2-fcn-svd-2026-11-07-total-0pt5",
           "event_slug": "bl2-fcn-svd-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Perth Glory FC vs. Newcastle United Jets FC: O/U 2.5",
@@ -8315,5 +8315,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T15:56:44.221Z"
+  "lastUpdate": "2026-11-07T16:08:50.208Z"
 }
