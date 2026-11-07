@@ -2204,9 +2204,9 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 12,
+        "totalTrades": 11,
         "winRate": 0,
-        "volume": 11005.353050000002,
+        "volume": 8987.953000000001,
         "pnl": 0
       },
       "recentTrades": [
@@ -2329,17 +2329,6 @@
           "timestamp": 1793775672,
           "slug": "will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687",
           "event_slug": "democratic-presidential-nominee-2028",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kamala Harris win the 2028 US Presidential Election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.965,
-          "value": 2017.4000500000002,
-          "timestamp": 1793775571,
-          "slug": "will-kamala-harris-win-the-2028-us-presidential-election",
-          "event_slug": "presidential-election-winner-2028",
           "result": "ongoing"
         }
       ]
@@ -3587,12 +3576,23 @@
       "stats48h": {
         "wins": 30,
         "losses": 6,
-        "totalTrades": 42,
+        "totalTrades": 43,
         "winRate": 0.8333333333333334,
-        "volume": 440170.23620987014,
+        "volume": 477752.65071012377,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "TCU vs. Arizona",
+          "side": "SELL",
+          "outcome": "Arizona",
+          "price": 0.7302204102,
+          "value": 37582.41450025364,
+          "timestamp": 1794034819,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "TCU vs. Arizona",
           "side": "BUY",
@@ -5376,10 +5376,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1866.3288199897058,
+        "volume": 1927.8988200086796,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Arizona (-4.5)",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.76,
+          "value": 50.160000000000004,
+          "timestamp": 1794034768,
+          "slug": "cfb-tcu-arz-2026-11-06-spread-home-4pt5",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
+          "side": "BUY",
+          "outcome": "New Zealand",
+          "price": 0.0593102011,
+          "value": 25.890000018870353,
+          "timestamp": 1794034750,
+          "slug": "crint-nzl-ind-2026-11-06",
+          "event_slug": "crint-nzl-ind-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "TCU vs. Arizona",
           "side": "SELL",
@@ -5906,28 +5928,6 @@
           "timestamp": 1794032583,
           "slug": "will-the-10-year-treasury-yield-hit-5pt33-in-november",
           "event_slug": "how-high-will-10-year-treasury-yield-go-in-november",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.2899999965,
-          "value": 4.979999999896552,
-          "timestamp": 1794032581,
-          "slug": "aus-auc-wel-2026-11-06-total-1pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Sagan Tosu vs. Kataller Toyama: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.38,
-          "value": 9.5,
-          "timestamp": 1794032541,
-          "slug": "ja2-sag-kat-2026-11-07-total-2pt5",
-          "event_slug": "ja2-sag-kat-2026-11-07-more-markets",
           "result": "ongoing"
         }
       ]
@@ -7060,5 +7060,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T06:59:51.668Z"
+  "lastUpdate": "2026-11-07T07:03:23.503Z"
 }
