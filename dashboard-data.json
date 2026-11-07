@@ -1195,7 +1195,7 @@
       "stats48h": {
         "wins": 11,
         "losses": 0,
-        "totalTrades": 116,
+        "totalTrades": 110,
         "winRate": 1,
         "volume": 13665.61477885982,
         "pnl": 0
@@ -3156,10 +3156,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 8151.853810055203,
+        "volume": 8151.430210055204,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 340-359 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.056,
+          "value": 0.30016000000000004,
+          "timestamp": 1794067657,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-340-359",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will FC Dallas win the 2026 MLS Cup?",
           "side": "SELL",
@@ -3696,17 +3707,6 @@
           "value": 44.235,
           "timestamp": 1794025122,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-65-89",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 165-189 tweets from November 5 to November 7, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.72376,
-          "timestamp": 1794023883,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-165-189",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
           "result": "ongoing"
         }
@@ -5585,10 +5585,241 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1521.398898995027,
+        "volume": 1248.6692989849564,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "1. FSV Mainz 05 vs. FC Bayern München: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.48,
+          "value": 0.3648,
+          "timestamp": 1794068194,
+          "slug": "bun-mai-bay-2026-11-07-total-2pt5",
+          "event_slug": "bun-mai-bay-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.3086545124,
+          "value": 45.879999997729016,
+          "timestamp": 1794068190,
+          "slug": "bun-lei-aug-2026-11-07-total-6pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.3,
+          "value": 6,
+          "timestamp": 1794068188,
+          "slug": "bun-lei-aug-2026-11-07-total-6pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.3,
+          "value": 6,
+          "timestamp": 1794068187,
+          "slug": "bun-lei-aug-2026-11-07-total-6pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.31,
+          "value": 9.61,
+          "timestamp": 1794068185,
+          "slug": "bun-lei-aug-2026-11-07-total-6pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.31,
+          "value": 12.09,
+          "timestamp": 1794068182,
+          "slug": "bun-lei-aug-2026-11-07-total-6pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Fulham FC vs. Newcastle United FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.6,
+          "value": 9.857999999999999,
+          "timestamp": 1794068172,
+          "slug": "epl-ful-new-2026-11-07-draw",
+          "event_slug": "epl-ful-new-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.06,
+          "value": 12,
+          "timestamp": 1794068125,
+          "slug": "bun-lei-aug-2026-11-07-total-7pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.5,
+          "value": 13.99,
+          "timestamp": 1794067996,
+          "slug": "bun-lei-aug-2026-11-07-total-6pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.5,
+          "value": 7.49,
+          "timestamp": 1794067995,
+          "slug": "bun-lei-aug-2026-11-07-total-6pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.48,
+          "value": 21.599999999999998,
+          "timestamp": 1794067971,
+          "slug": "bun-lei-aug-2026-11-07-total-6pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.47,
+          "value": 16.919999999999998,
+          "timestamp": 1794067966,
+          "slug": "bun-lei-aug-2026-11-07-total-6pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "RB Leipzig vs. FC Augsburg: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.47,
+          "value": 15.51,
+          "timestamp": 1794067965,
+          "slug": "bun-lei-aug-2026-11-07-total-6pt5",
+          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.16,
+          "value": 27.04,
+          "timestamp": 1794067954,
+          "slug": "f1-brazilian-grand-prix-winner-verstappen-2026-11-08",
+          "event_slug": "f1-brazilian-grand-prix-winner-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "1. FSV Mainz 05 vs. FC Bayern München: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.63,
+          "value": 0.6804,
+          "timestamp": 1794067921,
+          "slug": "bun-mai-bay-2026-11-07-total-2pt5",
+          "event_slug": "bun-mai-bay-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: FC Bayern München (-2.5)",
+          "side": "SELL",
+          "outcome": "1. FSV Mainz 05",
+          "price": 0.63,
+          "value": 1.26,
+          "timestamp": 1794067905,
+          "slug": "bun-mai-bay-2026-11-07-spread-away-2pt5",
+          "event_slug": "bun-mai-bay-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: FC Bayern München (-2.5)",
+          "side": "BUY",
+          "outcome": "1. FSV Mainz 05",
+          "price": 0.67,
+          "value": 12.73,
+          "timestamp": 1794067897,
+          "slug": "bun-mai-bay-2026-11-07-spread-away-2pt5",
+          "event_slug": "bun-mai-bay-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Next Fable Model (5.2+) released by November 30, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.08,
+          "value": 8.94,
+          "timestamp": 1794067849,
+          "slug": "next-fable-model-5pt2-released-by-november-30-2026",
+          "event_slug": "next-fable-model-5pt2-released-byptptpt",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will ŠK Slovan Bratislava win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.92,
+          "value": 61.870000000000005,
+          "timestamp": 1794067813,
+          "slug": "svk1-sba-tre-2026-11-07-sba",
+          "event_slug": "svk1-sba-tre-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Torino FC vs. US Lecce: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.03,
+          "value": 0.309,
+          "timestamp": 1794067782,
+          "slug": "sea-tor-lec-2026-11-07-total-2pt5",
+          "event_slug": "sea-tor-lec-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: FC Bayern München (-2.5)",
+          "side": "BUY",
+          "outcome": "FC Bayern München",
+          "price": 0.43,
+          "value": 19.78,
+          "timestamp": 1794067759,
+          "slug": "bun-mai-bay-2026-11-07-spread-away-2pt5",
+          "event_slug": "bun-mai-bay-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Will SC Paderborn 07 vs. Eintracht Frankfurt end in a draw?",
           "side": "SELL",
@@ -5906,237 +6137,6 @@
           "timestamp": 1794066873,
           "slug": "atp-tournament-winner-2026-135039-competitor-808628",
           "event_slug": "atp-tournament-winner-2026-135039",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Koper vs. Mura Murska Sobota: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.04,
-          "value": 1.59,
-          "timestamp": 1794066843,
-          "slug": "slo-kop-mur-2026-11-07-total-1pt5",
-          "event_slug": "slo-kop-mur-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: Alliance vs maybe (BO3) - ESL Challenger League Europe Cup #11 G",
-          "side": "BUY",
-          "outcome": "Alliance",
-          "price": 0.963,
-          "value": 48.15,
-          "timestamp": 1794066843,
-          "slug": "cs2-all-maybe-2026-11-07",
-          "event_slug": "cs2-all-maybe-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Koper vs. Mura Murska Sobota: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.05,
-          "value": 1.1900000000000002,
-          "timestamp": 1794066841,
-          "slug": "slo-kop-mur-2026-11-07-total-1pt5",
-          "event_slug": "slo-kop-mur-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "BV Borussia 09 Dortmund vs. SV 07 Elversberg: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.04,
-          "value": 6.15,
-          "timestamp": 1794066838,
-          "slug": "bun-dor-elv-2026-11-07-total-4pt5",
-          "event_slug": "bun-dor-elv-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Chennai Open: Magda Linette vs Anastasia Zakharova",
-          "side": "SELL",
-          "outcome": "Magda Linette",
-          "price": 0.78,
-          "value": 130.26,
-          "timestamp": 1794066829,
-          "slug": "wta-linette-zakharo-2026-11-07",
-          "event_slug": "wta-linette-zakharo-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Chennai Open: Magda Linette vs Anastasia Zakharova",
-          "side": "BUY",
-          "outcome": "Magda Linette",
-          "price": 0.82,
-          "value": 136.94,
-          "timestamp": 1794066825,
-          "slug": "wta-linette-zakharo-2026-11-07",
-          "event_slug": "wta-linette-zakharo-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SS Juve Stabia vs. SS Arezzo end in a draw?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.06,
-          "value": 1.92,
-          "timestamp": 1794066777,
-          "slug": "itsb-sta-are-2026-11-07-draw",
-          "event_slug": "itsb-sta-are-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.29,
-          "value": 4.35,
-          "timestamp": 1794066762,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FK Cukaricki Belgrade vs. FK Radnicki Nis end in a draw?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.009,
-          "value": 1.650000006,
-          "timestamp": 1794066757,
-          "slug": "srb-cuk-rdn-2026-11-07-draw",
-          "event_slug": "srb-cuk-rdn-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cagliari Calcio vs. Frosinone Calcio: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.02,
-          "value": 4.79,
-          "timestamp": 1794066745,
-          "slug": "sea-cag-fro-2026-11-07-total-1pt5",
-          "event_slug": "sea-cag-fro-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cagliari Calcio vs. Frosinone Calcio: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.04,
-          "value": 5.51,
-          "timestamp": 1794066735,
-          "slug": "sea-cag-fro-2026-11-07-total-1pt5",
-          "event_slug": "sea-cag-fro-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cagliari Calcio vs. Frosinone Calcio: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.04,
-          "value": 3.43,
-          "timestamp": 1794066733,
-          "slug": "sea-cag-fro-2026-11-07-total-1pt5",
-          "event_slug": "sea-cag-fro-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cagliari Calcio vs. Frosinone Calcio: O/U 1.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.04,
-          "value": 5.272,
-          "timestamp": 1794066723,
-          "slug": "sea-cag-fro-2026-11-07-total-1pt5",
-          "event_slug": "sea-cag-fro-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cagliari Calcio vs. Frosinone Calcio: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.05,
-          "value": 7.140000000000001,
-          "timestamp": 1794066720,
-          "slug": "sea-cag-fro-2026-11-07-total-1pt5",
-          "event_slug": "sea-cag-fro-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ben Shelton win the 2026 Paris, France?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.32,
-          "value": 9.6,
-          "timestamp": 1794066703,
-          "slug": "atp-tournament-winner-2026-135039-competitor-808628",
-          "event_slug": "atp-tournament-winner-2026-135039",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ben Shelton win the 2026 Paris, France?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.32,
-          "value": 21.44,
-          "timestamp": 1794066702,
-          "slug": "atp-tournament-winner-2026-135039-competitor-808628",
-          "event_slug": "atp-tournament-winner-2026-135039",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will 1. FSV Mainz 05 vs. FC Bayern München end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.963,
-          "value": 28.89,
-          "timestamp": 1794066687,
-          "slug": "bun-mai-bay-2026-11-07-draw",
-          "event_slug": "bun-mai-bay-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Bayern München win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.96,
-          "value": 21.119999999999997,
-          "timestamp": 1794066621,
-          "slug": "bun-mai-bay-2026-11-07-bay",
-          "event_slug": "bun-mai-bay-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Bayern München win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.96,
-          "value": 96,
-          "timestamp": 1794066618,
-          "slug": "bun-mai-bay-2026-11-07-bay",
-          "event_slug": "bun-mai-bay-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Torino FC win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.2714478261,
-          "value": 37.459800001800005,
-          "timestamp": 1794066616,
-          "slug": "sea-tor-lec-2026-11-07-tor",
-          "event_slug": "sea-tor-lec-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Torino FC win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.28,
-          "value": 9.8,
-          "timestamp": 1794066616,
-          "slug": "sea-tor-lec-2026-11-07-tor",
-          "event_slug": "sea-tor-lec-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -7284,10 +7284,10 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 38,
+        "wins": 39,
         "losses": 4,
         "totalTrades": 49,
-        "winRate": 0.9047619047619048,
+        "winRate": 0.9069767441860465,
         "volume": 53687.80194000001,
         "pnl": 0
       },
@@ -7345,7 +7345,7 @@
           "timestamp": 1794062554,
           "slug": "sea-cag-fro-2026-11-07-total-0pt5",
           "event_slug": "sea-cag-fro-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Perth Glory FC vs. Newcastle United Jets FC: O/U 2.5",
@@ -8315,5 +8315,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T16:08:50.208Z"
+  "lastUpdate": "2026-11-07T16:22:07.082Z"
 }
