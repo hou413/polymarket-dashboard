@@ -1191,12 +1191,23 @@
       "stats48h": {
         "wins": 3,
         "losses": 5,
-        "totalTrades": 8,
+        "totalTrades": 9,
         "winRate": 0.375,
-        "volume": 27706.805500000002,
+        "volume": 27770.984800000002,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 1 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.31,
+          "value": 64.1793,
+          "timestamp": 1794089812,
+          "slug": "lol-ig1-gen-2026-11-07-game1",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
           "side": "BUY",
@@ -1294,7 +1305,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 0,
-        "totalTrades": 85,
+        "totalTrades": 84,
         "winRate": 1,
         "volume": 15733.628199021141,
         "pnl": 0
@@ -1859,7 +1870,7 @@
       "stats48h": {
         "wins": 23,
         "losses": 27,
-        "totalTrades": 163,
+        "totalTrades": 152,
         "winRate": 0.46,
         "volume": 701263.3430045288,
         "pnl": 0
@@ -2552,9 +2563,9 @@
       "stats48h": {
         "wins": 3,
         "losses": 17,
-        "totalTrades": 24,
+        "totalTrades": 23,
         "winRate": 0.15,
-        "volume": 731695.1061000001,
+        "volume": 727851.3893,
         "pnl": 0
       },
       "recentTrades": [
@@ -2810,17 +2821,6 @@
           "slug": "nba-mil-bos-2026-11-04-spread-home-11pt5",
           "event_slug": "nba-mil-bos-2026-11-04",
           "result": "loss"
-        },
-        {
-          "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.08,
-          "value": 3843.7168,
-          "timestamp": 1793830330,
-          "slug": "2026-senate-map-r-none",
-          "event_slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
-          "result": "ongoing"
         }
       ]
     },
@@ -2831,12 +2831,23 @@
       "stats48h": {
         "wins": 9,
         "losses": 14,
-        "totalTrades": 36,
+        "totalTrades": 37,
         "winRate": 0.391304347826087,
-        "volume": 637629.4507405732,
+        "volume": 637788.1527405733,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.73,
+          "value": 158.702,
+          "timestamp": 1794089382,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Will Real Madrid CF win on 2026-11-07?",
           "side": "BUY",
@@ -3244,10 +3255,131 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2716.75519997544,
+        "volume": 2652.13656997544,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Dragan Đilas be the next Prime Minister of Serbia?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.04401,
+          "timestamp": 1794089421,
+          "slug": "will-dragan-ilas-be-the-next-prime-minister-of-serbia-20260629223938650",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Dragan Đilas be the next Prime Minister of Serbia?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.007690000000000001,
+          "timestamp": 1794089230,
+          "slug": "will-dragan-ilas-be-the-next-prime-minister-of-serbia-20260629223938650",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jack Barton announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.017,
+          "value": 3.2016100000000005,
+          "timestamp": 1794089230,
+          "slug": "jack-barton-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ilija Srdanović be the next prime minister of Serbia?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.89,
+          "value": 6.8441,
+          "timestamp": 1794089035,
+          "slug": "will-ilija-srdanovic-be-the-next-prime-minister-of-serbia-20260629223938652",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ana Brnabić be the next Prime Minister of Serbia?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 7.67462,
+          "timestamp": 1794089035,
+          "slug": "will-ana-brnabic-be-the-next-prime-minister-of-serbia-20260629223938646",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Dejan Šoškić be the next Prime Minister of Serbia?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.593,
+          "value": 4.56017,
+          "timestamp": 1794089035,
+          "slug": "will-dejan-soskic-be-the-next-prime-minister-of-serbia",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Radomir Saičić be the next Prime Minister of Serbia?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.929,
+          "value": 7.144010000000001,
+          "timestamp": 1794089035,
+          "slug": "will-radomir-saicic-be-the-next-prime-minister-of-serbia",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zoran Stojiljković be the next Prime Minister of Serbia?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 7.666930000000001,
+          "timestamp": 1794089035,
+          "slug": "will-zoran-stojiljkovic-be-the-next-prime-minister-of-serbia",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Aleksandar Vučić be the next Prime Minister of Serbia?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.981,
+          "value": 7.54389,
+          "timestamp": 1794089035,
+          "slug": "will-aleksandar-vucic-be-the-next-prime-minister-of-serbia-20260629223938643",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Dejan Bodiroga be the next Prime Minister of Serbia?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 7.67462,
+          "timestamp": 1794089035,
+          "slug": "will-dejan-bodiroga-be-the-next-prime-minister-of-serbia",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Vladan Đokić be the next Prime Minister of Serbia?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.988,
+          "value": 7.597720000000001,
+          "timestamp": 1794089035,
+          "slug": "will-vladan-okic-be-the-next-prime-minister-of-serbia-20260811140916624",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 840-879 tweets in November 2026?",
           "side": "SELL",
@@ -3676,127 +3808,6 @@
           "slug": "elon-musk-of-tweets-november-7-november-9-2026-65-89",
           "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 140-164 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 15.36,
-          "timestamp": 1794077107,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-140-164",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 90-114 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.69,
-          "value": 11.04,
-          "timestamp": 1794077106,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-90-114",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 40-64 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.87,
-          "value": 13.92,
-          "timestamp": 1794077104,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-40-64",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 115-139 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.88,
-          "value": 14.08,
-          "timestamp": 1794077104,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-115-139",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 190-214 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 15.968,
-          "timestamp": 1794077104,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-190-214",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 40-64 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.87,
-          "value": 8.7,
-          "timestamp": 1794077044,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-40-64",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post <40 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.993,
-          "value": 9.93,
-          "timestamp": 1794077044,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-0-39",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 115-139 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.88,
-          "value": 8.8,
-          "timestamp": 1794077044,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-115-139",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 165-189 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.989,
-          "value": 9.89,
-          "timestamp": 1794077044,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-165-189",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 190-214 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 9.99,
-          "timestamp": 1794077044,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-190-214",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 90-114 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.69,
-          "value": 6.8999999999999995,
-          "timestamp": 1794077044,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-90-114",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -3806,13 +3817,35 @@
       "specialty": "UFC+Tennis",
       "stats48h": {
         "wins": 37,
-        "losses": 7,
-        "totalTrades": 58,
-        "winRate": 0.8409090909090909,
-        "volume": 444219.02711605135,
+        "losses": 5,
+        "totalTrades": 60,
+        "winRate": 0.8809523809523809,
+        "volume": 438080.6406160513,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
+          "side": "BUY",
+          "outcome": "Seokhyeon Ko",
+          "price": 0.85,
+          "value": 15033.3465,
+          "timestamp": 1794089553,
+          "slug": "ufc-wel-seo1-2026-11-07",
+          "event_slug": "ufc-wel-seo1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "SELL",
+          "outcome": "South Carolina",
+          "price": 0.35,
+          "value": 695.4395,
+          "timestamp": 1794089364,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Texas A&M vs. South Carolina",
           "side": "BUY",
@@ -4340,28 +4373,6 @@
           "slug": "atp-fils-fritz-2026-11-05",
           "event_slug": "atp-fils-fritz-2026-11-05",
           "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
-          "side": "BUY",
-          "outcome": "Lorenzo Musetti",
-          "price": 0.83,
-          "value": 13661.8913,
-          "timestamp": 1793896066,
-          "slug": "atp-musetti-assche-2026-11-05",
-          "event_slug": "atp-musetti-assche-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Rolex Paris Masters: Lorenzo Musetti vs Luca Van Assche",
-          "side": "BUY",
-          "outcome": "Lorenzo Musetti",
-          "price": 0.68,
-          "value": 8205.281200000001,
-          "timestamp": 1793895678,
-          "slug": "atp-musetti-assche-2026-11-05",
-          "event_slug": "atp-musetti-assche-2026-11-05",
-          "result": "loss"
         }
       ]
     },
@@ -4370,10 +4381,10 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 8,
+        "wins": 11,
         "losses": 7,
         "totalTrades": 26,
-        "winRate": 0.5333333333333333,
+        "winRate": 0.6111111111111112,
         "volume": 47680.81869979835,
         "pnl": 0
       },
@@ -4387,7 +4398,7 @@
           "timestamp": 1794087750,
           "slug": "fl1-psg-tro-2026-11-07-total-1pt5",
           "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Paris Saint-Germain FC vs. ES Troyes AC: O/U 1.5",
@@ -4398,7 +4409,7 @@
           "timestamp": 1794087675,
           "slug": "fl1-psg-tro-2026-11-07-total-1pt5",
           "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Paris Saint-Germain FC vs. ES Troyes AC: O/U 1.5",
@@ -4409,7 +4420,7 @@
           "timestamp": 1794087664,
           "slug": "fl1-psg-tro-2026-11-07-total-1pt5",
           "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rockets vs. Suns: O/U 224.5",
@@ -5240,10 +5251,252 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 11166.249700037899,
+        "volume": 22018.516200056398,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.5,
+          "value": 292.54,
+          "timestamp": 1794089964,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oregon vs. Ohio State",
+          "side": "BUY",
+          "outcome": "Oregon",
+          "price": 0.42,
+          "value": 166.3158,
+          "timestamp": 1794089914,
+          "slug": "cfb-ore-ohiost-2026-11-07",
+          "event_slug": "cfb-ore-ohiost-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "BUY",
+          "outcome": "Texas A&M",
+          "price": 0.5,
+          "value": 14,
+          "timestamp": 1794089865,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: South Carolina (-5.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.1888301887,
+          "value": 50.040000005500005,
+          "timestamp": 1794089748,
+          "slug": "cfb-txam-sc-2026-11-07-spread-home-5pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.44,
+          "value": 2281.4,
+          "timestamp": 1794089748,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: South Carolina (-1.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.3761463415,
+          "value": 77.11000000749999,
+          "timestamp": 1794089748,
+          "slug": "cfb-txam-sc-2026-11-07-spread-home-1pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: South Carolina (-6.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.18,
+          "value": 48.6,
+          "timestamp": 1794089748,
+          "slug": "cfb-txam-sc-2026-11-07-spread-home-6pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas A&M (-1.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.48,
+          "value": 81.6,
+          "timestamp": 1794089748,
+          "slug": "cfb-txam-sc-2026-11-07-spread-away-1pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas A&M (-5.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.7057446809,
+          "value": 66.3400000046,
+          "timestamp": 1794089748,
+          "slug": "cfb-txam-sc-2026-11-07-spread-away-5pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas A&M (-6.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.76,
+          "value": 63.84,
+          "timestamp": 1794089748,
+          "slug": "cfb-txam-sc-2026-11-07-spread-away-6pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: South Carolina (-3.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.25,
+          "value": 60,
+          "timestamp": 1794089748,
+          "slug": "cfb-txam-sc-2026-11-07-spread-home-3pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas A&M (-4.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.626779661,
+          "value": 73.959999998,
+          "timestamp": 1794089748,
+          "slug": "cfb-txam-sc-2026-11-07-spread-away-4pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas A&M (-3.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.5871538462,
+          "value": 76.330000006,
+          "timestamp": 1794089748,
+          "slug": "cfb-txam-sc-2026-11-07-spread-away-3pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas A&M (-7.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.79,
+          "value": 56.88,
+          "timestamp": 1794089746,
+          "slug": "cfb-txam-sc-2026-11-07-spread-away-7pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: South Carolina (-2.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.33,
+          "value": 71.94,
+          "timestamp": 1794089746,
+          "slug": "cfb-txam-sc-2026-11-07-spread-home-2pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: South Carolina (-4.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.2,
+          "value": 51.2,
+          "timestamp": 1794089746,
+          "slug": "cfb-txam-sc-2026-11-07-spread-home-4pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas A&M (-2.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.5694366197,
+          "value": 80.85999999740001,
+          "timestamp": 1794089746,
+          "slug": "cfb-txam-sc-2026-11-07-spread-away-2pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas A&M (-10.5)",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.88,
+          "value": 39.6,
+          "timestamp": 1794089746,
+          "slug": "cfb-txam-sc-2026-11-07-spread-away-10pt5",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oregon vs. Ohio State",
+          "side": "BUY",
+          "outcome": "Oregon",
+          "price": 0.35,
+          "value": 78.7465,
+          "timestamp": 1794089506,
+          "slug": "cfb-ore-ohiost-2026-11-07",
+          "event_slug": "cfb-ore-ohiost-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.38,
+          "value": 3.8,
+          "timestamp": 1794089442,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.35,
+          "value": 13997.199999999999,
+          "timestamp": 1794089392,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.34,
+          "value": 17.180200000000003,
+          "timestamp": 1794089392,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Oregon vs. Ohio State",
           "side": "BUY",
@@ -5551,248 +5804,6 @@
           "slug": "cfb-pennst-wash-2026-11-07",
           "event_slug": "cfb-pennst-wash-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Texas A&M vs. South Carolina",
-          "side": "BUY",
-          "outcome": "South Carolina",
-          "price": 0.56,
-          "value": 1349.0400000000002,
-          "timestamp": 1794086458,
-          "slug": "cfb-txam-sc-2026-11-07",
-          "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas A&M vs. South Carolina",
-          "side": "BUY",
-          "outcome": "South Carolina",
-          "price": 0.56,
-          "value": 1330.0000000000002,
-          "timestamp": 1794086457,
-          "slug": "cfb-txam-sc-2026-11-07",
-          "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas A&M vs. South Carolina",
-          "side": "BUY",
-          "outcome": "South Carolina",
-          "price": 0.56,
-          "value": 915.6000000000001,
-          "timestamp": 1794086457,
-          "slug": "cfb-txam-sc-2026-11-07",
-          "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas A&M vs. South Carolina",
-          "side": "BUY",
-          "outcome": "South Carolina",
-          "price": 0.56,
-          "value": 1589.2800000000002,
-          "timestamp": 1794086457,
-          "slug": "cfb-txam-sc-2026-11-07",
-          "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas A&M vs. South Carolina",
-          "side": "BUY",
-          "outcome": "South Carolina",
-          "price": 0.56,
-          "value": 510.16,
-          "timestamp": 1794086455,
-          "slug": "cfb-txam-sc-2026-11-07",
-          "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Western Kentucky vs. Middle Tennessee",
-          "side": "BUY",
-          "outcome": "Western Kentucky",
-          "price": 0.16,
-          "value": 1.12,
-          "timestamp": 1794086383,
-          "slug": "cfb-wkent-mtnst-2026-11-07",
-          "event_slug": "cfb-wkent-mtnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Ohio State (-16.5)",
-          "side": "BUY",
-          "outcome": "Ohio State",
-          "price": 0.6405405405,
-          "value": 23.699999998499997,
-          "timestamp": 1794086268,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-home-16pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Ohio State (-7.5)",
-          "side": "BUY",
-          "outcome": "Ohio State",
-          "price": 0.8175,
-          "value": 16.35,
-          "timestamp": 1794086268,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-home-7pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Ohio State (-13.5)",
-          "side": "BUY",
-          "outcome": "Ohio State",
-          "price": 0.69,
-          "value": 20.7,
-          "timestamp": 1794086268,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-home-13pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Ohio State (-14.5)",
-          "side": "BUY",
-          "outcome": "Ohio State",
-          "price": 0.66,
-          "value": 22.44,
-          "timestamp": 1794086268,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-home-14pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Ohio State (-5.5)",
-          "side": "BUY",
-          "outcome": "Ohio State",
-          "price": 0.87,
-          "value": 13.05,
-          "timestamp": 1794086268,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-home-5pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Ohio State (-20.5)",
-          "side": "BUY",
-          "outcome": "Ohio State",
-          "price": 0.54,
-          "value": 10.8,
-          "timestamp": 1794086268,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-home-20pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oregon vs. Ohio State: O/U 47.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.5322666667,
-          "value": 31.936000002,
-          "timestamp": 1794086268,
-          "slug": "cfb-ore-ohiost-2026-11-07-total-47pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Ohio State (-6.5)",
-          "side": "BUY",
-          "outcome": "Ohio State",
-          "price": 0.836875,
-          "value": 13.39,
-          "timestamp": 1794086268,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-home-6pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Ohio State (-5.5)",
-          "side": "BUY",
-          "outcome": "Ohio State",
-          "price": 0.79,
-          "value": 15.8,
-          "timestamp": 1794086215,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-home-5pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Western Kentucky vs. Middle Tennessee",
-          "side": "BUY",
-          "outcome": "Western Kentucky",
-          "price": 0.2,
-          "value": 1.2000000000000002,
-          "timestamp": 1794086100,
-          "slug": "cfb-wkent-mtnst-2026-11-07",
-          "event_slug": "cfb-wkent-mtnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Penn State vs. Washington",
-          "side": "BUY",
-          "outcome": "Washington",
-          "price": 0.33,
-          "value": 358.05,
-          "timestamp": 1794085899,
-          "slug": "cfb-pennst-wash-2026-11-07",
-          "event_slug": "cfb-pennst-wash-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: LSU (-6.5)",
-          "side": "BUY",
-          "outcome": "LSU",
-          "price": 0.5,
-          "value": 300,
-          "timestamp": 1794085701,
-          "slug": "cfb-ala-lsu-2026-11-07-spread-home-6pt5",
-          "event_slug": "cfb-ala-lsu-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Western Kentucky vs. Middle Tennessee",
-          "side": "BUY",
-          "outcome": "Western Kentucky",
-          "price": 0.2,
-          "value": 1,
-          "timestamp": 1794085494,
-          "slug": "cfb-wkent-mtnst-2026-11-07",
-          "event_slug": "cfb-wkent-mtnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Western Kentucky (-2.5)",
-          "side": "BUY",
-          "outcome": "Middle Tennessee",
-          "price": 0.69,
-          "value": 75.21,
-          "timestamp": 1794085251,
-          "slug": "cfb-wkent-mtnst-2026-11-07-spread-away-2pt5",
-          "event_slug": "cfb-wkent-mtnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Middle Tennessee (-3.5)",
-          "side": "BUY",
-          "outcome": "Middle Tennessee",
-          "price": 0.61,
-          "value": 90.89,
-          "timestamp": 1794085249,
-          "slug": "cfb-wkent-mtnst-2026-11-07-spread-home-3pt5",
-          "event_slug": "cfb-wkent-mtnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oregon vs. Ohio State",
-          "side": "BUY",
-          "outcome": "Ohio State",
-          "price": 0.83,
-          "value": 207.5,
-          "timestamp": 1794085084,
-          "slug": "cfb-ore-ohiost-2026-11-07",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -5805,10 +5816,230 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3323.1404059836195,
+        "volume": 3963.3517679785523,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Invictus Gaming Make the Worlds 2026 Grand Final?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.177,
+          "value": 4.425,
+          "timestamp": 1794089983,
+          "slug": "will-invictus-gaming-make-the-worlds-2026-grand-final",
+          "event_slug": "worlds-2026-team-to-make-grand-finals",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CF Montréal vs. Vancouver Whitecaps FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.67,
+          "value": 54.584900000000005,
+          "timestamp": 1794089979,
+          "slug": "mls-mim-vwh-2026-11-07-draw",
+          "event_slug": "mls-mim-vwh-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Corey Day win the 2026 NASCAR O'Reilly Auto Parts Series championship?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9784430701,
+          "value": 45.309999999161306,
+          "timestamp": 1794089973,
+          "slug": "will-corey-day-win-the-2026-nascar-oreilly-auto-parts-series-championship",
+          "event_slug": "nascar-oreilly-auto-parts-series-champion-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oregon vs. Ohio State: 2Q O/U 13.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 1,
+          "timestamp": 1794089946,
+          "slug": "cfb-ore-ohiost-2026-11-07-2q-total-13pt5",
+          "event_slug": "cfb-ore-ohiost-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oregon vs. Ohio State: 2Q O/U 13.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 1,
+          "timestamp": 1794089940,
+          "slug": "cfb-ore-ohiost-2026-11-07-2q-total-13pt5",
+          "event_slug": "cfb-ore-ohiost-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CD Concepción win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.05,
+          "value": 1.4900000000000002,
+          "timestamp": 1794089902,
+          "slug": "chi1-edv-cd1-2026-11-07-cd1",
+          "event_slug": "chi1-edv-cd1-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Rosario Central vs. AA Estudiantes: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 0.4852,
+          "timestamp": 1794089898,
+          "slug": "arg-ros-aae-2026-11-07-total-1pt5",
+          "event_slug": "arg-ros-aae-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Rosario Central vs. AA Estudiantes: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 2.94,
+          "timestamp": 1794089866,
+          "slug": "arg-ros-aae-2026-11-07-total-1pt5",
+          "event_slug": "arg-ros-aae-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
+          "side": "BUY",
+          "outcome": "UT Martin Skyhawks",
+          "price": 0.62,
+          "value": 225.5622,
+          "timestamp": 1794089746,
+          "slug": "cbb-tmrt-iupui-2026-11-07",
+          "event_slug": "cbb-tmrt-iupui-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
+          "side": "BUY",
+          "outcome": "UT Martin Skyhawks",
+          "price": 0.62,
+          "value": 310.93,
+          "timestamp": 1794089743,
+          "slug": "cbb-tmrt-iupui-2026-11-07",
+          "event_slug": "cbb-tmrt-iupui-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC Cajamarca vs. Club Alianza Atlético: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.97,
+          "value": 234.73999999999998,
+          "timestamp": 1794089724,
+          "slug": "per1-fcc-caa-2026-11-07-total-1pt5",
+          "event_slug": "per1-fcc-caa-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Georgia State vs. Appalachian State",
+          "side": "BUY",
+          "outcome": "Georgia State",
+          "price": 0.9809999999,
+          "value": 191.4899599964801,
+          "timestamp": 1794089715,
+          "slug": "cfb-gast-applst-2026-11-07",
+          "event_slug": "cfb-gast-applst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC Cajamarca vs. Club Alianza Atlético: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.51,
+          "value": 0.3111,
+          "timestamp": 1794089686,
+          "slug": "per1-fcc-caa-2026-11-07-total-1pt5",
+          "event_slug": "per1-fcc-caa-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Rosario Central vs. AA Estudiantes: Both Teams to Score",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 209.1,
+          "timestamp": 1794089475,
+          "slug": "arg-ros-aae-2026-11-07-btts",
+          "event_slug": "arg-ros-aae-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Rosario Central vs. AA Estudiantes: Both Teams to Score",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 193.51999999999998,
+          "timestamp": 1794089385,
+          "slug": "arg-ros-aae-2026-11-07-btts",
+          "event_slug": "arg-ros-aae-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Rosario Central vs. AA Estudiantes: Both Teams to Score",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 209.1,
+          "timestamp": 1794089382,
+          "slug": "arg-ros-aae-2026-11-07-btts",
+          "event_slug": "arg-ros-aae-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Rosario Central vs. AA Estudiantes: Both Teams to Score",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 209.1,
+          "timestamp": 1794089380,
+          "slug": "arg-ros-aae-2026-11-07-btts",
+          "event_slug": "arg-ros-aae-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Louisiana Tech vs. Troy: O/U 49.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.63,
+          "value": 25.2,
+          "timestamp": 1794089367,
+          "slug": "cfb-loutch-troy-2026-11-07-total-49pt5",
+          "event_slug": "cfb-loutch-troy-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Rosario Central vs. AA Estudiantes: Both Teams to Score",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 205,
+          "timestamp": 1794089344,
+          "slug": "arg-ros-aae-2026-11-07-btts",
+          "event_slug": "arg-ros-aae-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Rosario Central vs. AA Estudiantes: Both Teams to Score",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 198.44,
+          "timestamp": 1794089343,
+          "slug": "arg-ros-aae-2026-11-07-btts",
+          "event_slug": "arg-ros-aae-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "CA Rosario Central vs. AA Estudiantes: Both Teams to Score",
           "side": "BUY",
@@ -6138,226 +6369,6 @@
           "slug": "mls-phi-tor-2026-11-07-first-half-total-2pt5",
           "event_slug": "mls-phi-tor-2026-11-07-more-markets",
           "result": "ongoing"
-        },
-        {
-          "title": "Louisiana Tech vs. Troy: 1H O/U 27.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.21,
-          "value": 7.9799999999999995,
-          "timestamp": 1794088731,
-          "slug": "cfb-loutch-troy-2026-11-07-1h-total-27pt5",
-          "event_slug": "cfb-loutch-troy-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chicago Fire FC vs. Columbus Crew end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.75,
-          "value": 7.699998000000001,
-          "timestamp": 1794088729,
-          "slug": "mls-chi-clb-2026-11-07-draw",
-          "event_slug": "mls-chi-clb-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Philadelphia Union vs. Toronto FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.79,
-          "value": 29.23,
-          "timestamp": 1794088728,
-          "slug": "mls-phi-tor-2026-11-07-total-3pt5",
-          "event_slug": "mls-phi-tor-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Everton de Viña del Mar win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.5,
-          "value": 1.99,
-          "timestamp": 1794088698,
-          "slug": "chi1-edv-cd1-2026-11-07-edv",
-          "event_slug": "chi1-edv-cd1-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Everton de Viña del Mar win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.5,
-          "value": 21.45,
-          "timestamp": 1794088698,
-          "slug": "chi1-edv-cd1-2026-11-07-edv",
-          "event_slug": "chi1-edv-cd1-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Cajamarca win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.16,
-          "value": 6.24,
-          "timestamp": 1794088687,
-          "slug": "per1-fcc-caa-2026-11-07-fcc",
-          "event_slug": "per1-fcc-caa-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Everton de Viña del Mar win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.4799999906,
-          "value": 8.15000000039583,
-          "timestamp": 1794088687,
-          "slug": "chi1-edv-cd1-2026-11-07-edv",
-          "event_slug": "chi1-edv-cd1-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "LIU Sharks vs. La Salle Explorers",
-          "side": "BUY",
-          "outcome": "La Salle Explorers",
-          "price": 0.72,
-          "value": 1.692,
-          "timestamp": 1794088644,
-          "slug": "cbb-liub-lasal-2026-11-07",
-          "event_slug": "cbb-liub-lasal-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Chicago Fire FC vs. Columbus Crew: O/U 4.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.091,
-          "value": 15.014999999999999,
-          "timestamp": 1794088626,
-          "slug": "mls-chi-clb-2026-11-07-total-4pt5",
-          "event_slug": "mls-chi-clb-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Chicago Fire FC vs. Columbus Crew: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.106,
-          "value": 17.49,
-          "timestamp": 1794088617,
-          "slug": "mls-chi-clb-2026-11-07-total-4pt5",
-          "event_slug": "mls-chi-clb-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Chicago Fire FC vs. Columbus Crew: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.106,
-          "value": 4.24,
-          "timestamp": 1794088602,
-          "slug": "mls-chi-clb-2026-11-07-total-4pt5",
-          "event_slug": "mls-chi-clb-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Cajamarca win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.83,
-          "value": 27.389999999999997,
-          "timestamp": 1794088578,
-          "slug": "per1-fcc-caa-2026-11-07-fcc",
-          "event_slug": "per1-fcc-caa-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Cajamarca win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.84,
-          "value": 24.36,
-          "timestamp": 1794088576,
-          "slug": "per1-fcc-caa-2026-11-07-fcc",
-          "event_slug": "per1-fcc-caa-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Ohio State (-13.5)",
-          "side": "BUY",
-          "outcome": "Oregon",
-          "price": 0.48,
-          "value": 352.32,
-          "timestamp": 1794088543,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-home-13pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Washington (-4.5)",
-          "side": "BUY",
-          "outcome": "Washington",
-          "price": 0.06,
-          "value": 3.5999999999999996,
-          "timestamp": 1794088539,
-          "slug": "cfb-pennst-wash-2026-11-07-spread-home-4pt5",
-          "event_slug": "cfb-pennst-wash-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Valencia CF vs. Real Madrid CF: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.1899999985,
-          "value": 7.560000000315788,
-          "timestamp": 1794088512,
-          "slug": "lal-val-rea-2026-11-07-total-3pt5",
-          "event_slug": "lal-val-rea-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Tennessee-Martin vs. Charleston Southern",
-          "side": "BUY",
-          "outcome": "Tennessee-Martin",
-          "price": 0.93,
-          "value": 1108.56,
-          "timestamp": 1794088491,
-          "slug": "cfb-tmrt-chsou-2026-11-07",
-          "event_slug": "cfb-tmrt-chsou-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Cajamarca win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.124972375,
-          "value": 1.7399999999978748,
-          "timestamp": 1794088464,
-          "slug": "per1-fcc-caa-2026-11-07-fcc",
-          "event_slug": "per1-fcc-caa-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: VCU Rams (-1.5)",
-          "side": "BUY",
-          "outcome": "Memphis Tigers",
-          "price": 0.39,
-          "value": 30.810000000000002,
-          "timestamp": 1794088329,
-          "slug": "cbb-vcu-mphs-2026-11-07-spread-away-1pt5",
-          "event_slug": "cbb-vcu-mphs-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oregon vs. Ohio State: 1H O/U 27.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.06,
-          "value": 6,
-          "timestamp": 1794088320,
-          "slug": "cfb-ore-ohiost-2026-11-07-1h-total-27pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -6525,10 +6536,10 @@
       "specialty": "NBA+Politics",
       "stats48h": {
         "wins": 4,
-        "losses": 3,
-        "totalTrades": 7,
-        "winRate": 0.5714285714285714,
-        "volume": 97625.1606299556,
+        "losses": 2,
+        "totalTrades": 6,
+        "winRate": 0.6666666666666666,
+        "volume": 97095.8406299556,
         "pnl": 0
       },
       "recentTrades": [
@@ -6597,17 +6608,6 @@
           "slug": "nba-cha-bkn-2026-11-04",
           "event_slug": "nba-cha-bkn-2026-11-04",
           "result": "win"
-        },
-        {
-          "title": "LoL: Gen.G vs LYON - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "LYON",
-          "price": 0.12,
-          "value": 529.3199999999999,
-          "timestamp": 1793830518,
-          "slug": "lol-gen-ly-2026-11-05-game1",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
         }
       ]
     },
@@ -6616,14 +6616,25 @@
       "label": "JabJabich",
       "specialty": "Tennis+NFL",
       "stats48h": {
-        "wins": 11,
+        "wins": 10,
         "losses": 11,
         "totalTrades": 177,
-        "winRate": 0.5,
-        "volume": 75687.86941436259,
+        "winRate": 0.47619047619047616,
+        "volume": 79111.16941435411,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 1 Winner",
+          "side": "BUY",
+          "outcome": "Gen.G",
+          "price": 0.73,
+          "value": 3650,
+          "timestamp": 1794090070,
+          "slug": "lol-ig1-gen-2026-11-07-game1",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: PRIVATE vs OG (BO3) - ESL Challenger League Europe Cup #11 Group",
           "side": "BUY",
@@ -7162,17 +7173,6 @@
           "slug": "",
           "event_slug": "",
           "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: Butterfly vs maybe - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Butterfly",
-          "price": 0.6571014493,
-          "value": 226.7000000085,
-          "timestamp": 1794047791,
-          "slug": "cs2-btf-maybe-2026-11-07-game2",
-          "event_slug": "cs2-btf-maybe-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -7181,14 +7181,25 @@
       "label": "0xfC0847fe",
       "specialty": "Soccer+NHL",
       "stats48h": {
-        "wins": 24,
+        "wins": 23,
         "losses": 1,
-        "totalTrades": 54,
-        "winRate": 0.96,
-        "volume": 74931.36089835461,
+        "totalTrades": 55,
+        "winRate": 0.9583333333333334,
+        "volume": 75277.18159838807,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Texas A&M vs. South Carolina",
+          "side": "BUY",
+          "outcome": "South Carolina",
+          "price": 0.4670395274,
+          "value": 354.940700033452,
+          "timestamp": 1794089800,
+          "slug": "cfb-txam-sc-2026-11-07",
+          "event_slug": "cfb-txam-sc-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Alabama vs. LSU",
           "side": "SELL",
@@ -7726,17 +7737,6 @@
           "timestamp": 1793931906,
           "slug": "nfl-jax-bal-2026-11-06",
           "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Ducks vs. Oilers",
-          "side": "SELL",
-          "outcome": "Ducks",
-          "price": 0.57,
-          "value": 9.12,
-          "timestamp": 1793931882,
-          "slug": "nhl-ana-edm-2026-11-05",
-          "event_slug": "nhl-ana-edm-2026-11-05",
           "result": "win"
         }
       ]
@@ -8788,5 +8788,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T22:12:16.540Z"
+  "lastUpdate": "2026-11-07T22:23:59.845Z"
 }
