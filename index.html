@@ -100,6 +100,18 @@
             color: #1d1d1f;
         }
         
+        .trader-specialty {
+            display: inline-block;
+            font-size: 0.7em;
+            font-weight: 600;
+            color: #fff;
+            background: #0071e3;
+            border-radius: 4px;
+            padding: 2px 6px;
+            margin-left: 8px;
+            vertical-align: middle;
+        }
+        
         .trader-address {
             font-size: 0.75em;
             color: #86868b;
@@ -434,7 +446,7 @@
             card.innerHTML = `
                 <div class="trader-header">
                     <div>
-                        <div class="trader-name">${trader.label}</div>
+                        <div class="trader-name">${trader.label}${trader.specialty ? '<span class="trader-specialty">' + trader.specialty + '</span>' : ''}</div>
                         <div class="trader-address">${shortAddr}</div>
                     </div>
                     <div class="win-rate ${winRateClass}">

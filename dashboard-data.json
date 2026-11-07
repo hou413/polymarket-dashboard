@@ -3,6 +3,7 @@
     {
       "address": "0x2f28c1d2d8c0aee287e9c05a0603274ff533ba03",
       "label": "alphaalii",
+      "specialty": "Crypto",
       "stats48h": {
         "wins": 0,
         "losses": 0,
@@ -16,6 +17,7 @@
     {
       "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
       "label": "joseph00677",
+      "specialty": "Soccer",
       "stats48h": {
         "wins": 0,
         "losses": 0,
@@ -29,6 +31,7 @@
     {
       "address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
       "label": "sports_whale_1",
+      "specialty": "NBA+NFL",
       "stats48h": {
         "wins": 24,
         "losses": 26,
@@ -593,6 +596,7 @@
     {
       "address": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
       "label": "chubbytoro",
+      "specialty": "综合",
       "stats48h": {
         "wins": 6,
         "losses": 24,
@@ -937,6 +941,7 @@
     {
       "address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
       "label": "Netrol",
+      "specialty": "NBA+NHL",
       "stats48h": {
         "wins": 1,
         "losses": 0,
@@ -962,6 +967,7 @@
     {
       "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
       "label": "VeryLucky888",
+      "specialty": "MLB+UFC",
       "stats48h": {
         "wins": 3,
         "losses": 5,
@@ -1064,15 +1070,93 @@
     {
       "address": "0xf7b7009844425e328f135856273c30659be3e490",
       "label": "fantasy7788",
+      "specialty": "Politics",
       "stats48h": {
-        "wins": 10,
+        "wins": 9,
         "losses": 0,
-        "totalTrades": 112,
+        "totalTrades": 119,
         "winRate": 1,
-        "volume": 13962.241498843732,
+        "volume": 13665.61477885982,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Israel x Iran ceasefire continues through November 7?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.0514624156,
+          "value": 38.99999996465841,
+          "timestamp": 1794034272,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-7",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through December 15?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4964767096,
+          "value": 966.999999910318,
+          "timestamp": 1794034258,
+          "slug": "israel-x-iran-ceasefire-continues-through-december-15",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 30?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.3862619773,
+          "value": 31.00000000386147,
+          "timestamp": 1794034251,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-30",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 15?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.2199999999,
+          "value": 619.9999998981817,
+          "timestamp": 1794034239,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-15",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through December 15?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.48,
+          "value": 2724,
+          "timestamp": 1794034113,
+          "slug": "israel-x-iran-ceasefire-continues-through-december-15",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 15?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.2106414991,
+          "value": 441.0000000920149,
+          "timestamp": 1794034081,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-15",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 7?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.0484099658,
+          "value": 228.00000015371788,
+          "timestamp": 1794034078,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-7",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
         {
           "title": "Israel x Iran ceasefire continues through November 15?",
           "side": "BUY",
@@ -1545,89 +1629,13 @@
           "slug": "will-wti-dip-to-85-in-november-2026",
           "event_slug": "what-price-will-wti-hit-in-november-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in November?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.0288163332,
-          "value": 35.299720006668,
-          "timestamp": 1793852647,
-          "slug": "will-wti-reach-130-in-november-2026",
-          "event_slug": "what-price-will-wti-hit-in-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.5,
-          "value": 995.78,
-          "timestamp": 1793849658,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "US x Iran effective ceasefire continues through November 8, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.18,
-          "value": 483.01019999999994,
-          "timestamp": 1793849514,
-          "slug": "us-x-iran-effective-ceasefire-continues-through-november-8-20261103",
-          "event_slug": "us-iran-effective-ceasefire-continues-throughptptpt-20261103",
-          "result": "win"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.49,
-          "value": 726.18,
-          "timestamp": 1793846820,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.49,
-          "value": 980,
-          "timestamp": 1793846191,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.48,
-          "value": 206.3568,
-          "timestamp": 1793846161,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.48,
-          "value": 1920,
-          "timestamp": 1793845848,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
-          "result": "ongoing"
         }
       ]
     },
     {
       "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
       "label": "Thunderous-Snarl",
+      "specialty": "综合",
       "stats48h": {
         "wins": 21,
         "losses": 29,
@@ -2192,6 +2200,7 @@
     {
       "address": "0xb5d19b53c973be1097119c9ddc48fcb18fff6e35",
       "label": "lastminwin",
+      "specialty": "Politics",
       "stats48h": {
         "wins": 0,
         "losses": 0,
@@ -2338,6 +2347,7 @@
     {
       "address": "0xb0e74df9430a089aa102e2207af5fde1967439d2",
       "label": "RLWG",
+      "specialty": "Politics",
       "stats48h": {
         "wins": 0,
         "losses": 0,
@@ -2351,6 +2361,7 @@
     {
       "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
       "label": "ch27er",
+      "specialty": "Soccer+NBA",
       "stats48h": {
         "wins": 3,
         "losses": 18,
@@ -2651,6 +2662,7 @@
     {
       "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
       "label": "surfandturf",
+      "specialty": "Soccer+UFC",
       "stats48h": {
         "wins": 6,
         "losses": 19,
@@ -3006,15 +3018,27 @@
     {
       "address": "0x511f9c771449162349795d17becf8b37031acbe1",
       "label": "ethanaz",
+      "specialty": "NFL+NBA",
       "stats48h": {
         "wins": 1,
         "losses": 1,
         "totalTrades": 500,
         "winRate": 0.5,
-        "volume": 8457.222500050359,
+        "volume": 8423.895000050357,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 260-279 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.191,
+          "value": 3.3425000000000002,
+          "timestamp": 1794034225,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-260-279",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
           "side": "BUY",
@@ -3553,23 +3577,13 @@
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-165-189",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 90-114 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.5,
-          "value": 36.67,
-          "timestamp": 1793997093,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-90-114",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
         }
       ]
     },
     {
       "address": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
       "label": "tennischamp",
+      "specialty": "UFC+Tennis",
       "stats48h": {
         "wins": 30,
         "losses": 6,
@@ -4046,6 +4060,7 @@
     {
       "address": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
       "label": "chongchong37",
+      "specialty": "综合",
       "stats48h": {
         "wins": 8,
         "losses": 7,
@@ -4225,6 +4240,7 @@
     {
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
+      "specialty": "Tennis+NBA",
       "stats48h": {
         "wins": 42,
         "losses": 3,
@@ -4789,15 +4805,49 @@
     {
       "address": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
       "label": "takeormake",
+      "specialty": "综合",
       "stats48h": {
         "wins": 9,
-        "losses": 17,
+        "losses": 14,
         "totalTrades": 500,
-        "winRate": 0.34615384615384615,
-        "volume": 3759.0488999264003,
+        "winRate": 0.391304347826087,
+        "volume": 6001.608050037251,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "Arizona",
+          "price": 0.1,
+          "value": 1.3,
+          "timestamp": 1794034558,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona: O/U 51.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.954280393,
+          "value": 2331.307000099,
+          "timestamp": 1794034185,
+          "slug": "cfb-tcu-arz-2026-11-06-total-51pt5",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: TCU (-3.5)",
+          "side": "BUY",
+          "outcome": "Arizona",
+          "price": 0.58,
+          "value": 6.2234,
+          "timestamp": 1794034185,
+          "slug": "cfb-tcu-arz-2026-11-06-spread-away-3pt5",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "TCU vs. Arizona",
           "side": "BUY",
@@ -5314,54 +5364,165 @@
           "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-20.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.19,
-          "value": 40.85,
-          "timestamp": 1794030022,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-20pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.0354056162,
-          "value": 17.02124998815,
-          "timestamp": 1794030001,
-          "slug": "nba-por-lal-2026-11-06",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Lakers (-4.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.15,
-          "value": 38.4,
-          "timestamp": 1794030000,
-          "slug": "nba-por-lal-2026-11-06-spread-home-4pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "loss"
         }
       ]
     },
     {
       "address": "0xc785252b25901a591e9d962e09f4342468444ef2",
       "label": "dips.",
+      "specialty": "Soccer+NBA",
       "stats48h": {
         "wins": 0,
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1636.4428199881916,
+        "volume": 1866.3288199897058,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "TCU vs. Arizona",
+          "side": "SELL",
+          "outcome": "Arizona",
+          "price": 0.81,
+          "value": 10.935,
+          "timestamp": 1794034695,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "Arizona",
+          "price": 0.82,
+          "value": 66.42,
+          "timestamp": 1794034693,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "Arizona",
+          "price": 0.64,
+          "value": 71.38560000000001,
+          "timestamp": 1794034672,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Fagiano Okayama win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9,
+          "value": 12.6,
+          "timestamp": 1794034668,
+          "slug": "jap-yom-fag-2026-11-07-fag",
+          "event_slug": "jap-yom-fag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "Arizona",
+          "price": 0.5,
+          "value": 132.57,
+          "timestamp": 1794034662,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wonju DB Promy vs. Seoul Thunders",
+          "side": "BUY",
+          "outcome": "Seoul Thunders",
+          "price": 0.017,
+          "value": 3.330000001,
+          "timestamp": 1794034630,
+          "slug": "bkkbl-won-seo2-2026-11-07",
+          "event_slug": "bkkbl-won-seo2-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wonju DB Promy vs. Seoul Thunders",
+          "side": "BUY",
+          "outcome": "Seoul Thunders",
+          "price": 0.016,
+          "value": 1.08,
+          "timestamp": 1794034617,
+          "slug": "bkkbl-won-seo2-2026-11-07",
+          "event_slug": "bkkbl-won-seo2-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wonju DB Promy vs. Seoul Thunders",
+          "side": "BUY",
+          "outcome": "Seoul Thunders",
+          "price": 0.04,
+          "value": 1,
+          "timestamp": 1794034477,
+          "slug": "bkkbl-won-seo2-2026-11-07",
+          "event_slug": "bkkbl-won-seo2-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "KBO Playoff: KT Wiz vs. Samsung Lions",
+          "side": "BUY",
+          "outcome": "KT Wiz",
+          "price": 0.38,
+          "value": 19.38,
+          "timestamp": 1794034470,
+          "slug": "kbo-kt-sam-2026-11-07",
+          "event_slug": "kbo-kt-sam-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nagoya Grampus vs. Kyōto Sanga FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.84,
+          "value": 31.5,
+          "timestamp": 1794034453,
+          "slug": "jap-ngr-kyo-2026-11-07-total-2pt5",
+          "event_slug": "jap-ngr-kyo-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "LG Sakers vs. Goyang",
+          "side": "BUY",
+          "outcome": "LG Sakers",
+          "price": 0.34,
+          "value": 11.311800000000002,
+          "timestamp": 1794034390,
+          "slug": "bkkbl-lg-goy-2026-11-07",
+          "event_slug": "bkkbl-lg-goy-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LG Sakers vs. Goyang",
+          "side": "BUY",
+          "outcome": "LG Sakers",
+          "price": 0.38,
+          "value": 96.14,
+          "timestamp": 1794034380,
+          "slug": "bkkbl-lg-goy-2026-11-07",
+          "event_slug": "bkkbl-lg-goy-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LG Sakers vs. Goyang",
+          "side": "BUY",
+          "outcome": "LG Sakers",
+          "price": 0.38,
+          "value": 33.06,
+          "timestamp": 1794034378,
+          "slug": "bkkbl-lg-goy-2026-11-07",
+          "event_slug": "bkkbl-lg-goy-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Arizona (-7.5)",
           "side": "BUY",
@@ -5768,155 +5929,13 @@
           "slug": "ja2-sag-kat-2026-11-07-total-2pt5",
           "event_slug": "ja2-sag-kat-2026-11-07-more-markets",
           "result": "ongoing"
-        },
-        {
-          "title": "Sagan Tosu vs. Kataller Toyama: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.37,
-          "value": 4.4399999999999995,
-          "timestamp": 1794032532,
-          "slug": "ja2-sag-kat-2026-11-07-total-2pt5",
-          "event_slug": "ja2-sag-kat-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.34,
-          "value": 2.72,
-          "timestamp": 1794032494,
-          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.34,
-          "value": 3.4000000000000004,
-          "timestamp": 1794032494,
-          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.34,
-          "value": 17,
-          "timestamp": 1794032493,
-          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.3299999978,
-          "value": 4.5899999994,
-          "timestamp": 1794032472,
-          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.32,
-          "value": 1.7,
-          "timestamp": 1794032469,
-          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.32,
-          "value": 1.87,
-          "timestamp": 1794032467,
-          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.32,
-          "value": 16.32,
-          "timestamp": 1794032467,
-          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Tokushima Vortis win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 37.44,
-          "timestamp": 1794032395,
-          "slug": "ja2-tok-teg-2026-11-07-tok",
-          "event_slug": "ja2-tok-teg-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.69,
-          "value": 144.20999999999998,
-          "timestamp": 1794032272,
-          "slug": "aus-auc-wel-2026-11-06-total-1pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.2099999873,
-          "value": 2.970000000385703,
-          "timestamp": 1794032271,
-          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.2971428571,
-          "value": 2.0799999997,
-          "timestamp": 1794032176,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.28,
-          "value": 22.0864,
-          "timestamp": 1794032151,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
         }
       ]
     },
     {
       "address": "0x74b75e8436613e36fac0e007a01dfd33753d8b0b",
       "label": "RNGUzi",
+      "specialty": "Soccer+NFL",
       "stats48h": {
         "wins": 11,
         "losses": 1,
@@ -6063,6 +6082,7 @@
     {
       "address": "0x11963e4f3548c5cbdcce3a62f9ff6b42975efe97",
       "label": "0x11963E4f",
+      "specialty": "NBA+Politics",
       "stats48h": {
         "wins": 4,
         "losses": 3,
@@ -6154,6 +6174,7 @@
     {
       "address": "0xa927cdfebebe4ba309386f12201f4fb0bccb8d9f",
       "label": "JabJabich",
+      "specialty": "Tennis+NFL",
       "stats48h": {
         "wins": 14,
         "losses": 18,
@@ -6718,6 +6739,7 @@
     {
       "address": "0xfc0847fe2ea938d6e2624650eb29ef8d8142a137",
       "label": "0xfC0847fe",
+      "specialty": "Soccer+NHL",
       "stats48h": {
         "wins": 25,
         "losses": 3,
@@ -7038,5 +7060,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T06:52:49.182Z"
+  "lastUpdate": "2026-11-07T06:59:51.668Z"
 }
