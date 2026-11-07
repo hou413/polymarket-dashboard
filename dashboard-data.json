@@ -2204,9 +2204,9 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 11,
+        "totalTrades": 10,
         "winRate": 0,
-        "volume": 8987.953000000001,
+        "volume": 8974.89938,
         "pnl": 0
       },
       "recentTrades": [
@@ -2318,17 +2318,6 @@
           "timestamp": 1793784988,
           "slug": "will-marine-le-pen-win-the-2027-french-presidential-election",
           "event_slug": "next-french-presidential-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.034,
-          "value": 13.05362,
-          "timestamp": 1793775672,
-          "slug": "will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687",
-          "event_slug": "democratic-presidential-nominee-2028",
           "result": "ongoing"
         }
       ]
@@ -4808,13 +4797,24 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 9,
-        "losses": 14,
+        "losses": 13,
         "totalTrades": 500,
-        "winRate": 0.391304347826087,
-        "volume": 6001.608050037251,
+        "winRate": 0.4090909090909091,
+        "volume": 5944.828050037251,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.25,
+          "value": 2.5,
+          "timestamp": 1794034932,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "TCU vs. Arizona",
           "side": "BUY",
@@ -5353,17 +5353,6 @@
           "slug": "nba-sas-sac-2026-11-06-spread-away-14pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
           "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-18.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.38,
-          "value": 59.28,
-          "timestamp": 1794030022,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "loss"
         }
       ]
     },
@@ -5376,10 +5365,142 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1927.8988200086796,
+        "volume": 2254.2509970075976,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "LG Sakers vs. Goyang",
+          "side": "BUY",
+          "outcome": "Goyang",
+          "price": 0.01,
+          "value": 2.38,
+          "timestamp": 1794035221,
+          "slug": "bkkbl-lg-goy-2026-11-07",
+          "event_slug": "bkkbl-lg-goy-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nantong Zhiyun vs. Foshan Nanshi FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.1167127395,
+          "value": 3.8699999983959934,
+          "timestamp": 1794035221,
+          "slug": "chi2-nan-fos-2026-11-07-total-4pt5",
+          "event_slug": "chi2-nan-fos-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
+          "side": "BUY",
+          "outcome": "Melbourne Renegades",
+          "price": 0.91,
+          "value": 63.7,
+          "timestamp": 1794035194,
+          "slug": "cricwbbl-mer-ads-2026-11-06",
+          "event_slug": "cricwbbl-mer-ads-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "LG Sakers vs. Goyang",
+          "side": "BUY",
+          "outcome": "LG Sakers",
+          "price": 0.88,
+          "value": 26.4,
+          "timestamp": 1794035118,
+          "slug": "bkkbl-lg-goy-2026-11-07",
+          "event_slug": "bkkbl-lg-goy-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "TheMongolz",
+          "price": 0.46,
+          "value": 47.1914,
+          "timestamp": 1794035113,
+          "slug": "cs2-mglz-navi-2026-11-07",
+          "event_slug": "cs2-mglz-navi-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ningbo Professional FC vs. Jiangxi Dingnan United end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8037978523,
+          "value": 25.919997001311394,
+          "timestamp": 1794035104,
+          "slug": "chi2-nip-jia-2026-11-07-draw",
+          "event_slug": "chi2-nip-jia-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ningbo Professional FC vs. Jiangxi Dingnan United end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.81,
+          "value": 315.09000000000003,
+          "timestamp": 1794035103,
+          "slug": "chi2-nip-jia-2026-11-07-draw",
+          "event_slug": "chi2-nip-jia-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ningbo Professional FC vs. Jiangxi Dingnan United end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.81,
+          "value": 24.3,
+          "timestamp": 1794035101,
+          "slug": "chi2-nip-jia-2026-11-07-draw",
+          "event_slug": "chi2-nip-jia-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ningbo Professional FC vs. Jiangxi Dingnan United end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.81,
+          "value": 88.29,
+          "timestamp": 1794035100,
+          "slug": "chi2-nip-jia-2026-11-07-draw",
+          "event_slug": "chi2-nip-jia-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Shenzhen Juniors FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.04,
+          "value": 1.1500000000000001,
+          "timestamp": 1794035022,
+          "slug": "chi2-she-sud-2026-11-07-she",
+          "event_slug": "chi2-she-sud-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
+          "side": "BUY",
+          "outcome": "New Zealand",
+          "price": 0.06,
+          "value": 2.6399999999999997,
+          "timestamp": 1794034951,
+          "slug": "crint-nzl-ind-2026-11-06",
+          "event_slug": "crint-nzl-ind-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Arizona (-4.5)",
+          "side": "BUY",
+          "outcome": "Arizona",
+          "price": 0.04,
+          "value": 11.83,
+          "timestamp": 1794034948,
+          "slug": "cfb-tcu-arz-2026-11-06-spread-home-4pt5",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Arizona (-4.5)",
           "side": "BUY",
@@ -5796,138 +5917,6 @@
           "timestamp": 1794033367,
           "slug": "kor-jej-gwa-2026-11-07-total-3pt5",
           "event_slug": "kor-jej-gwa-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jeju SK FC vs. Gwangju FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.14,
-          "value": 4.2,
-          "timestamp": 1794033360,
-          "slug": "kor-jej-gwa-2026-11-07-total-3pt5",
-          "event_slug": "kor-jej-gwa-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will US gas hit $4.40 (High) in November?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.057,
-          "value": 2.85,
-          "timestamp": 1794033319,
-          "slug": "will-gas-hit-4pt40-high-by-november-30-2026",
-          "event_slug": "will-gas-hit-by-end-of-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.55,
-          "value": 4.251500000000001,
-          "timestamp": 1794033244,
-          "slug": "aus-auc-wel-2026-11-06-total-0pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 0.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.462,
-          "value": 13.88772,
-          "timestamp": 1794033210,
-          "slug": "aus-auc-wel-2026-11-06-total-0pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4699999967,
-          "value": 14.13000000078936,
-          "timestamp": 1794033208,
-          "slug": "aus-auc-wel-2026-11-06-total-0pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.35,
-          "value": 80.5,
-          "timestamp": 1794032907,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.15,
-          "value": 3.15,
-          "timestamp": 1794032812,
-          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.22,
-          "value": 2.86,
-          "timestamp": 1794032725,
-          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.22,
-          "value": 4.4,
-          "timestamp": 1794032725,
-          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.22,
-          "value": 1.54,
-          "timestamp": 1794032724,
-          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.74,
-          "value": 63.64,
-          "timestamp": 1794032688,
-          "slug": "aus-auc-wel-2026-11-06-total-1pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the 10-year Treasury yield hit 5.33% in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.91,
-          "value": 91,
-          "timestamp": 1794032583,
-          "slug": "will-the-10-year-treasury-yield-hit-5pt33-in-november",
-          "event_slug": "how-high-will-10-year-treasury-yield-go-in-november",
           "result": "ongoing"
         }
       ]
@@ -7060,5 +7049,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T07:03:23.503Z"
+  "lastUpdate": "2026-11-07T07:12:30.626Z"
 }
