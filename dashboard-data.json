@@ -600,12 +600,34 @@
       "stats48h": {
         "wins": 6,
         "losses": 24,
-        "totalTrades": 35,
+        "totalTrades": 37,
         "winRate": 0.2,
-        "volume": 98668.4508000745,
+        "volume": 106395.50200007451,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Rangers (-1.5)",
+          "side": "BUY",
+          "outcome": "Rangers",
+          "price": 0.33,
+          "value": 2239.1952,
+          "timestamp": 1794043659,
+          "slug": "nhl-nyr-sea-2026-11-07-spread-away-1pt5",
+          "event_slug": "nhl-nyr-sea-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rangers vs. Kraken",
+          "side": "BUY",
+          "outcome": "Rangers",
+          "price": 0.55,
+          "value": 5487.856000000001,
+          "timestamp": 1794043581,
+          "slug": "nhl-nyr-sea-2026-11-07",
+          "event_slug": "nhl-nyr-sea-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Lightning (-1.5)",
           "side": "BUY",
@@ -2259,9 +2281,9 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 10,
+        "totalTrades": 9,
         "winRate": 0,
-        "volume": 8974.89938,
+        "volume": 5211.22822,
         "pnl": 0
       },
       "recentTrades": [
@@ -2362,17 +2384,6 @@
           "timestamp": 1793801682,
           "slug": "will-ted-cruz-win-the-2028-us-presidential-election",
           "event_slug": "presidential-election-winner-2028",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Marine Le Pen win the 2027 French presidential election?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.397,
-          "value": 3763.6711600000003,
-          "timestamp": 1793784988,
-          "slug": "will-marine-le-pen-win-the-2027-french-presidential-election",
-          "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         }
       ]
@@ -5420,10 +5431,54 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1895.7688550032958,
+        "volume": 1403.6103950884765,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
+          "side": "BUY",
+          "outcome": "New Zealand",
+          "price": 0.049,
+          "value": 3.50154,
+          "timestamp": 1794044133,
+          "slug": "crint-nzl-ind-2026-11-06",
+          "event_slug": "crint-nzl-ind-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
+          "side": "BUY",
+          "outcome": "New Zealand",
+          "price": 0.0488185373,
+          "value": 96.39000008518069,
+          "timestamp": 1794044133,
+          "slug": "crint-nzl-ind-2026-11-06",
+          "event_slug": "crint-nzl-ind-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.18,
+          "value": 2.34,
+          "timestamp": 1794044101,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.17,
+          "value": 1.7000000000000002,
+          "timestamp": 1794044034,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
         {
           "title": "Victoria Women T20I: Namibia Women vs USA Women",
           "side": "BUY",
@@ -5926,50 +5981,6 @@
           "price": 0.94,
           "value": 224.66,
           "timestamp": 1794042555,
-          "slug": "kor2-gimp-ang-2026-11-07-ang",
-          "event_slug": "kor2-gimp-ang-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ansan Greeners FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 196.45999999999998,
-          "timestamp": 1794042553,
-          "slug": "kor2-gimp-ang-2026-11-07-ang",
-          "event_slug": "kor2-gimp-ang-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ansan Greeners FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 140.06,
-          "timestamp": 1794042552,
-          "slug": "kor2-gimp-ang-2026-11-07-ang",
-          "event_slug": "kor2-gimp-ang-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ansan Greeners FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 96.82,
-          "timestamp": 1794042550,
-          "slug": "kor2-gimp-ang-2026-11-07-ang",
-          "event_slug": "kor2-gimp-ang-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ansan Greeners FC win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.93,
-          "value": 162.75,
-          "timestamp": 1794042549,
           "slug": "kor2-gimp-ang-2026-11-07-ang",
           "event_slug": "kor2-gimp-ang-2026-11-07",
           "result": "ongoing"
@@ -8051,5 +8062,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T09:32:07.698Z"
+  "lastUpdate": "2026-11-07T09:43:24.104Z"
 }
