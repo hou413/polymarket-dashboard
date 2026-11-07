@@ -30,10 +30,10 @@
       "address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
       "label": "sports_whale_1",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 11,
+        "losses": 7,
         "totalTrades": 500,
-        "winRate": 0,
+        "winRate": 0.6111111111111112,
         "volume": 13638.293399996499,
         "pnl": 0
       },
@@ -135,7 +135,7 @@
           "timestamp": 1794029709,
           "slug": "nba-por-lal-2026-11-06-total-220pt5",
           "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Trail Blazers vs. Lakers: O/U 220.5",
@@ -146,7 +146,7 @@
           "timestamp": 1794029709,
           "slug": "nba-por-lal-2026-11-06-total-220pt5",
           "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-18.5)",
@@ -157,7 +157,7 @@
           "timestamp": 1794029532,
           "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-20.5)",
@@ -168,7 +168,7 @@
           "timestamp": 1794029532,
           "slug": "nba-sas-sac-2026-11-06-spread-away-20pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-20.5)",
@@ -179,7 +179,7 @@
           "timestamp": 1794029532,
           "slug": "nba-sas-sac-2026-11-06-spread-away-20pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-18.5)",
@@ -190,7 +190,7 @@
           "timestamp": 1794029532,
           "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Lakers (-6.5)",
@@ -256,7 +256,7 @@
           "timestamp": 1794029122,
           "slug": "nba-sas-sac-2026-11-06-total-236pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-17.5)",
@@ -267,7 +267,7 @@
           "timestamp": 1794028822,
           "slug": "nba-sas-sac-2026-11-06-spread-away-17pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Lakers (-4.5)",
@@ -399,7 +399,7 @@
           "timestamp": 1794028378,
           "slug": "nba-sas-sac-2026-11-06-spread-away-16pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-17.5)",
@@ -410,7 +410,7 @@
           "timestamp": 1794028378,
           "slug": "nba-sas-sac-2026-11-06-spread-away-17pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spurs vs. Kings: O/U 232.5",
@@ -421,7 +421,7 @@
           "timestamp": 1794028378,
           "slug": "nba-sas-sac-2026-11-06-total-232pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-18.5)",
@@ -432,7 +432,7 @@
           "timestamp": 1794028224,
           "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Lakers (-7.5)",
@@ -454,7 +454,7 @@
           "timestamp": 1794027775,
           "slug": "nba-sas-sac-2026-11-06-spread-away-20pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spurs vs. Kings: O/U 228.5",
@@ -465,7 +465,7 @@
           "timestamp": 1794027687,
           "slug": "nba-sas-sac-2026-11-06-total-228pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spurs vs. Kings: O/U 244.5",
@@ -476,7 +476,7 @@
           "timestamp": 1794027687,
           "slug": "nba-sas-sac-2026-11-06-total-244pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spurs vs. Kings: O/U 228.5",
@@ -487,7 +487,7 @@
           "timestamp": 1794027687,
           "slug": "nba-sas-sac-2026-11-06-total-228pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Lakers (-8.5)",
@@ -542,7 +542,7 @@
           "timestamp": 1794027141,
           "slug": "nba-sas-sac-2026-11-06-spread-away-13pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-18.5)",
@@ -553,7 +553,7 @@
           "timestamp": 1794027108,
           "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Trail Blazers (-6.5)",
@@ -4048,9 +4048,9 @@
       "label": "chongchong37",
       "stats48h": {
         "wins": 8,
-        "losses": 5,
+        "losses": 7,
         "totalTrades": 15,
-        "winRate": 0.6153846153846154,
+        "winRate": 0.5333333333333333,
         "volume": 41866.732500000006,
         "pnl": 0
       },
@@ -4064,7 +4064,7 @@
           "timestamp": 1794019326,
           "slug": "nba-sas-sac-2026-11-06-spread-away-16pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Celtics (-8.5)",
@@ -4097,7 +4097,7 @@
           "timestamp": 1793979046,
           "slug": "nba-sas-sac-2026-11-06-spread-away-16pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "76ers vs. Cavaliers",
@@ -4226,10 +4226,10 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 34,
+        "wins": 42,
         "losses": 3,
         "totalTrades": 98,
-        "winRate": 0.918918918918919,
+        "winRate": 0.9333333333333333,
         "volume": 126131.44043048154,
         "pnl": 0
       },
@@ -4254,7 +4254,7 @@
           "timestamp": 1794015883,
           "slug": "nba-sas-sac-2026-11-06",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "76ers vs. Cavaliers",
@@ -4298,7 +4298,7 @@
           "timestamp": 1794009834,
           "slug": "nba-sas-sac-2026-11-06",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Casper Ruud vs Nuno Borges",
@@ -4397,7 +4397,7 @@
           "timestamp": 1793993424,
           "slug": "nba-sas-sac-2026-11-06",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spurs vs. Kings",
@@ -4408,7 +4408,7 @@
           "timestamp": 1793992989,
           "slug": "nba-sas-sac-2026-11-06",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
@@ -4430,7 +4430,7 @@
           "timestamp": 1793992518,
           "slug": "nba-sas-sac-2026-11-06",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
@@ -4452,7 +4452,7 @@
           "timestamp": 1793974530,
           "slug": "nba-sas-sac-2026-11-06",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
@@ -4628,7 +4628,7 @@
           "timestamp": 1793919633,
           "slug": "nba-sas-sac-2026-11-06",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spurs vs. Kings",
@@ -4639,7 +4639,7 @@
           "timestamp": 1793919541,
           "slug": "nba-sas-sac-2026-11-06",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Juventus FC win on 2026-11-05?",
@@ -4790,14 +4790,36 @@
       "address": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
       "label": "takeormake",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 7,
+        "losses": 3,
         "totalTrades": 500,
-        "winRate": 0,
-        "volume": 3132.9011999807594,
+        "winRate": 0.7,
+        "volume": 2315.5411999807593,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.45,
+          "value": 3.15,
+          "timestamp": 1794032067,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.34,
+          "value": 3.06,
+          "timestamp": 1794031596,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Lakers (-5.5)",
           "side": "BUY",
@@ -5115,7 +5137,7 @@
           "timestamp": 1794030024,
           "slug": "nba-sas-sac-2026-11-06-spread-away-17pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-14.5)",
@@ -5126,7 +5148,7 @@
           "timestamp": 1794030024,
           "slug": "nba-sas-sac-2026-11-06-spread-away-14pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-18.5)",
@@ -5137,7 +5159,7 @@
           "timestamp": 1794030022,
           "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-20.5)",
@@ -5148,7 +5170,7 @@
           "timestamp": 1794030022,
           "slug": "nba-sas-sac-2026-11-06-spread-away-20pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Trail Blazers vs. Lakers",
@@ -5203,7 +5225,7 @@
           "timestamp": 1794029995,
           "slug": "nba-sas-sac-2026-11-06-spread-away-19pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-23.5)",
@@ -5214,7 +5236,7 @@
           "timestamp": 1794029995,
           "slug": "nba-sas-sac-2026-11-06-spread-away-23pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-18.5)",
@@ -5225,7 +5247,7 @@
           "timestamp": 1794029995,
           "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-23.5)",
@@ -5236,7 +5258,7 @@
           "timestamp": 1794029985,
           "slug": "nba-sas-sac-2026-11-06-spread-away-23pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-18.5)",
@@ -5247,7 +5269,7 @@
           "timestamp": 1794029967,
           "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-27.5)",
@@ -5258,7 +5280,7 @@
           "timestamp": 1794029967,
           "slug": "nba-sas-sac-2026-11-06-spread-away-27pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Lakers (-7.5)",
@@ -5325,28 +5347,6 @@
           "slug": "nba-por-lal-2026-11-06-spread-home-5pt5",
           "event_slug": "nba-por-lal-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "TCU vs. Arizona",
-          "side": "BUY",
-          "outcome": "Arizona",
-          "price": 0.45,
-          "value": 2.7,
-          "timestamp": 1794029638,
-          "slug": "cfb-tcu-arz-2026-11-06",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "TCU vs. Arizona",
-          "side": "BUY",
-          "outcome": "Arizona",
-          "price": 0.43,
-          "value": 820.87,
-          "timestamp": 1794029574,
-          "slug": "cfb-tcu-arz-2026-11-06",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "ongoing"
         }
       ]
     },
@@ -5358,10 +5358,263 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 6892.8295999349875,
+        "volume": 10380.443000050367,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.36,
+          "value": 2.16,
+          "timestamp": 1794032074,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.3599999922,
+          "value": 3.6999999998333317,
+          "timestamp": 1794032073,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.36,
+          "value": 7.199999999999999,
+          "timestamp": 1794032071,
+          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.37,
+          "value": 1.85,
+          "timestamp": 1794032047,
+          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Fagiano Okayama win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.642,
+          "value": 16.05,
+          "timestamp": 1794031998,
+          "slug": "jap-yom-fag-2026-11-07-fag",
+          "event_slug": "jap-yom-fag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Fagiano Okayama win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.68,
+          "value": 37.400000000000006,
+          "timestamp": 1794031995,
+          "slug": "jap-yom-fag-2026-11-07-fag",
+          "event_slug": "jap-yom-fag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.05,
+          "value": 1.2400000000000002,
+          "timestamp": 1794031987,
+          "slug": "jap-yom-fag-2026-11-07-yom",
+          "event_slug": "jap-yom-fag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Yokohama F·Marinos vs. Fagiano Okayama: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.74,
+          "value": 22.94,
+          "timestamp": 1794031929,
+          "slug": "jap-yom-fag-2026-11-07-total-2pt5",
+          "event_slug": "jap-yom-fag-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
+          "side": "BUY",
+          "outcome": "New Zealand",
+          "price": 0.06,
+          "value": 34.68,
+          "timestamp": 1794031902,
+          "slug": "crint-nzl-ind-2026-11-06",
+          "event_slug": "crint-nzl-ind-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.29,
+          "value": 25.81,
+          "timestamp": 1794031864,
+          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+          "event_slug": "new-zealand-legislative-election-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.29,
+          "value": 5.8,
+          "timestamp": 1794031864,
+          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+          "event_slug": "new-zealand-legislative-election-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Tokushima Vortis win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.85,
+          "value": 26.349999999999998,
+          "timestamp": 1794031848,
+          "slug": "ja2-tok-teg-2026-11-07-tok",
+          "event_slug": "ja2-tok-teg-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.79,
+          "value": 32.39,
+          "timestamp": 1794031770,
+          "slug": "jap-yom-fag-2026-11-07-yom",
+          "event_slug": "jap-yom-fag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.79,
+          "value": 35.550000000000004,
+          "timestamp": 1794031768,
+          "slug": "jap-yom-fag-2026-11-07-yom",
+          "event_slug": "jap-yom-fag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.79,
+          "value": 26.86,
+          "timestamp": 1794031768,
+          "slug": "jap-yom-fag-2026-11-07-yom",
+          "event_slug": "jap-yom-fag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
+          "side": "BUY",
+          "outcome": "New Zealand",
+          "price": 0.06,
+          "value": 13.32,
+          "timestamp": 1794031767,
+          "slug": "crint-nzl-ind-2026-11-06",
+          "event_slug": "crint-nzl-ind-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.79,
+          "value": 62.410000000000004,
+          "timestamp": 1794031767,
+          "slug": "jap-yom-fag-2026-11-07-yom",
+          "event_slug": "jap-yom-fag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.79,
+          "value": 40.29,
+          "timestamp": 1794031765,
+          "slug": "jap-yom-fag-2026-11-07-yom",
+          "event_slug": "jap-yom-fag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.55,
+          "value": 2.75,
+          "timestamp": 1794031705,
+          "slug": "jap-yom-fag-2026-11-07-yom",
+          "event_slug": "jap-yom-fag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Yokohama F·Marinos win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.49,
+          "value": 96.0743,
+          "timestamp": 1794031702,
+          "slug": "jap-yom-fag-2026-11-07-yom",
+          "event_slug": "jap-yom-fag-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.39,
+          "value": 11.700000000000001,
+          "timestamp": 1794031632,
+          "slug": "aus-auc-wel-2026-11-06-total-1pt5",
+          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
+          "side": "SELL",
+          "outcome": "India",
+          "price": 0.92,
+          "value": 1755.3600000000001,
+          "timestamp": 1794031578,
+          "slug": "crint-nzl-ind-2026-11-06",
+          "event_slug": "crint-nzl-ind-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
+          "side": "BUY",
+          "outcome": "India",
+          "price": 0.93,
+          "value": 1784.67,
+          "timestamp": 1794031576,
+          "slug": "crint-nzl-ind-2026-11-06",
+          "event_slug": "crint-nzl-ind-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "India Tour of New Zealand ODIs: New Zealand vs India",
           "side": "BUY",
@@ -5658,262 +5911,9 @@
           "slug": "jap-ssp-fct1-2026-11-06-draw",
           "event_slug": "jap-ssp-fct1-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.0417844665,
-          "value": 116.609999884875,
-          "timestamp": 1794031044,
-          "slug": "nba-por-lal-2026-11-06",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.34,
-          "value": 6.460000000000001,
-          "timestamp": 1794030804,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.37,
-          "value": 11.1,
-          "timestamp": 1794030736,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.37,
-          "value": 65.49,
-          "timestamp": 1794030735,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.37,
-          "value": 9.25,
-          "timestamp": 1794030733,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.4,
-          "value": 22.380000000000003,
-          "timestamp": 1794030712,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-6.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.61,
-          "value": 45.75,
-          "timestamp": 1794030711,
-          "slug": "nba-por-lal-2026-11-06-spread-home-6pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-6.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.65,
-          "value": 16.25,
-          "timestamp": 1794030607,
-          "slug": "nba-por-lal-2026-11-06-spread-home-6pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
-          "side": "BUY",
-          "outcome": "New Zealand",
-          "price": 0.08,
-          "value": 63.9,
-          "timestamp": 1794030562,
-          "slug": "crint-nzl-ind-2026-11-06",
-          "event_slug": "crint-nzl-ind-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-3.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.24,
-          "value": 15.36,
-          "timestamp": 1794030424,
-          "slug": "nba-por-lal-2026-11-06-spread-home-3pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
-          "side": "BUY",
-          "outcome": "India",
-          "price": 0.9,
-          "value": 82.8,
-          "timestamp": 1794030417,
-          "slug": "crint-nzl-ind-2026-11-06",
-          "event_slug": "crint-nzl-ind-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-5.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.4,
-          "value": 8.74,
-          "timestamp": 1794030405,
-          "slug": "nba-por-lal-2026-11-06-spread-home-5pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Yokohama F·Marinos vs. Fagiano Okayama: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.4000000000000001,
-          "timestamp": 1794030381,
-          "slug": "jap-yom-fag-2026-11-07-first-half-total-0pt5",
-          "event_slug": "jap-yom-fag-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-14.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.01,
-          "value": 1.67,
-          "timestamp": 1794030357,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-14pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-14.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.01,
-          "value": 6.53,
-          "timestamp": 1794030357,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-14pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings: O/U 234.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.08,
-          "value": 1.58,
-          "timestamp": 1794030339,
-          "slug": "nba-sas-sac-2026-11-06-total-234pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings: O/U 234.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.24,
-          "value": 6,
-          "timestamp": 1794030256,
-          "slug": "nba-sas-sac-2026-11-06-total-234pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Wellington Phoenix FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.64,
-          "value": 27.52,
-          "timestamp": 1794030246,
-          "slug": "aus-auc-wel-2026-11-06-wel",
-          "event_slug": "aus-auc-wel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-4.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.08,
-          "value": 2.22,
-          "timestamp": 1794030234,
-          "slug": "nba-por-lal-2026-11-06-spread-home-4pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings: O/U 236.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.97,
-          "value": 43.65,
-          "timestamp": 1794030219,
-          "slug": "nba-sas-sac-2026-11-06-total-236pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings: O/U 236.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.05,
-          "value": 1.29,
-          "timestamp": 1794030217,
-          "slug": "nba-sas-sac-2026-11-06-total-236pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers",
-          "side": "SELL",
-          "outcome": "Trail Blazers",
-          "price": 0.03,
-          "value": 1.4708999999999999,
-          "timestamp": 1794030130,
-          "slug": "nba-por-lal-2026-11-06",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.0309999994,
-          "value": 1.5199999995806446,
-          "timestamp": 1794030124,
-          "slug": "nba-por-lal-2026-11-06",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T06:07:18.604Z"
+  "lastUpdate": "2026-11-07T06:15:46.274Z"
 }
