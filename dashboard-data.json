@@ -1637,10 +1637,10 @@
       "label": "Thunderous-Snarl",
       "specialty": "综合",
       "stats48h": {
-        "wins": 21,
+        "wins": 23,
         "losses": 27,
-        "totalTrades": 168,
-        "winRate": 0.4375,
+        "totalTrades": 166,
+        "winRate": 0.46,
         "volume": 701263.3430045288,
         "pnl": 0
       },
@@ -1654,7 +1654,7 @@
           "timestamp": 1794037798,
           "slug": "cs2-mglz-navi-2026-11-07",
           "event_slug": "cs2-mglz-navi-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
@@ -1665,7 +1665,7 @@
           "timestamp": 1794036852,
           "slug": "cs2-mglz-navi-2026-11-07",
           "event_slug": "cs2-mglz-navi-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -3002,10 +3002,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 8113.608260051047,
+        "volume": 8125.774760050746,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7577352941,
+          "value": 12.881499999699999,
+          "timestamp": 1794042409,
+          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 200-219 tweets from November 3 to November 10, 2026?",
           "side": "SELL",
@@ -3542,17 +3553,6 @@
           "value": 0.04802000000000001,
           "timestamp": 1794005382,
           "slug": "elon-musk-of-tweets-november-3-november-10-2026-460-479",
-          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 320-339 tweets from November 3 to November 10, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.11,
-          "value": 0.715,
-          "timestamp": 1794002812,
-          "slug": "elon-musk-of-tweets-november-3-november-10-2026-320-339",
           "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
           "result": "ongoing"
         }
@@ -5365,10 +5365,373 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1027.9545000008563,
+        "volume": 1881.4891669996198,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Ansan Greeners FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.94,
+          "value": 140.06,
+          "timestamp": 1794042552,
+          "slug": "kor2-gimp-ang-2026-11-07-ang",
+          "event_slug": "",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ansan Greeners FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.94,
+          "value": 96.82,
+          "timestamp": 1794042550,
+          "slug": "kor2-gimp-ang-2026-11-07-ang",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ansan Greeners FC win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 162.75,
+          "timestamp": 1794042549,
+          "slug": "kor2-gimp-ang-2026-11-07-ang",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Gimpo FC vs. Ansan Greeners FC: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.67,
+          "value": 19.43,
+          "timestamp": 1794042549,
+          "slug": "kor2-gimp-ang-2026-11-07-total-3pt5",
+          "event_slug": "kor2-gimp-ang-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ansan Greeners FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.91,
+          "value": 221.13,
+          "timestamp": 1794042546,
+          "slug": "kor2-gimp-ang-2026-11-07-ang",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ansan Greeners FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.91,
+          "value": 82.81,
+          "timestamp": 1794042544,
+          "slug": "kor2-gimp-ang-2026-11-07-ang",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimpo FC vs. Ansan Greeners FC end in a draw?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.77,
+          "value": 11.703999999999999,
+          "timestamp": 1794042541,
+          "slug": "kor2-gimp-ang-2026-11-07-draw",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimpo FC vs. Ansan Greeners FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.72,
+          "value": 24.624000000000002,
+          "timestamp": 1794042538,
+          "slug": "kor2-gimp-ang-2026-11-07-draw",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimpo FC vs. Ansan Greeners FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.72,
+          "value": 23.04,
+          "timestamp": 1794042537,
+          "slug": "kor2-gimp-ang-2026-11-07-draw",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimpo FC vs. Ansan Greeners FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.72,
+          "value": 22.32,
+          "timestamp": 1794042535,
+          "slug": "kor2-gimp-ang-2026-11-07-draw",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Anyang win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9703337903,
+          "value": 29.129989000407118,
+          "timestamp": 1794042495,
+          "slug": "kor-san-any-2026-11-07-any",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Anyang win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9709999996,
+          "value": 34.019988999985586,
+          "timestamp": 1794042487,
+          "slug": "kor-san-any-2026-11-07-any",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Anyang win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9709999996,
+          "value": 34.019988999985586,
+          "timestamp": 1794042486,
+          "slug": "kor-san-any-2026-11-07-any",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimcheon Sangmu FC vs. FC Anyang end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.78,
+          "value": 60.84,
+          "timestamp": 1794042486,
+          "slug": "kor-san-any-2026-11-07-draw",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.34,
+          "value": 6.800000000000001,
+          "timestamp": 1794042442,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.3465292842,
+          "value": 12.780000001296001,
+          "timestamp": 1794042415,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Tokyo Sunrockers vs. Kyoto Hannaryz",
+          "side": "BUY",
+          "outcome": "Tokyo Sunrockers",
+          "price": 0.45,
+          "value": 14.85,
+          "timestamp": 1794042414,
+          "slug": "bkjpn-sun-kyo-2026-11-07",
+          "event_slug": "bkjpn-sun-kyo-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.3499999951,
+          "value": 7.110000000459999,
+          "timestamp": 1794042414,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Hwaseong FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7,
+          "value": 9.94,
+          "timestamp": 1794042411,
+          "slug": "kor2-gim-hwa-2026-11-07-hwa",
+          "event_slug": "kor2-gim-hwa-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Hwaseong FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7,
+          "value": 36.4,
+          "timestamp": 1794042357,
+          "slug": "kor2-gim-hwa-2026-11-07-hwa",
+          "event_slug": "kor2-gim-hwa-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Melbourne City FC vs. Western Sydney Wanderers FC: 1st Half O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.58,
+          "value": 17.4,
+          "timestamp": 1794042351,
+          "slug": "aus-mct-wsw-2026-11-07-first-half-total-1pt5",
+          "event_slug": "aus-mct-wsw-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Melbourne City FC vs. Western Sydney Wanderers FC: 1st Half O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.579999997,
+          "value": 15.340000000655174,
+          "timestamp": 1794042349,
+          "slug": "aus-mct-wsw-2026-11-07-first-half-total-1pt5",
+          "event_slug": "aus-mct-wsw-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.36,
+          "value": 7.199999999999999,
+          "timestamp": 1794042211,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Seoul E-Land FC vs. Jeonnam Dragons: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.3436651537,
+          "value": 10.849999999813637,
+          "timestamp": 1794042183,
+          "slug": "kor2-sel-jed-2026-11-07-total-4pt5",
+          "event_slug": "kor2-sel-jed-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.3802255539,
+          "value": 7.7799999999214515,
+          "timestamp": 1794042183,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.39,
+          "value": 34.71,
+          "timestamp": 1794042183,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Seoul E-Land FC vs. Jeonnam Dragons end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.97,
+          "value": 36.2295,
+          "timestamp": 1794042093,
+          "slug": "kor2-sel-jed-2026-11-07-draw",
+          "event_slug": "kor2-sel-jed-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Brisbane Heat vs Hobart Hurricanes",
+          "side": "BUY",
+          "outcome": "Brisbane Heat",
+          "price": 0.85,
+          "value": 147.04999999999998,
+          "timestamp": 1794042040,
+          "slug": "cricwbbl-brh-hoh-2026-11-07",
+          "event_slug": "cricwbbl-brh-hoh-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
+          "side": "BUY",
+          "outcome": "New Zealand",
+          "price": 0.032,
+          "value": 8.736,
+          "timestamp": 1794042016,
+          "slug": "crint-nzl-ind-2026-11-06",
+          "event_slug": "crint-nzl-ind-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Brisbane Heat vs Hobart Hurricanes",
+          "side": "BUY",
+          "outcome": "Hobart Hurricanes",
+          "price": 0.15,
+          "value": 8.25,
+          "timestamp": 1794041992,
+          "slug": "cricwbbl-brh-hoh-2026-11-07",
+          "event_slug": "cricwbbl-brh-hoh-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ansan Greeners FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.22,
+          "value": 8.3314,
+          "timestamp": 1794041979,
+          "slug": "kor2-gimp-ang-2026-11-07-ang",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4210973062,
+          "value": 47.29999999754721,
+          "timestamp": 1794041976,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4199999687,
+          "value": 4.2999999995475955,
+          "timestamp": 1794041971,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
         {
           "title": "Will FC Anyang win on 2026-11-07?",
           "side": "BUY",
@@ -5554,369 +5917,6 @@
           "timestamp": 1794041523,
           "slug": "jap-rey-kaw-2026-11-07-rey",
           "event_slug": "jap-rey-kaw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.09,
-          "value": 1.26,
-          "timestamp": 1794041514,
-          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.12,
-          "value": 23.3352,
-          "timestamp": 1794041349,
-          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Gimpo FC vs. Ansan Greeners FC end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.72,
-          "value": 21.599999999999998,
-          "timestamp": 1794041314,
-          "slug": "kor2-gimp-ang-2026-11-07-draw",
-          "event_slug": "kor2-gimp-ang-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.12,
-          "value": 2.4,
-          "timestamp": 1794041203,
-          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kashiwa Reysol vs. Kawasaki Frontale end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.85,
-          "value": 2.975,
-          "timestamp": 1794041062,
-          "slug": "jap-rey-kaw-2026-11-07-draw",
-          "event_slug": "jap-rey-kaw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Osaka Evessa vs. Ibaraki Robots",
-          "side": "BUY",
-          "outcome": "Osaka Evessa",
-          "price": 0.0077777778,
-          "value": 1.2600000036,
-          "timestamp": 1794041017,
-          "slug": "bkjpn-osa-iba-2026-11-07",
-          "event_slug": "bkjpn-osa-iba-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Gimpo FC vs. Ansan Greeners FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.63,
-          "value": 30.240000000000002,
-          "timestamp": 1794041007,
-          "slug": "kor2-gimp-ang-2026-11-07-total-2pt5",
-          "event_slug": "kor2-gimp-ang-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Gimpo FC vs. Ansan Greeners FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.63,
-          "value": 61.11,
-          "timestamp": 1794041005,
-          "slug": "kor2-gimp-ang-2026-11-07-total-2pt5",
-          "event_slug": "kor2-gimp-ang-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "Natus Vincere",
-          "price": 0.08,
-          "value": 24.76,
-          "timestamp": 1794040990,
-          "slug": "cs2-mglz-navi-2026-11-07",
-          "event_slug": "cs2-mglz-navi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
-          "side": "BUY",
-          "outcome": "TheMongolz",
-          "price": 0.89,
-          "value": 9.1937,
-          "timestamp": 1794040983,
-          "slug": "cs2-mglz-navi-2026-11-07",
-          "event_slug": "cs2-mglz-navi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the 10-year Treasury yield hit 5.21% in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.85,
-          "value": 51,
-          "timestamp": 1794040914,
-          "slug": "will-the-10-year-treasury-yield-hit-5pt21-in-november",
-          "event_slug": "how-high-will-10-year-treasury-yield-go-in-november",
-          "result": "ongoing"
-        },
-        {
-          "title": "Gimpo FC vs. Ansan Greeners FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.48,
-          "value": 25.439999999999998,
-          "timestamp": 1794040912,
-          "slug": "kor2-gimp-ang-2026-11-07-total-2pt5",
-          "event_slug": "kor2-gimp-ang-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the match end in a draw?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.62,
-          "value": 20.46,
-          "timestamp": 1794040873,
-          "slug": "crint-afg-zwe-2026-11-05-draw",
-          "event_slug": "crint-afg-zwe-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the match end in a draw?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.62,
-          "value": 17.36,
-          "timestamp": 1794040872,
-          "slug": "crint-afg-zwe-2026-11-05-draw",
-          "event_slug": "crint-afg-zwe-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the match end in a draw?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.62,
-          "value": 46.5,
-          "timestamp": 1794040821,
-          "slug": "crint-afg-zwe-2026-11-05-draw",
-          "event_slug": "crint-afg-zwe-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Seoul E-Land FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.34,
-          "value": 5.78,
-          "timestamp": 1794040821,
-          "slug": "kor2-sel-jed-2026-11-07-sel",
-          "event_slug": "kor2-sel-jed-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the match end in a draw?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.62,
-          "value": 37.82,
-          "timestamp": 1794040819,
-          "slug": "crint-afg-zwe-2026-11-05-draw",
-          "event_slug": "crint-afg-zwe-2026-11-05",
-          "result": "ongoing"
-        },
-        {
-          "title": "Victoria Women T20I: Namibia Women vs USA Women",
-          "side": "BUY",
-          "outcome": "Namibia Women",
-          "price": 0.71,
-          "value": 3.55,
-          "timestamp": 1794040758,
-          "slug": "crint-namw-usaw-2026-11-07",
-          "event_slug": "crint-namw-usaw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Victoria Women T20I: Namibia Women vs USA Women",
-          "side": "BUY",
-          "outcome": "Namibia Women",
-          "price": 0.69,
-          "value": 0.1863,
-          "timestamp": 1794040756,
-          "slug": "crint-namw-usaw-2026-11-07",
-          "event_slug": "crint-namw-usaw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.16,
-          "value": 3.2,
-          "timestamp": 1794040696,
-          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.16,
-          "value": 16,
-          "timestamp": 1794040695,
-          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Anyang win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.3299999928,
-          "value": 3.229999999527271,
-          "timestamp": 1794040615,
-          "slug": "kor-san-any-2026-11-07-any",
-          "event_slug": "kor-san-any-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Anyang win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.33,
-          "value": 3.3000000000000003,
-          "timestamp": 1794040614,
-          "slug": "kor-san-any-2026-11-07-any",
-          "event_slug": "kor-san-any-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Anyang win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.33,
-          "value": 3.3000000000000003,
-          "timestamp": 1794040612,
-          "slug": "kor-san-any-2026-11-07-any",
-          "event_slug": "kor-san-any-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Anyang win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.33,
-          "value": 13.200000000000001,
-          "timestamp": 1794040611,
-          "slug": "kor-san-any-2026-11-07-any",
-          "event_slug": "kor-san-any-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.1668198817,
-          "value": 4.5899999999302805,
-          "timestamp": 1794040557,
-          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.16,
-          "value": 3.4,
-          "timestamp": 1794040557,
-          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.17,
-          "value": 5.95,
-          "timestamp": 1794040555,
-          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.17,
-          "value": 2.3800000000000003,
-          "timestamp": 1794040375,
-          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Alexandra Eala win the 2026 Hong Kong, Hong Kong?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.4971330275,
-          "value": 34.6799999984,
-          "timestamp": 1794040312,
-          "slug": "wta-tournament-winner-2026-136332-competitor-627278",
-          "event_slug": "wta-tournament-winner-2026-136332",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Alexandra Eala win the 2026 Hong Kong, Hong Kong?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.5098800252,
-          "value": 10.19999999939859,
-          "timestamp": 1794040312,
-          "slug": "wta-tournament-winner-2026-136332-competitor-627278",
-          "event_slug": "wta-tournament-winner-2026-136332",
-          "result": "ongoing"
-        },
-        {
-          "title": "Gimpo FC vs. Ansan Greeners FC: Both Teams to Score",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.68,
-          "value": 57.120000000000005,
-          "timestamp": 1794040291,
-          "slug": "kor2-gimp-ang-2026-11-07-btts",
-          "event_slug": "kor2-gimp-ang-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.17,
-          "value": 3.74,
-          "timestamp": 1794040071,
-          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
           "result": "ongoing"
         }
       ]
@@ -6166,13 +6166,24 @@
       "specialty": "Tennis+NFL",
       "stats48h": {
         "wins": 14,
-        "losses": 18,
-        "totalTrades": 145,
-        "winRate": 0.4375,
-        "volume": 39774.5530688145,
+        "losses": 17,
+        "totalTrades": 146,
+        "winRate": 0.45161290322580644,
+        "volume": 39670.5734688145,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: Four Magic vs MASONIC - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "MASONIC",
+          "price": 0.69,
+          "value": 20.1204,
+          "timestamp": 1794042156,
+          "slug": "cs2-4m1-msc-2026-11-07-game2",
+          "event_slug": "cs2-4m1-msc-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: Four Magic vs MASONIC - Map 2 Winner",
           "side": "BUY",
@@ -6711,17 +6722,6 @@
           "slug": "will-donald-trump-publicly-insult-ken-paxton-by-october-31-2026",
           "event_slug": "who-will-trump-publicly-insult-by-october-31-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: eSuba vs BRUTE SQ - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "eSuba",
-          "price": 0.73,
-          "value": 124.1,
-          "timestamp": 1793911123,
-          "slug": "cs2-esb-brutes-2026-11-05-game2",
-          "event_slug": "cs2-esb-brutes-2026-11-05",
-          "result": "loss"
         }
       ]
     },
@@ -7919,7 +7919,7 @@
       "label": "wefwfwejkmld",
       "specialty": "J1+综合",
       "stats48h": {
-        "wins": 2,
+        "wins": 4,
         "losses": 0,
         "totalTrades": 6,
         "winRate": 1,
@@ -7958,7 +7958,7 @@
           "timestamp": 1794036772,
           "slug": "ja2-sag-kat-2026-11-07-total-3pt5",
           "event_slug": "ja2-sag-kat-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Sagan Tosu vs. Kataller Toyama: O/U 3.5",
@@ -7969,7 +7969,7 @@
           "timestamp": 1794033061,
           "slug": "ja2-sag-kat-2026-11-07-total-3pt5",
           "event_slug": "ja2-sag-kat-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "US x Iran effective ceasefire continues through November 8, 2026?",
@@ -7996,5 +7996,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T09:01:19.147Z"
+  "lastUpdate": "2026-11-07T09:11:08.188Z"
 }
