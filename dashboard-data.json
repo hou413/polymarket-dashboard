@@ -31,9 +31,9 @@
       "label": "sports_whale_1",
       "stats48h": {
         "wins": 11,
-        "losses": 7,
+        "losses": 9,
         "totalTrades": 500,
-        "winRate": 0.6111111111111112,
+        "winRate": 0.55,
         "volume": 13638.293399996499,
         "pnl": 0
       },
@@ -333,7 +333,7 @@
           "timestamp": 1794028509,
           "slug": "nba-por-lal-2026-11-06-total-218pt5",
           "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Lakers (-17.5)",
@@ -377,7 +377,7 @@
           "timestamp": 1794028509,
           "slug": "nba-por-lal-2026-11-06-total-218pt5",
           "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Lakers (-7.5)",
@@ -4790,14 +4790,36 @@
       "address": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
       "label": "takeormake",
       "stats48h": {
-        "wins": 7,
+        "wins": 8,
         "losses": 3,
         "totalTrades": 500,
-        "winRate": 0.7,
-        "volume": 2315.5411999807593,
+        "winRate": 0.7272727272727273,
+        "volume": 2299.5811999807593,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.41,
+          "value": 2.8699999999999997,
+          "timestamp": 1794032523,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.41,
+          "value": 2.8699999999999997,
+          "timestamp": 1794032500,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "TCU vs. Arizona",
           "side": "BUY",
@@ -5203,7 +5225,7 @@
           "timestamp": 1794030000,
           "slug": "nba-por-lal-2026-11-06-total-222pt5",
           "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Lakers (-3.5)",
@@ -5325,28 +5347,6 @@
           "slug": "nba-por-lal-2026-11-06-spread-home-7pt5",
           "event_slug": "nba-por-lal-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-3.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.742,
-          "value": 18.55,
-          "timestamp": 1794029742,
-          "slug": "nba-por-lal-2026-11-06-spread-home-3pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-5.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.63,
-          "value": 3.15,
-          "timestamp": 1794029742,
-          "slug": "nba-por-lal-2026-11-06-spread-home-5pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
         }
       ]
     },
@@ -5358,10 +5358,197 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 10380.443000050367,
+        "volume": 8740.14070000075,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the 10-year Treasury yield hit 5.33% in November?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.91,
+          "value": 91,
+          "timestamp": 1794032583,
+          "slug": "will-the-10-year-treasury-yield-hit-5pt33-in-november",
+          "event_slug": "how-high-will-10-year-treasury-yield-go-in-november",
+          "result": "ongoing"
+        },
+        {
+          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.2899999965,
+          "value": 4.979999999896552,
+          "timestamp": 1794032581,
+          "slug": "aus-auc-wel-2026-11-06-total-1pt5",
+          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sagan Tosu vs. Kataller Toyama: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.38,
+          "value": 9.5,
+          "timestamp": 1794032541,
+          "slug": "ja2-sag-kat-2026-11-07-total-2pt5",
+          "event_slug": "ja2-sag-kat-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sagan Tosu vs. Kataller Toyama: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.37,
+          "value": 4.4399999999999995,
+          "timestamp": 1794032532,
+          "slug": "ja2-sag-kat-2026-11-07-total-2pt5",
+          "event_slug": "ja2-sag-kat-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.34,
+          "value": 2.72,
+          "timestamp": 1794032494,
+          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.34,
+          "value": 3.4000000000000004,
+          "timestamp": 1794032494,
+          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.34,
+          "value": 17,
+          "timestamp": 1794032493,
+          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.3299999978,
+          "value": 4.5899999994,
+          "timestamp": 1794032472,
+          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.32,
+          "value": 1.7,
+          "timestamp": 1794032469,
+          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.32,
+          "value": 1.87,
+          "timestamp": 1794032467,
+          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elec",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.32,
+          "value": 16.32,
+          "timestamp": 1794032467,
+          "slug": "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Tokushima Vortis win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.96,
+          "value": 37.44,
+          "timestamp": 1794032395,
+          "slug": "ja2-tok-teg-2026-11-07-tok",
+          "event_slug": "ja2-tok-teg-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.69,
+          "value": 144.20999999999998,
+          "timestamp": 1794032272,
+          "slug": "aus-auc-wel-2026-11-06-total-1pt5",
+          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Labour Party win the most seats in the New Zealand House of Representatives",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.2099999873,
+          "value": 2.970000000385703,
+          "timestamp": 1794032271,
+          "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+          "event_slug": "new-zealand-legislative-election-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
+          "side": "BUY",
+          "outcome": "Adelaide Strikers",
+          "price": 0.2971428571,
+          "value": 2.0799999997,
+          "timestamp": 1794032176,
+          "slug": "cricwbbl-mer-ads-2026-11-06",
+          "event_slug": "cricwbbl-mer-ads-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
+          "side": "BUY",
+          "outcome": "Adelaide Strikers",
+          "price": 0.28,
+          "value": 22.0864,
+          "timestamp": 1794032151,
+          "slug": "cricwbbl-mer-ads-2026-11-06",
+          "event_slug": "cricwbbl-mer-ads-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
+          "side": "BUY",
+          "outcome": "Adelaide Strikers",
+          "price": 0.27,
+          "value": 16.740000000000002,
+          "timestamp": 1794032149,
+          "slug": "cricwbbl-mer-ads-2026-11-06",
+          "event_slug": "cricwbbl-mer-ads-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
           "side": "BUY",
@@ -5724,196 +5911,9 @@
           "slug": "aus-auc-wel-2026-11-06-draw",
           "event_slug": "aus-auc-wel-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.17,
-          "value": 4.08,
-          "timestamp": 1794031422,
-          "slug": "aus-auc-wel-2026-11-06-total-2pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.42,
-          "value": 0.4074,
-          "timestamp": 1794031393,
-          "slug": "aus-auc-wel-2026-11-06-total-1pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.775,
-          "value": 58.9,
-          "timestamp": 1794031332,
-          "slug": "aus-auc-wel-2026-11-06-total-0pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Wellington Phoenix FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.36,
-          "value": 15.479999999999999,
-          "timestamp": 1794031324,
-          "slug": "aus-auc-wel-2026-11-06-wel",
-          "event_slug": "aus-auc-wel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Wellington Phoenix FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.36,
-          "value": 18.72,
-          "timestamp": 1794031324,
-          "slug": "aus-auc-wel-2026-11-06-wel",
-          "event_slug": "aus-auc-wel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Auckland FC vs. Wellington Phoenix FC end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.64,
-          "value": 47.36,
-          "timestamp": 1794031324,
-          "slug": "aus-auc-wel-2026-11-06-draw",
-          "event_slug": "aus-auc-wel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Wellington Phoenix FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.35,
-          "value": 19.88,
-          "timestamp": 1794031320,
-          "slug": "aus-auc-wel-2026-11-06-wel",
-          "event_slug": "aus-auc-wel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Wellington Phoenix FC win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.35,
-          "value": 3.5,
-          "timestamp": 1794031311,
-          "slug": "aus-auc-wel-2026-11-06-wel",
-          "event_slug": "aus-auc-wel-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.45,
-          "value": 22.5,
-          "timestamp": 1794031303,
-          "slug": "aus-auc-wel-2026-11-06-total-1pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-6.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.6,
-          "value": 16.2,
-          "timestamp": 1794031248,
-          "slug": "nba-por-lal-2026-11-06-spread-home-6pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-8.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.97,
-          "value": 756.2993,
-          "timestamp": 1794031224,
-          "slug": "nba-por-lal-2026-11-06-spread-home-8pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-2.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.96,
-          "value": 24,
-          "timestamp": 1794031183,
-          "slug": "nba-por-lal-2026-11-06-spread-home-2pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-1.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.9829900498,
-          "value": 987.905000049,
-          "timestamp": 1794031177,
-          "slug": "nba-por-lal-2026-11-06-spread-home-1pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.32,
-          "value": 21.76,
-          "timestamp": 1794031164,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.32,
-          "value": 9.92,
-          "timestamp": 1794031123,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.32,
-          "value": 7.68,
-          "timestamp": 1794031119,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Shimizu S-Pulse vs. Tōkyō Verdy end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9,
-          "value": 8.757000000000001,
-          "timestamp": 1794031056,
-          "slug": "jap-ssp-fct1-2026-11-06-draw",
-          "event_slug": "jap-ssp-fct1-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T06:15:46.274Z"
+  "lastUpdate": "2026-11-07T06:24:16.383Z"
 }
