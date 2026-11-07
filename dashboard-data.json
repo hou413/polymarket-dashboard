@@ -600,12 +600,34 @@
       "stats48h": {
         "wins": 6,
         "losses": 22,
-        "totalTrades": 45,
+        "totalTrades": 47,
         "winRate": 0.21428571428571427,
-        "volume": 111034.5640002745,
+        "volume": 112828.49320027452,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Penguins (-1.5)",
+          "side": "BUY",
+          "outcome": "Penguins",
+          "price": 0.28,
+          "value": 1400.0000000000002,
+          "timestamp": 1794071853,
+          "slug": "nhl-pit-lak-2026-11-07-spread-away-1pt5",
+          "event_slug": "nhl-pit-lak-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Penguins (-1.5)",
+          "side": "BUY",
+          "outcome": "Penguins",
+          "price": 0.28,
+          "value": 393.92920000000004,
+          "timestamp": 1794071851,
+          "slug": "nhl-pit-lak-2026-11-07-spread-away-1pt5",
+          "event_slug": "nhl-pit-lak-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Penguins vs. Kings",
           "side": "BUY",
@@ -1239,7 +1261,7 @@
       "stats48h": {
         "wins": 11,
         "losses": 0,
-        "totalTrades": 103,
+        "totalTrades": 98,
         "winRate": 1,
         "volume": 13665.61477885982,
         "pnl": 0
@@ -2775,13 +2797,24 @@
       "specialty": "Soccer+UFC",
       "stats48h": {
         "wins": 8,
-        "losses": 17,
-        "totalTrades": 35,
-        "winRate": 0.32,
-        "volume": 344626.3081782179,
+        "losses": 18,
+        "totalTrades": 36,
+        "winRate": 0.3076923076923077,
+        "volume": 598426.308178218,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Manchester City FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.6,
+          "value": 253800,
+          "timestamp": 1794072601,
+          "slug": "epl-not-mac-2026-11-07-mac",
+          "event_slug": "epl-not-mac-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs",
           "side": "BUY",
@@ -2802,7 +2835,7 @@
           "timestamp": 1794067035,
           "slug": "epl-ars-hul-2026-11-07-spread-home-1pt5",
           "event_slug": "epl-ars-hul-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Will Arsenal FC win on 2026-11-07?",
@@ -4304,11 +4337,11 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 8,
+        "wins": 9,
         "losses": 8,
-        "totalTrades": 18,
-        "winRate": 0.5,
-        "volume": 48336.069499798345,
+        "totalTrades": 17,
+        "winRate": 0.5294117647058824,
+        "volume": 47766.924299798346,
         "pnl": 0
       },
       "recentTrades": [
@@ -4321,7 +4354,7 @@
           "timestamp": 1794069579,
           "slug": "epl-ars-hul-2026-11-07-total-1pt5",
           "event_slug": "epl-ars-hul-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Arsenal FC vs. Hull City AFC: O/U 1.5",
@@ -4332,7 +4365,7 @@
           "timestamp": 1794069382,
           "slug": "epl-ars-hul-2026-11-07-total-1pt5",
           "event_slug": "epl-ars-hul-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "1. FC Nürnberg vs. SV Darmstadt 98: O/U 1.5",
@@ -4498,17 +4531,6 @@
           "slug": "nba-phi-det-2026-11-04-spread-home-4pt5",
           "event_slug": "nba-phi-det-2026-11-04",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Grizzlies (-6.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.52,
-          "value": 569.1452,
-          "timestamp": 1793812909,
-          "slug": "nba-ind-mem-2026-11-04-spread-home-6pt5",
-          "event_slug": "nba-ind-mem-2026-11-04",
-          "result": "win"
         }
       ]
     },
@@ -4519,7 +4541,7 @@
       "stats48h": {
         "wins": 42,
         "losses": 3,
-        "totalTrades": 95,
+        "totalTrades": 94,
         "winRate": 0.9333333333333333,
         "volume": 126131.44043048154,
         "pnl": 0
@@ -5082,14 +5104,190 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 3,
-        "losses": 1,
+        "wins": 0,
+        "losses": 0,
         "totalTrades": 500,
-        "winRate": 0.75,
-        "volume": 4311.1374000969745,
+        "winRate": 0,
+        "volume": 2528.426699990675,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "BYU vs. Utah",
+          "side": "BUY",
+          "outcome": "BYU",
+          "price": 0.165,
+          "value": 2.31,
+          "timestamp": 1794072702,
+          "slug": "cfb-byu-utah-2026-11-07",
+          "event_slug": "cfb-byu-utah-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas vs. Missouri: O/U 47.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 44.28,
+          "timestamp": 1794072663,
+          "slug": "cfb-tx-missr-2026-11-07-total-47pt5",
+          "event_slug": "cfb-tx-missr-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "North Carolina vs. UConn",
+          "side": "BUY",
+          "outcome": "UConn",
+          "price": 0.28,
+          "value": 581.4872,
+          "timestamp": 1794072640,
+          "slug": "cfb-ncar-uconn-2026-11-07",
+          "event_slug": "cfb-ncar-uconn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: North Carolina (-7.5)",
+          "side": "BUY",
+          "outcome": "North Carolina",
+          "price": 0.49,
+          "value": 9.8,
+          "timestamp": 1794072636,
+          "slug": "cfb-ncar-uconn-2026-11-07-spread-away-7pt5",
+          "event_slug": "cfb-ncar-uconn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "North Carolina vs. UConn",
+          "side": "BUY",
+          "outcome": "North Carolina",
+          "price": 0.75,
+          "value": 168.7425,
+          "timestamp": 1794072636,
+          "slug": "cfb-ncar-uconn-2026-11-07",
+          "event_slug": "cfb-ncar-uconn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas vs. Missouri",
+          "side": "BUY",
+          "outcome": "Texas",
+          "price": 0.45,
+          "value": 9,
+          "timestamp": 1794072621,
+          "slug": "cfb-tx-missr-2026-11-07",
+          "event_slug": "cfb-tx-missr-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Utah (-4.5)",
+          "side": "BUY",
+          "outcome": "BYU",
+          "price": 0.2882490272,
+          "value": 74.0799999904,
+          "timestamp": 1794072484,
+          "slug": "cfb-byu-utah-2026-11-07-spread-home-4pt5",
+          "event_slug": "cfb-byu-utah-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Iowa State vs. Baylor",
+          "side": "BUY",
+          "outcome": "Iowa State",
+          "price": 0.38,
+          "value": 1.9,
+          "timestamp": 1794072202,
+          "slug": "cfb-iowast-bayl-2026-11-07",
+          "event_slug": "cfb-iowast-bayl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Syracuse (-2.5)",
+          "side": "BUY",
+          "outcome": "Clemson",
+          "price": 0.55,
+          "value": 30.800000000000004,
+          "timestamp": 1794072165,
+          "slug": "cfb-clmsn-syra-2026-11-07-spread-home-2pt5",
+          "event_slug": "cfb-clmsn-syra-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Syracuse (-6.5)",
+          "side": "BUY",
+          "outcome": "Clemson",
+          "price": 0.69,
+          "value": 25.529999999999998,
+          "timestamp": 1794072163,
+          "slug": "cfb-clmsn-syra-2026-11-07-spread-home-6pt5",
+          "event_slug": "cfb-clmsn-syra-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Syracuse (-7.5)",
+          "side": "BUY",
+          "outcome": "Clemson",
+          "price": 0.76,
+          "value": 22.8,
+          "timestamp": 1794072163,
+          "slug": "cfb-clmsn-syra-2026-11-07-spread-home-7pt5",
+          "event_slug": "cfb-clmsn-syra-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Clemson (-7.5)",
+          "side": "BUY",
+          "outcome": "Clemson",
+          "price": 0.27,
+          "value": 25.650000000000002,
+          "timestamp": 1794072163,
+          "slug": "cfb-clmsn-syra-2026-11-07-spread-away-7pt5",
+          "event_slug": "cfb-clmsn-syra-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Syracuse (-3.5)",
+          "side": "BUY",
+          "outcome": "Clemson",
+          "price": 0.63,
+          "value": 28.35,
+          "timestamp": 1794072163,
+          "slug": "cfb-clmsn-syra-2026-11-07-spread-home-3pt5",
+          "event_slug": "cfb-clmsn-syra-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Clemson (-5.5)",
+          "side": "BUY",
+          "outcome": "Clemson",
+          "price": 0.34,
+          "value": 28.220000000000002,
+          "timestamp": 1794072163,
+          "slug": "cfb-clmsn-syra-2026-11-07-spread-away-5pt5",
+          "event_slug": "cfb-clmsn-syra-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Clemson vs. Syracuse",
+          "side": "BUY",
+          "outcome": "Clemson",
+          "price": 0.52,
+          "value": 26,
+          "timestamp": 1794072163,
+          "slug": "cfb-clmsn-syra-2026-11-07",
+          "event_slug": "cfb-clmsn-syra-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Baylor (-10.5)",
+          "side": "BUY",
+          "outcome": "Iowa State",
+          "price": 0.62,
+          "value": 3.1,
+          "timestamp": 1794072159,
+          "slug": "cfb-iowast-bayl-2026-11-07-spread-home-10pt5",
+          "event_slug": "cfb-iowast-bayl-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: BYU (-3.5)",
           "side": "BUY",
@@ -5463,182 +5661,6 @@
           "slug": "cfb-byu-utah-2026-11-07-spread-home-2pt5",
           "event_slug": "cfb-byu-utah-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Iowa State vs. Baylor",
-          "side": "BUY",
-          "outcome": "Iowa State",
-          "price": 0.2,
-          "value": 1.8,
-          "timestamp": 1794071275,
-          "slug": "cfb-iowast-bayl-2026-11-07",
-          "event_slug": "cfb-iowast-bayl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas vs. Missouri",
-          "side": "BUY",
-          "outcome": "Missouri",
-          "price": 0.45,
-          "value": 206.55,
-          "timestamp": 1794071221,
-          "slug": "cfb-tx-missr-2026-11-07",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas vs. Missouri",
-          "side": "BUY",
-          "outcome": "Missouri",
-          "price": 0.45,
-          "value": 4.95,
-          "timestamp": 1794071139,
-          "slug": "cfb-tx-missr-2026-11-07",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Clemson vs. Syracuse",
-          "side": "BUY",
-          "outcome": "Clemson",
-          "price": 0.52,
-          "value": 97.76,
-          "timestamp": 1794071013,
-          "slug": "cfb-clmsn-syra-2026-11-07",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Clemson (-4.5)",
-          "side": "BUY",
-          "outcome": "Clemson",
-          "price": 0.3772972973,
-          "value": 27.9200000002,
-          "timestamp": 1794071010,
-          "slug": "cfb-clmsn-syra-2026-11-07-spread-away-4pt5",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Clemson (-3.5)",
-          "side": "BUY",
-          "outcome": "Clemson",
-          "price": 0.3971428571,
-          "value": 27.799999997,
-          "timestamp": 1794071010,
-          "slug": "cfb-clmsn-syra-2026-11-07-spread-away-3pt5",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Syracuse (-6.5)",
-          "side": "BUY",
-          "outcome": "Clemson",
-          "price": 0.71,
-          "value": 23.43,
-          "timestamp": 1794071010,
-          "slug": "cfb-clmsn-syra-2026-11-07-spread-home-6pt5",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Clemson (-6.5)",
-          "side": "BUY",
-          "outcome": "Clemson",
-          "price": 0.33,
-          "value": 26.07,
-          "timestamp": 1794071010,
-          "slug": "cfb-clmsn-syra-2026-11-07-spread-away-6pt5",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Syracuse (-1.5)",
-          "side": "BUY",
-          "outcome": "Clemson",
-          "price": 0.5498,
-          "value": 27.49,
-          "timestamp": 1794071010,
-          "slug": "cfb-clmsn-syra-2026-11-07-spread-home-1pt5",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Clemson (-5.5)",
-          "side": "BUY",
-          "outcome": "Clemson",
-          "price": 0.35,
-          "value": 26.25,
-          "timestamp": 1794071010,
-          "slug": "cfb-clmsn-syra-2026-11-07-spread-away-5pt5",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Clemson (-1.5)",
-          "side": "BUY",
-          "outcome": "Clemson",
-          "price": 0.4866101695,
-          "value": 28.710000000500003,
-          "timestamp": 1794071010,
-          "slug": "cfb-clmsn-syra-2026-11-07-spread-away-1pt5",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Syracuse (-4.5)",
-          "side": "BUY",
-          "outcome": "Clemson",
-          "price": 0.65,
-          "value": 24.7,
-          "timestamp": 1794071010,
-          "slug": "cfb-clmsn-syra-2026-11-07-spread-home-4pt5",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "TCU vs. Arizona",
-          "side": "BUY",
-          "outcome": "TCU",
-          "price": 0.25,
-          "value": 2.5,
-          "timestamp": 1794034932,
-          "slug": "cfb-tcu-arz-2026-11-06",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "TCU vs. Arizona",
-          "side": "BUY",
-          "outcome": "Arizona",
-          "price": 0.1,
-          "value": 1.3,
-          "timestamp": 1794034558,
-          "slug": "cfb-tcu-arz-2026-11-06",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "TCU vs. Arizona: O/U 51.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.954280393,
-          "value": 2331.307000099,
-          "timestamp": 1794034185,
-          "slug": "cfb-tcu-arz-2026-11-06-total-51pt5",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spread: TCU (-3.5)",
-          "side": "BUY",
-          "outcome": "Arizona",
-          "price": 0.58,
-          "value": 6.2234,
-          "timestamp": 1794034185,
-          "slug": "cfb-tcu-arz-2026-11-06-spread-away-3pt5",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "win"
         }
       ]
     },
@@ -5651,10 +5673,241 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2260.2842270055053,
+        "volume": 2009.9097460076282,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
+          "side": "BUY",
+          "outcome": "Kent State Golden Flashes",
+          "price": 0.1575739378,
+          "value": 3.2799999990181252,
+          "timestamp": 1794072772,
+          "slug": "cwbb-kentst-nkent-2026-11-07",
+          "event_slug": "cwbb-kentst-nkent-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
+          "side": "BUY",
+          "outcome": "Kent State Golden Flashes",
+          "price": 0.1548551417,
+          "value": 1.5200000002490626,
+          "timestamp": 1794072724,
+          "slug": "cwbb-kentst-nkent-2026-11-07",
+          "event_slug": "cwbb-kentst-nkent-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Galatasaray SK vs. Amed Sportif: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.2699999986,
+          "value": 29.810000005429632,
+          "timestamp": 1794072645,
+          "slug": "tur-gal-ame-2026-11-07-total-6pt5",
+          "event_slug": "tur-gal-ame-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Galatasaray SK vs. Amed Sportif: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.269999992,
+          "value": 8.129999999111105,
+          "timestamp": 1794072643,
+          "slug": "tur-gal-ame-2026-11-07-total-6pt5",
+          "event_slug": "tur-gal-ame-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "North Carolina vs. UConn",
+          "side": "BUY",
+          "outcome": "North Carolina",
+          "price": 0.72,
+          "value": 41.04,
+          "timestamp": 1794072643,
+          "slug": "cfb-ncar-uconn-2026-11-07",
+          "event_slug": "cfb-ncar-uconn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
+          "side": "BUY",
+          "outcome": "Northern Kentucky Norse",
+          "price": 0.8562629734,
+          "value": 12.899999000290657,
+          "timestamp": 1794072637,
+          "slug": "cwbb-kentst-nkent-2026-11-07",
+          "event_slug": "cwbb-kentst-nkent-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Next Fable Model (5.2+) released by November 30, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.09,
+          "value": 1.7999999999999998,
+          "timestamp": 1794072504,
+          "slug": "next-fable-model-5pt2-released-by-november-30-2026",
+          "event_slug": "next-fable-model-5pt2-released-byptptpt",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Pendikspor win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.08,
+          "value": 0.4864,
+          "timestamp": 1794072361,
+          "slug": "tur2-pen-ias-2026-11-07-pen",
+          "event_slug": "tur2-pen-ias-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Fortuna Sittard vs. Telstar 1963: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.02,
+          "value": 2.0300000000000002,
+          "timestamp": 1794072324,
+          "slug": "ere-sit-tel-2026-11-07-total-4pt5",
+          "event_slug": "ere-sit-tel-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Galatasaray SK (-3.5)",
+          "side": "BUY",
+          "outcome": "Galatasaray SK",
+          "price": 0.21,
+          "value": 26.669999999999998,
+          "timestamp": 1794072295,
+          "slug": "tur-gal-ame-2026-11-07-spread-home-3pt5",
+          "event_slug": "tur-gal-ame-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
+          "side": "BUY",
+          "outcome": "Kent State Golden Flashes",
+          "price": 0.18,
+          "value": 0.0252,
+          "timestamp": 1794072289,
+          "slug": "cwbb-kentst-nkent-2026-11-07",
+          "event_slug": "cwbb-kentst-nkent-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: FC DAC 1904 Dunajská Streda (-1.5)",
+          "side": "BUY",
+          "outcome": "FC DAC 1904 Dunajská Streda",
+          "price": 0.2899999987,
+          "value": 31.050000000810343,
+          "timestamp": 1794072246,
+          "slug": "svk1-dac-kos-2026-11-07-spread-home-1pt5",
+          "event_slug": "svk1-dac-kos-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Telstar 1963 win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.9288311688,
+          "value": 71.51999999760001,
+          "timestamp": 1794072246,
+          "slug": "ere-sit-tel-2026-11-07-tel",
+          "event_slug": "ere-sit-tel-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Fortuna Sittard vs. Telstar 1963 end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.08,
+          "value": 4.51,
+          "timestamp": 1794072241,
+          "slug": "ere-sit-tel-2026-11-07-draw",
+          "event_slug": "ere-sit-tel-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Telstar 1963 win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.92,
+          "value": 70.84,
+          "timestamp": 1794072237,
+          "slug": "ere-sit-tel-2026-11-07-tel",
+          "event_slug": "ere-sit-tel-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
+          "side": "BUY",
+          "outcome": "Kent State Golden Flashes",
+          "price": 0.16,
+          "value": 6.4,
+          "timestamp": 1794072225,
+          "slug": "cwbb-kentst-nkent-2026-11-07",
+          "event_slug": "cwbb-kentst-nkent-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
+          "side": "BUY",
+          "outcome": "Kent State Golden Flashes",
+          "price": 0.13,
+          "value": 1.04,
+          "timestamp": 1794072202,
+          "slug": "cwbb-kentst-nkent-2026-11-07",
+          "event_slug": "cwbb-kentst-nkent-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Galatasaray SK win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.002,
+          "value": 0.57802,
+          "timestamp": 1794072195,
+          "slug": "tur-gal-ame-2026-11-07-gal",
+          "event_slug": "tur-gal-ame-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Iowa State vs. Baylor: O/U 49.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.46,
+          "value": 13.8,
+          "timestamp": 1794072157,
+          "slug": "cfb-iowast-bayl-2026-11-07-total-49pt5",
+          "event_slug": "cfb-iowast-bayl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Young Boys Bern win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.32,
+          "value": 0.26239999999999997,
+          "timestamp": 1794072133,
+          "slug": "sui-luz-yb-2026-11-07-yb",
+          "event_slug": "sui-luz-yb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Young Boys Bern win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.32,
+          "value": 13.120000000000001,
+          "timestamp": 1794072129,
+          "slug": "sui-luz-yb-2026-11-07-yb",
+          "event_slug": "sui-luz-yb-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Morehead State Eagles vs. Louisville Cardinals",
           "side": "BUY",
@@ -5973,237 +6226,6 @@
           "slug": "atp-doubles-milashi-jansvli-2026-11-07",
           "event_slug": "atp-doubles-milashi-jansvli-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Odense BK win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.7171824973,
-          "value": 10.0799999995515,
-          "timestamp": 1794071512,
-          "slug": "den-ode-vib-2026-11-07-ode",
-          "event_slug": "den-ode-vib-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Odense BK win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.71,
-          "value": 14.2,
-          "timestamp": 1794071508,
-          "slug": "den-ode-vib-2026-11-07-ode",
-          "event_slug": "den-ode-vib-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Sion win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.67,
-          "value": 18.09,
-          "timestamp": 1794071484,
-          "slug": "sui-vad-sio-2026-11-07-sio",
-          "event_slug": "sui-vad-sio-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Sion win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.6699999823,
-          "value": 10.200000000537306,
-          "timestamp": 1794071482,
-          "slug": "sui-vad-sio-2026-11-07-sio",
-          "event_slug": "sui-vad-sio-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Bologna FC 1909 win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.78,
-          "value": 390,
-          "timestamp": 1794071479,
-          "slug": "sea-par-bol-2026-11-07-bol",
-          "event_slug": "sea-par-bol-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Bologna FC 1909 win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.23,
-          "value": 6.9,
-          "timestamp": 1794071413,
-          "slug": "sea-par-bol-2026-11-07-bol",
-          "event_slug": "sea-par-bol-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charlottesville (Doubles): Milavsky/Shick vs Jans/Vliegen",
-          "side": "BUY",
-          "outcome": "Milavsky/Shick",
-          "price": 0.4,
-          "value": 3.5700000000000003,
-          "timestamp": 1794071413,
-          "slug": "atp-doubles-milashi-jansvli-2026-11-07",
-          "event_slug": "atp-doubles-milashi-jansvli-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will RCD Espanyol de Barcelona vs. RC Deportivo A Coruña end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.01,
-          "value": 0.22,
-          "timestamp": 1794071374,
-          "slug": "lal-esp-dep-2026-11-07-draw",
-          "event_slug": "lal-esp-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Al Duhail SC (-2.5)",
-          "side": "BUY",
-          "outcome": "Al Duhail SC",
-          "price": 0.0299999999,
-          "value": 2.4800000017333335,
-          "timestamp": 1794071371,
-          "slug": "qat1-alg-duh-2026-11-07-spread-away-2pt5",
-          "event_slug": "qat1-alg-duh-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will RCD Espanyol de Barcelona vs. RC Deportivo A Coruña end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.01,
-          "value": 5.01,
-          "timestamp": 1794071370,
-          "slug": "lal-esp-dep-2026-11-07-draw",
-          "event_slug": "lal-esp-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charlottesville (Doubles): Milavsky/Shick vs Jans/Vliegen",
-          "side": "BUY",
-          "outcome": "Milavsky/Shick",
-          "price": 0.389999998,
-          "value": 1.940000000051282,
-          "timestamp": 1794071365,
-          "slug": "atp-doubles-milashi-jansvli-2026-11-07",
-          "event_slug": "atp-doubles-milashi-jansvli-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "RCD Espanyol de Barcelona vs. RC Deportivo A Coruña: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.02,
-          "value": 6.95,
-          "timestamp": 1794071364,
-          "slug": "lal-esp-dep-2026-11-07-total-0pt5",
-          "event_slug": "lal-esp-dep-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Bologna FC 1909 win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.29,
-          "value": 0.8265,
-          "timestamp": 1794071350,
-          "slug": "sea-par-bol-2026-11-07-bol",
-          "event_slug": "sea-par-bol-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Parma Calcio 1913 win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.12,
-          "value": 3.5999999999999996,
-          "timestamp": 1794071343,
-          "slug": "sea-par-bol-2026-11-07-par",
-          "event_slug": "sea-par-bol-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Bologna FC 1909 win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.2799999984,
-          "value": 6.960000000228572,
-          "timestamp": 1794071341,
-          "slug": "sea-par-bol-2026-11-07-bol",
-          "event_slug": "sea-par-bol-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Al Duhail SC (-2.5)",
-          "side": "BUY",
-          "outcome": "Al Duhail SC",
-          "price": 0.0299999998,
-          "value": 1.5499999996666665,
-          "timestamp": 1794071340,
-          "slug": "qat1-alg-duh-2026-11-07-spread-away-2pt5",
-          "event_slug": "qat1-alg-duh-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Al Duhail SC (-2.5)",
-          "side": "BUY",
-          "outcome": "Al Duhail SC",
-          "price": 0.0299999997,
-          "value": 2.1699999982999993,
-          "timestamp": 1794071338,
-          "slug": "qat1-alg-duh-2026-11-07-spread-away-2pt5",
-          "event_slug": "qat1-alg-duh-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Al Duhail SC (-2.5)",
-          "side": "BUY",
-          "outcome": "Al Duhail SC",
-          "price": 0.03,
-          "value": 3,
-          "timestamp": 1794071329,
-          "slug": "qat1-alg-duh-2026-11-07-spread-away-2pt5",
-          "event_slug": "qat1-alg-duh-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Hapoel Haifa FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.81,
-          "value": 78.57000000000001,
-          "timestamp": 1794071299,
-          "slug": "isr-iks-hh-2026-11-07-hh",
-          "event_slug": "isr-iks-hh-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: Alliance vs maybe (BO3) - ESL Challenger League Europe Cup #11 G",
-          "side": "BUY",
-          "outcome": "maybe",
-          "price": 0.1229999986,
-          "value": 1.2900000003170728,
-          "timestamp": 1794071268,
-          "slug": "cs2-all-maybe-2026-11-07",
-          "event_slug": "cs2-all-maybe-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Parma Calcio 1913 win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.18,
-          "value": 23.58,
-          "timestamp": 1794071262,
-          "slug": "sea-par-bol-2026-11-07-par",
-          "event_slug": "sea-par-bol-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -6464,7 +6486,7 @@
       "stats48h": {
         "wins": 21,
         "losses": 8,
-        "totalTrades": 178,
+        "totalTrades": 177,
         "winRate": 0.7241379310344828,
         "volume": 58486.41209106984,
         "pnl": 0
@@ -7350,10 +7372,10 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 44,
+        "wins": 45,
         "losses": 4,
         "totalTrades": 52,
-        "winRate": 0.9166666666666666,
+        "winRate": 0.9183673469387755,
         "volume": 54802.18732000001,
         "pnl": 0
       },
@@ -7400,7 +7422,7 @@
           "timestamp": 1794066675,
           "slug": "epl-ars-hul-2026-11-07-total-0pt5",
           "event_slug": "epl-ars-hul-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BV Borussia 09 Dortmund vs. SV 07 Elversberg: O/U 0.5",
@@ -8403,5 +8425,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T17:24:35.651Z"
+  "lastUpdate": "2026-11-07T17:36:03.584Z"
 }
