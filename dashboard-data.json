@@ -34,10 +34,175 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 11604.04469999429,
+        "volume": 13234.030800002396,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Spurs (-18.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.54,
+          "value": 161.73000000000002,
+          "timestamp": 1794029532,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-20.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.36,
+          "value": 107.82,
+          "timestamp": 1794029532,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-20pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-20.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.3533222037,
+          "value": 105.82000000815,
+          "timestamp": 1794029532,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-20pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-18.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.54,
+          "value": 161.73000000000002,
+          "timestamp": 1794029532,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-6.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.5,
+          "value": 500,
+          "timestamp": 1794029349,
+          "slug": "nba-por-lal-2026-11-06-spread-home-6pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-6.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.49,
+          "value": 490,
+          "timestamp": 1794029347,
+          "slug": "nba-por-lal-2026-11-06-spread-home-6pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-3.5)",
+          "side": "SELL",
+          "outcome": "Trail Blazers",
+          "price": 0.2001430615,
+          "value": 69.94999999424999,
+          "timestamp": 1794029307,
+          "slug": "nba-por-lal-2026-11-06-spread-home-3pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-3.5)",
+          "side": "SELL",
+          "outcome": "Trail Blazers",
+          "price": 0.2,
+          "value": 69.9,
+          "timestamp": 1794029307,
+          "slug": "nba-por-lal-2026-11-06-spread-home-3pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-8.5)",
+          "side": "SELL",
+          "outcome": "Trail Blazers",
+          "price": 0.44,
+          "value": 52.36,
+          "timestamp": 1794029200,
+          "slug": "nba-por-lal-2026-11-06-spread-home-8pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Kings: O/U 236.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.44,
+          "value": 2.2,
+          "timestamp": 1794029122,
+          "slug": "nba-sas-sac-2026-11-06-total-236pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-17.5)",
+          "side": "SELL",
+          "outcome": "Kings",
+          "price": 0.52,
+          "value": 116.2304,
+          "timestamp": 1794028822,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-17pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-4.5)",
+          "side": "SELL",
+          "outcome": "Trail Blazers",
+          "price": 0.19,
+          "value": 151.905,
+          "timestamp": 1794028512,
+          "slug": "nba-por-lal-2026-11-06-spread-home-4pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-4.5)",
+          "side": "SELL",
+          "outcome": "Trail Blazers",
+          "price": 0.19,
+          "value": 38.095,
+          "timestamp": 1794028510,
+          "slug": "nba-por-lal-2026-11-06-spread-home-4pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-5.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.77,
+          "value": 77.385,
+          "timestamp": 1794028510,
+          "slug": "nba-por-lal-2026-11-06-spread-home-5pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-5.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.77,
+          "value": 692.615,
+          "timestamp": 1794028510,
+          "slug": "nba-por-lal-2026-11-06-spread-home-5pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Lakers (-15.5)",
           "side": "BUY",
@@ -421,171 +586,6 @@
           "timestamp": 1794025398,
           "slug": "nba-sas-sac-2026-11-06-total-244pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings: O/U 250.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5628464659,
-          "value": 79.074299994291,
-          "timestamp": 1794025398,
-          "slug": "nba-sas-sac-2026-11-06-total-250pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings: O/U 250.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.56,
-          "value": 503.72,
-          "timestamp": 1794025398,
-          "slug": "nba-sas-sac-2026-11-06-total-250pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings: O/U 244.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.38,
-          "value": 19.19,
-          "timestamp": 1794025398,
-          "slug": "nba-sas-sac-2026-11-06-total-244pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-17.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.33,
-          "value": 6.6000000000000005,
-          "timestamp": 1794025011,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-17pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-2.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.73,
-          "value": 29.2,
-          "timestamp": 1794024984,
-          "slug": "nba-por-lal-2026-11-06-spread-home-2pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-4.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.78,
-          "value": 14.040000000000001,
-          "timestamp": 1794024813,
-          "slug": "nba-por-lal-2026-11-06-spread-home-4pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Trail Blazers (-6.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.44,
-          "value": 8.8,
-          "timestamp": 1794024813,
-          "slug": "nba-por-lal-2026-11-06-spread-away-6pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers: O/U 216.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.24,
-          "value": 1.2,
-          "timestamp": 1794024811,
-          "slug": "nba-por-lal-2026-11-06-total-216pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers: O/U 222.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.41,
-          "value": 2.05,
-          "timestamp": 1794024811,
-          "slug": "nba-por-lal-2026-11-06-total-222pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings: O/U 246.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.4,
-          "value": 80,
-          "timestamp": 1794024724,
-          "slug": "nba-sas-sac-2026-11-06-total-246pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings: O/U 256.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.7,
-          "value": 28,
-          "timestamp": 1794024715,
-          "slug": "nba-sas-sac-2026-11-06-total-256pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-20.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.55,
-          "value": 110.00000000000001,
-          "timestamp": 1794024712,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-20pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Trail Blazers (-8.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.56,
-          "value": 11.200000000000001,
-          "timestamp": 1794024667,
-          "slug": "nba-por-lal-2026-11-06-spread-away-8pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings: O/U 252.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.54,
-          "value": 270,
-          "timestamp": 1794024399,
-          "slug": "nba-sas-sac-2026-11-06-total-252pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-1.5)",
-          "side": "SELL",
-          "outcome": "Lakers",
-          "price": 0.26,
-          "value": 4.68,
-          "timestamp": 1794024399,
-          "slug": "nba-por-lal-2026-11-06-spread-home-1pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
           "result": "ongoing"
         }
       ]
@@ -1631,7 +1631,7 @@
       "stats48h": {
         "wins": 21,
         "losses": 29,
-        "totalTrades": 177,
+        "totalTrades": 168,
         "winRate": 0.42,
         "volume": 665209.6305040508,
         "pnl": 0
@@ -3011,10 +3011,21 @@
         "losses": 1,
         "totalTrades": 500,
         "winRate": 0.5,
-        "volume": 8659.1177100628,
+        "volume": 8633.576300063958,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Israel Katz be the next Prime Minister of Israel?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 3.3323899999999997,
+          "timestamp": 1794029055,
+          "slug": "will-israel-katz-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
         {
           "title": "Will Naftali Bennett be the next Prime Minister of Israel?",
           "side": "BUY",
@@ -3549,17 +3560,6 @@
           "outcome": "No",
           "price": 0.6139058824,
           "value": 177.4188000136,
-          "timestamp": 1793996581,
-          "slug": "elon-musk-of-tweets-november-5-november-7-2026-65-89",
-          "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 65-89 tweets from November 5 to November 7, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.617093396,
-          "value": 28.87379999884,
           "timestamp": 1793996581,
           "slug": "elon-musk-of-tweets-november-5-november-7-2026-65-89",
           "event_slug": "elon-musk-of-tweets-november-5-november-7-2026",
@@ -4794,10 +4794,197 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2793.6133999738004,
+        "volume": 4634.051100124116,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Lakers (-7.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.71,
+          "value": 24.4879,
+          "timestamp": 1794029776,
+          "slug": "nba-por-lal-2026-11-06-spread-home-7pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-8.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.63,
+          "value": 85.68,
+          "timestamp": 1794029776,
+          "slug": "nba-por-lal-2026-11-06-spread-home-8pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.8633411531,
+          "value": 485.784800026308,
+          "timestamp": 1794029742,
+          "slug": "nba-por-lal-2026-11-06",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-7.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.48,
+          "value": 48,
+          "timestamp": 1794029742,
+          "slug": "nba-por-lal-2026-11-06-spread-home-7pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-3.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.742,
+          "value": 18.55,
+          "timestamp": 1794029742,
+          "slug": "nba-por-lal-2026-11-06-spread-home-3pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-5.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.63,
+          "value": 3.15,
+          "timestamp": 1794029742,
+          "slug": "nba-por-lal-2026-11-06-spread-home-5pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "Arizona",
+          "price": 0.45,
+          "value": 2.7,
+          "timestamp": 1794029638,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "Arizona",
+          "price": 0.43,
+          "value": 820.87,
+          "timestamp": 1794029574,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-1.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.84,
+          "value": 16.8,
+          "timestamp": 1794029566,
+          "slug": "nba-por-lal-2026-11-06-spread-away-1pt5",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "Arizona",
+          "price": 0.44,
+          "value": 2.64,
+          "timestamp": 1794029512,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-16.5)",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.2,
+          "value": 1,
+          "timestamp": 1794029476,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-16pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-14.5)",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.12,
+          "value": 0.6,
+          "timestamp": 1794029476,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-14pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "TCU",
+          "price": 0.4795366427,
+          "value": 1531.1605001411,
+          "timestamp": 1794029473,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-27.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.19,
+          "value": 6.9654,
+          "timestamp": 1794029457,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-27pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "TCU vs. Arizona",
+          "side": "BUY",
+          "outcome": "Arizona",
+          "price": 0.51,
+          "value": 3.06,
+          "timestamp": 1794029431,
+          "slug": "cfb-tcu-arz-2026-11-06",
+          "event_slug": "cfb-tcu-arz-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Trail Blazers vs. Lakers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.1507943706,
+          "value": 70.82509998340801,
+          "timestamp": 1794029338,
+          "slug": "nba-por-lal-2026-11-06",
+          "event_slug": "nba-por-lal-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-19.5)",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.25,
+          "value": 3,
+          "timestamp": 1794029295,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-19pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Trail Blazers vs. Lakers: O/U 220.5",
           "side": "BUY",
@@ -5160,193 +5347,6 @@
           "slug": "nba-por-lal-2026-11-06-spread-home-3pt5",
           "event_slug": "nba-por-lal-2026-11-06",
           "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-6.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.29,
-          "value": 32.769999999999996,
-          "timestamp": 1794028459,
-          "slug": "nba-por-lal-2026-11-06-spread-home-6pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-2.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.13,
-          "value": 18.72,
-          "timestamp": 1794028459,
-          "slug": "nba-por-lal-2026-11-06-spread-home-2pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-8.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.41,
-          "value": 35.26,
-          "timestamp": 1794028459,
-          "slug": "nba-por-lal-2026-11-06-spread-home-8pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.91,
-          "value": 905.45,
-          "timestamp": 1794028458,
-          "slug": "nba-por-lal-2026-11-06",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-3.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.84,
-          "value": 24.36,
-          "timestamp": 1794028456,
-          "slug": "nba-por-lal-2026-11-06-spread-home-3pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-8.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.62,
-          "value": 40.3,
-          "timestamp": 1794028456,
-          "slug": "nba-por-lal-2026-11-06-spread-home-8pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-4.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.79,
-          "value": 23.700000000000003,
-          "timestamp": 1794028456,
-          "slug": "nba-por-lal-2026-11-06-spread-home-4pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-7.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.6590909091,
-          "value": 36.2500000005,
-          "timestamp": 1794028456,
-          "slug": "nba-por-lal-2026-11-06-spread-home-7pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-5.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.75,
-          "value": 30,
-          "timestamp": 1794028456,
-          "slug": "nba-por-lal-2026-11-06-spread-home-5pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Trail Blazers (-1.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.93,
-          "value": 11.16,
-          "timestamp": 1794028456,
-          "slug": "nba-por-lal-2026-11-06-spread-away-1pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-6.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.73,
-          "value": 32.85,
-          "timestamp": 1794028456,
-          "slug": "nba-por-lal-2026-11-06-spread-home-6pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-2.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.87,
-          "value": 22.62,
-          "timestamp": 1794028456,
-          "slug": "nba-por-lal-2026-11-06-spread-home-2pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-5.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.39,
-          "value": 3.9000000000000004,
-          "timestamp": 1794028243,
-          "slug": "nba-por-lal-2026-11-06-spread-home-5pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.19,
-          "value": 0.038000000000000006,
-          "timestamp": 1794028243,
-          "slug": "nba-por-lal-2026-11-06",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.011,
-          "value": 1.958,
-          "timestamp": 1794028159,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.86,
-          "value": 21.5,
-          "timestamp": 1794028116,
-          "slug": "nba-por-lal-2026-11-06",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-20.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.5,
-          "value": 44,
-          "timestamp": 1794028116,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-20pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
         }
       ]
     },
@@ -5358,10 +5358,197 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1941.6709749986703,
+        "volume": 2218.1739799981974,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spurs vs. Kings: O/U 226.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.209999998,
+          "value": 14.76999999933333,
+          "timestamp": 1794029883,
+          "slug": "nba-sas-sac-2026-11-06-total-226pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Auckland FC vs. Wellington Phoenix FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.67,
+          "value": 24.12,
+          "timestamp": 1794029853,
+          "slug": "aus-auc-wel-2026-11-06-draw",
+          "event_slug": "aus-auc-wel-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Auckland FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.31,
+          "value": 29.759999999999998,
+          "timestamp": 1794029851,
+          "slug": "aus-auc-wel-2026-11-06-auc",
+          "event_slug": "aus-auc-wel-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Wellington Phoenix FC win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.64,
+          "value": 34.56,
+          "timestamp": 1794029674,
+          "slug": "aus-auc-wel-2026-11-06-wel",
+          "event_slug": "aus-auc-wel-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Auckland FC leading at halftime?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.1643143793,
+          "value": 11.5599999966589,
+          "timestamp": 1794029566,
+          "slug": "aus-auc-wel-2026-11-06-halftime-result-home",
+          "event_slug": "aus-auc-wel-2026-11-06-halftime-result",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-17.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.69,
+          "value": 43.47,
+          "timestamp": 1794029488,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-17pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-27.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.21,
+          "value": 24.99,
+          "timestamp": 1794029365,
+          "slug": "nba-sas-sac-2026-11-06-spread-away-27pt5",
+          "event_slug": "nba-sas-sac-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Yokohama F·Marinos vs. Fagiano Okayama: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.3782031304,
+          "value": 35.15000000452941,
+          "timestamp": 1794029364,
+          "slug": "jap-yom-fag-2026-11-07-total-2pt5",
+          "event_slug": "jap-yom-fag-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Yokohama F·Marinos vs. Fagiano Okayama: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.3700131367,
+          "value": 7.4099999997053985,
+          "timestamp": 1794029362,
+          "slug": "jap-yom-fag-2026-11-07-total-2pt5",
+          "event_slug": "jap-yom-fag-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.4,
+          "value": 5.720000000000001,
+          "timestamp": 1794029359,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.41,
+          "value": 6.1499999999999995,
+          "timestamp": 1794029358,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Auckland FC vs. Wellington Phoenix FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7,
+          "value": 171.5,
+          "timestamp": 1794029355,
+          "slug": "aus-auc-wel-2026-11-06-draw",
+          "event_slug": "aus-auc-wel-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.39,
+          "value": 12.870000000000001,
+          "timestamp": 1794029353,
+          "slug": "aus-auc-wel-2026-11-06-total-2pt5",
+          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.4,
+          "value": 9.98,
+          "timestamp": 1794029250,
+          "slug": "aus-auc-wel-2026-11-06-total-2pt5",
+          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.4,
+          "value": 9.98,
+          "timestamp": 1794029248,
+          "slug": "aus-auc-wel-2026-11-06-total-2pt5",
+          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Auckland FC vs. Wellington Phoenix FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7,
+          "value": 170.79999999999998,
+          "timestamp": 1794029226,
+          "slug": "aus-auc-wel-2026-11-06-draw",
+          "event_slug": "aus-auc-wel-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Auckland FC vs. Wellington Phoenix FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7,
+          "value": 30.799999999999997,
+          "timestamp": 1794029224,
+          "slug": "aus-auc-wel-2026-11-06-draw",
+          "event_slug": "aus-auc-wel-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Will Auckland FC vs. Wellington Phoenix FC end in a draw?",
           "side": "BUY",
@@ -5370,7 +5557,7 @@
           "value": 95.89999999999999,
           "timestamp": 1794029152,
           "slug": "aus-auc-wel-2026-11-06-draw",
-          "event_slug": "",
+          "event_slug": "aus-auc-wel-2026-11-06",
           "result": "ongoing"
         },
         {
@@ -5724,196 +5911,9 @@
           "slug": "crint-bgd-wst-2026-11-04-draw",
           "event_slug": "crint-bgd-wst-2026-11-04",
           "result": "ongoing"
-        },
-        {
-          "title": "North Florida Ospreys vs. UCLA Bruins: O/U 153.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.8307338527,
-          "value": 12.389994999303498,
-          "timestamp": 1794028150,
-          "slug": "cbb-nfl-ucla-2026-11-06-total-153pt5",
-          "event_slug": "cbb-nfl-ucla-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.31,
-          "value": 49.91,
-          "timestamp": 1794028149,
-          "slug": "aus-auc-wel-2026-11-06-total-3pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.31,
-          "value": 9.3,
-          "timestamp": 1794028147,
-          "slug": "aus-auc-wel-2026-11-06-total-3pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Trail Blazers (-1.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.84,
-          "value": 53.76,
-          "timestamp": 1794028054,
-          "slug": "nba-por-lal-2026-11-06-spread-away-1pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "LG Sakers vs. Goyang",
-          "side": "BUY",
-          "outcome": "Goyang",
-          "price": 0.3,
-          "value": 8.1,
-          "timestamp": 1794028036,
-          "slug": "bkkbl-lg-goy-2026-11-07",
-          "event_slug": "bkkbl-lg-goy-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.33,
-          "value": 8.25,
-          "timestamp": 1794028026,
-          "slug": "aus-auc-wel-2026-11-06-total-3pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.46,
-          "value": 67.5372,
-          "timestamp": 1794028018,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.47,
-          "value": 24.1298,
-          "timestamp": 1794028017,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Melbourne Renegades vs Adelaide Strikers",
-          "side": "BUY",
-          "outcome": "Adelaide Strikers",
-          "price": 0.47,
-          "value": 42.769999999999996,
-          "timestamp": 1794028014,
-          "slug": "cricwbbl-mer-ads-2026-11-06",
-          "event_slug": "cricwbbl-mer-ads-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.16,
-          "value": 14.24,
-          "timestamp": 1794028008,
-          "slug": "aus-auc-wel-2026-11-06-total-4pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sagan Tosu win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.6392592593,
-          "value": 17.2600000011,
-          "timestamp": 1794028005,
-          "slug": "ja2-sag-kat-2026-11-07-sag",
-          "event_slug": "ja2-sag-kat-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.56,
-          "value": 2.8000000000000003,
-          "timestamp": 1794027966,
-          "slug": "aus-auc-wel-2026-11-06-total-2pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.56,
-          "value": 25.200000000000003,
-          "timestamp": 1794027966,
-          "slug": "aus-auc-wel-2026-11-06-total-2pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Auckland FC vs. Wellington Phoenix FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.56,
-          "value": 25.200000000000003,
-          "timestamp": 1794027963,
-          "slug": "aus-auc-wel-2026-11-06-total-2pt5",
-          "event_slug": "aus-auc-wel-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Tarleton State Texans vs. San Diego Toreros",
-          "side": "BUY",
-          "outcome": "Tarleton State Texans",
-          "price": 0.0709999993,
-          "value": 1.9499999997746478,
-          "timestamp": 1794027963,
-          "slug": "cbb-tarl-sd-2026-11-06",
-          "event_slug": "cbb-tarl-sd-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Tarleton State Texans vs. San Diego Toreros",
-          "side": "BUY",
-          "outcome": "Tarleton State Texans",
-          "price": 0.0709999989,
-          "value": 2.3400000007464783,
-          "timestamp": 1794027961,
-          "slug": "cbb-tarl-sd-2026-11-06",
-          "event_slug": "cbb-tarl-sd-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Tarleton State Texans vs. San Diego Toreros",
-          "side": "BUY",
-          "outcome": "Tarleton State Texans",
-          "price": 0.0709999993,
-          "value": 1.9499999997746478,
-          "timestamp": 1794027960,
-          "slug": "cbb-tarl-sd-2026-11-06",
-          "event_slug": "cbb-tarl-sd-2026-11-06",
-          "result": "ongoing"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T05:27:17.681Z"
+  "lastUpdate": "2026-11-07T05:40:21.972Z"
 }
