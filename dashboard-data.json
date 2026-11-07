@@ -33,14 +33,91 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 10,
-        "losses": 15,
+        "wins": 5,
+        "losses": 13,
         "totalTrades": 500,
-        "winRate": 0.4,
-        "volume": 6321.25389998785,
+        "winRate": 0.2777777777777778,
+        "volume": 7075.653499987849,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Nuggets vs. Pacers: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.73,
+          "value": 146,
+          "timestamp": 1794095188,
+          "slug": "nba-den-ind-2026-11-07-total-216pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 230.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.22,
+          "value": 110,
+          "timestamp": 1794095188,
+          "slug": "nba-den-ind-2026-11-07-total-230pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 214.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.78,
+          "value": 1130.6100000000001,
+          "timestamp": 1794095188,
+          "slug": "nba-den-ind-2026-11-07-total-214pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 222.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.51,
+          "value": 255,
+          "timestamp": 1794095187,
+          "slug": "nba-den-ind-2026-11-07-total-222pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 220.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.58,
+          "value": 2.9,
+          "timestamp": 1794095185,
+          "slug": "nba-den-ind-2026-11-07-total-220pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 220.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.58,
+          "value": 142.67999999999998,
+          "timestamp": 1794095182,
+          "slug": "nba-den-ind-2026-11-07-total-220pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 222.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.49,
+          "value": 98,
+          "timestamp": 1794095182,
+          "slug": "nba-den-ind-2026-11-07-total-222pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Nuggets vs. Pacers: O/U 216.5",
           "side": "BUY",
@@ -513,83 +590,6 @@
           "slug": "nba-por-lal-2026-11-06-spread-home-3pt5",
           "event_slug": "nba-por-lal-2026-11-06",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Lakers (-8.5)",
-          "side": "SELL",
-          "outcome": "Trail Blazers",
-          "price": 0.44,
-          "value": 52.36,
-          "timestamp": 1794029200,
-          "slug": "nba-por-lal-2026-11-06-spread-home-8pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spurs vs. Kings: O/U 236.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.44,
-          "value": 2.2,
-          "timestamp": 1794029122,
-          "slug": "nba-sas-sac-2026-11-06-total-236pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-17.5)",
-          "side": "SELL",
-          "outcome": "Kings",
-          "price": 0.52,
-          "value": 116.2304,
-          "timestamp": 1794028822,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-17pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Lakers (-4.5)",
-          "side": "SELL",
-          "outcome": "Trail Blazers",
-          "price": 0.19,
-          "value": 151.905,
-          "timestamp": 1794028512,
-          "slug": "nba-por-lal-2026-11-06-spread-home-4pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Lakers (-4.5)",
-          "side": "SELL",
-          "outcome": "Trail Blazers",
-          "price": 0.19,
-          "value": 38.095,
-          "timestamp": 1794028510,
-          "slug": "nba-por-lal-2026-11-06-spread-home-4pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Lakers (-5.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.77,
-          "value": 77.385,
-          "timestamp": 1794028510,
-          "slug": "nba-por-lal-2026-11-06-spread-home-5pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Lakers (-5.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.77,
-          "value": 692.615,
-          "timestamp": 1794028510,
-          "slug": "nba-por-lal-2026-11-06-spread-home-5pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "win"
         }
       ]
     },
@@ -1190,10 +1190,10 @@
       "specialty": "MLB+UFC",
       "stats48h": {
         "wins": 3,
-        "losses": 5,
-        "totalTrades": 11,
-        "winRate": 0.375,
-        "volume": 27887.044800000003,
+        "losses": 4,
+        "totalTrades": 10,
+        "winRate": 0.42857142857142855,
+        "volume": 26378.086400000004,
         "pnl": 0
       },
       "recentTrades": [
@@ -1303,17 +1303,6 @@
           "price": 0.14,
           "value": 73.0688,
           "timestamp": 1793836528,
-          "slug": "lol-gen-ly-2026-11-05-game3",
-          "event_slug": "lol-gen-ly-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Gen.G vs LYON - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "LYON",
-          "price": 0.16,
-          "value": 1508.9584,
-          "timestamp": 1793836399,
           "slug": "lol-gen-ly-2026-11-05-game3",
           "event_slug": "lol-gen-ly-2026-11-05",
           "result": "loss"
@@ -1892,7 +1881,7 @@
       "stats48h": {
         "wins": 21,
         "losses": 17,
-        "totalTrades": 154,
+        "totalTrades": 153,
         "winRate": 0.5526315789473685,
         "volume": 1341174.0052038732,
         "pnl": 0
@@ -2841,10 +2830,10 @@
       "specialty": "Soccer+UFC",
       "stats48h": {
         "wins": 9,
-        "losses": 14,
-        "totalTrades": 37,
-        "winRate": 0.391304347826087,
-        "volume": 637788.1527405733,
+        "losses": 13,
+        "totalTrades": 36,
+        "winRate": 0.4090909090909091,
+        "volume": 637513.4322405732,
         "pnl": 0
       },
       "recentTrades": [
@@ -3243,17 +3232,6 @@
           "slug": "nba-uta-nop-2026-11-04",
           "event_slug": "nba-uta-nop-2026-11-04",
           "result": "win"
-        },
-        {
-          "title": "Hawks vs. Wizards",
-          "side": "SELL",
-          "outcome": "Wizards",
-          "price": 0.45,
-          "value": 274.7205,
-          "timestamp": 1793835898,
-          "slug": "nba-atl-was-2026-11-04",
-          "event_slug": "nba-atl-was-2026-11-04",
-          "result": "loss"
         }
       ]
     },
@@ -3827,10 +3805,10 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 37,
+        "wins": 42,
         "losses": 5,
         "totalTrades": 62,
-        "winRate": 0.8809523809523809,
+        "winRate": 0.8936170212765957,
         "volume": 469938.0439260513,
         "pnl": 0
       },
@@ -3877,7 +3855,7 @@
           "timestamp": 1794089364,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -3888,7 +3866,7 @@
           "timestamp": 1794084979,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -3899,7 +3877,7 @@
           "timestamp": 1794084955,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -3910,7 +3888,7 @@
           "timestamp": 1794084948,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -3921,7 +3899,7 @@
           "timestamp": 1794084915,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Manchester City FC win on 2026-11-07?",
@@ -5350,10 +5328,417 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 14013.567719955401,
+        "volume": 7196.642490003696,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Cincinnati vs. Houston",
+          "side": "BUY",
+          "outcome": "Cincinnati",
+          "price": 0.35,
+          "value": 2.4499999999999997,
+          "timestamp": 1794095770,
+          "slug": "cfb-cin-hou-2026-11-07",
+          "event_slug": "cfb-cin-hou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kentucky vs. Tennessee",
+          "side": "BUY",
+          "outcome": "Tennessee",
+          "price": 0.69,
+          "value": 1597.35,
+          "timestamp": 1794095754,
+          "slug": "cfb-uk-tenn-2026-11-07",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Tennessee (-6.5)",
+          "side": "BUY",
+          "outcome": "Tennessee",
+          "price": 0.48,
+          "value": 3.2832,
+          "timestamp": 1794095754,
+          "slug": "cfb-uk-tenn-2026-11-07-spread-home-6pt5",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Western Kentucky vs. Middle Tennessee",
+          "side": "BUY",
+          "outcome": "Western Kentucky",
+          "price": 0.19,
+          "value": 1388.7689,
+          "timestamp": 1794095706,
+          "slug": "cfb-wkent-mtnst-2026-11-07",
+          "event_slug": "cfb-wkent-mtnst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kentucky vs. Tennessee",
+          "side": "BUY",
+          "outcome": "Kentucky",
+          "price": 0.35,
+          "value": 3.8499999999999996,
+          "timestamp": 1794095706,
+          "slug": "cfb-uk-tenn-2026-11-07",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
+          "side": "BUY",
+          "outcome": "Karine Silva",
+          "price": 0.43,
+          "value": 9.073,
+          "timestamp": 1794095700,
+          "slug": "ufc-kar5-gab5-2026-11-07",
+          "event_slug": "ufc-kar5-gab5-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.061,
+          "value": 2.501,
+          "timestamp": 1794095679,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Boise State vs. Colorado State",
+          "side": "BUY",
+          "outcome": "Colorado State",
+          "price": 0.0692592593,
+          "value": 3.7400000022,
+          "timestamp": 1794095659,
+          "slug": "cfb-boise-colst-2026-11-07",
+          "event_slug": "cfb-boise-colst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
+          "side": "BUY",
+          "outcome": "Gabriella Fernandes",
+          "price": 0.4,
+          "value": 551.38,
+          "timestamp": 1794095629,
+          "slug": "ufc-kar5-gab5-2026-11-07",
+          "event_slug": "ufc-kar5-gab5-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.07,
+          "value": 2.87,
+          "timestamp": 1794095599,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-5.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.16,
+          "value": 32,
+          "timestamp": 1794095578,
+          "slug": "nba-den-ind-2026-11-07-spread-away-5pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-3.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.1,
+          "value": 20,
+          "timestamp": 1794095578,
+          "slug": "nba-den-ind-2026-11-07-spread-away-3pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 224.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.5,
+          "value": 2.5,
+          "timestamp": 1794095578,
+          "slug": "nba-den-ind-2026-11-07-total-224pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-7.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.23,
+          "value": 46,
+          "timestamp": 1794095578,
+          "slug": "nba-den-ind-2026-11-07-spread-away-7pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.044,
+          "value": 2.464,
+          "timestamp": 1794095578,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.0362842857,
+          "value": 2.7938899989,
+          "timestamp": 1794095524,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-10.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.68,
+          "value": 10.88,
+          "timestamp": 1794095442,
+          "slug": "nba-den-ind-2026-11-07-spread-away-10pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.0383677465,
+          "value": 2.7241100015,
+          "timestamp": 1794095419,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-10.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.68,
+          "value": 20.400000000000002,
+          "timestamp": 1794095403,
+          "slug": "nba-den-ind-2026-11-07-spread-away-10pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-7.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.8,
+          "value": 36.800000000000004,
+          "timestamp": 1794095403,
+          "slug": "nba-den-ind-2026-11-07-spread-away-7pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-20.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.25,
+          "value": 9,
+          "timestamp": 1794095403,
+          "slug": "nba-den-ind-2026-11-07-spread-away-20pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-16.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.42,
+          "value": 60.9,
+          "timestamp": 1794095403,
+          "slug": "nba-den-ind-2026-11-07-spread-away-16pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-8.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.77,
+          "value": 154,
+          "timestamp": 1794095403,
+          "slug": "nba-den-ind-2026-11-07-spread-away-8pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-11.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.6448,
+          "value": 48.36,
+          "timestamp": 1794095403,
+          "slug": "nba-den-ind-2026-11-07-spread-away-11pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.0372402817,
+          "value": 2.6440600007,
+          "timestamp": 1794095388,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-12.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.59,
+          "value": 10.62,
+          "timestamp": 1794095374,
+          "slug": "nba-den-ind-2026-11-07-spread-away-12pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Western Kentucky vs. Middle Tennessee",
+          "side": "BUY",
+          "outcome": "Western Kentucky",
+          "price": 0.1175,
+          "value": 1.1749999999999998,
+          "timestamp": 1794095370,
+          "slug": "cfb-wkent-mtnst-2026-11-07",
+          "event_slug": "cfb-wkent-mtnst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Penn State vs. Washington",
+          "side": "BUY",
+          "outcome": "Washington",
+          "price": 0.119,
+          "value": 1.666,
+          "timestamp": 1794095350,
+          "slug": "cfb-pennst-wash-2026-11-07",
+          "event_slug": "cfb-pennst-wash-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
+          "side": "BUY",
+          "outcome": "Karine Silva",
+          "price": 0.68,
+          "value": 931.2600000000001,
+          "timestamp": 1794095319,
+          "slug": "ufc-kar5-gab5-2026-11-07",
+          "event_slug": "ufc-kar5-gab5-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-18.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.29,
+          "value": 9.28,
+          "timestamp": 1794095290,
+          "slug": "nba-den-ind-2026-11-07-spread-away-18pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 220.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.55,
+          "value": 2.75,
+          "timestamp": 1794095172,
+          "slug": "nba-den-ind-2026-11-07-total-220pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.04,
+          "value": 2.84,
+          "timestamp": 1794095172,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.031,
+          "value": 0.01953,
+          "timestamp": 1794095166,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-10.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.26,
+          "value": 12.22,
+          "timestamp": 1794095140,
+          "slug": "nba-den-ind-2026-11-07-spread-away-10pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.0265865385,
+          "value": 2.765000004,
+          "timestamp": 1794095140,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-14.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.41,
+          "value": 2.05,
+          "timestamp": 1794095140,
+          "slug": "nba-den-ind-2026-11-07-spread-away-14pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-20.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.6796837645,
+          "value": 107.46480000509501,
+          "timestamp": 1794095139,
+          "slug": "nba-den-ind-2026-11-07-spread-away-20pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Nuggets (-9.5)",
           "side": "BUY",
@@ -5496,413 +5881,6 @@
           "slug": "cfb-pennst-wash-2026-11-07",
           "event_slug": "cfb-pennst-wash-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Penn State vs. Washington",
-          "side": "BUY",
-          "outcome": "Penn State",
-          "price": 0.697,
-          "value": 266.25399999999996,
-          "timestamp": 1794094864,
-          "slug": "cfb-pennst-wash-2026-11-07",
-          "event_slug": "cfb-pennst-wash-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.0355890411,
-          "value": 2.5980000003000003,
-          "timestamp": 1794094860,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 216.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.51,
-          "value": 2.55,
-          "timestamp": 1794094858,
-          "slug": "nba-den-ind-2026-11-07-total-216pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.035,
-          "value": 2.8350000000000004,
-          "timestamp": 1794094849,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.024,
-          "value": 2.7840000000000003,
-          "timestamp": 1794094776,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.024,
-          "value": 2.664,
-          "timestamp": 1794094734,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.024,
-          "value": 2.664,
-          "timestamp": 1794094722,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.02,
-          "value": 2.74,
-          "timestamp": 1794094696,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Oregon (-10.5)",
-          "side": "BUY",
-          "outcome": "Oregon",
-          "price": 0.88,
-          "value": 59.2504,
-          "timestamp": 1794094669,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-away-10pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oregon vs. Ohio State: O/U 61.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4058441558,
-          "value": 124.9999999864,
-          "timestamp": 1794094669,
-          "slug": "cfb-ore-ohiost-2026-11-07-total-61pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Oregon (-16.5)",
-          "side": "BUY",
-          "outcome": "Oregon",
-          "price": 0.75,
-          "value": 58.5,
-          "timestamp": 1794094669,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-away-16pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Oregon (-13.5)",
-          "side": "BUY",
-          "outcome": "Oregon",
-          "price": 0.766,
-          "value": 6.296520000000001,
-          "timestamp": 1794094669,
-          "slug": "cfb-ore-ohiost-2026-11-07-spread-away-13pt5",
-          "event_slug": "cfb-ore-ohiost-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Penn State vs. Washington",
-          "side": "BUY",
-          "outcome": "Penn State",
-          "price": 0.659964321,
-          "value": 647.40519997137,
-          "timestamp": 1794094642,
-          "slug": "cfb-pennst-wash-2026-11-07",
-          "event_slug": "cfb-pennst-wash-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Jose Delano vs. Murtazali Magomedov (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Murtazali Magomedov",
-          "price": 0.8596774194,
-          "value": 666.250000035,
-          "timestamp": 1794094576,
-          "slug": "ufc-jos60-mur2-2026-11-07",
-          "event_slug": "ufc-jos60-mur2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Jose Delano vs. Murtazali Magomedov (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Murtazali Magomedov",
-          "price": 0.8569822442,
-          "value": 1416.0945999609642,
-          "timestamp": 1794094576,
-          "slug": "ufc-jos60-mur2-2026-11-07",
-          "event_slug": "ufc-jos60-mur2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Jose Delano vs. Murtazali Magomedov (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Murtazali Magomedov",
-          "price": 0.2802902912,
-          "value": 434.979700010368,
-          "timestamp": 1794094569,
-          "slug": "ufc-jos60-mur2-2026-11-07",
-          "event_slug": "ufc-jos60-mur2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Boise State vs. Colorado State",
-          "side": "BUY",
-          "outcome": "Boise State",
-          "price": 0.95,
-          "value": 322.05,
-          "timestamp": 1794094557,
-          "slug": "cfb-boise-colst-2026-11-07",
-          "event_slug": "cfb-boise-colst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Jose Delano vs. Murtazali Magomedov (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Jose Delano",
-          "price": 0.6,
-          "value": 3333,
-          "timestamp": 1794094542,
-          "slug": "ufc-jos60-mur2-2026-11-07",
-          "event_slug": "ufc-jos60-mur2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Jose Delano vs. Murtazali Magomedov (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Jose Delano",
-          "price": 0.59,
-          "value": 796.7714,
-          "timestamp": 1794094539,
-          "slug": "ufc-jos60-mur2-2026-11-07",
-          "event_slug": "ufc-jos60-mur2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kentucky vs. Tennessee",
-          "side": "BUY",
-          "outcome": "Tennessee",
-          "price": 0.62,
-          "value": 3.7199999999999998,
-          "timestamp": 1794094527,
-          "slug": "cfb-uk-tenn-2026-11-07",
-          "event_slug": "cfb-uk-tenn-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Boise State vs. Colorado State",
-          "side": "BUY",
-          "outcome": "Colorado State",
-          "price": 0.06,
-          "value": 1.44,
-          "timestamp": 1794094518,
-          "slug": "cfb-boise-colst-2026-11-07",
-          "event_slug": "cfb-boise-colst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Jose Delano vs. Murtazali Magomedov (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Jose Delano",
-          "price": 0.72,
-          "value": 958.3199999999999,
-          "timestamp": 1794094485,
-          "slug": "ufc-jos60-mur2-2026-11-07",
-          "event_slug": "ufc-jos60-mur2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Jose Delano vs. Murtazali Magomedov (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Jose Delano",
-          "price": 0.72,
-          "value": 1643.04,
-          "timestamp": 1794094485,
-          "slug": "ufc-jos60-mur2-2026-11-07",
-          "event_slug": "ufc-jos60-mur2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-9.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.15,
-          "value": 6.8999999999999995,
-          "timestamp": 1794094447,
-          "slug": "nba-den-ind-2026-11-07-spread-away-9pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-30.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.83,
-          "value": 7.47,
-          "timestamp": 1794094447,
-          "slug": "nba-den-ind-2026-11-07-spread-away-30pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.03,
-          "value": 2.4899999999999998,
-          "timestamp": 1794094447,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-32.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.87,
-          "value": 6.09,
-          "timestamp": 1794094447,
-          "slug": "nba-den-ind-2026-11-07-spread-away-32pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.02901,
-          "value": 2.9010000000000002,
-          "timestamp": 1794094387,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 216.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.51,
-          "value": 353.94,
-          "timestamp": 1794094387,
-          "slug": "nba-den-ind-2026-11-07-total-216pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.0270793651,
-          "value": 1.7060000012999998,
-          "timestamp": 1794094381,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kentucky vs. Tennessee",
-          "side": "BUY",
-          "outcome": "Tennessee",
-          "price": 0.65,
-          "value": 244.39350000000002,
-          "timestamp": 1794094381,
-          "slug": "cfb-uk-tenn-2026-11-07",
-          "event_slug": "cfb-uk-tenn-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.02,
-          "value": 2.4604,
-          "timestamp": 1794094347,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Jose Delano vs. Murtazali Magomedov (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Murtazali Magomedov",
-          "price": 0.4643181818,
-          "value": 40.8599999984,
-          "timestamp": 1794094315,
-          "slug": "ufc-jos60-mur2-2026-11-07",
-          "event_slug": "ufc-jos60-mur2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-22.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.52,
-          "value": 104,
-          "timestamp": 1794094309,
-          "slug": "nba-den-ind-2026-11-07-spread-away-22pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 218.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.45,
-          "value": 268.65000000000003,
-          "timestamp": 1794094309,
-          "slug": "nba-den-ind-2026-11-07-total-218pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-18.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.65,
-          "value": 3.9000000000000004,
-          "timestamp": 1794094309,
-          "slug": "nba-den-ind-2026-11-07-spread-away-18pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-12.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.82,
-          "value": 114.8,
-          "timestamp": 1794094309,
-          "slug": "nba-den-ind-2026-11-07-spread-away-12pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -5915,10 +5893,406 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2442.6453320075616,
+        "volume": 1875.668608016145,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rutgers vs. Wisconsin: O/U 55.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.03,
+          "value": 1.29,
+          "timestamp": 1794095797,
+          "slug": "cfb-rutger-wisc-2026-11-07-total-55pt5",
+          "event_slug": "cfb-rutger-wisc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
+          "side": "BUY",
+          "outcome": "Gabriella Fernandes",
+          "price": 0.67,
+          "value": 133.3903,
+          "timestamp": 1794095761,
+          "slug": "ufc-kar5-gab5-2026-11-07",
+          "event_slug": "ufc-kar5-gab5-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UCF vs. Kansas: O/U 59.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.05,
+          "value": 5.4,
+          "timestamp": 1794095724,
+          "slug": "cfb-ucf-kan-2026-11-07-total-59pt5",
+          "event_slug": "cfb-ucf-kan-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.06,
+          "value": 51.9096,
+          "timestamp": 1794095709,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Northern Illinois Team Total: O/U 23.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.06,
+          "value": 3.5999999999999996,
+          "timestamp": 1794095695,
+          "slug": "cfb-nill-sjst-2026-11-07-team-total-nill-23pt5",
+          "event_slug": "cfb-nill-sjst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
+          "side": "BUY",
+          "outcome": "Karine Silva",
+          "price": 0.5944443237,
+          "value": 347.3999990133562,
+          "timestamp": 1794095685,
+          "slug": "ufc-kar5-gab5-2026-11-07",
+          "event_slug": "ufc-kar5-gab5-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 206.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.04,
+          "value": 3.91,
+          "timestamp": 1794095581,
+          "slug": "nba-den-ind-2026-11-07-total-206pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 210.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.07,
+          "value": 7.000000000000001,
+          "timestamp": 1794095581,
+          "slug": "nba-den-ind-2026-11-07-total-210pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 200.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.04,
+          "value": 3.91,
+          "timestamp": 1794095577,
+          "slug": "nba-den-ind-2026-11-07-total-200pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.85,
+          "value": 72.25,
+          "timestamp": 1794095509,
+          "slug": "col1-atn-dep-2026-11-07-draw",
+          "event_slug": "col1-atn-dep-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Penn State vs. Washington",
+          "side": "BUY",
+          "outcome": "Penn State",
+          "price": 0.8389999832,
+          "value": 4.199996999899939,
+          "timestamp": 1794095487,
+          "slug": "cfb-pennst-wash-2026-11-07",
+          "event_slug": "cfb-pennst-wash-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Edmonton Elks vs. British Columbia Lions",
+          "side": "BUY",
+          "outcome": "British Columbia Lions",
+          "price": 0.4102325276,
+          "value": 2.099999999945725,
+          "timestamp": 1794095442,
+          "slug": "cfl-edm-bc-2026-11-07",
+          "event_slug": "cfl-edm-bc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Edmonton Elks vs. British Columbia Lions",
+          "side": "BUY",
+          "outcome": "British Columbia Lions",
+          "price": 0.41,
+          "value": 2.05,
+          "timestamp": 1794095439,
+          "slug": "cfl-edm-bc-2026-11-07",
+          "event_slug": "cfl-edm-bc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. High Point Panthers",
+          "side": "BUY",
+          "outcome": "Washington State Cougars",
+          "price": 0.05,
+          "value": 1.2400000000000002,
+          "timestamp": 1794095424,
+          "slug": "cbb-washst-hpnt-2026-11-07",
+          "event_slug": "cbb-washst-hpnt-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. High Point Panthers",
+          "side": "BUY",
+          "outcome": "Washington State Cougars",
+          "price": 0.05,
+          "value": 1.2400000000000002,
+          "timestamp": 1794095418,
+          "slug": "cbb-washst-hpnt-2026-11-07",
+          "event_slug": "cbb-washst-hpnt-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Vanderbilt Team Total: O/U 20.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.08,
+          "value": 4.78,
+          "timestamp": 1794095412,
+          "slug": "cfb-vand-mspst-2026-11-07-team-total-vand-20pt5",
+          "event_slug": "cfb-vand-mspst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 240.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.95,
+          "value": 66.5,
+          "timestamp": 1794095412,
+          "slug": "nba-den-ind-2026-11-07-total-240pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Vanderbilt Team Total: O/U 20.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.08,
+          "value": 4.78,
+          "timestamp": 1794095410,
+          "slug": "cfb-vand-mspst-2026-11-07-team-total-vand-20pt5",
+          "event_slug": "cfb-vand-mspst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-6.5)",
+          "side": "SELL",
+          "outcome": "Pacers",
+          "price": 0.11,
+          "value": 2.2,
+          "timestamp": 1794095409,
+          "slug": "nba-den-ind-2026-11-07-spread-away-6pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-6.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.15,
+          "value": 13.799999999999999,
+          "timestamp": 1794095407,
+          "slug": "nba-den-ind-2026-11-07-spread-away-6pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 218.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.26,
+          "value": 16.38,
+          "timestamp": 1794095392,
+          "slug": "nba-den-ind-2026-11-07-total-218pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 218.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.25,
+          "value": 1.25,
+          "timestamp": 1794095392,
+          "slug": "nba-den-ind-2026-11-07-total-218pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 218.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.29,
+          "value": 20.88,
+          "timestamp": 1794095391,
+          "slug": "nba-den-ind-2026-11-07-total-218pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
+          "side": "BUY",
+          "outcome": "Karine Silva",
+          "price": 0.68,
+          "value": 92.48,
+          "timestamp": 1794095317,
+          "slug": "ufc-kar5-gab5-2026-11-07",
+          "event_slug": "ufc-kar5-gab5-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Atlas FC vs. CF Pachuca: 1st Half O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.01,
+          "value": 1.21,
+          "timestamp": 1794095304,
+          "slug": "mex-atl-pac-2026-11-07-first-half-total-2pt5",
+          "event_slug": "mex-atl-pac-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 236.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.9,
+          "value": 63.069993000000004,
+          "timestamp": 1794095293,
+          "slug": "nba-den-ind-2026-11-07-total-236pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Caracas FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.38,
+          "value": 15.96,
+          "timestamp": 1794095254,
+          "slug": "ven1-car-apc-2026-11-07-car",
+          "event_slug": "ven1-car-apc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 45.5592,
+          "timestamp": 1794095239,
+          "slug": "col1-atn-dep-2026-11-07-draw",
+          "event_slug": "col1-atn-dep-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Vila Nova FC vs. Criciúma EC: 1st Half O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.89,
+          "value": 0.5696,
+          "timestamp": 1794095239,
+          "slug": "bra2-vln-cri-2026-11-07-first-half-total-1pt5",
+          "event_slug": "bra2-vln-cri-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Cuiabá EC vs. EC Juventude: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.8799999978,
+          "value": 32.0399999999,
+          "timestamp": 1794095211,
+          "slug": "bra2-cui-juv-2026-11-06-first-half-total-0pt5",
+          "event_slug": "bra2-cui-juv-2026-11-06-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
+          "side": "BUY",
+          "outcome": "UT Martin Skyhawks",
+          "price": 0.8699999993,
+          "value": 97.45999600158392,
+          "timestamp": 1794095193,
+          "slug": "cbb-tmrt-iupui-2026-11-07",
+          "event_slug": "cbb-tmrt-iupui-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "San Diego Toreros vs. California-San Diego Tritons (W)",
+          "side": "BUY",
+          "outcome": "California-San Diego Tritons",
+          "price": 0.55034482,
+          "value": 17.100000000147777,
+          "timestamp": 1794095178,
+          "slug": "cwbb-sd-ucsd-2026-11-07",
+          "event_slug": "cwbb-sd-ucsd-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.05,
+          "value": 23.46,
+          "timestamp": 1794095178,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 212.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.21,
+          "value": 13.02,
+          "timestamp": 1794095175,
+          "slug": "nba-den-ind-2026-11-07-total-212pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 240.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.97,
+          "value": 29.129973,
+          "timestamp": 1794095173,
+          "slug": "nba-den-ind-2026-11-07-total-240pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "San Diego Toreros vs. California-San Diego Tritons (W)",
+          "side": "BUY",
+          "outcome": "California-San Diego Tritons",
+          "price": 0.56,
+          "value": 14.000000000000002,
+          "timestamp": 1794095170,
+          "slug": "cwbb-sd-ucsd-2026-11-07",
+          "event_slug": "cwbb-sd-ucsd-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Nuggets vs. Pacers: O/U 230.5",
           "side": "BUY",
@@ -6071,402 +6445,6 @@
           "timestamp": 1794095056,
           "slug": "cbb-tmrt-iupui-2026-11-07",
           "event_slug": "cbb-tmrt-iupui-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Washington (-3.5)",
-          "side": "BUY",
-          "outcome": "Penn State",
-          "price": 0.92,
-          "value": 460,
-          "timestamp": 1794095031,
-          "slug": "cfb-pennst-wash-2026-11-07-spread-home-3pt5",
-          "event_slug": "cfb-pennst-wash-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Kentucky (-11.5)",
-          "side": "BUY",
-          "outcome": "Kentucky",
-          "price": 0.07,
-          "value": 4.2,
-          "timestamp": 1794095022,
-          "slug": "cfb-uk-tenn-2026-11-07-spread-away-11pt5",
-          "event_slug": "cfb-uk-tenn-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cuiabá EC vs. EC Juventude: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.81,
-          "value": 12.15,
-          "timestamp": 1794094987,
-          "slug": "bra2-cui-juv-2026-11-06-first-half-total-0pt5",
-          "event_slug": "bra2-cui-juv-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Alabama vs. LSU: O/U 52.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.79,
-          "value": 47.400000000000006,
-          "timestamp": 1794094909,
-          "slug": "cfb-ala-lsu-2026-11-07-total-52pt5",
-          "event_slug": "cfb-ala-lsu-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.09,
-          "value": 3.2723999999999998,
-          "timestamp": 1794094873,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.081,
-          "value": 1.215,
-          "timestamp": 1794094873,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.1099999995,
-          "value": 16.649999994318183,
-          "timestamp": 1794094873,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.11,
-          "value": 11,
-          "timestamp": 1794094873,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 226.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.82,
-          "value": 59.04,
-          "timestamp": 1794094873,
-          "slug": "nba-den-ind-2026-11-07-total-226pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-20.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.35,
-          "value": 35,
-          "timestamp": 1794094866,
-          "slug": "nba-den-ind-2026-11-07-spread-away-20pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 220.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.62,
-          "value": 14.879999999999999,
-          "timestamp": 1794094861,
-          "slug": "nba-den-ind-2026-11-07-total-220pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 220.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.62,
-          "value": 44.64,
-          "timestamp": 1794094861,
-          "slug": "nba-den-ind-2026-11-07-total-220pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-28.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.12,
-          "value": 24,
-          "timestamp": 1794094861,
-          "slug": "nba-den-ind-2026-11-07-spread-away-28pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-8.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.82,
-          "value": 61.49999999999999,
-          "timestamp": 1794094861,
-          "slug": "nba-den-ind-2026-11-07-spread-away-8pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Atlético Nacional vs. Deportivo Pereira: O/U 1.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.939,
-          "value": 9.399389999999999,
-          "timestamp": 1794094813,
-          "slug": "col1-atn-dep-2026-11-07-total-1pt5",
-          "event_slug": "col1-atn-dep-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Atlético Nacional vs. Deportivo Pereira: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.939999998,
-          "value": 9.409994999978734,
-          "timestamp": 1794094810,
-          "slug": "col1-atn-dep-2026-11-07-total-1pt5",
-          "event_slug": "col1-atn-dep-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
-          "side": "SELL",
-          "outcome": "UT Martin Skyhawks",
-          "price": 0.92,
-          "value": 176.64000000000001,
-          "timestamp": 1794094789,
-          "slug": "cbb-tmrt-iupui-2026-11-07",
-          "event_slug": "cbb-tmrt-iupui-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
-          "side": "BUY",
-          "outcome": "UT Martin Skyhawks",
-          "price": 0.93,
-          "value": 178.56,
-          "timestamp": 1794094788,
-          "slug": "cbb-tmrt-iupui-2026-11-07",
-          "event_slug": "cbb-tmrt-iupui-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 208.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.24,
-          "value": 24,
-          "timestamp": 1794094782,
-          "slug": "nba-den-ind-2026-11-07-total-208pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 202.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.1199999989,
-          "value": 8.470000002358333,
-          "timestamp": 1794094780,
-          "slug": "nba-den-ind-2026-11-07-total-202pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 204.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.15,
-          "value": 11.25,
-          "timestamp": 1794094779,
-          "slug": "nba-den-ind-2026-11-07-total-204pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
-          "side": "BUY",
-          "outcome": "IU Indy Jaguars",
-          "price": 0.04,
-          "value": 0.0332,
-          "timestamp": 1794094758,
-          "slug": "cbb-tmrt-iupui-2026-11-07",
-          "event_slug": "cbb-tmrt-iupui-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Middle Tennessee (-5.5)",
-          "side": "BUY",
-          "outcome": "Middle Tennessee",
-          "price": 0.72,
-          "value": 216,
-          "timestamp": 1794094752,
-          "slug": "cfb-wkent-mtnst-2026-11-07-spread-home-5pt5",
-          "event_slug": "cfb-wkent-mtnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 206.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.19,
-          "value": 14.25,
-          "timestamp": 1794094738,
-          "slug": "nba-den-ind-2026-11-07-total-206pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.0899999997,
-          "value": 18.200000009333333,
-          "timestamp": 1794094705,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Jose Delano vs. Murtazali Magomedov (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Jose Delano",
-          "price": 0.35,
-          "value": 10.149999999999999,
-          "timestamp": 1794094684,
-          "slug": "ufc-jos60-mur2-2026-11-07",
-          "event_slug": "ufc-jos60-mur2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Atlético Nacional vs. Deportivo Pereira: Both Teams to Score",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.8299999989,
-          "value": 22.439997000260245,
-          "timestamp": 1794094606,
-          "slug": "col1-atn-dep-2026-11-07-btts",
-          "event_slug": "col1-atn-dep-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Jose Delano vs. Murtazali Magomedov (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Jose Delano",
-          "price": 0.58,
-          "value": 11.6986,
-          "timestamp": 1794094506,
-          "slug": "ufc-jos60-mur2-2026-11-07",
-          "event_slug": "ufc-jos60-mur2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Tennessee (-6.5)",
-          "side": "BUY",
-          "outcome": "Kentucky",
-          "price": 0.52,
-          "value": 68.6868,
-          "timestamp": 1794094495,
-          "slug": "cfb-uk-tenn-2026-11-07-spread-home-6pt5",
-          "event_slug": "cfb-uk-tenn-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Jose Delano vs. Murtazali Magomedov (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Jose Delano",
-          "price": 0.72,
-          "value": 82.8,
-          "timestamp": 1794094485,
-          "slug": "ufc-jos60-mur2-2026-11-07",
-          "event_slug": "ufc-jos60-mur2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 232.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.9,
-          "value": 67.5,
-          "timestamp": 1794094482,
-          "slug": "nba-den-ind-2026-11-07-total-232pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 204.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.14,
-          "value": 2.24,
-          "timestamp": 1794094462,
-          "slug": "nba-den-ind-2026-11-07-total-204pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.08,
-          "value": 7.29,
-          "timestamp": 1794094461,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 204.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.14,
-          "value": 2.3800000000000003,
-          "timestamp": 1794094455,
-          "slug": "nba-den-ind-2026-11-07-total-204pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 224.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.69,
-          "value": 40.709999999999994,
-          "timestamp": 1794094450,
-          "slug": "nba-den-ind-2026-11-07-total-224pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 204.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.14,
-          "value": 6.44,
-          "timestamp": 1794094447,
-          "slug": "nba-den-ind-2026-11-07-total-204pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -7346,10 +7324,10 @@
       "label": "0xfC0847fe",
       "specialty": "Soccer+NHL",
       "stats48h": {
-        "wins": 9,
-        "losses": 0,
+        "wins": 16,
+        "losses": 9,
         "totalTrades": 70,
-        "winRate": 1,
+        "winRate": 0.64,
         "volume": 72079.80869842449,
         "pnl": 0
       },
@@ -7429,7 +7407,7 @@
           "timestamp": 1794093331,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -7440,7 +7418,7 @@
           "timestamp": 1794093327,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Alabama vs. LSU",
@@ -7462,7 +7440,7 @@
           "timestamp": 1794093232,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Alabama vs. LSU",
@@ -7484,7 +7462,7 @@
           "timestamp": 1794093118,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -7495,7 +7473,7 @@
           "timestamp": 1794093118,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Alabama vs. LSU",
@@ -7517,7 +7495,7 @@
           "timestamp": 1794090985,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -7528,7 +7506,7 @@
           "timestamp": 1794089800,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Alabama vs. LSU",
@@ -7638,7 +7616,7 @@
           "timestamp": 1794088465,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -7649,7 +7627,7 @@
           "timestamp": 1794088165,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -7660,7 +7638,7 @@
           "timestamp": 1794088134,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -7671,7 +7649,7 @@
           "timestamp": 1794088131,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -7682,7 +7660,7 @@
           "timestamp": 1794088099,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -7693,7 +7671,7 @@
           "timestamp": 1794088093,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -7704,7 +7682,7 @@
           "timestamp": 1794088090,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -7715,7 +7693,7 @@
           "timestamp": 1794088089,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Texas A&M vs. South Carolina",
@@ -7726,7 +7704,7 @@
           "timestamp": 1794087964,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Alabama vs. LSU",
@@ -7911,10 +7889,10 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 47,
+        "wins": 48,
         "losses": 1,
         "totalTrades": 58,
-        "winRate": 0.9791666666666666,
+        "winRate": 0.9795918367346939,
         "volume": 54754.05382,
         "pnl": 0
       },
@@ -7928,7 +7906,7 @@
           "timestamp": 1794084424,
           "slug": "fl1-psg-tro-2026-11-07-total-0pt5",
           "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "ADO Den Haag vs. Sparta Rotterdam: O/U 3.5",
@@ -8953,5 +8931,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T23:48:09.973Z"
+  "lastUpdate": "2026-11-07T23:59:06.048Z"
 }
