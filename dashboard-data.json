@@ -2809,12 +2809,23 @@
       "stats48h": {
         "wins": 8,
         "losses": 17,
-        "totalTrades": 35,
+        "totalTrades": 36,
         "winRate": 0.32,
-        "volume": 585175.8894782179,
+        "volume": 637805.6420782179,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Real Madrid CF win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.79,
+          "value": 52629.75260000001,
+          "timestamp": 1794079303,
+          "slug": "lal-val-rea-2026-11-07-rea",
+          "event_slug": "lal-val-rea-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Will Manchester City FC win on 2026-11-07?",
           "side": "BUY",
@@ -4552,7 +4563,7 @@
       "stats48h": {
         "wins": 42,
         "losses": 3,
-        "totalTrades": 91,
+        "totalTrades": 90,
         "winRate": 0.9333333333333333,
         "volume": 126131.44043048154,
         "pnl": 0
@@ -5119,10 +5130,120 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3905.48719995956,
+        "volume": 3416.7235999745585,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Oklahoma State vs. Kansas State",
+          "side": "BUY",
+          "outcome": "Kansas State",
+          "price": 0.018,
+          "value": 0.972,
+          "timestamp": 1794079860,
+          "slug": "cfb-okst-kanst-2026-11-07",
+          "event_slug": "cfb-okst-kanst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oklahoma State vs. Kansas State",
+          "side": "BUY",
+          "outcome": "Kansas State",
+          "price": 0.02,
+          "value": 1.08,
+          "timestamp": 1794079827,
+          "slug": "cfb-okst-kanst-2026-11-07",
+          "event_slug": "cfb-okst-kanst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oklahoma State vs. Kansas State",
+          "side": "BUY",
+          "outcome": "Kansas State",
+          "price": 0.02,
+          "value": 1.08,
+          "timestamp": 1794079584,
+          "slug": "cfb-okst-kanst-2026-11-07",
+          "event_slug": "cfb-okst-kanst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "BYU vs. Utah",
+          "side": "BUY",
+          "outcome": "Utah",
+          "price": 0.54,
+          "value": 20.503800000000002,
+          "timestamp": 1794079576,
+          "slug": "cfb-byu-utah-2026-11-07",
+          "event_slug": "cfb-byu-utah-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oklahoma State vs. Kansas State",
+          "side": "BUY",
+          "outcome": "Kansas State",
+          "price": 0.02,
+          "value": 1.08,
+          "timestamp": 1794079545,
+          "slug": "cfb-okst-kanst-2026-11-07",
+          "event_slug": "cfb-okst-kanst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oklahoma State vs. Kansas State",
+          "side": "BUY",
+          "outcome": "Kansas State",
+          "price": 0.02,
+          "value": 1.08,
+          "timestamp": 1794079507,
+          "slug": "cfb-okst-kanst-2026-11-07",
+          "event_slug": "cfb-okst-kanst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oklahoma State vs. Kansas State",
+          "side": "BUY",
+          "outcome": "Kansas State",
+          "price": 0.032,
+          "value": 1.088,
+          "timestamp": 1794079432,
+          "slug": "cfb-okst-kanst-2026-11-07",
+          "event_slug": "cfb-okst-kanst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Florida State vs. Boston College",
+          "side": "BUY",
+          "outcome": "Boston College",
+          "price": 0.5090542589,
+          "value": 151.14330000999902,
+          "timestamp": 1794079276,
+          "slug": "cfb-flst-boscol-2026-11-07",
+          "event_slug": "cfb-flst-boscol-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Florida State (-4.5)",
+          "side": "BUY",
+          "outcome": "Boston College",
+          "price": 0.74,
+          "value": 14.8,
+          "timestamp": 1794079275,
+          "slug": "cfb-flst-boscol-2026-11-07-spread-away-4pt5",
+          "event_slug": "cfb-flst-boscol-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas vs. Missouri",
+          "side": "BUY",
+          "outcome": "Missouri",
+          "price": 0.42,
+          "value": 4.2,
+          "timestamp": 1794079261,
+          "slug": "cfb-tx-missr-2026-11-07",
+          "event_slug": "cfb-tx-missr-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Texas vs. Missouri",
           "side": "BUY",
@@ -5562,116 +5683,6 @@
           "slug": "cfb-duke-ncst-2026-11-07-total-53pt5",
           "event_slug": "cfb-duke-ncst-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Iowa State vs. Baylor",
-          "side": "BUY",
-          "outcome": "Baylor",
-          "price": 0.63,
-          "value": 32.318999999999996,
-          "timestamp": 1794075751,
-          "slug": "cfb-iowast-bayl-2026-11-07",
-          "event_slug": "cfb-iowast-bayl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Texas (-2.5)",
-          "side": "BUY",
-          "outcome": "Missouri",
-          "price": 0.629047619,
-          "value": 66.049999995,
-          "timestamp": 1794075526,
-          "slug": "cfb-tx-missr-2026-11-07-spread-away-2pt5",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas vs. Missouri",
-          "side": "BUY",
-          "outcome": "Missouri",
-          "price": 0.55,
-          "value": 27.582500000000003,
-          "timestamp": 1794075525,
-          "slug": "cfb-tx-missr-2026-11-07",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Clemson vs. Syracuse",
-          "side": "BUY",
-          "outcome": "Clemson",
-          "price": 0.54,
-          "value": 5.4,
-          "timestamp": 1794075492,
-          "slug": "cfb-clmsn-syra-2026-11-07",
-          "event_slug": "cfb-clmsn-syra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah",
-          "side": "BUY",
-          "outcome": "BYU",
-          "price": 0.6,
-          "value": 505.79999999999995,
-          "timestamp": 1794075490,
-          "slug": "cfb-byu-utah-2026-11-07",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas vs. Missouri",
-          "side": "BUY",
-          "outcome": "Texas",
-          "price": 0.415,
-          "value": 8.299999999999999,
-          "timestamp": 1794075232,
-          "slug": "cfb-tx-missr-2026-11-07",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State",
-          "side": "BUY",
-          "outcome": "Kansas State",
-          "price": 0.18,
-          "value": 1.08,
-          "timestamp": 1794075183,
-          "slug": "cfb-okst-kanst-2026-11-07",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UCLA vs. Minnesota",
-          "side": "BUY",
-          "outcome": "Minnesota",
-          "price": 0.34,
-          "value": 2.3800000000000003,
-          "timestamp": 1794075171,
-          "slug": "cfb-ucla-minnst-2026-11-07",
-          "event_slug": "cfb-ucla-minnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "North Carolina vs. UConn",
-          "side": "BUY",
-          "outcome": "UConn",
-          "price": 0.08,
-          "value": 17.999200000000002,
-          "timestamp": 1794075163,
-          "slug": "cfb-ncar-uconn-2026-11-07",
-          "event_slug": "cfb-ncar-uconn-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah",
-          "side": "BUY",
-          "outcome": "BYU",
-          "price": 0.59,
-          "value": 18.88,
-          "timestamp": 1794075162,
-          "slug": "cfb-byu-utah-2026-11-07",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -5684,10 +5695,318 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2041.2861999978293,
+        "volume": 2126.737589031204,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.66,
+          "value": 66,
+          "timestamp": 1794079975,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.66,
+          "value": 66,
+          "timestamp": 1794079974,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UCLA vs. Minnesota: O/U 39.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.74,
+          "value": 28.12,
+          "timestamp": 1794079953,
+          "slug": "cfb-ucla-minnst-2026-11-07-total-39pt5",
+          "event_slug": "cfb-ucla-minnst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Grêmio Novorizontino win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.35,
+          "value": 14.7,
+          "timestamp": 1794079941,
+          "slug": "bra2-nov-fec-2026-11-07-nov",
+          "event_slug": "bra2-nov-fec-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.659999997,
+          "value": 17.419999000818184,
+          "timestamp": 1794079935,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-verstappen-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Grêmio Novorizontino win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.33,
+          "value": 25.581599999999998,
+          "timestamp": 1794079918,
+          "slug": "bra2-nov-fec-2026-11-07-nov",
+          "event_slug": "bra2-nov-fec-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Grêmio Novorizontino win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.32,
+          "value": 51.15,
+          "timestamp": 1794079917,
+          "slug": "bra2-nov-fec-2026-11-07-nov",
+          "event_slug": "bra2-nov-fec-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Charles Leclerc get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.02,
+          "value": 1.3800000000000001,
+          "timestamp": 1794079887,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-leclerc-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Grêmio Novorizontino win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.15,
+          "value": 0.018,
+          "timestamp": 1794079864,
+          "slug": "bra2-nov-fec-2026-11-07-nov",
+          "event_slug": "bra2-nov-fec-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Fortaleza EC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.3699999922,
+          "value": 15.58000000155675,
+          "timestamp": 1794079839,
+          "slug": "bra2-nov-fec-2026-11-07-fec",
+          "event_slug": "bra2-nov-fec-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC Alverca vs. Casa Pia AC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.57,
+          "value": 5.699999999999999,
+          "timestamp": 1794079738,
+          "slug": "por-alv-cas-2026-11-07-total-2pt5",
+          "event_slug": "por-alv-cas-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Clemson vs. Syracuse",
+          "side": "BUY",
+          "outcome": "Clemson",
+          "price": 0.91,
+          "value": 45.5,
+          "timestamp": 1794079719,
+          "slug": "cfb-clmsn-syra-2026-11-07",
+          "event_slug": "cfb-clmsn-syra-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Manresa vs. Monbus Obradoiro",
+          "side": "BUY",
+          "outcome": "Manresa",
+          "price": 0.76,
+          "value": 3.8,
+          "timestamp": 1794079632,
+          "slug": "bkligend-man-mon-2026-11-07",
+          "event_slug": "bkligend-man-mon-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Manresa vs. Monbus Obradoiro",
+          "side": "BUY",
+          "outcome": "Manresa",
+          "price": 0.78,
+          "value": 7.800000000000001,
+          "timestamp": 1794079620,
+          "slug": "bkligend-man-mon-2026-11-07",
+          "event_slug": "bkligend-man-mon-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will George Russell get pole position at the 2026 F1 Brazilian Grand Prix?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.05,
+          "value": 6.370000000000001,
+          "timestamp": 1794079588,
+          "slug": "f1-brazilian-grand-prix-driver-pole-position-russell-2026-11-07",
+          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "CD Leganés vs. Albacete Balompié: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.13,
+          "value": 2.6,
+          "timestamp": 1794079584,
+          "slug": "es2-leg-alb-2026-11-07-total-4pt5",
+          "event_slug": "es2-leg-alb-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CD Leganés vs. Albacete Balompié: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.13,
+          "value": 2.08,
+          "timestamp": 1794079581,
+          "slug": "es2-leg-alb-2026-11-07-total-4pt5",
+          "event_slug": "es2-leg-alb-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Albacete Balompié win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.0202307692,
+          "value": 5.259999991999999,
+          "timestamp": 1794079573,
+          "slug": "es2-leg-alb-2026-11-07-alb",
+          "event_slug": "es2-leg-alb-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nottingham Forest FC vs. Manchester City FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.02,
+          "value": 2.5272,
+          "timestamp": 1794079530,
+          "slug": "epl-not-mac-2026-11-07-total-4pt5",
+          "event_slug": "epl-not-mac-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "CA Osasuna vs. Athletic Club: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.01,
+          "value": 0.2005,
+          "timestamp": 1794079519,
+          "slug": "lal-osa-bil-2026-11-07-total-2pt5",
+          "event_slug": "lal-osa-bil-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CA Osasuna vs. Athletic Club end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.01,
+          "value": 7.7319,
+          "timestamp": 1794079519,
+          "slug": "lal-osa-bil-2026-11-07-draw",
+          "event_slug": "lal-osa-bil-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CA Osasuna vs. Athletic Club end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.01,
+          "value": 6.47,
+          "timestamp": 1794079518,
+          "slug": "lal-osa-bil-2026-11-07-draw",
+          "event_slug": "lal-osa-bil-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nottingham Forest FC vs. Manchester City FC: O/U 4.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.02,
+          "value": 4.6454,
+          "timestamp": 1794079458,
+          "slug": "epl-not-mac-2026-11-07-total-4pt5",
+          "event_slug": "epl-not-mac-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nottingham Forest FC vs. Manchester City FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.02,
+          "value": 13.9654,
+          "timestamp": 1794079456,
+          "slug": "epl-not-mac-2026-11-07-total-4pt5",
+          "event_slug": "epl-not-mac-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nottingham Forest FC vs. Manchester City FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.03,
+          "value": 21.57,
+          "timestamp": 1794079440,
+          "slug": "epl-not-mac-2026-11-07-total-4pt5",
+          "event_slug": "epl-not-mac-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nottingham Forest FC vs. Manchester City FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.03,
+          "value": 21.57,
+          "timestamp": 1794079438,
+          "slug": "epl-not-mac-2026-11-07-total-4pt5",
+          "event_slug": "epl-not-mac-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CA Osasuna win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.94,
+          "value": 1345.62999004,
+          "timestamp": 1794079377,
+          "slug": "lal-osa-bil-2026-11-07-osa",
+          "event_slug": "lal-osa-bil-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Ironi Tiberias vs. Beitar Jerusalem FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.13,
+          "value": 2.47,
+          "timestamp": 1794079341,
+          "slug": "isr-iti-bei-2026-11-07-total-2pt5",
+          "event_slug": "isr-iti-bei-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Will CA Osasuna win on 2026-11-07?",
           "side": "BUY",
@@ -5928,314 +6247,6 @@
           "timestamp": 1794078945,
           "slug": "cfb-byu-utah-2026-11-07-total-37pt5",
           "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah: O/U 37.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 4.73,
-          "timestamp": 1794078943,
-          "slug": "cfb-byu-utah-2026-11-07-total-37pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah: O/U 37.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 4.73,
-          "timestamp": 1794078942,
-          "slug": "cfb-byu-utah-2026-11-07-total-37pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah: O/U 37.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 4.73,
-          "timestamp": 1794078940,
-          "slug": "cfb-byu-utah-2026-11-07-total-37pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah: O/U 37.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 4.73,
-          "timestamp": 1794078939,
-          "slug": "cfb-byu-utah-2026-11-07-total-37pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah: O/U 37.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 4.73,
-          "timestamp": 1794078937,
-          "slug": "cfb-byu-utah-2026-11-07-total-37pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah: O/U 37.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 4.73,
-          "timestamp": 1794078936,
-          "slug": "cfb-byu-utah-2026-11-07-total-37pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah: O/U 37.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 4.73,
-          "timestamp": 1794078934,
-          "slug": "cfb-byu-utah-2026-11-07-total-37pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State: O/U 75.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.87,
-          "value": 58.29,
-          "timestamp": 1794078925,
-          "slug": "cfb-okst-kanst-2026-11-07-total-75pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah: O/U 37.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.001,
-          "value": 0.47300000000000003,
-          "timestamp": 1794078925,
-          "slug": "cfb-byu-utah-2026-11-07-total-37pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah: O/U 37.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 4.73,
-          "timestamp": 1794078924,
-          "slug": "cfb-byu-utah-2026-11-07-total-37pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Osasuna vs. Athletic Club: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.17,
-          "value": 0.14450000000000002,
-          "timestamp": 1794078921,
-          "slug": "lal-osa-bil-2026-11-07-total-1pt5",
-          "event_slug": "lal-osa-bil-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "BYU vs. Utah: O/U 37.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.0096350365,
-          "value": 2.6400000009999998,
-          "timestamp": 1794078921,
-          "slug": "cfb-byu-utah-2026-11-07-total-37pt5",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "CA Osasuna vs. Athletic Club: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.03,
-          "value": 1.3499999999999999,
-          "timestamp": 1794078894,
-          "slug": "lal-osa-bil-2026-11-07-total-0pt5",
-          "event_slug": "lal-osa-bil-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Athletic Club win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.83,
-          "value": 59.9011,
-          "timestamp": 1794078891,
-          "slug": "lal-osa-bil-2026-11-07-bil",
-          "event_slug": "lal-osa-bil-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Athletic Club win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.83,
-          "value": 33.199999999999996,
-          "timestamp": 1794078889,
-          "slug": "lal-osa-bil-2026-11-07-bil",
-          "event_slug": "lal-osa-bil-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Oscar Piastri get pole position at the 2026 F1 Brazilian Grand Prix?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.02,
-          "value": 2.07,
-          "timestamp": 1794078876,
-          "slug": "f1-brazilian-grand-prix-driver-pole-position-piastri-2026-11-07",
-          "event_slug": "f1-brazilian-grand-prix-driver-pole-position-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State: O/U 69.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.94,
-          "value": 81.78,
-          "timestamp": 1794078865,
-          "slug": "cfb-okst-kanst-2026-11-07-total-69pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State: O/U 69.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.94,
-          "value": 199.28,
-          "timestamp": 1794078864,
-          "slug": "cfb-okst-kanst-2026-11-07-total-69pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State: O/U 69.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.94,
-          "value": 199.28,
-          "timestamp": 1794078862,
-          "slug": "cfb-okst-kanst-2026-11-07-total-69pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State: O/U 69.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.94,
-          "value": 201.16,
-          "timestamp": 1794078861,
-          "slug": "cfb-okst-kanst-2026-11-07-total-69pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State: O/U 69.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.94,
-          "value": 200.22,
-          "timestamp": 1794078859,
-          "slug": "cfb-okst-kanst-2026-11-07-total-69pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Osasuna win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.02,
-          "value": 1.97,
-          "timestamp": 1794078859,
-          "slug": "lal-osa-bil-2026-11-07-osa",
-          "event_slug": "lal-osa-bil-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State: O/U 69.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.94,
-          "value": 203.04,
-          "timestamp": 1794078859,
-          "slug": "cfb-okst-kanst-2026-11-07-total-69pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State: O/U 69.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.94,
-          "value": 99.64,
-          "timestamp": 1794078856,
-          "slug": "cfb-okst-kanst-2026-11-07-total-69pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CA Osasuna win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.02,
-          "value": 17.67,
-          "timestamp": 1794078856,
-          "slug": "lal-osa-bil-2026-11-07-osa",
-          "event_slug": "lal-osa-bil-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State: O/U 69.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.94,
-          "value": 103.39999999999999,
-          "timestamp": 1794078856,
-          "slug": "cfb-okst-kanst-2026-11-07-total-69pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State: O/U 69.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.94,
-          "value": 99.64,
-          "timestamp": 1794078853,
-          "slug": "cfb-okst-kanst-2026-11-07-total-69pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Oklahoma State vs. Kansas State: O/U 69.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.94,
-          "value": 103.39999999999999,
-          "timestamp": 1794078853,
-          "slug": "cfb-okst-kanst-2026-11-07-total-69pt5",
-          "event_slug": "cfb-okst-kanst-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -6497,7 +6508,7 @@
       "stats48h": {
         "wins": 21,
         "losses": 8,
-        "totalTrades": 176,
+        "totalTrades": 174,
         "winRate": 0.7241379310344828,
         "volume": 56594.276795205464,
         "pnl": 0
@@ -8447,5 +8458,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T19:24:44.628Z"
+  "lastUpdate": "2026-11-07T19:35:41.731Z"
 }
