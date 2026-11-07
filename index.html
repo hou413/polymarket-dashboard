@@ -377,21 +377,38 @@
                     }
                 } catch(e) {
                     // Fallback to static JSON (for GitHub Pages)
-                    // 尝试 GitHub Pages（带 cache-busting），失败则 fallback 到 raw
+                    // 多个数据源，按优先级尝试
                     const ts = Date.now();
-                    let res = await fetch('https://hou413.github.io/polymarket-dashboard/dashboard-data.json?_=' + ts);
-                    if (!res.ok) {
-                        console.warn('GitHub Pages failed, trying raw...');
-                        res = await fetch('https://raw.githubusercontent.com/hou413/polymarket-dashboard/main/dashboard-data.json?_=' + ts);
+                    const sources = [
+                        // jsDelivr CDN (中国访问最快)
+                        'https://cdn.jsdelivr.net/gh/hou413/polymarket-dashboard@main/dashboard-data.json?_=' + ts,
+                        // GitHub Pages
+                        'https://hou413.github.io/polymarket-dashboard/dashboard-data.json?_=' + ts,
+                        // Raw GitHub
+                        'https://raw.githubusercontent.com/hou413/polymarket-dashboard/main/dashboard-data.json?_=' + ts,
+                    ];
+                    
+                    let res = null;
+                    for (const url of sources) {
+                        try {
+                            res = await fetch(url, { timeout: 10000 });
+                            if (res.ok) {
+                                console.log('Data loaded from:', url);
+                                break;
+                            }
+                        } catch (err) {
+                            console.warn('Failed to load from:', url, err.message);
+                        }
                     }
-                    if (!res.ok) throw new Error('No data');
+                    
+                    if (!res || !res.ok) throw new Error('No data from any source');
                     data = await res.json();
                 }
                 updateDashboard(data);
             } catch (error) {
                 console.error('Failed to fetch dashboard:', error);
                 document.getElementById('tradersGrid').innerHTML = 
-                    '<div class="error">暂无数据，请稍后刷新</div>';
+                    '<div class="error">⚠️ 数据加载失败，请检查网络连接或稍后刷新<br><small>' + error.message + '</small></div>';
             }
         }
         
