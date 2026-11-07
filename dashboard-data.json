@@ -1638,13 +1638,24 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 21,
-        "losses": 28,
-        "totalTrades": 169,
-        "winRate": 0.42857142857142855,
-        "volume": 649783.8892045288,
+        "losses": 27,
+        "totalTrades": 170,
+        "winRate": 0.4375,
+        "volume": 701263.3430045288,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "TheMongolz",
+          "price": 0.61,
+          "value": 54900,
+          "timestamp": 1794037798,
+          "slug": "cs2-mglz-navi-2026-11-07",
+          "event_slug": "cs2-mglz-navi-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
           "side": "BUY",
@@ -2180,17 +2191,6 @@
           "price": 0.4449395516,
           "value": 3922.489200204248,
           "timestamp": 1794003877,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.46,
-          "value": 3420.5462,
-          "timestamp": 1794003835,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
           "result": "loss"
@@ -5361,14 +5361,201 @@
       "label": "dips.",
       "specialty": "Soccer+NBA",
       "stats48h": {
-        "wins": 7,
-        "losses": 1,
+        "wins": 0,
+        "losses": 0,
         "totalTrades": 500,
-        "winRate": 0.875,
-        "volume": 2129.9721290315574,
+        "winRate": 0,
+        "volume": 2219.4311100146156,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.37,
+          "value": 11.1,
+          "timestamp": 1794038188,
+          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+          "event_slug": "new-zealand-legislative-election-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.39,
+          "value": 5.8500000000000005,
+          "timestamp": 1794038182,
+          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+          "event_slug": "new-zealand-legislative-election-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.39,
+          "value": 12.09,
+          "timestamp": 1794038173,
+          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+          "event_slug": "new-zealand-legislative-election-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.39,
+          "value": 6.24,
+          "timestamp": 1794038173,
+          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+          "event_slug": "new-zealand-legislative-election-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Avispa Fukuoka vs. V-Varen Nagasaki: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.9583898016,
+          "value": 59.51998399703663,
+          "timestamp": 1794038142,
+          "slug": "jap-avi-vva-2026-11-07-total-2pt5",
+          "event_slug": "jap-avi-vva-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.46,
+          "value": 24.380000000000003,
+          "timestamp": 1794038116,
+          "slug": "crint-namw-usaw-2026-11-07",
+          "event_slug": "crint-namw-usaw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Exact Score: Abha Saudi Club 0 - 0 Al Shabab Saudi Club?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.989,
+          "value": 5.1428,
+          "timestamp": 1794038110,
+          "slug": "spl-abh-sha-2026-11-05-exact-score-0-0",
+          "event_slug": "spl-abh-sha-2026-11-05-exact-score",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nantong Zhiyun vs. Foshan Nanshi FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.8299999995,
+          "value": 189.41999700589156,
+          "timestamp": 1794038020,
+          "slug": "chi2-nan-fos-2026-11-07-total-4pt5",
+          "event_slug": "chi2-nan-fos-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.48,
+          "value": 55.199999999999996,
+          "timestamp": 1794037884,
+          "slug": "crint-namw-usaw-2026-11-07",
+          "event_slug": "crint-namw-usaw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.49,
+          "value": 92.12,
+          "timestamp": 1794037827,
+          "slug": "crint-namw-usaw-2026-11-07",
+          "event_slug": "crint-namw-usaw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.49,
+          "value": 30.87,
+          "timestamp": 1794037825,
+          "slug": "crint-namw-usaw-2026-11-07",
+          "event_slug": "crint-namw-usaw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.49,
+          "value": 55.37,
+          "timestamp": 1794037824,
+          "slug": "crint-namw-usaw-2026-11-07",
+          "event_slug": "crint-namw-usaw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.49,
+          "value": 52.43,
+          "timestamp": 1794037810,
+          "slug": "crint-namw-usaw-2026-11-07",
+          "event_slug": "crint-namw-usaw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.49,
+          "value": 14.209999999999999,
+          "timestamp": 1794037752,
+          "slug": "crint-namw-usaw-2026-11-07",
+          "event_slug": "crint-namw-usaw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.49,
+          "value": 14.209999999999999,
+          "timestamp": 1794037750,
+          "slug": "crint-namw-usaw-2026-11-07",
+          "event_slug": "crint-namw-usaw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs USA Women",
+          "side": "BUY",
+          "outcome": "USA Women",
+          "price": 0.49,
+          "value": 15.68,
+          "timestamp": 1794037746,
+          "slug": "crint-namw-usaw-2026-11-07",
+          "event_slug": "crint-namw-usaw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kashiwa Reysol vs. Kawasaki Frontale: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.62,
+          "value": 0.0868,
+          "timestamp": 1794037678,
+          "slug": "jap-rey-kaw-2026-11-07-total-2pt5",
+          "event_slug": "jap-rey-kaw-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Victoria Women T20I: Namibia Women vs USA Women",
           "side": "BUY",
@@ -5731,193 +5918,6 @@
           "slug": "chi2-nip-jia-2026-11-07-draw",
           "event_slug": "chi2-nip-jia-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Ningbo Professional FC vs. Jiangxi Dingnan United end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.81,
-          "value": 24.3,
-          "timestamp": 1794035101,
-          "slug": "chi2-nip-jia-2026-11-07-draw",
-          "event_slug": "chi2-nip-jia-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ningbo Professional FC vs. Jiangxi Dingnan United end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.81,
-          "value": 88.29,
-          "timestamp": 1794035100,
-          "slug": "chi2-nip-jia-2026-11-07-draw",
-          "event_slug": "chi2-nip-jia-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Shenzhen Juniors FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.04,
-          "value": 1.1500000000000001,
-          "timestamp": 1794035022,
-          "slug": "chi2-she-sud-2026-11-07-she",
-          "event_slug": "chi2-she-sud-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
-          "side": "BUY",
-          "outcome": "New Zealand",
-          "price": 0.06,
-          "value": 2.6399999999999997,
-          "timestamp": 1794034951,
-          "slug": "crint-nzl-ind-2026-11-06",
-          "event_slug": "crint-nzl-ind-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Arizona (-4.5)",
-          "side": "BUY",
-          "outcome": "Arizona",
-          "price": 0.04,
-          "value": 11.83,
-          "timestamp": 1794034948,
-          "slug": "cfb-tcu-arz-2026-11-06-spread-home-4pt5",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Arizona (-4.5)",
-          "side": "BUY",
-          "outcome": "TCU",
-          "price": 0.76,
-          "value": 50.160000000000004,
-          "timestamp": 1794034768,
-          "slug": "cfb-tcu-arz-2026-11-06-spread-home-4pt5",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
-          "side": "BUY",
-          "outcome": "New Zealand",
-          "price": 0.0593102011,
-          "value": 25.890000018870353,
-          "timestamp": 1794034750,
-          "slug": "crint-nzl-ind-2026-11-06",
-          "event_slug": "crint-nzl-ind-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "TCU vs. Arizona",
-          "side": "SELL",
-          "outcome": "Arizona",
-          "price": 0.81,
-          "value": 10.935,
-          "timestamp": 1794034695,
-          "slug": "cfb-tcu-arz-2026-11-06",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "TCU vs. Arizona",
-          "side": "BUY",
-          "outcome": "Arizona",
-          "price": 0.82,
-          "value": 66.42,
-          "timestamp": 1794034693,
-          "slug": "cfb-tcu-arz-2026-11-06",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "TCU vs. Arizona",
-          "side": "BUY",
-          "outcome": "Arizona",
-          "price": 0.64,
-          "value": 71.38560000000001,
-          "timestamp": 1794034672,
-          "slug": "cfb-tcu-arz-2026-11-06",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Will Fagiano Okayama win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9,
-          "value": 12.6,
-          "timestamp": 1794034668,
-          "slug": "jap-yom-fag-2026-11-07-fag",
-          "event_slug": "jap-yom-fag-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "TCU vs. Arizona",
-          "side": "BUY",
-          "outcome": "Arizona",
-          "price": 0.5,
-          "value": 132.57,
-          "timestamp": 1794034662,
-          "slug": "cfb-tcu-arz-2026-11-06",
-          "event_slug": "cfb-tcu-arz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Wonju DB Promy vs. Seoul Thunders",
-          "side": "BUY",
-          "outcome": "Seoul Thunders",
-          "price": 0.017,
-          "value": 3.330000001,
-          "timestamp": 1794034630,
-          "slug": "bkkbl-won-seo2-2026-11-07",
-          "event_slug": "bkkbl-won-seo2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wonju DB Promy vs. Seoul Thunders",
-          "side": "BUY",
-          "outcome": "Seoul Thunders",
-          "price": 0.016,
-          "value": 1.08,
-          "timestamp": 1794034617,
-          "slug": "bkkbl-won-seo2-2026-11-07",
-          "event_slug": "bkkbl-won-seo2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wonju DB Promy vs. Seoul Thunders",
-          "side": "BUY",
-          "outcome": "Seoul Thunders",
-          "price": 0.04,
-          "value": 1,
-          "timestamp": 1794034477,
-          "slug": "bkkbl-won-seo2-2026-11-07",
-          "event_slug": "bkkbl-won-seo2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "KBO Playoff: KT Wiz vs. Samsung Lions",
-          "side": "BUY",
-          "outcome": "KT Wiz",
-          "price": 0.38,
-          "value": 19.38,
-          "timestamp": 1794034470,
-          "slug": "kbo-kt-sam-2026-11-07",
-          "event_slug": "kbo-kt-sam-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nagoya Grampus vs. Kyōto Sanga FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.84,
-          "value": 31.5,
-          "timestamp": 1794034453,
-          "slug": "jap-ngr-kyo-2026-11-07-total-2pt5",
-          "event_slug": "jap-ngr-kyo-2026-11-07-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -7985,5 +7985,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T07:51:22.547Z"
+  "lastUpdate": "2026-11-07T08:01:07.721Z"
 }
