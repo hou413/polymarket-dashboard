@@ -600,12 +600,34 @@
       "stats48h": {
         "wins": 6,
         "losses": 24,
-        "totalTrades": 30,
+        "totalTrades": 32,
         "winRate": 0.2,
-        "volume": 94013.7892000745,
+        "volume": 94061.45470007451,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Lightning vs. Wild",
+          "side": "BUY",
+          "outcome": "Lightning",
+          "price": 0.56,
+          "value": 40.908,
+          "timestamp": 1794042862,
+          "slug": "nhl-tb-min-2026-11-07",
+          "event_slug": "nhl-tb-min-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Sharks vs. Stars: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.53,
+          "value": 6.7575,
+          "timestamp": 1794042765,
+          "slug": "nhl-sj-dal-2026-11-07-total-6pt5",
+          "event_slug": "nhl-sj-dal-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Flames (-1.5)",
           "side": "BUY",
@@ -1639,7 +1661,7 @@
       "stats48h": {
         "wins": 23,
         "losses": 27,
-        "totalTrades": 166,
+        "totalTrades": 165,
         "winRate": 0.46,
         "volume": 701263.3430045288,
         "pnl": 0
@@ -5365,10 +5387,285 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1881.4891669996198,
+        "volume": 2446.144122007756,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Borneo Samarinda vs. PSM Makassar end in a draw?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.17,
+          "value": 0.6562,
+          "timestamp": 1794042814,
+          "slug": "idn1-sam-mak-2026-11-07-draw",
+          "event_slug": "idn1-sam-mak-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimcheon Sangmu FC vs. FC Anyang end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8199999985,
+          "value": 21.579999000524392,
+          "timestamp": 1794042750,
+          "slug": "kor-san-any-2026-11-07-draw",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Anyang win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.971,
+          "value": 19.419999999999998,
+          "timestamp": 1794042739,
+          "slug": "kor-san-any-2026-11-07-any",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimcheon Sangmu FC vs. FC Anyang end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 24.599999999999998,
+          "timestamp": 1794042735,
+          "slug": "kor-san-any-2026-11-07-draw",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Anyang win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9709999995,
+          "value": 29.160000000984553,
+          "timestamp": 1794042733,
+          "slug": "kor-san-any-2026-11-07-any",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimcheon Sangmu FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.81,
+          "value": 85.05000000000001,
+          "timestamp": 1794042733,
+          "slug": "kor-san-any-2026-11-07-san",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimcheon Sangmu FC vs. FC Anyang end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 65.6,
+          "timestamp": 1794042733,
+          "slug": "kor-san-any-2026-11-07-draw",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Anyang win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9709999996,
+          "value": 34.019988999985586,
+          "timestamp": 1794042732,
+          "slug": "kor-san-any-2026-11-07-any",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Hwaseong FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 4.1,
+          "timestamp": 1794042732,
+          "slug": "kor2-gim-hwa-2026-11-07-hwa",
+          "event_slug": "kor2-gim-hwa-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Anyang win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9709999997,
+          "value": 38.87997799998765,
+          "timestamp": 1794042724,
+          "slug": "kor-san-any-2026-11-07-any",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Anyang win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9709999995,
+          "value": 29.160000000984553,
+          "timestamp": 1794042723,
+          "slug": "kor-san-any-2026-11-07-any",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Anyang win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9709999996,
+          "value": 48.59998900197941,
+          "timestamp": 1794042717,
+          "slug": "kor-san-any-2026-11-07-any",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Anyang win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.971,
+          "value": 19.419999999999998,
+          "timestamp": 1794042714,
+          "slug": "kor-san-any-2026-11-07-any",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.32,
+          "value": 6.4,
+          "timestamp": 1794042697,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimcheon Sangmu FC vs. FC Anyang end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 24.599999999999998,
+          "timestamp": 1794042676,
+          "slug": "kor-san-any-2026-11-07-draw",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FC Anyang win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.971,
+          "value": 19.419999999999998,
+          "timestamp": 1794042672,
+          "slug": "kor-san-any-2026-11-07-any",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.32,
+          "value": 6.4,
+          "timestamp": 1794042672,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.33,
+          "value": 3.3000000000000003,
+          "timestamp": 1794042612,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.3281917767,
+          "value": 18.150000000785177,
+          "timestamp": 1794042568,
+          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
+          "event_slug": "next-prime-minister-of-new-zealand-174",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimcheon Sangmu FC vs. FC Anyang end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 191.88,
+          "timestamp": 1794042564,
+          "slug": "kor-san-any-2026-11-07-draw",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimcheon Sangmu FC vs. FC Anyang end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 83.64,
+          "timestamp": 1794042561,
+          "slug": "kor-san-any-2026-11-07-draw",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gimcheon Sangmu FC vs. FC Anyang end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 32.8,
+          "timestamp": 1794042559,
+          "slug": "kor-san-any-2026-11-07-draw",
+          "event_slug": "kor-san-any-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ansan Greeners FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.94,
+          "value": 109.03999999999999,
+          "timestamp": 1794042556,
+          "slug": "kor2-gimp-ang-2026-11-07-ang",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ansan Greeners FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.94,
+          "value": 224.66,
+          "timestamp": 1794042555,
+          "slug": "kor2-gimp-ang-2026-11-07-ang",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ansan Greeners FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.94,
+          "value": 196.45999999999998,
+          "timestamp": 1794042553,
+          "slug": "kor2-gimp-ang-2026-11-07-ang",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Will Ansan Greeners FC win on 2026-11-07?",
           "side": "BUY",
@@ -5377,7 +5674,7 @@
           "value": 140.06,
           "timestamp": 1794042552,
           "slug": "kor2-gimp-ang-2026-11-07-ang",
-          "event_slug": "",
+          "event_slug": "kor2-gimp-ang-2026-11-07",
           "result": "ongoing"
         },
         {
@@ -5642,281 +5939,6 @@
           "timestamp": 1794042183,
           "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
           "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.39,
-          "value": 34.71,
-          "timestamp": 1794042183,
-          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Seoul E-Land FC vs. Jeonnam Dragons end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.97,
-          "value": 36.2295,
-          "timestamp": 1794042093,
-          "slug": "kor2-sel-jed-2026-11-07-draw",
-          "event_slug": "kor2-sel-jed-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Brisbane Heat vs Hobart Hurricanes",
-          "side": "BUY",
-          "outcome": "Brisbane Heat",
-          "price": 0.85,
-          "value": 147.04999999999998,
-          "timestamp": 1794042040,
-          "slug": "cricwbbl-brh-hoh-2026-11-07",
-          "event_slug": "cricwbbl-brh-hoh-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "India Tour of New Zealand ODIs: New Zealand vs India",
-          "side": "BUY",
-          "outcome": "New Zealand",
-          "price": 0.032,
-          "value": 8.736,
-          "timestamp": 1794042016,
-          "slug": "crint-nzl-ind-2026-11-06",
-          "event_slug": "crint-nzl-ind-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Big Bash League, Women: Brisbane Heat vs Hobart Hurricanes",
-          "side": "BUY",
-          "outcome": "Hobart Hurricanes",
-          "price": 0.15,
-          "value": 8.25,
-          "timestamp": 1794041992,
-          "slug": "cricwbbl-brh-hoh-2026-11-07",
-          "event_slug": "cricwbbl-brh-hoh-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ansan Greeners FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.22,
-          "value": 8.3314,
-          "timestamp": 1794041979,
-          "slug": "kor2-gimp-ang-2026-11-07-ang",
-          "event_slug": "kor2-gimp-ang-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4210973062,
-          "value": 47.29999999754721,
-          "timestamp": 1794041976,
-          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Christopher Luxon be the next Prime Minister of New Zealand after the 2026 ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4199999687,
-          "value": 4.2999999995475955,
-          "timestamp": 1794041971,
-          "slug": "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718",
-          "event_slug": "next-prime-minister-of-new-zealand-174",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Anyang win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 44.16,
-          "timestamp": 1794041944,
-          "slug": "kor-san-any-2026-11-07-any",
-          "event_slug": "kor-san-any-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Anyang win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 45.12,
-          "timestamp": 1794041938,
-          "slug": "kor-san-any-2026-11-07-any",
-          "event_slug": "kor-san-any-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Anyang win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 34.56,
-          "timestamp": 1794041926,
-          "slug": "kor-san-any-2026-11-07-any",
-          "event_slug": "kor-san-any-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Anyang win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 29.759999999999998,
-          "timestamp": 1794041925,
-          "slug": "kor-san-any-2026-11-07-any",
-          "event_slug": "kor-san-any-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Anyang win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 113.28,
-          "timestamp": 1794041925,
-          "slug": "kor-san-any-2026-11-07-any",
-          "event_slug": "kor-san-any-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Anyang win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 42.239999999999995,
-          "timestamp": 1794041922,
-          "slug": "kor-san-any-2026-11-07-any",
-          "event_slug": "kor-san-any-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Gimcheon Sangmu FC vs. FC Anyang: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 11.696399999999999,
-          "timestamp": 1794041881,
-          "slug": "kor-san-any-2026-11-07-total-1pt5",
-          "event_slug": "kor-san-any-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Gimcheon Sangmu FC vs. FC Anyang: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 22.229999999999997,
-          "timestamp": 1794041877,
-          "slug": "kor-san-any-2026-11-07-total-1pt5",
-          "event_slug": "kor-san-any-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Gimcheon Sangmu FC vs. FC Anyang: O/U 1.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.53,
-          "value": 0.53,
-          "timestamp": 1794041824,
-          "slug": "kor-san-any-2026-11-07-total-1pt5",
-          "event_slug": "kor-san-any-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Gimcheon Sangmu FC vs. FC Anyang: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.55,
-          "value": 14.3,
-          "timestamp": 1794041817,
-          "slug": "kor-san-any-2026-11-07-total-1pt5",
-          "event_slug": "kor-san-any-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Gimcheon Sangmu FC vs. FC Anyang: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.55,
-          "value": 22,
-          "timestamp": 1794041803,
-          "slug": "kor-san-any-2026-11-07-total-1pt5",
-          "event_slug": "kor-san-any-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Jeonnam Dragons win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.97,
-          "value": 29.099999999999998,
-          "timestamp": 1794041775,
-          "slug": "kor2-sel-jed-2026-11-07-jed",
-          "event_slug": "kor2-sel-jed-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Gimcheon Sangmu FC vs. FC Anyang: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.62,
-          "value": 9.4054,
-          "timestamp": 1794041722,
-          "slug": "kor-san-any-2026-11-07-total-1pt5",
-          "event_slug": "kor-san-any-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kashiwa Reysol vs. Kawasaki Frontale: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.98,
-          "value": 49,
-          "timestamp": 1794041653,
-          "slug": "jap-rey-kaw-2026-11-07-total-3pt5",
-          "event_slug": "jap-rey-kaw-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will National Party win the most seats in the New Zealand House of Representativ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.08,
-          "value": 7.9,
-          "timestamp": 1794041535,
-          "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-          "event_slug": "new-zealand-legislative-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kashiwa Reysol win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.03,
-          "value": 0.9225,
-          "timestamp": 1794041526,
-          "slug": "jap-rey-kaw-2026-11-07-rey",
-          "event_slug": "jap-rey-kaw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kashiwa Reysol win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.04,
-          "value": 1.23,
-          "timestamp": 1794041523,
-          "slug": "jap-rey-kaw-2026-11-07-rey",
-          "event_slug": "jap-rey-kaw-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -7053,10 +7075,10 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 28,
+        "wins": 29,
         "losses": 5,
         "totalTrades": 34,
-        "winRate": 0.8484848484848485,
+        "winRate": 0.8529411764705882,
         "volume": 38717.196439994994,
         "pnl": 0
       },
@@ -7070,7 +7092,7 @@
           "timestamp": 1794037668,
           "slug": "jap-rey-kaw-2026-11-07-total-0pt5",
           "event_slug": "jap-rey-kaw-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "FC Tōkyō vs. Kashima Antlers: O/U 0.5",
@@ -7920,9 +7942,9 @@
       "specialty": "J1+综合",
       "stats48h": {
         "wins": 4,
-        "losses": 0,
+        "losses": 1,
         "totalTrades": 6,
-        "winRate": 1,
+        "winRate": 0.8,
         "volume": 2200.942509072781,
         "pnl": 0
       },
@@ -7947,7 +7969,7 @@
           "timestamp": 1794036795,
           "slug": "jap-rey-kaw-2026-11-07-total-2pt5",
           "event_slug": "jap-rey-kaw-2026-11-07-more-markets",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Sagan Tosu vs. Kataller Toyama: O/U 3.5",
@@ -7996,5 +8018,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T09:11:08.188Z"
+  "lastUpdate": "2026-11-07T09:20:50.903Z"
 }
