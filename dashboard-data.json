@@ -30,14 +30,168 @@
       "address": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
       "label": "sports_whale_1",
       "stats48h": {
-        "wins": 11,
-        "losses": 11,
-        "totalTrades": 349,
-        "winRate": 0.5,
-        "volume": 7726.849300000001,
+        "wins": 3,
+        "losses": 5,
+        "totalTrades": 363,
+        "winRate": 0.375,
+        "volume": 6501.216900000001,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: 76ers (-2.5)",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.7,
+          "value": 17.5,
+          "timestamp": 1794013651,
+          "slug": "nba-phi-cle-2026-11-06-spread-away-2pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-7.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.62,
+          "value": 21.08,
+          "timestamp": 1794013645,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-7pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-7.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.61,
+          "value": 3.05,
+          "timestamp": 1794013627,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-7pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-3.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.46,
+          "value": 71.1344,
+          "timestamp": 1794013620,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-3pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: 76ers (-2.5)",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.69,
+          "value": 13.799999999999999,
+          "timestamp": 1794013620,
+          "slug": "nba-phi-cle-2026-11-06-spread-away-2pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-11.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.72,
+          "value": 28.764,
+          "timestamp": 1794013504,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-11pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Celtics (-22.5)",
+          "side": "BUY",
+          "outcome": "Hornets",
+          "price": 0.22,
+          "value": 6.597799999999999,
+          "timestamp": 1794013389,
+          "slug": "nba-bos-cha-2026-11-06-spread-away-22pt5",
+          "event_slug": "nba-bos-cha-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics vs. Hornets: O/U 218.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.78,
+          "value": 14.82,
+          "timestamp": 1794013282,
+          "slug": "nba-bos-cha-2026-11-06-total-218pt5",
+          "event_slug": "nba-bos-cha-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: 76ers (-7.5)",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.8,
+          "value": 5.128,
+          "timestamp": 1794013275,
+          "slug": "nba-phi-cle-2026-11-06-spread-away-7pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-7.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.65,
+          "value": 26,
+          "timestamp": 1794013125,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-7pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: 76ers (-4.5)",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.74,
+          "value": 428.46,
+          "timestamp": 1794013125,
+          "slug": "nba-phi-cle-2026-11-06-spread-away-4pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-7.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.59,
+          "value": 2.9499999999999997,
+          "timestamp": 1794013030,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-7pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Cavaliers (-7.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.6,
+          "value": 132,
+          "timestamp": 1794013011,
+          "slug": "nba-phi-cle-2026-11-06-spread-home-7pt5",
+          "event_slug": "nba-phi-cle-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Hawks (-5.5)",
+          "side": "BUY",
+          "outcome": "Hawks",
+          "price": 0.62,
+          "value": 24.7752,
+          "timestamp": 1794012900,
+          "slug": "nba-was-atl-2026-11-06-spread-home-5pt5",
+          "event_slug": "nba-was-atl-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Cavaliers (-1.5)",
           "side": "BUY",
@@ -433,160 +587,6 @@
           "slug": "nba-mia-gsw-2026-11-05-total-221pt5",
           "event_slug": "nba-mia-gsw-2026-11-05",
           "result": "win"
-        },
-        {
-          "title": "Heat vs. Warriors: O/U 221.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.39,
-          "value": 311.805,
-          "timestamp": 1793940360,
-          "slug": "nba-mia-gsw-2026-11-05-total-221pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-5.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.69,
-          "value": 8.969999999999999,
-          "timestamp": 1793940298,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-5pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-10.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.57,
-          "value": 570,
-          "timestamp": 1793940004,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-10pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-3.5)",
-          "side": "SELL",
-          "outcome": "Warriors",
-          "price": 0.76,
-          "value": 10.64,
-          "timestamp": 1793940003,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-3pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-7.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.48,
-          "value": 64.15679999999999,
-          "timestamp": 1793939940,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-7pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-6.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.51,
-          "value": 16.32,
-          "timestamp": 1793939938,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-6pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-1.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.38,
-          "value": 6.84,
-          "timestamp": 1793939698,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-1pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-4.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.43,
-          "value": 4.3,
-          "timestamp": 1793938354,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-4pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-2.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.47,
-          "value": 275.89,
-          "timestamp": 1793936712,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-2pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-9.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.74,
-          "value": 370,
-          "timestamp": 1793936710,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-9pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-1.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.43,
-          "value": 7.74,
-          "timestamp": 1793936709,
-          "slug": "nba-mia-gsw-2026-11-05-spread-home-1pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Heat vs. Warriors: O/U 234.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.66,
-          "value": 11.22,
-          "timestamp": 1793936608,
-          "slug": "nba-mia-gsw-2026-11-05-total-234pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Heat (-7.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.21,
-          "value": 3.9899999999999998,
-          "timestamp": 1793936593,
-          "slug": "nba-mia-gsw-2026-11-05-spread-away-7pt5",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Jaguars vs. Ravens: O/U 36.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.36,
-          "value": 359.82,
-          "timestamp": 1793936559,
-          "slug": "nfl-jax-bal-2026-11-06-total-36pt5",
-          "event_slug": "nfl-jax-bal-2026-11-06",
-          "result": "win"
         }
       ]
     },
@@ -952,9 +952,9 @@
       "label": "VeryLucky888",
       "stats48h": {
         "wins": 2,
-        "losses": 8,
+        "losses": 9,
         "totalTrades": 12,
-        "winRate": 0.2,
+        "winRate": 0.18181818181818182,
         "volume": 33968.235400000005,
         "pnl": 0
       },
@@ -979,7 +979,7 @@
           "timestamp": 1794003237,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
@@ -1662,13 +1662,123 @@
       "label": "Thunderous-Snarl",
       "stats48h": {
         "wins": 0,
-        "losses": 0,
-        "totalTrades": 202,
+        "losses": 19,
+        "totalTrades": 212,
         "winRate": 0,
-        "volume": 555810.2154933005,
+        "volume": 680867.6427005861,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Karmine Corp",
+          "price": 0.4,
+          "value": 531.576,
+          "timestamp": 1794013761,
+          "slug": "lol-kc-t1-2026-11-04-game4",
+          "event_slug": "lol-kc-t1-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Karmine Corp",
+          "price": 0.4193680482,
+          "value": 46130.485302,
+          "timestamp": 1794013728,
+          "slug": "lol-kc-t1-2026-11-04-game4",
+          "event_slug": "lol-kc-t1-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Karmine Corp",
+          "price": 0.4089000511,
+          "value": 51399.70960539162,
+          "timestamp": 1794013674,
+          "slug": "lol-kc-t1-2026-11-04-game4",
+          "event_slug": "lol-kc-t1-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Karmine Corp",
+          "price": 0.4,
+          "value": 28000,
+          "timestamp": 1794013648,
+          "slug": "lol-kc-t1-2026-11-04-game4",
+          "event_slug": "lol-kc-t1-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Karmine Corp",
+          "price": 0.4,
+          "value": 92000,
+          "timestamp": 1794013626,
+          "slug": "lol-kc-t1-2026-11-04-game4",
+          "event_slug": "lol-kc-t1-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Karmine Corp",
+          "price": 0.38,
+          "value": 14796.9606,
+          "timestamp": 1794013605,
+          "slug": "lol-kc-t1-2026-11-04-game4",
+          "event_slug": "lol-kc-t1-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Karmine Corp",
+          "price": 0.38,
+          "value": 38000,
+          "timestamp": 1794013588,
+          "slug": "lol-kc-t1-2026-11-04-game4",
+          "event_slug": "lol-kc-t1-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Karmine Corp",
+          "price": 0.37,
+          "value": 8756.6864,
+          "timestamp": 1794013576,
+          "slug": "lol-kc-t1-2026-11-04-game4",
+          "event_slug": "lol-kc-t1-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Karmine Corp",
+          "price": 0.36,
+          "value": 51176.159999999996,
+          "timestamp": 1794013564,
+          "slug": "lol-kc-t1-2026-11-04-game4",
+          "event_slug": "lol-kc-t1-2026-11-04",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
+          "side": "BUY",
+          "outcome": "Karmine Corp",
+          "price": 0.33,
+          "value": 29700,
+          "timestamp": 1794013455,
+          "slug": "lol-kc-t1-2026-11-04-game4",
+          "event_slug": "lol-kc-t1-2026-11-04",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
           "side": "BUY",
@@ -1909,7 +2019,7 @@
           "timestamp": 1794004113,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -1920,7 +2030,7 @@
           "timestamp": 1794004069,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -1931,7 +2041,7 @@
           "timestamp": 1794004042,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -1942,7 +2052,7 @@
           "timestamp": 1794004030,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -1953,7 +2063,7 @@
           "timestamp": 1794004030,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -1964,7 +2074,7 @@
           "timestamp": 1794003982,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -1975,7 +2085,7 @@
           "timestamp": 1794003909,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -1986,7 +2096,7 @@
           "timestamp": 1794003901,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -1997,7 +2107,7 @@
           "timestamp": 1794003901,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -2008,7 +2118,7 @@
           "timestamp": 1794003877,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -2019,7 +2129,7 @@
           "timestamp": 1794003835,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -2030,7 +2140,7 @@
           "timestamp": 1794003828,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -2041,7 +2151,7 @@
           "timestamp": 1794003786,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -2052,7 +2162,7 @@
           "timestamp": 1794003775,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -2063,7 +2173,7 @@
           "timestamp": 1794003775,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -2074,7 +2184,7 @@
           "timestamp": 1794003747,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -2085,7 +2195,7 @@
           "timestamp": 1794003729,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -2096,7 +2206,7 @@
           "timestamp": 1794003727,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
@@ -2107,117 +2217,7 @@
           "timestamp": 1794003690,
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.3969778977,
-          "value": 4578.778800082593,
-          "timestamp": 1794003676,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.374412,
-          "value": 11232.36,
-          "timestamp": 1794003666,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.3735428286,
-          "value": 1555.185800023524,
-          "timestamp": 1794003636,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.35,
-          "value": 488.04699999999997,
-          "timestamp": 1794003588,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.34,
-          "value": 3668.4912000000004,
-          "timestamp": 1794003400,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.34,
-          "value": 13337.462200000002,
-          "timestamp": 1794003307,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.33,
-          "value": 6558.6476999999995,
-          "timestamp": 1794003295,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.33,
-          "value": 13200,
-          "timestamp": 1794003291,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.33,
-          "value": 82500,
-          "timestamp": 1794003271,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.32771726,
-          "value": 98315.178,
-          "timestamp": 1794003250,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "ongoing"
+          "result": "loss"
         }
       ]
     },
@@ -2397,12 +2397,23 @@
       "stats48h": {
         "wins": 1,
         "losses": 14,
-        "totalTrades": 25,
+        "totalTrades": 26,
         "winRate": 0.06666666666666667,
-        "volume": 756972.430075282,
+        "volume": 766789.864875282,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Raptors vs. Bucks",
+          "side": "BUY",
+          "outcome": "Raptors",
+          "price": 0.59,
+          "value": 9817.4348,
+          "timestamp": 1794013306,
+          "slug": "nba-tor-mil-2026-11-06",
+          "event_slug": "nba-tor-mil-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Timberwolves (-4.5)",
           "side": "BUY",
@@ -2686,12 +2697,45 @@
       "stats48h": {
         "wins": 2,
         "losses": 16,
-        "totalTrades": 25,
+        "totalTrades": 28,
         "winRate": 0.1111111111111111,
-        "volume": 184595.08867764467,
+        "volume": 229695.36137764467,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Timberwolves vs. Pelicans",
+          "side": "SELL",
+          "outcome": "Pelicans",
+          "price": 0.39,
+          "value": 3900,
+          "timestamp": 1794013750,
+          "slug": "nba-min-nop-2026-11-06",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Timberwolves vs. Pelicans",
+          "side": "SELL",
+          "outcome": "Pelicans",
+          "price": 0.39,
+          "value": 11700.078000000001,
+          "timestamp": 1794013666,
+          "slug": "nba-min-nop-2026-11-06",
+          "event_slug": "nba-min-nop-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Grizzlies",
+          "side": "SELL",
+          "outcome": "Thunder",
+          "price": 0.59,
+          "value": 29500.1947,
+          "timestamp": 1794013386,
+          "slug": "nba-okc-mem-2026-11-06",
+          "event_slug": "nba-okc-mem-2026-11-06",
+          "result": "ongoing"
+        },
         {
           "title": "Thunder vs. Grizzlies",
           "side": "BUY",
@@ -4093,565 +4137,14 @@
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
       "label": "name-no-name",
       "stats48h": {
-        "wins": 35,
-        "losses": 1,
-        "totalTrades": 94,
-        "winRate": 0.9722222222222222,
-        "volume": 121572.95713049175,
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "Will Z.ai have the best AI model at the end of December 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 5.4252,
-          "timestamp": 1794009862,
-          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
-          "event_slug": "which-company-has-best-ai-model-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.9,
-          "value": 5493.492,
-          "timestamp": 1794009834,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Casper Ruud vs Nuno Borges",
-          "side": "SELL",
-          "outcome": "Casper Ruud",
-          "price": 0.999,
-          "value": 5526.27819,
-          "timestamp": 1794009799,
-          "slug": "atp-ruud-borges-2026-11-06",
-          "event_slug": "atp-ruud-borges-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Casper Ruud vs Nuno Borges",
-          "side": "BUY",
-          "outcome": "Casper Ruud",
-          "price": 0.98,
-          "value": 3227.63,
-          "timestamp": 1794008355,
-          "slug": "atp-ruud-borges-2026-11-06",
-          "event_slug": "atp-ruud-borges-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Casper Ruud vs Nuno Borges",
-          "side": "BUY",
-          "outcome": "Casper Ruud",
-          "price": 0.96,
-          "value": 2148.7776,
-          "timestamp": 1794008308,
-          "slug": "atp-ruud-borges-2026-11-06",
-          "event_slug": "atp-ruud-borges-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Celtics vs. Hornets",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.79,
-          "value": 3999.8964,
-          "timestamp": 1794002271,
-          "slug": "nba-bos-cha-2026-11-06",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.78,
-          "value": 3.939,
-          "timestamp": 1794002215,
-          "slug": "nba-bos-cha-2026-11-06",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
-          "side": "SELL",
-          "outcome": "Carlos Alcaraz",
-          "price": 0.999,
-          "value": 12635.62173,
-          "timestamp": 1794002034,
-          "slug": "atp-fritz-alcaraz-2026-11-06",
-          "event_slug": "atp-fritz-alcaraz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
-          "side": "BUY",
-          "outcome": "Carlos Alcaraz",
-          "price": 0.16,
-          "value": 1.8576,
-          "timestamp": 1793997354,
-          "slug": "atp-fritz-alcaraz-2026-11-06",
-          "event_slug": "atp-fritz-alcaraz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
-          "side": "BUY",
-          "outcome": "Carlos Alcaraz",
-          "price": 0.8,
-          "value": 910.2080000000001,
-          "timestamp": 1793993451,
-          "slug": "atp-fritz-alcaraz-2026-11-06",
-          "event_slug": "atp-fritz-alcaraz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "SELL",
-          "outcome": "Spurs",
-          "price": 0.89,
-          "value": 890,
-          "timestamp": 1793993424,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "SELL",
-          "outcome": "Spurs",
-          "price": 0.89,
-          "value": 3560,
-          "timestamp": 1793992989,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
-          "side": "BUY",
-          "outcome": "Carlos Alcaraz",
-          "price": 0.81,
-          "value": 2187.5589,
-          "timestamp": 1793992819,
-          "slug": "atp-fritz-alcaraz-2026-11-06",
-          "event_slug": "atp-fritz-alcaraz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "SELL",
-          "outcome": "Spurs",
-          "price": 0.89,
-          "value": 2225,
-          "timestamp": 1793992518,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
-          "side": "BUY",
-          "outcome": "Carlos Alcaraz",
-          "price": 0.73,
-          "value": 7.3438,
-          "timestamp": 1793974609,
-          "slug": "atp-fritz-alcaraz-2026-11-06",
-          "event_slug": "atp-fritz-alcaraz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.9,
-          "value": 7201.215,
-          "timestamp": 1793974530,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
-          "side": "SELL",
-          "outcome": "Ben Shelton",
-          "price": 0.52,
-          "value": 4438.9956,
-          "timestamp": 1793973727,
-          "slug": "atp-shelton-paul-2026-11-06",
-          "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
-          "side": "BUY",
-          "outcome": "Carlos Alcaraz",
-          "price": 0.73,
-          "value": 9.6944,
-          "timestamp": 1793931910,
-          "slug": "atp-fritz-alcaraz-2026-11-06",
-          "event_slug": "atp-fritz-alcaraz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
-          "side": "BUY",
-          "outcome": "Carlos Alcaraz",
-          "price": 0.73,
-          "value": 3319.6896,
-          "timestamp": 1793931871,
-          "slug": "atp-fritz-alcaraz-2026-11-06",
-          "event_slug": "atp-fritz-alcaraz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "New Hampshire Wildcats vs. Rider Broncs",
-          "side": "BUY",
-          "outcome": "New Hampshire Wildcats",
-          "price": 0.65,
-          "value": 26,
-          "timestamp": 1793929776,
-          "slug": "cbb-nhamp-rider-2026-11-05",
-          "event_slug": "cbb-nhamp-rider-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "New Hampshire Wildcats vs. Rider Broncs",
-          "side": "BUY",
-          "outcome": "New Hampshire Wildcats",
-          "price": 0.8283404748,
-          "value": 2745.087199868208,
-          "timestamp": 1793928445,
-          "slug": "cbb-nhamp-rider-2026-11-05",
-          "event_slug": "cbb-nhamp-rider-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Heat vs. Warriors",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.61,
-          "value": 81.7644,
-          "timestamp": 1793926246,
-          "slug": "nba-mia-gsw-2026-11-05",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Z.ai have the best AI model at the end of December 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 9.97832,
-          "timestamp": 1793925972,
-          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
-          "event_slug": "which-company-has-best-ai-model-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.46,
-          "value": 15.138599999999999,
-          "timestamp": 1793922565,
-          "slug": "atp-shelton-paul-2026-11-06",
-          "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.46,
-          "value": 2413.0036,
-          "timestamp": 1793922501,
-          "slug": "atp-shelton-paul-2026-11-06",
-          "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.46,
-          "value": 1498.6616000000001,
-          "timestamp": 1793922367,
-          "slug": "atp-shelton-paul-2026-11-06",
-          "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Chattanooga Mocs vs. Penn State Nittany Lions",
-          "side": "BUY",
-          "outcome": "Penn State Nittany Lions",
-          "price": 0.8809470489,
-          "value": 2478.245000083524,
-          "timestamp": 1793920480,
-          "slug": "cbb-chat-pennst-2026-11-05",
-          "event_slug": "cbb-chat-pennst-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "SELL",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.999,
-          "value": 1553.445,
-          "timestamp": 1793920435,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Z.ai have the best AI model at the end of December 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 5.04124,
-          "timestamp": 1793920128,
-          "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
-          "event_slug": "which-company-has-best-ai-model-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "SELL",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.999,
-          "value": 999,
-          "timestamp": 1793920101,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Gukesh Dommaraju win the 2026 World Chess Championship?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.76,
-          "value": 37.0272,
-          "timestamp": 1793919699,
-          "slug": "will-gukesh-dommaraju-win-the-2026-world-chess-championship",
-          "event_slug": "2026-world-chess-championship-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.9072944126,
-          "value": 9847.791700248652,
-          "timestamp": 1793919633,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.8853947935,
-          "value": 1869.6084999025352,
-          "timestamp": 1793919541,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Juventus FC win on 2026-11-05?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.999,
-          "value": 10729.02024,
-          "timestamp": 1793919505,
-          "slug": "uel-az-juv-2026-11-05-juv",
-          "event_slug": "uel-az-juv-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.76,
-          "value": 390.40440000000007,
-          "timestamp": 1793919262,
-          "slug": "will-javokhir-sindarov-win-the-2026-world-chess-championship",
-          "event_slug": "2026-world-chess-championship-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Olimpia Milano vs. Valencia",
-          "side": "SELL",
-          "outcome": "Valencia",
-          "price": 0.999,
-          "value": 1475.8926299999998,
-          "timestamp": 1793919247,
-          "slug": "euroleague-milano-valencia-2026-11-05",
-          "event_slug": "euroleague-milano-valencia-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "BUY",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.91,
-          "value": 21.9947,
-          "timestamp": 1793918905,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "SELL",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.705941759,
-          "value": 6225.12150037862,
-          "timestamp": 1793918782,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Heat vs. Warriors",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.61,
-          "value": 1694.6776,
-          "timestamp": 1793915940,
-          "slug": "nba-mia-gsw-2026-11-05",
-          "event_slug": "nba-mia-gsw-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "BUY",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.67,
-          "value": 497.30080000000004,
-          "timestamp": 1793915761,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Juventus FC win on 2026-11-05?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.964,
-          "value": 8.98448,
-          "timestamp": 1793915668,
-          "slug": "uel-az-juv-2026-11-05-juv",
-          "event_slug": "uel-az-juv-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Juventus FC win on 2026-11-05?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.93,
-          "value": 42.8916,
-          "timestamp": 1793915590,
-          "slug": "uel-az-juv-2026-11-05-juv",
-          "event_slug": "uel-az-juv-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.999,
-          "value": 9221.509259999999,
-          "timestamp": 1793915560,
-          "slug": "uel-ben-lep-2026-11-05-ben",
-          "event_slug": "uel-ben-lep-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Juventus FC win on 2026-11-05?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.976,
-          "value": 3227.86624,
-          "timestamp": 1793914788,
-          "slug": "uel-az-juv-2026-11-05-juv",
-          "event_slug": "uel-az-juv-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "BUY",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.76,
-          "value": 769.2264,
-          "timestamp": 1793914525,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Charlottesville: Maks Kasnikowski vs Michael Antonius",
-          "side": "BUY",
-          "outcome": "Maks Kasnikowski",
-          "price": 0.81,
-          "value": 5389.335,
-          "timestamp": 1793914368,
-          "slug": "atp-kasniko-antoniu-2026-11-05",
-          "event_slug": "atp-kasniko-antoniu-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will KKS Lech Poznań win on 2026-11-05?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 39.96,
-          "timestamp": 1793914171,
-          "slug": "uel-ben-lep-2026-11-05-lep",
-          "event_slug": "uel-ben-lep-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica win on 2026-11-05?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.0173161677,
-          "value": 10.867800010197,
-          "timestamp": 1793914156,
-          "slug": "uel-ben-lep-2026-11-05-ben",
-          "event_slug": "uel-ben-lep-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Olimpia Milano vs. Valencia",
-          "side": "BUY",
-          "outcome": "Valencia",
-          "price": 0.99,
-          "value": 165.33,
-          "timestamp": 1793914083,
-          "slug": "euroleague-milano-valencia-2026-11-05",
-          "event_slug": "euroleague-milano-valencia-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Olimpia Milano vs. Valencia",
-          "side": "BUY",
-          "outcome": "Valencia",
-          "price": 0.99,
-          "value": 290.15909999999997,
-          "timestamp": 1793914035,
-          "slug": "euroleague-milano-valencia-2026-11-05",
-          "event_slug": "euroleague-milano-valencia-2026-11-05",
-          "result": "win"
-        }
-      ]
+      "recentTrades": []
     },
     {
       "address": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
@@ -4659,563 +4152,12 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 500,
+        "totalTrades": 0,
         "winRate": 0,
-        "volume": 11275.775499785426,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "Spread: Wizards (-1.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.86,
-          "value": 10.32,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-away-1pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-24.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.1,
-          "value": 7.6000000000000005,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-24pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-7.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.61,
-          "value": 17.08,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-7pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-16.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.27,
-          "value": 15.66,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-16pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-14.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.32,
-          "value": 15.040000000000001,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-14pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-8.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.55,
-          "value": 18.150000000000002,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-8pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-22.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.13,
-          "value": 8.71,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-22pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-20.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.18,
-          "value": 11.7,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-20pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-12.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.4,
-          "value": 18.400000000000002,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-12pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-6.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.6479166667,
-          "value": 15.5500000008,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-6pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-18.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.21,
-          "value": 12.389999999999999,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-18pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-9.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.51,
-          "value": 16.830000000000002,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-9pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-4.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.7,
-          "value": 15.399999999999999,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-4pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-10.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.4799973684,
-          "value": 18.239899999200002,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-10pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-11.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.4252380952,
-          "value": 17.8599999984,
-          "timestamp": 1794013222,
-          "slug": "nba-was-atl-2026-11-06-spread-home-11pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.18,
-          "value": 296.64,
-          "timestamp": 1794013219,
-          "slug": "nba-was-atl-2026-11-06",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks: O/U 234.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.49,
-          "value": 49,
-          "timestamp": 1794013192,
-          "slug": "nba-was-atl-2026-11-06-total-234pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks: O/U 240.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.32,
-          "value": 6.4,
-          "timestamp": 1794013192,
-          "slug": "nba-was-atl-2026-11-06-total-240pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks: O/U 226.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.73,
-          "value": 73,
-          "timestamp": 1794013192,
-          "slug": "nba-was-atl-2026-11-06-total-226pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-18.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.76,
-          "value": 15.2,
-          "timestamp": 1794013191,
-          "slug": "nba-bos-cha-2026-11-06-spread-away-18pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-30.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.4,
-          "value": 84.4,
-          "timestamp": 1794013191,
-          "slug": "nba-bos-cha-2026-11-06-spread-away-30pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-22.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.6597685185,
-          "value": 142.50999999599998,
-          "timestamp": 1794013191,
-          "slug": "nba-bos-cha-2026-11-06-spread-away-22pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-28.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.42,
-          "value": 111.68220000000001,
-          "timestamp": 1794013191,
-          "slug": "nba-bos-cha-2026-11-06-spread-away-28pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.1768127928,
-          "value": 1092.872799785088,
-          "timestamp": 1794013176,
-          "slug": "nba-was-atl-2026-11-06",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks: O/U 232.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.5115966387,
-          "value": 60.880000005300005,
-          "timestamp": 1794013174,
-          "slug": "nba-was-atl-2026-11-06-total-232pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks: O/U 230.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.57,
-          "value": 57.56999999999999,
-          "timestamp": 1794013174,
-          "slug": "nba-was-atl-2026-11-06-total-230pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-26.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.49,
-          "value": 2.94,
-          "timestamp": 1794013168,
-          "slug": "nba-bos-cha-2026-11-06-spread-away-26pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-22.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.5795121203,
-          "value": 132.204100004039,
-          "timestamp": 1794013155,
-          "slug": "nba-bos-cha-2026-11-06-spread-away-22pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-16.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.75,
-          "value": 33.75,
-          "timestamp": 1794013155,
-          "slug": "nba-bos-cha-2026-11-06-spread-away-16pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-8.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.56,
-          "value": 10.080000000000002,
-          "timestamp": 1794013144,
-          "slug": "nba-was-atl-2026-11-06-spread-home-8pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-10.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.47,
-          "value": 2.3499999999999996,
-          "timestamp": 1794013144,
-          "slug": "nba-was-atl-2026-11-06-spread-home-10pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.81,
-          "value": 298.89000000000004,
-          "timestamp": 1794013144,
-          "slug": "nba-was-atl-2026-11-06",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-8.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.56,
-          "value": 9.520000000000001,
-          "timestamp": 1794013113,
-          "slug": "nba-was-atl-2026-11-06-spread-home-8pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.82,
-          "value": 298.47999999999996,
-          "timestamp": 1794013113,
-          "slug": "nba-was-atl-2026-11-06",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Wizards (-3.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.89,
-          "value": 4.45,
-          "timestamp": 1794013113,
-          "slug": "nba-was-atl-2026-11-06-spread-away-3pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.39,
-          "value": 7499.7,
-          "timestamp": 1794013104,
-          "slug": "nba-phi-cle-2026-11-06",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: 76ers (-2.5)",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.32,
-          "value": 91.52,
-          "timestamp": 1794013102,
-          "slug": "nba-phi-cle-2026-11-06-spread-away-2pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets",
-          "side": "BUY",
-          "outcome": "Hornets",
-          "price": 0.0347435897,
-          "value": 2.7099999966,
-          "timestamp": 1794013099,
-          "slug": "nba-bos-cha-2026-11-06",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.38,
-          "value": 3.04,
-          "timestamp": 1794013087,
-          "slug": "nba-phi-cle-2026-11-06",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-12.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.38,
-          "value": 8.74,
-          "timestamp": 1794013081,
-          "slug": "nba-was-atl-2026-11-06-spread-home-12pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Wizards (-1.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.83,
-          "value": 5.81,
-          "timestamp": 1794013081,
-          "slug": "nba-was-atl-2026-11-06-spread-away-1pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.8,
-          "value": 296,
-          "timestamp": 1794013081,
-          "slug": "nba-was-atl-2026-11-06",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-6.5)",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.37,
-          "value": 8.879999999999999,
-          "timestamp": 1794013066,
-          "slug": "nba-was-atl-2026-11-06-spread-home-6pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-7.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.57,
-          "value": 5.699999999999999,
-          "timestamp": 1794013059,
-          "slug": "nba-was-atl-2026-11-06-spread-home-7pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Wizards (-1.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.84,
-          "value": 5.88,
-          "timestamp": 1794013057,
-          "slug": "nba-was-atl-2026-11-06-spread-away-1pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.8,
-          "value": 296.8,
-          "timestamp": 1794013057,
-          "slug": "nba-was-atl-2026-11-06",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.19,
-          "value": 12.35,
-          "timestamp": 1794013045,
-          "slug": "nba-was-atl-2026-11-06",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.17,
-          "value": 16.104100000000003,
-          "timestamp": 1794013036,
-          "slug": "nba-was-atl-2026-11-06",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks: O/U 240.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.28,
-          "value": 5.6000000000000005,
-          "timestamp": 1794013036,
-          "slug": "nba-was-atl-2026-11-06-total-240pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks: O/U 236.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.38,
-          "value": 15.1924,
-          "timestamp": 1794013036,
-          "slug": "nba-was-atl-2026-11-06-total-236pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        }
-      ]
+      "recentTrades": []
     },
     {
       "address": "0xc785252b25901a591e9d962e09f4342468444ef2",
@@ -5223,564 +4165,13 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 500,
+        "totalTrades": 0,
         "winRate": 0,
-        "volume": 2970.6824960129857,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "1H Spread: SMU (-7.5)",
-          "side": "BUY",
-          "outcome": "Virginia Tech",
-          "price": 0.65,
-          "value": 63.050000000000004,
-          "timestamp": 1794013251,
-          "slug": "cfb-vtech-smu-2026-11-06-1h-spread-home-7pt5",
-          "event_slug": "cfb-vtech-smu-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Celtics (-22.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.92,
-          "value": 23,
-          "timestamp": 1794013234,
-          "slug": "nba-bos-cha-2026-11-06-1h-spread-away-22pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Hawks: 1H O/U 120.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.61,
-          "value": 12.2,
-          "timestamp": 1794013164,
-          "slug": "nba-was-atl-2026-11-06-1h-total-120pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Cavaliers (-2.5)",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.26,
-          "value": 44.46,
-          "timestamp": 1794013131,
-          "slug": "nba-phi-cle-2026-11-06-1h-spread-home-2pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Cavaliers (-2.5)",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.26,
-          "value": 15.860000000000001,
-          "timestamp": 1794013129,
-          "slug": "nba-phi-cle-2026-11-06-1h-spread-home-2pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Cavaliers (-2.5)",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.26,
-          "value": 9.88,
-          "timestamp": 1794013129,
-          "slug": "nba-phi-cle-2026-11-06-1h-spread-home-2pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Cavaliers (-2.5)",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.26,
-          "value": 39.26,
-          "timestamp": 1794013128,
-          "slug": "nba-phi-cle-2026-11-06-1h-spread-home-2pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Cavaliers (-2.5)",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.26,
-          "value": 89.18,
-          "timestamp": 1794013128,
-          "slug": "nba-phi-cle-2026-11-06-1h-spread-home-2pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers: 1H O/U 118.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.14,
-          "value": 9.24,
-          "timestamp": 1794013092,
-          "slug": "nba-phi-cle-2026-11-06-1h-total-118pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers: 1H O/U 118.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.14,
-          "value": 7.140000000000001,
-          "timestamp": 1794013090,
-          "slug": "nba-phi-cle-2026-11-06-1h-total-118pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Hawks (-5.5)",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.35,
-          "value": 13.299999999999999,
-          "timestamp": 1794013057,
-          "slug": "nba-was-atl-2026-11-06-1h-spread-home-5pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Hawks (-5.5)",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.51,
-          "value": 22.95,
-          "timestamp": 1794012985,
-          "slug": "nba-was-atl-2026-11-06-1h-spread-home-5pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Hawks (-1.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.79,
-          "value": 27.650000000000002,
-          "timestamp": 1794012957,
-          "slug": "nba-was-atl-2026-11-06-1h-spread-home-1pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Hawks (-9.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.2,
-          "value": 9.190000000000001,
-          "timestamp": 1794012952,
-          "slug": "nba-was-atl-2026-11-06-1h-spread-home-9pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Arkansas State Red Wolves vs. Alabama Crimson Tide",
-          "side": "BUY",
-          "outcome": "Arkansas State Red Wolves",
-          "price": 0.0599201265,
-          "value": 30.00000001431225,
-          "timestamp": 1794012952,
-          "slug": "cbb-arkst-ala-2026-11-06",
-          "event_slug": "cbb-arkst-ala-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Cavaliers (-12.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.39,
-          "value": 17.55,
-          "timestamp": 1794012921,
-          "slug": "nba-phi-cle-2026-11-06-1h-spread-home-12pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Boyacá Chicó FC win on 2026-11-08?",
-          "side": "SELL",
-          "outcome": "No",
-          "price": 0.01,
-          "value": 1.25,
-          "timestamp": 1794012820,
-          "slug": "col1-bcf-cle-2026-11-08-bcf",
-          "event_slug": "col1-bcf-cle-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Boyacá Chicó FC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.01,
-          "value": 1.711,
-          "timestamp": 1794012817,
-          "slug": "col1-bcf-cle-2026-11-08-bcf",
-          "event_slug": "col1-bcf-cle-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Boyacá Chicó FC vs. Internacional de Bogotá: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.01,
-          "value": 2.86,
-          "timestamp": 1794012817,
-          "slug": "col1-bcf-cle-2026-11-08-total-3pt5",
-          "event_slug": "col1-bcf-cle-2026-11-08-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Boyacá Chicó FC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.95,
-          "value": 911.05,
-          "timestamp": 1794012774,
-          "slug": "col1-bcf-cle-2026-11-08-bcf",
-          "event_slug": "col1-bcf-cle-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Boyacá Chicó FC win on 2026-11-08?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.9168817757,
-          "value": 196.21269999979998,
-          "timestamp": 1794012769,
-          "slug": "col1-bcf-cle-2026-11-08-bcf",
-          "event_slug": "col1-bcf-cle-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Boyacá Chicó FC win on 2026-11-08?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.935,
-          "value": 9.350000000000001,
-          "timestamp": 1794012766,
-          "slug": "col1-bcf-cle-2026-11-08-bcf",
-          "event_slug": "col1-bcf-cle-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Boyacá Chicó FC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.95,
-          "value": 850.25,
-          "timestamp": 1794012763,
-          "slug": "col1-bcf-cle-2026-11-08-bcf",
-          "event_slug": "col1-bcf-cle-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: O/U 216.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.63,
-          "value": 20.16,
-          "timestamp": 1794012738,
-          "slug": "nba-bos-cha-2026-11-06-total-216pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Celtics (-22.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.5999999967,
-          "value": 35.98999900205501,
-          "timestamp": 1794012732,
-          "slug": "nba-bos-cha-2026-11-06-1h-spread-away-22pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "EC Vitória vs. Fluminense FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.1,
-          "value": 0.11000000000000001,
-          "timestamp": 1794012703,
-          "slug": "bra-vit-flu-2026-11-06-total-3pt5",
-          "event_slug": "bra-vit-flu-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Boyacá Chicó FC vs. Internacional de Bogotá: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.12,
-          "value": 12.48,
-          "timestamp": 1794012688,
-          "slug": "col1-bcf-cle-2026-11-08-total-3pt5",
-          "event_slug": "col1-bcf-cle-2026-11-08-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Boyacá Chicó FC vs. Internacional de Bogotá: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.12,
-          "value": 12.719999999999999,
-          "timestamp": 1794012684,
-          "slug": "col1-bcf-cle-2026-11-08-total-3pt5",
-          "event_slug": "col1-bcf-cle-2026-11-08-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Boyacá Chicó FC vs. Internacional de Bogotá: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.12,
-          "value": 13.68,
-          "timestamp": 1794012681,
-          "slug": "col1-bcf-cle-2026-11-08-total-3pt5",
-          "event_slug": "col1-bcf-cle-2026-11-08-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: 1H O/U 106.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.29,
-          "value": 9.569999999999999,
-          "timestamp": 1794012613,
-          "slug": "nba-bos-cha-2026-11-06-1h-total-106pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: O/U 194.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.81,
-          "value": 42.93,
-          "timestamp": 1794012610,
-          "slug": "nba-bos-cha-2026-11-06-total-194pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: O/U 194.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.83,
-          "value": 43.989999999999995,
-          "timestamp": 1794012609,
-          "slug": "nba-bos-cha-2026-11-06-total-194pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: O/U 224.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.1,
-          "value": 5.99,
-          "timestamp": 1794012609,
-          "slug": "nba-bos-cha-2026-11-06-total-224pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "EC Vitória vs. Fluminense FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.6400000000000001,
-          "timestamp": 1794012588,
-          "slug": "bra-vit-flu-2026-11-06-total-2pt5",
-          "event_slug": "bra-vit-flu-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Boyacá Chicó FC vs. Internacional de Bogotá: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.8,
-          "value": 28,
-          "timestamp": 1794012552,
-          "slug": "col1-bcf-cle-2026-11-08-total-3pt5",
-          "event_slug": "col1-bcf-cle-2026-11-08-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: 1H O/U 100.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.56,
-          "value": 20.160000000000004,
-          "timestamp": 1794012552,
-          "slug": "nba-bos-cha-2026-11-06-1h-total-100pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: O/U 190.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.8599999993,
-          "value": 51.65999699795117,
-          "timestamp": 1794012552,
-          "slug": "nba-bos-cha-2026-11-06-total-190pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: 1H O/U 102.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.43,
-          "value": 27.09,
-          "timestamp": 1794012552,
-          "slug": "nba-bos-cha-2026-11-06-1h-total-102pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Hornets: 1H O/U 102.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.48,
-          "value": 12.959999999999999,
-          "timestamp": 1794012535,
-          "slug": "nba-bos-cha-2026-11-06-1h-total-102pt5",
-          "event_slug": "nba-bos-cha-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-20.5)",
-          "side": "SELL",
-          "outcome": "Hawks",
-          "price": 0.15,
-          "value": 9.651,
-          "timestamp": 1794012526,
-          "slug": "nba-was-atl-2026-11-06-spread-home-20pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-20.5)",
-          "side": "SELL",
-          "outcome": "Hawks",
-          "price": 0.16,
-          "value": 2.184,
-          "timestamp": 1794012526,
-          "slug": "nba-was-atl-2026-11-06-spread-home-20pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-20.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.17,
-          "value": 13.260000000000002,
-          "timestamp": 1794012525,
-          "slug": "nba-was-atl-2026-11-06-spread-home-20pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-24.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.11,
-          "value": 9.790000000000001,
-          "timestamp": 1794012525,
-          "slug": "nba-was-atl-2026-11-06-spread-home-24pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers: 1H O/U 118.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.74,
-          "value": 0.7178,
-          "timestamp": 1794012504,
-          "slug": "nba-phi-cle-2026-11-06-1h-total-118pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "76ers vs. Cavaliers: 1H O/U 108.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.41,
-          "value": 13.53,
-          "timestamp": 1794012502,
-          "slug": "nba-phi-cle-2026-11-06-1h-total-108pt5",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Karmine Corp Make the Worlds 2026 Grand Final?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9719999975,
-          "value": 39.31999999886831,
-          "timestamp": 1794012475,
-          "slug": "will-karmine-corp-make-the-worlds-2026-grand-final",
-          "event_slug": "worlds-2026-team-to-make-grand-finals",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Hawks (-5.5)",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.41,
-          "value": 17.466,
-          "timestamp": 1794012388,
-          "slug": "nba-was-atl-2026-11-06-1h-spread-home-5pt5",
-          "event_slug": "nba-was-atl-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CD Real Tomayapo win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.93,
-          "value": 25.110000000000003,
-          "timestamp": 1794012345,
-          "slug": "bol1-idp-tom-2026-11-06-tom",
-          "event_slug": "bol1-idp-tom-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CD Real Tomayapo win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.93,
-          "value": 36.27,
-          "timestamp": 1794012343,
-          "slug": "bol1-idp-tom-2026-11-06-tom",
-          "event_slug": "bol1-idp-tom-2026-11-06",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will CD Real Tomayapo win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.93,
-          "value": 57.660000000000004,
-          "timestamp": 1794012340,
-          "slug": "bol1-idp-tom-2026-11-06-tom",
-          "event_slug": "bol1-idp-tom-2026-11-06",
-          "result": "ongoing"
-        }
-      ]
+      "recentTrades": []
     }
   ],
-  "lastUpdate": "2026-11-07T01:02:51.516Z"
+  "lastUpdate": "2026-11-07T01:13:45.884Z"
 }
