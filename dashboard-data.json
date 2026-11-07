@@ -1261,7 +1261,7 @@
       "stats48h": {
         "wins": 11,
         "losses": 0,
-        "totalTrades": 98,
+        "totalTrades": 97,
         "winRate": 1,
         "volume": 13665.61477885982,
         "pnl": 0
@@ -5086,10 +5086,87 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 4659.039899984627,
+        "volume": 5040.294599990623,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "UCLA vs. Minnesota",
+          "side": "BUY",
+          "outcome": "Minnesota",
+          "price": 0.2,
+          "value": 1,
+          "timestamp": 1794074055,
+          "slug": "cfb-ucla-minnst-2026-11-07",
+          "event_slug": "cfb-ucla-minnst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "BYU vs. Utah",
+          "side": "BUY",
+          "outcome": "BYU",
+          "price": 0.24,
+          "value": 2.4,
+          "timestamp": 1794073821,
+          "slug": "cfb-byu-utah-2026-11-07",
+          "event_slug": "cfb-byu-utah-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UCLA vs. Minnesota",
+          "side": "BUY",
+          "outcome": "Minnesota",
+          "price": 0.18,
+          "value": 2.34,
+          "timestamp": 1794073809,
+          "slug": "cfb-ucla-minnst-2026-11-07",
+          "event_slug": "cfb-ucla-minnst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas vs. Missouri",
+          "side": "BUY",
+          "outcome": "Texas",
+          "price": 0.47,
+          "value": 207.73999999999998,
+          "timestamp": 1794073741,
+          "slug": "cfb-tx-missr-2026-11-07",
+          "event_slug": "cfb-tx-missr-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas (-2.5)",
+          "side": "BUY",
+          "outcome": "Texas",
+          "price": 0.36,
+          "value": 16.56,
+          "timestamp": 1794073738,
+          "slug": "cfb-tx-missr-2026-11-07-spread-away-2pt5",
+          "event_slug": "cfb-tx-missr-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Maryland vs. Purdue",
+          "side": "BUY",
+          "outcome": "Maryland",
+          "price": 0.31,
+          "value": 26.346899999999998,
+          "timestamp": 1794073731,
+          "slug": "cfb-mary-pur-2026-11-07",
+          "event_slug": "cfb-mary-pur-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas vs. Missouri",
+          "side": "BUY",
+          "outcome": "Texas",
+          "price": 0.42,
+          "value": 783.1278,
+          "timestamp": 1794073663,
+          "slug": "cfb-tx-missr-2026-11-07",
+          "event_slug": "cfb-tx-missr-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Texas (-3.5)",
           "side": "BUY",
@@ -5562,83 +5639,6 @@
           "slug": "cfb-tx-missr-2026-11-07-spread-away-5pt5",
           "event_slug": "cfb-tx-missr-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Spread: Missouri (-7.5)",
-          "side": "BUY",
-          "outcome": "Missouri",
-          "price": 0.36,
-          "value": 16.919999999999998,
-          "timestamp": 1794071926,
-          "slug": "cfb-tx-missr-2026-11-07-spread-home-7pt5",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Missouri (-4.5)",
-          "side": "BUY",
-          "outcome": "Missouri",
-          "price": 0.44,
-          "value": 16.72,
-          "timestamp": 1794071926,
-          "slug": "cfb-tx-missr-2026-11-07-spread-home-4pt5",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Iowa State vs. Baylor",
-          "side": "BUY",
-          "outcome": "Baylor",
-          "price": 0.8,
-          "value": 398.40000000000003,
-          "timestamp": 1794071722,
-          "slug": "cfb-iowast-bayl-2026-11-07",
-          "event_slug": "cfb-iowast-bayl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas vs. Missouri: O/U 43.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.67,
-          "value": 3.35,
-          "timestamp": 1794071706,
-          "slug": "cfb-tx-missr-2026-11-07-total-43pt5",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas vs. Missouri",
-          "side": "BUY",
-          "outcome": "Missouri",
-          "price": 0.59,
-          "value": 2.9499999999999997,
-          "timestamp": 1794071706,
-          "slug": "cfb-tx-missr-2026-11-07",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas vs. Missouri: O/U 45.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.6,
-          "value": 12,
-          "timestamp": 1794071706,
-          "slug": "cfb-tx-missr-2026-11-07-total-45pt5",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas vs. Missouri",
-          "side": "BUY",
-          "outcome": "Texas",
-          "price": 0.479078341,
-          "value": 207.919999994,
-          "timestamp": 1794071569,
-          "slug": "cfb-tx-missr-2026-11-07",
-          "event_slug": "cfb-tx-missr-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -5651,10 +5651,362 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1724.830782000181,
+        "volume": 6771.721286039526,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
+          "side": "BUY",
+          "outcome": "Northern Kentucky Norse",
+          "price": 0.92,
+          "value": 9.200000000000001,
+          "timestamp": 1794074253,
+          "slug": "cwbb-kentst-nkent-2026-11-07",
+          "event_slug": "cwbb-kentst-nkent-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
+          "side": "BUY",
+          "outcome": "Northern Kentucky Norse",
+          "price": 0.92,
+          "value": 9.200000000000001,
+          "timestamp": 1794074247,
+          "slug": "cwbb-kentst-nkent-2026-11-07",
+          "event_slug": "cwbb-kentst-nkent-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "VfB Stuttgart vs. SV Werder Bremen: 1st Half O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.59,
+          "value": 14.16,
+          "timestamp": 1794074145,
+          "slug": "bun-stu-wer-2026-11-07-first-half-total-1pt5",
+          "event_slug": "bun-stu-wer-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
+          "side": "BUY",
+          "outcome": "Northern Kentucky Norse",
+          "price": 0.86,
+          "value": 8.6,
+          "timestamp": 1794074140,
+          "slug": "cwbb-kentst-nkent-2026-11-07",
+          "event_slug": "cwbb-kentst-nkent-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Galatasaray SK vs. Amed Sportif: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.98,
+          "value": 225.629957,
+          "timestamp": 1794074043,
+          "slug": "tur-gal-ame-2026-11-07-total-6pt5",
+          "event_slug": "tur-gal-ame-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Galatasaray SK vs. Amed Sportif: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.85,
+          "value": 5.95,
+          "timestamp": 1794074032,
+          "slug": "tur-gal-ame-2026-11-07-total-6pt5",
+          "event_slug": "tur-gal-ame-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Galatasaray SK win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.9799789693,
+          "value": 931.9499550198645,
+          "timestamp": 1794074020,
+          "slug": "tur-gal-ame-2026-11-07-gal",
+          "event_slug": "tur-gal-ame-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FK Zeleznicar Pancevo win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.0111398623,
+          "value": 1.2700000015114998,
+          "timestamp": 1794074008,
+          "slug": "srb-zel-rkg-2026-11-07-zel",
+          "event_slug": "srb-zel-rkg-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Galatasaray SK vs. Amed Sportif end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9639999994,
+          "value": 34.08998499878217,
+          "timestamp": 1794074005,
+          "slug": "tur-gal-ame-2026-11-07-draw",
+          "event_slug": "tur-gal-ame-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Galatasaray SK (-2.5)",
+          "side": "BUY",
+          "outcome": "Amed Sportif",
+          "price": 0.9,
+          "value": 54,
+          "timestamp": 1794073981,
+          "slug": "tur-gal-ame-2026-11-07-spread-home-2pt5",
+          "event_slug": "tur-gal-ame-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Manchester City FC win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.19,
+          "value": 7.03,
+          "timestamp": 1794073956,
+          "slug": "epl-not-mac-2026-11-07-mac",
+          "event_slug": "epl-not-mac-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Manchester City FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.21,
+          "value": 7.77,
+          "timestamp": 1794073948,
+          "slug": "epl-not-mac-2026-11-07-mac",
+          "event_slug": "epl-not-mac-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "FK Zeleznicar Pancevo vs. FK Radnicki 1923 Kragujevac: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.06,
+          "value": 1.2,
+          "timestamp": 1794073921,
+          "slug": "srb-zel-rkg-2026-11-07-total-3pt5",
+          "event_slug": "srb-zel-rkg-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Hapoel Jerusalem FC vs. Bnei Sakhnin FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.9,
+          "value": 0.6930000000000001,
+          "timestamp": 1794073873,
+          "slug": "isr-hap-bns-2026-11-07-total-2pt5",
+          "event_slug": "isr-hap-bns-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Loyola Maryland Greyhounds vs. La Salle Explorers (W)",
+          "side": "BUY",
+          "outcome": "Loyola Maryland Greyhounds",
+          "price": 0.47,
+          "value": 19.74,
+          "timestamp": 1794073866,
+          "slug": "cwbb-loymd-lasal-2026-11-07",
+          "event_slug": "cwbb-loymd-lasal-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC DAC 1904 Dunajská Streda vs. FC Košice: O/U 3.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.072,
+          "value": 0.39599999999999996,
+          "timestamp": 1794073852,
+          "slug": "svk1-dac-kos-2026-11-07-total-3pt5",
+          "event_slug": "svk1-dac-kos-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Loyola Maryland Greyhounds vs. La Salle Explorers (W)",
+          "side": "BUY",
+          "outcome": "Loyola Maryland Greyhounds",
+          "price": 0.46,
+          "value": 39.1,
+          "timestamp": 1794073848,
+          "slug": "cwbb-loymd-lasal-2026-11-07",
+          "event_slug": "cwbb-loymd-lasal-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "FC DAC 1904 Dunajská Streda vs. FC Košice: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.1,
+          "value": 0.55,
+          "timestamp": 1794073843,
+          "slug": "svk1-dac-kos-2026-11-07-total-3pt5",
+          "event_slug": "svk1-dac-kos-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
+          "side": "BUY",
+          "outcome": "Northern Kentucky Norse",
+          "price": 0.74,
+          "value": 6.66,
+          "timestamp": 1794073833,
+          "slug": "cwbb-kentst-nkent-2026-11-07",
+          "event_slug": "cwbb-kentst-nkent-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Riga FC vs. FC RFS: Draw at halftime?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.9744522917,
+          "value": 467.737100016,
+          "timestamp": 1794073813,
+          "slug": "lva1-rfc-rfs-2026-11-08-halftime-result-draw",
+          "event_slug": "lva1-rfc-rfs-2026-11-08-halftime-result",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nottingham Forest FC vs. Manchester City FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.93,
+          "value": 4.743,
+          "timestamp": 1794073794,
+          "slug": "epl-not-mac-2026-11-07-total-2pt5",
+          "event_slug": "epl-not-mac-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Manchester City FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.22,
+          "value": 6.38,
+          "timestamp": 1794073782,
+          "slug": "epl-not-mac-2026-11-07-mac",
+          "event_slug": "epl-not-mac-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Manchester City FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.22,
+          "value": 21.12,
+          "timestamp": 1794073782,
+          "slug": "epl-not-mac-2026-11-07-mac",
+          "event_slug": "epl-not-mac-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Manchester City FC leading at halftime?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.01,
+          "value": 2.42,
+          "timestamp": 1794073774,
+          "slug": "epl-not-mac-2026-11-07-halftime-result-away",
+          "event_slug": "epl-not-mac-2026-11-07-halftime-result",
+          "result": "ongoing"
+        },
+        {
+          "title": "Göztepe SK vs. Rams Başakşehir FK: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.03,
+          "value": 1.05,
+          "timestamp": 1794073747,
+          "slug": "tur-goz-iba-2026-11-07-total-2pt5",
+          "event_slug": "tur-goz-iba-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Hapoel Jerusalem FC vs. Bnei Sakhnin FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.15,
+          "value": 5.7,
+          "timestamp": 1794073723,
+          "slug": "isr-hap-bns-2026-11-07-total-2pt5",
+          "event_slug": "isr-hap-bns-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Exact Score: Riga FC 0 - 0 FC RFS?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.9760733374,
+          "value": 688.4928500018381,
+          "timestamp": 1794073719,
+          "slug": "lva1-rfc-rfs-2026-11-08-exact-score-0-0",
+          "event_slug": "lva1-rfc-rfs-2026-11-08-exact-score",
+          "result": "ongoing"
+        },
+        {
+          "title": "Galatasaray SK vs. Amed Sportif: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.3399999859,
+          "value": 7.220000000582341,
+          "timestamp": 1794073704,
+          "slug": "tur-gal-ame-2026-11-07-total-6pt5",
+          "event_slug": "tur-gal-ame-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Exact Score: Riga FC 0 - 0 FC RFS?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.984604552,
+          "value": 1230.75569,
+          "timestamp": 1794073693,
+          "slug": "lva1-rfc-rfs-2026-11-08-exact-score-0-0",
+          "event_slug": "lva1-rfc-rfs-2026-11-08-exact-score",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Austria Lustenau win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.13,
+          "value": 0.8593000000000001,
+          "timestamp": 1794073647,
+          "slug": "aut-alu-gak-2026-11-07-alu",
+          "event_slug": "aut-alu-gak-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Austria Lustenau win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.1173611084,
+          "value": 1.950000000092734,
+          "timestamp": 1794073644,
+          "slug": "aut-alu-gak-2026-11-07-alu",
+          "event_slug": "aut-alu-gak-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Exact Score: Riga FC 0 - 0 FC RFS?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.978925525,
+          "value": 1957.85105,
+          "timestamp": 1794073624,
+          "slug": "lva1-rfc-rfs-2026-11-08-exact-score-0-0",
+          "event_slug": "lva1-rfc-rfs-2026-11-08-exact-score",
+          "result": "ongoing"
+        },
         {
           "title": "Nottingham Forest FC vs. Manchester City FC: Manchester City FC O/U 1.5",
           "side": "BUY",
@@ -5851,358 +6203,6 @@
           "timestamp": 1794073342,
           "slug": "cfb-ucla-minnst-2026-11-07",
           "event_slug": "cfb-ucla-minnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Galatasaray SK vs. Amed Sportif: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.0299999998,
-          "value": 3.429999997133333,
-          "timestamp": 1794073294,
-          "slug": "tur-gal-ame-2026-11-07-total-5pt5",
-          "event_slug": "tur-gal-ame-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Galatasaray SK win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.0299503403,
-          "value": 3.09999999928818,
-          "timestamp": 1794073294,
-          "slug": "tur-gal-ame-2026-11-07-gal",
-          "event_slug": "tur-gal-ame-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Kent State Golden Flashes",
-          "price": 0.28,
-          "value": 5.6000000000000005,
-          "timestamp": 1794073293,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Kent State Golden Flashes",
-          "price": 0.2799310404,
-          "value": 4.059999999476309,
-          "timestamp": 1794073291,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rostock Seawolves vs. Ratiopharm Ulm",
-          "side": "BUY",
-          "outcome": "Ratiopharm Ulm",
-          "price": 0.16,
-          "value": 6.08,
-          "timestamp": 1794073288,
-          "slug": "bkbbl-ros-rat-2026-11-07",
-          "event_slug": "bkbbl-ros-rat-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Kent State Golden Flashes",
-          "price": 0.26,
-          "value": 3.9000000000000004,
-          "timestamp": 1794073270,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Kent State Golden Flashes",
-          "price": 0.26,
-          "value": 9.1,
-          "timestamp": 1794073261,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Kent State Golden Flashes",
-          "price": 0.26,
-          "value": 1.04,
-          "timestamp": 1794073261,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Manchester City FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.46,
-          "value": 16.1,
-          "timestamp": 1794073237,
-          "slug": "epl-not-mac-2026-11-07-mac",
-          "event_slug": "epl-not-mac-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Manchester City FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.44,
-          "value": 8.923200000000001,
-          "timestamp": 1794073236,
-          "slug": "epl-not-mac-2026-11-07-mac",
-          "event_slug": "epl-not-mac-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Manchester City FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.44,
-          "value": 14.52,
-          "timestamp": 1794073234,
-          "slug": "epl-not-mac-2026-11-07-mac",
-          "event_slug": "epl-not-mac-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Manchester City FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.42,
-          "value": 9.105599999999999,
-          "timestamp": 1794073228,
-          "slug": "epl-not-mac-2026-11-07-mac",
-          "event_slug": "epl-not-mac-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Northern Kentucky Norse",
-          "price": 0.75,
-          "value": 7.5,
-          "timestamp": 1794073182,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Young Boys Bern win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.51,
-          "value": 174.42000000000002,
-          "timestamp": 1794073122,
-          "slug": "sui-luz-yb-2026-11-07-yb",
-          "event_slug": "sui-luz-yb-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Luzern vs. Young Boys Bern: Both Teams to Score",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.98,
-          "value": 38.22,
-          "timestamp": 1794073122,
-          "slug": "sui-luz-yb-2026-11-07-btts",
-          "event_slug": "sui-luz-yb-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "FC Luzern vs. Young Boys Bern: Both Teams to Score",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.9699999998,
-          "value": 93.09998500080412,
-          "timestamp": 1794073120,
-          "slug": "sui-luz-yb-2026-11-07-btts",
-          "event_slug": "sui-luz-yb-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Manchester City FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.43,
-          "value": 46.311,
-          "timestamp": 1794073099,
-          "slug": "epl-not-mac-2026-11-07-mac",
-          "event_slug": "epl-not-mac-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Manchester City FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.4299999987,
-          "value": 36.080000000920926,
-          "timestamp": 1794073098,
-          "slug": "epl-not-mac-2026-11-07-mac",
-          "event_slug": "epl-not-mac-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Manchester City FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.42,
-          "value": 74.34,
-          "timestamp": 1794073083,
-          "slug": "epl-not-mac-2026-11-07-mac",
-          "event_slug": "epl-not-mac-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Manchester City FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.42,
-          "value": 27.3,
-          "timestamp": 1794073081,
-          "slug": "epl-not-mac-2026-11-07-mac",
-          "event_slug": "epl-not-mac-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Manchester City FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.43,
-          "value": 10.75,
-          "timestamp": 1794073068,
-          "slug": "epl-not-mac-2026-11-07-mac",
-          "event_slug": "epl-not-mac-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Northern Kentucky Norse",
-          "price": 0.7432446282,
-          "value": 9.659998000371605,
-          "timestamp": 1794073068,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Manchester City FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.44,
-          "value": 20.24,
-          "timestamp": 1794073063,
-          "slug": "epl-not-mac-2026-11-07-mac",
-          "event_slug": "epl-not-mac-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Northern Kentucky Norse",
-          "price": 0.73,
-          "value": 7.3,
-          "timestamp": 1794073057,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Northern Kentucky Norse",
-          "price": 0.73,
-          "value": 7.3,
-          "timestamp": 1794073054,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Northern Kentucky Norse",
-          "price": 0.7199999921,
-          "value": 7.299999999902777,
-          "timestamp": 1794073045,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Northern Kentucky Norse",
-          "price": 0.66,
-          "value": 0.2376,
-          "timestamp": 1794073011,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Young Boys Bern win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.5799999994,
-          "value": 18.48000000088276,
-          "timestamp": 1794073008,
-          "slug": "sui-luz-yb-2026-11-07-yb",
-          "event_slug": "sui-luz-yb-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "VfB Stuttgart vs. SV Werder Bremen: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4,
-          "value": 34.38,
-          "timestamp": 1794073006,
-          "slug": "bun-stu-wer-2026-11-07-total-4pt5",
-          "event_slug": "bun-stu-wer-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Northern Kentucky Norse",
-          "price": 0.64,
-          "value": 6.4,
-          "timestamp": 1794072996,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Northern Kentucky Norse",
-          "price": 0.64,
-          "value": 8.32,
-          "timestamp": 1794072991,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State Golden Flashes vs. Northern Kentucky Norse (W)",
-          "side": "BUY",
-          "outcome": "Kent State Golden Flashes",
-          "price": 0.3999485045,
-          "value": 13.980000000545251,
-          "timestamp": 1794072949,
-          "slug": "cwbb-kentst-nkent-2026-11-07",
-          "event_slug": "cwbb-kentst-nkent-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -7350,14 +7350,47 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 45,
-        "losses": 4,
-        "totalTrades": 52,
-        "winRate": 0.9183673469387755,
-        "volume": 54802.18732000001,
+        "wins": 43,
+        "losses": 3,
+        "totalTrades": 55,
+        "winRate": 0.9347826086956522,
+        "volume": 54226.25643000001,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "FC Luzern vs. Young Boys Bern: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.91,
+          "value": 819,
+          "timestamp": 1794074121,
+          "slug": "sui-luz-yb-2026-11-07-total-2pt5",
+          "event_slug": "sui-luz-yb-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Parma Calcio 1913 vs. Bologna FC 1909: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.82,
+          "value": 574,
+          "timestamp": 1794074095,
+          "slug": "sea-par-bol-2026-11-07-total-0pt5",
+          "event_slug": "sea-par-bol-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Gornik Zabrze vs. Wieczysta Krakow: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.7,
+          "value": 350,
+          "timestamp": 1794073966,
+          "slug": "pol-gor-wie-2026-11-07-total-2pt5",
+          "event_slug": "pol-gor-wie-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Casper Ruud vs Carlos Alcaraz",
           "side": "BUY",
@@ -7874,39 +7907,6 @@
           "slug": "atp-musetti-assche-2026-11-05",
           "event_slug": "atp-musetti-assche-2026-11-05",
           "result": "loss"
-        },
-        {
-          "title": "PSV vs. Club Brugge KV: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.71,
-          "value": 691.6039,
-          "timestamp": 1793827846,
-          "slug": "ucl-psv-bru-2026-11-04-total-3pt5",
-          "event_slug": "ucl-psv-bru-2026-11-04-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "BV Borussia 09 Dortmund vs. Real Betis Balompié: O/U 0.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 702.00729,
-          "timestamp": 1793827818,
-          "slug": "ucl-bvb-bet-2026-11-04-total-0pt5",
-          "event_slug": "ucl-bvb-bet-2026-11-04-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Viking FK vs. Sabah FK: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.81,
-          "value": 925.3197,
-          "timestamp": 1793826925,
-          "slug": "ucl-vf-sf-2026-11-04-total-2pt5",
-          "event_slug": "ucl-vf-sf-2026-11-04-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -7917,12 +7917,23 @@
       "stats48h": {
         "wins": 13,
         "losses": 21,
-        "totalTrades": 35,
+        "totalTrades": 36,
         "winRate": 0.38235294117647056,
-        "volume": 180340.9258991548,
+        "volume": 187240.92589915477,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Bologna FC 1909 win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.69,
+          "value": 6899.999999999999,
+          "timestamp": 1794073953,
+          "slug": "sea-par-bol-2026-11-07-bol",
+          "event_slug": "sea-par-bol-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Will Bologna FC 1909 win on 2026-11-07?",
           "side": "BUY",
@@ -8403,5 +8414,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-07T17:49:31.915Z"
+  "lastUpdate": "2026-11-07T18:00:54.985Z"
 }
