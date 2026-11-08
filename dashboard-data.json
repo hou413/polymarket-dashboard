@@ -6712,14 +6712,80 @@
       "label": "JabJabich",
       "specialty": "Tennis+NFL",
       "stats48h": {
-        "wins": 7,
-        "losses": 10,
-        "totalTrades": 178,
-        "winRate": 0.4117647058823529,
-        "volume": 92493.16879596999,
+        "wins": 6,
+        "losses": 8,
+        "totalTrades": 181,
+        "winRate": 0.42857142857142855,
+        "volume": 93068.37296508902,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 1 Winner",
+          "side": "BUY",
+          "outcome": "EYEBALLERS",
+          "price": 0.7499395349,
+          "value": 161.2370000035,
+          "timestamp": 1794140175,
+          "slug": "cs2-eye-innerc2-2026-11-08-game1",
+          "event_slug": "cs2-eye-innerc2-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 1 Winner",
+          "side": "BUY",
+          "outcome": "EYEBALLERS",
+          "price": 0.7349461178,
+          "value": 244.972239985096,
+          "timestamp": 1794140173,
+          "slug": "cs2-eye-innerc2-2026-11-08-game1",
+          "event_slug": "cs2-eye-innerc2-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Prestige vs KUUSAMO.gg - Map 2 Winner AND Counter-Strike: UNiTY ",
+          "side": "BUY",
+          "outcome": "",
+          "price": 0.5734209992,
+          "value": 979.1164799929358,
+          "timestamp": 1794139869,
+          "slug": "",
+          "event_slug": "",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Prestige vs KUUSAMO.gg - Map 2 Winner AND Counter-Strike: EYEBAL",
+          "side": "BUY",
+          "outcome": "",
+          "price": 0.5898619986,
+          "value": 489.9525989735826,
+          "timestamp": 1794139782,
+          "slug": "",
+          "event_slug": "",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Prestige vs KUUSAMO.gg - Map 2 Winner AND Counter-Strike: EYEBAL",
+          "side": "BUY",
+          "outcome": "",
+          "price": 0.5812994506,
+          "value": 979.494269997962,
+          "timestamp": 1794139768,
+          "slug": "",
+          "event_slug": "",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: G2 Ares vs PRIVATE (BO3) - ESL Challenger League Europe Cup #11 ",
+          "side": "BUY",
+          "outcome": "",
+          "price": 0.5715073693,
+          "value": 979.0247589677165,
+          "timestamp": 1794139672,
+          "slug": "",
+          "event_slug": "",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: Prestige vs KUUSAMO.gg - Map 2 Winner AND Counter-Strike: UNiTY ",
           "side": "BUY",
@@ -7200,72 +7266,6 @@
           "price": 0.4649999999,
           "value": 3408.8142202819217,
           "timestamp": 1794059487,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: PRIVATE vs Optibet (BO3) - ESL Challenger League Europe Cup #11 ",
-          "side": "BUY",
-          "outcome": "Optibet",
-          "price": 0.039,
-          "value": 9.88065,
-          "timestamp": 1794058813,
-          "slug": "cs2-priv-optibe-2026-11-07",
-          "event_slug": "cs2-priv-optibe-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Counter-Strike: Lunacy Team vs maybe - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Lunacy Team",
-          "price": 0.652089912,
-          "value": 792.55659994392,
-          "timestamp": 1794058359,
-          "slug": "cs2-lt-maybe-2026-11-07-game2",
-          "event_slug": "cs2-lt-maybe-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Counter-Strike: PRIVATE vs Optibet (BO3) - ESL Challenger League Europe Cup #11 ",
-          "side": "BUY",
-          "outcome": "Optibet",
-          "price": 0.0291326858,
-          "value": 10.978069990014,
-          "timestamp": 1794057817,
-          "slug": "cs2-priv-optibe-2026-11-07",
-          "event_slug": "cs2-priv-optibe-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Counter-Strike: PRIVATE vs Optibet (BO3) - ESL Challenger League Europe Cup #11 ",
-          "side": "BUY",
-          "outcome": "",
-          "price": 0.4528289994,
-          "value": 973.3700099469174,
-          "timestamp": 1794057777,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: PRIVATE vs Optibet (BO3) - ESL Challenger League Europe Cup #11 ",
-          "side": "BUY",
-          "outcome": "",
-          "price": 0.6132079989,
-          "value": 490.51366997738256,
-          "timestamp": 1794057652,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: PRIVATE vs Optibet (BO3) - ESL Challenger League Europe Cup #11 ",
-          "side": "BUY",
-          "outcome": "",
-          "price": 0.6187519992,
-          "value": 981.2941789434842,
-          "timestamp": 1794057588,
           "slug": "",
           "event_slug": "",
           "result": "ongoing"
@@ -8409,12 +8409,23 @@
       "stats48h": {
         "wins": 15,
         "losses": 21,
-        "totalTrades": 36,
+        "totalTrades": 37,
         "winRate": 0.4166666666666667,
-        "volume": 153414.11656915484,
+        "volume": 155522.05246929484,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "SSC Napoli vs. SS Lazio: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.6199811471,
+          "value": 2107.93590014,
+          "timestamp": 1794139657,
+          "slug": "sea-nap-laz-2026-11-08-total-3pt5",
+          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Will Bologna FC 1909 win on 2026-11-07?",
           "side": "SELL",
@@ -8884,5 +8895,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T12:08:00.595Z"
+  "lastUpdate": "2026-11-08T12:17:56.921Z"
 }
