@@ -5427,10 +5427,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 5003.550039968037,
+        "volume": 5739.492340013038,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Texas State vs. Oregon State",
+          "side": "BUY",
+          "outcome": "Texas State",
+          "price": 0.7794955,
+          "value": 849.6423000450001,
+          "timestamp": 1794116608,
+          "slug": "cfb-txst-oregst-2026-11-07",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Spurs (-25.5)",
           "side": "BUY",
@@ -5967,17 +5978,6 @@
           "value": 8.98,
           "timestamp": 1794114015,
           "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-31.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.379,
-          "value": 113.7,
-          "timestamp": 1794114015,
-          "slug": "nba-sas-por-2026-11-07-spread-away-31pt5",
           "event_slug": "nba-sas-por-2026-11-07",
           "result": "ongoing"
         }
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T05:37:22.727Z"
+  "lastUpdate": "2026-11-08T05:47:13.733Z"
 }
