@@ -386,14 +386,102 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 20,
-        "losses": 28,
+        "wins": 17,
+        "losses": 23,
         "totalTrades": 500,
-        "winRate": 0.4166666666666667,
-        "volume": 8774.11809999775,
+        "winRate": 0.425,
+        "volume": 9093.851899989751,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bengals vs. Falcons: O/U 54.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.51,
+          "value": 270.096,
+          "timestamp": 1794148804,
+          "slug": "nfl-cin-atl-2026-11-08-total-54pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 50.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.66,
+          "value": 12.540000000000001,
+          "timestamp": 1794148801,
+          "slug": "nfl-cin-atl-2026-11-08-total-50pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bengals (-2.5)",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.5,
+          "value": 849.75,
+          "timestamp": 1794148752,
+          "slug": "nfl-cin-atl-2026-11-08-spread-away-2pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Falcons (-1.5)",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.42,
+          "value": 8.4,
+          "timestamp": 1794148741,
+          "slug": "nfl-cin-atl-2026-11-08-spread-home-1pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Falcons (-2.5)",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.36,
+          "value": 78.84,
+          "timestamp": 1794148672,
+          "slug": "nfl-cin-atl-2026-11-08-spread-home-2pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bengals (-3.5)",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.53,
+          "value": 5.300000000000001,
+          "timestamp": 1794148621,
+          "slug": "nfl-cin-atl-2026-11-08-spread-away-3pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Falcons (-2.5)",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.35,
+          "value": 70,
+          "timestamp": 1794148621,
+          "slug": "nfl-cin-atl-2026-11-08-spread-home-2pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 48.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.3599137931,
+          "value": 834.999999992,
+          "timestamp": 1794148405,
+          "slug": "nfl-cin-atl-2026-11-08-total-48pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "WTA Finals, Group A: Coco Gauff vs Jessica Pegula",
           "side": "BUY",
@@ -854,94 +942,6 @@
           "timestamp": 1794108622,
           "slug": "nba-hou-phx-2026-11-07-total-203pt5",
           "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Rockets vs. Suns: O/U 207.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.48,
-          "value": 911.76,
-          "timestamp": 1794108622,
-          "slug": "nba-hou-phx-2026-11-07-total-207pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 209.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.28,
-          "value": 126.14000000000001,
-          "timestamp": 1794108607,
-          "slug": "nba-orl-gsw-2026-11-07-total-209pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 209.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.28,
-          "value": 153.86,
-          "timestamp": 1794108607,
-          "slug": "nba-orl-gsw-2026-11-07-total-209pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 213.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.48,
-          "value": 2.4671999999999996,
-          "timestamp": 1794108607,
-          "slug": "nba-orl-gsw-2026-11-07-total-213pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 205.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.49,
-          "value": 8.82,
-          "timestamp": 1794107814,
-          "slug": "nba-orl-gsw-2026-11-07-total-205pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 201.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.65,
-          "value": 487.175,
-          "timestamp": 1794107812,
-          "slug": "nba-orl-gsw-2026-11-07-total-201pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 205.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.48,
-          "value": 105.11999999999999,
-          "timestamp": 1794107805,
-          "slug": "nba-orl-gsw-2026-11-07-total-205pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Magic (-1.5)",
-          "side": "BUY",
-          "outcome": "Magic",
-          "price": 0.33,
-          "value": 14.850000000000001,
-          "timestamp": 1794107805,
-          "slug": "nba-orl-gsw-2026-11-07-spread-away-1pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
           "result": "loss"
         }
       ]
@@ -3718,10 +3718,65 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9112.132650011774,
+        "volume": 1874.6848700145438,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 140-164 tweets from November 7 to November 9, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.06998,
+          "timestamp": 1794148866,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-140-164",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post <40 tweets from November 7 to November 9, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9933901115,
+          "value": 69.51744000277,
+          "timestamp": 1794148687,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-0-39",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 90-114 tweets from November 7 to November 9, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.89,
+          "value": 62.2822,
+          "timestamp": 1794148687,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-90-114",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 115-139 tweets from November 7 to November 9, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.99,
+          "value": 69.28020000000001,
+          "timestamp": 1794148687,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-115-139",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 65-89 tweets from November 7 to November 9, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.49,
+          "value": 34.2902,
+          "timestamp": 1794148687,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-65-89",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 115-139 tweets from November 7 to November 9, 2026?",
           "side": "SELL",
@@ -4215,61 +4270,6 @@
           "timestamp": 1794132282,
           "slug": "will-luis-isael-rubio-idrogo-win-the-next-lima-mayoral-elections-20260724154000904",
           "event_slug": "lima-mayoral-election-winner-20260724153924694",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Bangladesh win Eurovision Asia 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.18355000000000002,
-          "timestamp": 1794132099,
-          "slug": "will-bangladesh-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sunderland AFC vs. Chelsea FC end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.74998254,
-          "value": 3749.9127,
-          "timestamp": 1794131991,
-          "slug": "epl-sun-che-2026-11-08-draw",
-          "event_slug": "epl-sun-che-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sunderland AFC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.74,
-          "value": 3700,
-          "timestamp": 1794131991,
-          "slug": "epl-sun-che-2026-11-08-sun",
-          "event_slug": "epl-sun-che-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Bhutan win Eurovision Asia 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.18355000000000002,
-          "timestamp": 1794131586,
-          "slug": "will-bhutan-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Thailand win Eurovision Asia 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.96,
-          "value": 22.608,
-          "timestamp": 1794131416,
-          "slug": "will-thailand-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
           "result": "ongoing"
         }
       ]
@@ -5875,14 +5875,80 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 22,
-        "losses": 28,
+        "wins": 21,
+        "losses": 23,
         "totalTrades": 500,
-        "winRate": 0.44,
-        "volume": 5301.866540001243,
+        "winRate": 0.4772727272727273,
+        "volume": 5230.878250001199,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Bengals (-3.5)",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.64,
+          "value": 95.36,
+          "timestamp": 1794148881,
+          "slug": "nfl-cin-atl-2026-11-08-spread-away-3pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bengals (-2.5)",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.5589189189,
+          "value": 103.3999999965,
+          "timestamp": 1794148881,
+          "slug": "nfl-cin-atl-2026-11-08-spread-away-2pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.48,
+          "value": 24,
+          "timestamp": 1794148879,
+          "slug": "nfl-cin-atl-2026-11-08",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.41,
+          "value": 2.8699999999999997,
+          "timestamp": 1794148725,
+          "slug": "nfl-cin-atl-2026-11-08",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.41,
+          "value": 2.8699999999999997,
+          "timestamp": 1794148725,
+          "slug": "nfl-cin-atl-2026-11-08",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.41,
+          "value": 2.05,
+          "timestamp": 1794148725,
+          "slug": "nfl-cin-atl-2026-11-08",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Texas State (-20.5)",
           "side": "BUY",
@@ -6366,72 +6432,6 @@
           "slug": "nba-sas-por-2026-11-07-total-233pt5",
           "event_slug": "nba-sas-por-2026-11-07",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-29.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.699,
-          "value": 13.979999999999999,
-          "timestamp": 1794114753,
-          "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-27.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.749,
-          "value": 3.745,
-          "timestamp": 1794114729,
-          "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-29.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.6338735994,
-          "value": 68.452009999206,
-          "timestamp": 1794114727,
-          "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-31.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.4886772773,
-          "value": 28.861279997338002,
-          "timestamp": 1794114727,
-          "slug": "nba-sas-por-2026-11-07-spread-away-31pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-27.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.65,
-          "value": 6.5,
-          "timestamp": 1794114706,
-          "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-19.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.9,
-          "value": 180,
-          "timestamp": 1794114691,
-          "slug": "nba-sas-por-2026-11-07-spread-away-19pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -7919,7 +7919,7 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 43,
+        "wins": 45,
         "losses": 0,
         "totalTrades": 70,
         "winRate": 1,
@@ -7958,7 +7958,7 @@
           "timestamp": 1794143130,
           "slug": "chi-yun-wsz-2026-11-08-total-1pt5",
           "event_slug": "chi-yun-wsz-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "SC Heerenveen vs. Feyenoord Rotterdam: O/U 6.5",
@@ -8035,7 +8035,7 @@
           "timestamp": 1794126166,
           "slug": "chi-yun-wsz-2026-11-08-total-1pt5",
           "event_slug": "chi-yun-wsz-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Adelaide United FC vs. Melbourne Victory FC: O/U 3.5",
@@ -9005,5 +9005,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T14:36:25.841Z"
+  "lastUpdate": "2026-11-08T14:46:54.627Z"
 }
