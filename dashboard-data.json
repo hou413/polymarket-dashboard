@@ -1371,7 +1371,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 0,
-        "totalTrades": 59,
+        "totalTrades": 57,
         "winRate": 1,
         "volume": 15801.676499021141,
         "pnl": 0
@@ -3354,10 +3354,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 778.63137,
+        "volume": 925.6838699999997,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Su Chiao-hui win the next New Taipei Mayor election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.42,
+          "value": 157.61759999999998,
+          "timestamp": 1794118000,
+          "slug": "will-su-chiao-hui-win-the-next-new-taipei-mayor-election-20260813125857202",
+          "event_slug": "new-taipei-mayor-election-winner-20260813125857200",
+          "result": "ongoing"
+        },
         {
           "title": "Kamala Harris Democratic nomination odds leader on November 30?",
           "side": "SELL",
@@ -3894,17 +3905,6 @@
           "value": 32.32274,
           "timestamp": 1794098893,
           "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-16-or-more-667",
-          "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Represe",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.189,
-          "value": 10.5651,
-          "timestamp": 1794098893,
-          "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-14-and-16-843",
           "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
           "result": "ongoing"
         }
@@ -5423,14 +5423,69 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 17,
+        "wins": 15,
         "losses": 18,
         "totalTrades": 500,
-        "winRate": 0.4857142857142857,
-        "volume": 5403.855939973646,
+        "winRate": 0.45454545454545453,
+        "volume": 5085.3565399818435,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Texas State (-14.5)",
+          "side": "BUY",
+          "outcome": "Texas State",
+          "price": 0.5355555556,
+          "value": 72.300000006,
+          "timestamp": 1794118021,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-away-14pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas State (-10.5)",
+          "side": "BUY",
+          "outcome": "Texas State",
+          "price": 0.7294117647,
+          "value": 61.999999999500005,
+          "timestamp": 1794118021,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-away-10pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas State (-7.5)",
+          "side": "BUY",
+          "outcome": "Texas State",
+          "price": 0.8081967213,
+          "value": 49.2999999993,
+          "timestamp": 1794118020,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-away-7pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas State (-13.5)",
+          "side": "BUY",
+          "outcome": "Texas State",
+          "price": 0.675834375,
+          "value": 64.8801,
+          "timestamp": 1794118020,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-away-13pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas State vs. Oregon State",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.06,
+          "value": 40.019999999999996,
+          "timestamp": 1794117991,
+          "slug": "cfb-txst-oregst-2026-11-07",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Texas State vs. Oregon State",
           "side": "BUY",
@@ -5737,7 +5792,7 @@
           "timestamp": 1794115110,
           "slug": "cfb-frest-utahst-2026-11-07",
           "event_slug": "cfb-frest-utahst-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spurs vs. Trail Blazers: O/U 229.5",
@@ -5781,7 +5836,7 @@
           "timestamp": 1794115018,
           "slug": "cfb-frest-utahst-2026-11-07",
           "event_slug": "cfb-frest-utahst-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-21.5)",
@@ -5925,61 +5980,6 @@
           "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
           "event_slug": "nba-sas-por-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-21.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.12,
-          "value": 102.6,
-          "timestamp": 1794114601,
-          "slug": "nba-sas-por-2026-11-07-spread-away-21pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-23.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.18,
-          "value": 36,
-          "timestamp": 1794114600,
-          "slug": "nba-sas-por-2026-11-07-spread-away-23pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-25.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.26,
-          "value": 183.3,
-          "timestamp": 1794114600,
-          "slug": "nba-sas-por-2026-11-07-spread-away-25pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-31.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.4999990138,
-          "value": 253.4994999966,
-          "timestamp": 1794114592,
-          "slug": "nba-sas-por-2026-11-07-spread-away-31pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Fresno State vs. Utah State",
-          "side": "BUY",
-          "outcome": "Fresno State",
-          "price": 0.1,
-          "value": 31.6,
-          "timestamp": 1794114555,
-          "slug": "cfb-frest-utahst-2026-11-07",
-          "event_slug": "cfb-frest-utahst-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T06:06:34.886Z"
+  "lastUpdate": "2026-11-08T06:16:22.422Z"
 }
