@@ -3696,10 +3696,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9068.434440006027,
+        "volume": 8976.883120005086,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "No one announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.054,
+          "value": 0.8758799999999999,
+          "timestamp": 1794140107,
+          "slug": "no-one-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
         {
           "title": "Will no second mandate to form a government be given after the 2026 Israeli elec",
           "side": "SELL",
@@ -4236,17 +4247,6 @@
           "value": 120.696,
           "timestamp": 1794120087,
           "slug": "jack-lowdon-announced-as-next-james-bond-917",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Josh O'Connor announced as next James Bond?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8070130097,
-          "value": 92.427200000941,
-          "timestamp": 1794120087,
-          "slug": "josh-oconnor-announced-as-next-james-bond",
           "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
         }
@@ -6714,12 +6714,67 @@
       "stats48h": {
         "wins": 6,
         "losses": 8,
-        "totalTrades": 181,
+        "totalTrades": 186,
         "winRate": 0.42857142857142855,
-        "volume": 93068.37296508902,
+        "volume": 82500.71408539955,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Map Handicap: PRE (-1.5) vs KUUSAMO.gg (+1.5)",
+          "side": "BUY",
+          "outcome": "Prestige",
+          "price": 0.69,
+          "value": 11.177999999999999,
+          "timestamp": 1794140760,
+          "slug": "cs2-pre-ksm-2026-11-08-map-handicap-away-1pt5",
+          "event_slug": "cs2-pre-ksm-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Prestige vs KUUSAMO.gg - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Prestige",
+          "price": 0.67,
+          "value": 492.45000000000005,
+          "timestamp": 1794140757,
+          "slug": "cs2-pre-ksm-2026-11-08-game2",
+          "event_slug": "cs2-pre-ksm-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Prestige vs KUUSAMO.gg - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "Prestige",
+          "price": 0.6719586167,
+          "value": 161.07520000915702,
+          "timestamp": 1794140605,
+          "slug": "cs2-pre-ksm-2026-11-08-game2",
+          "event_slug": "cs2-pre-ksm-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 1 Winner",
+          "side": "BUY",
+          "outcome": "EYEBALLERS",
+          "price": 0.4279419359,
+          "value": 119.986359987642,
+          "timestamp": 1794140317,
+          "slug": "cs2-eye-innerc2-2026-11-08-game1",
+          "event_slug": "cs2-eye-innerc2-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 1 Winner",
+          "side": "BUY",
+          "outcome": "EYEBALLERS",
+          "price": 0.4644320323,
+          "value": 389.93248999875703,
+          "timestamp": 1794140280,
+          "slug": "cs2-eye-innerc2-2026-11-08-game1",
+          "event_slug": "cs2-eye-innerc2-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 1 Winner",
           "side": "BUY",
@@ -7211,61 +7266,6 @@
           "price": 0.747600372,
           "value": 2962.611900038122,
           "timestamp": 1794060759,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: PRIVATE vs Optibet (BO3) - ESL Challenger League Europe Cup #11 ",
-          "side": "BUY",
-          "outcome": "",
-          "price": 0.6844109715,
-          "value": 1968.9313500440219,
-          "timestamp": 1794060736,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: 6yuBoJlbl vs 9INE (BO3) - ESL Challenger League Europe Cup #11 G",
-          "side": "BUY",
-          "outcome": "",
-          "price": 0.5013059852,
-          "value": 2927.015740255993,
-          "timestamp": 1794060688,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: LPH Gaming vs aimclub (BO3) - ESL Challenger League Europe Cup #",
-          "side": "BUY",
-          "outcome": "",
-          "price": 0.6655289788,
-          "value": 2950.6545790611963,
-          "timestamp": 1794060654,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: 6yuBoJlbl vs 9INE - Map 2 Winner AND Counter-Strike: OG vs G2 Ar",
-          "side": "BUY",
-          "outcome": "",
-          "price": 0.460426999,
-          "value": 486.8650400419063,
-          "timestamp": 1794059539,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: 6yuBoJlbl vs 9INE - Map 2 Winner AND Counter-Strike: OG vs G2 Ar",
-          "side": "BUY",
-          "outcome": "",
-          "price": 0.4649999999,
-          "value": 3408.8142202819217,
-          "timestamp": 1794059487,
           "slug": "",
           "event_slug": "",
           "result": "ongoing"
@@ -8895,5 +8895,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T12:17:56.921Z"
+  "lastUpdate": "2026-11-08T12:27:58.988Z"
 }
