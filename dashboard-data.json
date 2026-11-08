@@ -7456,14 +7456,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 48,
+        "wins": 47,
         "losses": 1,
-        "totalTrades": 59,
-        "winRate": 0.9795918367346939,
-        "volume": 53731.45382,
+        "totalTrades": 60,
+        "winRate": 0.9791666666666666,
+        "volume": 53371.45382,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Adelaide United FC vs. Melbourne Victory FC: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.6,
+          "value": 300,
+          "timestamp": 1794123720,
+          "slug": "aus-ade-vic-2026-11-08-total-3pt5",
+          "event_slug": "aus-ade-vic-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Adelaide United FC vs. Melbourne Victory FC: O/U 2.5",
           "side": "BUY",
@@ -8002,17 +8013,6 @@
           "slug": "atp-assche-hijikat-2026-11-06",
           "event_slug": "atp-assche-hijikat-2026-11-06",
           "result": "loss"
-        },
-        {
-          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
-          "side": "BUY",
-          "outcome": "Alexandra Eala",
-          "price": 0.66,
-          "value": 660,
-          "timestamp": 1793970822,
-          "slug": "wta-ruzic-eala-2026-11-06",
-          "event_slug": "wta-ruzic-eala-2026-11-06",
-          "result": "win"
         }
       ]
     },
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T07:37:28.128Z"
+  "lastUpdate": "2026-11-08T07:47:12.881Z"
 }
