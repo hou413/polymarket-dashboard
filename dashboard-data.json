@@ -3696,10 +3696,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9636.864660003028,
+        "volume": 9635.317060003026,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Dejan Šoškić be the next Prime Minister of Serbia?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.428,
+          "value": 3.5053199999999998,
+          "timestamp": 1794134130,
+          "slug": "will-dejan-soskic-be-the-next-prime-minister-of-serbia",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Nico Hulkenberg win the 2026 F1 Brazilian Grand Prix?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.5720000000000001,
+          "timestamp": 1794133762,
+          "slug": "f1-brazilian-grand-prix-winner-hulkenberg-2026-11-08",
+          "event_slug": "f1-brazilian-grand-prix-winner-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Will Segundo Valdez Zavala win the next Lima mayoral elections?",
           "side": "SELL",
@@ -4226,28 +4248,6 @@
           "timestamp": 1794115750,
           "slug": "kamala-harris-democratic-nomination-odds-leader-on-november-30",
           "event_slug": "democratic-nomination-odds-leader-on-november-30",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Josh Allen win the 2026 NFL MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.29,
-          "value": 5.3186,
-          "timestamp": 1794114820,
-          "slug": "will-josh-allen-win-the-2026-nfl-mvp",
-          "event_slug": "pro-football-2026-mvp-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sanae Takaichi be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.30632,
-          "timestamp": 1794113364,
-          "slug": "will-sanae-takaichi-be-the-next-leader-out-before-2027-20260630194627377",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
           "result": "ongoing"
         }
       ]
@@ -8851,5 +8851,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T10:33:11.690Z"
+  "lastUpdate": "2026-11-08T10:43:03.724Z"
 }
