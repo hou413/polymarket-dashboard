@@ -33,14 +33,58 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 5,
-        "losses": 8,
+        "wins": 4,
+        "losses": 5,
         "totalTrades": 500,
-        "winRate": 0.38461538461538464,
-        "volume": 7279.148499993599,
+        "winRate": 0.4444444444444444,
+        "volume": 9320.340499985452,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.95,
+          "value": 1909.5,
+          "timestamp": 1794096729,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 224.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.77,
+          "value": 154,
+          "timestamp": 1794096537,
+          "slug": "nba-den-ind-2026-11-07-total-224pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 228.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.6,
+          "value": 325.8,
+          "timestamp": 1794096537,
+          "slug": "nba-den-ind-2026-11-07-total-228pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 232.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.38,
+          "value": 190,
+          "timestamp": 1794096537,
+          "slug": "nba-den-ind-2026-11-07-total-232pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Nuggets vs. Pacers: O/U 228.5",
           "side": "BUY",
@@ -546,50 +590,6 @@
           "slug": "nba-por-lal-2026-11-06-total-220pt5",
           "event_slug": "nba-por-lal-2026-11-06",
           "result": "win"
-        },
-        {
-          "title": "Trail Blazers vs. Lakers: O/U 220.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.45,
-          "value": 162.738,
-          "timestamp": 1794029709,
-          "slug": "nba-por-lal-2026-11-06-total-220pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-18.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.54,
-          "value": 161.73000000000002,
-          "timestamp": 1794029532,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-18pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-20.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.36,
-          "value": 107.82,
-          "timestamp": 1794029532,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-20pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-20.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.3533222037,
-          "value": 105.82000000815,
-          "timestamp": 1794029532,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-20pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "loss"
         }
       ]
     },
@@ -599,13 +599,24 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 1,
-        "losses": 17,
-        "totalTrades": 60,
-        "winRate": 0.05555555555555555,
-        "volume": 142277.17370027455,
+        "losses": 16,
+        "totalTrades": 61,
+        "winRate": 0.058823529411764705,
+        "volume": 136519.72070027454,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Sharks vs. Stars: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.75,
+          "value": 9,
+          "timestamp": 1794096285,
+          "slug": "nhl-sj-dal-2026-11-07-total-7pt5",
+          "event_slug": "nhl-sj-dal-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Sharks vs. Stars: O/U 6.5",
           "side": "BUY",
@@ -1144,17 +1155,6 @@
           "slug": "nhl-utah-mon-2026-11-05-spread-away-1pt5",
           "event_slug": "nhl-utah-mon-2026-11-05",
           "result": "loss"
-        },
-        {
-          "title": "Utah vs. Canadiens",
-          "side": "BUY",
-          "outcome": "Utah",
-          "price": 0.53,
-          "value": 5766.453,
-          "timestamp": 1793902248,
-          "slug": "nhl-utah-mon-2026-11-05",
-          "event_slug": "nhl-utah-mon-2026-11-05",
-          "result": "loss"
         }
       ]
     },
@@ -1191,12 +1191,23 @@
       "stats48h": {
         "wins": 3,
         "losses": 3,
-        "totalTrades": 10,
+        "totalTrades": 11,
         "winRate": 0.5,
-        "volume": 26388.2196,
+        "volume": 26428.2196,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "SELL",
+          "outcome": "Invictus Gaming",
+          "price": 0.4,
+          "value": 40,
+          "timestamp": 1794096610,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
           "side": "BUY",
@@ -1879,14 +1890,168 @@
       "label": "Thunderous-Snarl",
       "specialty": "综合",
       "stats48h": {
-        "wins": 12,
-        "losses": 17,
-        "totalTrades": 160,
-        "winRate": 0.41379310344827586,
-        "volume": 1457533.9534032368,
+        "wins": 2,
+        "losses": 13,
+        "totalTrades": 174,
+        "winRate": 0.13333333333333333,
+        "volume": 1398844.129403593,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.6433802483,
+          "value": 7183.72650041848,
+          "timestamp": 1794096882,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.63,
+          "value": 6076.3877999999995,
+          "timestamp": 1794096852,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.6196821255,
+          "value": 14271.961000603049,
+          "timestamp": 1794096835,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.6085710015,
+          "value": 12660.632000975804,
+          "timestamp": 1794096802,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.61,
+          "value": 3079.89,
+          "timestamp": 1794096771,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.41,
+          "value": 3734.9688,
+          "timestamp": 1794096739,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.41,
+          "value": 5111.351099999999,
+          "timestamp": 1794096708,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.4,
+          "value": 5565.896000000001,
+          "timestamp": 1794096690,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.3950904333,
+          "value": 11852.712999,
+          "timestamp": 1794096652,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.3970555024,
+          "value": 5185.82280019568,
+          "timestamp": 1794096640,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.38,
+          "value": 1892.9966,
+          "timestamp": 1794096490,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.3718847086,
+          "value": 9898.358598781964,
+          "timestamp": 1794096465,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.36,
+          "value": 2707.7508,
+          "timestamp": 1794096379,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.35,
+          "value": 1186.276,
+          "timestamp": 1794096349,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
           "side": "BUY",
@@ -2282,160 +2447,6 @@
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
           "result": "loss"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.38,
-          "value": 38000,
-          "timestamp": 1794013588,
-          "slug": "lol-kc-t1-2026-11-04-game4",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.37,
-          "value": 8756.6864,
-          "timestamp": 1794013576,
-          "slug": "lol-kc-t1-2026-11-04-game4",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.36,
-          "value": 51176.159999999996,
-          "timestamp": 1794013564,
-          "slug": "lol-kc-t1-2026-11-04-game4",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.33,
-          "value": 29700,
-          "timestamp": 1794013455,
-          "slug": "lol-kc-t1-2026-11-04-game4",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.26,
-          "value": 1777.0376,
-          "timestamp": 1794010563,
-          "slug": "lol-kc-t1-2026-11-04-game3",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.3,
-          "value": 974.3549999999999,
-          "timestamp": 1794010510,
-          "slug": "lol-kc-t1-2026-11-04-game3",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.3051201752,
-          "value": 1982.0392996869361,
-          "timestamp": 1794010498,
-          "slug": "lol-kc-t1-2026-11-04-game3",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.31,
-          "value": 373.085,
-          "timestamp": 1794010462,
-          "slug": "lol-kc-t1-2026-11-04-game3",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.33,
-          "value": 3120.0642000000003,
-          "timestamp": 1794010405,
-          "slug": "lol-kc-t1-2026-11-04-game3",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.32,
-          "value": 1781.0304,
-          "timestamp": 1794010399,
-          "slug": "lol-kc-t1-2026-11-04-game3",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.31,
-          "value": 3445.7616000000003,
-          "timestamp": 1794010273,
-          "slug": "lol-kc-t1-2026-11-04-game3",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.3234594387,
-          "value": 1340.208899932032,
-          "timestamp": 1794010201,
-          "slug": "lol-kc-t1-2026-11-04-game3",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.27,
-          "value": 616.2183,
-          "timestamp": 1794010158,
-          "slug": "lol-kc-t1-2026-11-04-game3",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.27,
-          "value": 6055.908300000001,
-          "timestamp": 1794010147,
-          "slug": "lol-kc-t1-2026-11-04-game3",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "win"
         }
       ]
     },
@@ -2809,12 +2820,23 @@
       "stats48h": {
         "wins": 9,
         "losses": 13,
-        "totalTrades": 36,
+        "totalTrades": 37,
         "winRate": 0.4090909090909091,
-        "volume": 637513.4322405732,
+        "volume": 662489.1515205732,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Real Madrid CF win on 2026-11-07?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.999,
+          "value": 24975.71928,
+          "timestamp": 1794096759,
+          "slug": "lal-val-rea-2026-11-07-rea",
+          "event_slug": "lal-val-rea-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Nuggets vs. Pacers",
           "side": "BUY",
@@ -3222,10 +3244,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3828.5906299758444,
+        "volume": 3280.757579975844,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Navid Shomali be head of state in Iran end of 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.00856,
+          "timestamp": 1794096525,
+          "slug": "will-navid-shomali-be-head-of-state-in-iran-end-of-2026",
+          "event_slug": "iran-leader-end-of-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Ahmed al-Sharaa be the next leader out before 2027?",
           "side": "SELL",
@@ -3764,17 +3797,6 @@
           "slug": "el1-wyc-hud-2026-11-14-wyc",
           "event_slug": "el1-wyc-hud-2026-11-14",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Huddersfield Town AFC win on 2026-11-14?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 547.84161,
-          "timestamp": 1794078840,
-          "slug": "el1-wyc-hud-2026-11-14-hud",
-          "event_slug": "el1-wyc-hud-2026-11-14",
-          "result": "ongoing"
         }
       ]
     },
@@ -3784,9 +3806,9 @@
       "specialty": "UFC+Tennis",
       "stats48h": {
         "wins": 42,
-        "losses": 5,
+        "losses": 6,
         "totalTrades": 62,
-        "winRate": 0.8936170212765957,
+        "winRate": 0.875,
         "volume": 469938.0439260513,
         "pnl": 0
       },
@@ -3800,7 +3822,7 @@
           "timestamp": 1794091465,
           "slug": "ufc-and10-man18-2026-11-07",
           "event_slug": "ufc-and10-man18-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
@@ -5306,10 +5328,351 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 6759.702990085355,
+        "volume": 14951.89301000331,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Gabriel Lorenço",
+          "price": 0.8431637085,
+          "value": 157.24159999816501,
+          "timestamp": 1794097086,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Gabriel Lorenço",
+          "price": 0.84,
+          "value": 1596.84,
+          "timestamp": 1794097083,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Gabriel Lorenço",
+          "price": 0.84,
+          "value": 3293.64,
+          "timestamp": 1794097083,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Gabriel Lorenço",
+          "price": 0.84,
+          "value": 3293.64,
+          "timestamp": 1794097083,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kentucky vs. Tennessee",
+          "side": "BUY",
+          "outcome": "Kentucky",
+          "price": 0.21,
+          "value": 1.47,
+          "timestamp": 1794097063,
+          "slug": "cfb-uk-tenn-2026-11-07",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Isaiah Hartenstein: Rebounds O/U 11.5",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.62,
+          "value": 9.3,
+          "timestamp": 1794097020,
+          "slug": "nba-was-okc-2026-11-07-rebounds-isaiah-hartenstein-11pt5",
+          "event_slug": "nba-was-okc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5)",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.69,
+          "value": 183.47099999999998,
+          "timestamp": 1794096999,
+          "slug": "lol-ig1-gen-2026-11-07-game-handicap-home-2pt5",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kentucky vs. Tennessee",
+          "side": "BUY",
+          "outcome": "Kentucky",
+          "price": 0.27,
+          "value": 1.35,
+          "timestamp": 1794096978,
+          "slug": "cfb-uk-tenn-2026-11-07",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kentucky vs. Tennessee",
+          "side": "BUY",
+          "outcome": "Kentucky",
+          "price": 0.27,
+          "value": 3.7800000000000002,
+          "timestamp": 1794096937,
+          "slug": "cfb-uk-tenn-2026-11-07",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jared McCain: Assists O/U 1.5",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.55,
+          "value": 4.4,
+          "timestamp": 1794096934,
+          "slug": "nba-was-okc-2026-11-07-assists-jared-mccain-1pt5",
+          "event_slug": "nba-was-okc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.127440273,
+          "value": 28.004999991749997,
+          "timestamp": 1794096871,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.087611358,
+          "value": 35.68322999982,
+          "timestamp": 1794096844,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-9.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.57,
+          "value": 2.8499999999999996,
+          "timestamp": 1794096844,
+          "slug": "nba-den-ind-2026-11-07-spread-away-9pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.069,
+          "value": 6.9,
+          "timestamp": 1794096838,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.0698571429,
+          "value": 2.4450000015,
+          "timestamp": 1794096823,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.0492158774,
+          "value": 35.336999973199994,
+          "timestamp": 1794096814,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.9305548681,
+          "value": 428.660099990265,
+          "timestamp": 1794096777,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-8.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.59,
+          "value": 18.88,
+          "timestamp": 1794096777,
+          "slug": "nba-den-ind-2026-11-07-spread-away-8pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-20.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.1,
+          "value": 26.3,
+          "timestamp": 1794096777,
+          "slug": "nba-den-ind-2026-11-07-spread-away-20pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.07,
+          "value": 1.0332000000000001,
+          "timestamp": 1794096759,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-11.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.53,
+          "value": 49.29,
+          "timestamp": 1794096759,
+          "slug": "nba-den-ind-2026-11-07-spread-away-11pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-3.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.12,
+          "value": 8.76,
+          "timestamp": 1794096742,
+          "slug": "nba-den-ind-2026-11-07-spread-away-3pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-11.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.51,
+          "value": 21.93,
+          "timestamp": 1794096742,
+          "slug": "nba-den-ind-2026-11-07-spread-away-11pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.0600638298,
+          "value": 2.8230000006,
+          "timestamp": 1794096741,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-8.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.31,
+          "value": 310,
+          "timestamp": 1794096508,
+          "slug": "nba-den-ind-2026-11-07-spread-away-8pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers: O/U 228.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.5,
+          "value": 9,
+          "timestamp": 1794096508,
+          "slug": "nba-den-ind-2026-11-07-total-228pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.0436907438,
+          "value": 14.613679986224001,
+          "timestamp": 1794096508,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Pacers",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.0310474298,
+          "value": 42.18879998373,
+          "timestamp": 1794096484,
+          "slug": "nba-den-ind-2026-11-07",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Games Total: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.34,
+          "value": 6.507600000000001,
+          "timestamp": 1794096457,
+          "slug": "lol-ig1-gen-2026-11-07-total-games-3pt5",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5)",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.34,
+          "value": 105.7264,
+          "timestamp": 1794096441,
+          "slug": "lol-ig1-gen-2026-11-07-game-handicap-home-2pt5",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5)",
+          "side": "BUY",
+          "outcome": "Invictus Gaming",
+          "price": 0.34,
+          "value": 489.6,
+          "timestamp": 1794096439,
+          "slug": "lol-ig1-gen-2026-11-07-game-handicap-home-2pt5",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Kentucky vs. Tennessee",
           "side": "BUY",
@@ -5518,347 +5881,6 @@
           "slug": "cfb-wkent-mtnst-2026-11-07",
           "event_slug": "cfb-wkent-mtnst-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Kentucky vs. Tennessee",
-          "side": "BUY",
-          "outcome": "Kentucky",
-          "price": 0.35,
-          "value": 3.8499999999999996,
-          "timestamp": 1794095706,
-          "slug": "cfb-uk-tenn-2026-11-07",
-          "event_slug": "cfb-uk-tenn-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
-          "side": "BUY",
-          "outcome": "Karine Silva",
-          "price": 0.43,
-          "value": 9.073,
-          "timestamp": 1794095700,
-          "slug": "ufc-kar5-gab5-2026-11-07",
-          "event_slug": "ufc-kar5-gab5-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.061,
-          "value": 2.501,
-          "timestamp": 1794095679,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Boise State vs. Colorado State",
-          "side": "BUY",
-          "outcome": "Colorado State",
-          "price": 0.0692592593,
-          "value": 3.7400000022,
-          "timestamp": 1794095659,
-          "slug": "cfb-boise-colst-2026-11-07",
-          "event_slug": "cfb-boise-colst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
-          "side": "BUY",
-          "outcome": "Gabriella Fernandes",
-          "price": 0.4,
-          "value": 551.38,
-          "timestamp": 1794095629,
-          "slug": "ufc-kar5-gab5-2026-11-07",
-          "event_slug": "ufc-kar5-gab5-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.07,
-          "value": 2.87,
-          "timestamp": 1794095599,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-5.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.16,
-          "value": 32,
-          "timestamp": 1794095578,
-          "slug": "nba-den-ind-2026-11-07-spread-away-5pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-3.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.1,
-          "value": 20,
-          "timestamp": 1794095578,
-          "slug": "nba-den-ind-2026-11-07-spread-away-3pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 224.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.5,
-          "value": 2.5,
-          "timestamp": 1794095578,
-          "slug": "nba-den-ind-2026-11-07-total-224pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-7.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.23,
-          "value": 46,
-          "timestamp": 1794095578,
-          "slug": "nba-den-ind-2026-11-07-spread-away-7pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.044,
-          "value": 2.464,
-          "timestamp": 1794095578,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.0362842857,
-          "value": 2.7938899989,
-          "timestamp": 1794095524,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-10.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.68,
-          "value": 10.88,
-          "timestamp": 1794095442,
-          "slug": "nba-den-ind-2026-11-07-spread-away-10pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.0383677465,
-          "value": 2.7241100015,
-          "timestamp": 1794095419,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-10.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.68,
-          "value": 20.400000000000002,
-          "timestamp": 1794095403,
-          "slug": "nba-den-ind-2026-11-07-spread-away-10pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-7.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.8,
-          "value": 36.800000000000004,
-          "timestamp": 1794095403,
-          "slug": "nba-den-ind-2026-11-07-spread-away-7pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-20.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.25,
-          "value": 9,
-          "timestamp": 1794095403,
-          "slug": "nba-den-ind-2026-11-07-spread-away-20pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-16.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.42,
-          "value": 60.9,
-          "timestamp": 1794095403,
-          "slug": "nba-den-ind-2026-11-07-spread-away-16pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-8.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.77,
-          "value": 154,
-          "timestamp": 1794095403,
-          "slug": "nba-den-ind-2026-11-07-spread-away-8pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-11.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.6448,
-          "value": 48.36,
-          "timestamp": 1794095403,
-          "slug": "nba-den-ind-2026-11-07-spread-away-11pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.0372402817,
-          "value": 2.6440600007,
-          "timestamp": 1794095388,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-12.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.59,
-          "value": 10.62,
-          "timestamp": 1794095374,
-          "slug": "nba-den-ind-2026-11-07-spread-away-12pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Western Kentucky vs. Middle Tennessee",
-          "side": "BUY",
-          "outcome": "Western Kentucky",
-          "price": 0.1175,
-          "value": 1.1749999999999998,
-          "timestamp": 1794095370,
-          "slug": "cfb-wkent-mtnst-2026-11-07",
-          "event_slug": "cfb-wkent-mtnst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Penn State vs. Washington",
-          "side": "BUY",
-          "outcome": "Washington",
-          "price": 0.119,
-          "value": 1.666,
-          "timestamp": 1794095350,
-          "slug": "cfb-pennst-wash-2026-11-07",
-          "event_slug": "cfb-pennst-wash-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
-          "side": "BUY",
-          "outcome": "Karine Silva",
-          "price": 0.68,
-          "value": 931.2600000000001,
-          "timestamp": 1794095319,
-          "slug": "ufc-kar5-gab5-2026-11-07",
-          "event_slug": "ufc-kar5-gab5-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-18.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.29,
-          "value": 9.28,
-          "timestamp": 1794095290,
-          "slug": "nba-den-ind-2026-11-07-spread-away-18pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 220.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.55,
-          "value": 2.75,
-          "timestamp": 1794095172,
-          "slug": "nba-den-ind-2026-11-07-total-220pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.04,
-          "value": 2.84,
-          "timestamp": 1794095172,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.031,
-          "value": 0.01953,
-          "timestamp": 1794095166,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-10.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.26,
-          "value": 12.22,
-          "timestamp": 1794095140,
-          "slug": "nba-den-ind-2026-11-07-spread-away-10pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.0265865385,
-          "value": 2.765000004,
-          "timestamp": 1794095140,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -5871,10 +5893,483 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1551.4100850148336,
+        "volume": 2639.0978040087134,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Thomas Petersen",
+          "price": 0.2515348767,
+          "value": 6.239999999966454,
+          "timestamp": 1794097068,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Thomas Petersen",
+          "price": 0.2151360544,
+          "value": 54.394999994496,
+          "timestamp": 1794097060,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Thomas Petersen",
+          "price": 0.18,
+          "value": 1.89,
+          "timestamp": 1794097059,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Thomas Petersen",
+          "price": 0.2899999925,
+          "value": 5.780000000517238,
+          "timestamp": 1794097038,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Vanderbilt Team Total: O/U 23.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.37,
+          "value": 92.5,
+          "timestamp": 1794097038,
+          "slug": "cfb-vand-mspst-2026-11-07-team-total-vand-23pt5",
+          "event_slug": "cfb-vand-mspst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kentucky vs. Tennessee",
+          "side": "BUY",
+          "outcome": "Tennessee",
+          "price": 0.76,
+          "value": 920.36,
+          "timestamp": 1794097018,
+          "slug": "cfb-uk-tenn-2026-11-07",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Atlético Nacional win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.06,
+          "value": 5.46,
+          "timestamp": 1794097015,
+          "slug": "col1-atn-dep-2026-11-07-atn",
+          "event_slug": "col1-atn-dep-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kentucky vs. Tennessee",
+          "side": "BUY",
+          "outcome": "Tennessee",
+          "price": 0.76,
+          "value": 6.84,
+          "timestamp": 1794097015,
+          "slug": "cfb-uk-tenn-2026-11-07",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "SELL",
+          "outcome": "Thomas Petersen",
+          "price": 0.4025657895,
+          "value": 61.190000004,
+          "timestamp": 1794097014,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Thomas Petersen",
+          "price": 0.41,
+          "value": 62.31999999999999,
+          "timestamp": 1794097011,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UCF vs. Kansas",
+          "side": "SELL",
+          "outcome": "UCF",
+          "price": 0.88,
+          "value": 149.6,
+          "timestamp": 1794097011,
+          "slug": "cfb-ucf-kan-2026-11-07",
+          "event_slug": "cfb-ucf-kan-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Thomas Petersen",
+          "price": 0.41,
+          "value": 13.12,
+          "timestamp": 1794097009,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UCF vs. Kansas",
+          "side": "BUY",
+          "outcome": "UCF",
+          "price": 0.922140292,
+          "value": 165.4399910053404,
+          "timestamp": 1794097008,
+          "slug": "cfb-ucf-kan-2026-11-07",
+          "event_slug": "cfb-ucf-kan-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Thomas Petersen",
+          "price": 0.37,
+          "value": 8.14,
+          "timestamp": 1794097005,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Thomas Petersen",
+          "price": 0.29,
+          "value": 0.3016,
+          "timestamp": 1794096991,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Thomas Petersen",
+          "price": 0.24,
+          "value": 11.04,
+          "timestamp": 1794096990,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Gabriel Lorenço",
+          "price": 0.65,
+          "value": 13,
+          "timestamp": 1794096982,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Gabriel Lorenço",
+          "price": 0.33,
+          "value": 43.758,
+          "timestamp": 1794096979,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Gabriel Lorenço",
+          "price": 0.2299999939,
+          "value": 4.159999999669563,
+          "timestamp": 1794096969,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "AHL: Toronto Marlies vs. Manitoba Moose",
+          "side": "BUY",
+          "outcome": "Manitoba Moose",
+          "price": 0.01,
+          "value": 0.32420000000000004,
+          "timestamp": 1794096963,
+          "slug": "ahl-tor-man-2026-11-08",
+          "event_slug": "ahl-tor-man-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Gabriel Lorenço",
+          "price": 0.32,
+          "value": 5.76,
+          "timestamp": 1794096927,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "UFC Fight Night: Thomas Petersen vs. Gabriel Lorenço (Heavyweight, Prelims)",
+          "side": "BUY",
+          "outcome": "Gabriel Lorenço",
+          "price": 0.32,
+          "value": 12.8,
+          "timestamp": 1794096925,
+          "slug": "ufc-tho4-gablou-2026-11-07",
+          "event_slug": "ufc-tho4-gablou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Troy Team Total: O/U 23.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.6,
+          "value": 31.2,
+          "timestamp": 1794096900,
+          "slug": "cfb-loutch-troy-2026-11-07-team-total-troy-23pt5",
+          "event_slug": "cfb-loutch-troy-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Jacksonville State (-16.5)",
+          "side": "BUY",
+          "outcome": "Sam Houston",
+          "price": 0.4,
+          "value": 0.268,
+          "timestamp": 1794096877,
+          "slug": "cfb-smho-jaxst-2026-11-07-spread-home-16pt5",
+          "event_slug": "cfb-smho-jaxst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs",
+          "side": "BUY",
+          "outcome": "Gen.G",
+          "price": 0.918,
+          "value": 114.75,
+          "timestamp": 1794096850,
+          "slug": "lol-ig1-gen-2026-11-07",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rangers (-2.5)",
+          "side": "BUY",
+          "outcome": "Rangers",
+          "price": 0.54,
+          "value": 52.92,
+          "timestamp": 1794096846,
+          "slug": "nhl-nyr-sea-2026-11-07-spread-away-2pt5",
+          "event_slug": "nhl-nyr-sea-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-7.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.39,
+          "value": 2.34,
+          "timestamp": 1794096844,
+          "slug": "nba-den-ind-2026-11-07-spread-away-7pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oregon vs. Ohio State: O/U 61.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.663909,
+          "value": 66.3909,
+          "timestamp": 1794096810,
+          "slug": "cfb-ore-ohiost-2026-11-07-total-61pt5",
+          "event_slug": "cfb-ore-ohiost-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oregon vs. Ohio State: O/U 61.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.7,
+          "value": 70,
+          "timestamp": 1794096807,
+          "slug": "cfb-ore-ohiost-2026-11-07-total-61pt5",
+          "event_slug": "cfb-ore-ohiost-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Atlas FC vs. CF Pachuca: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.02,
+          "value": 1.26,
+          "timestamp": 1794096781,
+          "slug": "mex-atl-pac-2026-11-07-total-2pt5",
+          "event_slug": "mex-atl-pac-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Atlas FC vs. CF Pachuca: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.0145823389,
+          "value": 6.1099999991,
+          "timestamp": 1794096780,
+          "slug": "mex-atl-pac-2026-11-07-total-2pt5",
+          "event_slug": "mex-atl-pac-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Los Angeles FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.18,
+          "value": 1.2456,
+          "timestamp": 1794096765,
+          "slug": "mls-sea-laf-2026-11-07-laf",
+          "event_slug": "mls-sea-laf-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "W75 Brisbane: Yujia Huang vs Sara Mickoska",
+          "side": "BUY",
+          "outcome": "Sara Mickoska",
+          "price": 0.05,
+          "value": 1.4900000000000002,
+          "timestamp": 1794096745,
+          "slug": "itf-huang2-mickos1-2026-11-08",
+          "event_slug": "itf-huang2-mickos1-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Cincinnati vs. Houston: O/U 63.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.07,
+          "value": 27.790000000000003,
+          "timestamp": 1794096744,
+          "slug": "cfb-cin-hou-2026-11-07-total-63pt5",
+          "event_slug": "cfb-cin-hou-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Atlas FC vs. CF Pachuca: Both Teams to Score",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.03,
+          "value": 1.3499999999999999,
+          "timestamp": 1794096655,
+          "slug": "mex-atl-pac-2026-11-07-btts",
+          "event_slug": "mex-atl-pac-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Atlas FC vs. CF Pachuca: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.01,
+          "value": 1.62,
+          "timestamp": 1794096637,
+          "slug": "mex-atl-pac-2026-11-07-total-2pt5",
+          "event_slug": "mex-atl-pac-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "England Lions Tour of West Indies Unofficial ODIs: West Indies A vs England Lion",
+          "side": "BUY",
+          "outcome": "West Indies A",
+          "price": 0.2699999982,
+          "value": 38.080000006133325,
+          "timestamp": 1794096615,
+          "slug": "crint-wsta-gbra-2026-11-07",
+          "event_slug": "crint-wsta-gbra-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rangers vs. Kraken",
+          "side": "BUY",
+          "outcome": "Kraken",
+          "price": 0.03,
+          "value": 2.9699999999999998,
+          "timestamp": 1794096570,
+          "slug": "nhl-nyr-sea-2026-11-07",
+          "event_slug": "nhl-nyr-sea-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rangers vs. Kraken",
+          "side": "BUY",
+          "outcome": "Rangers",
+          "price": 0.9719999997,
+          "value": 14.609992999490741,
+          "timestamp": 1794096562,
+          "slug": "nhl-nyr-sea-2026-11-07",
+          "event_slug": "nhl-nyr-sea-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rangers vs. Kraken",
+          "side": "BUY",
+          "outcome": "Rangers",
+          "price": 0.972,
+          "value": 33.57288,
+          "timestamp": 1794096562,
+          "slug": "nhl-nyr-sea-2026-11-07",
+          "event_slug": "nhl-nyr-sea-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rangers vs. Kraken",
+          "side": "BUY",
+          "outcome": "Rangers",
+          "price": 0.972,
+          "value": 0.65124,
+          "timestamp": 1794096561,
+          "slug": "nhl-nyr-sea-2026-11-07",
+          "event_slug": "nhl-nyr-sea-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: North Texas (-33.5)",
+          "side": "BUY",
+          "outcome": "Rice",
+          "price": 0.92,
+          "value": 323.84000000000003,
+          "timestamp": 1794096535,
+          "slug": "cfb-rice-ntx-2026-11-07-spread-home-33pt5",
+          "event_slug": "cfb-rice-ntx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: North Texas (-10.5)",
+          "side": "BUY",
+          "outcome": "Rice",
+          "price": 0.03,
+          "value": 1.71,
+          "timestamp": 1794096535,
+          "slug": "cfb-rice-ntx-2026-11-07-spread-home-10pt5",
+          "event_slug": "cfb-rice-ntx-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
           "side": "BUY",
@@ -5951,479 +6446,6 @@
           "slug": "ufc-kar5-gab5-2026-11-07",
           "event_slug": "ufc-kar5-gab5-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
-          "side": "BUY",
-          "outcome": "Karine Silva",
-          "price": 0.35,
-          "value": 87.871,
-          "timestamp": 1794095982,
-          "slug": "ufc-kar5-gab5-2026-11-07",
-          "event_slug": "ufc-kar5-gab5-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
-          "side": "BUY",
-          "outcome": "Karine Silva",
-          "price": 0.34,
-          "value": 6.12,
-          "timestamp": 1794095944,
-          "slug": "ufc-kar5-gab5-2026-11-07",
-          "event_slug": "ufc-kar5-gab5-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.21,
-          "timestamp": 1794095908,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.43,
-          "timestamp": 1794095899,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.1,
-          "timestamp": 1794095889,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.1,
-          "timestamp": 1794095884,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.1,
-          "timestamp": 1794095866,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.1,
-          "timestamp": 1794095866,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
-          "side": "BUY",
-          "outcome": "Gabriella Fernandes",
-          "price": 0.68,
-          "value": 88.4,
-          "timestamp": 1794095815,
-          "slug": "ufc-kar5-gab5-2026-11-07",
-          "event_slug": "ufc-kar5-gab5-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.01,
-          "value": 1.1,
-          "timestamp": 1794095814,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rutgers vs. Wisconsin: O/U 55.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.03,
-          "value": 1.29,
-          "timestamp": 1794095797,
-          "slug": "cfb-rutger-wisc-2026-11-07-total-55pt5",
-          "event_slug": "cfb-rutger-wisc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
-          "side": "BUY",
-          "outcome": "Gabriella Fernandes",
-          "price": 0.67,
-          "value": 133.3903,
-          "timestamp": 1794095761,
-          "slug": "ufc-kar5-gab5-2026-11-07",
-          "event_slug": "ufc-kar5-gab5-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UCF vs. Kansas: O/U 59.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.05,
-          "value": 5.4,
-          "timestamp": 1794095724,
-          "slug": "cfb-ucf-kan-2026-11-07-total-59pt5",
-          "event_slug": "cfb-ucf-kan-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.06,
-          "value": 51.9096,
-          "timestamp": 1794095709,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Northern Illinois Team Total: O/U 23.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.06,
-          "value": 3.5999999999999996,
-          "timestamp": 1794095695,
-          "slug": "cfb-nill-sjst-2026-11-07-team-total-nill-23pt5",
-          "event_slug": "cfb-nill-sjst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
-          "side": "BUY",
-          "outcome": "Karine Silva",
-          "price": 0.5944443237,
-          "value": 347.3999990133562,
-          "timestamp": 1794095685,
-          "slug": "ufc-kar5-gab5-2026-11-07",
-          "event_slug": "ufc-kar5-gab5-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 206.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.04,
-          "value": 3.91,
-          "timestamp": 1794095581,
-          "slug": "nba-den-ind-2026-11-07-total-206pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 210.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.07,
-          "value": 7.000000000000001,
-          "timestamp": 1794095581,
-          "slug": "nba-den-ind-2026-11-07-total-210pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 200.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.04,
-          "value": 3.91,
-          "timestamp": 1794095577,
-          "slug": "nba-den-ind-2026-11-07-total-200pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.85,
-          "value": 72.25,
-          "timestamp": 1794095509,
-          "slug": "col1-atn-dep-2026-11-07-draw",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Penn State vs. Washington",
-          "side": "BUY",
-          "outcome": "Penn State",
-          "price": 0.8389999832,
-          "value": 4.199996999899939,
-          "timestamp": 1794095487,
-          "slug": "cfb-pennst-wash-2026-11-07",
-          "event_slug": "cfb-pennst-wash-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Edmonton Elks vs. British Columbia Lions",
-          "side": "BUY",
-          "outcome": "British Columbia Lions",
-          "price": 0.4102325276,
-          "value": 2.099999999945725,
-          "timestamp": 1794095442,
-          "slug": "cfl-edm-bc-2026-11-07",
-          "event_slug": "cfl-edm-bc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Edmonton Elks vs. British Columbia Lions",
-          "side": "BUY",
-          "outcome": "British Columbia Lions",
-          "price": 0.41,
-          "value": 2.05,
-          "timestamp": 1794095439,
-          "slug": "cfl-edm-bc-2026-11-07",
-          "event_slug": "cfl-edm-bc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Washington State Cougars vs. High Point Panthers",
-          "side": "BUY",
-          "outcome": "Washington State Cougars",
-          "price": 0.05,
-          "value": 1.2400000000000002,
-          "timestamp": 1794095424,
-          "slug": "cbb-washst-hpnt-2026-11-07",
-          "event_slug": "cbb-washst-hpnt-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Washington State Cougars vs. High Point Panthers",
-          "side": "BUY",
-          "outcome": "Washington State Cougars",
-          "price": 0.05,
-          "value": 1.2400000000000002,
-          "timestamp": 1794095418,
-          "slug": "cbb-washst-hpnt-2026-11-07",
-          "event_slug": "cbb-washst-hpnt-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Vanderbilt Team Total: O/U 20.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.08,
-          "value": 4.78,
-          "timestamp": 1794095412,
-          "slug": "cfb-vand-mspst-2026-11-07-team-total-vand-20pt5",
-          "event_slug": "cfb-vand-mspst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 240.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.95,
-          "value": 66.5,
-          "timestamp": 1794095412,
-          "slug": "nba-den-ind-2026-11-07-total-240pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Vanderbilt Team Total: O/U 20.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.08,
-          "value": 4.78,
-          "timestamp": 1794095410,
-          "slug": "cfb-vand-mspst-2026-11-07-team-total-vand-20pt5",
-          "event_slug": "cfb-vand-mspst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-6.5)",
-          "side": "SELL",
-          "outcome": "Pacers",
-          "price": 0.11,
-          "value": 2.2,
-          "timestamp": 1794095409,
-          "slug": "nba-den-ind-2026-11-07-spread-away-6pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-6.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.15,
-          "value": 13.799999999999999,
-          "timestamp": 1794095407,
-          "slug": "nba-den-ind-2026-11-07-spread-away-6pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 218.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.26,
-          "value": 16.38,
-          "timestamp": 1794095392,
-          "slug": "nba-den-ind-2026-11-07-total-218pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 218.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.25,
-          "value": 1.25,
-          "timestamp": 1794095392,
-          "slug": "nba-den-ind-2026-11-07-total-218pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 218.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.29,
-          "value": 20.88,
-          "timestamp": 1794095391,
-          "slug": "nba-den-ind-2026-11-07-total-218pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Karine Silva vs. Gabriella Fernandes (Women's Flyweight, Prelim",
-          "side": "BUY",
-          "outcome": "Karine Silva",
-          "price": 0.68,
-          "value": 92.48,
-          "timestamp": 1794095317,
-          "slug": "ufc-kar5-gab5-2026-11-07",
-          "event_slug": "ufc-kar5-gab5-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Atlas FC vs. CF Pachuca: 1st Half O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.01,
-          "value": 1.21,
-          "timestamp": 1794095304,
-          "slug": "mex-atl-pac-2026-11-07-first-half-total-2pt5",
-          "event_slug": "mex-atl-pac-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 236.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.9,
-          "value": 63.069993000000004,
-          "timestamp": 1794095293,
-          "slug": "nba-den-ind-2026-11-07-total-236pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Caracas FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.38,
-          "value": 15.96,
-          "timestamp": 1794095254,
-          "slug": "ven1-car-apc-2026-11-07-car",
-          "event_slug": "ven1-car-apc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.82,
-          "value": 45.5592,
-          "timestamp": 1794095239,
-          "slug": "col1-atn-dep-2026-11-07-draw",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Vila Nova FC vs. Criciúma EC: 1st Half O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.89,
-          "value": 0.5696,
-          "timestamp": 1794095239,
-          "slug": "bra2-vln-cri-2026-11-07-first-half-total-1pt5",
-          "event_slug": "bra2-vln-cri-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cuiabá EC vs. EC Juventude: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.8799999978,
-          "value": 32.0399999999,
-          "timestamp": 1794095211,
-          "slug": "bra2-cui-juv-2026-11-06-first-half-total-0pt5",
-          "event_slug": "bra2-cui-juv-2026-11-06-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "UT Martin Skyhawks vs. IU Indy Jaguars",
-          "side": "BUY",
-          "outcome": "UT Martin Skyhawks",
-          "price": 0.8699999993,
-          "value": 97.45999600158392,
-          "timestamp": 1794095193,
-          "slug": "cbb-tmrt-iupui-2026-11-07",
-          "event_slug": "cbb-tmrt-iupui-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "San Diego Toreros vs. California-San Diego Tritons (W)",
-          "side": "BUY",
-          "outcome": "California-San Diego Tritons",
-          "price": 0.55034482,
-          "value": 17.100000000147777,
-          "timestamp": 1794095178,
-          "slug": "cwbb-sd-ucsd-2026-11-07",
-          "event_slug": "cwbb-sd-ucsd-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Pacers",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.05,
-          "value": 23.46,
-          "timestamp": 1794095178,
-          "slug": "nba-den-ind-2026-11-07",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -6434,12 +6456,23 @@
       "stats48h": {
         "wins": 12,
         "losses": 1,
-        "totalTrades": 19,
+        "totalTrades": 20,
         "winRate": 0.9230769230769231,
-        "volume": 87381.745150374,
+        "volume": 92990.68095120469,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+          "side": "SELL",
+          "outcome": "Gen.G",
+          "price": 0.3320364564,
+          "value": 5608.935800830692,
+          "timestamp": 1794096898,
+          "slug": "lol-ig1-gen-2026-11-07-game3",
+          "event_slug": "lol-ig1-gen-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
           "side": "BUY",
@@ -8909,5 +8942,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T00:10:08.999Z"
+  "lastUpdate": "2026-11-08T00:21:09.750Z"
 }
