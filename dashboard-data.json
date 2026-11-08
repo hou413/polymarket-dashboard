@@ -1625,7 +1625,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 0,
-        "totalTrades": 57,
+        "totalTrades": 55,
         "winRate": 1,
         "volume": 15801.676499021141,
         "pnl": 0
@@ -7710,7 +7710,7 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 46,
+        "wins": 48,
         "losses": 0,
         "totalTrades": 62,
         "winRate": 1,
@@ -7749,7 +7749,7 @@
           "timestamp": 1794123720,
           "slug": "aus-ade-vic-2026-11-08-total-3pt5",
           "event_slug": "aus-ade-vic-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Adelaide United FC vs. Melbourne Victory FC: O/U 2.5",
@@ -7760,7 +7760,7 @@
           "timestamp": 1794123390,
           "slug": "aus-ade-vic-2026-11-08-total-2pt5",
           "event_slug": "aus-ade-vic-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Paris Saint-Germain FC vs. ES Troyes AC: O/U 0.5",
@@ -8752,5 +8752,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T10:13:18.306Z"
+  "lastUpdate": "2026-11-08T10:23:16.571Z"
 }
