@@ -386,14 +386,36 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 14,
-        "losses": 14,
+        "wins": 13,
+        "losses": 13,
         "totalTrades": 500,
         "winRate": 0.5,
-        "volume": 9020.58069998975,
+        "volume": 10989.98589986456,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Bengals (-5.5)",
+          "side": "BUY",
+          "outcome": "Bengals",
+          "price": 0.5030486829,
+          "value": 1484.255199870108,
+          "timestamp": 1794151270,
+          "slug": "nfl-cin-atl-2026-11-08-spread-away-5pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bengals (-9.5)",
+          "side": "BUY",
+          "outcome": "Bengals",
+          "price": 0.37,
+          "value": 754.43,
+          "timestamp": 1794151269,
+          "slug": "nfl-cin-atl-2026-11-08-spread-away-9pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Bengals vs. Falcons: O/U 58.5",
           "side": "BUY",
@@ -921,28 +943,6 @@
           "slug": "nba-sas-por-2026-11-07-spread-home-1pt5",
           "event_slug": "nba-sas-por-2026-11-07",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Trail Blazers (-1.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.22,
-          "value": 131.89000000000001,
-          "timestamp": 1794109896,
-          "slug": "nba-sas-por-2026-11-07-spread-home-1pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Rockets (-1.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.4446278317,
-          "value": 137.3899999953,
-          "timestamp": 1794109878,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-1pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -3718,10 +3718,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1877.0852000145442,
+        "volume": 1877.5068100145443,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Justin Herbert win the 2026 NFL MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.011,
+          "value": 1.4534299999999998,
+          "timestamp": 1794151453,
+          "slug": "will-justin-herbert-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Ahmad Vahidi be head of state in Iran end of 2026?",
           "side": "SELL",
@@ -4259,17 +4270,6 @@
           "timestamp": 1794133762,
           "slug": "f1-brazilian-grand-prix-winner-hulkenberg-2026-11-08",
           "event_slug": "f1-brazilian-grand-prix-winner-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Segundo Valdez Zavala win the next Lima mayoral elections?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 1.03182,
-          "timestamp": 1794132471,
-          "slug": "will-segundo-valdez-zavala-win-the-next-lima-mayoral-elections-20260724154000919",
-          "event_slug": "lima-mayoral-election-winner-20260724153924694",
           "result": "ongoing"
         }
       ]
@@ -5312,7 +5312,7 @@
       "stats48h": {
         "wins": 42,
         "losses": 3,
-        "totalTrades": 66,
+        "totalTrades": 64,
         "winRate": 0.9333333333333333,
         "volume": 126131.44043048154,
         "pnl": 0
@@ -5876,13 +5876,24 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 21,
-        "losses": 23,
+        "losses": 22,
         "totalTrades": 500,
-        "winRate": 0.4772727272727273,
-        "volume": 5230.878250001199,
+        "winRate": 0.4883720930232558,
+        "volume": 9718.027150001204,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bengals vs. Falcons",
+          "side": "BUY",
+          "outcome": "Bengals",
+          "price": 0.79,
+          "value": 4531.4400000000005,
+          "timestamp": 1794151627,
+          "slug": "nfl-cin-atl-2026-11-08",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Bengals (-3.5)",
           "side": "BUY",
@@ -6421,17 +6432,6 @@
           "slug": "nba-sas-por-2026-11-07-spread-away-25pt5",
           "event_slug": "nba-sas-por-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Spurs vs. Trail Blazers: O/U 233.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.49,
-          "value": 44.2911,
-          "timestamp": 1794114789,
-          "slug": "nba-sas-por-2026-11-07-total-233pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -9027,5 +9027,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T15:23:04.162Z"
+  "lastUpdate": "2026-11-08T15:33:17.158Z"
 }
