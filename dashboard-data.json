@@ -3696,10 +3696,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9376.411760003028,
+        "volume": 9338.071420006027,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will no second mandate to form a government be given after the 2026 Israeli elec",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.55,
+          "value": 4.5815,
+          "timestamp": 1794137338,
+          "slug": "will-no-second-mandate-to-form-a-government-be-given-after-the-2026-israeli-election-20261105190000000",
+          "event_slug": "who-will-receive-the-second-mandate-to-form-israels-next-government-20261105190000000",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Naftali Bennett receive the second mandate to form a government after the 2",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 95.712,
+          "timestamp": 1794137338,
+          "slug": "will-naftali-bennett-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000",
+          "event_slug": "who-will-receive-the-second-mandate-to-form-israels-next-government-20261105190000000",
+          "result": "ongoing"
+        },
         {
           "title": "Will Houston Dynamo FC win the 2026 MLS Cup?",
           "side": "SELL",
@@ -4226,28 +4248,6 @@
           "timestamp": 1794120085,
           "slug": "tom-francis-announced-as-next-james-bond",
           "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jack Barton announced as next James Bond?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.983133617,
-          "value": 138.621839997,
-          "timestamp": 1794120085,
-          "slug": "jack-barton-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Maryam Rajavi be head of state in Iran end of 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.012,
-          "timestamp": 1794119134,
-          "slug": "will-maryam-rajavi-be-head-of-state-in-iran-end-of-2026",
-          "event_slug": "iran-leader-end-of-2026",
           "result": "ongoing"
         }
       ]
@@ -8851,5 +8851,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T11:26:35.413Z"
+  "lastUpdate": "2026-11-08T11:37:48.844Z"
 }
