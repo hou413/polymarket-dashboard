@@ -3354,10 +3354,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1031.2016299999993,
+        "volume": 1029.3141799999996,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Maryam Rajavi be head of state in Iran end of 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.012,
+          "timestamp": 1794119134,
+          "slug": "will-maryam-rajavi-be-head-of-state-in-iran-end-of-2026",
+          "event_slug": "iran-leader-end-of-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
           "side": "SELL",
@@ -3892,17 +3903,6 @@
           "outcome": "No",
           "price": 0.189,
           "value": 6.1273800000000005,
-          "timestamp": 1794098893,
-          "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-14-and-16-843",
-          "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Represe",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.189,
-          "value": 1.89945,
           "timestamp": 1794098893,
           "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-14-and-16-843",
           "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
@@ -5423,14 +5423,25 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 14,
+        "wins": 13,
         "losses": 18,
         "totalTrades": 500,
-        "winRate": 0.4375,
-        "volume": 4881.846539981843,
+        "winRate": 0.41935483870967744,
+        "volume": 5301.866540001243,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Texas State (-20.5)",
+          "side": "BUY",
+          "outcome": "Texas State",
+          "price": 0.6430790191,
+          "value": 472.02000001939996,
+          "timestamp": 1794119113,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-away-20pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Texas State vs. Oregon State",
           "side": "BUY",
@@ -5967,17 +5978,6 @@
           "value": 180,
           "timestamp": 1794114691,
           "slug": "nba-sas-por-2026-11-07-spread-away-19pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-23.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.26,
-          "value": 52,
-          "timestamp": 1794114646,
-          "slug": "nba-sas-por-2026-11-07-spread-away-23pt5",
           "event_slug": "nba-sas-por-2026-11-07",
           "result": "win"
         }
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T06:26:05.565Z"
+  "lastUpdate": "2026-11-08T06:35:54.559Z"
 }
