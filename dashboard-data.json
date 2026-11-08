@@ -7457,13 +7457,24 @@
       "specialty": "J1+J2",
       "stats48h": {
         "wins": 47,
-        "losses": 1,
-        "totalTrades": 60,
-        "winRate": 0.9791666666666666,
-        "volume": 53371.45382,
+        "losses": 0,
+        "totalTrades": 61,
+        "winRate": 1,
+        "volume": 54272.85382,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Yunnan Yukun FC vs. Wuhan San Zhen FC: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.914,
+          "value": 1005.4000000000001,
+          "timestamp": 1794126166,
+          "slug": "chi-yun-wsz-2026-11-08-total-1pt5",
+          "event_slug": "chi-yun-wsz-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Adelaide United FC vs. Melbourne Victory FC: O/U 3.5",
           "side": "BUY",
@@ -8002,17 +8013,6 @@
           "slug": "aze1-neb-kap-2026-11-06-total-0pt5",
           "event_slug": "aze1-neb-kap-2026-11-06-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Luca Van Assche vs Rinky Hijikata",
-          "side": "BUY",
-          "outcome": "Rinky Hijikata",
-          "price": 0.26,
-          "value": 104,
-          "timestamp": 1793984049,
-          "slug": "atp-assche-hijikat-2026-11-06",
-          "event_slug": "atp-assche-hijikat-2026-11-06",
-          "result": "loss"
         }
       ]
     },
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T08:19:25.481Z"
+  "lastUpdate": "2026-11-08T08:29:20.297Z"
 }
