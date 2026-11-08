@@ -1935,13 +1935,24 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 14,
-        "losses": 36,
-        "totalTrades": 185,
-        "winRate": 0.28,
-        "volume": 1201035.0429959765,
+        "losses": 35,
+        "totalTrades": 186,
+        "winRate": 0.2857142857142857,
+        "volume": 1235150.2304964797,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs",
+          "side": "BUY",
+          "outcome": "MOUZ",
+          "price": 0.8,
+          "value": 38577.752,
+          "timestamp": 1794121903,
+          "slug": "cs2-mglz-mouz-2026-11-08",
+          "event_slug": "cs2-mglz-mouz-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
           "side": "BUY",
@@ -2477,17 +2488,6 @@
           "price": 0.37,
           "value": 12770.771999999999,
           "timestamp": 1794013972,
-          "slug": "lol-kc-t1-2026-11-04-game4",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.3761763084,
-          "value": 4462.564499496863,
-          "timestamp": 1794013950,
           "slug": "lol-kc-t1-2026-11-04-game4",
           "event_slug": "lol-kc-t1-2026-11-04",
           "result": "loss"
@@ -3354,10 +3354,120 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1605.207739998141,
+        "volume": 2429.970090003941,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Zelenskyy and Putin meet next in Kazakhstan before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.14200000000000002,
+          "timestamp": 1794121612,
+          "slug": "will-zelenskyy-and-putin-meet-next-in-kazakhstan-485-344",
+          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zelenskyy and Putin meet next in Saudi Arabia before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.14200000000000002,
+          "timestamp": 1794121612,
+          "slug": "will-zelenskyy-and-putin-meet-next-in-saudi-arabia",
+          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zelenskyy and Putin meet next in Italy / Vatican before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.14200000000000002,
+          "timestamp": 1794121612,
+          "slug": "will-zelenskyy-and-putin-meet-next-in-italy-vatican",
+          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zelenskyy and Putin meet next in Turkey before 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 141.574,
+          "timestamp": 1794121344,
+          "slug": "will-zelenskyy-and-putin-meet-next-in-turkey",
+          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zelenskyy and Putin meet next in Qatar / UAE before 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 141.29,
+          "timestamp": 1794121344,
+          "slug": "will-zelenskyy-and-putin-meet-next-in-qatar-uae",
+          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zelenskyy and Putin meet next in Switzerland before 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9986380986,
+          "value": 141.8066100012,
+          "timestamp": 1794121344,
+          "slug": "will-zelenskyy-and-putin-meet-next-in-switzerland-848-193",
+          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zelenskyy  and Putin meet next in Belarus before 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 141.716,
+          "timestamp": 1794121344,
+          "slug": "will-zelenskyy-and-putin-meet-next-in-belarus",
+          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zelenskyy and Putin not meet before 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.0532052113,
+          "value": 7.5551400046,
+          "timestamp": 1794121344,
+          "slug": "will-zelenskyy-and-putin-not-meet",
+          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zelenskyy and Putin meet next in Russia before 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 141.574,
+          "timestamp": 1794121344,
+          "slug": "will-zelenskyy-and-putin-meet-next-in-russia",
+          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zelenskyy and Putin meet next in China before 2027?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.996,
+          "value": 141.432,
+          "timestamp": 1794121344,
+          "slug": "will-zelenskyy-and-putin-meet-next-in-china",
+          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "result": "ongoing"
+        },
         {
           "title": "Aaron Taylor-Johnson announced as next James Bond?",
           "side": "SELL",
@@ -3796,116 +3906,6 @@
           "timestamp": 1794107077,
           "slug": "will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026",
           "event_slug": "iran-leader-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Abbas Araghchi be head of state in Iran end of 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 11.975999999999999,
-          "timestamp": 1794107077,
-          "slug": "will-abbas-araghchi-be-head-of-state-in-iran-end-of-2026",
-          "event_slug": "iran-leader-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Hassan Rouhani be head of state in Iran end of 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 11.964,
-          "timestamp": 1794107077,
-          "slug": "will-hassan-rouhani-be-head-of-state-in-iran-end-of-2026",
-          "event_slug": "iran-leader-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jacob Elordi announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.05693,
-          "timestamp": 1794106989,
-          "slug": "jacob-elordi-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Trump and Putin meet next in a Gulf country?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.043000000000000003,
-          "timestamp": 1794102270,
-          "slug": "will-trump-and-putin-meet-next-in-a-gulf-country",
-          "event_slug": "where-will-trump-and-putin-meet-next-678",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Trump and Putin meet next in Russia?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.06331,
-          "timestamp": 1794102270,
-          "slug": "will-trump-and-putin-meet-next-in-russia-991",
-          "event_slug": "where-will-trump-and-putin-meet-next-678",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will New England Revolution win the 2026 MLS Cup?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.043,
-          "value": 2.1921399999999998,
-          "timestamp": 1794101332,
-          "slug": "will-new-england-revolution-win-the-2026-mls-cup",
-          "event_slug": "mls-cup-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chicago Fire FC win the 2026 MLS Cup?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.043,
-          "value": 2.63203,
-          "timestamp": 1794101332,
-          "slug": "will-chicago-fire-fc-win-the-2026-mls-cup",
-          "event_slug": "mls-cup-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Charlotte FC win the 2026 MLS Cup?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.02,
-          "value": 3.2876,
-          "timestamp": 1794101332,
-          "slug": "will-charlotte-fc-win-the-2026-mls-cup",
-          "event_slug": "mls-cup-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Bo Nix win the 2026 NFL MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.26426,
-          "timestamp": 1794100011,
-          "slug": "will-bo-nix-win-the-2026-nfl-mvp",
-          "event_slug": "pro-football-2026-mvp-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Jaxson Dart win the 2026 NFL MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.13213,
-          "timestamp": 1794100011,
-          "slug": "will-jaxson-dart-win-the-2026-nfl-mvp",
-          "event_slug": "pro-football-2026-mvp-winner",
           "result": "ongoing"
         }
       ]
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T07:08:21.408Z"
+  "lastUpdate": "2026-11-08T07:18:06.163Z"
 }
