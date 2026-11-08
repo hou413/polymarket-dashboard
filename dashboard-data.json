@@ -3173,12 +3173,23 @@
       "stats48h": {
         "wins": 22,
         "losses": 17,
-        "totalTrades": 47,
+        "totalTrades": 48,
         "winRate": 0.5641025641025641,
-        "volume": 862228.0200205733,
+        "volume": 864428.0640205733,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Chelsea FC win on 2026-11-08?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.44,
+          "value": 2200.0440000000003,
+          "timestamp": 1794147106,
+          "slug": "epl-sun-che-2026-11-08-che",
+          "event_slug": "epl-sun-che-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz",
           "side": "BUY",
@@ -3707,10 +3718,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9128.836020011775,
+        "volume": 9112.132650011774,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 115-139 tweets from November 7 to November 9, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.009,
+          "value": 0.9591299999999998,
+          "timestamp": 1794147124,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-115-139",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 140-164 tweets from November 7 to November 9, 2026?",
           "side": "SELL",
@@ -4247,17 +4269,6 @@
           "value": 22.608,
           "timestamp": 1794131416,
           "slug": "will-thailand-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Philippines win Eurovision Asia 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.75,
-          "value": 17.6625,
-          "timestamp": 1794131416,
-          "slug": "will-philippines-win-eurovision-asia-2026",
           "event_slug": "eurovision-asia-winner-2026",
           "result": "ongoing"
         }
@@ -5268,7 +5279,7 @@
       "stats48h": {
         "wins": 42,
         "losses": 3,
-        "totalTrades": 68,
+        "totalTrades": 66,
         "winRate": 0.9333333333333333,
         "volume": 126131.44043048154,
         "pnl": 0
@@ -8961,5 +8972,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T14:15:10.608Z"
+  "lastUpdate": "2026-11-08T14:25:57.078Z"
 }
