@@ -953,7 +953,7 @@
       "stats48h": {
         "wins": 21,
         "losses": 26,
-        "totalTrades": 62,
+        "totalTrades": 60,
         "winRate": 0.44680851063829785,
         "volume": 118295.95430027452,
         "pnl": 0
@@ -3696,10 +3696,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 8625.184880004885,
+        "volume": 8627.125860004884,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 380-399 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.005,
+          "value": 0.505,
+          "timestamp": 1794142729,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-380-399",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Tom Francis announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.012,
+          "value": 1.51428,
+          "timestamp": 1794142473,
+          "slug": "tom-francis-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
         {
           "title": "Will Mansfield Town FC win on 2026-11-14?",
           "side": "BUY",
@@ -4225,28 +4247,6 @@
           "value": 0.10183,
           "timestamp": 1794120585,
           "slug": "jacob-elordi-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Joe Alwyn announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.03915,
-          "timestamp": 1794120466,
-          "slug": "placeholder-8-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Richard Madden announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.03915,
-          "timestamp": 1794120465,
-          "slug": "richard-madden-announced-as-next-james-bond",
           "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
         }
@@ -4824,12 +4824,23 @@
       "stats48h": {
         "wins": 23,
         "losses": 10,
-        "totalTrades": 36,
+        "totalTrades": 37,
         "winRate": 0.696969696969697,
-        "volume": 63879.95719975732,
+        "volume": 65047.20919975733,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "SC Heerenveen vs. Feyenoord Rotterdam: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.389084,
+          "value": 1167.252,
+          "timestamp": 1794142794,
+          "slug": "ere-her1-fey-2026-11-08-total-6pt5",
+          "event_slug": "ere-her1-fey-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "SSC Napoli vs. SS Lazio: O/U 2.5",
           "side": "BUY",
@@ -6714,7 +6725,7 @@
       "stats48h": {
         "wins": 6,
         "losses": 7,
-        "totalTrades": 188,
+        "totalTrades": 186,
         "winRate": 0.46153846153846156,
         "volume": 80856.05637534185,
         "pnl": 0
@@ -7842,14 +7853,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 43,
+        "wins": 42,
         "losses": 0,
-        "totalTrades": 67,
+        "totalTrades": 68,
         "winRate": 1,
-        "volume": 49810.95548999999,
+        "volume": 50282.74323,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Yunnan Yukun FC vs. Wuhan San Zhen FC: O/U 1.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.999,
+          "value": 1098.9,
+          "timestamp": 1794143130,
+          "slug": "chi-yun-wsz-2026-11-08-total-1pt5",
+          "event_slug": "chi-yun-wsz-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "SC Heerenveen vs. Feyenoord Rotterdam: O/U 6.5",
           "side": "BUY",
@@ -8388,17 +8410,6 @@
           "slug": "jap-yom-fag-2026-11-07-total-1pt5",
           "event_slug": "jap-yom-fag-2026-11-07-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Everton FC vs. Coventry City FC: O/U 1.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 627.11226,
-          "timestamp": 1794000420,
-          "slug": "epl-eve-cov-2026-11-06-total-1pt5",
-          "event_slug": "epl-eve-cov-2026-11-06-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -8895,5 +8906,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T12:59:52.641Z"
+  "lastUpdate": "2026-11-08T13:10:23.830Z"
 }
