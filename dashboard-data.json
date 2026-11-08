@@ -386,14 +386,102 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 16,
-        "losses": 21,
+        "wins": 15,
+        "losses": 14,
         "totalTrades": 500,
-        "winRate": 0.43243243243243246,
-        "volume": 9190.631899989752,
+        "winRate": 0.5172413793103449,
+        "volume": 9168.58069998975,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bengals vs. Falcons: O/U 52.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.21,
+          "value": 101.74499999999999,
+          "timestamp": 1794150255,
+          "slug": "nfl-cin-atl-2026-11-08-total-52pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 52.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.21,
+          "value": 577.395,
+          "timestamp": 1794150255,
+          "slug": "nfl-cin-atl-2026-11-08-total-52pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 56.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.29,
+          "value": 5.138799999999999,
+          "timestamp": 1794150126,
+          "slug": "nfl-cin-atl-2026-11-08-total-56pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 62.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.48,
+          "value": 9.6,
+          "timestamp": 1794150112,
+          "slug": "nfl-cin-atl-2026-11-08-total-62pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bengals (-4.5)",
+          "side": "BUY",
+          "outcome": "Bengals",
+          "price": 0.38,
+          "value": 14.82,
+          "timestamp": 1794150100,
+          "slug": "nfl-cin-atl-2026-11-08-spread-away-4pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bengals (-5.5)",
+          "side": "BUY",
+          "outcome": "Bengals",
+          "price": 0.35,
+          "value": 7,
+          "timestamp": 1794150046,
+          "slug": "nfl-cin-atl-2026-11-08-spread-away-5pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 54.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.19,
+          "value": 7.6,
+          "timestamp": 1794149883,
+          "slug": "nfl-cin-atl-2026-11-08-total-54pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 52.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.19,
+          "value": 189.905,
+          "timestamp": 1794149745,
+          "slug": "nfl-cin-atl-2026-11-08-total-52pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Bengals vs. Falcons: O/U 58.5",
           "side": "BUY",
@@ -855,94 +943,6 @@
           "slug": "nba-hou-phx-2026-11-07-spread-away-3pt5",
           "event_slug": "nba-hou-phx-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Spread: Suns (-7.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.15,
-          "value": 37.949999999999996,
-          "timestamp": 1794109662,
-          "slug": "nba-hou-phx-2026-11-07-spread-home-7pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Rockets (-7.5)",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.31,
-          "value": 232.345,
-          "timestamp": 1794109588,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-7pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Rockets (-6.5)",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.33,
-          "value": 84.48,
-          "timestamp": 1794109569,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-6pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 215.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.54,
-          "value": 215.73000000000002,
-          "timestamp": 1794109513,
-          "slug": "nba-orl-gsw-2026-11-07-total-215pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 215.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.54,
-          "value": 215.73000000000002,
-          "timestamp": 1794109513,
-          "slug": "nba-orl-gsw-2026-11-07-total-215pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Suns (-7.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.12,
-          "value": 24,
-          "timestamp": 1794109491,
-          "slug": "nba-hou-phx-2026-11-07-spread-home-7pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Rockets (-6.5)",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.35,
-          "value": 70,
-          "timestamp": 1794109363,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-6pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-19.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.21,
-          "value": 55.019999999999996,
-          "timestamp": 1794108889,
-          "slug": "nba-sas-por-2026-11-07-spread-away-19pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -953,7 +953,7 @@
       "stats48h": {
         "wins": 21,
         "losses": 26,
-        "totalTrades": 59,
+        "totalTrades": 58,
         "winRate": 0.44680851063829785,
         "volume": 118295.95430027452,
         "pnl": 0
@@ -3718,10 +3718,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1875.4138500145439,
+        "volume": 1878.105030014544,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 65-89 tweets from November 7 to November 9, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.51,
+          "value": 3.723,
+          "timestamp": 1794150246,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-65-89",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 320-339 tweets from November 3 to November 10, 2026?",
           "side": "SELL",
@@ -4258,17 +4269,6 @@
           "value": 1.03183,
           "timestamp": 1794132471,
           "slug": "will-flor-de-maria-hurtado-valdez-win-the-next-lima-mayoral-elections-20260724154000915",
-          "event_slug": "lima-mayoral-election-winner-20260724153924694",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sandro Caller Gutiérrez win the next Lima mayoral elections?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 1.03182,
-          "timestamp": 1794132468,
-          "slug": "will-sandro-caller-gutierrez-win-the-next-lima-mayoral-elections-20260724154000908",
           "event_slug": "lima-mayoral-election-winner-20260724153924694",
           "result": "ongoing"
         }
@@ -7919,7 +7919,7 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 45,
+        "wins": 46,
         "losses": 0,
         "totalTrades": 70,
         "winRate": 1,
@@ -8002,7 +8002,7 @@
           "timestamp": 1794136960,
           "slug": "den-kob-bro-2026-11-08-total-0pt5",
           "event_slug": "den-kob-bro-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Çaykur Rizespor vs. Erzurumspor FK: O/U 2.5",
@@ -8486,12 +8486,23 @@
       "stats48h": {
         "wins": 17,
         "losses": 21,
-        "totalTrades": 41,
+        "totalTrades": 42,
         "winRate": 0.4473684210526316,
-        "volume": 174171.54770929483,
+        "volume": 178395.54770929483,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Crystal Palace FC vs. Liverpool FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.88,
+          "value": 4224,
+          "timestamp": 1794150171,
+          "slug": "epl-cry-liv-2026-11-08-total-4pt5",
+          "event_slug": "epl-cry-liv-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Halmstads BK vs. Djurgardens IF: O/U 4.5",
           "side": "SELL",
@@ -9016,5 +9027,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T14:58:47.009Z"
+  "lastUpdate": "2026-11-08T15:12:31.587Z"
 }
