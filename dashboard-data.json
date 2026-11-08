@@ -34,9 +34,9 @@
       "specialty": "NBA+NFL",
       "stats48h": {
         "wins": 14,
-        "losses": 17,
+        "losses": 25,
         "totalTrades": 500,
-        "winRate": 0.45161290322580644,
+        "winRate": 0.358974358974359,
         "volume": 8638.01579999775,
         "pnl": 0
       },
@@ -105,7 +105,7 @@
           "timestamp": 1794113071,
           "slug": "nba-sas-por-2026-11-07-total-223pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spurs vs. Trail Blazers: O/U 223.5",
@@ -116,7 +116,7 @@
           "timestamp": 1794111051,
           "slug": "nba-sas-por-2026-11-07-total-223pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-7.5)",
@@ -204,7 +204,7 @@
           "timestamp": 1794110988,
           "slug": "nba-sas-por-2026-11-07-total-224pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spurs vs. Trail Blazers: O/U 225.5",
@@ -215,7 +215,7 @@
           "timestamp": 1794110943,
           "slug": "nba-sas-por-2026-11-07-total-225pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spurs vs. Trail Blazers: O/U 225.5",
@@ -226,7 +226,7 @@
           "timestamp": 1794110943,
           "slug": "nba-sas-por-2026-11-07-total-225pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-17.5)",
@@ -281,7 +281,7 @@
           "timestamp": 1794110728,
           "slug": "nba-sas-por-2026-11-07-total-211pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spurs vs. Trail Blazers: O/U 211.5",
@@ -292,7 +292,7 @@
           "timestamp": 1794110728,
           "slug": "nba-sas-por-2026-11-07-total-211pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Magic (-1.5)",
@@ -314,7 +314,7 @@
           "timestamp": 1794110554,
           "slug": "nba-sas-por-2026-11-07-total-219pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Trail Blazers (-1.5)",
@@ -5427,10 +5427,65 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 5739.492340013038,
+        "volume": 5553.112340013039,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Texas State vs. Oregon State",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.26,
+          "value": 0.26,
+          "timestamp": 1794117249,
+          "slug": "cfb-txst-oregst-2026-11-07",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas State vs. Oregon State",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.26,
+          "value": 2.34,
+          "timestamp": 1794117244,
+          "slug": "cfb-txst-oregst-2026-11-07",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas State vs. Oregon State",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.17,
+          "value": 0.8500000000000001,
+          "timestamp": 1794117066,
+          "slug": "cfb-txst-oregst-2026-11-07",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas State vs. Oregon State",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.16,
+          "value": 2.4,
+          "timestamp": 1794116892,
+          "slug": "cfb-txst-oregst-2026-11-07",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas State (-10.5)",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.51,
+          "value": 2.55,
+          "timestamp": 1794116892,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-away-10pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Texas State vs. Oregon State",
           "side": "BUY",
@@ -5923,61 +5978,6 @@
           "value": 541.1400000528,
           "timestamp": 1794114184,
           "slug": "nba-sas-por-2026-11-07-total-233pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Fresno State vs. Utah State",
-          "side": "BUY",
-          "outcome": "Fresno State",
-          "price": 0.1,
-          "value": 76.3,
-          "timestamp": 1794114168,
-          "slug": "cfb-frest-utahst-2026-11-07",
-          "event_slug": "cfb-frest-utahst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-17.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.1,
-          "value": 20,
-          "timestamp": 1794114052,
-          "slug": "nba-sas-por-2026-11-07-spread-away-17pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-27.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.44,
-          "value": 88,
-          "timestamp": 1794114052,
-          "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Fresno State vs. Utah State",
-          "side": "BUY",
-          "outcome": "Fresno State",
-          "price": 0.1,
-          "value": 1.5,
-          "timestamp": 1794114016,
-          "slug": "cfb-frest-utahst-2026-11-07",
-          "event_slug": "cfb-frest-utahst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-29.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.449,
-          "value": 8.98,
-          "timestamp": 1794114015,
-          "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
           "event_slug": "nba-sas-por-2026-11-07",
           "result": "ongoing"
         }
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T05:47:13.733Z"
+  "lastUpdate": "2026-11-08T05:57:00.528Z"
 }
