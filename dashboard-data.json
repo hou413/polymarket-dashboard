@@ -386,14 +386,102 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 13,
-        "losses": 13,
+        "wins": 11,
+        "losses": 7,
         "totalTrades": 500,
-        "winRate": 0.5,
-        "volume": 10989.98589986456,
+        "winRate": 0.6111111111111112,
+        "volume": 15594.99779986456,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bengals vs. Falcons: O/U 60.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.45,
+          "value": 15.493500000000001,
+          "timestamp": 1794152238,
+          "slug": "nfl-cin-atl-2026-11-08-total-60pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 60.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.43,
+          "value": 686.194,
+          "timestamp": 1794152133,
+          "slug": "nfl-cin-atl-2026-11-08-total-60pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 60.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.43,
+          "value": 1719.785,
+          "timestamp": 1794152133,
+          "slug": "nfl-cin-atl-2026-11-08-total-60pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 62.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 762.95,
+          "timestamp": 1794152130,
+          "slug": "nfl-cin-atl-2026-11-08-total-62pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 62.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 2024.75,
+          "timestamp": 1794152130,
+          "slug": "nfl-cin-atl-2026-11-08-total-62pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 46.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.06,
+          "value": 0.5994,
+          "timestamp": 1794152089,
+          "slug": "nfl-cin-atl-2026-11-08-total-46pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 60.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.46,
+          "value": 20.7,
+          "timestamp": 1794152059,
+          "slug": "nfl-cin-atl-2026-11-08-total-60pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 62.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 104,
+          "timestamp": 1794152044,
+          "slug": "nfl-cin-atl-2026-11-08-total-62pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Bengals (-5.5)",
           "side": "BUY",
@@ -855,94 +943,6 @@
           "slug": "nba-sas-por-2026-11-07-spread-away-17pt5",
           "event_slug": "nba-sas-por-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Spread: Suns (-7.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.13,
-          "value": 26,
-          "timestamp": 1794110842,
-          "slug": "nba-hou-phx-2026-11-07-spread-home-7pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Rockets (-2.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.64,
-          "value": 3.2,
-          "timestamp": 1794110838,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-2pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-5.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.68,
-          "value": 12.920000000000002,
-          "timestamp": 1794110791,
-          "slug": "nba-sas-por-2026-11-07-spread-away-5pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spurs vs. Trail Blazers: O/U 211.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.43,
-          "value": 43.214999999999996,
-          "timestamp": 1794110728,
-          "slug": "nba-sas-por-2026-11-07-total-211pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spurs vs. Trail Blazers: O/U 211.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.43,
-          "value": 386.78499999999997,
-          "timestamp": 1794110728,
-          "slug": "nba-sas-por-2026-11-07-total-211pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Magic (-1.5)",
-          "side": "BUY",
-          "outcome": "Magic",
-          "price": 0.31,
-          "value": 1.55,
-          "timestamp": 1794110643,
-          "slug": "nba-orl-gsw-2026-11-07-spread-away-1pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spurs vs. Trail Blazers: O/U 219.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.64,
-          "value": 167.68,
-          "timestamp": 1794110554,
-          "slug": "nba-sas-por-2026-11-07-total-219pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Trail Blazers (-1.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.22,
-          "value": 88.11,
-          "timestamp": 1794109897,
-          "slug": "nba-sas-por-2026-11-07-spread-home-1pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -5875,14 +5875,25 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 21,
+        "wins": 20,
         "losses": 22,
         "totalTrades": 500,
-        "winRate": 0.4883720930232558,
-        "volume": 9718.027150001204,
+        "winRate": 0.47619047619047616,
+        "volume": 11539.9971500012,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bengals vs. Falcons",
+          "side": "BUY",
+          "outcome": "Bengals",
+          "price": 0.79,
+          "value": 1823.3200000000002,
+          "timestamp": 1794151630,
+          "slug": "nfl-cin-atl-2026-11-08",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Bengals vs. Falcons",
           "side": "BUY",
@@ -6419,17 +6430,6 @@
           "value": 206.4429999753,
           "timestamp": 1794114814,
           "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-25.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.27,
-          "value": 1.35,
-          "timestamp": 1794114814,
-          "slug": "nba-sas-por-2026-11-07-spread-away-25pt5",
           "event_slug": "nba-sas-por-2026-11-07",
           "result": "win"
         }
@@ -9027,5 +9027,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T15:33:17.158Z"
+  "lastUpdate": "2026-11-08T15:43:31.245Z"
 }
