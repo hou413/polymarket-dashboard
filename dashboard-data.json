@@ -7809,14 +7809,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 48,
+        "wins": 47,
         "losses": 0,
-        "totalTrades": 62,
+        "totalTrades": 63,
         "winRate": 1,
-        "volume": 54112.033789999994,
+        "volume": 53010.15958,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Çaykur Rizespor vs. Erzurumspor FK: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.82,
+          "value": 96.91579999999999,
+          "timestamp": 1794136164,
+          "slug": "tur-riz-erz-2026-11-08-total-2pt5",
+          "event_slug": "tur-riz-erz-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "SSC Napoli vs. SS Lazio: O/U 7.5 Total Corners",
           "side": "BUY",
@@ -8355,17 +8366,6 @@
           "slug": "bun-hsv-moe-2026-11-06-total-2pt5",
           "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
           "result": "win"
-        },
-        {
-          "title": "NK Lokomotiva Zagreb vs. NK Rudeš: O/U 0.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 1198.79001,
-          "timestamp": 1793994633,
-          "slug": "hr1-lok-rud-2026-11-06-total-0pt5",
-          "event_slug": "hr1-lok-rud-2026-11-06-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -8851,5 +8851,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T11:05:46.381Z"
+  "lastUpdate": "2026-11-08T11:16:56.349Z"
 }
