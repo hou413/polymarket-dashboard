@@ -34,13 +34,35 @@
       "specialty": "NBA+NFL",
       "stats48h": {
         "wins": 10,
-        "losses": 25,
+        "losses": 23,
         "totalTrades": 500,
-        "winRate": 0.2857142857142857,
-        "volume": 10459.674999995006,
+        "winRate": 0.30303030303030304,
+        "volume": 10517.745999995004,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Wizards vs. Thunder: O/U 200.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.33,
+          "value": 30.69,
+          "timestamp": 1794102339,
+          "slug": "nba-was-okc-2026-11-07-total-200pt5",
+          "event_slug": "nba-was-okc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.35,
+          "value": 31.030999999999995,
+          "timestamp": 1794102162,
+          "slug": "nba-bkn-atl-2026-11-07",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Nets vs. Hawks: O/U 247.5",
           "side": "BUY",
@@ -566,28 +588,6 @@
           "value": 77.805,
           "timestamp": 1794093084,
           "slug": "nba-den-ind-2026-11-07-total-224pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 228.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.24,
-          "value": 1.2,
-          "timestamp": 1794093084,
-          "slug": "nba-den-ind-2026-11-07-total-228pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Nuggets vs. Pacers: O/U 220.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.49,
-          "value": 2.45,
-          "timestamp": 1794093084,
-          "slug": "nba-den-ind-2026-11-07-total-220pt5",
           "event_slug": "nba-den-ind-2026-11-07",
           "result": "loss"
         }
@@ -1189,10 +1189,10 @@
       "label": "VeryLucky888",
       "specialty": "MLB+UFC",
       "stats48h": {
-        "wins": 3,
-        "losses": 4,
+        "wins": 5,
+        "losses": 10,
         "totalTrades": 15,
-        "winRate": 0.42857142857142855,
+        "winRate": 0.3333333333333333,
         "volume": 26799.798300000002,
         "pnl": 0
       },
@@ -1206,7 +1206,7 @@
           "timestamp": 1794098097,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -1217,7 +1217,7 @@
           "timestamp": 1794097650,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -1228,7 +1228,7 @@
           "timestamp": 1794097642,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -1239,7 +1239,7 @@
           "timestamp": 1794097294,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -1250,7 +1250,7 @@
           "timestamp": 1794096610,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -1261,7 +1261,7 @@
           "timestamp": 1794096264,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -1272,7 +1272,7 @@
           "timestamp": 1794093580,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -1283,7 +1283,7 @@
           "timestamp": 1794092281,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 1 Winner",
@@ -1371,7 +1371,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 0,
-        "totalTrades": 80,
+        "totalTrades": 79,
         "winRate": 1,
         "volume": 15801.676499021141,
         "pnl": 0
@@ -1934,10 +1934,10 @@
       "label": "Thunderous-Snarl",
       "specialty": "综合",
       "stats48h": {
-        "wins": 2,
-        "losses": 2,
+        "wins": 14,
+        "losses": 36,
         "totalTrades": 185,
-        "winRate": 0.5,
+        "winRate": 0.28,
         "volume": 1201035.0429959765,
         "pnl": 0
       },
@@ -1951,7 +1951,7 @@
           "timestamp": 1794097806,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -1962,7 +1962,7 @@
           "timestamp": 1794097791,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -1973,7 +1973,7 @@
           "timestamp": 1794097779,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -1984,7 +1984,7 @@
           "timestamp": 1794097765,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -1995,7 +1995,7 @@
           "timestamp": 1794097753,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2006,7 +2006,7 @@
           "timestamp": 1794097686,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2017,7 +2017,7 @@
           "timestamp": 1794097677,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2028,7 +2028,7 @@
           "timestamp": 1794097620,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2039,7 +2039,7 @@
           "timestamp": 1794097038,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2050,7 +2050,7 @@
           "timestamp": 1794097024,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2061,7 +2061,7 @@
           "timestamp": 1794097005,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2072,7 +2072,7 @@
           "timestamp": 1794096882,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2083,7 +2083,7 @@
           "timestamp": 1794096852,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2094,7 +2094,7 @@
           "timestamp": 1794096835,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2105,7 +2105,7 @@
           "timestamp": 1794096802,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2116,7 +2116,7 @@
           "timestamp": 1794096771,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2127,7 +2127,7 @@
           "timestamp": 1794096739,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2138,7 +2138,7 @@
           "timestamp": 1794096708,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2149,7 +2149,7 @@
           "timestamp": 1794096690,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2160,7 +2160,7 @@
           "timestamp": 1794096652,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2171,7 +2171,7 @@
           "timestamp": 1794096640,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2182,7 +2182,7 @@
           "timestamp": 1794096490,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2193,7 +2193,7 @@
           "timestamp": 1794096465,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2204,7 +2204,7 @@
           "timestamp": 1794096379,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2215,7 +2215,7 @@
           "timestamp": 1794096349,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2226,7 +2226,7 @@
           "timestamp": 1794096298,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2237,7 +2237,7 @@
           "timestamp": 1794096292,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2248,7 +2248,7 @@
           "timestamp": 1794096255,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2259,7 +2259,7 @@
           "timestamp": 1794096208,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2270,7 +2270,7 @@
           "timestamp": 1794096169,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2281,7 +2281,7 @@
           "timestamp": 1794096160,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2292,7 +2292,7 @@
           "timestamp": 1794096130,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2303,7 +2303,7 @@
           "timestamp": 1794096033,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -2314,7 +2314,7 @@
           "timestamp": 1794096021,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2325,7 +2325,7 @@
           "timestamp": 1794093151,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2336,7 +2336,7 @@
           "timestamp": 1794093139,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2347,7 +2347,7 @@
           "timestamp": 1794093039,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2358,7 +2358,7 @@
           "timestamp": 1794093019,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2369,7 +2369,7 @@
           "timestamp": 1794093000,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2380,7 +2380,7 @@
           "timestamp": 1794092991,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2391,7 +2391,7 @@
           "timestamp": 1794092982,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2402,7 +2402,7 @@
           "timestamp": 1794092974,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2413,7 +2413,7 @@
           "timestamp": 1794092967,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2424,7 +2424,7 @@
           "timestamp": 1794092946,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2435,7 +2435,7 @@
           "timestamp": 1794092698,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -2446,7 +2446,7 @@
           "timestamp": 1794092515,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
@@ -2829,10 +2829,10 @@
       "label": "surfandturf",
       "specialty": "Soccer+UFC",
       "stats48h": {
-        "wins": 14,
+        "wins": 15,
         "losses": 14,
         "totalTrades": 43,
-        "winRate": 0.5,
+        "winRate": 0.5172413793103449,
         "volume": 799213.0323205732,
         "pnl": 0
       },
@@ -3022,7 +3022,7 @@
           "timestamp": 1794070825,
           "slug": "lol-ig1-gen-2026-11-07",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Arsenal FC (-1.5)",
@@ -3321,10 +3321,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1305.3841999972756,
+        "volume": 1000.7021099972758,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Trump and Putin meet next in a Gulf country?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.043000000000000003,
+          "timestamp": 1794102270,
+          "slug": "will-trump-and-putin-meet-next-in-a-gulf-country",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump and Putin meet next in Russia?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.06331,
+          "timestamp": 1794102270,
+          "slug": "will-trump-and-putin-meet-next-in-russia-991",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
         {
           "title": "Will New England Revolution win the 2026 MLS Cup?",
           "side": "SELL",
@@ -3850,28 +3872,6 @@
           "value": 65.8588,
           "timestamp": 1794094069,
           "slug": "will-no-listed-leader-be-out-before-2027-20260630194627385",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Donald Trump be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 152.24104,
-          "timestamp": 1794094069,
-          "slug": "will-donald-trump-be-the-next-leader-out-before-2027-20260630194627372",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Xi Jinping be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 152.54736,
-          "timestamp": 1794094069,
-          "slug": "will-xi-jinping-be-the-next-leader-out-before-2027-20260630194627367",
           "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
           "result": "ongoing"
         }
@@ -5405,316 +5405,272 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 15843.135900337516,
+        "volume": 3697.462299908098,
         "pnl": 0
       },
       "recentTrades": [
         {
-          "title": "Nets vs. Hawks",
+          "title": "Magic vs. Warriors",
           "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.44,
-          "value": 2.2,
-          "timestamp": 1794101920,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
+          "outcome": "Magic",
+          "price": 0.16,
+          "value": 1.92,
+          "timestamp": 1794102727,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims)",
+          "title": "Magic vs. Warriors",
           "side": "BUY",
-          "outcome": "Mitch Raposo",
-          "price": 0.973,
-          "value": 19.46,
-          "timestamp": 1794101890,
-          "slug": "ufc-mit2-mardeg-2026-11-07",
-          "event_slug": "ufc-mit2-mardeg-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Miami (FL) vs. Notre Dame",
-          "side": "BUY",
-          "outcome": "Miami (FL)",
-          "price": 0.22,
-          "value": 1.76,
-          "timestamp": 1794101883,
-          "slug": "cfb-mia-nd-2026-11-07",
-          "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.44,
-          "value": 2.2,
-          "timestamp": 1794101883,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.41,
-          "value": 2.05,
-          "timestamp": 1794101874,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Miami (FL) vs. Notre Dame",
-          "side": "BUY",
-          "outcome": "Miami (FL)",
-          "price": 0.21,
-          "value": 1.89,
-          "timestamp": 1794101845,
-          "slug": "cfb-mia-nd-2026-11-07",
-          "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Knicks vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "Knicks",
-          "price": 0.5662963546,
-          "value": 3779.8243002673444,
-          "timestamp": 1794101839,
-          "slug": "nba-nyk-cle-2026-11-07",
-          "event_slug": "nba-nyk-cle-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.42,
-          "value": 2.1,
-          "timestamp": 1794101818,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kentucky vs. Tennessee",
-          "side": "BUY",
-          "outcome": "Tennessee",
-          "price": 0.72,
-          "value": 599.04,
-          "timestamp": 1794101817,
-          "slug": "cfb-uk-tenn-2026-11-07",
-          "event_slug": "cfb-uk-tenn-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Miami (FL) vs. Notre Dame",
-          "side": "BUY",
-          "outcome": "Miami (FL)",
-          "price": 0.22,
-          "value": 1.76,
-          "timestamp": 1794101806,
-          "slug": "cfb-mia-nd-2026-11-07",
-          "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.41,
-          "value": 2.05,
-          "timestamp": 1794101805,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.5685343053,
-          "value": 301.04459999940303,
-          "timestamp": 1794101793,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks: O/U 235.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.7,
-          "value": 67.19999999999999,
-          "timestamp": 1794101791,
-          "slug": "nba-bkn-atl-2026-11-07-total-235pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks: O/U 237.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.6406097561,
-          "value": 52.530000000200005,
-          "timestamp": 1794101791,
-          "slug": "nba-bkn-atl-2026-11-07-total-237pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks: O/U 247.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.36,
-          "value": 27,
-          "timestamp": 1794101791,
-          "slug": "nba-bkn-atl-2026-11-07-total-247pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks: O/U 249.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.31,
-          "value": 23.25,
-          "timestamp": 1794101791,
-          "slug": "nba-bkn-atl-2026-11-07-total-249pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Mitch Raposo",
-          "price": 0.95,
-          "value": 3332.6,
-          "timestamp": 1794101782,
-          "slug": "ufc-mit2-mardeg-2026-11-07",
-          "event_slug": "ufc-mit2-mardeg-2026-11-07",
+          "outcome": "Magic",
+          "price": 0.16,
+          "value": 1.92,
+          "timestamp": 1794102709,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
           "result": "ongoing"
         },
         {
           "title": "Knicks vs. Cavaliers",
           "side": "BUY",
           "outcome": "Cavaliers",
-          "price": 0.4298659158,
-          "value": 320.59400000363996,
-          "timestamp": 1794101743,
+          "price": 0.48,
+          "value": 2.4,
+          "timestamp": 1794102685,
           "slug": "nba-nyk-cle-2026-11-07",
           "event_slug": "nba-nyk-cle-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Knicks (-3.5)",
+          "title": "Magic vs. Warriors",
           "side": "BUY",
-          "outcome": "Cavaliers",
+          "outcome": "Magic",
+          "price": 0.15,
+          "value": 1.7999999999999998,
+          "timestamp": 1794102676,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Thunder (-13.5)",
+          "side": "BUY",
+          "outcome": "Thunder",
+          "price": 0.656,
+          "value": 16.400000000000002,
+          "timestamp": 1794102667,
+          "slug": "nba-was-okc-2026-11-07-spread-home-13pt5",
+          "event_slug": "nba-was-okc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Boise State (-24.5)",
+          "side": "BUY",
+          "outcome": "Colorado State",
           "price": 0.51,
-          "value": 51,
-          "timestamp": 1794101743,
-          "slug": "nba-nyk-cle-2026-11-07-spread-away-3pt5",
-          "event_slug": "nba-nyk-cle-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Thunder",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.13,
-          "value": 52.858000000000004,
-          "timestamp": 1794101668,
-          "slug": "nba-was-okc-2026-11-07",
-          "event_slug": "nba-was-okc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Thunder",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.12,
-          "value": 2.88,
-          "timestamp": 1794101658,
-          "slug": "nba-was-okc-2026-11-07",
-          "event_slug": "nba-was-okc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Thunder",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.12,
-          "value": 2.88,
-          "timestamp": 1794101632,
-          "slug": "nba-was-okc-2026-11-07",
-          "event_slug": "nba-was-okc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Marcos Degli",
-          "price": 0.32,
-          "value": 46.217600000000004,
-          "timestamp": 1794101595,
-          "slug": "ufc-mit2-mardeg-2026-11-07",
-          "event_slug": "ufc-mit2-mardeg-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.44,
-          "value": 2.2,
-          "timestamp": 1794101590,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.45,
-          "value": 2.25,
-          "timestamp": 1794101556,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.44,
-          "value": 2.2,
-          "timestamp": 1794101521,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
+          "value": 10.2,
+          "timestamp": 1794102657,
+          "slug": "cfb-boise-colst-2026-11-07-spread-away-24pt5",
+          "event_slug": "cfb-boise-colst-2026-11-07",
           "result": "ongoing"
         },
         {
           "title": "Knicks vs. Cavaliers",
           "side": "BUY",
           "outcome": "Knicks",
-          "price": 0.5831612288,
-          "value": 1821.836500057216,
-          "timestamp": 1794101491,
+          "price": 0.5,
+          "value": 2.5,
+          "timestamp": 1794102639,
           "slug": "nba-nyk-cle-2026-11-07",
           "event_slug": "nba-nyk-cle-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Air Force vs. Army",
+          "title": "Spread: Boise State (-24.5)",
           "side": "BUY",
-          "outcome": "Air Force",
-          "price": 0.69,
-          "value": 246.4611,
-          "timestamp": 1794101476,
-          "slug": "cfb-airf-army-2026-11-07",
-          "event_slug": "cfb-airf-army-2026-11-07",
+          "outcome": "Colorado State",
+          "price": 0.425,
+          "value": 85,
+          "timestamp": 1794102634,
+          "slug": "cfb-boise-colst-2026-11-07-spread-away-24pt5",
+          "event_slug": "cfb-boise-colst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Knicks",
+          "price": 0.46,
+          "value": 2.7600000000000002,
+          "timestamp": 1794102570,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Knicks",
+          "price": 0.45,
+          "value": 2.7,
+          "timestamp": 1794102567,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.52,
+          "value": 2.6,
+          "timestamp": 1794102558,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Thunder (-14.5)",
+          "side": "BUY",
+          "outcome": "Thunder",
+          "price": 0.56,
+          "value": 2.8000000000000003,
+          "timestamp": 1794102544,
+          "slug": "nba-was-okc-2026-11-07-spread-home-14pt5",
+          "event_slug": "nba-was-okc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.5,
+          "value": 2.5,
+          "timestamp": 1794102517,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.48,
+          "value": 2.4,
+          "timestamp": 1794102435,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.46,
+          "value": 2.3000000000000003,
+          "timestamp": 1794102418,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Warriors",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.19,
+          "value": 1.9,
+          "timestamp": 1794102417,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.45,
+          "value": 2.7,
+          "timestamp": 1794102411,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Warriors",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.8129998478,
+          "value": 1495.805899973308,
+          "timestamp": 1794102403,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Knicks",
+          "price": 0.53,
+          "value": 2.6500000000000004,
+          "timestamp": 1794102400,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Knicks",
+          "price": 0.53,
+          "value": 2.6500000000000004,
+          "timestamp": 1794102394,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Warriors",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.2,
+          "value": 1.8,
+          "timestamp": 1794102366,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Oklahoma vs. Florida",
+          "side": "BUY",
+          "outcome": "Oklahoma",
+          "price": 0.68,
+          "value": 136,
+          "timestamp": 1794102357,
+          "slug": "cfb-okl-fl-2026-11-07",
+          "event_slug": "cfb-okl-fl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Warriors",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.1843359045,
+          "value": 803.4390999175201,
+          "timestamp": 1794102336,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.47,
+          "value": 2.3499999999999996,
+          "timestamp": 1794102318,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
           "result": "ongoing"
         },
         {
@@ -5723,117 +5679,29 @@
           "outcome": "Cavaliers",
           "price": 0.43,
           "value": 2.58,
-          "timestamp": 1794101431,
+          "timestamp": 1794102309,
           "slug": "nba-nyk-cle-2026-11-07",
           "event_slug": "nba-nyk-cle-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.44,
-          "value": 2.2,
-          "timestamp": 1794101428,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Thunder (-15.5)",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.4,
-          "value": 68.8,
-          "timestamp": 1794101400,
-          "slug": "nba-was-okc-2026-11-07-spread-home-15pt5",
-          "event_slug": "nba-was-okc-2026-11-07",
           "result": "ongoing"
         },
         {
           "title": "Wizards vs. Thunder",
           "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.86,
-          "value": 103.2,
-          "timestamp": 1794101400,
+          "outcome": "Wizards",
+          "price": 0.05,
+          "value": 2.7,
+          "timestamp": 1794102307,
           "slug": "nba-was-okc-2026-11-07",
           "event_slug": "nba-was-okc-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Marcos Degli",
-          "price": 0.28,
-          "value": 81.3456,
-          "timestamp": 1794101316,
-          "slug": "ufc-mit2-mardeg-2026-11-07",
-          "event_slug": "ufc-mit2-mardeg-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Georgia vs. Ole Miss",
-          "side": "BUY",
-          "outcome": "Georgia",
-          "price": 0.94,
-          "value": 6.58,
-          "timestamp": 1794101277,
-          "slug": "cfb-ga-miss-2026-11-07",
-          "event_slug": "cfb-ga-miss-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-4.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.51,
-          "value": 2.55,
-          "timestamp": 1794101203,
-          "slug": "nba-nyk-cle-2026-11-07-spread-away-4pt5",
-          "event_slug": "nba-nyk-cle-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Georgia vs. Ole Miss",
-          "side": "BUY",
-          "outcome": "Georgia",
-          "price": 0.94,
-          "value": 6.58,
-          "timestamp": 1794101191,
-          "slug": "cfb-ga-miss-2026-11-07",
-          "event_slug": "cfb-ga-miss-2026-11-07",
-          "result": "ongoing"
-        },
-        {
           "title": "Knicks vs. Cavaliers",
           "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.34,
-          "value": 14.3038,
-          "timestamp": 1794101179,
-          "slug": "nba-nyk-cle-2026-11-07",
-          "event_slug": "nba-nyk-cle-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.45,
-          "value": 4.7385,
-          "timestamp": 1794101142,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Knicks vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.3,
-          "value": 2.6999999999999997,
-          "timestamp": 1794101122,
+          "outcome": "Knicks",
+          "price": 0.54,
+          "value": 2.7,
+          "timestamp": 1794102300,
           "slug": "nba-nyk-cle-2026-11-07",
           "event_slug": "nba-nyk-cle-2026-11-07",
           "result": "ongoing"
@@ -5842,108 +5710,119 @@
           "title": "Knicks vs. Cavaliers",
           "side": "BUY",
           "outcome": "Knicks",
-          "price": 0.65,
-          "value": 33.6895,
-          "timestamp": 1794101079,
+          "price": 0.54,
+          "value": 2.7,
+          "timestamp": 1794102288,
           "slug": "nba-nyk-cle-2026-11-07",
           "event_slug": "nba-nyk-cle-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Thunder (-3.5)",
+          "title": "Knicks vs. Cavaliers",
           "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.77,
-          "value": 53.13,
-          "timestamp": 1794101047,
-          "slug": "nba-was-okc-2026-11-07-spread-home-3pt5",
-          "event_slug": "nba-was-okc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Thunder (-11.5)",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.52,
-          "value": 76.96000000000001,
-          "timestamp": 1794101047,
-          "slug": "nba-was-okc-2026-11-07-spread-home-11pt5",
-          "event_slug": "nba-was-okc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Thunder (-17.5)",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.34,
-          "value": 70.72,
-          "timestamp": 1794101047,
-          "slug": "nba-was-okc-2026-11-07-spread-home-17pt5",
-          "event_slug": "nba-was-okc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Thunder (-9.5)",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.58,
-          "value": 77.14,
-          "timestamp": 1794101047,
-          "slug": "nba-was-okc-2026-11-07-spread-home-9pt5",
-          "event_slug": "nba-was-okc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Wizards vs. Thunder",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.16,
-          "value": 206.576,
-          "timestamp": 1794100992,
-          "slug": "nba-was-okc-2026-11-07",
-          "event_slug": "nba-was-okc-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Air Force vs. Army: O/U 43.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4480952381,
-          "value": 37.6400000004,
-          "timestamp": 1794100978,
-          "slug": "cfb-airf-army-2026-11-07-total-43pt5",
-          "event_slug": "cfb-airf-army-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.5382078985,
-          "value": 4137.629300009315,
-          "timestamp": 1794100893,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kentucky vs. Tennessee",
-          "side": "BUY",
-          "outcome": "Tennessee",
-          "price": 0.71,
-          "value": 3.55,
-          "timestamp": 1794100891,
-          "slug": "cfb-uk-tenn-2026-11-07",
-          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "outcome": "Cavaliers",
+          "price": 0.449467413,
+          "value": 430.40550001467,
+          "timestamp": 1794102271,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
           "result": "ongoing"
         },
         {
           "title": "Kentucky vs. Tennessee",
           "side": "BUY",
           "outcome": "Kentucky",
-          "price": 0.29,
-          "value": 79.7471,
-          "timestamp": 1794100852,
+          "price": 0.23,
+          "value": 3.68,
+          "timestamp": 1794102270,
+          "slug": "cfb-uk-tenn-2026-11-07",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Boise State (-24.5)",
+          "side": "BUY",
+          "outcome": "Boise State",
+          "price": 0.66,
+          "value": 13.200000000000001,
+          "timestamp": 1794102265,
+          "slug": "cfb-boise-colst-2026-11-07-spread-away-24pt5",
+          "event_slug": "cfb-boise-colst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Warriors",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.19,
+          "value": 1.9,
+          "timestamp": 1794102265,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.42,
+          "value": 2.52,
+          "timestamp": 1794102264,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Thunder: O/U 206.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.46625,
+          "value": 37.3,
+          "timestamp": 1794102259,
+          "slug": "nba-was-okc-2026-11-07-total-206pt5",
+          "event_slug": "nba-was-okc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Warriors",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.19,
+          "value": 1.9,
+          "timestamp": 1794102250,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Thunder",
+          "side": "BUY",
+          "outcome": "Wizards",
+          "price": 0.06,
+          "value": 2.82,
+          "timestamp": 1794102244,
+          "slug": "nba-was-okc-2026-11-07",
+          "event_slug": "nba-was-okc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Iowa vs. Northwestern",
+          "side": "BUY",
+          "outcome": "Northwestern",
+          "price": 0.1,
+          "value": 1.5,
+          "timestamp": 1794102243,
+          "slug": "cfb-iowa-nw-2026-11-07",
+          "event_slug": "cfb-iowa-nw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kentucky vs. Tennessee",
+          "side": "BUY",
+          "outcome": "Kentucky",
+          "price": 0.2,
+          "value": 1.4000000000000001,
+          "timestamp": 1794102231,
           "slug": "cfb-uk-tenn-2026-11-07",
           "event_slug": "cfb-uk-tenn-2026-11-07",
           "result": "ongoing"
@@ -5952,11 +5831,132 @@
           "title": "Iowa vs. Northwestern",
           "side": "BUY",
           "outcome": "Northwestern",
-          "price": 0.18,
-          "value": 1.44,
-          "timestamp": 1794100789,
+          "price": 0.1004226567,
+          "value": 349.2700000026,
+          "timestamp": 1794102208,
           "slug": "cfb-iowa-nw-2026-11-07",
           "event_slug": "cfb-iowa-nw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Iowa vs. Northwestern",
+          "side": "BUY",
+          "outcome": "Iowa",
+          "price": 0.9,
+          "value": 45,
+          "timestamp": 1794102171,
+          "slug": "cfb-iowa-nw-2026-11-07",
+          "event_slug": "cfb-iowa-nw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Thunder",
+          "side": "BUY",
+          "outcome": "Wizards",
+          "price": 0.07,
+          "value": 3.0100000000000002,
+          "timestamp": 1794102157,
+          "slug": "nba-was-okc-2026-11-07",
+          "event_slug": "nba-was-okc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.35,
+          "value": 2.0999999999999996,
+          "timestamp": 1794102150,
+          "slug": "nba-bkn-atl-2026-11-07",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Air Force vs. Army",
+          "side": "BUY",
+          "outcome": "Army",
+          "price": 0.44,
+          "value": 3.08,
+          "timestamp": 1794102150,
+          "slug": "cfb-airf-army-2026-11-07",
+          "event_slug": "cfb-airf-army-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kentucky vs. Tennessee",
+          "side": "BUY",
+          "outcome": "Kentucky",
+          "price": 0.22,
+          "value": 1.54,
+          "timestamp": 1794102106,
+          "slug": "cfb-uk-tenn-2026-11-07",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.4,
+          "value": 2.4000000000000004,
+          "timestamp": 1794102054,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jabari Smith Jr.: Points O/U 9.5",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.78,
+          "value": 21.060000000000002,
+          "timestamp": 1794102046,
+          "slug": "nba-hou-phx-2026-11-07-points-jabari-smith-jr-9pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Knicks vs. Cavaliers",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.38,
+          "value": 2.66,
+          "timestamp": 1794102042,
+          "slug": "nba-nyk-cle-2026-11-07",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks: O/U 239.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.67,
+          "value": 51.59,
+          "timestamp": 1794102001,
+          "slug": "nba-bkn-atl-2026-11-07-total-239pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Hawks (-1.5)",
+          "side": "BUY",
+          "outcome": "Hawks",
+          "price": 0.54,
+          "value": 30.105,
+          "timestamp": 1794102001,
+          "slug": "nba-bkn-atl-2026-11-07-spread-home-1pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks",
+          "side": "BUY",
+          "outcome": "Hawks",
+          "price": 0.49,
+          "value": 88.8468,
+          "timestamp": 1794101980,
+          "slug": "nba-bkn-atl-2026-11-07",
+          "event_slug": "nba-bkn-atl-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -5970,10 +5970,197 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1562.1076600008773,
+        "volume": 1684.6231570038806,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the fight end before Round 2?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.63,
+          "value": 18.9,
+          "timestamp": 1794102772,
+          "slug": "ufc-pri-nmilos-2026-11-07-ends-before-round-2",
+          "event_slug": "ufc-pri-nmilos-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "England Lions Tour of West Indies Unofficial ODIs: West Indies A vs England Lion",
+          "side": "BUY",
+          "outcome": "West Indies A",
+          "price": 0.61,
+          "value": 18.3,
+          "timestamp": 1794102745,
+          "slug": "crint-wsta-gbra-2026-11-07",
+          "event_slug": "crint-wsta-gbra-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Montana State vs. Idaho State",
+          "side": "SELL",
+          "outcome": "Montana State",
+          "price": 0.2219230769,
+          "value": 5.7699999993999995,
+          "timestamp": 1794102531,
+          "slug": "cfb-monst-idhst-2026-11-07",
+          "event_slug": "cfb-monst-idhst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Thunder",
+          "side": "BUY",
+          "outcome": "Wizards",
+          "price": 0.05,
+          "value": 20.39,
+          "timestamp": 1794102531,
+          "slug": "nba-was-okc-2026-11-07",
+          "event_slug": "nba-was-okc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Montana State vs. Idaho State",
+          "side": "BUY",
+          "outcome": "Montana State",
+          "price": 0.23,
+          "value": 47.15,
+          "timestamp": 1794102528,
+          "slug": "cfb-monst-idhst-2026-11-07",
+          "event_slug": "cfb-monst-idhst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Utah vs. Senators: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.05,
+          "value": 1.4400000000000002,
+          "timestamp": 1794102459,
+          "slug": "nhl-utah-ott-2026-11-07-total-7pt5",
+          "event_slug": "nhl-utah-ott-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Utah vs. Senators: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.05,
+          "value": 2.99,
+          "timestamp": 1794102456,
+          "slug": "nhl-utah-ott-2026-11-07-total-7pt5",
+          "event_slug": "nhl-utah-ott-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Utah vs. Senators: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.05,
+          "value": 2.99,
+          "timestamp": 1794102453,
+          "slug": "nhl-utah-ott-2026-11-07-total-7pt5",
+          "event_slug": "nhl-utah-ott-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Utah vs. Senators: O/U 7.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.05,
+          "value": 2.99,
+          "timestamp": 1794102450,
+          "slug": "nhl-utah-ott-2026-11-07-total-7pt5",
+          "event_slug": "nhl-utah-ott-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will San Diego FC vs. Sporting Kansas City end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7982655618,
+          "value": 82.844000003604,
+          "timestamp": 1794102349,
+          "slug": "mls-sdg-skc-2026-11-07-draw",
+          "event_slug": "mls-sdg-skc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sporting Kansas City win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.43,
+          "value": 17.2,
+          "timestamp": 1794102313,
+          "slug": "mls-sdg-skc-2026-11-07-skc",
+          "event_slug": "mls-sdg-skc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sporting Kansas City win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.43,
+          "value": 26.66,
+          "timestamp": 1794102312,
+          "slug": "mls-sdg-skc-2026-11-07-skc",
+          "event_slug": "mls-sdg-skc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Tigres de la UANL vs. CF Cruz Azul: Draw at halftime?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.79,
+          "value": 78.21000000000001,
+          "timestamp": 1794102286,
+          "slug": "mex-tig-caz-2026-11-07-halftime-result-draw",
+          "event_slug": "mex-tig-caz-2026-11-07-halftime-result",
+          "result": "ongoing"
+        },
+        {
+          "title": "San Diego FC vs. Sporting Kansas City: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.9,
+          "value": 35.489997,
+          "timestamp": 1794102282,
+          "slug": "mls-sdg-skc-2026-11-07-total-2pt5",
+          "event_slug": "mls-sdg-skc-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Thunder",
+          "side": "BUY",
+          "outcome": "Wizards",
+          "price": 0.05,
+          "value": 47.150000000000006,
+          "timestamp": 1794102205,
+          "slug": "nba-was-okc-2026-11-07",
+          "event_slug": "nba-was-okc-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Notre Dame (-14.5)",
+          "side": "BUY",
+          "outcome": "Miami (FL)",
+          "price": 0.68,
+          "value": 499.12000000000006,
+          "timestamp": 1794102139,
+          "slug": "cfb-mia-nd-2026-11-07-spread-home-14pt5",
+          "event_slug": "cfb-mia-nd-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Tigres de la UANL vs. CF Cruz Azul: 1st Half O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.02,
+          "value": 4.7700000000000005,
+          "timestamp": 1794102121,
+          "slug": "mex-tig-caz-2026-11-07-first-half-total-1pt5",
+          "event_slug": "mex-tig-caz-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Tigres de la UANL vs. CF Cruz Azul: 1st Half O/U 1.5",
           "side": "BUY",
@@ -6336,193 +6523,6 @@
           "slug": "ufc-mit2-mardeg-2026-11-07",
           "event_slug": "ufc-mit2-mardeg-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Marcos Degli",
-          "price": 0.3,
-          "value": 41.79,
-          "timestamp": 1794101521,
-          "slug": "ufc-mit2-mardeg-2026-11-07",
-          "event_slug": "ufc-mit2-mardeg-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks: O/U 225.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.82,
-          "value": 113.97999999999999,
-          "timestamp": 1794101490,
-          "slug": "nba-bkn-atl-2026-11-07-total-225pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks: O/U 231.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.69,
-          "value": 167.67,
-          "timestamp": 1794101490,
-          "slug": "nba-bkn-atl-2026-11-07-total-231pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks: O/U 225.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.83,
-          "value": 115.36999999999999,
-          "timestamp": 1794101488,
-          "slug": "nba-bkn-atl-2026-11-07-total-225pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Mitch Raposo",
-          "price": 0.71,
-          "value": 52.54,
-          "timestamp": 1794101337,
-          "slug": "ufc-mit2-mardeg-2026-11-07",
-          "event_slug": "ufc-mit2-mardeg-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Mitch Raposo",
-          "price": 0.7,
-          "value": 11.899999999999999,
-          "timestamp": 1794101296,
-          "slug": "ufc-mit2-mardeg-2026-11-07",
-          "event_slug": "ufc-mit2-mardeg-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charleston Battery vs. Hartford Athletic: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.52,
-          "value": 50.440000000000005,
-          "timestamp": 1794101242,
-          "slug": "uslc-cha-har-2026-11-07-total-4pt5",
-          "event_slug": "uslc-cha-har-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will San Jose Earthquakes win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.79,
-          "value": 9.1719,
-          "timestamp": 1794101238,
-          "slug": "mls-min-sje-2026-11-07-sje",
-          "event_slug": "mls-min-sje-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will San Jose Earthquakes win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.79,
-          "value": 63.99,
-          "timestamp": 1794101236,
-          "slug": "mls-min-sje-2026-11-07-sje",
-          "event_slug": "mls-min-sje-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Tigres de la UANL vs. CF Cruz Azul: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.66,
-          "value": 0.3366,
-          "timestamp": 1794101212,
-          "slug": "mex-tig-caz-2026-11-07-first-half-total-0pt5",
-          "event_slug": "mex-tig-caz-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Tigres de la UANL vs. CF Cruz Azul: 1st Half O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.66,
-          "value": 44.88,
-          "timestamp": 1794101211,
-          "slug": "mex-tig-caz-2026-11-07-first-half-total-0pt5",
-          "event_slug": "mex-tig-caz-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Stars (-2.5)",
-          "side": "BUY",
-          "outcome": "Sharks",
-          "price": 0.73,
-          "value": 10.95,
-          "timestamp": 1794101092,
-          "slug": "nhl-sj-dal-2026-11-07-spread-home-2pt5",
-          "event_slug": "nhl-sj-dal-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Sharks (-1.5)",
-          "side": "BUY",
-          "outcome": "Sharks",
-          "price": 0.15,
-          "value": 2.6999999999999997,
-          "timestamp": 1794101091,
-          "slug": "nhl-sj-dal-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-sj-dal-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks: O/U 239.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.32,
-          "value": 29.76,
-          "timestamp": 1794101070,
-          "slug": "nba-bkn-atl-2026-11-07-total-239pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Los Angeles FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.05,
-          "value": 3.0600000000000005,
-          "timestamp": 1794100993,
-          "slug": "mls-sea-laf-2026-11-07-laf",
-          "event_slug": "mls-sea-laf-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "England Lions Tour of West Indies Unofficial ODIs: West Indies A vs England Lion",
-          "side": "BUY",
-          "outcome": "West Indies A",
-          "price": 0.55,
-          "value": 51.150000000000006,
-          "timestamp": 1794100962,
-          "slug": "crint-wsta-gbra-2026-11-07",
-          "event_slug": "crint-wsta-gbra-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Minnesota United FC vs. San Jose Earthquakes end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.72,
-          "value": 20.16,
-          "timestamp": 1794100890,
-          "slug": "mls-min-sje-2026-11-07-draw",
-          "event_slug": "mls-min-sje-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -6531,10 +6531,10 @@
       "label": "RNGUzi",
       "specialty": "Soccer+NFL",
       "stats48h": {
-        "wins": 13,
-        "losses": 1,
+        "wins": 16,
+        "losses": 6,
         "totalTrades": 22,
-        "winRate": 0.9285714285714286,
+        "winRate": 0.7272727272727273,
         "volume": 97089.92535119454,
         "pnl": 0
       },
@@ -6548,7 +6548,7 @@
           "timestamp": 1794097722,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -6559,7 +6559,7 @@
           "timestamp": 1794097678,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
@@ -6570,7 +6570,7 @@
           "timestamp": 1794096898,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -6581,7 +6581,7 @@
           "timestamp": 1794094248,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -6592,7 +6592,7 @@
           "timestamp": 1794094233,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -6603,7 +6603,7 @@
           "timestamp": 1794094189,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -6614,7 +6614,7 @@
           "timestamp": 1794094135,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
@@ -6625,7 +6625,7 @@
           "timestamp": 1794094108,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 1 Winner",
@@ -6788,10 +6788,10 @@
       "label": "0x11963E4f",
       "specialty": "NBA+Politics",
       "stats48h": {
-        "wins": 4,
+        "wins": 5,
         "losses": 2,
         "totalTrades": 7,
-        "winRate": 0.6666666666666666,
+        "winRate": 0.7142857142857143,
         "volume": 97134.00312995558,
         "pnl": 0
       },
@@ -6805,7 +6805,7 @@
           "timestamp": 1794097824,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
@@ -6880,10 +6880,10 @@
       "label": "JabJabich",
       "specialty": "Tennis+NFL",
       "stats48h": {
-        "wins": 11,
+        "wins": 12,
         "losses": 11,
         "totalTrades": 172,
-        "winRate": 0.5,
+        "winRate": 0.5217391304347826,
         "volume": 81706.64874534238,
         "pnl": 0
       },
@@ -6897,7 +6897,7 @@
           "timestamp": 1794093469,
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 1 Winner",
@@ -9052,5 +9052,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T01:44:23.507Z"
+  "lastUpdate": "2026-11-08T01:55:19.832Z"
 }
