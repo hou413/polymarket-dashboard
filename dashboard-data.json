@@ -33,14 +33,36 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 22,
+        "wins": 20,
         "losses": 28,
         "totalTrades": 500,
-        "winRate": 0.44,
-        "volume": 8638.01579999775,
+        "winRate": 0.4166666666666667,
+        "volume": 8774.11809999775,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "WTA Finals, Group A: Coco Gauff vs Jessica Pegula",
+          "side": "BUY",
+          "outcome": "Jessica Pegula",
+          "price": 0.42,
+          "value": 572.1701999999999,
+          "timestamp": 1794119547,
+          "slug": "wta-gauff-pegula-2026-11-08",
+          "event_slug": "wta-gauff-pegula-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "WTA Finals, Group A: Coco Gauff vs Jessica Pegula",
+          "side": "BUY",
+          "outcome": "Jessica Pegula",
+          "price": 0.41,
+          "value": 475.93209999999993,
+          "timestamp": 1794119535,
+          "slug": "wta-gauff-pegula-2026-11-08",
+          "event_slug": "wta-gauff-pegula-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Spurs vs. Trail Blazers: O/U 227.5",
           "side": "BUY",
@@ -568,28 +590,6 @@
           "slug": "nba-orl-gsw-2026-11-07-spread-away-1pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
           "result": "loss"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 199.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.76,
-          "value": 114.38,
-          "timestamp": 1794107443,
-          "slug": "nba-orl-gsw-2026-11-07-total-199pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 199.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.76,
-          "value": 797.62,
-          "timestamp": 1794107443,
-          "slug": "nba-orl-gsw-2026-11-07-total-199pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T06:35:54.559Z"
+  "lastUpdate": "2026-11-08T06:46:11.573Z"
 }
