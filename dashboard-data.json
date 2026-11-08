@@ -3354,10 +3354,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2429.970090003941,
+        "volume": 2418.0959300039412,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Harris Dickinson announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.10184,
+          "timestamp": 1794122092,
+          "slug": "harris-dickinson-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
         {
           "title": "Will Zelenskyy and Putin meet next in Kazakhstan before 2027?",
           "side": "SELL",
@@ -3894,17 +3905,6 @@
           "value": 11.736,
           "timestamp": 1794107077,
           "slug": "will-there-be-no-head-of-state-in-iran-end-of-2026",
-          "event_slug": "iran-leader-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Masoud Pezeshkian be head of state in Iran end of 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 11.975999999999999,
-          "timestamp": 1794107077,
-          "slug": "will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026",
           "event_slug": "iran-leader-end-of-2026",
           "result": "ongoing"
         }
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T07:18:06.163Z"
+  "lastUpdate": "2026-11-08T07:27:51.773Z"
 }
