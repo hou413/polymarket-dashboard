@@ -3173,12 +3173,23 @@
       "stats48h": {
         "wins": 22,
         "losses": 17,
-        "totalTrades": 46,
+        "totalTrades": 47,
         "winRate": 0.5641025641025641,
-        "volume": 859768.7401205733,
+        "volume": 862228.0200205733,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz",
+          "side": "BUY",
+          "outcome": "Carlos Alcaraz",
+          "price": 0.77,
+          "value": 2459.2799,
+          "timestamp": 1794146806,
+          "slug": "atp-shelton-alcaraz-2026-11-08",
+          "event_slug": "atp-shelton-alcaraz-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card)",
           "side": "BUY",
@@ -3696,10 +3707,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9151.36174001086,
+        "volume": 9128.836020011775,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 140-164 tweets from November 7 to November 9, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.25217,
+          "timestamp": 1794146673,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-140-164",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 115-139 tweets from November 7 to November 9, 2026?",
           "side": "BUY",
@@ -4236,17 +4258,6 @@
           "value": 17.6625,
           "timestamp": 1794131416,
           "slug": "will-philippines-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Laos win Eurovision Asia 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9672140127,
-          "value": 22.777889999085,
-          "timestamp": 1794131416,
-          "slug": "will-laos-win-eurovision-asia-2026",
           "event_slug": "eurovision-asia-winner-2026",
           "result": "ongoing"
         }
@@ -5257,7 +5268,7 @@
       "stats48h": {
         "wins": 42,
         "losses": 3,
-        "totalTrades": 71,
+        "totalTrades": 68,
         "winRate": 0.9333333333333333,
         "volume": 126131.44043048154,
         "pnl": 0
@@ -8950,5 +8961,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T14:04:45.491Z"
+  "lastUpdate": "2026-11-08T14:15:10.608Z"
 }
