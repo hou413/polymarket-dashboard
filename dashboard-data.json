@@ -3696,10 +3696,65 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 8627.125860004884,
+        "volume": 8653.863850004847,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 115-139 tweets from November 7 to November 9, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.984,
+          "value": 6.43536,
+          "timestamp": 1794143494,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-115-139",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post <40 tweets from November 7 to November 9, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.984235474,
+          "value": 6.43689999996,
+          "timestamp": 1794143494,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-0-39",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 140-164 tweets from November 7 to November 9, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 6.52692,
+          "timestamp": 1794143494,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-140-164",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 65-89 tweets from November 7 to November 9, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.52,
+          "value": 3.4008000000000003,
+          "timestamp": 1794143494,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-65-89",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 40-64 tweets from November 7 to November 9, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.68,
+          "value": 4.4472000000000005,
+          "timestamp": 1794143494,
+          "slug": "elon-musk-of-tweets-november-7-november-9-2026-40-64",
+          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 380-399 tweets from November 3 to November 10, 2026?",
           "side": "SELL",
@@ -4193,61 +4248,6 @@
           "timestamp": 1794121344,
           "slug": "will-zelenskyy-and-putin-meet-next-in-china",
           "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Aaron Taylor-Johnson announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.10184,
-          "timestamp": 1794120586,
-          "slug": "aaron-taylor-johnson-announced-as-next-james-bond-655",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "James Norton announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.10184,
-          "timestamp": 1794120586,
-          "slug": "james-norton-announced-as-next-james-bond-289",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Joe Alwyn announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.10184,
-          "timestamp": 1794120586,
-          "slug": "placeholder-8-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Richard Madden announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.10184,
-          "timestamp": 1794120586,
-          "slug": "richard-madden-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jacob Elordi announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.10183,
-          "timestamp": 1794120585,
-          "slug": "jacob-elordi-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
         }
       ]
@@ -8906,5 +8906,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T13:10:23.830Z"
+  "lastUpdate": "2026-11-08T13:21:03.566Z"
 }
