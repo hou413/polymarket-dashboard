@@ -386,14 +386,47 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 17,
-        "losses": 23,
+        "wins": 16,
+        "losses": 21,
         "totalTrades": 500,
-        "winRate": 0.425,
-        "volume": 9093.851899989751,
+        "winRate": 0.43243243243243246,
+        "volume": 9190.631899989752,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bengals vs. Falcons: O/U 58.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.35,
+          "value": 769.8249999999999,
+          "timestamp": 1794149380,
+          "slug": "nfl-cin-atl-2026-11-08-total-58pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bengals vs. Falcons: O/U 54.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.39,
+          "value": 15.600000000000001,
+          "timestamp": 1794148957,
+          "slug": "nfl-cin-atl-2026-11-08-total-54pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Falcons (-2.5)",
+          "side": "BUY",
+          "outcome": "Falcons",
+          "price": 0.43,
+          "value": 43,
+          "timestamp": 1794148930,
+          "slug": "nfl-cin-atl-2026-11-08-spread-home-2pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Bengals vs. Falcons: O/U 54.5",
           "side": "BUY",
@@ -910,39 +943,6 @@
           "slug": "nba-sas-por-2026-11-07-spread-away-19pt5",
           "event_slug": "nba-sas-por-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 211.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.55,
-          "value": 104.995,
-          "timestamp": 1794108702,
-          "slug": "nba-orl-gsw-2026-11-07-total-211pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 209.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.35,
-          "value": 6.6499999999999995,
-          "timestamp": 1794108702,
-          "slug": "nba-orl-gsw-2026-11-07-total-209pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Rockets vs. Suns: O/U 203.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.62,
-          "value": 620,
-          "timestamp": 1794108622,
-          "slug": "nba-hou-phx-2026-11-07-total-203pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -3718,10 +3718,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1874.6848700145438,
+        "volume": 1875.4138500145439,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 320-339 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.071,
+          "value": 1.7608,
+          "timestamp": 1794149056,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-320-339",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 140-164 tweets from November 7 to November 9, 2026?",
           "side": "SELL",
@@ -4260,17 +4271,6 @@
           "slug": "will-sandro-caller-gutierrez-win-the-next-lima-mayoral-elections-20260724154000908",
           "event_slug": "lima-mayoral-election-winner-20260724153924694",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Luis Isael Rubio Idrogo win the next Lima mayoral elections?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 1.03182,
-          "timestamp": 1794132282,
-          "slug": "will-luis-isael-rubio-idrogo-win-the-next-lima-mayoral-elections-20260724154000904",
-          "event_slug": "lima-mayoral-election-winner-20260724153924694",
-          "result": "ongoing"
         }
       ]
     },
@@ -4279,14 +4279,25 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 42,
+        "wins": 41,
         "losses": 6,
-        "totalTrades": 54,
-        "winRate": 0.875,
-        "volume": 469938.0439260513,
+        "totalTrades": 55,
+        "winRate": 0.8723404255319149,
+        "volume": 468283.01458501857,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jets vs. Chiefs AND Lions vs. Dolphins",
+          "side": "BUY",
+          "outcome": "",
+          "price": 0.5993902053,
+          "value": 499.9850589672189,
+          "timestamp": 1794149587,
+          "slug": "",
+          "event_slug": "",
+          "result": "ongoing"
+        },
         {
           "title": "UFC Fight Night: Andre Petroski vs. Mantas Kondratavicius (Middleweight, Main Ca",
           "side": "BUY",
@@ -4822,17 +4833,6 @@
           "price": 0.78,
           "value": 5261.7864,
           "timestamp": 1793904499,
-          "slug": "atp-fils-fritz-2026-11-05",
-          "event_slug": "atp-fils-fritz-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
-          "side": "BUY",
-          "outcome": "Taylor Fritz",
-          "price": 0.77,
-          "value": 2155.0144,
-          "timestamp": 1793904492,
           "slug": "atp-fils-fritz-2026-11-05",
           "event_slug": "atp-fils-fritz-2026-11-05",
           "result": "win"
@@ -8486,12 +8486,23 @@
       "stats48h": {
         "wins": 17,
         "losses": 21,
-        "totalTrades": 40,
+        "totalTrades": 41,
         "winRate": 0.4473684210526316,
-        "volume": 166062.1052692948,
+        "volume": 174171.54770929483,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Halmstads BK vs. Djurgardens IF: O/U 4.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.999,
+          "value": 8109.442440000001,
+          "timestamp": 1794149658,
+          "slug": "swe-hal-dju-2026-11-08-total-4pt5",
+          "event_slug": "swe-hal-dju-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Halmstads BK vs. Djurgardens IF: O/U 4.5",
           "side": "BUY",
@@ -9005,5 +9016,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T14:46:54.627Z"
+  "lastUpdate": "2026-11-08T14:58:47.009Z"
 }
