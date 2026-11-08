@@ -33,14 +33,80 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 6,
-        "losses": 2,
+        "wins": 9,
+        "losses": 5,
         "totalTrades": 500,
-        "winRate": 0.75,
-        "volume": 7663.7921999953005,
+        "winRate": 0.6428571428571429,
+        "volume": 7935.86219999775,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spurs vs. Trail Blazers: O/U 223.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.67,
+          "value": 670,
+          "timestamp": 1794111051,
+          "slug": "nba-sas-por-2026-11-07-total-223pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-7.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.69,
+          "value": 138,
+          "timestamp": 1794111046,
+          "slug": "nba-sas-por-2026-11-07-spread-away-7pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Warriors (-5.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.37,
+          "value": 1.85,
+          "timestamp": 1794111042,
+          "slug": "nba-orl-gsw-2026-11-07-spread-home-5pt5",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Warriors (-6.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.3,
+          "value": 89.85,
+          "timestamp": 1794111042,
+          "slug": "nba-orl-gsw-2026-11-07-spread-home-6pt5",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Warriors (-6.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.2998330551,
+          "value": 89.80000000245,
+          "timestamp": 1794111042,
+          "slug": "nba-orl-gsw-2026-11-07-spread-home-6pt5",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-2.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.6,
+          "value": 120,
+          "timestamp": 1794111040,
+          "slug": "nba-hou-phx-2026-11-07-spread-away-2pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Warriors (-4.5)",
           "side": "BUY",
@@ -49,7 +115,7 @@
           "value": 2.45,
           "timestamp": 1794111016,
           "slug": "nba-orl-gsw-2026-11-07-spread-home-4pt5",
-          "event_slug": "",
+          "event_slug": "nba-orl-gsw-2026-11-07",
           "result": "ongoing"
         },
         {
@@ -60,7 +126,7 @@
           "value": 2.1,
           "timestamp": 1794111016,
           "slug": "nba-orl-gsw-2026-11-07-spread-home-3pt5",
-          "event_slug": "",
+          "event_slug": "nba-orl-gsw-2026-11-07",
           "result": "ongoing"
         },
         {
@@ -325,7 +391,7 @@
           "timestamp": 1794108702,
           "slug": "nba-orl-gsw-2026-11-07-total-211pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Magic vs. Warriors: O/U 209.5",
@@ -336,7 +402,7 @@
           "timestamp": 1794108702,
           "slug": "nba-orl-gsw-2026-11-07-total-209pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Rockets vs. Suns: O/U 203.5",
@@ -369,7 +435,7 @@
           "timestamp": 1794108607,
           "slug": "nba-orl-gsw-2026-11-07-total-209pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Magic vs. Warriors: O/U 209.5",
@@ -380,7 +446,7 @@
           "timestamp": 1794108607,
           "slug": "nba-orl-gsw-2026-11-07-total-209pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Magic vs. Warriors: O/U 213.5",
@@ -391,7 +457,7 @@
           "timestamp": 1794108607,
           "slug": "nba-orl-gsw-2026-11-07-total-213pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Magic vs. Warriors: O/U 205.5",
@@ -402,7 +468,7 @@
           "timestamp": 1794107814,
           "slug": "nba-orl-gsw-2026-11-07-total-205pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Magic vs. Warriors: O/U 201.5",
@@ -413,7 +479,7 @@
           "timestamp": 1794107812,
           "slug": "nba-orl-gsw-2026-11-07-total-201pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Magic vs. Warriors: O/U 205.5",
@@ -424,7 +490,7 @@
           "timestamp": 1794107805,
           "slug": "nba-orl-gsw-2026-11-07-total-205pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Magic (-1.5)",
@@ -446,7 +512,7 @@
           "timestamp": 1794107443,
           "slug": "nba-orl-gsw-2026-11-07-total-199pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Magic vs. Warriors: O/U 199.5",
@@ -457,7 +523,7 @@
           "timestamp": 1794107443,
           "slug": "nba-orl-gsw-2026-11-07-total-199pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Rockets (-7.5)",
@@ -524,72 +590,6 @@
           "slug": "nba-was-okc-2026-11-07-total-208pt5",
           "event_slug": "nba-was-okc-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Wizards vs. Thunder: O/U 206.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.56,
-          "value": 84.28,
-          "timestamp": 1794105609,
-          "slug": "nba-was-okc-2026-11-07-total-206pt5",
-          "event_slug": "nba-was-okc-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Wizards vs. Thunder: O/U 206.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.56,
-          "value": 475.72,
-          "timestamp": 1794105609,
-          "slug": "nba-was-okc-2026-11-07-total-206pt5",
-          "event_slug": "nba-was-okc-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Wizards vs. Thunder: O/U 208.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.64,
-          "value": 3.2,
-          "timestamp": 1794105607,
-          "slug": "nba-was-okc-2026-11-07-total-208pt5",
-          "event_slug": "nba-was-okc-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Nets (-1.5)",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.47,
-          "value": 2.3499999999999996,
-          "timestamp": 1794105549,
-          "slug": "nba-bkn-atl-2026-11-07-spread-away-1pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 209.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.64,
-          "value": 128,
-          "timestamp": 1794105448,
-          "slug": "nba-orl-gsw-2026-11-07-total-209pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 199.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.66,
-          "value": 143.88,
-          "timestamp": 1794105448,
-          "slug": "nba-orl-gsw-2026-11-07-total-199pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -2830,9 +2830,9 @@
       "specialty": "Soccer+UFC",
       "stats48h": {
         "wins": 22,
-        "losses": 14,
+        "losses": 17,
         "totalTrades": 46,
-        "winRate": 0.6111111111111112,
+        "winRate": 0.5641025641025641,
         "volume": 859768.7401205733,
         "pnl": 0
       },
@@ -2846,7 +2846,7 @@
           "timestamp": 1794109594,
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card)",
@@ -2857,7 +2857,7 @@
           "timestamp": 1794109521,
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card)",
@@ -2868,7 +2868,7 @@
           "timestamp": 1794106986,
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Iowa vs. Northwestern",
@@ -5427,558 +5427,558 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 32835.50390033313,
+        "volume": 16206.699499440534,
         "pnl": 0
       },
       "recentTrades": [
         {
-          "title": "Rockets vs. Suns",
+          "title": "Fresno State Bulldogs vs. California-San Diego Tritons",
           "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.5242276128,
-          "value": 434.37499996608,
-          "timestamp": 1794110943,
-          "slug": "nba-hou-phx-2026-11-07",
-          "event_slug": "nba-hou-phx-2026-11-07",
+          "outcome": "Fresno State Bulldogs",
+          "price": 0.06,
+          "value": 1.7999999999999998,
+          "timestamp": 1794111847,
+          "slug": "cbb-frest-ucsd-2026-11-07",
+          "event_slug": "cbb-frest-ucsd-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Magic vs. Warriors: O/U 243.5",
+          "title": "Fresno State Bulldogs vs. California-San Diego Tritons",
           "side": "BUY",
-          "outcome": "Over",
-          "price": 0.476,
-          "value": 5.236,
-          "timestamp": 1794110925,
-          "slug": "nba-orl-gsw-2026-11-07-total-243pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 245.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.376,
-          "value": 3.008,
-          "timestamp": 1794110923,
-          "slug": "nba-orl-gsw-2026-11-07-total-245pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-1.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.7,
-          "value": 37.8,
-          "timestamp": 1794110923,
-          "slug": "nba-orl-gsw-2026-11-07-spread-home-1pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-6.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.31,
-          "value": 16.74,
-          "timestamp": 1794110923,
-          "slug": "nba-orl-gsw-2026-11-07-spread-home-6pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.7126777889,
-          "value": 1372.531900086732,
-          "timestamp": 1794110905,
-          "slug": "nba-orl-gsw-2026-11-07",
-          "event_slug": "nba-orl-gsw-2026-11-07",
+          "outcome": "Fresno State Bulldogs",
+          "price": 0.06,
+          "value": 1.44,
+          "timestamp": 1794111757,
+          "slug": "cbb-frest-ucsd-2026-11-07",
+          "event_slug": "cbb-frest-ucsd-2026-11-07",
           "result": "ongoing"
         },
         {
           "title": "Spread: Warriors (-2.5)",
           "side": "BUY",
           "outcome": "Warriors",
-          "price": 0.6,
-          "value": 3,
-          "timestamp": 1794110904,
+          "price": 0.91,
+          "value": 9.1,
+          "timestamp": 1794111745,
           "slug": "nba-orl-gsw-2026-11-07-spread-home-2pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Warriors (-4.5)",
+          "title": "Fresno State Bulldogs vs. California-San Diego Tritons",
           "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.46,
-          "value": 2.3000000000000003,
-          "timestamp": 1794110904,
-          "slug": "nba-orl-gsw-2026-11-07-spread-home-4pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
+          "outcome": "Fresno State Bulldogs",
+          "price": 0.08,
+          "value": 1.52,
+          "timestamp": 1794111691,
+          "slug": "cbb-frest-ucsd-2026-11-07",
+          "event_slug": "cbb-frest-ucsd-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Warriors (-1.5)",
+          "title": "Spread: Suns (-5.5)",
           "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.57,
-          "value": 331.16999999999996,
-          "timestamp": 1794110805,
-          "slug": "nba-orl-gsw-2026-11-07-spread-home-1pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.6279384437,
-          "value": 5406.550000257,
-          "timestamp": 1794110805,
-          "slug": "nba-orl-gsw-2026-11-07",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-2.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.5070238095,
-          "value": 340.719999984,
-          "timestamp": 1794110805,
-          "slug": "nba-orl-gsw-2026-11-07-spread-home-2pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-3.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.43,
-          "value": 328.95,
-          "timestamp": 1794110805,
-          "slug": "nba-orl-gsw-2026-11-07-spread-home-3pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-6.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.2,
-          "value": 200,
-          "timestamp": 1794110805,
-          "slug": "nba-orl-gsw-2026-11-07-spread-home-6pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-5.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.28,
-          "value": 1.4000000000000001,
-          "timestamp": 1794110805,
-          "slug": "nba-orl-gsw-2026-11-07-spread-home-5pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
+          "outcome": "Suns",
+          "price": 0.1759259259,
+          "value": 28.4999999958,
+          "timestamp": 1794111678,
+          "slug": "nba-hou-phx-2026-11-07-spread-home-5pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         },
         {
           "title": "Rockets vs. Suns",
           "side": "BUY",
           "outcome": "Suns",
-          "price": 0.4428571429,
-          "value": 31.000000003,
-          "timestamp": 1794110797,
+          "price": 0.98,
+          "value": 6372.695,
+          "timestamp": 1794111675,
           "slug": "nba-hou-phx-2026-11-07",
           "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Rockets (-2.5)",
+          "title": "Rockets vs. Suns",
           "side": "BUY",
           "outcome": "Suns",
-          "price": 0.5725093633,
-          "value": 152.8600000011,
-          "timestamp": 1794110797,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-2pt5",
+          "price": 0.97,
+          "value": 1050.9077,
+          "timestamp": 1794111673,
+          "slug": "nba-hou-phx-2026-11-07",
           "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Notre Dame (-6.5)",
+          "title": "Rockets vs. Suns",
           "side": "BUY",
-          "outcome": "Notre Dame",
-          "price": 0.99,
-          "value": 141.42149999999998,
-          "timestamp": 1794110791,
-          "slug": "cfb-mia-nd-2026-11-07-spread-home-6pt5",
-          "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Notre Dame (-7.5)",
-          "side": "BUY",
-          "outcome": "Miami (FL)",
-          "price": 0.99,
-          "value": 99,
-          "timestamp": 1794110788,
-          "slug": "cfb-mia-nd-2026-11-07-spread-home-7pt5",
-          "event_slug": "cfb-mia-nd-2026-11-07",
+          "outcome": "Suns",
+          "price": 0.9042868973,
+          "value": 502.295199974258,
+          "timestamp": 1794111670,
+          "slug": "nba-hou-phx-2026-11-07",
+          "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         },
         {
           "title": "Rockets vs. Suns",
           "side": "BUY",
           "outcome": "Rockets",
-          "price": 0.5546309614,
-          "value": 2930.6700000376,
-          "timestamp": 1794110773,
+          "price": 0.1410439105,
+          "value": 527.48730000074,
+          "timestamp": 1794111655,
           "slug": "nba-hou-phx-2026-11-07",
           "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Rockets (-3.5)",
+          "title": "Spread: Texas State (-7.5)",
           "side": "BUY",
-          "outcome": "Rockets",
+          "outcome": "Oregon State",
+          "price": 0.7035478807,
+          "value": 35.852800000472,
+          "timestamp": 1794111619,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-away-7pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas State (-7.5)",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.72,
+          "value": 153.35999999999999,
+          "timestamp": 1794111582,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-away-7pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Oregon State (-1.5)",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.39,
+          "value": 18.330000000000002,
+          "timestamp": 1794111582,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-home-1pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Oregon State (-6.5)",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.218,
+          "value": 5.45,
+          "timestamp": 1794111576,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-home-6pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Oregon State (-1.5)",
+          "side": "BUY",
+          "outcome": "Oregon State",
           "price": 0.38,
           "value": 7.6,
-          "timestamp": 1794110773,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-3pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rockets vs. Suns",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.4903440996,
-          "value": 232.27599998052,
-          "timestamp": 1794110760,
-          "slug": "nba-hou-phx-2026-11-07",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rockets vs. Suns",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.48,
-          "value": 38.4,
-          "timestamp": 1794110730,
-          "slug": "nba-hou-phx-2026-11-07",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Rockets (-3.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.66,
-          "value": 53.46,
-          "timestamp": 1794110730,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-3pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Rockets (-2.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.59,
-          "value": 54.87,
-          "timestamp": 1794110730,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-2pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
+          "timestamp": 1794111574,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-home-1pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
           "result": "ongoing"
         },
         {
           "title": "Rockets vs. Suns",
           "side": "BUY",
           "outcome": "Rockets",
-          "price": 0.5051897983,
-          "value": 272.559999978816,
-          "timestamp": 1794110715,
+          "price": 0.0970559238,
+          "value": 1006.2961997023979,
+          "timestamp": 1794111519,
           "slug": "nba-hou-phx-2026-11-07",
           "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Suns (-3.5)",
+          "title": "Magic vs. Warriors",
           "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.67,
-          "value": 55.61000000000001,
-          "timestamp": 1794110713,
-          "slug": "nba-hou-phx-2026-11-07-spread-home-3pt5",
+          "outcome": "Warriors",
+          "price": 0.8429041096,
+          "value": 307.660000004,
+          "timestamp": 1794111519,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Fresno State Bulldogs vs. California-San Diego Tritons",
+          "side": "BUY",
+          "outcome": "Fresno State Bulldogs",
+          "price": 0.12,
+          "value": 1.56,
+          "timestamp": 1794111504,
+          "slug": "cbb-frest-ucsd-2026-11-07",
+          "event_slug": "cbb-frest-ucsd-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rockets vs. Suns",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.841832173,
+          "value": 22.97360000117,
+          "timestamp": 1794111450,
+          "slug": "nba-hou-phx-2026-11-07",
           "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Rockets (-7.5)",
+          "title": "Spread: Suns (-5.5)",
           "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.13,
-          "value": 26,
-          "timestamp": 1794110713,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-7pt5",
+          "outcome": "Suns",
+          "price": 0.4,
+          "value": 80,
+          "timestamp": 1794111450,
+          "slug": "nba-hou-phx-2026-11-07-spread-home-5pt5",
           "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Rockets (-6.5)",
+          "title": "Rockets vs. Suns",
           "side": "BUY",
           "outcome": "Rockets",
-          "price": 0.18,
-          "value": 36,
-          "timestamp": 1794110713,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-6pt5",
+          "price": 0.1664871194,
+          "value": 71.0899999838,
+          "timestamp": 1794111441,
+          "slug": "nba-hou-phx-2026-11-07",
           "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         },
         {
-          "title": "Spread: Rockets (-1.5)",
+          "title": "Texas State vs. Oregon State",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.34,
+          "value": 2.3800000000000003,
+          "timestamp": 1794111429,
+          "slug": "cfb-txst-oregst-2026-11-07",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Texas State (-4.5)",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.46,
+          "value": 2.3000000000000003,
+          "timestamp": 1794111429,
+          "slug": "cfb-txst-oregst-2026-11-07-spread-away-4pt5",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rockets vs. Suns",
           "side": "BUY",
           "outcome": "Rockets",
-          "price": 0.45,
-          "value": 59.4,
-          "timestamp": 1794110713,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-1pt5",
+          "price": 0.0842946684,
+          "value": 65.360399983992,
+          "timestamp": 1794111414,
+          "slug": "nba-hou-phx-2026-11-07",
           "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Fresno State Bulldogs vs. California-San Diego Tritons",
+          "side": "BUY",
+          "outcome": "Fresno State Bulldogs",
+          "price": 0.15,
+          "value": 74.25,
+          "timestamp": 1794111409,
+          "slug": "cbb-frest-ucsd-2026-11-07",
+          "event_slug": "cbb-frest-ucsd-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Warriors",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.8398487304,
+          "value": 1554.5599999704,
+          "timestamp": 1794111394,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
           "result": "ongoing"
         },
         {
           "title": "Spurs vs. Trail Blazers",
           "side": "BUY",
           "outcome": "Trail Blazers",
-          "price": 0.22,
-          "value": 2.42,
-          "timestamp": 1794110665,
+          "price": 0.11,
+          "value": 2.53,
+          "timestamp": 1794111358,
           "slug": "nba-sas-por-2026-11-07",
           "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Trail Blazers: O/U 228.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.36,
+          "value": 6.4799999999999995,
+          "timestamp": 1794111343,
+          "slug": "nba-sas-por-2026-11-07-total-228pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-23.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.82,
+          "value": 99.22,
+          "timestamp": 1794111333,
+          "slug": "nba-sas-por-2026-11-07-spread-away-23pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Trail Blazers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.1161098983,
+          "value": 471.778899871543,
+          "timestamp": 1794111333,
+          "slug": "nba-sas-por-2026-11-07",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-19.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.71,
+          "value": 134.9,
+          "timestamp": 1794111331,
+          "slug": "nba-sas-por-2026-11-07-spread-away-19pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-17.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.65,
+          "value": 130,
+          "timestamp": 1794111331,
+          "slug": "nba-sas-por-2026-11-07-spread-away-17pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-7.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.29,
+          "value": 57.99999999999999,
+          "timestamp": 1794111331,
+          "slug": "nba-sas-por-2026-11-07-spread-away-7pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Trail Blazers: O/U 224.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.3855565841,
+          "value": 83.299499994805,
+          "timestamp": 1794111321,
+          "slug": "nba-sas-por-2026-11-07-total-224pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Trail Blazers: O/U 221.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.41,
+          "value": 393.59999999999997,
+          "timestamp": 1794111295,
+          "slug": "nba-sas-por-2026-11-07-total-221pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Trail Blazers: O/U 225.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.29,
+          "value": 182.41,
+          "timestamp": 1794111295,
+          "slug": "nba-sas-por-2026-11-07-total-225pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-17.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.63,
+          "value": 141.75,
+          "timestamp": 1794111295,
+          "slug": "nba-sas-por-2026-11-07-spread-away-17pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-11.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.42,
+          "value": 147.84,
+          "timestamp": 1794111295,
+          "slug": "nba-sas-por-2026-11-07-spread-away-11pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-13.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.49,
+          "value": 147.98,
+          "timestamp": 1794111295,
+          "slug": "nba-sas-por-2026-11-07-spread-away-13pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-21.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.75,
+          "value": 123.75,
+          "timestamp": 1794111295,
+          "slug": "nba-sas-por-2026-11-07-spread-away-21pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Trail Blazers: O/U 223.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.35,
+          "value": 302.04999999999995,
+          "timestamp": 1794111295,
+          "slug": "nba-sas-por-2026-11-07-total-223pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Trail Blazers: O/U 213.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.64,
+          "value": 366.08,
+          "timestamp": 1794111295,
+          "slug": "nba-sas-por-2026-11-07-total-213pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-5.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.23,
+          "value": 46,
+          "timestamp": 1794111295,
+          "slug": "nba-sas-por-2026-11-07-spread-away-5pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Trail Blazers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.12,
+          "value": 29.996399999999998,
+          "timestamp": 1794111295,
+          "slug": "nba-sas-por-2026-11-07",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "1H Spread: Spurs (-10.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.2692729676,
+          "value": 407.40999997880004,
+          "timestamp": 1794111295,
+          "slug": "nba-sas-por-2026-11-07-1h-spread-away-10pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rockets vs. Suns",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.8340387481,
+          "value": 559.6399999751,
+          "timestamp": 1794111217,
+          "slug": "nba-hou-phx-2026-11-07",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Warriors",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.3749735779,
+          "value": 180.94350001564501,
+          "timestamp": 1794111211,
+          "slug": "nba-orl-gsw-2026-11-07",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rockets vs. Suns",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.78,
+          "value": 39,
+          "timestamp": 1794111199,
+          "slug": "nba-hou-phx-2026-11-07",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rockets vs. Suns",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.6647369918,
+          "value": 233.661699987618,
+          "timestamp": 1794111175,
+          "slug": "nba-hou-phx-2026-11-07",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-3.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.83,
+          "value": 8.3913,
+          "timestamp": 1794111175,
+          "slug": "nba-hou-phx-2026-11-07-spread-away-3pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         },
         {
           "title": "Texas State vs. Oregon State",
           "side": "BUY",
           "outcome": "Texas State",
-          "price": 0.56,
-          "value": 2.8000000000000003,
-          "timestamp": 1794110665,
+          "price": 0.58,
+          "value": 5.22,
+          "timestamp": 1794111157,
           "slug": "cfb-txst-oregst-2026-11-07",
           "event_slug": "cfb-txst-oregst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Miami (FL) vs. Notre Dame",
-          "side": "BUY",
-          "outcome": "Miami (FL)",
-          "price": 0.026,
-          "value": 0.9099999999999999,
-          "timestamp": 1794110632,
-          "slug": "cfb-mia-nd-2026-11-07",
-          "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rockets vs. Suns",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.4483546842,
-          "value": 40.248800000634,
-          "timestamp": 1794110625,
-          "slug": "nba-hou-phx-2026-11-07",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-5.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.15,
-          "value": 0.75,
-          "timestamp": 1794110478,
-          "slug": "nba-orl-gsw-2026-11-07-spread-home-5pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Trail Blazers",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.74,
-          "value": 26.5882,
-          "timestamp": 1794110445,
-          "slug": "nba-sas-por-2026-11-07",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Rockets (-1.5)",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.61,
-          "value": 54.29,
-          "timestamp": 1794110404,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-1pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rockets vs. Suns",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.5579652194,
-          "value": 1056.875399978704,
-          "timestamp": 1794110386,
-          "slug": "nba-hou-phx-2026-11-07",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rockets vs. Suns",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.5095092602,
-          "value": 460.255000016466,
-          "timestamp": 1794110373,
-          "slug": "nba-hou-phx-2026-11-07",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-3.5)",
-          "side": "BUY",
-          "outcome": "Magic",
-          "price": 0.67,
-          "value": 3.35,
-          "timestamp": 1794110362,
-          "slug": "nba-orl-gsw-2026-11-07-spread-home-3pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 221.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4,
-          "value": 2,
-          "timestamp": 1794110362,
-          "slug": "nba-orl-gsw-2026-11-07-total-221pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Miami (FL) vs. Notre Dame",
-          "side": "BUY",
-          "outcome": "Notre Dame",
-          "price": 0.88,
-          "value": 15218.429599999998,
-          "timestamp": 1794110352,
-          "slug": "cfb-mia-nd-2026-11-07",
-          "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors",
-          "side": "BUY",
-          "outcome": "Magic",
-          "price": 0.25,
-          "value": 23.175,
-          "timestamp": 1794110347,
-          "slug": "nba-orl-gsw-2026-11-07",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 219.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.51,
-          "value": 36.7863,
-          "timestamp": 1794110334,
-          "slug": "nba-orl-gsw-2026-11-07-total-219pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rockets vs. Suns",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.53,
-          "value": 448.91,
-          "timestamp": 1794110334,
-          "slug": "nba-hou-phx-2026-11-07",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rockets vs. Suns",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.4331419305,
-          "value": 1121.837599995,
-          "timestamp": 1794110317,
-          "slug": "nba-hou-phx-2026-11-07",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Suns (-7.5)",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.81,
-          "value": 42.120000000000005,
-          "timestamp": 1794110316,
-          "slug": "nba-hou-phx-2026-11-07-spread-home-7pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Trail Blazers",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.7168673145,
-          "value": 1011.449600047485,
-          "timestamp": 1794110310,
-          "slug": "nba-sas-por-2026-11-07",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-4.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.6,
-          "value": 6,
-          "timestamp": 1794110308,
-          "slug": "nba-sas-por-2026-11-07-spread-away-4pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Trail Blazers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.3,
-          "value": 2.4,
-          "timestamp": 1794110278,
-          "slug": "nba-sas-por-2026-11-07",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Rockets vs. Suns",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.4,
-          "value": 599,
-          "timestamp": 1794110272,
-          "slug": "nba-hou-phx-2026-11-07",
-          "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -5988,14 +5988,190 @@
       "label": "dips.",
       "specialty": "Soccer+NBA",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 3,
+        "losses": 7,
         "totalTrades": 500,
-        "winRate": 0,
-        "volume": 5685.356528982407,
+        "winRate": 0.3,
+        "volume": 5649.941081029807,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Warriors (-4.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.65,
+          "value": 18.499000000000002,
+          "timestamp": 1794111855,
+          "slug": "nba-orl-gsw-2026-11-07-spread-home-4pt5",
+          "event_slug": "nba-orl-gsw-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Fresno State Bulldogs vs. California-San Diego Tritons",
+          "side": "SELL",
+          "outcome": "Fresno State Bulldogs",
+          "price": 0.05,
+          "value": 2.4000000000000004,
+          "timestamp": 1794111760,
+          "slug": "cbb-frest-ucsd-2026-11-07",
+          "event_slug": "cbb-frest-ucsd-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Fresno State Bulldogs vs. California-San Diego Tritons",
+          "side": "BUY",
+          "outcome": "Fresno State Bulldogs",
+          "price": 0.06,
+          "value": 2.94,
+          "timestamp": 1794111757,
+          "slug": "cbb-frest-ucsd-2026-11-07",
+          "event_slug": "cbb-frest-ucsd-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Suns Team Total: O/U 102.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.94,
+          "value": 33.839999999999996,
+          "timestamp": 1794111751,
+          "slug": "nba-hou-phx-2026-11-07-team-total-phx-102pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Suns Team Total: O/U 102.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.9393953045,
+          "value": 110.91999300437678,
+          "timestamp": 1794111751,
+          "slug": "nba-hou-phx-2026-11-07-team-total-phx-102pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Suns Team Total: O/U 102.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.94,
+          "value": 675.86,
+          "timestamp": 1794111751,
+          "slug": "nba-hou-phx-2026-11-07-team-total-phx-102pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Suns Team Total: O/U 102.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.8860401799,
+          "value": 670.6899890363256,
+          "timestamp": 1794111751,
+          "slug": "nba-hou-phx-2026-11-07-team-total-phx-102pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Suns (-3.5)",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.06,
+          "value": 3.12,
+          "timestamp": 1794111744,
+          "slug": "nba-hou-phx-2026-11-07-spread-home-3pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Club Atletico La Paz vs. Tlaxcala FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.87,
+          "value": 26.1,
+          "timestamp": 1794111667,
+          "slug": "mex2-clu-tla-2026-11-07-draw",
+          "event_slug": "mex2-clu-tla-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sacramento Republic FC win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.59,
+          "value": 14.16,
+          "timestamp": 1794111637,
+          "slug": "uslc-srp-pas-2026-11-07-srp",
+          "event_slug": "uslc-srp-pas-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Rockets vs. Suns: O/U 222.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.08,
+          "value": 2.38,
+          "timestamp": 1794111601,
+          "slug": "nba-hou-phx-2026-11-07-total-222pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Vanraure Hachinohe FC vs. Hokkaidō Consadole Sapporo end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.68,
+          "value": 21.080000000000002,
+          "timestamp": 1794111591,
+          "slug": "ja2-van-con-2026-11-07-draw",
+          "event_slug": "ja2-van-con-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-3.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.95,
+          "value": 89.3,
+          "timestamp": 1794111483,
+          "slug": "nba-hou-phx-2026-11-07-spread-away-3pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Canucks vs. Oilers: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.46,
+          "value": 46,
+          "timestamp": 1794111453,
+          "slug": "nhl-van-edm-2026-11-07-total-6pt5",
+          "event_slug": "nhl-van-edm-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Canucks vs. Oilers: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.45,
+          "value": 45,
+          "timestamp": 1794111441,
+          "slug": "nhl-van-edm-2026-11-07-total-6pt5",
+          "event_slug": "nhl-van-edm-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Suns (-7.5)",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.63,
+          "value": 36.54,
+          "timestamp": 1794111405,
+          "slug": "nba-hou-phx-2026-11-07-spread-home-7pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Warriors (-9.5)",
           "side": "BUY",
@@ -6004,7 +6180,7 @@
           "value": 1.239999999333333,
           "timestamp": 1794111241,
           "slug": "nba-orl-gsw-2026-11-07-spread-home-9pt5",
-          "event_slug": "",
+          "event_slug": "nba-orl-gsw-2026-11-07",
           "result": "ongoing"
         },
         {
@@ -6170,7 +6346,7 @@
           "timestamp": 1794110647,
           "slug": "cfb-mia-nd-2026-11-07",
           "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Warriors (-4.5)",
@@ -6203,7 +6379,7 @@
           "timestamp": 1794110574,
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card)",
@@ -6214,7 +6390,7 @@
           "timestamp": 1794110572,
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card)",
@@ -6225,7 +6401,7 @@
           "timestamp": 1794110571,
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card)",
@@ -6236,7 +6412,7 @@
           "timestamp": 1794110563,
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will New Mexico United win on 2026-11-07?",
@@ -6291,7 +6467,7 @@
           "timestamp": 1794110467,
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Georgia vs. Ole Miss: O/U 57.5",
@@ -6313,7 +6489,7 @@
           "timestamp": 1794110437,
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card)",
@@ -6324,7 +6500,7 @@
           "timestamp": 1794110437,
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card)",
@@ -6335,7 +6511,7 @@
           "timestamp": 1794110436,
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Utah Valley Wolverines (-7.5)",
@@ -6357,7 +6533,7 @@
           "timestamp": 1794110383,
           "slug": "cfb-mia-nd-2026-11-07-spread-away-1pt5",
           "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Big Bash League, Women: Sydney Sixers vs Sydney Thunder",
@@ -6368,182 +6544,6 @@
           "timestamp": 1794110374,
           "slug": "cricwbbl-sys-syt-2026-11-07",
           "event_slug": "cricwbbl-sys-syt-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 215.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.9594764398,
-          "value": 183.2600000018,
-          "timestamp": 1794110362,
-          "slug": "nba-orl-gsw-2026-11-07-total-215pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Rockets (-6.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.86,
-          "value": 18.919999999999998,
-          "timestamp": 1794110272,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-6pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Miami (FL) vs. Notre Dame",
-          "side": "BUY",
-          "outcome": "Notre Dame",
-          "price": 0.9405,
-          "value": 528.99363,
-          "timestamp": 1794110271,
-          "slug": "cfb-mia-nd-2026-11-07",
-          "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Oklahoma (-16.5)",
-          "side": "BUY",
-          "outcome": "Florida",
-          "price": 0.93,
-          "value": 272.49,
-          "timestamp": 1794110262,
-          "slug": "cfb-okl-fl-2026-11-07-spread-away-16pt5",
-          "event_slug": "cfb-okl-fl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card)",
-          "side": "BUY",
-          "outcome": "Waldo Cortes Acosta",
-          "price": 0.74,
-          "value": 273.6298,
-          "timestamp": 1794110242,
-          "slug": "ufc-joh-wal2-2026-11-07",
-          "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card)",
-          "side": "BUY",
-          "outcome": "Waldo Cortes Acosta",
-          "price": 0.55,
-          "value": 213.95000000000002,
-          "timestamp": 1794110223,
-          "slug": "ufc-joh-wal2-2026-11-07",
-          "event_slug": "ufc-joh-wal2-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors",
-          "side": "SELL",
-          "outcome": "Magic",
-          "price": 0.1623510603,
-          "value": 34.527199994000995,
-          "timestamp": 1794110206,
-          "slug": "nba-orl-gsw-2026-11-07",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors",
-          "side": "BUY",
-          "outcome": "Magic",
-          "price": 0.14,
-          "value": 29.7738,
-          "timestamp": 1794110205,
-          "slug": "nba-orl-gsw-2026-11-07",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Warriors (-1.5)",
-          "side": "BUY",
-          "outcome": "Magic",
-          "price": 0.24,
-          "value": 56.04,
-          "timestamp": 1794110170,
-          "slug": "nba-orl-gsw-2026-11-07-spread-home-1pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 209.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.07,
-          "value": 1.4000000000000001,
-          "timestamp": 1794110023,
-          "slug": "nba-orl-gsw-2026-11-07-total-209pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 205.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.0138842975,
-          "value": 1.6799999975,
-          "timestamp": 1794109999,
-          "slug": "nba-orl-gsw-2026-11-07-total-205pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Warriors: O/U 209.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.71,
-          "value": 14.91,
-          "timestamp": 1794109968,
-          "slug": "nba-orl-gsw-2026-11-07-total-209pt5",
-          "event_slug": "nba-orl-gsw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Texas State vs. Oregon State: O/U 67.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.4,
-          "value": 60.78,
-          "timestamp": 1794109948,
-          "slug": "cfb-txst-oregst-2026-11-07-total-67pt5",
-          "event_slug": "cfb-txst-oregst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pumas de la UNAM vs. CF América: 1st Half O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.24,
-          "value": 3.5999999999999996,
-          "timestamp": 1794109912,
-          "slug": "mex-pum-ame-2026-11-07-first-half-total-2pt5",
-          "event_slug": "mex-pum-ame-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chovy win Worlds 2026 Finals MVP?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.2,
-          "value": 2.79,
-          "timestamp": 1794109912,
-          "slug": "will-chovy-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Rockets (-1.5)",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.55,
-          "value": 137.5,
-          "timestamp": 1794109878,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-1pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -7456,10 +7456,10 @@
       "label": "0xfC0847fe",
       "specialty": "Soccer+NHL",
       "stats48h": {
-        "wins": 32,
-        "losses": 14,
+        "wins": 35,
+        "losses": 15,
         "totalTrades": 80,
-        "winRate": 0.6956521739130435,
+        "winRate": 0.7,
         "volume": 51081.72068909354,
         "pnl": 0
       },
@@ -7473,7 +7473,7 @@
           "timestamp": 1794109573,
           "slug": "cfb-mia-nd-2026-11-07",
           "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Sharks vs. Stars",
@@ -7550,7 +7550,7 @@
           "timestamp": 1794100719,
           "slug": "cfb-mia-nd-2026-11-07",
           "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Miami (FL) vs. Notre Dame",
@@ -7561,7 +7561,7 @@
           "timestamp": 1794100716,
           "slug": "cfb-mia-nd-2026-11-07",
           "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Miami (FL) vs. Notre Dame",
@@ -7572,7 +7572,7 @@
           "timestamp": 1794100219,
           "slug": "cfb-mia-nd-2026-11-07",
           "event_slug": "cfb-mia-nd-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Alabama vs. LSU",
@@ -9063,5 +9063,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T04:16:30.551Z"
+  "lastUpdate": "2026-11-08T04:27:24.225Z"
 }
