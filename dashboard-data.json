@@ -4846,12 +4846,45 @@
       "stats48h": {
         "wins": 26,
         "losses": 10,
-        "totalTrades": 38,
+        "totalTrades": 41,
         "winRate": 0.7222222222222222,
-        "volume": 65563.64469975732,
+        "volume": 72385.29369975733,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Crystal Palace FC vs. Liverpool FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.55,
+          "value": 551.749,
+          "timestamp": 1794148380,
+          "slug": "epl-cry-liv-2026-11-08-total-2pt5",
+          "event_slug": "epl-cry-liv-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Crystal Palace FC vs. Liverpool FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.54,
+          "value": 5229.900000000001,
+          "timestamp": 1794148222,
+          "slug": "epl-cry-liv-2026-11-08-total-2pt5",
+          "event_slug": "epl-cry-liv-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Crystal Palace FC vs. Liverpool FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 1040,
+          "timestamp": 1794148182,
+          "slug": "epl-cry-liv-2026-11-08-total-2pt5",
+          "event_slug": "epl-cry-liv-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Sunderland AFC vs. Chelsea FC: O/U 2.5",
           "side": "BUY",
@@ -7886,7 +7919,7 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 41,
+        "wins": 43,
         "losses": 0,
         "totalTrades": 70,
         "winRate": 1,
@@ -7947,7 +7980,7 @@
           "timestamp": 1794141996,
           "slug": "tur-riz-erz-2026-11-08-total-0pt5",
           "event_slug": "tur-riz-erz-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "SC Heerenveen vs. Feyenoord Rotterdam: O/U 5.5",
@@ -7980,7 +8013,7 @@
           "timestamp": 1794136164,
           "slug": "tur-riz-erz-2026-11-08-total-2pt5",
           "event_slug": "tur-riz-erz-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "SSC Napoli vs. SS Lazio: O/U 7.5 Total Corners",
@@ -8972,5 +9005,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T14:25:57.078Z"
+  "lastUpdate": "2026-11-08T14:36:25.841Z"
 }
