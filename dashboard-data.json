@@ -3696,10 +3696,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9635.317060003026,
+        "volume": 9638.282260003027,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Dejan Šoškić be the next Prime Minister of Serbia?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.44,
+          "value": 3.0052,
+          "timestamp": 1794135438,
+          "slug": "will-dejan-soskic-be-the-next-prime-minister-of-serbia",
+          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
+          "result": "ongoing"
+        },
         {
           "title": "Will Dejan Šoškić be the next Prime Minister of Serbia?",
           "side": "SELL",
@@ -4237,17 +4248,6 @@
           "timestamp": 1794118000,
           "slug": "will-su-chiao-hui-win-the-next-new-taipei-mayor-election-20260813125857202",
           "event_slug": "new-taipei-mayor-election-winner-20260813125857200",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kamala Harris Democratic nomination odds leader on November 30?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.04,
-          "timestamp": 1794115750,
-          "slug": "kamala-harris-democratic-nomination-odds-leader-on-november-30",
-          "event_slug": "democratic-nomination-odds-leader-on-november-30",
           "result": "ongoing"
         }
       ]
@@ -6681,7 +6681,7 @@
       "stats48h": {
         "wins": 12,
         "losses": 11,
-        "totalTrades": 171,
+        "totalTrades": 170,
         "winRate": 0.5217391304347826,
         "volume": 81706.64874534238,
         "pnl": 0
@@ -8851,5 +8851,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T10:54:02.619Z"
+  "lastUpdate": "2026-11-08T11:05:46.381Z"
 }
