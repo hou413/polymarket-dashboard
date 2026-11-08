@@ -6712,14 +6712,25 @@
       "label": "JabJabich",
       "specialty": "Tennis+NFL",
       "stats48h": {
-        "wins": 8,
+        "wins": 7,
         "losses": 10,
-        "totalTrades": 177,
-        "winRate": 0.4444444444444444,
-        "volume": 91757.354875969,
+        "totalTrades": 178,
+        "winRate": 0.4117647058823529,
+        "volume": 92493.16879596999,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: Prestige vs KUUSAMO.gg - Map 2 Winner AND Counter-Strike: UNiTY ",
+          "side": "BUY",
+          "outcome": "",
+          "price": 0.6162808883,
+          "value": 981.1752199901439,
+          "timestamp": 1794139573,
+          "slug": "",
+          "event_slug": "",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: Spirit vs FUT Esports - Map 1 Winner",
           "side": "BUY",
@@ -7258,17 +7269,6 @@
           "slug": "",
           "event_slug": "",
           "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: Lunacy Team vs maybe - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Lunacy Team",
-          "price": 0.636013531,
-          "value": 245.36129998918,
-          "timestamp": 1794057570,
-          "slug": "cs2-lt-maybe-2026-11-07-game2",
-          "event_slug": "cs2-lt-maybe-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -8884,5 +8884,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T11:58:02.482Z"
+  "lastUpdate": "2026-11-08T12:08:00.595Z"
 }
