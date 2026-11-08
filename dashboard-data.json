@@ -3696,10 +3696,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 8602.207180004887,
+        "volume": 8625.184880004885,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Mansfield Town FC win on 2026-11-14?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 21.934,
+          "timestamp": 1794141466,
+          "slug": "el1-ste-man-2026-11-14-man",
+          "event_slug": "el1-ste-man-2026-11-14",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Stevenage FC vs. Mansfield Town FC end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.051,
+          "value": 1.1219999999999999,
+          "timestamp": 1794141466,
+          "slug": "el1-ste-man-2026-11-14-draw",
+          "event_slug": "el1-ste-man-2026-11-14",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 400-419 tweets from November 3 to November 10, 2026?",
           "side": "SELL",
@@ -4225,28 +4247,6 @@
           "value": 0.03915,
           "timestamp": 1794120465,
           "slug": "richard-madden-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Harris Dickinson announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.03915,
-          "timestamp": 1794120465,
-          "slug": "harris-dickinson-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "James Norton announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.03915,
-          "timestamp": 1794120465,
-          "slug": "james-norton-announced-as-next-james-bond-289",
           "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
         }
@@ -6714,12 +6714,23 @@
       "stats48h": {
         "wins": 6,
         "losses": 8,
-        "totalTrades": 186,
+        "totalTrades": 187,
         "winRate": 0.42857142857142855,
-        "volume": 82500.71408539955,
+        "volume": 80245.54348539142,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "EYEBALLERS",
+          "price": 0.6884671455,
+          "value": 707.44130002998,
+          "timestamp": 1794141880,
+          "slug": "cs2-eye-innerc2-2026-11-08-game2",
+          "event_slug": "cs2-eye-innerc2-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Map Handicap: PRE (-1.5) vs KUUSAMO.gg (+1.5)",
           "side": "BUY",
@@ -7258,17 +7269,6 @@
           "slug": "cs2-priv-optibe-2026-11-07",
           "event_slug": "cs2-priv-optibe-2026-11-07",
           "result": "loss"
-        },
-        {
-          "title": "Counter-Strike: PRIVATE vs Optibet (BO3) - ESL Challenger League Europe Cup #11 ",
-          "side": "BUY",
-          "outcome": "",
-          "price": 0.747600372,
-          "value": 2962.611900038122,
-          "timestamp": 1794060759,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
         }
       ]
     },
@@ -7842,14 +7842,36 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 46,
+        "wins": 44,
         "losses": 0,
-        "totalTrades": 64,
+        "totalTrades": 66,
         "winRate": 1,
-        "volume": 53102.08758,
+        "volume": 51756.626379999994,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Çaykur Rizespor vs. Erzurumspor FK: O/U 0.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.999,
+          "value": 549.45,
+          "timestamp": 1794141996,
+          "slug": "tur-riz-erz-2026-11-08-total-0pt5",
+          "event_slug": "tur-riz-erz-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "SC Heerenveen vs. Feyenoord Rotterdam: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.75,
+          "value": 1256.655,
+          "timestamp": 1794141637,
+          "slug": "ere-her1-fey-2026-11-08-total-5pt5",
+          "event_slug": "ere-her1-fey-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "FC København vs. Brøndby IF: O/U 0.5",
           "side": "BUY",
@@ -8377,28 +8399,6 @@
           "slug": "epl-eve-cov-2026-11-06-total-0pt5",
           "event_slug": "epl-eve-cov-2026-11-06-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Everton FC vs. Coventry City FC: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.8,
-          "value": 1567.352,
-          "timestamp": 1793998783,
-          "slug": "epl-eve-cov-2026-11-06-total-0pt5",
-          "event_slug": "epl-eve-cov-2026-11-06-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Hamburger SV vs. Borussia Mönchengladbach: O/U 2.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 1584.2142,
-          "timestamp": 1793998680,
-          "slug": "bun-hsv-moe-2026-11-06-total-2pt5",
-          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -8895,5 +8895,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T12:38:28.636Z"
+  "lastUpdate": "2026-11-08T12:49:00.606Z"
 }
