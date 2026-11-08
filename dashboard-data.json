@@ -6713,13 +6713,24 @@
       "specialty": "Tennis+NFL",
       "stats48h": {
         "wins": 6,
-        "losses": 8,
-        "totalTrades": 187,
-        "winRate": 0.42857142857142855,
-        "volume": 80245.54348539142,
+        "losses": 7,
+        "totalTrades": 188,
+        "winRate": 0.46153846153846156,
+        "volume": 80856.05637534185,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "EYEBALLERS",
+          "price": 0.648973321,
+          "value": 673.3228000039201,
+          "timestamp": 1794142068,
+          "slug": "cs2-eye-innerc2-2026-11-08-game2",
+          "event_slug": "cs2-eye-innerc2-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 2 Winner",
           "side": "BUY",
@@ -7255,17 +7266,6 @@
           "price": 0.038496833,
           "value": 52.02615998952,
           "timestamp": 1794060781,
-          "slug": "cs2-priv-optibe-2026-11-07",
-          "event_slug": "cs2-priv-optibe-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Counter-Strike: PRIVATE vs Optibet (BO3) - ESL Challenger League Europe Cup #11 ",
-          "side": "SELL",
-          "outcome": "Optibet",
-          "price": 0.0517047614,
-          "value": 62.809910053492,
-          "timestamp": 1794060774,
           "slug": "cs2-priv-optibe-2026-11-07",
           "event_slug": "cs2-priv-optibe-2026-11-07",
           "result": "loss"
@@ -7842,14 +7842,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 44,
+        "wins": 43,
         "losses": 0,
-        "totalTrades": 66,
+        "totalTrades": 67,
         "winRate": 1,
-        "volume": 51756.626379999994,
+        "volume": 49810.95548999999,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "SC Heerenveen vs. Feyenoord Rotterdam: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.631,
+          "value": 11.55992,
+          "timestamp": 1794142135,
+          "slug": "ere-her1-fey-2026-11-08-total-6pt5",
+          "event_slug": "ere-her1-fey-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Çaykur Rizespor vs. Erzurumspor FK: O/U 0.5",
           "side": "SELL",
@@ -8388,17 +8399,6 @@
           "slug": "epl-eve-cov-2026-11-06-total-1pt5",
           "event_slug": "epl-eve-cov-2026-11-06-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Everton FC vs. Coventry City FC: O/U 0.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 1957.23081,
-          "timestamp": 1793999593,
-          "slug": "epl-eve-cov-2026-11-06-total-0pt5",
-          "event_slug": "epl-eve-cov-2026-11-06-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -8895,5 +8895,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T12:49:00.606Z"
+  "lastUpdate": "2026-11-08T12:59:52.641Z"
 }
