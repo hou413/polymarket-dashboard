@@ -3696,10 +3696,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 8653.863850004847,
+        "volume": 8371.713850004846,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 220-239 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.015,
+          "value": 0.102,
+          "timestamp": 1794144228,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-220-239",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 240-259 tweets from November 3 to November 10, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.13,
+          "value": 0.754,
+          "timestamp": 1794143664,
+          "slug": "elon-musk-of-tweets-november-3-november-10-2026-240-259",
+          "event_slug": "elon-musk-of-tweets-november-3-november-10-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 115-139 tweets from November 7 to November 9, 2026?",
           "side": "BUY",
@@ -4225,28 +4247,6 @@
           "value": 7.5551400046,
           "timestamp": 1794121344,
           "slug": "will-zelenskyy-and-putin-not-meet",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy and Putin meet next in Russia before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 141.574,
-          "timestamp": 1794121344,
-          "slug": "will-zelenskyy-and-putin-meet-next-in-russia",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy and Putin meet next in China before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 141.432,
-          "timestamp": 1794121344,
-          "slug": "will-zelenskyy-and-putin-meet-next-in-china",
           "event_slug": "where-will-zelenskyy-and-putin-meet-next",
           "result": "ongoing"
         }
@@ -5246,7 +5246,7 @@
       "stats48h": {
         "wins": 42,
         "losses": 3,
-        "totalTrades": 73,
+        "totalTrades": 72,
         "winRate": 0.9333333333333333,
         "volume": 126131.44043048154,
         "pnl": 0
@@ -8906,5 +8906,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T13:21:03.566Z"
+  "lastUpdate": "2026-11-08T13:31:54.492Z"
 }
