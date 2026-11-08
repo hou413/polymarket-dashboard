@@ -34,13 +34,24 @@
       "specialty": "NBA+NFL",
       "stats48h": {
         "wins": 14,
-        "losses": 18,
+        "losses": 17,
         "totalTrades": 500,
-        "winRate": 0.4375,
-        "volume": 8710.67819999775,
+        "winRate": 0.45161290322580644,
+        "volume": 8638.01579999775,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spurs vs. Trail Blazers: O/U 227.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.32,
+          "value": 3.3376,
+          "timestamp": 1794113910,
+          "slug": "nba-sas-por-2026-11-07-total-227pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Spurs (-19.5)",
           "side": "BUY",
@@ -579,17 +590,6 @@
           "slug": "nba-orl-gsw-2026-11-07-total-199pt5",
           "event_slug": "nba-orl-gsw-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Spread: Rockets (-7.5)",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.38,
-          "value": 76,
-          "timestamp": 1794107031,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-7pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -598,10 +598,10 @@
       "label": "chubbytoro",
       "specialty": "综合",
       "stats48h": {
-        "wins": 13,
-        "losses": 25,
+        "wins": 14,
+        "losses": 27,
         "totalTrades": 62,
-        "winRate": 0.34210526315789475,
+        "winRate": 0.34146341463414637,
         "volume": 136571.01040027454,
         "pnl": 0
       },
@@ -813,7 +813,7 @@
           "timestamp": 1794071545,
           "slug": "nhl-det-col-2026-11-07-spread-away-1pt5",
           "event_slug": "nhl-det-col-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Senators (-1.5)",
@@ -945,7 +945,7 @@
           "timestamp": 1794043246,
           "slug": "nhl-det-col-2026-11-07-spread-home-1pt5",
           "event_slug": "nhl-det-col-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Red Wings vs. Avalanche: O/U 6.5",
@@ -956,7 +956,7 @@
           "timestamp": 1794042991,
           "slug": "nhl-det-col-2026-11-07-total-6pt5",
           "event_slug": "nhl-det-col-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Lightning vs. Wild",
@@ -1371,7 +1371,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 0,
-        "totalTrades": 63,
+        "totalTrades": 62,
         "winRate": 1,
         "volume": 15801.676499021141,
         "pnl": 0
@@ -5427,10 +5427,120 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 4322.205400017052,
+        "volume": 4214.172800073194,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Spurs (-25.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.76,
+          "value": 30.4,
+          "timestamp": 1794114243,
+          "slug": "nba-sas-por-2026-11-07-spread-away-25pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-29.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.5637204071,
+          "value": 100.24639999459302,
+          "timestamp": 1794114243,
+          "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Trail Blazers: O/U 233.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.4797340426,
+          "value": 541.1400000528,
+          "timestamp": 1794114184,
+          "slug": "nba-sas-por-2026-11-07-total-233pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Fresno State vs. Utah State",
+          "side": "BUY",
+          "outcome": "Fresno State",
+          "price": 0.1,
+          "value": 76.3,
+          "timestamp": 1794114168,
+          "slug": "cfb-frest-utahst-2026-11-07",
+          "event_slug": "cfb-frest-utahst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-17.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.1,
+          "value": 20,
+          "timestamp": 1794114052,
+          "slug": "nba-sas-por-2026-11-07-spread-away-17pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-27.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.44,
+          "value": 88,
+          "timestamp": 1794114052,
+          "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Fresno State vs. Utah State",
+          "side": "BUY",
+          "outcome": "Fresno State",
+          "price": 0.1,
+          "value": 1.5,
+          "timestamp": 1794114016,
+          "slug": "cfb-frest-utahst-2026-11-07",
+          "event_slug": "cfb-frest-utahst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-29.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.449,
+          "value": 8.98,
+          "timestamp": 1794114015,
+          "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-31.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.379,
+          "value": 113.7,
+          "timestamp": 1794114015,
+          "slug": "nba-sas-por-2026-11-07-spread-away-31pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-19.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.82,
+          "value": 118.89999999999999,
+          "timestamp": 1794113886,
+          "slug": "nba-sas-por-2026-11-07-spread-away-19pt5",
+          "event_slug": "nba-sas-por-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Spurs (-23.5)",
           "side": "BUY",
@@ -5869,116 +5979,6 @@
           "timestamp": 1794112875,
           "slug": "cfb-txst-oregst-2026-11-07-spread-away-1pt5",
           "event_slug": "cfb-txst-oregst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Oregon State (-3.5)",
-          "side": "BUY",
-          "outcome": "Texas State",
-          "price": 0.72,
-          "value": 127.44,
-          "timestamp": 1794112875,
-          "slug": "cfb-txst-oregst-2026-11-07-spread-home-3pt5",
-          "event_slug": "cfb-txst-oregst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Oregon State (-5.5)",
-          "side": "BUY",
-          "outcome": "Texas State",
-          "price": 0.78,
-          "value": 28.86,
-          "timestamp": 1794112875,
-          "slug": "cfb-txst-oregst-2026-11-07-spread-home-5pt5",
-          "event_slug": "cfb-txst-oregst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Texas State (-3.5)",
-          "side": "BUY",
-          "outcome": "Texas State",
-          "price": 0.4898470948,
-          "value": 160.1799999996,
-          "timestamp": 1794112875,
-          "slug": "cfb-txst-oregst-2026-11-07-spread-away-3pt5",
-          "event_slug": "cfb-txst-oregst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Texas State (-13.5)",
-          "side": "BUY",
-          "outcome": "Texas State",
-          "price": 0.23,
-          "value": 4.6000000000000005,
-          "timestamp": 1794112875,
-          "slug": "cfb-txst-oregst-2026-11-07-spread-away-13pt5",
-          "event_slug": "cfb-txst-oregst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Oregon State (-2.5)",
-          "side": "BUY",
-          "outcome": "Texas State",
-          "price": 0.6679816514,
-          "value": 145.62000000519998,
-          "timestamp": 1794112875,
-          "slug": "cfb-txst-oregst-2026-11-07-spread-home-2pt5",
-          "event_slug": "cfb-txst-oregst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-5.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.86,
-          "value": 172,
-          "timestamp": 1794112762,
-          "slug": "nba-sas-por-2026-11-07-spread-away-5pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-17.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.45,
-          "value": 90,
-          "timestamp": 1794112761,
-          "slug": "nba-sas-por-2026-11-07-spread-away-17pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-11.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.6638709677,
-          "value": 164.6399999896,
-          "timestamp": 1794112761,
-          "slug": "nba-sas-por-2026-11-07-spread-away-11pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-23.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.25,
-          "value": 12,
-          "timestamp": 1794112761,
-          "slug": "nba-sas-por-2026-11-07-spread-away-23pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Trail Blazers",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.8970283201,
-          "value": 301.85899999685097,
-          "timestamp": 1794112708,
-          "slug": "nba-sas-por-2026-11-07",
-          "event_slug": "nba-sas-por-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -6891,14 +6891,25 @@
       "label": "0xfC0847fe",
       "specialty": "Soccer+NHL",
       "stats48h": {
-        "wins": 35,
+        "wins": 34,
         "losses": 15,
-        "totalTrades": 80,
-        "winRate": 0.7,
-        "volume": 51081.72068909354,
+        "totalTrades": 81,
+        "winRate": 0.6938775510204082,
+        "volume": 39322.42068909354,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Wyoming vs. UNLV",
+          "side": "BUY",
+          "outcome": "UNLV",
+          "price": 0.335,
+          "value": 6.7,
+          "timestamp": 1794114048,
+          "slug": "cfb-wyom-unlv-2026-11-07",
+          "event_slug": "cfb-wyom-unlv-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Miami (FL) vs. Notre Dame",
           "side": "BUY",
@@ -7434,17 +7445,6 @@
           "price": 0.34,
           "value": 2703,
           "timestamp": 1794085524,
-          "slug": "cfb-ala-lsu-2026-11-07",
-          "event_slug": "cfb-ala-lsu-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Alabama vs. LSU",
-          "side": "SELL",
-          "outcome": "Alabama",
-          "price": 0.37,
-          "value": 11766,
-          "timestamp": 1794085387,
           "slug": "cfb-ala-lsu-2026-11-07",
           "event_slug": "cfb-ala-lsu-2026-11-07",
           "result": "win"
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T04:58:52.614Z"
+  "lastUpdate": "2026-11-08T05:08:35.026Z"
 }
