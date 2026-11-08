@@ -3696,10 +3696,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9338.071420006027,
+        "volume": 9068.434440006027,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will no second mandate to form a government be given after the 2026 Israeli elec",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.39,
+          "value": 2.4687,
+          "timestamp": 1794138427,
+          "slug": "will-no-second-mandate-to-form-a-government-be-given-after-the-2026-israeli-election-20261105190000000",
+          "event_slug": "who-will-receive-the-second-mandate-to-form-israels-next-government-20261105190000000",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Delcy Rodríguez be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.30632,
+          "timestamp": 1794138162,
+          "slug": "will-delcy-rodriguez-be-the-next-leader-out-before-2027-20260630194627383",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
         {
           "title": "Will no second mandate to form a government be given after the 2026 Israeli elec",
           "side": "BUY",
@@ -4225,28 +4247,6 @@
           "value": 92.427200000941,
           "timestamp": 1794120087,
           "slug": "josh-oconnor-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "No one announced as next James Bond?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.945,
-          "value": 133.245,
-          "timestamp": 1794120087,
-          "slug": "no-one-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Tom Francis announced as next James Bond?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.987,
-          "value": 139.167,
-          "timestamp": 1794120085,
-          "slug": "tom-francis-announced-as-next-james-bond",
           "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
         }
@@ -4824,12 +4824,45 @@
       "stats48h": {
         "wins": 23,
         "losses": 10,
-        "totalTrades": 33,
+        "totalTrades": 36,
         "winRate": 0.696969696969697,
-        "volume": 52976.32329975733,
+        "volume": 63879.95719975732,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "SSC Napoli vs. SS Lazio: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.48,
+          "value": 1740.7536,
+          "timestamp": 1794138702,
+          "slug": "sea-nap-laz-2026-11-08-total-2pt5",
+          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "SSC Napoli vs. SS Lazio: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.47,
+          "value": 3369.5945,
+          "timestamp": 1794138571,
+          "slug": "sea-nap-laz-2026-11-08-total-2pt5",
+          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "SSC Napoli vs. SS Lazio: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.47,
+          "value": 5793.2858,
+          "timestamp": 1794138546,
+          "slug": "sea-nap-laz-2026-11-08-total-2pt5",
+          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Knicks (-6.5)",
           "side": "BUY",
@@ -6679,14 +6712,25 @@
       "label": "JabJabich",
       "specialty": "Tennis+NFL",
       "stats48h": {
-        "wins": 9,
+        "wins": 8,
         "losses": 10,
         "totalTrades": 177,
-        "winRate": 0.47368421052631576,
-        "volume": 91326.79567596743,
+        "winRate": 0.4444444444444444,
+        "volume": 91757.354875969,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: Spirit vs FUT Esports - Map 1 Winner",
+          "side": "BUY",
+          "outcome": "Spirit",
+          "price": 0.68,
+          "value": 765,
+          "timestamp": 1794138894,
+          "slug": "cs2-ts7-fut-2026-11-11-game1",
+          "event_slug": "cs2-ts7-fut-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B",
           "side": "BUY",
@@ -7222,17 +7266,6 @@
           "price": 0.636013531,
           "value": 245.36129998918,
           "timestamp": 1794057570,
-          "slug": "cs2-lt-maybe-2026-11-07-game2",
-          "event_slug": "cs2-lt-maybe-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Counter-Strike: Lunacy Team vs maybe - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Lunacy Team",
-          "price": 0.7324911297,
-          "value": 334.440799998426,
-          "timestamp": 1794057309,
           "slug": "cs2-lt-maybe-2026-11-07-game2",
           "event_slug": "cs2-lt-maybe-2026-11-07",
           "result": "win"
@@ -8851,5 +8884,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T11:47:39.076Z"
+  "lastUpdate": "2026-11-08T11:58:02.482Z"
 }
