@@ -386,14 +386,25 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 15,
+        "wins": 14,
         "losses": 14,
         "totalTrades": 500,
-        "winRate": 0.5172413793103449,
-        "volume": 9168.58069998975,
+        "winRate": 0.5,
+        "volume": 9020.58069998975,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bengals vs. Falcons: O/U 58.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.4,
+          "value": 20,
+          "timestamp": 1794150550,
+          "slug": "nfl-cin-atl-2026-11-08-total-58pt5",
+          "event_slug": "nfl-cin-atl-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Bengals vs. Falcons: O/U 52.5",
           "side": "BUY",
@@ -930,17 +941,6 @@
           "value": 137.3899999953,
           "timestamp": 1794109878,
           "slug": "nba-hou-phx-2026-11-07-spread-away-1pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Rockets (-3.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.56,
-          "value": 168.00000000000003,
-          "timestamp": 1794109878,
-          "slug": "nba-hou-phx-2026-11-07-spread-away-3pt5",
           "event_slug": "nba-hou-phx-2026-11-07",
           "result": "win"
         }
@@ -3718,10 +3718,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1878.105030014544,
+        "volume": 1877.0852000145442,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Ahmad Vahidi be head of state in Iran end of 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.012,
+          "timestamp": 1794150999,
+          "slug": "will-ahmad-vahidi-be-head-of-state-in-iran-end-of-2026",
+          "event_slug": "iran-leader-end-of-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 65-89 tweets from November 7 to November 9, 2026?",
           "side": "SELL",
@@ -4258,17 +4269,6 @@
           "value": 1.03182,
           "timestamp": 1794132471,
           "slug": "will-segundo-valdez-zavala-win-the-next-lima-mayoral-elections-20260724154000919",
-          "event_slug": "lima-mayoral-election-winner-20260724153924694",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Flor de María Hurtado Valdez win the next Lima mayoral elections?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 1.03183,
-          "timestamp": 1794132471,
-          "slug": "will-flor-de-maria-hurtado-valdez-win-the-next-lima-mayoral-elections-20260724154000915",
           "event_slug": "lima-mayoral-election-winner-20260724153924694",
           "result": "ongoing"
         }
@@ -4844,10 +4844,10 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 26,
+        "wins": 27,
         "losses": 10,
         "totalTrades": 41,
-        "winRate": 0.7222222222222222,
+        "winRate": 0.7297297297297297,
         "volume": 72385.29369975733,
         "pnl": 0
       },
@@ -4905,7 +4905,7 @@
           "timestamp": 1794142794,
           "slug": "ere-her1-fey-2026-11-08-total-6pt5",
           "event_slug": "ere-her1-fey-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "SSC Napoli vs. SS Lazio: O/U 2.5",
@@ -7919,7 +7919,7 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 46,
+        "wins": 48,
         "losses": 0,
         "totalTrades": 70,
         "winRate": 1,
@@ -7969,7 +7969,7 @@
           "timestamp": 1794142135,
           "slug": "ere-her1-fey-2026-11-08-total-6pt5",
           "event_slug": "ere-her1-fey-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Çaykur Rizespor vs. Erzurumspor FK: O/U 0.5",
@@ -7991,7 +7991,7 @@
           "timestamp": 1794141637,
           "slug": "ere-her1-fey-2026-11-08-total-5pt5",
           "event_slug": "ere-her1-fey-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "FC København vs. Brøndby IF: O/U 0.5",
@@ -9027,5 +9027,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T15:12:31.587Z"
+  "lastUpdate": "2026-11-08T15:23:04.162Z"
 }
