@@ -33,10 +33,10 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 14,
-        "losses": 25,
+        "wins": 22,
+        "losses": 28,
         "totalTrades": 500,
-        "winRate": 0.358974358974359,
+        "winRate": 0.44,
         "volume": 8638.01579999775,
         "pnl": 0
       },
@@ -50,7 +50,7 @@
           "timestamp": 1794113910,
           "slug": "nba-sas-por-2026-11-07-total-227pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-19.5)",
@@ -61,7 +61,7 @@
           "timestamp": 1794113331,
           "slug": "nba-sas-por-2026-11-07-spread-away-19pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-17.5)",
@@ -72,7 +72,7 @@
           "timestamp": 1794113331,
           "slug": "nba-sas-por-2026-11-07-spread-away-17pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-17.5)",
@@ -83,7 +83,7 @@
           "timestamp": 1794113331,
           "slug": "nba-sas-por-2026-11-07-spread-away-17pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-23.5)",
@@ -94,7 +94,7 @@
           "timestamp": 1794113071,
           "slug": "nba-sas-por-2026-11-07-spread-away-23pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spurs vs. Trail Blazers: O/U 223.5",
@@ -127,7 +127,7 @@
           "timestamp": 1794111046,
           "slug": "nba-sas-por-2026-11-07-spread-away-7pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Warriors (-5.5)",
@@ -237,7 +237,7 @@
           "timestamp": 1794110943,
           "slug": "nba-sas-por-2026-11-07-spread-away-17pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Suns (-7.5)",
@@ -270,7 +270,7 @@
           "timestamp": 1794110791,
           "slug": "nba-sas-por-2026-11-07-spread-away-5pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spurs vs. Trail Blazers: O/U 211.5",
@@ -325,7 +325,7 @@
           "timestamp": 1794109897,
           "slug": "nba-sas-por-2026-11-07-spread-home-1pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Trail Blazers (-1.5)",
@@ -336,7 +336,7 @@
           "timestamp": 1794109896,
           "slug": "nba-sas-por-2026-11-07-spread-home-1pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Rockets (-1.5)",
@@ -446,7 +446,7 @@
           "timestamp": 1794108889,
           "slug": "nba-sas-por-2026-11-07-spread-away-19pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Magic vs. Warriors: O/U 211.5",
@@ -599,9 +599,9 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 22,
-        "losses": 27,
+        "losses": 28,
         "totalTrades": 62,
-        "winRate": 0.4489795918367347,
+        "winRate": 0.44,
         "volume": 136571.01040027454,
         "pnl": 0
       },
@@ -615,7 +615,7 @@
           "timestamp": 1794101770,
           "slug": "nhl-van-edm-2026-11-07-spread-home-1pt5",
           "event_slug": "nhl-van-edm-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Sharks vs. Stars: O/U 7.5",
@@ -1371,7 +1371,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 0,
-        "totalTrades": 62,
+        "totalTrades": 59,
         "winRate": 1,
         "volume": 15801.676499021141,
         "pnl": 0
@@ -5423,14 +5423,47 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 17,
+        "losses": 18,
         "totalTrades": 500,
-        "winRate": 0,
-        "volume": 5553.112340013039,
+        "winRate": 0.4857142857142857,
+        "volume": 5403.855939973646,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Texas State vs. Oregon State",
+          "side": "BUY",
+          "outcome": "Texas State",
+          "price": 0.8699159664,
+          "value": 517.600000008,
+          "timestamp": 1794117763,
+          "slug": "cfb-txst-oregst-2026-11-07",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas State vs. Oregon State",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.14,
+          "value": 2.3800000000000003,
+          "timestamp": 1794117723,
+          "slug": "cfb-txst-oregst-2026-11-07",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Texas State vs. Oregon State",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.17,
+          "value": 2.5500000000000003,
+          "timestamp": 1794117511,
+          "slug": "cfb-txst-oregst-2026-11-07",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Texas State vs. Oregon State",
           "side": "BUY",
@@ -5506,7 +5539,7 @@
           "timestamp": 1794115869,
           "slug": "nba-sas-por-2026-11-07-spread-away-25pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-21.5)",
@@ -5517,7 +5550,7 @@
           "timestamp": 1794115815,
           "slug": "nba-sas-por-2026-11-07-spread-away-21pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-25.5)",
@@ -5528,7 +5561,7 @@
           "timestamp": 1794115815,
           "slug": "nba-sas-por-2026-11-07-spread-away-25pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-19.5)",
@@ -5539,7 +5572,7 @@
           "timestamp": 1794115815,
           "slug": "nba-sas-por-2026-11-07-spread-away-19pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-23.5)",
@@ -5550,7 +5583,7 @@
           "timestamp": 1794115815,
           "slug": "nba-sas-por-2026-11-07-spread-away-23pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-25.5)",
@@ -5561,7 +5594,7 @@
           "timestamp": 1794115699,
           "slug": "nba-sas-por-2026-11-07-spread-away-25pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-29.5)",
@@ -5572,7 +5605,7 @@
           "timestamp": 1794115699,
           "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-29.5)",
@@ -5583,7 +5616,7 @@
           "timestamp": 1794115650,
           "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-25.5)",
@@ -5594,7 +5627,7 @@
           "timestamp": 1794115389,
           "slug": "nba-sas-por-2026-11-07-spread-away-25pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-23.5)",
@@ -5605,7 +5638,7 @@
           "timestamp": 1794115389,
           "slug": "nba-sas-por-2026-11-07-spread-away-23pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-29.5)",
@@ -5616,7 +5649,7 @@
           "timestamp": 1794115389,
           "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-27.5)",
@@ -5627,7 +5660,7 @@
           "timestamp": 1794115389,
           "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-29.5)",
@@ -5638,7 +5671,7 @@
           "timestamp": 1794115362,
           "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-17.5)",
@@ -5649,7 +5682,7 @@
           "timestamp": 1794115344,
           "slug": "nba-sas-por-2026-11-07-spread-away-17pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-29.5)",
@@ -5660,7 +5693,7 @@
           "timestamp": 1794115344,
           "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-27.5)",
@@ -5671,7 +5704,7 @@
           "timestamp": 1794115323,
           "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-23.5)",
@@ -5682,7 +5715,7 @@
           "timestamp": 1794115323,
           "slug": "nba-sas-por-2026-11-07-spread-away-23pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-19.5)",
@@ -5693,7 +5726,7 @@
           "timestamp": 1794115261,
           "slug": "nba-sas-por-2026-11-07-spread-away-19pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Fresno State vs. Utah State",
@@ -5715,7 +5748,7 @@
           "timestamp": 1794115105,
           "slug": "nba-sas-por-2026-11-07-total-229pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Texas State (-10.5)",
@@ -5759,7 +5792,7 @@
           "timestamp": 1794114841,
           "slug": "nba-sas-por-2026-11-07-spread-away-21pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Texas State vs. Oregon State",
@@ -5781,7 +5814,7 @@
           "timestamp": 1794114814,
           "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-25.5)",
@@ -5792,7 +5825,7 @@
           "timestamp": 1794114814,
           "slug": "nba-sas-por-2026-11-07-spread-away-25pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spurs vs. Trail Blazers: O/U 233.5",
@@ -5803,7 +5836,7 @@
           "timestamp": 1794114789,
           "slug": "nba-sas-por-2026-11-07-total-233pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-29.5)",
@@ -5814,7 +5847,7 @@
           "timestamp": 1794114753,
           "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-27.5)",
@@ -5825,7 +5858,7 @@
           "timestamp": 1794114729,
           "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-29.5)",
@@ -5836,7 +5869,7 @@
           "timestamp": 1794114727,
           "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-31.5)",
@@ -5847,7 +5880,7 @@
           "timestamp": 1794114727,
           "slug": "nba-sas-por-2026-11-07-spread-away-31pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-27.5)",
@@ -5858,7 +5891,7 @@
           "timestamp": 1794114706,
           "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-19.5)",
@@ -5869,7 +5902,7 @@
           "timestamp": 1794114691,
           "slug": "nba-sas-por-2026-11-07-spread-away-19pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-23.5)",
@@ -5880,7 +5913,7 @@
           "timestamp": 1794114646,
           "slug": "nba-sas-por-2026-11-07-spread-away-23pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-27.5)",
@@ -5891,7 +5924,7 @@
           "timestamp": 1794114601,
           "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-21.5)",
@@ -5902,7 +5935,7 @@
           "timestamp": 1794114601,
           "slug": "nba-sas-por-2026-11-07-spread-away-21pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Spurs (-23.5)",
@@ -5913,7 +5946,7 @@
           "timestamp": 1794114600,
           "slug": "nba-sas-por-2026-11-07-spread-away-23pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-25.5)",
@@ -5924,7 +5957,7 @@
           "timestamp": 1794114600,
           "slug": "nba-sas-por-2026-11-07-spread-away-25pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Spurs (-31.5)",
@@ -5935,7 +5968,7 @@
           "timestamp": 1794114592,
           "slug": "nba-sas-por-2026-11-07-spread-away-31pt5",
           "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Fresno State vs. Utah State",
@@ -5946,39 +5979,6 @@
           "timestamp": 1794114555,
           "slug": "cfb-frest-utahst-2026-11-07",
           "event_slug": "cfb-frest-utahst-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-25.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.76,
-          "value": 30.4,
-          "timestamp": 1794114243,
-          "slug": "nba-sas-por-2026-11-07-spread-away-25pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Spurs (-29.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.5637204071,
-          "value": 100.24639999459302,
-          "timestamp": 1794114243,
-          "slug": "nba-sas-por-2026-11-07-spread-away-29pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Trail Blazers: O/U 233.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.4797340426,
-          "value": 541.1400000528,
-          "timestamp": 1794114184,
-          "slug": "nba-sas-por-2026-11-07-total-233pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
           "result": "ongoing"
         }
       ]
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T05:57:00.528Z"
+  "lastUpdate": "2026-11-08T06:06:34.886Z"
 }
