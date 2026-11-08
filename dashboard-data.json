@@ -598,14 +598,36 @@
       "label": "chubbytoro",
       "specialty": "综合",
       "stats48h": {
-        "wins": 22,
-        "losses": 27,
-        "totalTrades": 63,
-        "winRate": 0.4489795918367347,
-        "volume": 126893.18020027454,
+        "wins": 21,
+        "losses": 26,
+        "totalTrades": 65,
+        "winRate": 0.44680851063829785,
+        "volume": 118295.95430027452,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Penguins (-1.5)",
+          "side": "BUY",
+          "outcome": "Penguins",
+          "price": 0.29,
+          "value": 944.6488999999999,
+          "timestamp": 1794124942,
+          "slug": "nhl-pit-ana-2026-11-08-spread-away-1pt5",
+          "event_slug": "nhl-pit-ana-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Penguins vs. Ducks",
+          "side": "BUY",
+          "outcome": "Penguins",
+          "price": 0.48,
+          "value": 3772.1951999999997,
+          "timestamp": 1794124845,
+          "slug": "nhl-pit-ana-2026-11-08",
+          "event_slug": "nhl-pit-ana-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Flyers vs. Flames",
           "side": "BUY",
@@ -1131,28 +1153,6 @@
           "value": 517.7,
           "timestamp": 1793910739,
           "slug": "nhl-nsh-col-2026-11-05-total-5pt5",
-          "event_slug": "nhl-nsh-col-2026-11-05",
-          "result": "loss"
-        },
-        {
-          "title": "Canucks vs. Jets: O/U 5.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.61,
-          "value": 114.07,
-          "timestamp": 1793910673,
-          "slug": "nhl-van-wpg-2026-11-05-total-5pt5",
-          "event_slug": "nhl-van-wpg-2026-11-05",
-          "result": "win"
-        },
-        {
-          "title": "Predators vs. Avalanche",
-          "side": "BUY",
-          "outcome": "Avalanche",
-          "price": 0.66,
-          "value": 13200,
-          "timestamp": 1793904276,
-          "slug": "nhl-nsh-col-2026-11-05",
           "event_slug": "nhl-nsh-col-2026-11-05",
           "result": "loss"
         }
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T08:08:11.882Z"
+  "lastUpdate": "2026-11-08T08:19:25.481Z"
 }
