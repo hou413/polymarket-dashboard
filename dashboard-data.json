@@ -34,13 +34,35 @@
       "specialty": "NBA+NFL",
       "stats48h": {
         "wins": 15,
-        "losses": 33,
+        "losses": 31,
         "totalTrades": 500,
-        "winRate": 0.3125,
-        "volume": 9768.305499980455,
+        "winRate": 0.32608695652173914,
+        "volume": 9893.405499980454,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Nets (-7.5)",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.25,
+          "value": 62.75,
+          "timestamp": 1794100084,
+          "slug": "nba-bkn-atl-2026-11-07-spread-away-7pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Hawks (-4.5)",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.66,
+          "value": 132,
+          "timestamp": 1794100021,
+          "slug": "nba-bkn-atl-2026-11-07-spread-home-4pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Nets (-1.5)",
           "side": "BUY",
@@ -566,28 +588,6 @@
           "value": 6.12,
           "timestamp": 1794030609,
           "slug": "nba-por-lal-2026-11-06-spread-home-6pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Lakers (-3.5)",
-          "side": "SELL",
-          "outcome": "Trail Blazers",
-          "price": 0.35,
-          "value": 34.824999999999996,
-          "timestamp": 1794030609,
-          "slug": "nba-por-lal-2026-11-06-spread-home-3pt5",
-          "event_slug": "nba-por-lal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Lakers (-3.5)",
-          "side": "SELL",
-          "outcome": "Trail Blazers",
-          "price": 0.35,
-          "value": 34.824999999999996,
-          "timestamp": 1794030609,
-          "slug": "nba-por-lal-2026-11-06-spread-home-3pt5",
           "event_slug": "nba-por-lal-2026-11-06",
           "result": "loss"
         }
@@ -1190,9 +1190,9 @@
       "specialty": "MLB+UFC",
       "stats48h": {
         "wins": 3,
-        "losses": 3,
+        "losses": 4,
         "totalTrades": 15,
-        "winRate": 0.5,
+        "winRate": 0.42857142857142855,
         "volume": 26799.798300000002,
         "pnl": 0
       },
@@ -1294,7 +1294,7 @@
           "timestamp": 1794089812,
           "slug": "lol-ig1-gen-2026-11-07-game1",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
@@ -2829,11 +2829,11 @@
       "label": "surfandturf",
       "specialty": "Soccer+UFC",
       "stats48h": {
-        "wins": 15,
+        "wins": 14,
         "losses": 14,
-        "totalTrades": 44,
-        "winRate": 0.5172413793103449,
-        "volume": 799701.0387205732,
+        "totalTrades": 43,
+        "winRate": 0.5,
+        "volume": 799213.0323205732,
         "pnl": 0
       },
       "recentTrades": [
@@ -3309,17 +3309,6 @@
           "slug": "nfl-jax-bal-2026-11-06",
           "event_slug": "nfl-jax-bal-2026-11-06",
           "result": "loss"
-        },
-        {
-          "title": "Jazz vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.64,
-          "value": 488.0064,
-          "timestamp": 1793841018,
-          "slug": "nba-uta-nop-2026-11-04",
-          "event_slug": "nba-uta-nop-2026-11-04",
-          "result": "win"
         }
       ]
     },
@@ -3332,10 +3321,142 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1849.6081799994038,
+        "volume": 1747.5077399994036,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Bo Nix win the 2026 NFL MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.26426,
+          "timestamp": 1794100011,
+          "slug": "will-bo-nix-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jaxson Dart win the 2026 NFL MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.13213,
+          "timestamp": 1794100011,
+          "slug": "will-jaxson-dart-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Matthew Stafford win the 2026 NFL MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.13213,
+          "timestamp": 1794100011,
+          "slug": "will-matthew-stafford-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lamar Jackson win the 2026 NFL MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.13213,
+          "timestamp": 1794100011,
+          "slug": "will-lamar-jackson-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Caleb Williams win the 2026 NFL MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.897,
+          "value": 13.490879999999999,
+          "timestamp": 1794099760,
+          "slug": "will-caleb-williams-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Josh Allen win the 2026 NFL MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.73,
+          "value": 10.979199999999999,
+          "timestamp": 1794099759,
+          "slug": "will-josh-allen-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jaxson Smith-Njigba win the 2026 NFL MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.984,
+          "value": 14.799359999999998,
+          "timestamp": 1794099759,
+          "slug": "will-jaxson-smith-njigba-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jared Goff win the 2026 NFL MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.988,
+          "value": 14.85952,
+          "timestamp": 1794099759,
+          "slug": "will-jared-goff-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Brock Purdy win the 2026 NFL MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.862,
+          "value": 12.964479999999998,
+          "timestamp": 1794099759,
+          "slug": "will-brock-purdy-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Joe Burrow win the 2026 NFL MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.836,
+          "value": 12.573439999999998,
+          "timestamp": 1794099759,
+          "slug": "will-joe-burrow-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jordan Love win the 2026 NFL MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.984,
+          "value": 14.799359999999998,
+          "timestamp": 1794099759,
+          "slug": "will-jordan-love-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Drake Maye win the 2026 NFL MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.965,
+          "value": 14.513599999999999,
+          "timestamp": 1794099759,
+          "slug": "will-drake-maye-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Trump and Putin meet next in Turkey?",
           "side": "SELL",
@@ -3752,138 +3873,6 @@
           "timestamp": 1794094069,
           "slug": "will-kim-jong-un-be-the-next-leader-out-before-2027-20260630194627366",
           "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Miguel Díaz-Canel be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.991,
-          "value": 151.78155999999998,
-          "timestamp": 1794094069,
-          "slug": "will-miguel-diaz-canel-be-the-next-leader-out-before-2027-20260630194627382",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Dragan Đilas be the next Prime Minister of Serbia?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.04401,
-          "timestamp": 1794089421,
-          "slug": "will-dragan-ilas-be-the-next-prime-minister-of-serbia-20260629223938650",
-          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Dragan Đilas be the next Prime Minister of Serbia?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.007690000000000001,
-          "timestamp": 1794089230,
-          "slug": "will-dragan-ilas-be-the-next-prime-minister-of-serbia-20260629223938650",
-          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jack Barton announced as next James Bond?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.017,
-          "value": 3.2016100000000005,
-          "timestamp": 1794089230,
-          "slug": "jack-barton-announced-as-next-james-bond",
-          "event_slug": "next-james-bond-actor-398",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ilija Srdanović be the next prime minister of Serbia?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.89,
-          "value": 6.8441,
-          "timestamp": 1794089035,
-          "slug": "will-ilija-srdanovic-be-the-next-prime-minister-of-serbia-20260629223938652",
-          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ana Brnabić be the next Prime Minister of Serbia?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 7.67462,
-          "timestamp": 1794089035,
-          "slug": "will-ana-brnabic-be-the-next-prime-minister-of-serbia-20260629223938646",
-          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Dejan Šoškić be the next Prime Minister of Serbia?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.593,
-          "value": 4.56017,
-          "timestamp": 1794089035,
-          "slug": "will-dejan-soskic-be-the-next-prime-minister-of-serbia",
-          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Radomir Saičić be the next Prime Minister of Serbia?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.929,
-          "value": 7.144010000000001,
-          "timestamp": 1794089035,
-          "slug": "will-radomir-saicic-be-the-next-prime-minister-of-serbia",
-          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zoran Stojiljković be the next Prime Minister of Serbia?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 7.666930000000001,
-          "timestamp": 1794089035,
-          "slug": "will-zoran-stojiljkovic-be-the-next-prime-minister-of-serbia",
-          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Aleksandar Vučić be the next Prime Minister of Serbia?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.981,
-          "value": 7.54389,
-          "timestamp": 1794089035,
-          "slug": "will-aleksandar-vucic-be-the-next-prime-minister-of-serbia-20260629223938643",
-          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Dejan Bodiroga be the next Prime Minister of Serbia?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 7.67462,
-          "timestamp": 1794089035,
-          "slug": "will-dejan-bodiroga-be-the-next-prime-minister-of-serbia",
-          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Vladan Đokić be the next Prime Minister of Serbia?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.988,
-          "value": 7.597720000000001,
-          "timestamp": 1794089035,
-          "slug": "will-vladan-okic-be-the-next-prime-minister-of-serbia-20260811140916624",
-          "event_slug": "next-prime-minister-of-serbia-20260629223938642",
           "result": "ongoing"
         }
       ]
@@ -4860,7 +4849,7 @@
       "stats48h": {
         "wins": 42,
         "losses": 3,
-        "totalTrades": 77,
+        "totalTrades": 75,
         "winRate": 0.9333333333333333,
         "volume": 126131.44043048154,
         "pnl": 0
@@ -5427,10 +5416,219 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 8263.46209988894,
+        "volume": 8374.315500110213,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Kentucky vs. Tennessee",
+          "side": "BUY",
+          "outcome": "Kentucky",
+          "price": 0.31,
+          "value": 1.55,
+          "timestamp": 1794100395,
+          "slug": "cfb-uk-tenn-2026-11-07",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks",
+          "side": "BUY",
+          "outcome": "Hawks",
+          "price": 0.4973344888,
+          "value": 1340.082700106264,
+          "timestamp": 1794100360,
+          "slug": "nba-bkn-atl-2026-11-07",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nets (-3.5)",
+          "side": "BUY",
+          "outcome": "Hawks",
+          "price": 0.58,
+          "value": 11.6,
+          "timestamp": 1794100360,
+          "slug": "nba-bkn-atl-2026-11-07-spread-away-3pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks: O/U 229.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.63,
+          "value": 3.15,
+          "timestamp": 1794100360,
+          "slug": "nba-bkn-atl-2026-11-07-total-229pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kentucky vs. Tennessee",
+          "side": "BUY",
+          "outcome": "Kentucky",
+          "price": 0.3,
+          "value": 3.9,
+          "timestamp": 1794100324,
+          "slug": "cfb-uk-tenn-2026-11-07",
+          "event_slug": "cfb-uk-tenn-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.4805190136,
+          "value": 511.89209999794394,
+          "timestamp": 1794100272,
+          "slug": "nba-bkn-atl-2026-11-07",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks: O/U 226.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.68,
+          "value": 3.4000000000000004,
+          "timestamp": 1794100272,
+          "slug": "nba-bkn-atl-2026-11-07-total-226pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks: O/U 227.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.66,
+          "value": 6.6000000000000005,
+          "timestamp": 1794100272,
+          "slug": "nba-bkn-atl-2026-11-07-total-227pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Maryland Terrapins vs. Georgetown Hoyas",
+          "side": "BUY",
+          "outcome": "Maryland Terrapins",
+          "price": 0.29,
+          "value": 2.61,
+          "timestamp": 1794100080,
+          "slug": "cbb-mary-george-2026-11-07",
+          "event_slug": "cbb-mary-george-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.45,
+          "value": 2.25,
+          "timestamp": 1794100068,
+          "slug": "nba-bkn-atl-2026-11-07",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Georgia vs. Ole Miss",
+          "side": "BUY",
+          "outcome": "Georgia",
+          "price": 0.88,
+          "value": 6.16,
+          "timestamp": 1794100056,
+          "slug": "cfb-ga-miss-2026-11-07",
+          "event_slug": "cfb-ga-miss-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks: O/U 233.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 176.04000000000002,
+          "timestamp": 1794099991,
+          "slug": "nba-bkn-atl-2026-11-07-total-233pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks",
+          "side": "BUY",
+          "outcome": "Hawks",
+          "price": 0.5149686906,
+          "value": 2271.4341998722916,
+          "timestamp": 1794099991,
+          "slug": "nba-bkn-atl-2026-11-07",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks: O/U 227.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.7,
+          "value": 59.49999999999999,
+          "timestamp": 1794099991,
+          "slug": "nba-bkn-atl-2026-11-07-total-227pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Maryland Terrapins vs. Georgetown Hoyas",
+          "side": "BUY",
+          "outcome": "Maryland Terrapins",
+          "price": 0.31,
+          "value": 2.48,
+          "timestamp": 1794099984,
+          "slug": "cbb-mary-george-2026-11-07",
+          "event_slug": "cbb-mary-george-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Georgia vs. Ole Miss",
+          "side": "BUY",
+          "outcome": "Georgia",
+          "price": 0.88,
+          "value": 6.16,
+          "timestamp": 1794099984,
+          "slug": "cfb-ga-miss-2026-11-07",
+          "event_slug": "cfb-ga-miss-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.4734058271,
+          "value": 1384.858800073901,
+          "timestamp": 1794099978,
+          "slug": "nba-bkn-atl-2026-11-07",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.45,
+          "value": 2.25,
+          "timestamp": 1794099967,
+          "slug": "nba-bkn-atl-2026-11-07",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Hawks",
+          "side": "BUY",
+          "outcome": "Hawks",
+          "price": 0.49,
+          "value": 7.35,
+          "timestamp": 1794099838,
+          "slug": "nba-bkn-atl-2026-11-07",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Nets vs. Hawks",
           "side": "BUY",
@@ -5771,215 +5969,6 @@
           "slug": "nba-bkn-atl-2026-11-07",
           "event_slug": "nba-bkn-atl-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nets (-1.5)",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.53,
-          "value": 48.230000000000004,
-          "timestamp": 1794099142,
-          "slug": "nba-bkn-atl-2026-11-07-spread-away-1pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks: O/U 229.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.5,
-          "value": 100,
-          "timestamp": 1794099142,
-          "slug": "nba-bkn-atl-2026-11-07-total-229pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Georgia vs. Ole Miss",
-          "side": "BUY",
-          "outcome": "Georgia",
-          "price": 0.7453601437,
-          "value": 2696.7129999066,
-          "timestamp": 1794099103,
-          "slug": "cfb-ga-miss-2026-11-07",
-          "event_slug": "cfb-ga-miss-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Georgia (-4.5)",
-          "side": "BUY",
-          "outcome": "Georgia",
-          "price": 0.65,
-          "value": 11.193,
-          "timestamp": 1794099103,
-          "slug": "cfb-ga-miss-2026-11-07-spread-away-4pt5",
-          "event_slug": "cfb-ga-miss-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Georgia vs. Ole Miss: O/U 57.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.61,
-          "value": 12.2,
-          "timestamp": 1794099103,
-          "slug": "cfb-ga-miss-2026-11-07-total-57pt5",
-          "event_slug": "cfb-ga-miss-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Georgia vs. Ole Miss: O/U 59.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.54,
-          "value": 254.34,
-          "timestamp": 1794099103,
-          "slug": "cfb-ga-miss-2026-11-07-total-59pt5",
-          "event_slug": "cfb-ga-miss-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Georgia (-7.5)",
-          "side": "BUY",
-          "outcome": "Georgia",
-          "price": 0.54,
-          "value": 10.8,
-          "timestamp": 1794099103,
-          "slug": "cfb-ga-miss-2026-11-07-spread-away-7pt5",
-          "event_slug": "cfb-ga-miss-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Georgia (-3.5)",
-          "side": "BUY",
-          "outcome": "Georgia",
-          "price": 0.64,
-          "value": 111.36,
-          "timestamp": 1794099103,
-          "slug": "cfb-ga-miss-2026-11-07-spread-away-3pt5",
-          "event_slug": "cfb-ga-miss-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Iowa vs. Northwestern",
-          "side": "BUY",
-          "outcome": "Northwestern",
-          "price": 0.27,
-          "value": 77.28210000000001,
-          "timestamp": 1794099102,
-          "slug": "cfb-iowa-nw-2026-11-07",
-          "event_slug": "cfb-iowa-nw-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.4582844907,
-          "value": 771.586099922148,
-          "timestamp": 1794099090,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Hawks (-1.5)",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.5,
-          "value": 48,
-          "timestamp": 1794099090,
-          "slug": "nba-bkn-atl-2026-11-07-spread-home-1pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Keiichiro Nakamura vs. Ollie Schmid (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Ollie Schmid",
-          "price": 0.58,
-          "value": 506.50819999999993,
-          "timestamp": 1794099087,
-          "slug": "ufc-kei10-oschmi-2026-11-07",
-          "event_slug": "ufc-kei10-oschmi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Hawks",
-          "price": 0.5254244241,
-          "value": 199.808399996748,
-          "timestamp": 1794099073,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Michigan State vs. Michigan",
-          "side": "BUY",
-          "outcome": "Michigan",
-          "price": 0.84,
-          "value": 26.04,
-          "timestamp": 1794099004,
-          "slug": "cfb-mst-mich-2026-11-07",
-          "event_slug": "cfb-mst-mich-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Air Force vs. Army",
-          "side": "BUY",
-          "outcome": "Air Force",
-          "price": 0.35,
-          "value": 2.0999999999999996,
-          "timestamp": 1794099003,
-          "slug": "cfb-airf-army-2026-11-07",
-          "event_slug": "cfb-airf-army-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kentucky vs. Tennessee",
-          "side": "BUY",
-          "outcome": "Kentucky",
-          "price": 0.3,
-          "value": 3.9,
-          "timestamp": 1794098923,
-          "slug": "cfb-uk-tenn-2026-11-07",
-          "event_slug": "cfb-uk-tenn-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Air Force vs. Army",
-          "side": "BUY",
-          "outcome": "Air Force",
-          "price": 0.37,
-          "value": 1.85,
-          "timestamp": 1794098922,
-          "slug": "cfb-airf-army-2026-11-07",
-          "event_slug": "cfb-airf-army-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Hawks",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.4547393541,
-          "value": 807.9536000036339,
-          "timestamp": 1794098899,
-          "slug": "nba-bkn-atl-2026-11-07",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Maryland Terrapins vs. Georgetown Hoyas",
-          "side": "BUY",
-          "outcome": "Maryland Terrapins",
-          "price": 0.51,
-          "value": 2.55,
-          "timestamp": 1794098892,
-          "slug": "cbb-mary-george-2026-11-07",
-          "event_slug": "cbb-mary-george-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -5992,10 +5981,263 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2789.181595998278,
+        "volume": 2697.4204999987737,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Devils vs. Islanders: O/U 8.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.32,
+          "value": 10.544,
+          "timestamp": 1794100464,
+          "slug": "nhl-nj-nyi-2026-11-07-total-8pt5",
+          "event_slug": "nhl-nj-nyi-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Devils vs. Islanders: O/U 8.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.31,
+          "value": 16.7245,
+          "timestamp": 1794100456,
+          "slug": "nhl-nj-nyi-2026-11-07-total-8pt5",
+          "event_slug": "nhl-nj-nyi-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Devils vs. Islanders: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.84,
+          "value": 50.4,
+          "timestamp": 1794100456,
+          "slug": "nhl-nj-nyi-2026-11-07-total-5pt5",
+          "event_slug": "nhl-nj-nyi-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Tigres de la UANL vs. CF Cruz Azul: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.66,
+          "value": 3.3000000000000003,
+          "timestamp": 1794100435,
+          "slug": "mex-tig-caz-2026-11-07-first-half-total-0pt5",
+          "event_slug": "mex-tig-caz-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will PPI YoY be 6.8% or more in October?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.28,
+          "value": 27.160000000000004,
+          "timestamp": 1794100369,
+          "slug": "will-ppi-yoy-be-6pt8-or-more-in-october",
+          "event_slug": "ppi-yoy-october-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "South Alabama vs. Louisiana",
+          "side": "BUY",
+          "outcome": "Louisiana",
+          "price": 0.48,
+          "value": 25.0992,
+          "timestamp": 1794100339,
+          "slug": "cfb-sala-loulaf-2026-11-07",
+          "event_slug": "cfb-sala-loulaf-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Deportivo Toluca FC vs. CF Monterrey: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.03,
+          "value": 1.74,
+          "timestamp": 1794100306,
+          "slug": "mex-tol-mon1-2026-11-07-first-half-total-0pt5",
+          "event_slug": "mex-tol-mon1-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Lightning vs. Wild: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.6,
+          "value": 0.396,
+          "timestamp": 1794100305,
+          "slug": "nhl-tb-min-2026-11-07-total-6pt5",
+          "event_slug": "nhl-tb-min-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Deportivo Toluca FC vs. CF Monterrey: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.03,
+          "value": 1.8299999999999998,
+          "timestamp": 1794100282,
+          "slug": "mex-tol-mon1-2026-11-07-first-half-total-0pt5",
+          "event_slug": "mex-tol-mon1-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Deportivo Toluca FC vs. CF Monterrey: 1st Half O/U 0.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.03,
+          "value": 2.85,
+          "timestamp": 1794100272,
+          "slug": "mex-tol-mon1-2026-11-07-first-half-total-0pt5",
+          "event_slug": "mex-tol-mon1-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "1H Spread: Jacksonville State (-13.5)",
+          "side": "BUY",
+          "outcome": "Jacksonville State",
+          "price": 0.41,
+          "value": 24.599999999999998,
+          "timestamp": 1794100240,
+          "slug": "cfb-smho-jaxst-2026-11-07-1h-spread-home-13pt5",
+          "event_slug": "cfb-smho-jaxst-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Miami (FL) vs. Notre Dame",
+          "side": "BUY",
+          "outcome": "Miami (FL)",
+          "price": 0.21,
+          "value": 34.019999999999996,
+          "timestamp": 1794100215,
+          "slug": "cfb-mia-nd-2026-11-07",
+          "event_slug": "cfb-mia-nd-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Instituto AC Córdoba vs. CA Newell's Old Boys: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.97,
+          "value": 63.05,
+          "timestamp": 1794100089,
+          "slug": "arg-iac-new-2026-11-07-total-0pt5",
+          "event_slug": "arg-iac-new-2026-11-07-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Hawks (-24.5)",
+          "side": "BUY",
+          "outcome": "Hawks",
+          "price": 0.04,
+          "value": 3.91,
+          "timestamp": 1794100047,
+          "slug": "nba-bkn-atl-2026-11-07-spread-home-24pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will EC Juventude win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.04,
+          "value": 2.87,
+          "timestamp": 1794100030,
+          "slug": "bra2-cui-juv-2026-11-06-juv",
+          "event_slug": "bra2-cui-juv-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will EC Juventude win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.04,
+          "value": 1.23,
+          "timestamp": 1794100029,
+          "slug": "bra2-cui-juv-2026-11-06-juv",
+          "event_slug": "bra2-cui-juv-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will EC Juventude win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.04,
+          "value": 1.23,
+          "timestamp": 1794100027,
+          "slug": "bra2-cui-juv-2026-11-06-juv",
+          "event_slug": "bra2-cui-juv-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will EC Juventude win on 2026-11-06?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.04,
+          "value": 2.46,
+          "timestamp": 1794100027,
+          "slug": "bra2-cui-juv-2026-11-06-juv",
+          "event_slug": "bra2-cui-juv-2026-11-06",
+          "result": "ongoing"
+        },
+        {
+          "title": "San Diego Toreros vs. California-San Diego Tritons (W)",
+          "side": "BUY",
+          "outcome": "San Diego Toreros",
+          "price": 0.77,
+          "value": 7.7,
+          "timestamp": 1794100024,
+          "slug": "cwbb-sd-ucsd-2026-11-07",
+          "event_slug": "cwbb-sd-ucsd-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Atlético Nacional win on 2026-11-07?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.03,
+          "value": 4.109999999999999,
+          "timestamp": 1794099955,
+          "slug": "col1-atn-dep-2026-11-07-atn",
+          "event_slug": "col1-atn-dep-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.96,
+          "value": 207.66719999999998,
+          "timestamp": 1794099907,
+          "slug": "col1-atn-dep-2026-11-07-draw",
+          "event_slug": "col1-atn-dep-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.96,
+          "value": 72.96,
+          "timestamp": 1794099906,
+          "slug": "col1-atn-dep-2026-11-07-draw",
+          "event_slug": "col1-atn-dep-2026-11-07",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.92,
+          "value": 11.040000000000001,
+          "timestamp": 1794099847,
+          "slug": "col1-atn-dep-2026-11-07-draw",
+          "event_slug": "col1-atn-dep-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Will Atlético Nacional win on 2026-11-07?",
           "side": "BUY",
@@ -6292,259 +6534,6 @@
           "slug": "col1-atn-dep-2026-11-07-dep",
           "event_slug": "col1-atn-dep-2026-11-07",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.76,
-          "value": 8.36,
-          "timestamp": 1794099441,
-          "slug": "col1-atn-dep-2026-11-07-draw",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.76,
-          "value": 19,
-          "timestamp": 1794099435,
-          "slug": "col1-atn-dep-2026-11-07-draw",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Deportivo Pereira win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.6999999801,
-          "value": 7.029999000147166,
-          "timestamp": 1794099435,
-          "slug": "col1-atn-dep-2026-11-07-dep",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.76,
-          "value": 7.6,
-          "timestamp": 1794099433,
-          "slug": "col1-atn-dep-2026-11-07-draw",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.76,
-          "value": 10.64,
-          "timestamp": 1794099432,
-          "slug": "col1-atn-dep-2026-11-07-draw",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.7599999949,
-          "value": 17.939998999613163,
-          "timestamp": 1794099430,
-          "slug": "col1-atn-dep-2026-11-07-draw",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Fight to Go the Distance?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.1699999995,
-          "value": 30.590000000029413,
-          "timestamp": 1794099429,
-          "slug": "ufc-kei10-oschmi-2026-11-07-go-the-distance",
-          "event_slug": "ufc-kei10-oschmi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Deportivo Pereira win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.699999996,
-          "value": 35.04999799971429,
-          "timestamp": 1794099429,
-          "slug": "col1-atn-dep-2026-11-07-dep",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Atlético Nacional vs. Deportivo Pereira end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.77,
-          "value": 96.25,
-          "timestamp": 1794099426,
-          "slug": "col1-atn-dep-2026-11-07-draw",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Deportivo Pereira win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.69,
-          "value": 44.849999999999994,
-          "timestamp": 1794099423,
-          "slug": "col1-atn-dep-2026-11-07-dep",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Atlético Nacional win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 70.5,
-          "timestamp": 1794099421,
-          "slug": "col1-atn-dep-2026-11-07-atn",
-          "event_slug": "col1-atn-dep-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Fight to Go the Distance?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.14,
-          "value": 9.8,
-          "timestamp": 1794099420,
-          "slug": "ufc-kei10-oschmi-2026-11-07-go-the-distance",
-          "event_slug": "ufc-kei10-oschmi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "Atlético Nacional vs. Deportivo Pereira: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.95,
-          "value": 78.85,
-          "timestamp": 1794099414,
-          "slug": "col1-atn-dep-2026-11-07-total-4pt5",
-          "event_slug": "col1-atn-dep-2026-11-07-more-markets",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Nets (-6.5)",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.48,
-          "value": 56.64,
-          "timestamp": 1794099400,
-          "slug": "nba-bkn-atl-2026-11-07-1h-spread-away-6pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Keiichiro Nakamura vs. Ollie Schmid (Featherweight, Prelims)",
-          "side": "SELL",
-          "outcome": "Keiichiro Nakamura",
-          "price": 0.32,
-          "value": 1.3408000000000002,
-          "timestamp": 1794099397,
-          "slug": "ufc-kei10-oschmi-2026-11-07",
-          "event_slug": "ufc-kei10-oschmi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Keiichiro Nakamura vs. Ollie Schmid (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Keiichiro Nakamura",
-          "price": 0.32,
-          "value": 1.3408000000000002,
-          "timestamp": 1794099396,
-          "slug": "ufc-kei10-oschmi-2026-11-07",
-          "event_slug": "ufc-kei10-oschmi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Nets (-6.5)",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.48,
-          "value": 48,
-          "timestamp": 1794099382,
-          "slug": "nba-bkn-atl-2026-11-07-1h-spread-away-6pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Keiichiro Nakamura vs. Ollie Schmid (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Keiichiro Nakamura",
-          "price": 0.32,
-          "value": 5.76,
-          "timestamp": 1794099381,
-          "slug": "ufc-kei10-oschmi-2026-11-07",
-          "event_slug": "ufc-kei10-oschmi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Keiichiro Nakamura vs. Ollie Schmid (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Keiichiro Nakamura",
-          "price": 0.3,
-          "value": 35.1,
-          "timestamp": 1794099379,
-          "slug": "ufc-kei10-oschmi-2026-11-07",
-          "event_slug": "ufc-kei10-oschmi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Keiichiro Nakamura vs. Ollie Schmid (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Keiichiro Nakamura",
-          "price": 0.31,
-          "value": 14.517299999999999,
-          "timestamp": 1794099376,
-          "slug": "ufc-kei10-oschmi-2026-11-07",
-          "event_slug": "ufc-kei10-oschmi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Keiichiro Nakamura vs. Ollie Schmid (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Keiichiro Nakamura",
-          "price": 0.31,
-          "value": 5.58,
-          "timestamp": 1794099373,
-          "slug": "ufc-kei10-oschmi-2026-11-07",
-          "event_slug": "ufc-kei10-oschmi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Keiichiro Nakamura vs. Ollie Schmid (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Keiichiro Nakamura",
-          "price": 0.29,
-          "value": 3.5930999999999997,
-          "timestamp": 1794099370,
-          "slug": "ufc-kei10-oschmi-2026-11-07",
-          "event_slug": "ufc-kei10-oschmi-2026-11-07",
-          "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Keiichiro Nakamura vs. Ollie Schmid (Featherweight, Prelims)",
-          "side": "BUY",
-          "outcome": "Keiichiro Nakamura",
-          "price": 0.29,
-          "value": 60.31999999999999,
-          "timestamp": 1794099369,
-          "slug": "ufc-kei10-oschmi-2026-11-07",
-          "event_slug": "ufc-kei10-oschmi-2026-11-07",
-          "result": "ongoing"
         }
       ]
     },
@@ -6553,10 +6542,10 @@
       "label": "RNGUzi",
       "specialty": "Soccer+NFL",
       "stats48h": {
-        "wins": 12,
+        "wins": 13,
         "losses": 1,
         "totalTrades": 22,
-        "winRate": 0.9230769230769231,
+        "winRate": 0.9285714285714286,
         "volume": 97089.92535119454,
         "pnl": 0
       },
@@ -6658,7 +6647,7 @@
           "timestamp": 1794090271,
           "slug": "lol-ig1-gen-2026-11-07-game1",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Counter-Strike: MOUZ vs BetBoom Team - Map 1 Winner",
@@ -6902,10 +6891,10 @@
       "label": "JabJabich",
       "specialty": "Tennis+NFL",
       "stats48h": {
-        "wins": 9,
+        "wins": 11,
         "losses": 11,
         "totalTrades": 172,
-        "winRate": 0.45,
+        "winRate": 0.5,
         "volume": 81706.64874534238,
         "pnl": 0
       },
@@ -6930,7 +6919,7 @@
           "timestamp": 1794090790,
           "slug": "lol-ig1-gen-2026-11-07-game1",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "LoL: Invictus Gaming vs Gen.G - Game 1 Winner",
@@ -6941,7 +6930,7 @@
           "timestamp": 1794090070,
           "slug": "lol-ig1-gen-2026-11-07-game1",
           "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Counter-Strike: PRIVATE vs OG (BO3) - ESL Challenger League Europe Cup #11 Group",
@@ -7467,14 +7456,25 @@
       "label": "0xfC0847fe",
       "specialty": "Soccer+NHL",
       "stats48h": {
-        "wins": 38,
+        "wins": 37,
         "losses": 12,
-        "totalTrades": 70,
-        "winRate": 0.76,
-        "volume": 72079.80869842449,
+        "totalTrades": 71,
+        "winRate": 0.7551020408163265,
+        "volume": 72647.45869842388,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Miami (FL) vs. Notre Dame",
+          "side": "BUY",
+          "outcome": "Notre Dame",
+          "price": 0.83,
+          "value": 673.13,
+          "timestamp": 1794100219,
+          "slug": "cfb-mia-nd-2026-11-07",
+          "event_slug": "cfb-mia-nd-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Alabama vs. LSU",
           "side": "SELL",
@@ -8010,17 +8010,6 @@
           "price": 0.92,
           "value": 34.04,
           "timestamp": 1794022921,
-          "slug": "nhl-ana-cal-2026-11-06",
-          "event_slug": "nhl-ana-cal-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Ducks vs. Flames",
-          "side": "SELL",
-          "outcome": "Ducks",
-          "price": 0.9252631579,
-          "value": 105.4800000006,
-          "timestamp": 1794022917,
           "slug": "nhl-ana-cal-2026-11-06",
           "event_slug": "nhl-ana-cal-2026-11-06",
           "result": "win"
@@ -9074,5 +9063,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T01:05:44.584Z"
+  "lastUpdate": "2026-11-08T01:16:58.706Z"
 }
