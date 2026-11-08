@@ -3696,10 +3696,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9638.282260003027,
+        "volume": 9376.411760003028,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Houston Dynamo FC win the 2026 MLS Cup?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.026,
+          "value": 5.018,
+          "timestamp": 1794136750,
+          "slug": "will-houston-dynamo-fc-win-the-2026-mls-cup",
+          "event_slug": "mls-cup-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.36,
+          "value": 28.569599999999998,
+          "timestamp": 1794136189,
+          "slug": "will-lee-shu-chuan-win-the-next-new-taipei-mayor-election-20260813125857201",
+          "event_slug": "new-taipei-mayor-election-winner-20260813125857200",
+          "result": "ongoing"
+        },
         {
           "title": "Will Dejan Šoškić be the next Prime Minister of Serbia?",
           "side": "SELL",
@@ -4226,28 +4248,6 @@
           "timestamp": 1794119134,
           "slug": "will-maryam-rajavi-be-head-of-state-in-iran-end-of-2026",
           "event_slug": "iran-leader-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.35,
-          "value": 137.8405,
-          "timestamp": 1794118810,
-          "slug": "will-lee-shu-chuan-win-the-next-new-taipei-mayor-election-20260813125857201",
-          "event_slug": "new-taipei-mayor-election-winner-20260813125857200",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Su Chiao-hui win the next New Taipei Mayor election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.42,
-          "value": 157.61759999999998,
-          "timestamp": 1794118000,
-          "slug": "will-su-chiao-hui-win-the-next-new-taipei-mayor-election-20260813125857202",
-          "event_slug": "new-taipei-mayor-election-winner-20260813125857200",
           "result": "ongoing"
         }
       ]
@@ -7809,14 +7809,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 47,
+        "wins": 46,
         "losses": 0,
-        "totalTrades": 63,
+        "totalTrades": 64,
         "winRate": 1,
-        "volume": 53010.15958,
+        "volume": 53102.08758,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "FC København vs. Brøndby IF: O/U 0.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.89,
+          "value": 1424,
+          "timestamp": 1794136960,
+          "slug": "den-kob-bro-2026-11-08-total-0pt5",
+          "event_slug": "den-kob-bro-2026-11-08-more-markets",
+          "result": "ongoing"
+        },
         {
           "title": "Çaykur Rizespor vs. Erzurumspor FK: O/U 2.5",
           "side": "BUY",
@@ -8355,17 +8366,6 @@
           "slug": "bun-hsv-moe-2026-11-06-total-2pt5",
           "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Hamburger SV vs. Borussia Mönchengladbach: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.84,
-          "value": 1332.072,
-          "timestamp": 1793997019,
-          "slug": "bun-hsv-moe-2026-11-06-total-2pt5",
-          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -8851,5 +8851,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T11:16:56.349Z"
+  "lastUpdate": "2026-11-08T11:26:35.413Z"
 }
