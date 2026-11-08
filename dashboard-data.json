@@ -3354,10 +3354,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 925.6838699999997,
+        "volume": 1031.2016299999993,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.35,
+          "value": 137.8405,
+          "timestamp": 1794118810,
+          "slug": "will-lee-shu-chuan-win-the-next-new-taipei-mayor-election-20260813125857201",
+          "event_slug": "new-taipei-mayor-election-winner-20260813125857200",
+          "result": "ongoing"
+        },
         {
           "title": "Will Su Chiao-hui win the next New Taipei Mayor election?",
           "side": "BUY",
@@ -3894,17 +3905,6 @@
           "value": 1.89945,
           "timestamp": 1794098893,
           "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-14-and-16-843",
-          "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Represe",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 32.32274,
-          "timestamp": 1794098893,
-          "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-16-or-more-667",
           "event_slug": "2026-midterms-house-popular-vote-margin-of-victory-224",
           "result": "ongoing"
         }
@@ -5423,14 +5423,25 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 15,
+        "wins": 14,
         "losses": 18,
         "totalTrades": 500,
-        "winRate": 0.45454545454545453,
-        "volume": 5085.3565399818435,
+        "winRate": 0.4375,
+        "volume": 4881.846539981843,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Texas State vs. Oregon State",
+          "side": "BUY",
+          "outcome": "Oregon State",
+          "price": 0.04,
+          "value": 1.24,
+          "timestamp": 1794118465,
+          "slug": "cfb-txst-oregst-2026-11-07",
+          "event_slug": "cfb-txst-oregst-2026-11-07",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Texas State (-14.5)",
           "side": "BUY",
@@ -5967,17 +5978,6 @@
           "value": 52,
           "timestamp": 1794114646,
           "slug": "nba-sas-por-2026-11-07-spread-away-23pt5",
-          "event_slug": "nba-sas-por-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-27.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.35,
-          "value": 204.75,
-          "timestamp": 1794114601,
-          "slug": "nba-sas-por-2026-11-07-spread-away-27pt5",
           "event_slug": "nba-sas-por-2026-11-07",
           "result": "win"
         }
@@ -8498,5 +8498,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-08T06:16:22.422Z"
+  "lastUpdate": "2026-11-08T06:26:05.565Z"
 }
