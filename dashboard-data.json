@@ -3993,10 +3993,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 1,
-        "volume": 1794.6080399991185,
+        "volume": 1793.9975599991187,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Knight win Worlds 2026 Finals MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.13,
+          "value": 0.65,
+          "timestamp": 1794209790,
+          "slug": "will-knight-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
         {
           "title": "Will Brock Purdy win the 2026 NFL MVP?",
           "side": "SELL",
@@ -4534,17 +4545,6 @@
           "timestamp": 1794183114,
           "slug": "will-anthony-albanese-be-the-next-leader-out-before-2027-20260630194627369",
           "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Brock Purdy win the 2026 NFL MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.156,
-          "value": 1.26048,
-          "timestamp": 1794182437,
-          "slug": "will-brock-purdy-win-the-2026-nfl-mvp",
-          "event_slug": "pro-football-2026-mvp-winner",
           "result": "ongoing"
         }
       ]
@@ -7897,14 +7897,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 50,
+        "wins": 49,
         "losses": 0,
-        "totalTrades": 74,
+        "totalTrades": 75,
         "winRate": 1,
-        "volume": 37293.19164000012,
+        "volume": 36876.302640000125,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Chennai Open: Janice Tjen vs Magda Linette",
+          "side": "BUY",
+          "outcome": "Magda Linette",
+          "price": 0.47,
+          "value": 471.222,
+          "timestamp": 1794210030,
+          "slug": "wta-tjen-linette-2026-11-08",
+          "event_slug": "wta-tjen-linette-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Club Atlético de Madrid vs. FC Barcelona: O/U 2.5",
           "side": "BUY",
@@ -8441,17 +8452,6 @@
           "value": 536.3631,
           "timestamp": 1794056061,
           "slug": "aus-per-new-2026-11-07-total-2pt5",
-          "event_slug": "aus-per-new-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Perth Glory FC vs. Newcastle United Jets FC: O/U 0.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 888.111,
-          "timestamp": 1794053319,
-          "slug": "aus-per-new-2026-11-07-total-0pt5",
           "event_slug": "aus-per-new-2026-11-07-more-markets",
           "result": "win"
         }
@@ -9005,5 +9005,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T07:37:39.599Z"
+  "lastUpdate": "2026-11-09T07:47:10.306Z"
 }
