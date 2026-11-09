@@ -3960,10 +3960,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3940.4683000152,
+        "volume": 3904.1632900152,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Martin Ojeda win 2026 MLS Most Valuable Player?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.01384,
+          "timestamp": 1794228777,
+          "slug": "will-martin-ojeda-win-2026-mls-most-valuable-player-812",
+          "event_slug": "mls-2026-most-valuable-player",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Diego Luna win 2026 MLS Most Valuable Player?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.01384,
+          "timestamp": 1794228592,
+          "slug": "will-diego-luna-win-2026-mls-most-valuable-player-428",
+          "event_slug": "mls-2026-most-valuable-player",
+          "result": "ongoing"
+        },
         {
           "title": "Gavin Newsom Democratic nomination odds leader on November 30?",
           "side": "SELL",
@@ -4490,28 +4512,6 @@
           "timestamp": 1794195502,
           "slug": "will-zelenskyy-and-putin-meet-next-in-india-416-286",
           "event_slug": "where-will-zelenskyy-and-putin-meet-next",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 65-89 tweets from November 7 to November 9, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.38,
-          "value": 2.6486,
-          "timestamp": 1794194143,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-65-89",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Duro win Worlds 2026 Finals MVP?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.991,
-          "value": 33.684090000000005,
-          "timestamp": 1794193020,
-          "slug": "will-duro-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
           "result": "ongoing"
         }
       ]
@@ -7853,14 +7853,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 48,
+        "wins": 47,
         "losses": 0,
-        "totalTrades": 74,
+        "totalTrades": 75,
         "winRate": 1,
-        "volume": 36488.103900000126,
+        "volume": 34763.87836000012,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "BNP Paribas Nordic Open: James Duckworth vs Cameron Norrie",
+          "side": "BUY",
+          "outcome": "Cameron Norrie",
+          "price": 0.976,
+          "value": 337.93024,
+          "timestamp": 1794229047,
+          "slug": "atp-duckwor-norrie-2026-11-09",
+          "event_slug": "atp-duckwor-norrie-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Seoul Thunders vs. Sonic Boom",
           "side": "BUY",
@@ -8398,17 +8409,6 @@
           "timestamp": 1794058012,
           "slug": "atp-assche-shelton-2026-11-07",
           "event_slug": "atp-assche-shelton-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Perth Glory FC vs. Newcastle United Jets FC: O/U 1.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 2062.1557799999996,
-          "timestamp": 1794057324,
-          "slug": "aus-per-new-2026-11-07-total-1pt5",
-          "event_slug": "aus-per-new-2026-11-07-more-markets",
           "result": "win"
         }
       ]
@@ -8950,5 +8950,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T12:51:18.575Z"
+  "lastUpdate": "2026-11-09T13:00:31.100Z"
 }
