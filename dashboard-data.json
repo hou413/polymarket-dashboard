@@ -6525,14 +6525,36 @@
       "label": "JabJabich",
       "specialty": "Tennis+NFL",
       "stats48h": {
-        "wins": 9,
+        "wins": 7,
         "losses": 11,
-        "totalTrades": 130,
-        "winRate": 0.45,
-        "volume": 19724.94890724103,
+        "totalTrades": 132,
+        "winRate": 0.3888888888888889,
+        "volume": 19502.011117240778,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: Honvéd vs Ryvex - Map 1 Winner",
+          "side": "BUY",
+          "outcome": "Ryvex",
+          "price": 0.3903252033,
+          "value": 36.487600004484,
+          "timestamp": 1794250887,
+          "slug": "cs2-hon1-ryvex-2026-11-09-game1",
+          "event_slug": "cs2-hon1-ryvex-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Honvéd vs Ryvex (BO3) - CCT Europe Closed Qualifier: Series Play",
+          "side": "BUY",
+          "outcome": "Ryvex",
+          "price": 0.5963332175,
+          "value": 291.74409999752504,
+          "timestamp": 1794250884,
+          "slug": "cs2-hon1-ryvex-2026-11-09",
+          "event_slug": "cs2-hon1-ryvex-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: Honvéd vs Ryvex (BO3) - CCT Europe Closed Qualifier: Series Play",
           "side": "BUY",
@@ -7057,28 +7079,6 @@
           "price": 0.4279419359,
           "value": 119.986359987642,
           "timestamp": 1794140317,
-          "slug": "cs2-eye-innerc2-2026-11-08-game1",
-          "event_slug": "cs2-eye-innerc2-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 1 Winner",
-          "side": "BUY",
-          "outcome": "EYEBALLERS",
-          "price": 0.4644320323,
-          "value": 389.93248999875703,
-          "timestamp": 1794140280,
-          "slug": "cs2-eye-innerc2-2026-11-08-game1",
-          "event_slug": "cs2-eye-innerc2-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 1 Winner",
-          "side": "BUY",
-          "outcome": "EYEBALLERS",
-          "price": 0.7499395349,
-          "value": 161.2370000035,
-          "timestamp": 1794140175,
           "slug": "cs2-eye-innerc2-2026-11-08-game1",
           "event_slug": "cs2-eye-innerc2-2026-11-08",
           "result": "win"
@@ -8752,5 +8752,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T19:01:04.411Z"
+  "lastUpdate": "2026-11-09T19:10:17.294Z"
 }
