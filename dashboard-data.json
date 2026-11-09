@@ -3905,10 +3905,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 72283.1150197052,
+        "volume": 69535.6725197052,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Cory Booker win the 2028 US Presidential Election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 19.8335,
+          "timestamp": 1794250318,
+          "slug": "will-cory-booker-win-the-2028-us-presidential-election",
+          "event_slug": "presidential-election-winner-2028",
+          "result": "ongoing"
+        },
         {
           "title": "Jack Barton announced as next James Bond?",
           "side": "SELL",
@@ -4445,17 +4456,6 @@
           "value": 2641.0766600364,
           "timestamp": 1794240538,
           "slug": "will-christine-lagarde-win-the-2027-french-presidential-election",
-          "event_slug": "next-french-presidential-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Dominique de Villepin win the 2027 French presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.982,
-          "value": 2767.276,
-          "timestamp": 1794240537,
-          "slug": "will-dominique-de-villepin-win-the-2027-french-presidential-election",
           "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         }
@@ -6525,14 +6525,36 @@
       "label": "JabJabich",
       "specialty": "Tennis+NFL",
       "stats48h": {
-        "wins": 10,
+        "wins": 9,
         "losses": 11,
-        "totalTrades": 128,
-        "winRate": 0.47619047619047616,
-        "volume": 20576.058127221957,
+        "totalTrades": 130,
+        "winRate": 0.45,
+        "volume": 19724.94890724103,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: Honvéd vs Ryvex (BO3) - CCT Europe Closed Qualifier: Series Play",
+          "side": "BUY",
+          "outcome": "Ryvex",
+          "price": 0.62,
+          "value": 293.1174,
+          "timestamp": 1794250543,
+          "slug": "cs2-hon1-ryvex-2026-11-09",
+          "event_slug": "cs2-hon1-ryvex-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Honvéd vs Ryvex - Map 1 Winner",
+          "side": "BUY",
+          "outcome": "Ryvex",
+          "price": 0.5423572156,
+          "value": 79.8620999971,
+          "timestamp": 1794250479,
+          "slug": "cs2-hon1-ryvex-2026-11-09-game1",
+          "event_slug": "cs2-hon1-ryvex-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: Honvéd vs Ryvex - Map 1 Winner",
           "side": "BUY",
@@ -7060,28 +7082,6 @@
           "slug": "cs2-eye-innerc2-2026-11-08-game1",
           "event_slug": "cs2-eye-innerc2-2026-11-08",
           "result": "win"
-        },
-        {
-          "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 1 Winner",
-          "side": "BUY",
-          "outcome": "EYEBALLERS",
-          "price": 0.7349461178,
-          "value": 244.972239985096,
-          "timestamp": 1794140173,
-          "slug": "cs2-eye-innerc2-2026-11-08-game1",
-          "event_slug": "cs2-eye-innerc2-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Counter-Strike: Prestige vs KUUSAMO.gg - Map 2 Winner AND Counter-Strike: UNiTY ",
-          "side": "BUY",
-          "outcome": "",
-          "price": 0.5734209992,
-          "value": 979.1164799929358,
-          "timestamp": 1794139869,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
         }
       ]
     },
@@ -8752,5 +8752,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T18:51:51.746Z"
+  "lastUpdate": "2026-11-09T19:01:04.411Z"
 }
