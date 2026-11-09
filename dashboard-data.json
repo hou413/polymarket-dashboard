@@ -1559,12 +1559,45 @@
       "stats48h": {
         "wins": 2,
         "losses": 0,
-        "totalTrades": 69,
+        "totalTrades": 72,
         "winRate": 1,
-        "volume": 18704.302776000786,
+        "volume": 17323.610176205275,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.4614584049,
+          "value": 161.307400016844,
+          "timestamp": 1794247201,
+          "slug": "will-wti-dip-to-80-in-november-2026",
+          "event_slug": "what-price-will-wti-hit-in-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.22,
+          "value": 28.6,
+          "timestamp": 1794247192,
+          "slug": "will-wti-dip-to-85-in-november-2026",
+          "event_slug": "what-price-will-wti-hit-in-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "US announces end of Iranian blockade by November 15, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.0474,
+          "value": 47.4,
+          "timestamp": 1794246894,
+          "slug": "us-announces-end-of-iranian-blockade-by-november-15-2026",
+          "event_slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "result": "ongoing"
+        },
         {
           "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 Week of November 9 2026?",
           "side": "BUY",
@@ -2079,39 +2112,6 @@
           "value": 38.99999996465841,
           "timestamp": 1794034272,
           "slug": "israel-x-iran-ceasefire-continues-through-november-7",
-          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
-        },
-        {
-          "title": "Israel x Iran ceasefire continues through December 15?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4964767096,
-          "value": 966.999999910318,
-          "timestamp": 1794034258,
-          "slug": "israel-x-iran-ceasefire-continues-through-december-15",
-          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
-        },
-        {
-          "title": "Israel x Iran ceasefire continues through November 30?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.3862619773,
-          "value": 31.00000000386147,
-          "timestamp": 1794034251,
-          "slug": "israel-x-iran-ceasefire-continues-through-november-30",
-          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
-        },
-        {
-          "title": "Israel x Iran ceasefire continues through November 15?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.2199999999,
-          "value": 619.9999998981817,
-          "timestamp": 1794034239,
-          "slug": "israel-x-iran-ceasefire-continues-through-november-15",
           "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
           "result": "ongoing"
         }
@@ -8752,5 +8752,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T17:56:47.406Z"
+  "lastUpdate": "2026-11-09T18:05:58.392Z"
 }
