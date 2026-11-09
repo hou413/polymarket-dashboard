@@ -2744,9 +2744,9 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 7,
+        "totalTrades": 5,
         "winRate": 0,
-        "volume": 8057.29585,
+        "volume": 6335.15185,
         "pnl": 0
       },
       "recentTrades": [
@@ -2801,28 +2801,6 @@
           "price": 0.005,
           "value": 90.63885,
           "timestamp": 1794055392,
-          "slug": "will-marjorie-taylor-greene-win-the-2028-republican-presidential-nomination",
-          "event_slug": "republican-presidential-nominee-2028",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.874,
-          "value": 1622.144,
-          "timestamp": 1793960811,
-          "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
-          "event_slug": "democratic-presidential-nominee-2028",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Marjorie Taylor Greene win the 2028 Republican presidential nomination?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.005,
-          "value": 100,
-          "timestamp": 1793960710,
           "slug": "will-marjorie-taylor-greene-win-the-2028-republican-presidential-nomination",
           "event_slug": "republican-presidential-nominee-2028",
           "result": "ongoing"
@@ -8994,5 +8972,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T10:26:22.512Z"
+  "lastUpdate": "2026-11-09T10:35:30.819Z"
 }
