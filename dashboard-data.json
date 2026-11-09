@@ -3993,10 +3993,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 1,
-        "volume": 2740.0892899906107,
+        "volume": 2567.276990003319,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will South Korea win Eurovision Asia 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.007,
+          "value": 1.12,
+          "timestamp": 1794207739,
+          "slug": "will-south-korea-win-eurovision-asia-2026",
+          "event_slug": "eurovision-asia-winner-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Keria win Worlds 2026 Finals MVP?",
           "side": "SELL",
@@ -4533,17 +4544,6 @@
           "value": 250.70875001035202,
           "timestamp": 1794179572,
           "slug": "elon-musk-of-tweets-november-7-november-9-2026-90-114",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 65-89 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.6769637644,
-          "value": 173.932299987292,
-          "timestamp": 1794179572,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-65-89",
           "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
           "result": "ongoing"
         }
@@ -9016,5 +9016,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T06:59:15.669Z"
+  "lastUpdate": "2026-11-09T07:08:52.347Z"
 }
