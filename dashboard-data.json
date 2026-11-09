@@ -3905,10 +3905,76 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 86697.311799765,
+        "volume": 78730.99546967821,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Trump and Putin meet next in Turkey?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 0.96903,
+          "timestamp": 1794244177,
+          "slug": "will-trump-and-putin-meet-next-in-turkey-213",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump and Putin not meet?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.91,
+          "value": 32.6235,
+          "timestamp": 1794244177,
+          "slug": "will-trump-and-putin-not-meet-432",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump and Putin meet next in another country?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 35.81415,
+          "timestamp": 1794244177,
+          "slug": "will-trump-and-putin-meet-next-in-another-country-749",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump and Putin meet next in Russia?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 35.7783,
+          "timestamp": 1794244177,
+          "slug": "will-trump-and-putin-meet-next-in-russia-991",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump and Putin meet next in a Gulf country?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 35.81415,
+          "timestamp": 1794244177,
+          "slug": "will-trump-and-putin-meet-next-in-a-gulf-country",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump and Putin meet next in United States?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.996,
+          "value": 35.7066,
+          "timestamp": 1794244177,
+          "slug": "will-trump-and-putin-meet-next-in-united-states",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
         {
           "title": "Jacob Elordi announced as next James Bond?",
           "side": "SELL",
@@ -4390,72 +4456,6 @@
           "value": 2448.842,
           "timestamp": 1794240537,
           "slug": "will-david-lisnard-win-the-2027-french-presidential-election",
-          "event_slug": "next-french-presidential-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will François Hollande win the 2027 French presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9841248226,
-          "value": 2773.2637500868,
-          "timestamp": 1794240537,
-          "slug": "will-franois-hollande-win-the-2027-french-presidential-election",
-          "event_slug": "next-french-presidential-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Édouard Philippe win the 2027 French presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.92,
-          "value": 2592.56,
-          "timestamp": 1794240537,
-          "slug": "will-douard-philippe-win-the-2027-french-presidential-election",
-          "event_slug": "next-french-presidential-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Raphaël Glucksmann win the 2027 French presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.978,
-          "value": 2756.004,
-          "timestamp": 1794240535,
-          "slug": "will-raphal-glucksmann-win-the-2027-french-presidential-election",
-          "event_slug": "next-french-presidential-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will François Baroin win the 2027 French presidential election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 7.06477,
-          "timestamp": 1794240513,
-          "slug": "will-franois-baroin-win-the-2027-french-presidential-election",
-          "event_slug": "next-french-presidential-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sébastien Lecornu win the 2027 French presidential election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 7.06477,
-          "timestamp": 1794240513,
-          "slug": "will-sbastien-lecornu-win-the-2027-french-presidential-election",
-          "event_slug": "next-french-presidential-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sarah Knafo win the 2027 French presidential election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 7.06477,
-          "timestamp": 1794240511,
-          "slug": "will-sarah-knafo-win-the-2027-french-presidential-election",
           "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         }
@@ -8752,5 +8752,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T17:11:02.786Z"
+  "lastUpdate": "2026-11-09T17:20:09.647Z"
 }
