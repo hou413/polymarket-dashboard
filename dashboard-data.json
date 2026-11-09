@@ -1559,12 +1559,23 @@
       "stats48h": {
         "wins": 2,
         "losses": 0,
-        "totalTrades": 72,
+        "totalTrades": 73,
         "winRate": 1,
-        "volume": 17323.610176205275,
+        "volume": 17494.610176240618,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Israel x Iran ceasefire continues through November 15?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.07,
+          "value": 210.00000000000003,
+          "timestamp": 1794249039,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-15",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
         {
           "title": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
           "side": "SELL",
@@ -2102,17 +2113,6 @@
           "timestamp": 1794076836,
           "slug": "next-white-house-press-secretary-announced-by-november-30-2026",
           "event_slug": "next-press-secretary-announced-byptptpt",
-          "result": "ongoing"
-        },
-        {
-          "title": "Israel x Iran ceasefire continues through November 7?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.0514624156,
-          "value": 38.99999996465841,
-          "timestamp": 1794034272,
-          "slug": "israel-x-iran-ceasefire-continues-through-november-7",
-          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
           "result": "ongoing"
         }
       ]
@@ -6527,12 +6527,45 @@
       "stats48h": {
         "wins": 10,
         "losses": 11,
-        "totalTrades": 121,
+        "totalTrades": 124,
         "winRate": 0.47619047619047616,
-        "volume": 23748.490746081316,
+        "volume": 22629.46894610124,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: Honvéd vs Ryvex (BO3) - CCT Europe Closed Qualifier: Series Play",
+          "side": "BUY",
+          "outcome": "Ryvex",
+          "price": 0.6369930656,
+          "value": 167.185199997376,
+          "timestamp": 1794249579,
+          "slug": "cs2-hon1-ryvex-2026-11-09",
+          "event_slug": "cs2-hon1-ryvex-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Honvéd vs Ryvex (BO3) - CCT Europe Closed Qualifier: Series Play",
+          "side": "BUY",
+          "outcome": "Ryvex",
+          "price": 0.6010068665,
+          "value": 371.99320002017504,
+          "timestamp": 1794249228,
+          "slug": "cs2-hon1-ryvex-2026-11-09",
+          "event_slug": "cs2-hon1-ryvex-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Dota 2: Power Rangers vs Ka4kanarskie cyxariki (BO3) - 1win Essence Play-in Grou",
+          "side": "BUY",
+          "outcome": "Ka4kanarskie cyxariki",
+          "price": 0.5951549638,
+          "value": 132.308900002378,
+          "timestamp": 1794249211,
+          "slug": "dota2-pr1-cyxari-2026-11-09",
+          "event_slug": "dota2-pr1-cyxari-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: maybe vs MASONIC (BO3) - CCT Europe Closed Qualifier: Series Pla",
           "side": "BUY",
@@ -7047,39 +7080,6 @@
           "value": 765,
           "timestamp": 1794138894,
           "slug": "cs2-ts7-fut-2026-11-11-game1",
-          "event_slug": "cs2-ts7-fut-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B",
-          "side": "BUY",
-          "outcome": "Spirit",
-          "price": 0.71,
-          "value": 437.0618,
-          "timestamp": 1794137895,
-          "slug": "cs2-ts7-fut-2026-11-11",
-          "event_slug": "cs2-ts7-fut-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Map Handicap: TS (-1.5) vs FUT Esports (+1.5)",
-          "side": "BUY",
-          "outcome": "Spirit",
-          "price": 0.43,
-          "value": 706.3910999999999,
-          "timestamp": 1794137880,
-          "slug": "cs2-ts7-fut-2026-11-11-map-handicap-away-1pt5",
-          "event_slug": "cs2-ts7-fut-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Map Handicap: TS (-1.5) vs FUT Esports (+1.5)",
-          "side": "BUY",
-          "outcome": "Spirit",
-          "price": 0.42,
-          "value": 647.0562,
-          "timestamp": 1794137739,
-          "slug": "cs2-ts7-fut-2026-11-11-map-handicap-away-1pt5",
           "event_slug": "cs2-ts7-fut-2026-11-11",
           "result": "ongoing"
         }
@@ -8752,5 +8752,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T18:33:28.985Z"
+  "lastUpdate": "2026-11-09T18:42:42.320Z"
 }
