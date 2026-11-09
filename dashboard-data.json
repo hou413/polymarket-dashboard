@@ -952,10 +952,10 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 22,
-        "losses": 22,
-        "totalTrades": 44,
-        "winRate": 0.5,
-        "volume": 97675.09930000002,
+        "losses": 21,
+        "totalTrades": 43,
+        "winRate": 0.5116279069767442,
+        "volume": 91690.80230000001,
         "pnl": 0
       },
       "recentTrades": [
@@ -1429,17 +1429,6 @@
           "value": 1590.0984,
           "timestamp": 1793970616,
           "slug": "nhl-ana-cal-2026-11-06-spread-home-1pt5",
-          "event_slug": "nhl-ana-cal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Ducks vs. Flames",
-          "side": "BUY",
-          "outcome": "Flames",
-          "price": 0.55,
-          "value": 5984.297000000001,
-          "timestamp": 1793970247,
-          "slug": "nhl-ana-cal-2026-11-06",
           "event_slug": "nhl-ana-cal-2026-11-06",
           "result": "loss"
         }
@@ -4521,11 +4510,11 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 32,
+        "wins": 30,
         "losses": 6,
-        "totalTrades": 41,
-        "winRate": 0.8421052631578947,
-        "volume": 296577.84074506466,
+        "totalTrades": 39,
+        "winRate": 0.8333333333333334,
+        "volume": 265257.5499450572,
         "pnl": 0
       },
       "recentTrades": [
@@ -4954,28 +4943,6 @@
           "price": 0.87,
           "value": 17870.017499999998,
           "timestamp": 1793973658,
-          "slug": "wta-ruzic-eala-2026-11-06",
-          "event_slug": "wta-ruzic-eala-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
-          "side": "BUY",
-          "outcome": "Alexandra Eala",
-          "price": 0.8399072167,
-          "value": 452.617600007463,
-          "timestamp": 1793969988,
-          "slug": "wta-ruzic-eala-2026-11-06",
-          "event_slug": "wta-ruzic-eala-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
-          "side": "BUY",
-          "outcome": "Alexandra Eala",
-          "price": 0.84,
-          "value": 30867.6732,
-          "timestamp": 1793969956,
           "slug": "wta-ruzic-eala-2026-11-06",
           "event_slug": "wta-ruzic-eala-2026-11-06",
           "result": "win"
@@ -6723,14 +6690,47 @@
       "label": "JabJabich",
       "specialty": "Tennis+NFL",
       "stats48h": {
-        "wins": 11,
+        "wins": 10,
         "losses": 7,
-        "totalTrades": 137,
-        "winRate": 0.6111111111111112,
-        "volume": 44117.47193612997,
+        "totalTrades": 140,
+        "winRate": 0.5882352941176471,
+        "volume": 25159.596946164507,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: maybe vs MASONIC - Map 2 Winner AND Counter-Strike: BakS eSports",
+          "side": "BUY",
+          "outcome": "",
+          "price": 0.5511772424,
+          "value": 489.0257100170511,
+          "timestamp": 1794229518,
+          "slug": "",
+          "event_slug": "",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: maybe vs MASONIC - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "MASONIC",
+          "price": 0.7139911763,
+          "value": 640.864200023354,
+          "timestamp": 1794229512,
+          "slug": "cs2-maybe-msc-2026-11-09-game2",
+          "event_slug": "cs2-maybe-msc-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: maybe vs MASONIC - Map 2 Winner",
+          "side": "BUY",
+          "outcome": "MASONIC",
+          "price": 0.668511507,
+          "value": 545.2312999941299,
+          "timestamp": 1794229425,
+          "slug": "cs2-maybe-msc-2026-11-09-game2",
+          "event_slug": "cs2-maybe-msc-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: Ryvex vs Drama eSports (BO3) - CCT Europe Closed Qualifier: Seri",
           "side": "BUY",
@@ -7247,39 +7247,6 @@
           "slug": "cs2-ts7-fut-2026-11-11",
           "event_slug": "cs2-ts7-fut-2026-11-11",
           "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B",
-          "side": "BUY",
-          "outcome": "Spirit",
-          "price": 0.69,
-          "value": 897.8556,
-          "timestamp": 1794137727,
-          "slug": "cs2-ts7-fut-2026-11-11",
-          "event_slug": "cs2-ts7-fut-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B",
-          "side": "BUY",
-          "outcome": "Spirit",
-          "price": 0.69,
-          "value": 16902.371099999997,
-          "timestamp": 1794137722,
-          "slug": "cs2-ts7-fut-2026-11-11",
-          "event_slug": "cs2-ts7-fut-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
-          "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.85,
-          "value": 2832.7695,
-          "timestamp": 1794093469,
-          "slug": "lol-ig1-gen-2026-11-07-game2",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -8950,5 +8917,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T13:00:31.100Z"
+  "lastUpdate": "2026-11-09T13:09:45.719Z"
 }
