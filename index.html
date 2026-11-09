@@ -255,26 +255,21 @@
             overflow: hidden;
             text-overflow: ellipsis;
             max-width: 220px;
-            position: relative;
             cursor: default;
         }
-        .trade-title:hover::after {
-            content: attr(data-full);
-            position: absolute;
-            left: 0;
-            top: 100%;
-            z-index: 999;
-            background: rgba(0,0,0,0.85);
+        .trade-tooltip {
+            position: fixed;
+            z-index: 99999;
+            background: rgba(0,0,0,0.9);
             color: #fff;
-            padding: 6px 10px;
+            padding: 8px 12px;
             border-radius: 6px;
-            font-size: 0.9em;
-            white-space: normal;
-            max-width: 320px;
+            font-size: 0.85em;
+            max-width: 360px;
             word-break: break-word;
             line-height: 1.4;
             pointer-events: none;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
         }
         
         .trade-meta {
@@ -384,6 +379,28 @@
     </div>
     
     <script>
+        // Tooltip functions
+        let tooltipEl = null;
+        function showTip(e, text) {
+            if (!tooltipEl) {
+                tooltipEl = document.createElement('div');
+                tooltipEl.className = 'trade-tooltip';
+                document.body.appendChild(tooltipEl);
+            }
+            tooltipEl.textContent = text;
+            tooltipEl.style.display = 'block';
+            moveTip(e);
+        }
+        function moveTip(e) {
+            if (tooltipEl) {
+                tooltipEl.style.left = (e.clientX + 10) + 'px';
+                tooltipEl.style.top = (e.clientY + 15) + 'px';
+            }
+        }
+        function hideTip() {
+            if (tooltipEl) tooltipEl.style.display = 'none';
+        }
+
         async function fetchDashboard() {
             try {
                 // Try local API first (for local dev), fallback to static JSON
@@ -518,7 +535,7 @@
                         const icon = trade.side === 'BUY' ? '📈' : '📉';
                         return '<a href="' + url + '" target="_blank" rel="noopener" class="trade-item ' + sideClass + '" style="text-decoration:none;color:inherit;">' +
                             '<div class="trade-info">' +
-                                '<div class="trade-title" data-full="' + (trade.title || '').replace(/"/g, '&quot;') + '">' + trade.title + '</div>' +
+                                '<div class="trade-title" onmouseenter="showTip(event,this.textContent)" onmouseleave="hideTip()" onmousemove="moveTip(event)">' + trade.title + '</div>' +
                                 '<div class="trade-meta">' + trade.outcome + ' @ ' + (trade.price * 100).toFixed(1) + '¢</div>' +
                             '</div>' +
                             '<div>' +
