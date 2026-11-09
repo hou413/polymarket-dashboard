@@ -386,10 +386,10 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 24,
+        "wins": 22,
         "losses": 26,
         "totalTrades": 500,
-        "winRate": 0.48,
+        "winRate": 0.4583333333333333,
         "volume": 19087.22669998005,
         "pnl": 0
       },
@@ -887,7 +887,7 @@
           "timestamp": 1794198148,
           "slug": "nba-mia-sac-2026-11-08-spread-away-4pt5",
           "event_slug": "nba-mia-sac-2026-11-08",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Heat (-4.5)",
@@ -898,7 +898,7 @@
           "timestamp": 1794198147,
           "slug": "nba-mia-sac-2026-11-08-spread-away-4pt5",
           "event_slug": "nba-mia-sac-2026-11-08",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Buccaneers vs. Bears: O/U 46.5",
@@ -951,661 +951,42 @@
       "label": "chubbytoro",
       "specialty": "综合",
       "stats48h": {
-        "wins": 22,
-        "losses": 22,
-        "totalTrades": 44,
-        "winRate": 0.5,
-        "volume": 97675.09930000002,
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "Spread: Seahawks (-10.5)",
-          "side": "BUY",
-          "outcome": "Seahawks",
-          "price": 0.44,
-          "value": 405.17400000000004,
-          "timestamp": 1794171604,
-          "slug": "nfl-ari-sea-2026-11-08-spread-home-10pt5",
-          "event_slug": "nfl-ari-sea-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Penguins vs. Ducks",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.48,
-          "value": 50.424,
-          "timestamp": 1794168736,
-          "slug": "nhl-pit-ana-2026-11-08",
-          "event_slug": "nhl-pit-ana-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.29,
-          "value": 944.6488999999999,
-          "timestamp": 1794124942,
-          "slug": "nhl-pit-ana-2026-11-08-spread-away-1pt5",
-          "event_slug": "nhl-pit-ana-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Penguins vs. Ducks",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.48,
-          "value": 3772.1951999999997,
-          "timestamp": 1794124845,
-          "slug": "nhl-pit-ana-2026-11-08",
-          "event_slug": "nhl-pit-ana-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Flyers vs. Flames",
-          "side": "BUY",
-          "outcome": "Flyers",
-          "price": 0.51,
-          "value": 440.18100000000004,
-          "timestamp": 1794124566,
-          "slug": "nhl-phi-cal-2026-11-08",
-          "event_slug": "nhl-phi-cal-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Oilers (-1.5)",
-          "side": "BUY",
-          "outcome": "Canucks",
-          "price": 0.43,
-          "value": 443.7729,
-          "timestamp": 1794101770,
-          "slug": "nhl-van-edm-2026-11-07-spread-home-1pt5",
-          "event_slug": "nhl-van-edm-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Sharks vs. Stars: O/U 7.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.75,
-          "value": 9,
-          "timestamp": 1794096285,
-          "slug": "nhl-sj-dal-2026-11-07-total-7pt5",
-          "event_slug": "nhl-sj-dal-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Sharks vs. Stars: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.57,
-          "value": 3914.0816999999997,
-          "timestamp": 1794096169,
-          "slug": "nhl-sj-dal-2026-11-07-total-6pt5",
-          "event_slug": "nhl-sj-dal-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Edmonton Elks vs. British Columbia Lions",
-          "side": "BUY",
-          "outcome": "Edmonton Elks",
-          "price": 0.51,
-          "value": 1136.9481,
-          "timestamp": 1794093963,
-          "slug": "cfl-edm-bc-2026-11-07",
-          "event_slug": "cfl-edm-bc-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Lightning vs. Wild",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.57,
-          "value": 11101.616399999999,
-          "timestamp": 1794091567,
-          "slug": "nhl-tb-min-2026-11-07",
-          "event_slug": "nhl-tb-min-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Lightning vs. Wild",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.57,
-          "value": 17100,
-          "timestamp": 1794091567,
-          "slug": "nhl-tb-min-2026-11-07",
-          "event_slug": "nhl-tb-min-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Stars (-1.5)",
-          "side": "BUY",
-          "outcome": "Sharks",
-          "price": 0.49,
-          "value": 3014.5486,
-          "timestamp": 1794085855,
-          "slug": "nhl-sj-dal-2026-11-07-spread-home-1pt5",
-          "event_slug": "nhl-sj-dal-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Sharks (-1.5)",
-          "side": "BUY",
-          "outcome": "Sharks",
-          "price": 0.13,
-          "value": 371.28000000000003,
-          "timestamp": 1794085821,
-          "slug": "nhl-sj-dal-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-sj-dal-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Sharks vs. Stars",
-          "side": "BUY",
-          "outcome": "Sharks",
-          "price": 0.27,
-          "value": 4032.045,
-          "timestamp": 1794085654,
-          "slug": "nhl-sj-dal-2026-11-07",
-          "event_slug": "nhl-sj-dal-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Penguins vs. Kings",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.48,
-          "value": 7680,
-          "timestamp": 1794085093,
-          "slug": "nhl-pit-lak-2026-11-07",
-          "event_slug": "nhl-pit-lak-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Penguins vs. Kings",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.48,
-          "value": 1347.36,
-          "timestamp": 1794085092,
-          "slug": "nhl-pit-lak-2026-11-07",
-          "event_slug": "nhl-pit-lak-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Sharks vs. Stars: O/U 7.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.74,
-          "value": 225.7,
-          "timestamp": 1794084894,
-          "slug": "nhl-sj-dal-2026-11-07-total-7pt5",
-          "event_slug": "nhl-sj-dal-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Sharks vs. Stars: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.56,
-          "value": 607.6,
-          "timestamp": 1794084837,
-          "slug": "nhl-sj-dal-2026-11-07-total-6pt5",
-          "event_slug": "nhl-sj-dal-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Edmonton Elks vs. British Columbia Lions",
-          "side": "BUY",
-          "outcome": "Edmonton Elks",
-          "price": 0.45,
-          "value": 45,
-          "timestamp": 1794084525,
-          "slug": "cfl-edm-bc-2026-11-07",
-          "event_slug": "cfl-edm-bc-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Rangers vs. Kraken",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.56,
-          "value": 590.5592,
-          "timestamp": 1794074725,
-          "slug": "nhl-nyr-sea-2026-11-07",
-          "event_slug": "nhl-nyr-sea-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.28,
-          "value": 1400.0000000000002,
-          "timestamp": 1794071853,
-          "slug": "nhl-pit-lak-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-pit-lak-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.28,
-          "value": 393.92920000000004,
-          "timestamp": 1794071851,
-          "slug": "nhl-pit-lak-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-pit-lak-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Penguins vs. Kings",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.48,
-          "value": 1040.9759999999999,
-          "timestamp": 1794071757,
-          "slug": "nhl-pit-lak-2026-11-07",
-          "event_slug": "nhl-pit-lak-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Red Wings (-1.5)",
-          "side": "BUY",
-          "outcome": "Red Wings",
-          "price": 0.17,
-          "value": 103.05910000000002,
-          "timestamp": 1794071545,
-          "slug": "nhl-det-col-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-det-col-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Senators (-1.5)",
-          "side": "BUY",
-          "outcome": "Senators",
-          "price": 0.27,
-          "value": 762.0048,
-          "timestamp": 1794070296,
-          "slug": "nhl-utah-ott-2026-11-07-spread-home-1pt5",
-          "event_slug": "nhl-utah-ott-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Rangers (-1.5)",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.34,
-          "value": 1509.5048000000002,
-          "timestamp": 1794069432,
-          "slug": "nhl-nyr-sea-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-nyr-sea-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Lightning (-1.5)",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.35,
-          "value": 59.849999999999994,
-          "timestamp": 1794064464,
-          "slug": "nhl-tb-min-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-tb-min-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Lightning vs. Wild",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.57,
-          "value": 1344.8864999999998,
-          "timestamp": 1794064107,
-          "slug": "nhl-tb-min-2026-11-07",
-          "event_slug": "nhl-tb-min-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Rangers (-1.5)",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.33,
-          "value": 786.3339,
-          "timestamp": 1794062925,
-          "slug": "nhl-nyr-sea-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-nyr-sea-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Kings (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.68,
-          "value": 3.4000000000000004,
-          "timestamp": 1794060711,
-          "slug": "nhl-pit-lak-2026-11-07-spread-home-1pt5",
-          "event_slug": "nhl-pit-lak-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.27,
-          "value": 957.3714000000001,
-          "timestamp": 1794060669,
-          "slug": "nhl-pit-lak-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-pit-lak-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Penguins vs. Kings",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.47,
-          "value": 274.95939999999996,
-          "timestamp": 1794060540,
-          "slug": "nhl-pit-lak-2026-11-07",
-          "event_slug": "nhl-pit-lak-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Rangers (-1.5)",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.33,
-          "value": 2239.1952,
-          "timestamp": 1794043659,
-          "slug": "nhl-nyr-sea-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-nyr-sea-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Rangers vs. Kraken",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.55,
-          "value": 5487.856000000001,
-          "timestamp": 1794043581,
-          "slug": "nhl-nyr-sea-2026-11-07",
-          "event_slug": "nhl-nyr-sea-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Lightning (-1.5)",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.34,
-          "value": 697.6664000000001,
-          "timestamp": 1794043324,
-          "slug": "nhl-tb-min-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-tb-min-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Avalanche (-1.5)",
-          "side": "BUY",
-          "outcome": "Red Wings",
-          "price": 0.57,
-          "value": 3278.7198,
-          "timestamp": 1794043246,
-          "slug": "nhl-det-col-2026-11-07-spread-home-1pt5",
-          "event_slug": "nhl-det-col-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Red Wings vs. Avalanche: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.51,
-          "value": 630.6099,
-          "timestamp": 1794042991,
-          "slug": "nhl-det-col-2026-11-07-total-6pt5",
-          "event_slug": "nhl-det-col-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Lightning vs. Wild",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.56,
-          "value": 40.908,
-          "timestamp": 1794042862,
-          "slug": "nhl-tb-min-2026-11-07",
-          "event_slug": "nhl-tb-min-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Sharks vs. Stars: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.53,
-          "value": 6.7575,
-          "timestamp": 1794042765,
-          "slug": "nhl-sj-dal-2026-11-07-total-6pt5",
-          "event_slug": "nhl-sj-dal-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Flames (-1.5)",
-          "side": "BUY",
-          "outcome": "Flames",
-          "price": 0.35,
-          "value": 1915.0004999999999,
-          "timestamp": 1793979862,
-          "slug": "nhl-ana-cal-2026-11-06-spread-home-1pt5",
-          "event_slug": "nhl-ana-cal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Ducks vs. Flames",
-          "side": "BUY",
-          "outcome": "Flames",
-          "price": 0.57,
-          "value": 8085.911699999999,
-          "timestamp": 1793979808,
-          "slug": "nhl-ana-cal-2026-11-06",
-          "event_slug": "nhl-ana-cal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Ducks vs. Flames",
-          "side": "BUY",
-          "outcome": "Flames",
-          "price": 0.56,
-          "value": 1849.6688000000001,
-          "timestamp": 1793976633,
-          "slug": "nhl-ana-cal-2026-11-06",
-          "event_slug": "nhl-ana-cal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Flames (-1.5)",
-          "side": "BUY",
-          "outcome": "Flames",
-          "price": 0.34,
-          "value": 1590.0984,
-          "timestamp": 1793970616,
-          "slug": "nhl-ana-cal-2026-11-06-spread-home-1pt5",
-          "event_slug": "nhl-ana-cal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Ducks vs. Flames",
-          "side": "BUY",
-          "outcome": "Flames",
-          "price": 0.55,
-          "value": 5984.297000000001,
-          "timestamp": 1793970247,
-          "slug": "nhl-ana-cal-2026-11-06",
-          "event_slug": "nhl-ana-cal-2026-11-06",
-          "result": "loss"
-        }
-      ]
+      "recentTrades": []
     },
     {
       "address": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
       "label": "Netrol",
       "specialty": "NBA+NHL",
       "stats48h": {
-        "wins": 1,
+        "wins": 0,
         "losses": 0,
-        "totalTrades": 1,
-        "winRate": 1,
-        "volume": 30082.281191406277,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "US x Iran effective ceasefire continues through November 8, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9974988549,
-          "value": 30082.281191406277,
-          "timestamp": 1794016627,
-          "slug": "us-x-iran-effective-ceasefire-continues-through-november-8-20261103",
-          "event_slug": "us-iran-effective-ceasefire-continues-throughptptpt-20261103",
-          "result": "win"
-        }
-      ]
+      "recentTrades": []
     },
     {
       "address": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
       "label": "VeryLucky888",
       "specialty": "MLB+UFC",
       "stats48h": {
-        "wins": 3,
-        "losses": 8,
-        "totalTrades": 11,
-        "winRate": 0.2727272727272727,
-        "volume": 773.3763,
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "SELL",
-          "outcome": "Gen.G",
-          "price": 0.6,
-          "value": 62.304,
-          "timestamp": 1794098097,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.26,
-          "value": 53.9968,
-          "timestamp": 1794097650,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "SELL",
-          "outcome": "Invictus Gaming",
-          "price": 0.75,
-          "value": 129.3675,
-          "timestamp": 1794097642,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "SELL",
-          "outcome": "Invictus Gaming",
-          "price": 0.73,
-          "value": 125.9104,
-          "timestamp": 1794097294,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "SELL",
-          "outcome": "Invictus Gaming",
-          "price": 0.4,
-          "value": 40,
-          "timestamp": 1794096610,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Invictus Gaming",
-          "price": 0.35,
-          "value": 83.202,
-          "timestamp": 1794096264,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Invictus Gaming",
-          "price": 0.27,
-          "value": 55.9575,
-          "timestamp": 1794093580,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
-          "side": "BUY",
-          "outcome": "Invictus Gaming",
-          "price": 0.29,
-          "value": 60.1025,
-          "timestamp": 1794092281,
-          "slug": "lol-ig1-gen-2026-11-07-game2",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Invictus Gaming",
-          "price": 0.31,
-          "value": 64.1793,
-          "timestamp": 1794089812,
-          "slug": "lol-ig1-gen-2026-11-07-game1",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.31,
-          "value": 32.1067,
-          "timestamp": 1794009874,
-          "slug": "lol-kc-t1-2026-11-04-game3",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Karmine Corp vs T1 - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Karmine Corp",
-          "price": 0.32,
-          "value": 66.2496,
-          "timestamp": 1794003237,
-          "slug": "lol-kc-t1-2026-11-04-game1",
-          "event_slug": "lol-kc-t1-2026-11-04",
-          "result": "loss"
-        }
-      ]
+      "recentTrades": []
     },
     {
       "address": "0xf7b7009844425e328f135856273c30659be3e490",
@@ -4987,11 +4368,11 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 35,
+        "wins": 34,
         "losses": 14,
-        "totalTrades": 49,
-        "winRate": 0.7142857142857143,
-        "volume": 77969.55249978928,
+        "totalTrades": 48,
+        "winRate": 0.7083333333333334,
+        "volume": 77927.55249978928,
         "pnl": 0
       },
       "recentTrades": [
@@ -5522,17 +4903,6 @@
           "slug": "nba-sas-sac-2026-11-06-spread-away-16pt5",
           "event_slug": "nba-sas-sac-2026-11-06",
           "result": "loss"
-        },
-        {
-          "title": "76ers vs. Cavaliers",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.42,
-          "value": 42,
-          "timestamp": 1793966202,
-          "slug": "nba-phi-cle-2026-11-06",
-          "event_slug": "nba-phi-cle-2026-11-06",
-          "result": "win"
         }
       ]
     },
@@ -7864,14 +7234,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 49,
+        "wins": 48,
         "losses": 0,
-        "totalTrades": 74,
+        "totalTrades": 75,
         "winRate": 1,
-        "volume": 36477.74694000013,
+        "volume": 36488.103900000126,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Seoul Thunders vs. Sonic Boom",
+          "side": "BUY",
+          "outcome": "Seoul Thunders",
+          "price": 0.92,
+          "value": 117.7324,
+          "timestamp": 1794225007,
+          "slug": "bkkbl-seo2-son-2026-11-09",
+          "event_slug": "bkkbl-seo2-son-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Seoul Thunders vs. Sonic Boom",
           "side": "BUY",
@@ -8409,17 +7790,6 @@
           "timestamp": 1794057324,
           "slug": "aus-per-new-2026-11-07-total-1pt5",
           "event_slug": "aus-per-new-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "1. FC Nürnberg vs. SV Darmstadt 98: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.824,
-          "value": 107.37544,
-          "timestamp": 1794056079,
-          "slug": "bl2-fcn-svd-2026-11-07-total-0pt5",
-          "event_slug": "bl2-fcn-svd-2026-11-07-more-markets",
           "result": "win"
         }
       ]
@@ -8972,5 +8342,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T11:50:28.559Z"
+  "lastUpdate": "2026-11-09T12:03:19.532Z"
 }
