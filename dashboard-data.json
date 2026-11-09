@@ -3960,10 +3960,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3970.0665700151994,
+        "volume": 3940.4683000152,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Gavin Newsom Democratic nomination odds leader on November 30?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 0.075,
+          "timestamp": 1794222852,
+          "slug": "gavin-newsom-democratic-nomination-odds-leader-on-november-30",
+          "event_slug": "democratic-nomination-odds-leader-on-november-30",
+          "result": "ongoing"
+        },
         {
           "title": "Will Emmanuel Macron be the next leader out before 2027?",
           "side": "SELL",
@@ -4500,17 +4511,6 @@
           "value": 33.684090000000005,
           "timestamp": 1794193020,
           "slug": "will-duro-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ruler win Worlds 2026 Finals MVP?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.873,
-          "value": 29.673270000000002,
-          "timestamp": 1794193018,
-          "slug": "will-ruler-win-worlds-2026-finals-mvp",
           "event_slug": "worlds-2026-finals-mvp",
           "result": "ongoing"
         }
@@ -6736,7 +6736,7 @@
       "stats48h": {
         "wins": 11,
         "losses": 7,
-        "totalTrades": 145,
+        "totalTrades": 144,
         "winRate": 0.6111111111111112,
         "volume": 44117.47193612997,
         "pnl": 0
@@ -8972,5 +8972,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T11:13:11.665Z"
+  "lastUpdate": "2026-11-09T11:22:24.607Z"
 }
