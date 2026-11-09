@@ -386,10 +386,10 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 24,
+        "wins": 22,
         "losses": 26,
         "totalTrades": 500,
-        "winRate": 0.48,
+        "winRate": 0.4583333333333333,
         "volume": 19087.22669998005,
         "pnl": 0
       },
@@ -887,7 +887,7 @@
           "timestamp": 1794198148,
           "slug": "nba-mia-sac-2026-11-08-spread-away-4pt5",
           "event_slug": "nba-mia-sac-2026-11-08",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Heat (-4.5)",
@@ -898,7 +898,7 @@
           "timestamp": 1794198147,
           "slug": "nba-mia-sac-2026-11-08-spread-away-4pt5",
           "event_slug": "nba-mia-sac-2026-11-08",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Buccaneers vs. Bears: O/U 46.5",
@@ -9016,5 +9016,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T06:00:37.067Z"
+  "lastUpdate": "2026-11-09T06:10:23.987Z"
 }
