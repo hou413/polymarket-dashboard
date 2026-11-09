@@ -386,14 +386,124 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 0,
-        "losses": 1,
+        "wins": 1,
+        "losses": 0,
         "totalTrades": 500,
-        "winRate": 0,
-        "volume": 12926.909099976325,
+        "winRate": 1,
+        "volume": 19340.527799982123,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Heat (-7.5)",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.61,
+          "value": 255.59,
+          "timestamp": 1794192870,
+          "slug": "nba-mia-sac-2026-11-08-spread-away-7pt5",
+          "event_slug": "nba-mia-sac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears: O/U 48.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.54,
+          "value": 3010.6836000000003,
+          "timestamp": 1794192714,
+          "slug": "nfl-tb-chi-2026-11-09-total-48pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears: O/U 46.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.44,
+          "value": 1173.04,
+          "timestamp": 1794192703,
+          "slug": "nfl-tb-chi-2026-11-09-total-46pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears: O/U 52.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.7,
+          "value": 350,
+          "timestamp": 1794192700,
+          "slug": "nfl-tb-chi-2026-11-09-total-52pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears: O/U 50.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.61,
+          "value": 2441.6591999999996,
+          "timestamp": 1794192678,
+          "slug": "nfl-tb-chi-2026-11-09-total-50pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears: O/U 48.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 1449.5884,
+          "timestamp": 1794192643,
+          "slug": "nfl-tb-chi-2026-11-09-total-48pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pelicans vs. Clippers: O/U 221.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.59,
+          "value": 10.62,
+          "timestamp": 1794192642,
+          "slug": "nba-nop-lac-2026-11-08-total-221pt5",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears: O/U 46.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.46,
+          "value": 38.8562,
+          "timestamp": 1794192361,
+          "slug": "nfl-tb-chi-2026-11-09-total-46pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears: O/U 44.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 280,
+          "timestamp": 1794192201,
+          "slug": "nfl-tb-chi-2026-11-09-total-44pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears: O/U 42.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.37,
+          "value": 7.4,
+          "timestamp": 1794192175,
+          "slug": "nfl-tb-chi-2026-11-09-total-42pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Buccaneers vs. Bears: O/U 50.5",
           "side": "BUY",
@@ -799,7 +909,7 @@
           "timestamp": 1794190213,
           "slug": "nba-uta-min-2026-11-08-total-216pt5",
           "event_slug": "nba-uta-min-2026-11-08",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Bears (-16.5)",
@@ -832,116 +942,6 @@
           "timestamp": 1794190060,
           "slug": "nfl-tb-chi-2026-11-09-spread-home-17pt5",
           "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Bears (-16.5)",
-          "side": "BUY",
-          "outcome": "Buccaneers",
-          "price": 0.45,
-          "value": 112.311,
-          "timestamp": 1794190060,
-          "slug": "nfl-tb-chi-2026-11-09-spread-home-16pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Timberwolves: O/U 210.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.19,
-          "value": 3.42,
-          "timestamp": 1794190039,
-          "slug": "nba-uta-min-2026-11-08-total-210pt5",
-          "event_slug": "nba-uta-min-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Jazz vs. Timberwolves: O/U 214.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.38,
-          "value": 76,
-          "timestamp": 1794190039,
-          "slug": "nba-uta-min-2026-11-08-total-214pt5",
-          "event_slug": "nba-uta-min-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Timberwolves: O/U 218.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5591743119,
-          "value": 121.8999999942,
-          "timestamp": 1794190036,
-          "slug": "nba-uta-min-2026-11-08-total-218pt5",
-          "event_slug": "nba-uta-min-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Bears (-17.5)",
-          "side": "BUY",
-          "outcome": "Buccaneers",
-          "price": 0.53,
-          "value": 473.07270000000005,
-          "timestamp": 1794189984,
-          "slug": "nfl-tb-chi-2026-11-09-spread-home-17pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Bears (-17.5)",
-          "side": "BUY",
-          "outcome": "Buccaneers",
-          "price": 0.53,
-          "value": 1616.2350000000001,
-          "timestamp": 1794189984,
-          "slug": "nfl-tb-chi-2026-11-09-spread-home-17pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-24.5)",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.73,
-          "value": 176.66,
-          "timestamp": 1794189979,
-          "slug": "nba-bos-mil-2026-11-08-spread-away-24pt5",
-          "event_slug": "nba-bos-mil-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Bears (-16.5)",
-          "side": "BUY",
-          "outcome": "Buccaneers",
-          "price": 0.49,
-          "value": 19.6,
-          "timestamp": 1794189955,
-          "slug": "nfl-tb-chi-2026-11-09-spread-home-16pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Bears (-13.5)",
-          "side": "BUY",
-          "outcome": "Buccaneers",
-          "price": 0.38,
-          "value": 1.9,
-          "timestamp": 1794189937,
-          "slug": "nfl-tb-chi-2026-11-09-spread-home-13pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jazz vs. Timberwolves: O/U 230.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.16,
-          "value": 2.72,
-          "timestamp": 1794189754,
-          "slug": "nba-uta-min-2026-11-08-total-230pt5",
-          "event_slug": "nba-uta-min-2026-11-08",
           "result": "ongoing"
         }
       ]
@@ -3989,14 +3989,113 @@
       "label": "ethanaz",
       "specialty": "NFL+NBA",
       "stats48h": {
-        "wins": 0,
+        "wins": 2,
         "losses": 0,
         "totalTrades": 500,
-        "winRate": 0,
-        "volume": 2374.124039989502,
+        "winRate": 1,
+        "volume": 2644.0039799893316,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Duro win Worlds 2026 Finals MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.991,
+          "value": 33.684090000000005,
+          "timestamp": 1794193020,
+          "slug": "will-duro-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Ruler win Worlds 2026 Finals MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.873,
+          "value": 29.673270000000002,
+          "timestamp": 1794193018,
+          "slug": "will-ruler-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Viper win Worlds 2026 Finals MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.959,
+          "value": 32.59641,
+          "timestamp": 1794193018,
+          "slug": "will-viper-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Canyon win Worlds 2026 Finals MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.799,
+          "value": 27.158010000000004,
+          "timestamp": 1794193018,
+          "slug": "will-canyon-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Kiin win Worlds 2026 Finals MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.857451015,
+          "value": 29.144759999850002,
+          "timestamp": 1794193018,
+          "slug": "will-kiin-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Knight win Worlds 2026 Finals MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9005586937,
+          "value": 30.609989998863,
+          "timestamp": 1794193018,
+          "slug": "will-knight-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will ON win Worlds 2026 Finals MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9871244484,
+          "value": 33.552360001116,
+          "timestamp": 1794193018,
+          "slug": "will-on-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chovy win Worlds 2026 Finals MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.78,
+          "value": 26.512200000000004,
+          "timestamp": 1794193018,
+          "slug": "will-chovy-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Xun win Worlds 2026 Finals MVP?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9,
+          "value": 30.591,
+          "timestamp": 1794193018,
+          "slug": "will-xun-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
         {
           "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
           "side": "SELL",
@@ -4215,7 +4314,7 @@
           "timestamp": 1794184272,
           "slug": "elon-musk-of-tweets-november-7-november-9-2026-0-39",
           "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 115-139 tweets from November 7 to November 9, 2026?",
@@ -4292,7 +4391,7 @@
           "timestamp": 1794179572,
           "slug": "elon-musk-of-tweets-november-7-november-9-2026-0-39",
           "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Elon Musk post 115-139 tweets from November 7 to November 9, 2026?",
@@ -4445,105 +4544,6 @@
           "value": 0.027930000000000003,
           "timestamp": 1794158718,
           "slug": "will-luiz-inacio-lula-da-silva-be-the-next-leader-out-before-2027-20260630194627375",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Volodymyr Zelenskyy be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.003,
-          "value": 0.027930000000000003,
-          "timestamp": 1794157030,
-          "slug": "will-volodymyr-zelenskyy-be-the-next-leader-out-before-2027-20260630194627373",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Delcy Rodríguez be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.01862,
-          "timestamp": 1794156840,
-          "slug": "will-delcy-rodriguez-be-the-next-leader-out-before-2027-20260630194627383",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ahmed al-Sharaa be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.00931,
-          "timestamp": 1794156840,
-          "slug": "will-ahmed-al-sharaa-be-the-next-leader-out-before-2027-20260630194627384",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Josh Allen win the 2026 NFL MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.25,
-          "value": 3.5025,
-          "timestamp": 1794156840,
-          "slug": "will-josh-allen-win-the-2026-nfl-mvp",
-          "event_slug": "pro-football-2026-mvp-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Javier Milei be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.00931,
-          "timestamp": 1794156840,
-          "slug": "will-javier-milei-be-the-next-leader-out-before-2027-20260630194627371",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Vladimir Putin be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.01862,
-          "timestamp": 1794156840,
-          "slug": "will-vladimir-putin-be-the-next-leader-out-before-2027-20260630194627374",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Gavin Newsom be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.00931,
-          "timestamp": 1794156840,
-          "slug": "will-gavin-newsom-be-the-next-leader-out-before-2027-20260630194627370",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Recep Tayyip Erdoğan be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.003,
-          "value": 0.027930000000000003,
-          "timestamp": 1794156840,
-          "slug": "will-recep-tayyip-erdogan-be-the-next-leader-out-before-2027-20260630194627365",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sanae Takaichi be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.01862,
-          "timestamp": 1794156840,
-          "slug": "will-sanae-takaichi-be-the-next-leader-out-before-2027-20260630194627377",
           "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
           "result": "ongoing"
         }
@@ -5879,10 +5879,318 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 12706.839499763453,
+        "volume": 26320.497899773363,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Heat vs. Kings",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.22,
+          "value": 1.98,
+          "timestamp": 1794193159,
+          "slug": "nba-mia-sac-2026-11-08",
+          "event_slug": "nba-mia-sac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Heat (-10.5)",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.53,
+          "value": 5.300000000000001,
+          "timestamp": 1794193057,
+          "slug": "nba-mia-sac-2026-11-08-spread-away-10pt5",
+          "event_slug": "nba-mia-sac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Heat vs. Kings",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.2,
+          "value": 99,
+          "timestamp": 1794193057,
+          "slug": "nba-mia-sac-2026-11-08",
+          "event_slug": "nba-mia-sac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pelicans vs. Clippers",
+          "side": "BUY",
+          "outcome": "Clippers",
+          "price": 0.69,
+          "value": 2870.6897999999997,
+          "timestamp": 1794193048,
+          "slug": "nba-nop-lac-2026-11-08",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pelicans vs. Clippers",
+          "side": "BUY",
+          "outcome": "Clippers",
+          "price": 0.6495048212,
+          "value": 7962.545900067492,
+          "timestamp": 1794193033,
+          "slug": "nba-nop-lac-2026-11-08",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pelicans vs. Clippers",
+          "side": "BUY",
+          "outcome": "Clippers",
+          "price": 0.6171035901,
+          "value": 426.11619999995105,
+          "timestamp": 1794193029,
+          "slug": "nba-nop-lac-2026-11-08",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Clippers (-1.5)",
+          "side": "BUY",
+          "outcome": "Clippers",
+          "price": 0.59,
+          "value": 90.86,
+          "timestamp": 1794193029,
+          "slug": "nba-nop-lac-2026-11-08-spread-home-1pt5",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics vs. Bucks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.002,
+          "value": 1.264,
+          "timestamp": 1794192894,
+          "slug": "nba-bos-mil-2026-11-08",
+          "event_slug": "nba-bos-mil-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Celtics (-22.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.56,
+          "value": 6.238400000000001,
+          "timestamp": 1794192894,
+          "slug": "nba-bos-mil-2026-11-08-spread-away-22pt5",
+          "event_slug": "nba-bos-mil-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Clippers (-4.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.55,
+          "value": 91.30000000000001,
+          "timestamp": 1794192879,
+          "slug": "nba-nop-lac-2026-11-08-spread-home-4pt5",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Pelicans (-2.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.33,
+          "value": 1.6500000000000001,
+          "timestamp": 1794192879,
+          "slug": "nba-nop-lac-2026-11-08-spread-away-2pt5",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pelicans vs. Clippers",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.38,
+          "value": 256.4316,
+          "timestamp": 1794192879,
+          "slug": "nba-nop-lac-2026-11-08",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Pelicans (-1.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.37,
+          "value": 1.85,
+          "timestamp": 1794192879,
+          "slug": "nba-nop-lac-2026-11-08-spread-away-1pt5",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Clippers (-3.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.49,
+          "value": 2.45,
+          "timestamp": 1794192879,
+          "slug": "nba-nop-lac-2026-11-08-spread-home-3pt5",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Heat vs. Kings",
+          "side": "BUY",
+          "outcome": "Heat",
+          "price": 0.78,
+          "value": 312,
+          "timestamp": 1794192855,
+          "slug": "nba-mia-sac-2026-11-08",
+          "event_slug": "nba-mia-sac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pelicans vs. Clippers",
+          "side": "BUY",
+          "outcome": "Clippers",
+          "price": 0.64,
+          "value": 388.99199999999996,
+          "timestamp": 1794192834,
+          "slug": "nba-nop-lac-2026-11-08",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Clippers (-3.5)",
+          "side": "BUY",
+          "outcome": "Clippers",
+          "price": 0.5,
+          "value": 90,
+          "timestamp": 1794192834,
+          "slug": "nba-nop-lac-2026-11-08-spread-home-3pt5",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pelicans vs. Clippers",
+          "side": "BUY",
+          "outcome": "Clippers",
+          "price": 0.612147806,
+          "value": 1590.3599999879998,
+          "timestamp": 1794192832,
+          "slug": "nba-nop-lac-2026-11-08",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Pelicans (-1.5)",
+          "side": "BUY",
+          "outcome": "Clippers",
+          "price": 0.62,
+          "value": 3.1,
+          "timestamp": 1794192831,
+          "slug": "nba-nop-lac-2026-11-08-spread-away-1pt5",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Clippers (-3.5)",
+          "side": "BUY",
+          "outcome": "Clippers",
+          "price": 0.5,
+          "value": 91.5,
+          "timestamp": 1794192831,
+          "slug": "nba-nop-lac-2026-11-08-spread-home-3pt5",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Heat vs. Kings",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.24,
+          "value": 1.92,
+          "timestamp": 1794192817,
+          "slug": "nba-mia-sac-2026-11-08",
+          "event_slug": "nba-mia-sac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Heat vs. Kings",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.2689340899,
+          "value": 378.204699967269,
+          "timestamp": 1794192766,
+          "slug": "nba-mia-sac-2026-11-08",
+          "event_slug": "nba-mia-sac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears",
+          "side": "BUY",
+          "outcome": "Buccaneers",
+          "price": 0.12,
+          "value": 2.16,
+          "timestamp": 1794192759,
+          "slug": "nfl-tb-chi-2026-11-09",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Heat vs. Kings",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.25,
+          "value": 118.34,
+          "timestamp": 1794192715,
+          "slug": "nba-mia-sac-2026-11-08",
+          "event_slug": "nba-mia-sac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Celtics (-20.5)",
+          "side": "BUY",
+          "outcome": "Celtics",
+          "price": 0.45,
+          "value": 2.25,
+          "timestamp": 1794192691,
+          "slug": "nba-bos-mil-2026-11-08-spread-away-20pt5",
+          "event_slug": "nba-bos-mil-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics vs. Bucks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.009,
+          "value": 2.07,
+          "timestamp": 1794192645,
+          "slug": "nba-bos-mil-2026-11-08",
+          "event_slug": "nba-bos-mil-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pelicans vs. Clippers",
+          "side": "BUY",
+          "outcome": "Clippers",
+          "price": 0.6,
+          "value": 873,
+          "timestamp": 1794192637,
+          "slug": "nba-nop-lac-2026-11-08",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
+        {
+          "title": "Pelicans vs. Clippers",
+          "side": "BUY",
+          "outcome": "Clippers",
+          "price": 0.57,
+          "value": 1597.1399999999999,
+          "timestamp": 1794192631,
+          "slug": "nba-nop-lac-2026-11-08",
+          "event_slug": "nba-nop-lac-2026-11-08",
+          "result": "ongoing"
+        },
         {
           "title": "Pelicans vs. Clippers",
           "side": "BUY",
@@ -6123,314 +6431,6 @@
           "timestamp": 1794192096,
           "slug": "nba-nop-lac-2026-11-08",
           "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Mavericks: O/U 220.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.68,
-          "value": 91.12,
-          "timestamp": 1794192004,
-          "slug": "nba-bkn-dal-2026-11-08-total-220pt5",
-          "event_slug": "nba-bkn-dal-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears",
-          "side": "BUY",
-          "outcome": "Buccaneers",
-          "price": 0.07,
-          "value": 0.9800000000000001,
-          "timestamp": 1794191817,
-          "slug": "nfl-tb-chi-2026-11-09",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pelicans vs. Clippers",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.48,
-          "value": 159.84,
-          "timestamp": 1794191806,
-          "slug": "nba-nop-lac-2026-11-08",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Heat vs. Kings: O/U 231.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.53,
-          "value": 49.29,
-          "timestamp": 1794191761,
-          "slug": "nba-mia-sac-2026-11-08-total-231pt5",
-          "event_slug": "nba-mia-sac-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Heat vs. Kings",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.8,
-          "value": 4,
-          "timestamp": 1794191761,
-          "slug": "nba-mia-sac-2026-11-08",
-          "event_slug": "nba-mia-sac-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Mavericks: O/U 222.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.48,
-          "value": 11.04,
-          "timestamp": 1794191740,
-          "slug": "nba-bkn-dal-2026-11-08-total-222pt5",
-          "event_slug": "nba-bkn-dal-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pelicans vs. Clippers",
-          "side": "BUY",
-          "outcome": "Clippers",
-          "price": 0.53,
-          "value": 10.9339,
-          "timestamp": 1794191737,
-          "slug": "nba-nop-lac-2026-11-08",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pelicans vs. Clippers: O/U 219.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.62,
-          "value": 124,
-          "timestamp": 1794191737,
-          "slug": "nba-nop-lac-2026-11-08-total-219pt5",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pelicans vs. Clippers",
-          "side": "BUY",
-          "outcome": "Clippers",
-          "price": 0.4814714715,
-          "value": 160.3300000095,
-          "timestamp": 1794191728,
-          "slug": "nba-nop-lac-2026-11-08",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pelicans vs. Clippers",
-          "side": "BUY",
-          "outcome": "Clippers",
-          "price": 0.4647063676,
-          "value": 321.1121000116,
-          "timestamp": 1794191712,
-          "slug": "nba-nop-lac-2026-11-08",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-16.5)",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.19,
-          "value": 4.5600000000000005,
-          "timestamp": 1794191674,
-          "slug": "nba-bkn-dal-2026-11-08-spread-home-16pt5",
-          "event_slug": "nba-bkn-dal-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-16.5)",
-          "side": "BUY",
-          "outcome": "Mavericks",
-          "price": 0.79,
-          "value": 158,
-          "timestamp": 1794191661,
-          "slug": "nba-bkn-dal-2026-11-08-spread-home-16pt5",
-          "event_slug": "nba-bkn-dal-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Bucks",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.0087628458,
-          "value": 2.2169999874,
-          "timestamp": 1794191635,
-          "slug": "nba-bos-mil-2026-11-08",
-          "event_slug": "nba-bos-mil-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-14.5)",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.15,
-          "value": 26.7,
-          "timestamp": 1794191631,
-          "slug": "nba-bkn-dal-2026-11-08-spread-home-14pt5",
-          "event_slug": "nba-bkn-dal-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-16.5)",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.15,
-          "value": 3.4499999999999997,
-          "timestamp": 1794191610,
-          "slug": "nba-bkn-dal-2026-11-08-spread-home-16pt5",
-          "event_slug": "nba-bkn-dal-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Bucks",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.008,
-          "value": 2.024,
-          "timestamp": 1794191586,
-          "slug": "nba-bos-mil-2026-11-08",
-          "event_slug": "nba-bos-mil-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-15.5)",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.53,
-          "value": 142.04000000000002,
-          "timestamp": 1794191550,
-          "slug": "nba-uta-min-2026-11-08-spread-home-15pt5",
-          "event_slug": "nba-uta-min-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-15.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.88,
-          "value": 357.28000000000003,
-          "timestamp": 1794191499,
-          "slug": "nba-uta-min-2026-11-08-spread-home-15pt5",
-          "event_slug": "nba-uta-min-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-14.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.9302489627,
-          "value": 224.1900000107,
-          "timestamp": 1794191499,
-          "slug": "nba-uta-min-2026-11-08-spread-home-14pt5",
-          "event_slug": "nba-uta-min-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Bucks",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.009,
-          "value": 2.529,
-          "timestamp": 1794191493,
-          "slug": "nba-bos-mil-2026-11-08",
-          "event_slug": "nba-bos-mil-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Mavericks (-16.5)",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.16,
-          "value": 0.8,
-          "timestamp": 1794191421,
-          "slug": "nba-bkn-dal-2026-11-08-spread-home-16pt5",
-          "event_slug": "nba-bkn-dal-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears",
-          "side": "BUY",
-          "outcome": "Buccaneers",
-          "price": 0.06,
-          "value": 2.2199999999999998,
-          "timestamp": 1794191409,
-          "slug": "nfl-tb-chi-2026-11-09",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-15.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.39,
-          "value": 78,
-          "timestamp": 1794191301,
-          "slug": "nba-uta-min-2026-11-08-spread-home-15pt5",
-          "event_slug": "nba-uta-min-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-12.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.7,
-          "value": 28.7,
-          "timestamp": 1794191299,
-          "slug": "nba-uta-min-2026-11-08-spread-home-12pt5",
-          "event_slug": "nba-uta-min-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-12.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.5942207792,
-          "value": 183.0199999936,
-          "timestamp": 1794191287,
-          "slug": "nba-uta-min-2026-11-08-spread-home-12pt5",
-          "event_slug": "nba-uta-min-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Timberwolves (-10.5)",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.21,
-          "value": 5.25,
-          "timestamp": 1794191247,
-          "slug": "nba-uta-min-2026-11-08-spread-home-10pt5",
-          "event_slug": "nba-uta-min-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Bucks",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.016,
-          "value": 1.616,
-          "timestamp": 1794191232,
-          "slug": "nba-bos-mil-2026-11-08",
-          "event_slug": "nba-bos-mil-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Heat vs. Kings",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.81,
-          "value": 1499.8122,
-          "timestamp": 1794191196,
-          "slug": "nba-mia-sac-2026-11-08",
-          "event_slug": "nba-mia-sac-2026-11-08",
           "result": "ongoing"
         }
       ]
@@ -9071,5 +9071,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T02:52:31.022Z"
+  "lastUpdate": "2026-11-09T03:02:25.742Z"
 }
