@@ -952,10 +952,10 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 22,
-        "losses": 20,
-        "totalTrades": 42,
-        "winRate": 0.5238095238095238,
-        "volume": 90100.70390000001,
+        "losses": 17,
+        "totalTrades": 39,
+        "winRate": 0.5641025641025641,
+        "volume": 78250.12290000002,
         "pnl": 0
       },
       "recentTrades": [
@@ -1387,39 +1387,6 @@
           "slug": "nhl-sj-dal-2026-11-07-total-6pt5",
           "event_slug": "nhl-sj-dal-2026-11-07",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Flames (-1.5)",
-          "side": "BUY",
-          "outcome": "Flames",
-          "price": 0.35,
-          "value": 1915.0004999999999,
-          "timestamp": 1793979862,
-          "slug": "nhl-ana-cal-2026-11-06-spread-home-1pt5",
-          "event_slug": "nhl-ana-cal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Ducks vs. Flames",
-          "side": "BUY",
-          "outcome": "Flames",
-          "price": 0.57,
-          "value": 8085.911699999999,
-          "timestamp": 1793979808,
-          "slug": "nhl-ana-cal-2026-11-06",
-          "event_slug": "nhl-ana-cal-2026-11-06",
-          "result": "loss"
-        },
-        {
-          "title": "Ducks vs. Flames",
-          "side": "BUY",
-          "outcome": "Flames",
-          "price": 0.56,
-          "value": 1849.6688000000001,
-          "timestamp": 1793976633,
-          "slug": "nhl-ana-cal-2026-11-06",
-          "event_slug": "nhl-ana-cal-2026-11-06",
-          "result": "loss"
         }
       ]
     },
@@ -1590,14 +1557,36 @@
       "label": "fantasy7788",
       "specialty": "Politics",
       "stats48h": {
-        "wins": 3,
+        "wins": 2,
         "losses": 0,
-        "totalTrades": 62,
+        "totalTrades": 64,
         "winRate": 1,
-        "volume": 20307.254575230232,
+        "volume": 21674.80477624617,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Kharg Island no longer under Iranian control by December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.04,
+          "value": 1599.9892000000002,
+          "timestamp": 1794242251,
+          "slug": "kharg-island-no-longer-under-iranian-control-by-december-31-20260730004337418",
+          "event_slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the U.S. invade Iran before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.1,
+          "value": 50.56100000000001,
+          "timestamp": 1794235599,
+          "slug": "will-the-us-invade-iran-before-2027",
+          "event_slug": "will-the-us-invade-iran-before-2027",
+          "result": "ongoing"
+        },
         {
           "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
           "side": "BUY",
@@ -2123,28 +2112,6 @@
           "value": 12.290000007482012,
           "timestamp": 1794033796,
           "slug": "israel-x-iran-ceasefire-continues-through-november-7",
-          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
-        },
-        {
-          "title": "US x Iran effective ceasefire continues through November 30, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.7099999815,
-          "value": 9.999998999436638,
-          "timestamp": 1794001789,
-          "slug": "us-x-iran-effective-ceasefire-continues-through-november-30-20261103",
-          "event_slug": "us-iran-effective-ceasefire-continues-throughptptpt-20261103",
-          "result": "win"
-        },
-        {
-          "title": "Israel x Iran ceasefire continues through November 30?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4095533912,
-          "value": 272.9999999846219,
-          "timestamp": 1794001744,
-          "slug": "israel-x-iran-ceasefire-continues-through-november-30",
           "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
           "result": "ongoing"
         }
@@ -3938,558 +3905,558 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3904.1632900152,
+        "volume": 86697.311799765,
         "pnl": 0
       },
       "recentTrades": [
         {
-          "title": "Will Martin Ojeda win 2026 MLS Most Valuable Player?",
+          "title": "Jacob Elordi announced as next James Bond?",
           "side": "SELL",
           "outcome": "Yes",
           "price": 0.001,
-          "value": 0.01384,
-          "timestamp": 1794228777,
-          "slug": "will-martin-ojeda-win-2026-mls-most-valuable-player-812",
-          "event_slug": "mls-2026-most-valuable-player",
+          "value": 0.20348,
+          "timestamp": 1794242208,
+          "slug": "jacob-elordi-announced-as-next-james-bond",
+          "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
         },
         {
-          "title": "Will Diego Luna win 2026 MLS Most Valuable Player?",
+          "title": "Will Éric Zemmour win the 2027 French presidential election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 21.428,
+          "timestamp": 1794242133,
+          "slug": "will-ric-zemmour-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christian McCaffrey win the 2026 NFL MVP?",
           "side": "SELL",
           "outcome": "Yes",
           "price": 0.001,
-          "value": 0.01384,
-          "timestamp": 1794228592,
-          "slug": "will-diego-luna-win-2026-mls-most-valuable-player-428",
-          "event_slug": "mls-2026-most-valuable-player",
+          "value": 0.13204,
+          "timestamp": 1794241576,
+          "slug": "will-christian-mccaffrey-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
           "result": "ongoing"
         },
         {
-          "title": "Gavin Newsom Democratic nomination odds leader on November 30?",
+          "title": "Will Gabriel Attal win the 2027 French presidential election?",
           "side": "SELL",
           "outcome": "Yes",
           "price": 0.004,
-          "value": 0.075,
-          "timestamp": 1794222852,
-          "slug": "gavin-newsom-democratic-nomination-odds-leader-on-november-30",
-          "event_slug": "democratic-nomination-odds-leader-on-november-30",
+          "value": 0.36,
+          "timestamp": 1794241563,
+          "slug": "will-gabriel-attal-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         },
         {
-          "title": "Will Emmanuel Macron be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.003,
-          "value": 1.056,
-          "timestamp": 1794222357,
-          "slug": "will-emmanuel-macron-be-the-next-leader-out-before-2027-20260630194627364",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sanae Takaichi be the next leader out before 2027?",
+          "title": "Will Sébastien Lecornu win the 2027 French presidential election?",
           "side": "SELL",
           "outcome": "Yes",
           "price": 0.001,
-          "value": 0.2092,
-          "timestamp": 1794222234,
-          "slug": "will-sanae-takaichi-be-the-next-leader-out-before-2027-20260630194627377",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "value": 0.09,
+          "timestamp": 1794241563,
+          "slug": "will-sbastien-lecornu-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         },
         {
-          "title": "Will Ahmed al-Sharaa be the next leader out before 2027?",
+          "title": "Will François Baroin win the 2027 French presidential election?",
           "side": "SELL",
           "outcome": "Yes",
           "price": 0.001,
-          "value": 0.352,
-          "timestamp": 1794222114,
-          "slug": "will-ahmed-al-sharaa-be-the-next-leader-out-before-2027-20260630194627384",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "value": 0.09,
+          "timestamp": 1794241563,
+          "slug": "will-franois-baroin-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         },
         {
-          "title": "Will Sanae Takaichi be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.2856,
-          "timestamp": 1794222114,
-          "slug": "will-sanae-takaichi-be-the-next-leader-out-before-2027-20260630194627377",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Claudia Sheinbaum be the next leader out before 2027?",
+          "title": "Will Sarah Knafo win the 2027 French presidential election?",
           "side": "SELL",
           "outcome": "Yes",
           "price": 0.001,
-          "value": 0.352,
-          "timestamp": 1794222112,
-          "slug": "will-claudia-sheinbaum-be-the-next-leader-out-before-2027-20260630194627381",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "value": 0.09,
+          "timestamp": 1794241563,
+          "slug": "will-sarah-knafo-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         },
         {
-          "title": "Will Anthony Albanese be the next leader out before 2027?",
+          "title": "Will David Lisnard win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.871,
+          "value": 78.39,
+          "timestamp": 1794241305,
+          "slug": "will-david-lisnard-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will François Hollande win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.985,
+          "value": 88.65,
+          "timestamp": 1794241305,
+          "slug": "will-franois-hollande-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jordan Bardella win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.985,
+          "value": 88.65,
+          "timestamp": 1794241305,
+          "slug": "will-jordan-bardella-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jean-Luc Mélenchon win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.87,
+          "value": 78.3,
+          "timestamp": 1794241305,
+          "slug": "will-jean-luc-mlenchon-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Raphaël Glucksmann win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.978,
+          "value": 88.02,
+          "timestamp": 1794241303,
+          "slug": "will-raphal-glucksmann-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Dominique de Villepin win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.982,
+          "value": 88.38,
+          "timestamp": 1794241303,
+          "slug": "will-dominique-de-villepin-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Édouard Philippe win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.93,
+          "value": 83.7,
+          "timestamp": 1794241303,
+          "slug": "will-douard-philippe-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christine Lagarde win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.942,
+          "value": 84.78,
+          "timestamp": 1794241303,
+          "slug": "will-christine-lagarde-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Marine Le Pen win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.551,
+          "value": 49.59,
+          "timestamp": 1794241303,
+          "slug": "will-marine-le-pen-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will François Baroin win the 2027 French presidential election?",
           "side": "SELL",
           "outcome": "Yes",
           "price": 0.001,
-          "value": 0.352,
-          "timestamp": 1794222112,
-          "slug": "will-anthony-albanese-be-the-next-leader-out-before-2027-20260630194627369",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "value": 7.806,
+          "timestamp": 1794241039,
+          "slug": "will-franois-baroin-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         },
         {
-          "title": "Will Delcy Rodríguez be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.704,
-          "timestamp": 1794222112,
-          "slug": "will-delcy-rodriguez-be-the-next-leader-out-before-2027-20260630194627383",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Vladimir Putin be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.002,
-          "value": 0.704,
-          "timestamp": 1794222112,
-          "slug": "will-vladimir-putin-be-the-next-leader-out-before-2027-20260630194627374",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Gavin Newsom be the next leader out before 2027?",
+          "title": "Will Sébastien Lecornu win the 2027 French presidential election?",
           "side": "SELL",
           "outcome": "Yes",
           "price": 0.001,
-          "value": 0.352,
-          "timestamp": 1794222112,
-          "slug": "will-gavin-newsom-be-the-next-leader-out-before-2027-20260630194627370",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "value": 7.806,
+          "timestamp": 1794241038,
+          "slug": "will-sbastien-lecornu-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         },
         {
-          "title": "Will Javier Milei be the next leader out before 2027?",
+          "title": "Will Sarah Knafo win the 2027 French presidential election?",
           "side": "SELL",
           "outcome": "Yes",
           "price": 0.001,
-          "value": 0.352,
-          "timestamp": 1794222112,
-          "slug": "will-javier-milei-be-the-next-leader-out-before-2027-20260630194627371",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "value": 7.806,
+          "timestamp": 1794241038,
+          "slug": "will-sarah-knafo-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         },
         {
-          "title": "Will Mahmoud Abbas be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.989546733,
-          "value": 348.320450016,
-          "timestamp": 1794221938,
-          "slug": "will-mahmoud-abbas-be-the-next-leader-out-before-2027-20260630194627378",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Friedrich Merz be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 350.24,
-          "timestamp": 1794221938,
-          "slug": "will-friedrich-merz-be-the-next-leader-out-before-2027-20260630194627379",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Donald Trump be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.993,
-          "value": 349.536,
-          "timestamp": 1794221938,
-          "slug": "will-donald-trump-be-the-next-leader-out-before-2027-20260630194627372",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Pedro Sánchez be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9639720739,
-          "value": 339.3181700128,
-          "timestamp": 1794221938,
-          "slug": "will-pedro-sanchez-be-the-next-leader-out-before-2027-20260630194627380",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sébastien Lecornu be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.984,
-          "value": 346.368,
-          "timestamp": 1794221938,
-          "slug": "will-sebastien-lecornu-be-the-next-leader-out-before-2027-20260630194627376",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Xi Jinping be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 350.592,
-          "timestamp": 1794221937,
-          "slug": "will-xi-jinping-be-the-next-leader-out-before-2027-20260630194627367",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Miguel Díaz-Canel be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.992,
-          "value": 349.18399999999997,
-          "timestamp": 1794221937,
-          "slug": "will-miguel-diaz-canel-be-the-next-leader-out-before-2027-20260630194627382",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will no listed leader be out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4918051136,
-          "value": 173.1153999872,
-          "timestamp": 1794221937,
-          "slug": "will-no-listed-leader-be-out-before-2027-20260630194627385",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kim Jong Un be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 350.592,
-          "timestamp": 1794221937,
-          "slug": "will-kim-jong-un-be-the-next-leader-out-before-2027-20260630194627366",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Duro win Worlds 2026 Finals MVP?",
+          "title": "Will Gabriel Attal win the 2027 French presidential election?",
           "side": "SELL",
           "outcome": "Yes",
-          "price": 0.016,
-          "value": 0.08016,
-          "timestamp": 1794218794,
-          "slug": "will-duro-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
+          "price": 0.004,
+          "value": 31.224,
+          "timestamp": 1794241038,
+          "slug": "will-gabriel-attal-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         },
         {
-          "title": "Will Brock Purdy win the 2026 NFL MVP?",
+          "title": "Theo James announced as next James Bond?",
           "side": "SELL",
           "outcome": "Yes",
-          "price": 0.122,
-          "value": 0.73566,
-          "timestamp": 1794216924,
-          "slug": "will-brock-purdy-win-the-2026-nfl-mvp",
-          "event_slug": "pro-football-2026-mvp-winner",
+          "price": 0.004,
+          "value": 0.23208,
+          "timestamp": 1794240912,
+          "slug": "theo-james-announced-as-next-james-bond-893",
+          "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
         },
         {
-          "title": "Will Anthropic's market cap be between $2.5T and $2.75T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 9.96,
-          "timestamp": 1794210604,
-          "slug": "will-anthropics-market-cap-be-between-2pt5t-and-2pt75t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be $3.0T or greater at market close on IPO day?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 9.98,
-          "timestamp": 1794210604,
-          "slug": "will-anthropics-market-cap-be-3pt0t-or-greater-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.987,
-          "value": 9.87,
-          "timestamp": 1794210604,
-          "slug": "will-anthropics-market-cap-be-between-2pt25t-and-2pt5t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.941,
-          "value": 9.41,
-          "timestamp": 1794210604,
-          "slug": "will-anthropics-market-cap-be-between-2pt0t-and-2pt25t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 9.95,
-          "timestamp": 1794210604,
-          "slug": "will-anthropics-market-cap-be-between-2pt75t-and-3pt0t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.85,
-          "value": 8.5,
-          "timestamp": 1794210604,
-          "slug": "will-anthropics-market-cap-be-between-1pt75t-and-2pt0t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.847,
-          "value": 8.469999999999999,
-          "timestamp": 1794210604,
-          "slug": "will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.683,
-          "value": 6.83,
-          "timestamp": 1794210604,
-          "slug": "will-anthropics-market-cap-be-between-1pt5t-and-1pt75t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO d",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.696,
-          "value": 6.959999999999999,
-          "timestamp": 1794210604,
-          "slug": "will-anthropics-market-cap-be-between-1pt25t-and-1pt5t-at-market-close-on-ipo-day",
-          "event_slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Knight win Worlds 2026 Finals MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.13,
-          "value": 0.65,
-          "timestamp": 1794209790,
-          "slug": "will-knight-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Brock Purdy win the 2026 NFL MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.114,
-          "value": 0.6395400000000001,
-          "timestamp": 1794208989,
-          "slug": "will-brock-purdy-win-the-2026-nfl-mvp",
-          "event_slug": "pro-football-2026-mvp-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 90-114 tweets from November 7 to November 9, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.012,
-          "value": 0.12168000000000001,
-          "timestamp": 1794208849,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-90-114",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 65-89 tweets from November 7 to November 9, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.42,
-          "value": 2.1041999999999996,
-          "timestamp": 1794208230,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-65-89",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 65-89 tweets from November 7 to November 9, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.42,
-          "value": 2.1,
-          "timestamp": 1794208230,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-65-89",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 90-114 tweets from November 7 to November 9, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.012,
-          "value": 0.12,
-          "timestamp": 1794208080,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-90-114",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will South Korea win Eurovision Asia 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.007,
-          "value": 1.12,
-          "timestamp": 1794207739,
-          "slug": "will-south-korea-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Keria win Worlds 2026 Finals MVP?",
+          "title": "James Norton announced as next James Bond?",
           "side": "SELL",
           "outcome": "Yes",
           "price": 0.001,
-          "value": 0.27233,
-          "timestamp": 1794205933,
-          "slug": "will-keria-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
+          "value": 0.05802,
+          "timestamp": 1794240912,
+          "slug": "james-norton-announced-as-next-james-bond-289",
+          "event_slug": "next-james-bond-actor-398",
           "result": "ongoing"
         },
         {
-          "title": "Will Viper win Worlds 2026 Finals MVP?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.958,
-          "value": 147.53199999999998,
-          "timestamp": 1794201441,
-          "slug": "will-viper-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kiin win Worlds 2026 Finals MVP?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8748051948,
-          "value": 134.71999999919998,
-          "timestamp": 1794201441,
-          "slug": "will-kiin-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ruler win Worlds 2026 Finals MVP?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.875,
-          "value": 134.75,
-          "timestamp": 1794201441,
-          "slug": "will-ruler-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Bin win Worlds 2026 Finals MVP?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.958,
-          "value": 9.58,
-          "timestamp": 1794201441,
-          "slug": "will-bin-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Duro win Worlds 2026 Finals MVP?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.991,
-          "value": 152.614,
-          "timestamp": 1794201441,
-          "slug": "will-duro-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will ON win Worlds 2026 Finals MVP?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.988,
-          "value": 152.152,
-          "timestamp": 1794201441,
-          "slug": "will-on-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Chovy win Worlds 2026 Finals MVP?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.79,
-          "value": 121.66000000000001,
-          "timestamp": 1794201441,
-          "slug": "will-chovy-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Brock Purdy win the 2026 NFL MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.154,
-          "value": 1.03796,
-          "timestamp": 1794195949,
-          "slug": "will-brock-purdy-win-the-2026-nfl-mvp",
-          "event_slug": "pro-football-2026-mvp-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zelenskyy and Putin meet next in India before 2027?",
+          "title": "Aaron Taylor-Johnson announced as next James Bond?",
           "side": "SELL",
           "outcome": "Yes",
           "price": 0.001,
-          "value": 0.15625999999999998,
-          "timestamp": 1794195502,
-          "slug": "will-zelenskyy-and-putin-meet-next-in-india-416-286",
-          "event_slug": "where-will-zelenskyy-and-putin-meet-next",
+          "value": 0.05802,
+          "timestamp": 1794240912,
+          "slug": "aaron-taylor-johnson-announced-as-next-james-bond-655",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Marine Le Pen win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.55,
+          "value": 4293.3,
+          "timestamp": 1794240850,
+          "slug": "will-marine-le-pen-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christine Lagarde win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.941657361,
+          "value": 7350.577359966,
+          "timestamp": 1794240850,
+          "slug": "will-christine-lagarde-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jordan Bardella win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9840514476,
+          "value": 7681.5055999656,
+          "timestamp": 1794240850,
+          "slug": "will-jordan-bardella-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Édouard Philippe win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9207120548,
+          "value": 7187.078299768799,
+          "timestamp": 1794240849,
+          "slug": "will-douard-philippe-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Dominique de Villepin win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.982,
+          "value": 7665.492,
+          "timestamp": 1794240849,
+          "slug": "will-dominique-de-villepin-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Raphaël Glucksmann win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.978,
+          "value": 7634.268,
+          "timestamp": 1794240849,
+          "slug": "will-raphal-glucksmann-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jean-Luc Mélenchon win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.87,
+          "value": 6791.22,
+          "timestamp": 1794240849,
+          "slug": "will-jean-luc-mlenchon-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will David Lisnard win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.872,
+          "value": 6806.832,
+          "timestamp": 1794240849,
+          "slug": "will-david-lisnard-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will François Hollande win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.985,
+          "value": 7688.91,
+          "timestamp": 1794240849,
+          "slug": "will-franois-hollande-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gabriel Attal win the 2027 French presidential election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 11.272,
+          "timestamp": 1794240822,
+          "slug": "will-gabriel-attal-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will François Baroin win the 2027 French presidential election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 2.818,
+          "timestamp": 1794240822,
+          "slug": "will-franois-baroin-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sébastien Lecornu win the 2027 French presidential election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 2.818,
+          "timestamp": 1794240822,
+          "slug": "will-sbastien-lecornu-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sarah Knafo win the 2027 French presidential election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 2.818,
+          "timestamp": 1794240822,
+          "slug": "will-sarah-knafo-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Aaron Taylor-Johnson announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.14546,
+          "timestamp": 1794240652,
+          "slug": "aaron-taylor-johnson-announced-as-next-james-bond-655",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "James Norton announced as next James Bond?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.14546,
+          "timestamp": 1794240651,
+          "slug": "james-norton-announced-as-next-james-bond-289",
+          "event_slug": "next-james-bond-actor-398",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jordan Bardella win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9839090738,
+          "value": 2772.6557699684,
+          "timestamp": 1794240538,
+          "slug": "will-jordan-bardella-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Christine Lagarde win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9372166998,
+          "value": 2641.0766600364,
+          "timestamp": 1794240538,
+          "slug": "will-christine-lagarde-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Dominique de Villepin win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.982,
+          "value": 2767.276,
+          "timestamp": 1794240537,
+          "slug": "will-dominique-de-villepin-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Jean-Luc Mélenchon win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.87,
+          "value": 2451.66,
+          "timestamp": 1794240537,
+          "slug": "will-jean-luc-mlenchon-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Marine Le Pen win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.5492318985,
+          "value": 1547.7354899729999,
+          "timestamp": 1794240537,
+          "slug": "will-marine-le-pen-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will David Lisnard win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.869,
+          "value": 2448.842,
+          "timestamp": 1794240537,
+          "slug": "will-david-lisnard-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will François Hollande win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9841248226,
+          "value": 2773.2637500868,
+          "timestamp": 1794240537,
+          "slug": "will-franois-hollande-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Édouard Philippe win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.92,
+          "value": 2592.56,
+          "timestamp": 1794240537,
+          "slug": "will-douard-philippe-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Raphaël Glucksmann win the 2027 French presidential election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.978,
+          "value": 2756.004,
+          "timestamp": 1794240535,
+          "slug": "will-raphal-glucksmann-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will François Baroin win the 2027 French presidential election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 7.06477,
+          "timestamp": 1794240513,
+          "slug": "will-franois-baroin-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sébastien Lecornu win the 2027 French presidential election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 7.06477,
+          "timestamp": 1794240513,
+          "slug": "will-sbastien-lecornu-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sarah Knafo win the 2027 French presidential election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 7.06477,
+          "timestamp": 1794240511,
+          "slug": "will-sarah-knafo-win-the-2027-french-presidential-election",
+          "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         }
       ]
@@ -4499,11 +4466,11 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 30,
+        "wins": 24,
         "losses": 6,
-        "totalTrades": 39,
-        "winRate": 0.8333333333333334,
-        "volume": 265257.5499450572,
+        "totalTrades": 33,
+        "winRate": 0.8,
+        "volume": 224478.08720507936,
         "pnl": 0
       },
       "recentTrades": [
@@ -4869,72 +4836,6 @@
           "slug": "cbb-valp-pur-2026-11-06",
           "event_slug": "cbb-valp-pur-2026-11-06",
           "result": "loss"
-        },
-        {
-          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
-          "side": "SELL",
-          "outcome": "Alexandra Eala",
-          "price": 0.900134619,
-          "value": 473.27277997782,
-          "timestamp": 1793977456,
-          "slug": "wta-ruzic-eala-2026-11-06",
-          "event_slug": "wta-ruzic-eala-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
-          "side": "SELL",
-          "outcome": "Alexandra Eala",
-          "price": 0.901,
-          "value": 241.79236000000003,
-          "timestamp": 1793977428,
-          "slug": "wta-ruzic-eala-2026-11-06",
-          "event_slug": "wta-ruzic-eala-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
-          "side": "SELL",
-          "outcome": "Alexandra Eala",
-          "price": 0.9,
-          "value": 1177.2,
-          "timestamp": 1793973823,
-          "slug": "wta-ruzic-eala-2026-11-06",
-          "event_slug": "wta-ruzic-eala-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
-          "side": "SELL",
-          "outcome": "Alexandra Eala",
-          "price": 0.9,
-          "value": 2700,
-          "timestamp": 1793973789,
-          "slug": "wta-ruzic-eala-2026-11-06",
-          "event_slug": "wta-ruzic-eala-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
-          "side": "SELL",
-          "outcome": "Alexandra Eala",
-          "price": 0.87,
-          "value": 18317.180099999998,
-          "timestamp": 1793973709,
-          "slug": "wta-ruzic-eala-2026-11-06",
-          "event_slug": "wta-ruzic-eala-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
-          "side": "SELL",
-          "outcome": "Alexandra Eala",
-          "price": 0.87,
-          "value": 17870.017499999998,
-          "timestamp": 1793973658,
-          "slug": "wta-ruzic-eala-2026-11-06",
-          "event_slug": "wta-ruzic-eala-2026-11-06",
-          "result": "win"
         }
       ]
     },
@@ -4943,11 +4844,11 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 34,
-        "losses": 14,
-        "totalTrades": 48,
-        "winRate": 0.7083333333333334,
-        "volume": 77927.55249978928,
+        "wins": 33,
+        "losses": 13,
+        "totalTrades": 46,
+        "winRate": 0.717391304347826,
+        "volume": 74834.87249978929,
         "pnl": 0
       },
       "recentTrades": [
@@ -5456,28 +5357,6 @@
           "slug": "nba-bos-cha-2026-11-06-spread-away-8pt5",
           "event_slug": "nba-bos-cha-2026-11-06",
           "result": "win"
-        },
-        {
-          "title": "Will FC UTA Arad win on 2026-11-06?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.5,
-          "value": 3090.18,
-          "timestamp": 1793982268,
-          "slug": "rou1-fua-fpp-2026-11-06-fua",
-          "event_slug": "rou1-fua-fpp-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-16.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.5,
-          "value": 2.5,
-          "timestamp": 1793979046,
-          "slug": "nba-sas-sac-2026-11-06-spread-away-16pt5",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "loss"
         }
       ]
     },
@@ -5486,11 +5365,11 @@
       "label": "name-no-name",
       "specialty": "Tennis+NBA",
       "stats48h": {
-        "wins": 17,
+        "wins": 14,
         "losses": 3,
-        "totalTrades": 21,
-        "winRate": 0.85,
-        "volume": 59528.03922,
+        "totalTrades": 18,
+        "winRate": 0.8235294117647058,
+        "volume": 47880.48482,
         "pnl": 0
       },
       "recentTrades": [
@@ -5691,39 +5570,6 @@
           "slug": "nba-sas-sac-2026-11-06",
           "event_slug": "nba-sas-sac-2026-11-06",
           "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz",
-          "side": "BUY",
-          "outcome": "Carlos Alcaraz",
-          "price": 0.73,
-          "value": 7.3438,
-          "timestamp": 1793974609,
-          "slug": "atp-fritz-alcaraz-2026-11-06",
-          "event_slug": "atp-fritz-alcaraz-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spurs vs. Kings",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.9,
-          "value": 7201.215,
-          "timestamp": 1793974530,
-          "slug": "nba-sas-sac-2026-11-06",
-          "event_slug": "nba-sas-sac-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
-          "side": "SELL",
-          "outcome": "Ben Shelton",
-          "price": 0.52,
-          "value": 4438.9956,
-          "timestamp": 1793973727,
-          "slug": "atp-shelton-paul-2026-11-06",
-          "event_slug": "atp-shelton-paul-2026-11-06",
-          "result": "win"
         }
       ]
     },
@@ -5732,14 +5578,113 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 29,
-        "losses": 20,
+        "wins": 23,
+        "losses": 17,
         "totalTrades": 500,
-        "winRate": 0.5918367346938775,
-        "volume": 10098.41910009759,
+        "winRate": 0.575,
+        "volume": 9433.57970006024,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Nuggets vs. Rockets: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 12.420000000000002,
+          "timestamp": 1794231655,
+          "slug": "nba-den-hou-2026-11-09-total-216pt5",
+          "event_slug": "nba-den-hou-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Rockets: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 35.1,
+          "timestamp": 1794231655,
+          "slug": "nba-den-hou-2026-11-09-total-216pt5",
+          "event_slug": "nba-den-hou-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Rockets: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 56.160000000000004,
+          "timestamp": 1794231655,
+          "slug": "nba-den-hou-2026-11-09-total-216pt5",
+          "event_slug": "nba-den-hou-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Rockets: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 25.92,
+          "timestamp": 1794231655,
+          "slug": "nba-den-hou-2026-11-09-total-216pt5",
+          "event_slug": "nba-den-hou-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Rockets: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 34.56,
+          "timestamp": 1794231655,
+          "slug": "nba-den-hou-2026-11-09-total-216pt5",
+          "event_slug": "nba-den-hou-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Rockets: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 26.46,
+          "timestamp": 1794231655,
+          "slug": "nba-den-hou-2026-11-09-total-216pt5",
+          "event_slug": "nba-den-hou-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Rockets: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 156.60000000000002,
+          "timestamp": 1794231655,
+          "slug": "nba-den-hou-2026-11-09-total-216pt5",
+          "event_slug": "nba-den-hou-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Rockets: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 157.14000000000001,
+          "timestamp": 1794231654,
+          "slug": "nba-den-hou-2026-11-09-total-216pt5",
+          "event_slug": "nba-den-hou-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Rockets: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.54,
+          "value": 255.42000000000002,
+          "timestamp": 1794231651,
+          "slug": "nba-den-hou-2026-11-09-total-216pt5",
+          "event_slug": "nba-den-hou-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Lakers (-1.5)",
           "side": "BUY",
@@ -6190,105 +6135,6 @@
           "slug": "nba-mia-sac-2026-11-08-spread-away-4pt5",
           "event_slug": "nba-mia-sac-2026-11-08",
           "result": "win"
-        },
-        {
-          "title": "Spread: Heat (-11.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.94,
-          "value": 4.699999999999999,
-          "timestamp": 1794197523,
-          "slug": "nba-mia-sac-2026-11-08-spread-away-11pt5",
-          "event_slug": "nba-mia-sac-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Heat (-5.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.67,
-          "value": 96.48,
-          "timestamp": 1794197523,
-          "slug": "nba-mia-sac-2026-11-08-spread-away-5pt5",
-          "event_slug": "nba-mia-sac-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Heat vs. Kings",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.2775494927,
-          "value": 369.27960003735,
-          "timestamp": 1794197512,
-          "slug": "nba-mia-sac-2026-11-08",
-          "event_slug": "nba-mia-sac-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Pelicans vs. Clippers",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.05,
-          "value": 3,
-          "timestamp": 1794197481,
-          "slug": "nba-nop-lac-2026-11-08",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Clippers (-12.5)",
-          "side": "BUY",
-          "outcome": "Clippers",
-          "price": 0.43,
-          "value": 8.6,
-          "timestamp": 1794197461,
-          "slug": "nba-nop-lac-2026-11-08-spread-home-12pt5",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Pelicans vs. Clippers",
-          "side": "BUY",
-          "outcome": "Clippers",
-          "price": 0.92,
-          "value": 456.7892,
-          "timestamp": 1794197446,
-          "slug": "nba-nop-lac-2026-11-08",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Clippers (-6.5)",
-          "side": "BUY",
-          "outcome": "Clippers",
-          "price": 0.73,
-          "value": 3.65,
-          "timestamp": 1794197446,
-          "slug": "nba-nop-lac-2026-11-08-spread-home-6pt5",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Clippers (-10.5)",
-          "side": "BUY",
-          "outcome": "Clippers",
-          "price": 0.48,
-          "value": 461.76,
-          "timestamp": 1794197446,
-          "slug": "nba-nop-lac-2026-11-08-spread-home-10pt5",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Clippers (-4.5)",
-          "side": "BUY",
-          "outcome": "Clippers",
-          "price": 0.82,
-          "value": 20.360599999999998,
-          "timestamp": 1794197445,
-          "slug": "nba-nop-lac-2026-11-08-spread-home-4pt5",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "win"
         }
       ]
     },
@@ -6680,13 +6526,35 @@
       "specialty": "Tennis+NFL",
       "stats48h": {
         "wins": 10,
-        "losses": 7,
-        "totalTrades": 140,
-        "winRate": 0.5882352941176471,
-        "volume": 25159.596946164507,
+        "losses": 11,
+        "totalTrades": 127,
+        "winRate": 0.47619047619047616,
+        "volume": 23748.490746081316,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: maybe vs MASONIC (BO3) - CCT Europe Closed Qualifier: Series Pla",
+          "side": "BUY",
+          "outcome": "maybe",
+          "price": 0.4548562008,
+          "value": 940.874599916808,
+          "timestamp": 1794231858,
+          "slug": "cs2-maybe-msc-2026-11-09",
+          "event_slug": "cs2-maybe-msc-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Counter-Strike: maybe vs MASONIC (BO3) - CCT Europe Closed Qualifier: Series Pla",
+          "side": "BUY",
+          "outcome": "maybe",
+          "price": 0.4469504,
+          "value": 1117.376,
+          "timestamp": 1794231832,
+          "slug": "cs2-maybe-msc-2026-11-09",
+          "event_slug": "cs2-maybe-msc-2026-11-09",
+          "result": "loss"
+        },
         {
           "title": "Counter-Strike: maybe vs MASONIC - Map 2 Winner AND Counter-Strike: BakS eSports",
           "side": "BUY",
@@ -6707,7 +6575,7 @@
           "timestamp": 1794229512,
           "slug": "cs2-maybe-msc-2026-11-09-game2",
           "event_slug": "cs2-maybe-msc-2026-11-09",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Counter-Strike: maybe vs MASONIC - Map 2 Winner",
@@ -6718,7 +6586,7 @@
           "timestamp": 1794229425,
           "slug": "cs2-maybe-msc-2026-11-09-game2",
           "event_slug": "cs2-maybe-msc-2026-11-09",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Counter-Strike: Ryvex vs Drama eSports (BO3) - CCT Europe Closed Qualifier: Seri",
@@ -7212,28 +7080,6 @@
           "value": 647.0562,
           "timestamp": 1794137739,
           "slug": "cs2-ts7-fut-2026-11-11-map-handicap-away-1pt5",
-          "event_slug": "cs2-ts7-fut-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Map Handicap: TS (-1.5) vs FUT Esports (+1.5)",
-          "side": "BUY",
-          "outcome": "Spirit",
-          "price": 0.41,
-          "value": 2271.4328,
-          "timestamp": 1794137736,
-          "slug": "cs2-ts7-fut-2026-11-11-map-handicap-away-1pt5",
-          "event_slug": "cs2-ts7-fut-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B",
-          "side": "BUY",
-          "outcome": "Spirit",
-          "price": 0.7,
-          "value": 1197.924,
-          "timestamp": 1794137731,
-          "slug": "cs2-ts7-fut-2026-11-11",
           "event_slug": "cs2-ts7-fut-2026-11-11",
           "result": "ongoing"
         }
@@ -7809,14 +7655,47 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 47,
+        "wins": 50,
         "losses": 0,
-        "totalTrades": 74,
+        "totalTrades": 77,
         "winRate": 1,
-        "volume": 34763.87836000012,
+        "volume": 32794.97154000012,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "BNP Paribas Nordic Open: Adolfo Vallejo vs Ugo Humbert",
+          "side": "BUY",
+          "outcome": "Ugo Humbert",
+          "price": 0.961,
+          "value": 702.11621,
+          "timestamp": 1794235827,
+          "slug": "atp-vallejo-humbert-2026-11-09",
+          "event_slug": "atp-vallejo-humbert-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "BNP Paribas Nordic Open: Tomas Machac vs Borna Gojo",
+          "side": "SELL",
+          "outcome": "Borna Gojo",
+          "price": 0.999,
+          "value": 599.4,
+          "timestamp": 1794235810,
+          "slug": "atp-machac-gojo-2026-11-09",
+          "event_slug": "atp-machac-gojo-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "BNP Paribas Nordic Open: Tomas Machac vs Borna Gojo",
+          "side": "BUY",
+          "outcome": "Borna Gojo",
+          "price": 0.89,
+          "value": 534,
+          "timestamp": 1794234238,
+          "slug": "atp-machac-gojo-2026-11-09",
+          "event_slug": "atp-machac-gojo-2026-11-09",
+          "result": "win"
+        },
         {
           "title": "BNP Paribas Nordic Open: James Duckworth vs Cameron Norrie",
           "side": "BUY",
@@ -7826,7 +7705,7 @@
           "timestamp": 1794229047,
           "slug": "atp-duckwor-norrie-2026-11-09",
           "event_slug": "atp-duckwor-norrie-2026-11-09",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Seoul Thunders vs. Sonic Boom",
@@ -7837,7 +7716,7 @@
           "timestamp": 1794225007,
           "slug": "bkkbl-seo2-son-2026-11-09",
           "event_slug": "bkkbl-seo2-son-2026-11-09",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Seoul Thunders vs. Sonic Boom",
@@ -7848,7 +7727,7 @@
           "timestamp": 1794224973,
           "slug": "bkkbl-seo2-son-2026-11-09",
           "event_slug": "bkkbl-seo2-son-2026-11-09",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Chennai Open: Janice Tjen vs Magda Linette",
@@ -8333,39 +8212,6 @@
           "slug": "bun-mai-bay-2026-11-07-bay",
           "event_slug": "bun-mai-bay-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "1. FC Nürnberg vs. SV Darmstadt 98: O/U 0.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 1644.24411,
-          "timestamp": 1794061000,
-          "slug": "bl2-fcn-svd-2026-11-07-total-0pt5",
-          "event_slug": "bl2-fcn-svd-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Málaga CF vs. Real Racing Club: O/U 0.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 1198.78002,
-          "timestamp": 1794060087,
-          "slug": "lal-mala-rrc-2026-11-07-total-0pt5",
-          "event_slug": "lal-mala-rrc-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Luca Van Assche vs Ben Shelton",
-          "side": "BUY",
-          "outcome": "Ben Shelton",
-          "price": 0.77,
-          "value": 961.3989,
-          "timestamp": 1794058012,
-          "slug": "atp-assche-shelton-2026-11-07",
-          "event_slug": "atp-assche-shelton-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -8798,12 +8644,23 @@
       "stats48h": {
         "wins": 4,
         "losses": 3,
-        "totalTrades": 8,
+        "totalTrades": 9,
         "winRate": 0.5714285714285714,
-        "volume": 4284.066688969832,
+        "volume": 4437.9116889698325,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "KHL: SKA St. Petersburg vs. Spartak Moscow",
+          "side": "BUY",
+          "outcome": "SKA St. Petersburg",
+          "price": 0.5,
+          "value": 153.845,
+          "timestamp": 1794241614,
+          "slug": "khl-ska-spa-2026-11-09",
+          "event_slug": "khl-ska-spa-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Racing Club de Lens vs. Olympique de Marseille: O/U 3.5",
           "side": "BUY",
@@ -8895,5 +8752,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T13:39:30.792Z"
+  "lastUpdate": "2026-11-09T16:52:43.476Z"
 }
