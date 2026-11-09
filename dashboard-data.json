@@ -3905,10 +3905,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 78730.99546967821,
+        "volume": 76282.1744796782,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.02101,
+          "timestamp": 1794248083,
+          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Trump and Putin meet next in Turkey?",
           "side": "BUY",
@@ -4445,17 +4456,6 @@
           "value": 1547.7354899729999,
           "timestamp": 1794240537,
           "slug": "will-marine-le-pen-win-the-2027-french-presidential-election",
-          "event_slug": "next-french-presidential-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will David Lisnard win the 2027 French presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.869,
-          "value": 2448.842,
-          "timestamp": 1794240537,
-          "slug": "will-david-lisnard-win-the-2027-french-presidential-election",
           "event_slug": "next-french-presidential-election",
           "result": "ongoing"
         }
@@ -8752,5 +8752,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T18:15:09.049Z"
+  "lastUpdate": "2026-11-09T18:24:19.680Z"
 }
