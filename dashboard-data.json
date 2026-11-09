@@ -8419,10 +8419,10 @@
       "specialty": "J1+J2",
       "stats48h": {
         "wins": 22,
-        "losses": 17,
-        "totalTrades": 39,
-        "winRate": 0.5641025641025641,
-        "volume": 166918.52441018418,
+        "losses": 16,
+        "totalTrades": 38,
+        "winRate": 0.5789473684210527,
+        "volume": 157792.81331018417,
         "pnl": 0
       },
       "recentTrades": [
@@ -8843,17 +8843,6 @@
           "slug": "bun-hsv-moe-2026-11-06-spread-home-1pt5",
           "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Hamburger SV (-1.5)",
-          "side": "BUY",
-          "outcome": "Borussia Mönchengladbach",
-          "price": 0.81,
-          "value": 9125.7111,
-          "timestamp": 1793968507,
-          "slug": "bun-hsv-moe-2026-11-06-spread-home-1pt5",
-          "event_slug": "bun-hsv-moe-2026-11-06-more-markets",
-          "result": "loss"
         }
       ]
     },
@@ -8961,5 +8950,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T12:32:53.199Z"
+  "lastUpdate": "2026-11-09T12:42:01.818Z"
 }
