@@ -6654,10 +6654,10 @@
       "specialty": "NBA+Politics",
       "stats48h": {
         "wins": 8,
-        "losses": 2,
-        "totalTrades": 10,
-        "winRate": 0.8,
-        "volume": 227784.04167995564,
+        "losses": 1,
+        "totalTrades": 9,
+        "winRate": 0.8888888888888888,
+        "volume": 225839.50688000003,
         "pnl": 0
       },
       "recentTrades": [
@@ -6759,17 +6759,6 @@
           "slug": "lol-kc-t1-2026-11-04-game1",
           "event_slug": "lol-kc-t1-2026-11-04",
           "result": "win"
-        },
-        {
-          "title": "Counter-Strike: PARIVISION vs Natus Vincere - Map 1 Winner",
-          "side": "BUY",
-          "outcome": "Natus Vincere",
-          "price": 0.4243855958,
-          "value": 1944.5347999556,
-          "timestamp": 1793950240,
-          "slug": "cs2-prv-navi-2026-11-06-game1",
-          "event_slug": "cs2-prv-navi-2026-11-06",
-          "result": "loss"
         }
       ]
     },
@@ -9016,5 +9005,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T07:28:10.233Z"
+  "lastUpdate": "2026-11-09T07:37:39.599Z"
 }
