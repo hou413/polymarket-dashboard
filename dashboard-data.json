@@ -7864,14 +7864,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 50,
+        "wins": 49,
         "losses": 0,
-        "totalTrades": 73,
+        "totalTrades": 74,
         "winRate": 1,
-        "volume": 36876.302640000125,
+        "volume": 36477.74694000013,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Seoul Thunders vs. Sonic Boom",
+          "side": "BUY",
+          "outcome": "Seoul Thunders",
+          "price": 0.93,
+          "value": 137.8074,
+          "timestamp": 1794224973,
+          "slug": "bkkbl-seo2-son-2026-11-09",
+          "event_slug": "bkkbl-seo2-son-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Chennai Open: Janice Tjen vs Magda Linette",
           "side": "BUY",
@@ -8409,17 +8420,6 @@
           "timestamp": 1794056079,
           "slug": "bl2-fcn-svd-2026-11-07-total-0pt5",
           "event_slug": "bl2-fcn-svd-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Perth Glory FC vs. Newcastle United Jets FC: O/U 2.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 536.3631,
-          "timestamp": 1794056061,
-          "slug": "aus-per-new-2026-11-07-total-2pt5",
-          "event_slug": "aus-per-new-2026-11-07-more-markets",
           "result": "win"
         }
       ]
@@ -8972,5 +8972,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T11:41:10.879Z"
+  "lastUpdate": "2026-11-09T11:50:28.559Z"
 }
