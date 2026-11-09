@@ -1559,12 +1559,23 @@
       "stats48h": {
         "wins": 2,
         "losses": 0,
-        "totalTrades": 68,
+        "totalTrades": 69,
         "winRate": 1,
-        "volume": 21008.302775993627,
+        "volume": 18704.302776000786,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 Week of November 9 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4078635716,
+          "value": 420.0000000071596,
+          "timestamp": 1794246733,
+          "slug": "will-wti-dip-to-85-by-november-9-2026",
+          "event_slug": "will-wti-hit-week-of-november-9-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Iran target Oman by December 31, 2026?",
           "side": "BUY",
@@ -2101,17 +2112,6 @@
           "value": 619.9999998981817,
           "timestamp": 1794034239,
           "slug": "israel-x-iran-ceasefire-continues-through-november-15",
-          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
-        },
-        {
-          "title": "Israel x Iran ceasefire continues through December 15?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.48,
-          "value": 2724,
-          "timestamp": 1794034113,
-          "slug": "israel-x-iran-ceasefire-continues-through-december-15",
           "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
           "result": "ongoing"
         }
@@ -8752,5 +8752,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T17:47:36.438Z"
+  "lastUpdate": "2026-11-09T17:56:47.406Z"
 }
