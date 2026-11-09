@@ -1634,7 +1634,7 @@
       "label": "fantasy7788",
       "specialty": "Politics",
       "stats48h": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "totalTrades": 61,
         "winRate": 1,
@@ -1673,7 +1673,7 @@
           "timestamp": 1794183681,
           "slug": "will-trump-say-fake-news-during-60-minutes-extended-interview",
           "event_slug": "what-will-trump-say-during-60-minutes-extended-interview",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Will Trump say \"Transgender\" during \"60 Minutes\" extended interview?",
@@ -3993,10 +3993,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 1,
-        "volume": 2741.098959990611,
+        "volume": 2740.0892899906107,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Keria win Worlds 2026 Finals MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.27233,
+          "timestamp": 1794205933,
+          "slug": "will-keria-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
         {
           "title": "Will Viper win Worlds 2026 Finals MVP?",
           "side": "BUY",
@@ -4534,17 +4545,6 @@
           "timestamp": 1794179572,
           "slug": "elon-musk-of-tweets-november-7-november-9-2026-65-89",
           "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will a team from LPL (China) win LoL Worlds 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.2,
-          "value": 1.282,
-          "timestamp": 1794172422,
-          "slug": "will-a-team-from-lpl-china-win-lol-worlds-2026-779",
-          "event_slug": "lol-worlds-2026-winning-region-226",
           "result": "ongoing"
         }
       ]
@@ -9016,5 +9016,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T06:29:53.956Z"
+  "lastUpdate": "2026-11-09T06:39:47.500Z"
 }
