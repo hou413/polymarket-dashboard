@@ -1559,12 +1559,34 @@
       "stats48h": {
         "wins": 2,
         "losses": 0,
-        "totalTrades": 64,
+        "totalTrades": 66,
         "winRate": 1,
-        "volume": 21674.80477624617,
+        "volume": 21661.80277623869,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (HIGH) $125 in November?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.05,
+          "value": 9.75,
+          "timestamp": 1794244803,
+          "slug": "will-wti-reach-125-in-november-2026",
+          "event_slug": "what-price-will-wti-hit-in-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in November?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.06,
+          "value": 24,
+          "timestamp": 1794244795,
+          "slug": "will-wti-reach-120-in-november-2026",
+          "event_slug": "what-price-will-wti-hit-in-november-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Kharg Island no longer under Iranian control by December 31?",
           "side": "SELL",
@@ -2089,28 +2111,6 @@
           "price": 0.0484099658,
           "value": 228.00000015371788,
           "timestamp": 1794034078,
-          "slug": "israel-x-iran-ceasefire-continues-through-november-7",
-          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
-        },
-        {
-          "title": "Israel x Iran ceasefire continues through November 15?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.2,
-          "value": 34.462,
-          "timestamp": 1794033807,
-          "slug": "israel-x-iran-ceasefire-continues-through-november-15",
-          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
-        },
-        {
-          "title": "Israel x Iran ceasefire continues through November 7?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.0364919337,
-          "value": 12.290000007482012,
-          "timestamp": 1794033796,
           "slug": "israel-x-iran-ceasefire-continues-through-november-7",
           "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
           "result": "ongoing"
@@ -8752,5 +8752,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T17:20:09.647Z"
+  "lastUpdate": "2026-11-09T17:29:17.586Z"
 }
