@@ -2766,12 +2766,23 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 6,
+        "totalTrades": 7,
         "winRate": 0,
-        "volume": 6874.83608,
+        "volume": 9194.872150000001,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Kamala Harris win the 2028 US Presidential Election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.967,
+          "value": 2320.03607,
+          "timestamp": 1794216313,
+          "slug": "will-kamala-harris-win-the-2028-us-presidential-election",
+          "event_slug": "presidential-election-winner-2028",
+          "result": "ongoing"
+        },
         {
           "title": "Will Ted Cruz win the 2028 US Presidential Election?",
           "side": "BUY",
@@ -9005,5 +9016,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T09:22:17.683Z"
+  "lastUpdate": "2026-11-09T09:31:32.301Z"
 }
