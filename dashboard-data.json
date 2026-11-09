@@ -2766,12 +2766,23 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 7,
+        "totalTrades": 8,
         "winRate": 0,
-        "volume": 9194.872150000001,
+        "volume": 9195.14935,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Joe Kent win the 2028 Republican presidential nomination?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.006,
+          "value": 0.2772,
+          "timestamp": 1794216501,
+          "slug": "will-joe-kent-win-the-2028-republican-presidential-nomination",
+          "event_slug": "republican-presidential-nominee-2028",
+          "result": "ongoing"
+        },
         {
           "title": "Will Kamala Harris win the 2028 US Presidential Election?",
           "side": "BUY",
@@ -4004,10 +4015,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1849.0356699991194,
+        "volume": 1835.8413299991194,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Brock Purdy win the 2026 NFL MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.122,
+          "value": 0.73566,
+          "timestamp": 1794216924,
+          "slug": "will-brock-purdy-win-the-2026-nfl-mvp",
+          "event_slug": "pro-football-2026-mvp-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Anthropic's market cap be between $2.5T and $2.75T at market close on IPO d",
           "side": "BUY",
@@ -4544,17 +4566,6 @@
           "value": 0.05499999999999999,
           "timestamp": 1794188895,
           "slug": "elon-musk-of-tweets-november-7-november-9-2026-90-114",
-          "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 115-139 tweets from November 7 to November 9, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 13.93,
-          "timestamp": 1794186457,
-          "slug": "elon-musk-of-tweets-november-7-november-9-2026-115-139",
           "event_slug": "elon-musk-of-tweets-november-7-november-9-2026",
           "result": "ongoing"
         }
@@ -7910,7 +7921,7 @@
       "stats48h": {
         "wins": 50,
         "losses": 0,
-        "totalTrades": 75,
+        "totalTrades": 74,
         "winRate": 1,
         "volume": 36876.302640000125,
         "pnl": 0
@@ -9016,5 +9027,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T09:31:32.301Z"
+  "lastUpdate": "2026-11-09T09:40:44.492Z"
 }
