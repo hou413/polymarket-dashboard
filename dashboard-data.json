@@ -2771,14 +2771,25 @@
       "label": "ch27er",
       "specialty": "Soccer+NBA",
       "stats48h": {
-        "wins": 25,
+        "wins": 24,
         "losses": 24,
-        "totalTrades": 54,
-        "winRate": 0.5102040816326531,
-        "volume": 1539450.9460999998,
+        "totalTrades": 55,
+        "winRate": 0.5,
+        "volume": 1544293.4899,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Bills (-4.5)",
+          "side": "BUY",
+          "outcome": "Bills",
+          "price": 0.44,
+          "value": 5039.7688,
+          "timestamp": 1794243441,
+          "slug": "nfl-buf-min-2026-11-10-spread-away-4pt5",
+          "event_slug": "nfl-buf-min-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Bills (-3.5)",
           "side": "BUY",
@@ -3316,17 +3327,6 @@
           "timestamp": 1794013306,
           "slug": "nba-tor-mil-2026-11-06",
           "event_slug": "nba-tor-mil-2026-11-06",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Timberwolves (-4.5)",
-          "side": "BUY",
-          "outcome": "Timberwolves",
-          "price": 0.46,
-          "value": 197.22500000000002,
-          "timestamp": 1794012721,
-          "slug": "nba-min-nop-2026-11-06-spread-away-4pt5",
-          "event_slug": "nba-min-nop-2026-11-06",
           "result": "win"
         }
       ]
@@ -8752,5 +8752,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T17:01:54.648Z"
+  "lastUpdate": "2026-11-09T17:11:02.786Z"
 }
