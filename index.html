@@ -498,7 +498,7 @@
                         const icon = trade.side === 'BUY' ? '📈' : '📉';
                         return '<a href="' + url + '" target="_blank" rel="noopener" class="trade-item ' + sideClass + '" style="text-decoration:none;color:inherit;">' +
                             '<div class="trade-info">' +
-                                '<div class="trade-title">' + trade.title + '</div>' +
+                                '<div class="trade-title" title="' + (trade.title || '').replace(/"/g, '&quot;') + '">' + trade.title + '</div>' +
                                 '<div class="trade-meta">' + trade.outcome + ' @ ' + (trade.price * 100).toFixed(1) + '¢</div>' +
                             '</div>' +
                             '<div>' +
