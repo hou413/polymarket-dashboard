@@ -390,10 +390,142 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 14876.56680000098,
+        "volume": 13142.526599988172,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Bears (-5.5)",
+          "side": "SELL",
+          "outcome": "Buccaneers",
+          "price": 0.49,
+          "value": 1430.31,
+          "timestamp": 1794194712,
+          "slug": "nfl-tb-chi-2026-11-09-spread-home-5pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bears (-13.5)",
+          "side": "BUY",
+          "outcome": "Bears",
+          "price": 0.2,
+          "value": 582,
+          "timestamp": 1794194686,
+          "slug": "nfl-tb-chi-2026-11-09-spread-home-13pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears: O/U 46.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.28,
+          "value": 56.00000000000001,
+          "timestamp": 1794194448,
+          "slug": "nfl-tb-chi-2026-11-09-total-46pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bears (-6.5)",
+          "side": "BUY",
+          "outcome": "Buccaneers",
+          "price": 0.55,
+          "value": 110.00000000000001,
+          "timestamp": 1794194419,
+          "slug": "nfl-tb-chi-2026-11-09-spread-home-6pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bears (-6.5)",
+          "side": "BUY",
+          "outcome": "Buccaneers",
+          "price": 0.53,
+          "value": 1615.1644000000001,
+          "timestamp": 1794194415,
+          "slug": "nfl-tb-chi-2026-11-09-spread-home-6pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bears (-6.5)",
+          "side": "BUY",
+          "outcome": "Buccaneers",
+          "price": 0.52,
+          "value": 113.36,
+          "timestamp": 1794194409,
+          "slug": "nfl-tb-chi-2026-11-09-spread-home-6pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears: O/U 50.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.42,
+          "value": 33.6,
+          "timestamp": 1794194397,
+          "slug": "nfl-tb-chi-2026-11-09-total-50pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bears (-6.5)",
+          "side": "BUY",
+          "outcome": "Buccaneers",
+          "price": 0.5,
+          "value": 3.765,
+          "timestamp": 1794194394,
+          "slug": "nfl-tb-chi-2026-11-09-spread-home-6pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bears (-6.5)",
+          "side": "BUY",
+          "outcome": "Buccaneers",
+          "price": 0.46,
+          "value": 1053.699,
+          "timestamp": 1794194323,
+          "slug": "nfl-tb-chi-2026-11-09-spread-home-6pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bears (-4.5)",
+          "side": "BUY",
+          "outcome": "Buccaneers",
+          "price": 0.4113285024,
+          "value": 340.57999998720004,
+          "timestamp": 1794194317,
+          "slug": "nfl-tb-chi-2026-11-09-spread-home-4pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Bears (-3.5)",
+          "side": "BUY",
+          "outcome": "Buccaneers",
+          "price": 0.35,
+          "value": 43.75,
+          "timestamp": 1794194317,
+          "slug": "nfl-tb-chi-2026-11-09-spread-home-3pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Buccaneers vs. Bears: O/U 46.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.24,
+          "value": 52.6752,
+          "timestamp": 1794194296,
+          "slug": "nfl-tb-chi-2026-11-09-total-46pt5",
+          "event_slug": "nfl-tb-chi-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Pelicans (-5.5)",
           "side": "BUY",
@@ -808,138 +940,6 @@
           "price": 0.54,
           "value": 3010.6836000000003,
           "timestamp": 1794192714,
-          "slug": "nfl-tb-chi-2026-11-09-total-48pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears: O/U 46.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.44,
-          "value": 1173.04,
-          "timestamp": 1794192703,
-          "slug": "nfl-tb-chi-2026-11-09-total-46pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears: O/U 52.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.7,
-          "value": 350,
-          "timestamp": 1794192700,
-          "slug": "nfl-tb-chi-2026-11-09-total-52pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears: O/U 50.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.61,
-          "value": 2441.6591999999996,
-          "timestamp": 1794192678,
-          "slug": "nfl-tb-chi-2026-11-09-total-50pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears: O/U 48.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.52,
-          "value": 1449.5884,
-          "timestamp": 1794192643,
-          "slug": "nfl-tb-chi-2026-11-09-total-48pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Pelicans vs. Clippers: O/U 221.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.59,
-          "value": 10.62,
-          "timestamp": 1794192642,
-          "slug": "nba-nop-lac-2026-11-08-total-221pt5",
-          "event_slug": "nba-nop-lac-2026-11-08",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears: O/U 46.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.46,
-          "value": 38.8562,
-          "timestamp": 1794192361,
-          "slug": "nfl-tb-chi-2026-11-09-total-46pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears: O/U 44.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5,
-          "value": 280,
-          "timestamp": 1794192201,
-          "slug": "nfl-tb-chi-2026-11-09-total-44pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears: O/U 42.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.37,
-          "value": 7.4,
-          "timestamp": 1794192175,
-          "slug": "nfl-tb-chi-2026-11-09-total-42pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears: O/U 50.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.63,
-          "value": 0.63,
-          "timestamp": 1794192162,
-          "slug": "nfl-tb-chi-2026-11-09-total-50pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears: O/U 42.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.35,
-          "value": 0.35,
-          "timestamp": 1794192162,
-          "slug": "nfl-tb-chi-2026-11-09-total-42pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears: O/U 44.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.48,
-          "value": 52.8,
-          "timestamp": 1794192162,
-          "slug": "nfl-tb-chi-2026-11-09-total-44pt5",
-          "event_slug": "nfl-tb-chi-2026-11-09",
-          "result": "ongoing"
-        },
-        {
-          "title": "Buccaneers vs. Bears: O/U 48.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.62,
-          "value": 1364,
-          "timestamp": 1794192162,
           "slug": "nfl-tb-chi-2026-11-09-total-48pt5",
           "event_slug": "nfl-tb-chi-2026-11-09",
           "result": "ongoing"
@@ -2860,13 +2860,24 @@
       "specialty": "Soccer+NBA",
       "stats48h": {
         "wins": 25,
-        "losses": 24,
-        "totalTrades": 53,
-        "winRate": 0.5102040816326531,
-        "volume": 1522112.7456999999,
+        "losses": 23,
+        "totalTrades": 54,
+        "winRate": 0.5208333333333334,
+        "volume": 1539450.9460999998,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Bills (-3.5)",
+          "side": "BUY",
+          "outcome": "Bills",
+          "price": 0.46,
+          "value": 17730.125,
+          "timestamp": 1794194728,
+          "slug": "nfl-buf-min-2026-11-10-spread-away-3pt5",
+          "event_slug": "nfl-buf-min-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Buccaneers vs. Bears: O/U 46.5",
           "side": "BUY",
@@ -3405,17 +3416,6 @@
           "slug": "nba-min-nop-2026-11-06-spread-away-4pt5",
           "event_slug": "nba-min-nop-2026-11-06",
           "result": "win"
-        },
-        {
-          "title": "Spread: Mavericks (-5.5)",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.46,
-          "value": 391.9246,
-          "timestamp": 1794012672,
-          "slug": "nba-uta-dal-2026-11-06-spread-home-5pt5",
-          "event_slug": "nba-uta-dal-2026-11-06",
-          "result": "loss"
         }
       ]
     },
@@ -9071,5 +9071,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-09T03:22:26.506Z"
+  "lastUpdate": "2026-11-09T03:32:38.899Z"
 }
