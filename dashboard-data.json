@@ -3816,10 +3816,87 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 154381.45065800552,
+        "volume": 179145.46102799373,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.028,
+          "value": 35.70756,
+          "timestamp": 1794303259,
+          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.977,
+          "value": 8132.548,
+          "timestamp": 1794303162,
+          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.13,
+          "value": 1082.1200000000001,
+          "timestamp": 1794303162,
+          "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.996,
+          "value": 8290.704,
+          "timestamp": 1794303160,
+          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 8299.028,
+          "timestamp": 1794303160,
+          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 7.699800000000001,
+          "timestamp": 1794302968,
+          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 7.69976,
+          "timestamp": 1794302968,
+          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
         {
           "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
           "side": "BUY",
@@ -4291,83 +4368,6 @@
           "timestamp": 1794297795,
           "slug": "will-ahmad-tibi-be-the-next-speaker-of-the-knesset-20261019103128390",
           "event_slug": "who-will-be-the-next-speaker-of-the-knesset-20261019103128390",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Gadi Eisenkot be the next Speaker of the Knesset?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9688821752,
-          "value": 51.311999998592,
-          "timestamp": 1794297795,
-          "slug": "will-gadi-eisenkot-be-the-next-speaker-of-the-knesset-20261019103128390",
-          "event_slug": "who-will-be-the-next-speaker-of-the-knesset-20261019103128390",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ofir Katz be the next Speaker of the Knesset?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 203.796,
-          "timestamp": 1794297795,
-          "slug": "will-ofir-katz-be-the-next-speaker-of-the-knesset-20261019103128390",
-          "event_slug": "who-will-be-the-next-speaker-of-the-knesset-20261019103128390",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Yair Lapid be the next Speaker of the Knesset?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9895791246,
-          "value": 587.8100000124,
-          "timestamp": 1794297795,
-          "slug": "will-yair-lapid-be-the-next-speaker-of-the-knesset-20261019103128390",
-          "event_slug": "who-will-be-the-next-speaker-of-the-knesset-20261019103128390",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Oded Forer be the next Speaker of the Knesset?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 208.791,
-          "timestamp": 1794297795,
-          "slug": "will-oded-forer-be-the-next-speaker-of-the-knesset-20261019103128390",
-          "event_slug": "who-will-be-the-next-speaker-of-the-knesset-20261019103128390",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.63,
-          "value": 13.23,
-          "timestamp": 1794296910,
-          "slug": "will-lee-shu-chuan-win-the-next-new-taipei-mayor-election-20260813125857201",
-          "event_slug": "new-taipei-mayor-election-winner-20260813125857200",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will annual inflation be 3.4% in October?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.027,
-          "timestamp": 1794294711,
-          "slug": "will-annual-inflation-be-3pt4-in-october-2026",
-          "event_slug": "october-inflation-us-annual",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will annual inflation be 3.8% in October?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9826203704,
-          "value": 26.5307500008,
-          "timestamp": 1794294450,
-          "slug": "will-annual-inflation-be-3pt8-in-october-2026",
-          "event_slug": "october-inflation-us-annual",
           "result": "ongoing"
         }
       ]
@@ -8046,5 +8046,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T09:31:57.801Z"
+  "lastUpdate": "2026-11-10T09:40:58.526Z"
 }
