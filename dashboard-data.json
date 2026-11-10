@@ -3816,10 +3816,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 133584.67223797154,
+        "volume": 133576.13703797152,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Anthropic have the highest IPO Market Cap 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.08,
+          "value": 9.1968,
+          "timestamp": 1794308845,
+          "slug": "will-anthropic-have-the-highest-ipo-market-cap-2026-673",
+          "event_slug": "largest-ipo-by-market-cap-in-2026-287",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Johnny Chiang win the next Taichung Mayor election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.22,
+          "value": 4.18,
+          "timestamp": 1794308736,
+          "slug": "will-johnny-chiang-win-the-next-taichung-mayor-election-20260813125857401",
+          "event_slug": "taichung-mayor-election-winner-20260813125857400",
+          "result": "ongoing"
+        },
         {
           "title": "Will Anthropic raise between $105B and $115B in its IPO?",
           "side": "BUY",
@@ -4345,28 +4367,6 @@
           "value": 10.967,
           "timestamp": 1794302125,
           "slug": "will-discords-market-cap-be-between-20b-and-25b-at-market-close-on-ipo-day-by-december-31-2027-20260626185933224",
-          "event_slug": "discord-ipo-closing-market-cap-20260626185933220",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Discord’s market cap be between $17B and $20B at market close on IPO day by",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 10.956,
-          "timestamp": 1794302125,
-          "slug": "will-discord-not-ipo-by-december-31-2027-20260626185933226",
-          "event_slug": "discord-ipo-closing-market-cap-20260626185933220",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Discord’s market cap be between $8B and $11B at market close on IPO day by ",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 10.956,
-          "timestamp": 1794302125,
-          "slug": "will-discords-market-cap-be-between-15b-and-20b-at-market-close-on-ipo-day-by-december-31-2027-20260626185933223",
           "event_slug": "discord-ipo-closing-market-cap-20260626185933220",
           "result": "ongoing"
         }
@@ -8035,5 +8035,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T11:01:37.170Z"
+  "lastUpdate": "2026-11-10T11:11:25.001Z"
 }
