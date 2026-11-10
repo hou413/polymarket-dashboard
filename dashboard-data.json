@@ -952,10 +952,10 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 6,
-        "losses": 10,
-        "totalTrades": 27,
-        "winRate": 0.375,
-        "volume": 65192.32999992336,
+        "losses": 9,
+        "totalTrades": 26,
+        "winRate": 0.4,
+        "volume": 61160.28499992336,
         "pnl": 0
       },
       "recentTrades": [
@@ -1242,17 +1242,6 @@
           "value": 371.28000000000003,
           "timestamp": 1794085821,
           "slug": "nhl-sj-dal-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-sj-dal-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Sharks vs. Stars",
-          "side": "BUY",
-          "outcome": "Sharks",
-          "price": 0.27,
-          "value": 4032.045,
-          "timestamp": 1794085654,
-          "slug": "nhl-sj-dal-2026-11-07",
           "event_slug": "nhl-sj-dal-2026-11-07",
           "result": "loss"
         }
@@ -3739,10 +3728,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2587.601440003359,
+        "volume": 2577.2614400033594,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Sparta Prague win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.99,
+          "value": 29.7,
+          "timestamp": 1794344850,
+          "slug": "uwec-tor-spa-2026-11-11-spa",
+          "event_slug": "uwec-tor-spa-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Will FK Austria Wien win on 2026-11-11?",
           "side": "BUY",
@@ -4279,17 +4279,6 @@
           "value": 90.09,
           "timestamp": 1794335770,
           "slug": "uwcl-slb-faw-2026-11-11-faw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.44,
-          "value": 40.04,
-          "timestamp": 1794335769,
-          "slug": "uwcl-slb-faw-2026-11-11-slb",
           "event_slug": "uwcl-slb-faw-2026-11-11",
           "result": "ongoing"
         }
@@ -6188,7 +6177,7 @@
       "stats48h": {
         "wins": 31,
         "losses": 19,
-        "totalTrades": 191,
+        "totalTrades": 185,
         "winRate": 0.62,
         "volume": 28368.646700429897,
         "pnl": 0
@@ -7606,5 +7595,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T21:02:38.669Z"
+  "lastUpdate": "2026-11-10T21:12:28.033Z"
 }
