@@ -3205,7 +3205,7 @@
       "stats48h": {
         "wins": 35,
         "losses": 15,
-        "totalTrades": 58,
+        "totalTrades": 57,
         "winRate": 0.7,
         "volume": 708362.8045800534,
         "pnl": 0
@@ -3772,10 +3772,43 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 5128.17879999016,
+        "volume": 4841.896489990758,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Recep Tayyip Erdoğan be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.003,
+          "value": 0.35409,
+          "timestamp": 1794331978,
+          "slug": "will-recep-tayyip-erdogan-be-the-next-leader-out-before-2027-20260630194627365",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.044,
+          "timestamp": 1794331977,
+          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 0.176,
+          "timestamp": 1794331977,
+          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 65-89 tweets from November 9 to November 11, 2026?",
           "side": "BUY",
@@ -4291,39 +4324,6 @@
           "timestamp": 1794323047,
           "slug": "uwcl-slb-faw-2026-11-11-exact-score-3-0",
           "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 2 - 2 FK Austria Wien?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9614546466,
-          "value": 17.277339999402,
-          "timestamp": 1794323047,
-          "slug": "uwcl-slb-faw-2026-11-11-exact-score-2-2",
-          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Xi Jinping be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.003,
-          "value": 0.35406,
-          "timestamp": 1794322680,
-          "slug": "will-xi-jinping-be-the-next-leader-out-before-2027-20260630194627367",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 50+ bps after the March 2027 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.979,
-          "value": 269.225,
-          "timestamp": 1794322228,
-          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-march-2027-meeting",
-          "event_slug": "fed-decision-in-march-2027",
           "result": "ongoing"
         }
       ]
@@ -7826,5 +7826,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T17:27:20.516Z"
+  "lastUpdate": "2026-11-10T17:36:12.652Z"
 }
