@@ -5690,11 +5690,11 @@
       "label": "RNGUzi",
       "specialty": "Soccer+NFL",
       "stats48h": {
-        "wins": 15,
+        "wins": 14,
         "losses": 7,
-        "totalTrades": 22,
-        "winRate": 0.6818181818181818,
-        "volume": 102305.30246121997,
+        "totalTrades": 21,
+        "winRate": 0.6666666666666666,
+        "volume": 96311.38238121997,
         "pnl": 0
       },
       "recentTrades": [
@@ -5928,17 +5928,6 @@
           "slug": "lol-ig1-gen-2026-11-07-game1",
           "event_slug": "lol-ig1-gen-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Counter-Strike: MOUZ vs BetBoom Team - Map 1 Winner",
-          "side": "SELL",
-          "outcome": "MOUZ",
-          "price": 0.999,
-          "value": 5993.92008,
-          "timestamp": 1794047956,
-          "slug": "cs2-mouz-bb3-2026-11-07-game1",
-          "event_slug": "cs2-mouz-bb3-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -6030,7 +6019,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 119,
+        "totalTrades": 117,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -8046,5 +8035,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T10:34:49.027Z"
+  "lastUpdate": "2026-11-10T10:43:46.495Z"
 }
