@@ -3816,10 +3816,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 27927.302239991175,
+        "volume": 27756.120639991175,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the Republican Party candidate win the 2026 Florida Senate election by 3%-6",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.005,
+          "value": 0.0584,
+          "timestamp": 1794317091,
+          "slug": "will-the-republican-party-candidate-win-the-2026-florida-senate-election-by-3-6",
+          "event_slug": "florida-senate-margin-of-victory-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.66,
+          "value": 6.6000000000000005,
+          "timestamp": 1794316716,
+          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
+          "event_slug": "2026-taiwanese-local-elections-party-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Anthropic's IPO valuation be $2.50T or more?",
           "side": "BUY",
@@ -4345,28 +4367,6 @@
           "value": 81.9,
           "timestamp": 1794302806,
           "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 89.64,
-          "timestamp": 1794302805,
-          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.98,
-          "value": 88.2,
-          "timestamp": 1794302805,
-          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
           "event_slug": "fed-decision-in-december-20260729232808632",
           "result": "ongoing"
         }
@@ -6008,7 +6008,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 108,
+        "totalTrades": 103,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -7136,14 +7136,80 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 44,
+        "wins": 38,
         "losses": 0,
-        "totalTrades": 60,
+        "totalTrades": 65,
         "winRate": 1,
-        "volume": 32307.003450000117,
+        "volume": 28812.798429984123,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
+          "side": "BUY",
+          "outcome": "Namibia Women",
+          "price": 0.1695251662,
+          "value": 53.55300000257999,
+          "timestamp": 1794316839,
+          "slug": "crint-namw-ugaw-2026-11-10",
+          "event_slug": "crint-namw-ugaw-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
+          "side": "BUY",
+          "outcome": "Namibia Women",
+          "price": 0.1692102665,
+          "value": 42.852499991125,
+          "timestamp": 1794316806,
+          "slug": "crint-namw-ugaw-2026-11-10",
+          "event_slug": "crint-namw-ugaw-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
+          "side": "BUY",
+          "outcome": "Namibia Women",
+          "price": 0.16,
+          "value": 9.809600000000001,
+          "timestamp": 1794316794,
+          "slug": "crint-namw-ugaw-2026-11-10",
+          "event_slug": "crint-namw-ugaw-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
+          "side": "BUY",
+          "outcome": "Namibia Women",
+          "price": 0.21,
+          "value": 1.05,
+          "timestamp": 1794316779,
+          "slug": "crint-namw-ugaw-2026-11-10",
+          "event_slug": "crint-namw-ugaw-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
+          "side": "BUY",
+          "outcome": "Namibia Women",
+          "price": 0.18,
+          "value": 0.8999999999999999,
+          "timestamp": 1794316752,
+          "slug": "crint-namw-ugaw-2026-11-10",
+          "event_slug": "crint-namw-ugaw-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "BNP Paribas Nordic Open: Alex Michelsen vs Juan Manuel Cerundolo",
+          "side": "SELL",
+          "outcome": "Alex Michelsen",
+          "price": 0.9867601918,
+          "value": 205.7394999903,
+          "timestamp": 1794316734,
+          "slug": "atp-michels-cerund-2026-11-10",
+          "event_slug": "atp-michels-cerund-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "BNP Paribas Nordic Open: Alex Michelsen vs Juan Manuel Cerundolo",
           "side": "BUY",
@@ -7627,72 +7693,6 @@
           "slug": "ere-ado-spa-2026-11-07-total-2pt5",
           "event_slug": "ere-ado-spa-2026-11-07-more-markets",
           "result": "win"
-        },
-        {
-          "title": "FC Luzern vs. Young Boys Bern: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.91,
-          "value": 819,
-          "timestamp": 1794074121,
-          "slug": "sui-luz-yb-2026-11-07-total-2pt5",
-          "event_slug": "sui-luz-yb-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Parma Calcio 1913 vs. Bologna FC 1909: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.82,
-          "value": 574,
-          "timestamp": 1794074095,
-          "slug": "sea-par-bol-2026-11-07-total-0pt5",
-          "event_slug": "sea-par-bol-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Gornik Zabrze vs. Wieczysta Krakow: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.7,
-          "value": 350,
-          "timestamp": 1794073966,
-          "slug": "pol-gor-wie-2026-11-07-total-2pt5",
-          "event_slug": "pol-gor-wie-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Rolex Paris Masters: Casper Ruud vs Carlos Alcaraz",
-          "side": "BUY",
-          "outcome": "Carlos Alcaraz",
-          "price": 0.82,
-          "value": 1034.5612,
-          "timestamp": 1794069552,
-          "slug": "atp-ruud-alcaraz-2026-11-07",
-          "event_slug": "atp-ruud-alcaraz-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Will FC Bayern München win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.999,
-          "value": 440.24931,
-          "timestamp": 1794069534,
-          "slug": "bun-mai-bay-2026-11-07-bay",
-          "event_slug": "bun-mai-bay-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Will FC Bayern München win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.999,
-          "value": 590.29911,
-          "timestamp": 1794069534,
-          "slug": "bun-mai-bay-2026-11-07-bay",
-          "event_slug": "bun-mai-bay-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -8013,5 +8013,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T13:19:37.987Z"
+  "lastUpdate": "2026-11-10T13:28:45.964Z"
 }
