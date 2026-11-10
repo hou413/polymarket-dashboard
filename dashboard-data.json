@@ -3790,14 +3790,58 @@
       "label": "ethanaz",
       "specialty": "NFL+NBA",
       "stats48h": {
-        "wins": 6,
+        "wins": 5,
         "losses": 1,
         "totalTrades": 500,
-        "winRate": 0.8571428571428571,
-        "volume": 4909.32160999373,
+        "winRate": 0.8333333333333334,
+        "volume": 5398.641539995359,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will FK Austria Wien win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 19.96,
+          "timestamp": 1794338170,
+          "slug": "uwcl-slb-faw-2026-11-11-faw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.83,
+          "value": 12.0765,
+          "timestamp": 1794338170,
+          "slug": "uwcl-slb-faw-2026-11-11-slb",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FK Austria Wien win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9980704829,
+          "value": 391.253610001629,
+          "timestamp": 1794338062,
+          "slug": "uwcl-slb-faw-2026-11-11-faw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8,
+          "value": 83.4,
+          "timestamp": 1794338061,
+          "slug": "uwcl-slb-faw-2026-11-11-slb",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Will Anthony Hernandez be the UFC Middleweight Champion on December 31, 2026?",
           "side": "SELL",
@@ -4303,50 +4347,6 @@
           "slug": "will-anthropics-ipo-valuation-be-between-1pt75t-and-2pt00t-12",
           "event_slug": "what-will-anthropics-ipo-valuation-be",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be between $1.25T and $1.50T?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.223,
-          "value": 1.25103,
-          "timestamp": 1794324802,
-          "slug": "will-anthropics-ipo-valuation-be-between-1pt25t-and-1pt50t-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be less than $1.25T?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.903,
-          "value": 5.06583,
-          "timestamp": 1794324802,
-          "slug": "will-anthropics-ipo-valuation-be-less-than-1pt25t-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be $2.50T or more?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 5.5987800000000005,
-          "timestamp": 1794324802,
-          "slug": "will-anthropics-ipo-valuation-be-2pt50t-or-more-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Gemini Carbon be released on November 24, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 5.45454,
-          "timestamp": 1794324679,
-          "slug": "will-gemini-carbon-be-released-on-november-24-2026",
-          "event_slug": "gemini-carbon-released-onptptpt-20261028",
-          "result": "win"
         }
       ]
     },
@@ -4470,10 +4470,10 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 29,
-        "losses": 10,
-        "totalTrades": 39,
-        "winRate": 0.7435897435897436,
-        "volume": 64825.146199990944,
+        "losses": 9,
+        "totalTrades": 38,
+        "winRate": 0.7631578947368421,
+        "volume": 64823.39119999095,
         "pnl": 0
       },
       "recentTrades": [
@@ -4894,17 +4894,6 @@
           "slug": "bl2-ber-wob-2026-11-07-total-3pt5",
           "event_slug": "bl2-ber-wob-2026-11-07-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Nottingham Forest FC vs. Manchester City FC: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.26,
-          "value": 1.7550000000000001,
-          "timestamp": 1794079092,
-          "slug": "epl-not-mac-2026-11-07-total-4pt5",
-          "event_slug": "epl-not-mac-2026-11-07-more-markets",
-          "result": "loss"
         }
       ]
     },
@@ -6949,10 +6938,10 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 44,
+        "wins": 45,
         "losses": 4,
         "totalTrades": 56,
-        "winRate": 0.9166666666666666,
+        "winRate": 0.9183673469387755,
         "volume": 24182.631419984125,
         "pnl": 0
       },
@@ -6966,7 +6955,7 @@
           "timestamp": 1794334743,
           "slug": "atp-rune-bergs-2026-11-09",
           "event_slug": "atp-rune-bergs-2026-11-09",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Abu Dhabi T10 League: UAE Bulls vs Emirates Eagles",
@@ -7804,5 +7793,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T19:13:15.865Z"
+  "lastUpdate": "2026-11-10T19:22:00.104Z"
 }
