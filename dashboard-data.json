@@ -386,10 +386,10 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 15,
-        "losses": 35,
+        "wins": 0,
+        "losses": 0,
         "totalTrades": 500,
-        "winRate": 0.3,
+        "winRate": 0,
         "volume": 7771.063300134307,
         "pnl": 0
       },
@@ -403,7 +403,7 @@
           "timestamp": 1794284454,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-10.5)",
@@ -414,7 +414,7 @@
           "timestamp": 1794284446,
           "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 30.5",
@@ -425,7 +425,7 @@
           "timestamp": 1794284443,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 30.5",
@@ -436,7 +436,7 @@
           "timestamp": 1794284413,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 30.5",
@@ -447,7 +447,7 @@
           "timestamp": 1794284413,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-10.5)",
@@ -458,7 +458,7 @@
           "timestamp": 1794284409,
           "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-10.5)",
@@ -469,7 +469,7 @@
           "timestamp": 1794284407,
           "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-9.5)",
@@ -480,7 +480,7 @@
           "timestamp": 1794284407,
           "slug": "nfl-buf-min-2026-11-10-spread-away-9pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-14.5)",
@@ -491,7 +491,7 @@
           "timestamp": 1794284400,
           "slug": "nfl-buf-min-2026-11-10-spread-away-14pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-14.5)",
@@ -502,7 +502,7 @@
           "timestamp": 1794284400,
           "slug": "nfl-buf-min-2026-11-10-spread-away-14pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-10.5)",
@@ -513,7 +513,7 @@
           "timestamp": 1794284400,
           "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 30.5",
@@ -524,7 +524,7 @@
           "timestamp": 1794284398,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 30.5",
@@ -535,7 +535,7 @@
           "timestamp": 1794284397,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-10.5)",
@@ -546,7 +546,7 @@
           "timestamp": 1794284389,
           "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-10.5)",
@@ -557,7 +557,7 @@
           "timestamp": 1794284388,
           "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-16.5)",
@@ -568,7 +568,7 @@
           "timestamp": 1794284386,
           "slug": "nfl-buf-min-2026-11-10-spread-away-16pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-13.5)",
@@ -579,7 +579,7 @@
           "timestamp": 1794284386,
           "slug": "nfl-buf-min-2026-11-10-spread-away-13pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-14.5)",
@@ -590,7 +590,7 @@
           "timestamp": 1794284385,
           "slug": "nfl-buf-min-2026-11-10-spread-away-14pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 30.5",
@@ -601,7 +601,7 @@
           "timestamp": 1794284385,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 30.5",
@@ -612,7 +612,7 @@
           "timestamp": 1794284385,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-14.5)",
@@ -623,7 +623,7 @@
           "timestamp": 1794284385,
           "slug": "nfl-buf-min-2026-11-10-spread-away-14pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 34.5",
@@ -634,7 +634,7 @@
           "timestamp": 1794284382,
           "slug": "nfl-buf-min-2026-11-10-total-34pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 34.5",
@@ -645,7 +645,7 @@
           "timestamp": 1794284382,
           "slug": "nfl-buf-min-2026-11-10-total-34pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-13.5)",
@@ -656,7 +656,7 @@
           "timestamp": 1794284370,
           "slug": "nfl-buf-min-2026-11-10-spread-away-13pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-16.5)",
@@ -667,7 +667,7 @@
           "timestamp": 1794284370,
           "slug": "nfl-buf-min-2026-11-10-spread-away-16pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-16.5)",
@@ -678,7 +678,7 @@
           "timestamp": 1794284368,
           "slug": "nfl-buf-min-2026-11-10-spread-away-16pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-14.5)",
@@ -689,7 +689,7 @@
           "timestamp": 1794284368,
           "slug": "nfl-buf-min-2026-11-10-spread-away-14pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-16.5)",
@@ -700,7 +700,7 @@
           "timestamp": 1794284364,
           "slug": "nfl-buf-min-2026-11-10-spread-away-16pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-13.5)",
@@ -711,7 +711,7 @@
           "timestamp": 1794284364,
           "slug": "nfl-buf-min-2026-11-10-spread-away-13pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-14.5)",
@@ -722,7 +722,7 @@
           "timestamp": 1794284362,
           "slug": "nfl-buf-min-2026-11-10-spread-away-14pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-16.5)",
@@ -733,7 +733,7 @@
           "timestamp": 1794284362,
           "slug": "nfl-buf-min-2026-11-10-spread-away-16pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 34.5",
@@ -744,7 +744,7 @@
           "timestamp": 1794284362,
           "slug": "nfl-buf-min-2026-11-10-total-34pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 34.5",
@@ -755,7 +755,7 @@
           "timestamp": 1794284362,
           "slug": "nfl-buf-min-2026-11-10-total-34pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 30.5",
@@ -766,7 +766,7 @@
           "timestamp": 1794284361,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-16.5)",
@@ -777,7 +777,7 @@
           "timestamp": 1794284340,
           "slug": "nfl-buf-min-2026-11-10-spread-away-16pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-8.5)",
@@ -788,7 +788,7 @@
           "timestamp": 1794284338,
           "slug": "nfl-buf-min-2026-11-10-spread-away-8pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-16.5)",
@@ -799,7 +799,7 @@
           "timestamp": 1794284338,
           "slug": "nfl-buf-min-2026-11-10-spread-away-16pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 30.5",
@@ -810,7 +810,7 @@
           "timestamp": 1794284331,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-10.5)",
@@ -821,7 +821,7 @@
           "timestamp": 1794284331,
           "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 30.5",
@@ -832,7 +832,7 @@
           "timestamp": 1794284293,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 30.5",
@@ -843,7 +843,7 @@
           "timestamp": 1794284272,
           "slug": "nfl-buf-min-2026-11-10-total-30pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-10.5)",
@@ -854,7 +854,7 @@
           "timestamp": 1794284086,
           "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 34.5",
@@ -865,7 +865,7 @@
           "timestamp": 1794284082,
           "slug": "nfl-buf-min-2026-11-10-total-34pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-13.5)",
@@ -876,7 +876,7 @@
           "timestamp": 1794284076,
           "slug": "nfl-buf-min-2026-11-10-spread-away-13pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-10.5)",
@@ -887,7 +887,7 @@
           "timestamp": 1794284074,
           "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-13.5)",
@@ -898,7 +898,7 @@
           "timestamp": 1794284074,
           "slug": "nfl-buf-min-2026-11-10-spread-away-13pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-10.5)",
@@ -909,7 +909,7 @@
           "timestamp": 1794284074,
           "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-13.5)",
@@ -920,7 +920,7 @@
           "timestamp": 1794284013,
           "slug": "nfl-buf-min-2026-11-10-spread-away-13pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Bills vs. Vikings: O/U 32.5",
@@ -931,7 +931,7 @@
           "timestamp": 1794283989,
           "slug": "nfl-buf-min-2026-11-10-total-32pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
+          "result": "ongoing"
         },
         {
           "title": "Spread: Bills (-14.5)",
@@ -942,7 +942,7 @@
           "timestamp": 1794283839,
           "slug": "nfl-buf-min-2026-11-10-spread-away-14pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
+          "result": "ongoing"
         }
       ]
     },
@@ -951,11 +951,11 @@
       "label": "chubbytoro",
       "specialty": "综合",
       "stats48h": {
-        "wins": 10,
+        "wins": 9,
         "losses": 11,
-        "totalTrades": 32,
-        "winRate": 0.47619047619047616,
-        "volume": 75097.98999992336,
+        "totalTrades": 31,
+        "winRate": 0.45,
+        "volume": 75052.98999992336,
         "pnl": 0
       },
       "recentTrades": [
@@ -1299,17 +1299,6 @@
           "slug": "nhl-sj-dal-2026-11-07-total-6pt5",
           "event_slug": "nhl-sj-dal-2026-11-07",
           "result": "loss"
-        },
-        {
-          "title": "Edmonton Elks vs. British Columbia Lions",
-          "side": "BUY",
-          "outcome": "Edmonton Elks",
-          "price": 0.45,
-          "value": 45,
-          "timestamp": 1794084525,
-          "slug": "cfl-edm-bc-2026-11-07",
-          "event_slug": "cfl-edm-bc-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -3794,10 +3783,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2538.917330002559,
+        "volume": 2587.601440003359,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will FK Austria Wien win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9851716129,
+          "value": 30.5403199999,
+          "timestamp": 1794343651,
+          "slug": "uwcl-slb-faw-2026-11-11-faw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.6119354839,
+          "value": 18.9700000009,
+          "timestamp": 1794343651,
+          "slug": "uwcl-slb-faw-2026-11-11-slb",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Will Canyon win Worlds 2026 Finals MVP?",
           "side": "SELL",
@@ -4324,28 +4335,6 @@
           "timestamp": 1794335769,
           "slug": "uwcl-slb-faw-2026-11-11-slb",
           "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Volodymyr Zelenskyy be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.004,
-          "value": 0.47212000000000004,
-          "timestamp": 1794332161,
-          "slug": "will-volodymyr-zelenskyy-be-the-next-leader-out-before-2027-20260630194627373",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Recep Tayyip Erdoğan be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.003,
-          "value": 0.35409,
-          "timestamp": 1794331978,
-          "slug": "will-recep-tayyip-erdogan-be-the-next-leader-out-before-2027-20260630194627365",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
           "result": "ongoing"
         }
       ]
@@ -5722,7 +5711,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 73,
+        "totalTrades": 69,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -6850,10 +6839,10 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 44,
+        "wins": 45,
         "losses": 4,
-        "totalTrades": 54,
-        "winRate": 0.9166666666666666,
+        "totalTrades": 53,
+        "winRate": 0.9183673469387755,
         "volume": 25046.626439984128,
         "pnl": 0
       },
@@ -6889,7 +6878,7 @@
           "timestamp": 1794339672,
           "slug": "atp-musetti-samuel-2026-11-10",
           "event_slug": "atp-musetti-samuel-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BNP Paribas Nordic Open: Holger Rune vs Zizou Bergs",
@@ -7705,5 +7694,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T20:43:02.204Z"
+  "lastUpdate": "2026-11-10T20:54:01.306Z"
 }
