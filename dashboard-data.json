@@ -953,12 +953,34 @@
       "stats48h": {
         "wins": 10,
         "losses": 11,
-        "totalTrades": 30,
+        "totalTrades": 32,
         "winRate": 0.47619047619047616,
-        "volume": 71245.09699992336,
+        "volume": 75097.98999992336,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Kings (-1.5)",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.33,
+          "value": 8.2665,
+          "timestamp": 1794336693,
+          "slug": "nhl-nsh-lak-2026-11-10-spread-home-1pt5",
+          "event_slug": "nhl-nsh-lak-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Predators vs. Kings",
+          "side": "BUY",
+          "outcome": "Kings",
+          "price": 0.55,
+          "value": 3844.6265,
+          "timestamp": 1794336234,
+          "slug": "nhl-nsh-lak-2026-11-10",
+          "event_slug": "nhl-nsh-lak-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Capitals vs. Senators: O/U 6.5",
           "side": "BUY",
@@ -1426,7 +1448,7 @@
       "stats48h": {
         "wins": 2,
         "losses": 13,
-        "totalTrades": 71,
+        "totalTrades": 67,
         "winRate": 0.13333333333333333,
         "volume": 15299.211236010799,
         "pnl": 0
@@ -3772,10 +3794,32 @@
         "losses": 1,
         "totalTrades": 500,
         "winRate": 0.9090909090909091,
-        "volume": 4910.118609992357,
+        "volume": 4963.976109993957,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.5638125,
+          "value": 31.573500000000003,
+          "timestamp": 1794336759,
+          "slug": "uwcl-slb-faw-2026-11-11-draw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FK Austria Wien win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.989,
+          "value": 55.384,
+          "timestamp": 1794336759,
+          "slug": "uwcl-slb-faw-2026-11-11-faw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Will FK Austria Wien win on 2026-11-11?",
           "side": "BUY",
@@ -4302,28 +4346,6 @@
           "timestamp": 1794323395,
           "slug": "will-avengers-doomsday-be-the-top-grossing-movie-of-2026",
           "event_slug": "highest-grossing-movie-in-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 1 - 0 FK Austria Wien?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9294444444,
-          "value": 16.7299999992,
-          "timestamp": 1794323047,
-          "slug": "uwcl-slb-faw-2026-11-11-exact-score-1-0",
-          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 1 - 1 FK Austria Wien?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9094444444,
-          "value": 16.3699999992,
-          "timestamp": 1794323047,
-          "slug": "uwcl-slb-faw-2026-11-11-exact-score-1-1",
-          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
           "result": "ongoing"
         }
       ]
@@ -7815,5 +7837,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T18:46:52.053Z"
+  "lastUpdate": "2026-11-10T18:55:41.748Z"
 }
