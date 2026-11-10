@@ -953,12 +953,23 @@
       "stats48h": {
         "wins": 15,
         "losses": 12,
-        "totalTrades": 34,
+        "totalTrades": 35,
         "winRate": 0.5555555555555556,
-        "volume": 74280.93069992335,
+        "volume": 74869.56769992335,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Blues (-1.5)",
+          "side": "BUY",
+          "outcome": "Blues",
+          "price": 0.35,
+          "value": 588.637,
+          "timestamp": 1794328885,
+          "slug": "nhl-det-stl-2026-11-10-spread-home-1pt5",
+          "event_slug": "nhl-det-stl-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Capitals vs. Senators",
           "side": "BUY",
@@ -7947,5 +7958,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T16:41:36.102Z"
+  "lastUpdate": "2026-11-10T16:50:27.274Z"
 }
