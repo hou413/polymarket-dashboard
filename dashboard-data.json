@@ -951,11 +951,11 @@
       "label": "chubbytoro",
       "specialty": "综合",
       "stats48h": {
-        "wins": 14,
+        "wins": 11,
         "losses": 11,
-        "totalTrades": 33,
-        "winRate": 0.56,
-        "volume": 74004.50379992336,
+        "totalTrades": 30,
+        "winRate": 0.5,
+        "volume": 71169.59859992337,
         "pnl": 0
       },
       "recentTrades": [
@@ -1287,39 +1287,6 @@
           "timestamp": 1794074725,
           "slug": "nhl-nyr-sea-2026-11-07",
           "event_slug": "nhl-nyr-sea-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.28,
-          "value": 1400.0000000000002,
-          "timestamp": 1794071853,
-          "slug": "nhl-pit-lak-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-pit-lak-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Penguins (-1.5)",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.28,
-          "value": 393.92920000000004,
-          "timestamp": 1794071851,
-          "slug": "nhl-pit-lak-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-pit-lak-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Penguins vs. Kings",
-          "side": "BUY",
-          "outcome": "Penguins",
-          "price": 0.48,
-          "value": 1040.9759999999999,
-          "timestamp": 1794071757,
-          "slug": "nhl-pit-lak-2026-11-07",
-          "event_slug": "nhl-pit-lak-2026-11-07",
           "result": "win"
         }
       ]
@@ -3805,10 +3772,65 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 5132.1921099990295,
+        "volume": 5128.17879999016,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 65-89 tweets from November 9 to November 11, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7580929258,
+          "value": 79.622499996774,
+          "timestamp": 1794330889,
+          "slug": "elon-musk-of-tweets-november-9-november-11-2026-65-89",
+          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 115-139 tweets from November 9 to November 11, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9967161828,
+          "value": 185.3892100008,
+          "timestamp": 1794330889,
+          "slug": "elon-musk-of-tweets-november-9-november-11-2026-115-139",
+          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 90-114 tweets from November 9 to November 11, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.97,
+          "value": 180.42,
+          "timestamp": 1794330888,
+          "slug": "elon-musk-of-tweets-november-9-november-11-2026-90-114",
+          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post <40 tweets from November 9 to November 11, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8409066324,
+          "value": 55.65960999855599,
+          "timestamp": 1794330888,
+          "slug": "elon-musk-of-tweets-november-9-november-11-2026-0-39",
+          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 140-164 tweets from November 9 to November 11, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 185.628,
+          "timestamp": 1794330888,
+          "slug": "elon-musk-of-tweets-november-9-november-11-2026-140-164",
+          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 165-189 tweets from November 9 to November 11, 2026?",
           "side": "SELL",
@@ -4303,61 +4325,6 @@
           "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-march-2027-meeting",
           "event_slug": "fed-decision-in-march-2027",
           "result": "ongoing"
-        },
-        {
-          "title": "Will there be no change in Fed interest rates after the March 2027 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.56,
-          "value": 154.00000000000003,
-          "timestamp": 1794322228,
-          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-march-2027-meeting",
-          "event_slug": "fed-decision-in-march-2027",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed increase interest rates by 50+ bps after the March 2027 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.986,
-          "value": 271.15,
-          "timestamp": 1794322228,
-          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-march-2027-meeting",
-          "event_slug": "fed-decision-in-march-2027",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 25 bps after the March 2027 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9652458182,
-          "value": 265.442600005,
-          "timestamp": 1794322228,
-          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-march-2027-meeting",
-          "event_slug": "fed-decision-in-march-2027",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.022,
-          "timestamp": 1794321199,
-          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ahmed al-Sharaa be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.11803000000000001,
-          "timestamp": 1794320244,
-          "slug": "will-ahmed-al-sharaa-be-the-next-leader-out-before-2027-20260630194627384",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
         }
       ]
     },
@@ -4366,11 +4333,11 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 9,
-        "losses": 2,
-        "totalTrades": 12,
-        "winRate": 0.8181818181818182,
-        "volume": 97652.48196896723,
+        "wins": 7,
+        "losses": 1,
+        "totalTrades": 9,
+        "winRate": 0.875,
+        "volume": 81680.43936896723,
         "pnl": 0
       },
       "recentTrades": [
@@ -4471,39 +4438,6 @@
           "timestamp": 1794084915,
           "slug": "cfb-txam-sc-2026-11-07",
           "event_slug": "cfb-txam-sc-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Will Manchester City FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.6,
-          "value": 1873.8,
-          "timestamp": 1794072007,
-          "slug": "epl-not-mac-2026-11-07-mac",
-          "event_slug": "epl-not-mac-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "BYU vs. Utah",
-          "side": "BUY",
-          "outcome": "Utah",
-          "price": 0.78,
-          "value": 9744.189,
-          "timestamp": 1794071914,
-          "slug": "cfb-byu-utah-2026-11-07",
-          "event_slug": "cfb-byu-utah-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "BYU vs. Utah",
-          "side": "BUY",
-          "outcome": "Utah",
-          "price": 0.78,
-          "value": 4354.0536,
-          "timestamp": 1794071821,
-          "slug": "cfb-byu-utah-2026-11-07",
-          "event_slug": "cfb-byu-utah-2026-11-07",
           "result": "win"
         }
       ]
@@ -7015,10 +6949,10 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 37,
+        "wins": 45,
         "losses": 1,
         "totalTrades": 60,
-        "winRate": 0.9736842105263158,
+        "winRate": 0.9782608695652174,
         "volume": 25718.247029984122,
         "pnl": 0
       },
@@ -7043,7 +6977,7 @@
           "timestamp": 1794330549,
           "slug": "crint-namw-ugaw-2026-11-10",
           "event_slug": "crint-namw-ugaw-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BNP Paribas Nordic Open: Arthur Rinderknech vs Miomir Kecmanovic",
@@ -7076,7 +7010,7 @@
           "timestamp": 1794325165,
           "slug": "crint-namw-ugaw-2026-11-10",
           "event_slug": "crint-namw-ugaw-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Abu Dhabi T10 League: Yas Lions vs United Tigers",
@@ -7098,7 +7032,7 @@
           "timestamp": 1794322528,
           "slug": "crint-namw-ugaw-2026-11-10",
           "event_slug": "crint-namw-ugaw-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
@@ -7109,7 +7043,7 @@
           "timestamp": 1794316839,
           "slug": "crint-namw-ugaw-2026-11-10",
           "event_slug": "crint-namw-ugaw-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
@@ -7120,7 +7054,7 @@
           "timestamp": 1794316806,
           "slug": "crint-namw-ugaw-2026-11-10",
           "event_slug": "crint-namw-ugaw-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
@@ -7131,7 +7065,7 @@
           "timestamp": 1794316794,
           "slug": "crint-namw-ugaw-2026-11-10",
           "event_slug": "crint-namw-ugaw-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
@@ -7142,7 +7076,7 @@
           "timestamp": 1794316779,
           "slug": "crint-namw-ugaw-2026-11-10",
           "event_slug": "crint-namw-ugaw-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
@@ -7153,7 +7087,7 @@
           "timestamp": 1794316752,
           "slug": "crint-namw-ugaw-2026-11-10",
           "event_slug": "crint-namw-ugaw-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BNP Paribas Nordic Open: Alex Michelsen vs Juan Manuel Cerundolo",
@@ -7892,5 +7826,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T17:18:24.952Z"
+  "lastUpdate": "2026-11-10T17:27:20.516Z"
 }
