@@ -1448,7 +1448,7 @@
       "stats48h": {
         "wins": 3,
         "losses": 13,
-        "totalTrades": 70,
+        "totalTrades": 69,
         "winRate": 0.1875,
         "volume": 11919.01963600757,
         "pnl": 0
@@ -3794,10 +3794,109 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3135.3378499972587,
+        "volume": 3243.284839999599,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will CU Técnica de Cajamarca vs. CD Los Chankas end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.02,
+          "value": 0.58,
+          "timestamp": 1794340540,
+          "slug": "per1-ctd-clc-2026-11-13-draw",
+          "event_slug": "per1-ctd-clc-2026-11-13",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CD Los Chankas win on 2026-11-13?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 28.855,
+          "timestamp": 1794340539,
+          "slug": "per1-ctd-clc-2026-11-13-clc",
+          "event_slug": "per1-ctd-clc-2026-11-13",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.5,
+          "value": 79.5,
+          "timestamp": 1794340494,
+          "slug": "uwcl-slb-faw-2026-11-11-draw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FK Austria Wien win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.99,
+          "value": 157.41,
+          "timestamp": 1794340494,
+          "slug": "uwcl-slb-faw-2026-11-11-faw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will SCU Torreense vs. Sparta Prague end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.42,
+          "value": 14.0238,
+          "timestamp": 1794340414,
+          "slug": "uwec-tor-spa-2026-11-11-draw",
+          "event_slug": "uwec-tor-spa-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will SCU Torreense win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.68,
+          "value": 22.7052,
+          "timestamp": 1794340414,
+          "slug": "uwec-tor-spa-2026-11-11-tor",
+          "event_slug": "uwec-tor-spa-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sparta Prague win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.960436079,
+          "value": 51.53699999914,
+          "timestamp": 1794340381,
+          "slug": "uwec-tor-spa-2026-11-11-spa",
+          "event_slug": "uwec-tor-spa-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will SCU Torreense vs. Sparta Prague end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.42,
+          "value": 32.117399999999996,
+          "timestamp": 1794340381,
+          "slug": "uwec-tor-spa-2026-11-11-draw",
+          "event_slug": "uwec-tor-spa-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.68,
+          "value": 9.594800000000001,
+          "timestamp": 1794340279,
+          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
+          "event_slug": "2026-taiwanese-local-elections-party-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
           "side": "SELL",
@@ -4248,105 +4347,6 @@
           "slug": "elon-musk-of-tweets-november-9-november-11-2026-90-114",
           "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 140-164 tweets from November 9 to November 11, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 95.80799999999999,
-          "timestamp": 1794330183,
-          "slug": "elon-musk-of-tweets-november-9-november-11-2026-140-164",
-          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 115-139 tweets from November 9 to November 11, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 95.52,
-          "timestamp": 1794330183,
-          "slug": "elon-musk-of-tweets-november-9-november-11-2026-115-139",
-          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post <40 tweets from November 9 to November 11, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8609980208,
-          "value": 82.6558099968,
-          "timestamp": 1794330183,
-          "slug": "elon-musk-of-tweets-november-9-november-11-2026-0-39",
-          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Reinier de Ridder be the UFC Middleweight Champion on December 31, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.01,
-          "timestamp": 1794329362,
-          "slug": "will-reinier-de-ridder-be-the-ufc-middleweight-champion-on-december-31-2026",
-          "event_slug": "who-will-be-ufc-middleweight-champion-at-the-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Israel Adesanya be the UFC Middleweight Champion on December 31, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.01,
-          "timestamp": 1794329361,
-          "slug": "will-israel-adesanya-be-the-ufc-middleweight-champion-on-december-31-2026",
-          "event_slug": "who-will-be-ufc-middleweight-champion-at-the-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Malaysia win Eurovision Asia 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.59,
-          "value": 3.1683,
-          "timestamp": 1794326491,
-          "slug": "will-malaysia-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Malaysia win Eurovision Asia 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.59,
-          "value": 3.0797999999999996,
-          "timestamp": 1794326475,
-          "slug": "will-malaysia-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Malaysia win Eurovision Asia 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.59,
-          "value": 3.6933999999999996,
-          "timestamp": 1794326460,
-          "slug": "will-malaysia-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Malaysia win Eurovision Asia 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.59,
-          "value": 4.430899999999999,
-          "timestamp": 1794326446,
-          "slug": "will-malaysia-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -4469,11 +4469,11 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 24,
+        "wins": 22,
         "losses": 9,
-        "totalTrades": 33,
-        "winRate": 0.7272727272727273,
-        "volume": 57507.89539999095,
+        "totalTrades": 31,
+        "winRate": 0.7096774193548387,
+        "volume": 56646.01389999095,
         "pnl": 0
       },
       "recentTrades": [
@@ -4817,28 +4817,6 @@
           "slug": "nba-hou-phx-2026-11-07-total-224pt5",
           "event_slug": "nba-hou-phx-2026-11-07",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Hawks (-6.5)",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.49,
-          "value": 192.5455,
-          "timestamp": 1794081237,
-          "slug": "nba-bkn-atl-2026-11-07-spread-home-6pt5",
-          "event_slug": "nba-bkn-atl-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Nuggets (-8.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.48,
-          "value": 669.336,
-          "timestamp": 1794080919,
-          "slug": "nba-den-ind-2026-11-07-spread-away-8pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -5755,7 +5733,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 83,
+        "totalTrades": 81,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -6883,14 +6861,36 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 29,
+        "wins": 42,
         "losses": 4,
-        "totalTrades": 57,
-        "winRate": 0.8787878787878788,
-        "volume": 24471.17451998412,
+        "totalTrades": 59,
+        "winRate": 0.9130434782608695,
+        "volume": 25046.626439984128,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "AS Roma vs. Servette FC Chênois Féminin: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.59,
+          "value": 576.5775,
+          "timestamp": 1794340255,
+          "slug": "uwcl-asr-ser-2026-11-10-total-3pt5",
+          "event_slug": "uwcl-asr-ser-2026-11-10-more-markets",
+          "result": "ongoing"
+        },
+        {
+          "title": "Abu Dhabi T10 League: UAE Bulls vs Emirates Eagles",
+          "side": "SELL",
+          "outcome": "Emirates Eagles",
+          "price": 0.999,
+          "value": 1304.27442,
+          "timestamp": 1794340233,
+          "slug": "cricadt10-uae-emi-2026-11-10",
+          "event_slug": "cricadt10-uae-emi-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "BNP Paribas Nordic Open: Lorenzo Musetti vs Toby Samuel",
           "side": "BUY",
@@ -7153,7 +7153,7 @@
           "timestamp": 1794235810,
           "slug": "atp-machac-gojo-2026-11-09",
           "event_slug": "atp-machac-gojo-2026-11-09",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BNP Paribas Nordic Open: Tomas Machac vs Borna Gojo",
@@ -7164,7 +7164,7 @@
           "timestamp": 1794234238,
           "slug": "atp-machac-gojo-2026-11-09",
           "event_slug": "atp-machac-gojo-2026-11-09",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BNP Paribas Nordic Open: James Duckworth vs Cameron Norrie",
@@ -7175,7 +7175,7 @@
           "timestamp": 1794229047,
           "slug": "atp-duckwor-norrie-2026-11-09",
           "event_slug": "atp-duckwor-norrie-2026-11-09",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Seoul Thunders vs. Sonic Boom",
@@ -7186,7 +7186,7 @@
           "timestamp": 1794225007,
           "slug": "bkkbl-seo2-son-2026-11-09",
           "event_slug": "bkkbl-seo2-son-2026-11-09",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Seoul Thunders vs. Sonic Boom",
@@ -7197,7 +7197,7 @@
           "timestamp": 1794224973,
           "slug": "bkkbl-seo2-son-2026-11-09",
           "event_slug": "bkkbl-seo2-son-2026-11-09",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Chennai Open: Janice Tjen vs Magda Linette",
@@ -7208,7 +7208,7 @@
           "timestamp": 1794210030,
           "slug": "wta-tjen-linette-2026-11-08",
           "event_slug": "wta-tjen-linette-2026-11-08",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Club Atlético de Madrid vs. FC Barcelona: O/U 2.5",
@@ -7230,7 +7230,7 @@
           "timestamp": 1794169966,
           "slug": "por-ama-ben-2026-11-08-ben",
           "event_slug": "por-ama-ben-2026-11-08",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "ACF Fiorentina vs. Juventus FC: O/U 2.5",
@@ -7241,7 +7241,7 @@
           "timestamp": 1794169842,
           "slug": "sea-fio-juv-2026-11-08-total-2pt5",
           "event_slug": "sea-fio-juv-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "NK Varaždin vs. GNK Dinamo Zagreb: O/U 2.5",
@@ -7252,7 +7252,7 @@
           "timestamp": 1794160330,
           "slug": "hr1-var-din-2026-11-08-total-2pt5",
           "event_slug": "hr1-var-din-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "TSG 1899 Hoffenheim vs. FC Schalke 04: O/U 7.5 Total Corners",
@@ -7263,7 +7263,7 @@
           "timestamp": 1794160209,
           "slug": "bun-hof-s04-2026-11-08-corners-total-7pt5",
           "event_slug": "bun-hof-s04-2026-11-08-total-corners",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "TSG 1899 Hoffenheim vs. FC Schalke 04: O/U 7.5 Total Corners",
@@ -7274,7 +7274,7 @@
           "timestamp": 1794160174,
           "slug": "bun-hof-s04-2026-11-08-corners-total-7pt5",
           "event_slug": "bun-hof-s04-2026-11-08-total-corners",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "TSG 1899 Hoffenheim vs. FC Schalke 04: O/U 7.5 Total Corners",
@@ -7285,7 +7285,7 @@
           "timestamp": 1794160162,
           "slug": "bun-hof-s04-2026-11-08-corners-total-7pt5",
           "event_slug": "bun-hof-s04-2026-11-08-total-corners",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "TSG 1899 Hoffenheim vs. FC Schalke 04: O/U 7.5 Total Corners",
@@ -7296,7 +7296,7 @@
           "timestamp": 1794160146,
           "slug": "bun-hof-s04-2026-11-08-corners-total-7pt5",
           "event_slug": "bun-hof-s04-2026-11-08-total-corners",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "TSG 1899 Hoffenheim vs. FC Schalke 04: O/U 7.5 Total Corners",
@@ -7307,7 +7307,7 @@
           "timestamp": 1794160110,
           "slug": "bun-hof-s04-2026-11-08-corners-total-7pt5",
           "event_slug": "bun-hof-s04-2026-11-08-total-corners",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Manchester United FC vs. Aston Villa FC: O/U 4.5",
@@ -7318,7 +7318,7 @@
           "timestamp": 1794159288,
           "slug": "epl-mun-ast-2026-11-08-total-4pt5",
           "event_slug": "epl-mun-ast-2026-11-08-more-markets",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Ipswich Town FC vs. AFC Bournemouth: O/U 7.5 Total Corners",
@@ -7417,28 +7417,6 @@
           "timestamp": 1794131689,
           "slug": "sea-nap-laz-2026-11-08-corners-total-7pt5",
           "event_slug": "sea-nap-laz-2026-11-08-total-corners",
-          "result": "win"
-        },
-        {
-          "title": "Yunnan Yukun FC vs. Wuhan San Zhen FC: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.914,
-          "value": 1005.4000000000001,
-          "timestamp": 1794126166,
-          "slug": "chi-yun-wsz-2026-11-08-total-1pt5",
-          "event_slug": "chi-yun-wsz-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Adelaide United FC vs. Melbourne Victory FC: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.6,
-          "value": 300,
-          "timestamp": 1794123720,
-          "slug": "aus-ade-vic-2026-11-08-total-3pt5",
-          "event_slug": "aus-ade-vic-2026-11-08-more-markets",
           "result": "win"
         }
       ]
@@ -7738,5 +7716,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T19:50:53.353Z"
+  "lastUpdate": "2026-11-10T19:59:39.018Z"
 }
