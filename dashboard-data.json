@@ -7180,14 +7180,36 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 47,
+        "wins": 45,
         "losses": 0,
-        "totalTrades": 61,
+        "totalTrades": 62,
         "winRate": 1,
-        "volume": 31754.02466000012,
+        "volume": 31920.17195000012,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "BNP Paribas Nordic Open: Adrian Mannarino vs Alexander Shevchenko",
+          "side": "BUY",
+          "outcome": "Adrian Mannarino",
+          "price": 0.45,
+          "value": 789.3135,
+          "timestamp": 1794312508,
+          "slug": "atp-mannari-shevche-2026-11-10",
+          "event_slug": "atp-mannari-shevche-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Mobis Phoebus vs. Goyang",
+          "side": "SELL",
+          "outcome": "Goyang",
+          "price": 0.999,
+          "value": 816.183,
+          "timestamp": 1794312471,
+          "slug": "bkkbl-mob-goy-2026-11-10",
+          "event_slug": "bkkbl-mob-goy-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Mobis Phoebus vs. Goyang",
           "side": "BUY",
@@ -7715,28 +7737,6 @@
           "slug": "epl-ars-hul-2026-11-07-total-0pt5",
           "event_slug": "epl-ars-hul-2026-11-07-more-markets",
           "result": "win"
-        },
-        {
-          "title": "BV Borussia 09 Dortmund vs. SV 07 Elversberg: O/U 0.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 770.68854,
-          "timestamp": 1794066448,
-          "slug": "bun-dor-elv-2026-11-07-total-0pt5",
-          "event_slug": "bun-dor-elv-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "RB Leipzig vs. FC Augsburg: O/U 2.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 668.6606700000001,
-          "timestamp": 1794066150,
-          "slug": "bun-lei-aug-2026-11-07-total-2pt5",
-          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -8068,5 +8068,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T12:05:24.281Z"
+  "lastUpdate": "2026-11-10T12:14:22.603Z"
 }
