@@ -3816,10 +3816,76 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 179020.87810799427,
+        "volume": 141107.62557799323,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will annual inflation be 3.4% in October?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.047,
+          "timestamp": 1794305046,
+          "slug": "will-annual-inflation-be-3pt4-in-october-2026",
+          "event_slug": "october-inflation-us-annual",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will annual inflation be 3.8% in October?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.985,
+          "value": 46.295,
+          "timestamp": 1794304797,
+          "slug": "will-annual-inflation-be-3pt8-in-october-2026",
+          "event_slug": "october-inflation-us-annual",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will annual inflation be 3.5% in October?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 46.906,
+          "timestamp": 1794304797,
+          "slug": "will-annual-inflation-be-3pt5-in-october-2026",
+          "event_slug": "october-inflation-us-annual",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will annual inflation be 3.7% in October?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.099983617,
+          "value": 4.699229999,
+          "timestamp": 1794304797,
+          "slug": "will-annual-inflation-be-3pt7-in-october-2026",
+          "event_slug": "october-inflation-us-annual",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will annual inflation be 3.6% in October?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.949,
+          "value": 44.602999999999994,
+          "timestamp": 1794304797,
+          "slug": "will-annual-inflation-be-3pt6-in-october-2026",
+          "event_slug": "october-inflation-us-annual",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump and Putin meet next in China?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.91,
+          "value": 4.768400000000001,
+          "timestamp": 1794304672,
+          "slug": "will-trump-and-putin-meet-next-in-china-784",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
         {
           "title": "Will 1 Fed rate hike happen in 2026?",
           "side": "BUY",
@@ -4302,72 +4368,6 @@
           "timestamp": 1794301297,
           "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
           "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.82011032,
-          "value": 8201.1032,
-          "timestamp": 1794301284,
-          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 9960,
-          "timestamp": 1794301282,
-          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 9950,
-          "timestamp": 1794301282,
-          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 9940,
-          "timestamp": 1794301282,
-          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.7,
-          "value": 7,
-          "timestamp": 1794299143,
-          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
-          "event_slug": "2026-taiwanese-local-elections-party-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.004,
-          "value": 2.46796,
-          "timestamp": 1794297826,
-          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
-          "event_slug": "largest-company-end-of-december-2026",
           "result": "ongoing"
         }
       ]
@@ -6030,7 +6030,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 120,
+        "totalTrades": 119,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -8046,5 +8046,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T09:58:59.651Z"
+  "lastUpdate": "2026-11-10T10:07:55.366Z"
 }
