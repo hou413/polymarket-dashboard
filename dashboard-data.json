@@ -7180,14 +7180,36 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 49,
+        "wins": 47,
         "losses": 0,
-        "totalTrades": 60,
+        "totalTrades": 61,
         "winRate": 1,
-        "volume": 31344.704840000122,
+        "volume": 31754.02466000012,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Mobis Phoebus vs. Goyang",
+          "side": "BUY",
+          "outcome": "Goyang",
+          "price": 0.99,
+          "value": 760.4883,
+          "timestamp": 1794311542,
+          "slug": "bkkbl-mob-goy-2026-11-10",
+          "event_slug": "bkkbl-mob-goy-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Big Bash League, Women: Hobart Hurricanes vs Adelaide Strikers",
+          "side": "SELL",
+          "outcome": "Adelaide Strikers",
+          "price": 0.999,
+          "value": 802.67652,
+          "timestamp": 1794311526,
+          "slug": "cricwbbl-hoh-ads-2026-11-10",
+          "event_slug": "cricwbbl-hoh-ads-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Big Bash League, Women: Hobart Hurricanes vs Adelaide Strikers",
           "side": "BUY",
@@ -7715,28 +7737,6 @@
           "slug": "bun-lei-aug-2026-11-07-total-2pt5",
           "event_slug": "bun-lei-aug-2026-11-07-more-markets",
           "result": "win"
-        },
-        {
-          "title": "RB Leipzig vs. FC Augsburg: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.86,
-          "value": 575.6238000000001,
-          "timestamp": 1794063279,
-          "slug": "bun-lei-aug-2026-11-07-total-2pt5",
-          "event_slug": "bun-lei-aug-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Cagliari Calcio vs. Frosinone Calcio: O/U 0.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 578.2212,
-          "timestamp": 1794062554,
-          "slug": "sea-cag-fro-2026-11-07-total-0pt5",
-          "event_slug": "sea-cag-fro-2026-11-07-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -8068,5 +8068,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T11:47:20.153Z"
+  "lastUpdate": "2026-11-10T11:56:21.330Z"
 }
