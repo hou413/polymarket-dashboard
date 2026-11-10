@@ -3816,10 +3816,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 141107.62557799323,
+        "volume": 139690.33299799325,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will 2 Fed rate hikes happen in 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.89,
+          "value": 9.167000000000002,
+          "timestamp": 1794305968,
+          "slug": "will-2-fed-rate-hikes-happen-in-2026-20260623190852891",
+          "event_slug": "how-many-fed-rate-hikes-in-2026-20260623190717369",
+          "result": "ongoing"
+        },
         {
           "title": "Will annual inflation be 3.4% in October?",
           "side": "SELL",
@@ -4356,17 +4367,6 @@
           "value": 1429.32972,
           "timestamp": 1794301297,
           "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 1426.45958,
-          "timestamp": 1794301297,
-          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
           "event_slug": "fed-decision-in-december-20260729232808632",
           "result": "ongoing"
         }
@@ -8046,5 +8046,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T10:16:55.234Z"
+  "lastUpdate": "2026-11-10T10:25:50.628Z"
 }
