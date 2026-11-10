@@ -6951,7 +6951,7 @@
       "stats48h": {
         "wins": 45,
         "losses": 3,
-        "totalTrades": 60,
+        "totalTrades": 59,
         "winRate": 0.9375,
         "volume": 25718.247029984122,
         "pnl": 0
@@ -7514,11 +7514,11 @@
       "label": "fakeky",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 9,
+        "wins": 8,
         "losses": 12,
-        "totalTrades": 21,
-        "winRate": 0.42857142857142855,
-        "volume": 107567.46031024393,
+        "totalTrades": 20,
+        "winRate": 0.4,
+        "volume": 100667.46031024393,
         "pnl": 0
       },
       "recentTrades": [
@@ -7741,17 +7741,6 @@
           "slug": "sea-par-bol-2026-11-07-bol",
           "event_slug": "sea-par-bol-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Will Bologna FC 1909 win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.69,
-          "value": 6899.999999999999,
-          "timestamp": 1794073953,
-          "slug": "sea-par-bol-2026-11-07-bol",
-          "event_slug": "sea-par-bol-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -7826,5 +7815,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T17:45:02.603Z"
+  "lastUpdate": "2026-11-10T17:53:53.758Z"
 }
