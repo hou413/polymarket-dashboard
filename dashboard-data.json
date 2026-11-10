@@ -1256,10 +1256,10 @@
       "specialty": "MLB+UFC",
       "stats48h": {
         "wins": 2,
-        "losses": 7,
-        "totalTrades": 9,
-        "winRate": 0.2222222222222222,
-        "volume": 675.02,
+        "losses": 6,
+        "totalTrades": 8,
+        "winRate": 0.25,
+        "volume": 610.8407,
         "pnl": 0
       },
       "recentTrades": [
@@ -1348,17 +1348,6 @@
           "value": 60.1025,
           "timestamp": 1794092281,
           "slug": "lol-ig1-gen-2026-11-07-game2",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Invictus Gaming",
-          "price": 0.31,
-          "value": 64.1793,
-          "timestamp": 1794089812,
-          "slug": "lol-ig1-gen-2026-11-07-game1",
           "event_slug": "lol-ig1-gen-2026-11-07",
           "result": "loss"
         }
@@ -4245,11 +4234,11 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 2,
+        "wins": 1,
         "losses": 1,
-        "totalTrades": 4,
-        "winRate": 0.6666666666666666,
-        "volume": 50641.19166896722,
+        "totalTrades": 3,
+        "winRate": 0.5,
+        "volume": 35607.84516896722,
         "pnl": 0
       },
       "recentTrades": [
@@ -4282,17 +4271,6 @@
           "price": 0.999,
           "value": 17668.60371,
           "timestamp": 1794091407,
-          "slug": "ufc-wel-seo1-2026-11-07",
-          "event_slug": "ufc-wel-seo1-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
-          "side": "BUY",
-          "outcome": "Seokhyeon Ko",
-          "price": 0.85,
-          "value": 15033.3465,
-          "timestamp": 1794089553,
           "slug": "ufc-wel-seo1-2026-11-07",
           "event_slug": "ufc-wel-seo1-2026-11-07",
           "result": "win"
@@ -6089,7 +6067,7 @@
       "stats48h": {
         "wins": 31,
         "losses": 19,
-        "totalTrades": 167,
+        "totalTrades": 166,
         "winRate": 0.62,
         "volume": 28368.646700429897,
         "pnl": 0
@@ -7507,5 +7485,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T22:12:42.429Z"
+  "lastUpdate": "2026-11-10T22:21:17.077Z"
 }
