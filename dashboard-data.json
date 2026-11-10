@@ -3849,10 +3849,43 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 43028.54000989678,
+        "volume": 42858.582309896774,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.66,
+          "value": 16.5,
+          "timestamp": 1794313062,
+          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
+          "event_slug": "2026-taiwanese-local-elections-party-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.66,
+          "value": 6.6000000000000005,
+          "timestamp": 1794313032,
+          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
+          "event_slug": "2026-taiwanese-local-elections-party-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.66,
+          "value": 3.3000000000000003,
+          "timestamp": 1794313012,
+          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
+          "event_slug": "2026-taiwanese-local-elections-party-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Mlada Boleslav vs. Vysocina Jihlava end in a draw?",
           "side": "BUY",
@@ -4367,39 +4400,6 @@
           "value": 3550.28,
           "timestamp": 1794302628,
           "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.004,
-          "value": 51.263,
-          "timestamp": 1794302598,
-          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.005,
-          "value": 63.6687,
-          "timestamp": 1794302598,
-          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.993,
-          "value": 81.426,
-          "timestamp": 1794302577,
-          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
           "event_slug": "fed-decision-in-december-20260729232808632",
           "result": "ongoing"
         }
@@ -8068,5 +8068,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T12:14:22.603Z"
+  "lastUpdate": "2026-11-10T12:23:26.517Z"
 }
