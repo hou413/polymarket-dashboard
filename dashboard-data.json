@@ -2600,12 +2600,34 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 5,
+        "totalTrades": 7,
         "winRate": 0,
-        "volume": 6335.15185,
+        "volume": 6875.15185,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Marjorie Taylor Greene win the 2028 Republican presidential nomination?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.006,
+          "value": 120,
+          "timestamp": 1794308989,
+          "slug": "will-marjorie-taylor-greene-win-the-2028-republican-presidential-nomination",
+          "event_slug": "republican-presidential-nominee-2028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Thomas Massie win the 2028 Republican presidential nomination?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.028,
+          "value": 420,
+          "timestamp": 1794308944,
+          "slug": "will-thomas-massie-win-the-2028-republican-presidential-nomination",
+          "event_slug": "republican-presidential-nominee-2028",
+          "result": "ongoing"
+        },
         {
           "title": "Will Joe Kent win the 2028 Republican presidential nomination?",
           "side": "BUY",
@@ -3249,7 +3271,7 @@
       "stats48h": {
         "wins": 35,
         "losses": 15,
-        "totalTrades": 65,
+        "totalTrades": 63,
         "winRate": 0.7,
         "volume": 708362.8045800534,
         "pnl": 0
@@ -3816,10 +3838,54 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 133576.13703797152,
+        "volume": 133559.5235979715,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.013000000000000001,
+          "timestamp": 1794309214,
+          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Microsoft be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.012,
+          "value": 1.36056,
+          "timestamp": 1794309121,
+          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.996,
+          "value": 12.948,
+          "timestamp": 1794309055,
+          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Microsoft be the largest company in the world by market cap on December 31?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.994,
+          "value": 12.922,
+          "timestamp": 1794309055,
+          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Anthropic have the highest IPO Market Cap 2026?",
           "side": "SELL",
@@ -4323,50 +4389,6 @@
           "value": 10.978,
           "timestamp": 1794302125,
           "slug": "untitled-market-1-20260626185501036",
-          "event_slug": "discord-ipo-closing-market-cap-20260626185933220",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Discord’s market cap be between $14B and $17B at market close on IPO day by",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 10.967,
-          "timestamp": 1794302125,
-          "slug": "will-discords-market-cap-be-25b-or-greater-at-market-close-on-ipo-day-by-december-31-2027-20260626185933225",
-          "event_slug": "discord-ipo-closing-market-cap-20260626185933220",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Discord’s market cap be $20B or greater at market close on IPO day by Decem",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 10.956,
-          "timestamp": 1794302125,
-          "slug": "will-discords-market-cap-be-20b-or-greater-at-market-close-on-ipo-day-by-december-31-2027-20260626210212285",
-          "event_slug": "discord-ipo-closing-market-cap-20260626185933220",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Discord’s market cap be between $5B and $8B at market close on IPO day by D",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 10.967,
-          "timestamp": 1794302125,
-          "slug": "will-discords-market-cap-be-between-10b-and-15b-at-market-close-on-ipo-day-by-december-31-2027-20260626185933222",
-          "event_slug": "discord-ipo-closing-market-cap-20260626185933220",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Discord’s market cap be between $11B and $14B at market close on IPO day by",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 10.967,
-          "timestamp": 1794302125,
-          "slug": "will-discords-market-cap-be-between-20b-and-25b-at-market-close-on-ipo-day-by-december-31-2027-20260626185933224",
           "event_slug": "discord-ipo-closing-market-cap-20260626185933220",
           "result": "ongoing"
         }
@@ -8035,5 +8057,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T11:11:25.001Z"
+  "lastUpdate": "2026-11-10T11:20:26.191Z"
 }
