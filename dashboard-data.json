@@ -5836,7 +5836,7 @@
       "stats48h": {
         "wins": 31,
         "losses": 19,
-        "totalTrades": 154,
+        "totalTrades": 151,
         "winRate": 0.62,
         "volume": 28368.646700429897,
         "pnl": 0
@@ -6964,295 +6964,29 @@
       "label": "fakeky",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 7,
-        "losses": 12,
-        "totalTrades": 19,
-        "winRate": 0.3684210526315789,
-        "volume": 81123.99334024393,
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "Will Aston Villa FC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.84,
-          "value": 5880,
-          "timestamp": 1794160308,
-          "slug": "epl-mun-ast-2026-11-08-ast",
-          "event_slug": "epl-mun-ast-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Will Aston Villa FC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.84,
-          "value": 7241.219999999999,
-          "timestamp": 1794160273,
-          "slug": "epl-mun-ast-2026-11-08-ast",
-          "event_slug": "epl-mun-ast-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Will Aston Villa FC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.839979195,
-          "value": 6496.172299747349,
-          "timestamp": 1794160257,
-          "slug": "epl-mun-ast-2026-11-08-ast",
-          "event_slug": "epl-mun-ast-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Will Aston Villa FC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.84,
-          "value": 6496.333199999999,
-          "timestamp": 1794160251,
-          "slug": "epl-mun-ast-2026-11-08-ast",
-          "event_slug": "epl-mun-ast-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Hamarkameratene vs. Sarpsborg 08 FF: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.93,
-          "value": 2161.506,
-          "timestamp": 1794158808,
-          "slug": "nor-ham-sar-2026-11-08-total-2pt5",
-          "event_slug": "nor-ham-sar-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Hamarkameratene vs. Sarpsborg 08 FF: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.93,
-          "value": 2040.2340000000004,
-          "timestamp": 1794158791,
-          "slug": "nor-ham-sar-2026-11-08-total-2pt5",
-          "event_slug": "nor-ham-sar-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Hamarkameratene vs. Sarpsborg 08 FF: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.93,
-          "value": 4881.4677,
-          "timestamp": 1794158770,
-          "slug": "nor-ham-sar-2026-11-08-total-2pt5",
-          "event_slug": "nor-ham-sar-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Hamarkameratene vs. Sarpsborg 08 FF: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.91,
-          "value": 5.0323,
-          "timestamp": 1794158668,
-          "slug": "nor-ham-sar-2026-11-08-total-2pt5",
-          "event_slug": "nor-ham-sar-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Hamarkameratene vs. Sarpsborg 08 FF: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.91,
-          "value": 3692.3796,
-          "timestamp": 1794158655,
-          "slug": "nor-ham-sar-2026-11-08-total-2pt5",
-          "event_slug": "nor-ham-sar-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "AIK vs. BK Hacken: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.54,
-          "value": 2174.0346,
-          "timestamp": 1794156444,
-          "slug": "swe-aik-hac-2026-11-08-total-4pt5",
-          "event_slug": "swe-aik-hac-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "AIK vs. BK Hacken: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.8697835391,
-          "value": 7125.475500356583,
-          "timestamp": 1794155226,
-          "slug": "swe-aik-hac-2026-11-08-total-4pt5",
-          "event_slug": "swe-aik-hac-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "AIK vs. BK Hacken: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.86,
-          "value": 153.51,
-          "timestamp": 1794155220,
-          "slug": "swe-aik-hac-2026-11-08-total-4pt5",
-          "event_slug": "swe-aik-hac-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Crystal Palace FC vs. Liverpool FC: O/U 4.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.999,
-          "value": 7795.197,
-          "timestamp": 1794153381,
-          "slug": "epl-cry-liv-2026-11-08-total-4pt5",
-          "event_slug": "epl-cry-liv-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Crystal Palace FC vs. Liverpool FC: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.88,
-          "value": 4224,
-          "timestamp": 1794150171,
-          "slug": "epl-cry-liv-2026-11-08-total-4pt5",
-          "event_slug": "epl-cry-liv-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Halmstads BK vs. Djurgardens IF: O/U 4.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.999,
-          "value": 8109.442440000001,
-          "timestamp": 1794149658,
-          "slug": "swe-hal-dju-2026-11-08-total-4pt5",
-          "event_slug": "swe-hal-dju-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Halmstads BK vs. Djurgardens IF: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.88,
-          "value": 4059.5632000000005,
-          "timestamp": 1794145092,
-          "slug": "swe-hal-dju-2026-11-08-total-4pt5",
-          "event_slug": "swe-hal-dju-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Halmstads BK vs. Djurgardens IF: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.88,
-          "value": 3083.8896,
-          "timestamp": 1794145053,
-          "slug": "swe-hal-dju-2026-11-08-total-4pt5",
-          "event_slug": "swe-hal-dju-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "SSC Napoli vs. SS Lazio: O/U 3.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.999,
-          "value": 3396.6,
-          "timestamp": 1794144945,
-          "slug": "sea-nap-laz-2026-11-08-total-3pt5",
-          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "SSC Napoli vs. SS Lazio: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.6199811471,
-          "value": 2107.93590014,
-          "timestamp": 1794139657,
-          "slug": "sea-nap-laz-2026-11-08-total-3pt5",
-          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
-          "result": "win"
-        }
-      ]
+      "recentTrades": []
     },
     {
       "address": "0x3449d89efe38f2d7e3e5d6460898fd089dcdb252",
       "label": "wefwfwejkmld",
       "specialty": "J1+综合",
       "stats48h": {
-        "wins": 3,
-        "losses": 2,
-        "totalTrades": 5,
-        "winRate": 0.6,
-        "volume": 1522.4248000010375,
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "KHL: Neftekhimik Nizhnekamsk vs. Salavat Yulaev Ufa",
-          "side": "BUY",
-          "outcome": "Neftekhimik Nizhnekamsk",
-          "price": 0.49,
-          "value": 34.2951,
-          "timestamp": 1794328051,
-          "slug": "khl-nef-sal-2026-11-10",
-          "event_slug": "khl-nef-sal-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "KHL: SKA St. Petersburg vs. Spartak Moscow",
-          "side": "BUY",
-          "outcome": "SKA St. Petersburg",
-          "price": 0.5,
-          "value": 153.845,
-          "timestamp": 1794241614,
-          "slug": "khl-ska-spa-2026-11-09",
-          "event_slug": "khl-ska-spa-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Racing Club de Lens vs. Olympique de Marseille: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.45,
-          "value": 600.8895,
-          "timestamp": 1794167676,
-          "slug": "fl1-rcl-olm-2026-11-08-total-3pt5",
-          "event_slug": "fl1-rcl-olm-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Bitcoin Up or Down - November 8, 2:45PM-2:50PM ET",
-          "side": "BUY",
-          "outcome": "Down",
-          "price": 0.2099999996,
-          "value": 99.9999999795238,
-          "timestamp": 1794167212,
-          "slug": "btc-updown-5m-1794167100",
-          "event_slug": "btc-updown-5m-1794167100",
-          "result": "loss"
-        },
-        {
-          "title": "FC Utrecht vs. NEC: 1st Half O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.6328066898,
-          "value": 633.3952000215139,
-          "timestamp": 1794164977,
-          "slug": "ere-utr-nec-2026-11-08-first-half-total-1pt5",
-          "event_slug": "ere-utr-nec-2026-11-08-more-markets",
-          "result": "loss"
-        }
-      ]
+      "recentTrades": []
     }
   ],
-  "lastUpdate": "2026-11-10T23:39:25.466Z"
+  "lastUpdate": "2026-11-10T23:48:17.003Z"
 }
