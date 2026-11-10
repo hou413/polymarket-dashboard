@@ -951,11 +951,11 @@
       "label": "chubbytoro",
       "specialty": "综合",
       "stats48h": {
-        "wins": 5,
+        "wins": 3,
         "losses": 8,
-        "totalTrades": 25,
-        "winRate": 0.38461538461538464,
-        "volume": 57793.30639992336,
+        "totalTrades": 23,
+        "winRate": 0.2727272727272727,
+        "volume": 29591.68999992336,
         "pnl": 0
       },
       "recentTrades": [
@@ -1210,28 +1210,6 @@
           "timestamp": 1794093963,
           "slug": "cfl-edm-bc-2026-11-07",
           "event_slug": "cfl-edm-bc-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Lightning vs. Wild",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.57,
-          "value": 11101.616399999999,
-          "timestamp": 1794091567,
-          "slug": "nhl-tb-min-2026-11-07",
-          "event_slug": "nhl-tb-min-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Lightning vs. Wild",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.57,
-          "value": 17100,
-          "timestamp": 1794091567,
-          "slug": "nhl-tb-min-2026-11-07",
-          "event_slug": "nhl-tb-min-2026-11-07",
           "result": "win"
         }
       ]
@@ -7364,5 +7342,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T22:46:56.129Z"
+  "lastUpdate": "2026-11-10T22:55:25.179Z"
 }
