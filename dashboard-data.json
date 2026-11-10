@@ -3249,7 +3249,7 @@
       "stats48h": {
         "wins": 35,
         "losses": 15,
-        "totalTrades": 62,
+        "totalTrades": 61,
         "winRate": 0.7,
         "volume": 708362.8045800534,
         "pnl": 0
@@ -3816,10 +3816,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 27756.120639991175,
+        "volume": 27675.952239991173,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the Republican Party candidate win the 2026 Florida Senate election by 3%-6",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.005,
+          "value": 1.7316,
+          "timestamp": 1794317469,
+          "slug": "will-the-republican-party-candidate-win-the-2026-florida-senate-election-by-3-6",
+          "event_slug": "florida-senate-margin-of-victory-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will the Republican Party candidate win the 2026 Florida Senate election by 3%-6",
           "side": "SELL",
@@ -4356,17 +4367,6 @@
           "value": 7.69976,
           "timestamp": 1794302968,
           "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.91,
-          "value": 81.9,
-          "timestamp": 1794302806,
-          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
           "event_slug": "fed-decision-in-december-20260729232808632",
           "result": "ongoing"
         }
@@ -6008,7 +6008,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 103,
+        "totalTrades": 102,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -8013,5 +8013,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T13:28:45.964Z"
+  "lastUpdate": "2026-11-10T13:38:13.350Z"
 }
