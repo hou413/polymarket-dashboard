@@ -3783,10 +3783,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2405.545499984571,
+        "volume": 2277.0893299841714,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.022,
+          "timestamp": 1794321199,
+          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Ahmed al-Sharaa be the next leader out before 2027?",
           "side": "SELL",
@@ -4325,17 +4336,6 @@
           "slug": "will-anthropic-raise-between-65b-and-75b-in-its-ipo",
           "event_slug": "how-much-will-anthropic-raise-in-its-ipo",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic raise between $85B and $95B in its IPO?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9733194697,
-          "value": 128.4781700004,
-          "timestamp": 1794307816,
-          "slug": "will-anthropic-raise-between-85b-and-95b-in-its-ipo",
-          "event_slug": "how-much-will-anthropic-raise-in-its-ipo",
-          "result": "ongoing"
         }
       ]
     },
@@ -4344,11 +4344,11 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 14,
+        "wins": 13,
         "losses": 2,
-        "totalTrades": 19,
-        "winRate": 0.875,
-        "volume": 128899.22267482778,
+        "totalTrades": 18,
+        "winRate": 0.8666666666666667,
+        "volume": 126715.56427482778,
         "pnl": 0
       },
       "recentTrades": [
@@ -4549,17 +4549,6 @@
           "slug": "",
           "event_slug": "",
           "result": "ongoing"
-        },
-        {
-          "title": "Rolex Paris Masters: Luca Van Assche vs Ben Shelton",
-          "side": "SELL",
-          "outcome": "Ben Shelton",
-          "price": 0.44,
-          "value": 2183.6584,
-          "timestamp": 1794062314,
-          "slug": "atp-assche-shelton-2026-11-07",
-          "event_slug": "atp-assche-shelton-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -5964,7 +5953,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 93,
+        "totalTrades": 91,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -7094,7 +7083,7 @@
       "stats48h": {
         "wins": 44,
         "losses": 1,
-        "totalTrades": 61,
+        "totalTrades": 60,
         "winRate": 0.9777777777777777,
         "volume": 28812.798429984123,
         "pnl": 0
@@ -7969,5 +7958,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T14:34:50.442Z"
+  "lastUpdate": "2026-11-10T14:43:49.983Z"
 }
