@@ -951,11 +951,11 @@
       "label": "chubbytoro",
       "specialty": "综合",
       "stats48h": {
-        "wins": 20,
-        "losses": 18,
-        "totalTrades": 38,
-        "winRate": 0.5263157894736842,
-        "volume": 79031.58090000002,
+        "wins": 19,
+        "losses": 15,
+        "totalTrades": 34,
+        "winRate": 0.5588235294117647,
+        "volume": 67328.1435,
         "pnl": 0
       },
       "recentTrades": [
@@ -1332,50 +1332,6 @@
           "slug": "nhl-pit-lak-2026-11-07",
           "event_slug": "nhl-pit-lak-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Spread: Rangers (-1.5)",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.33,
-          "value": 2239.1952,
-          "timestamp": 1794043659,
-          "slug": "nhl-nyr-sea-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-nyr-sea-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Rangers vs. Kraken",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.55,
-          "value": 5487.856000000001,
-          "timestamp": 1794043581,
-          "slug": "nhl-nyr-sea-2026-11-07",
-          "event_slug": "nhl-nyr-sea-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Lightning (-1.5)",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.34,
-          "value": 697.6664000000001,
-          "timestamp": 1794043324,
-          "slug": "nhl-tb-min-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-tb-min-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Avalanche (-1.5)",
-          "side": "BUY",
-          "outcome": "Red Wings",
-          "price": 0.57,
-          "value": 3278.7198,
-          "timestamp": 1794043246,
-          "slug": "nhl-det-col-2026-11-07-spread-home-1pt5",
-          "event_slug": "nhl-det-col-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -3860,10 +3816,230 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 48820.05036003561,
+        "volume": 154381.45065800552,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.91,
+          "value": 81.9,
+          "timestamp": 1794302806,
+          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.996,
+          "value": 89.64,
+          "timestamp": 1794302805,
+          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.98,
+          "value": 88.2,
+          "timestamp": 1794302805,
+          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 89.55,
+          "timestamp": 1794302805,
+          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.996,
+          "value": 3843.564,
+          "timestamp": 1794302628,
+          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 3839.705,
+          "timestamp": 1794302628,
+          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9908581964,
+          "value": 3823.7217799075997,
+          "timestamp": 1794302628,
+          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.92,
+          "value": 3550.28,
+          "timestamp": 1794302628,
+          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 51.263,
+          "timestamp": 1794302598,
+          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.005,
+          "value": 63.6687,
+          "timestamp": 1794302598,
+          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.993,
+          "value": 81.426,
+          "timestamp": 1794302577,
+          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.91,
+          "value": 74.62,
+          "timestamp": 1794302577,
+          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 81.59,
+          "timestamp": 1794302577,
+          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.91,
+          "value": 932.75,
+          "timestamp": 1794302530,
+          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9948675004,
+          "value": 12749.963219576297,
+          "timestamp": 1794302461,
+          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9860001047,
+          "value": 18640.3319793535,
+          "timestamp": 1794302461,
+          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8962081195,
+          "value": 16942.814499147502,
+          "timestamp": 1794302460,
+          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 18810.475,
+          "timestamp": 1794302460,
+          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9,
+          "value": 3851.1,
+          "timestamp": 1794302460,
+          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.996,
+          "value": 18829.38,
+          "timestamp": 1794302460,
+          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+          "event_slug": "fed-decision-in-december-20260729232808632",
+          "result": "ongoing"
+        },
         {
           "title": "Will Discord’s market cap be less than $5B at market close on IPO day by Decembe",
           "side": "BUY",
@@ -4192,226 +4368,6 @@
           "timestamp": 1794294450,
           "slug": "will-annual-inflation-be-3pt8-in-october-2026",
           "event_slug": "october-inflation-us-annual",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will annual inflation be 3.6% in October?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.948,
-          "value": 25.596,
-          "timestamp": 1794294450,
-          "slug": "will-annual-inflation-be-3pt6-in-october-2026",
-          "event_slug": "october-inflation-us-annual",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will annual inflation be 3.5% in October?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 26.946,
-          "timestamp": 1794294450,
-          "slug": "will-annual-inflation-be-3pt5-in-october-2026",
-          "event_slug": "october-inflation-us-annual",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will annual inflation be 3.2% or less in October?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.992,
-          "value": 26.784,
-          "timestamp": 1794294450,
-          "slug": "will-annual-inflation-be-3pt2-or-less-in-october-2026",
-          "event_slug": "october-inflation-us-annual",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Jared Goff win the 2026 NFL MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.011,
-          "value": 1.287,
-          "timestamp": 1794293719,
-          "slug": "will-jared-goff-win-the-2026-nfl-mvp",
-          "event_slug": "pro-football-2026-mvp-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Dune: Messiah have the 2nd best domestic opening weekend in 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.03429,
-          "timestamp": 1794292899,
-          "slug": "will-dune-messiah-have-the-2nd-best-domestic-opening-weekend-in-2026-20260722231944212",
-          "event_slug": "which-movie-has-2nd-biggest-opening-weekend-in-2026-20260722231944202",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 1.02299,
-          "timestamp": 1794287205,
-          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9958565025,
-          "value": 404.317740015,
-          "timestamp": 1794286977,
-          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Microsoft be the largest company in the world by market cap on December 31?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.984,
-          "value": 399.504,
-          "timestamp": 1794286977,
-          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.66,
-          "value": 19.8,
-          "timestamp": 1794283447,
-          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
-          "event_slug": "2026-taiwanese-local-elections-party-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Trump and Putin meet next in China?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.89,
-          "value": 8.3927,
-          "timestamp": 1794282520,
-          "slug": "will-trump-and-putin-meet-next-in-china-784",
-          "event_slug": "where-will-trump-and-putin-meet-next-678",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will NVIDIA be the largest company in the world by market cap on November 30, 20",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.12,
-          "value": 6,
-          "timestamp": 1794280692,
-          "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
-          "event_slug": "largest-company-end-of-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will NVIDIA be the largest company in the world by market cap on November 30, 20",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.12,
-          "value": 6,
-          "timestamp": 1794280674,
-          "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
-          "event_slug": "largest-company-end-of-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Xun win Worlds 2026 Finals MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.058,
-          "value": 2.34726,
-          "timestamp": 1794280006,
-          "slug": "will-xun-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will annual inflation be 3.5% in October?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.454,
-          "timestamp": 1794279496,
-          "slug": "will-annual-inflation-be-3pt5-in-october-2026",
-          "event_slug": "october-inflation-us-annual",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will annual inflation be 3.6% in October?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.985,
-          "value": 8.55965,
-          "timestamp": 1794279325,
-          "slug": "will-annual-inflation-be-3pt6-in-october-2026",
-          "event_slug": "october-inflation-us-annual",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will annual inflation be 3.2% or less in October?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 8.68131,
-          "timestamp": 1794279325,
-          "slug": "will-annual-inflation-be-3pt2-or-less-in-october-2026",
-          "event_slug": "october-inflation-us-annual",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will annual inflation be 3.5% in October?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 8.68131,
-          "timestamp": 1794279325,
-          "slug": "will-annual-inflation-be-3pt5-in-october-2026",
-          "event_slug": "october-inflation-us-annual",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Yair Golan be the next Prime Minister of Israel?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.046630000000000005,
-          "timestamp": 1794279021,
-          "slug": "will-yair-golan-be-the-next-prime-minister-of-israel",
-          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Benny Gantz be the next Prime Minister of Israel?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.044,
-          "timestamp": 1794278911,
-          "slug": "will-benny-gantz-be-the-next-prime-minister-of-israel",
-          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Yair Lapid be the next Prime Minister of Israel?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.044,
-          "timestamp": 1794278740,
-          "slug": "will-yair-lapid-be-the-next-prime-minister-of-israel",
-          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
           "result": "ongoing"
         }
       ]
@@ -6074,7 +6030,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 122,
+        "totalTrades": 120,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -8090,5 +8046,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T09:23:01.119Z"
+  "lastUpdate": "2026-11-10T09:31:57.801Z"
 }
