@@ -951,14 +951,47 @@
       "label": "chubbytoro",
       "specialty": "综合",
       "stats48h": {
-        "wins": 16,
-        "losses": 14,
-        "totalTrades": 32,
-        "winRate": 0.5333333333333333,
-        "volume": 66567.86509992335,
+        "wins": 15,
+        "losses": 13,
+        "totalTrades": 33,
+        "winRate": 0.5357142857142857,
+        "volume": 73906.22729992335,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Avalanche (-1.5)",
+          "side": "BUY",
+          "outcome": "Avalanche",
+          "price": 0.39,
+          "value": 4.68,
+          "timestamp": 1794325773,
+          "slug": "nhl-col-tor-2026-11-10-spread-away-1pt5",
+          "event_slug": "nhl-col-tor-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Avalanche vs. Maple Leafs",
+          "side": "BUY",
+          "outcome": "Avalanche",
+          "price": 0.61,
+          "value": 7721.5447,
+          "timestamp": 1794325701,
+          "slug": "nhl-col-tor-2026-11-10",
+          "event_slug": "nhl-col-tor-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Avalanche vs. Maple Leafs",
+          "side": "BUY",
+          "outcome": "Avalanche",
+          "price": 0.6,
+          "value": 1016.8739999999999,
+          "timestamp": 1794324624,
+          "slug": "nhl-col-tor-2026-11-10",
+          "event_slug": "nhl-col-tor-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Capitals vs. Senators: O/U 6.5",
           "side": "BUY",
@@ -1288,28 +1321,6 @@
           "slug": "nhl-nyr-sea-2026-11-07-spread-away-1pt5",
           "event_slug": "nhl-nyr-sea-2026-11-07",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Lightning (-1.5)",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.35,
-          "value": 59.849999999999994,
-          "timestamp": 1794064464,
-          "slug": "nhl-tb-min-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-tb-min-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Lightning vs. Wild",
-          "side": "BUY",
-          "outcome": "Lightning",
-          "price": 0.57,
-          "value": 1344.8864999999998,
-          "timestamp": 1794064107,
-          "slug": "nhl-tb-min-2026-11-07",
-          "event_slug": "nhl-tb-min-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -1448,12 +1459,45 @@
       "stats48h": {
         "wins": 2,
         "losses": 15,
-        "totalTrades": 66,
+        "totalTrades": 69,
         "winRate": 0.11764705882352941,
-        "volume": 13536.407576041089,
+        "volume": 14168.507956041087,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.55,
+          "value": 27.5605,
+          "timestamp": 1794328090,
+          "slug": "will-wti-dip-to-80-in-november-2026",
+          "event_slug": "what-price-will-wti-hit-in-november-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "US announces end of Iranian blockade by November 15, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.054,
+          "value": 37.02618,
+          "timestamp": 1794326812,
+          "slug": "us-announces-end-of-iranian-blockade-by-november-15-2026",
+          "event_slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 30?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.15,
+          "value": 705.9615,
+          "timestamp": 1794323442,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-30",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
         {
           "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
           "side": "BUY",
@@ -1970,39 +2014,6 @@
           "slug": "will-wti-dip-to-85-in-november-2026",
           "event_slug": "what-price-will-wti-hit-in-november-2026",
           "result": "loss"
-        },
-        {
-          "title": "US x Iran Effective Ceasefire by November 22?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.47,
-          "value": 68.14999999999999,
-          "timestamp": 1794165699,
-          "slug": "us-x-iran-effective-ceasefire-by-november-22-20261108",
-          "event_slug": "us-x-iran-effective-ceasefire-begins-by-2-week-pause-20261108",
-          "result": "ongoing"
-        },
-        {
-          "title": "US x Iran Effective Ceasefire by November 22?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.46,
-          "value": 39.2978,
-          "timestamp": 1794165672,
-          "slug": "us-x-iran-effective-ceasefire-by-november-22-20261108",
-          "event_slug": "us-x-iran-effective-ceasefire-begins-by-2-week-pause-20261108",
-          "result": "ongoing"
-        },
-        {
-          "title": "US x Iran Effective Ceasefire by November 15?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.62,
-          "value": 31,
-          "timestamp": 1794165661,
-          "slug": "us-x-iran-effective-ceasefire-by-november-15-20261108",
-          "event_slug": "us-x-iran-effective-ceasefire-begins-by-2-week-pause-20261108",
-          "result": "ongoing"
         }
       ]
     },
@@ -2578,12 +2589,23 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 4,
+        "totalTrades": 5,
         "winRate": 0,
-        "volume": 2860.31327,
+        "volume": 2980.31327,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Marjorie Taylor Greene win the 2028 Republican presidential nomination?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.006,
+          "value": 120,
+          "timestamp": 1794323332,
+          "slug": "will-marjorie-taylor-greene-win-the-2028-republican-presidential-nomination",
+          "event_slug": "republican-presidential-nominee-2028",
+          "result": "ongoing"
+        },
         {
           "title": "Will Marjorie Taylor Greene win the 2028 Republican presidential nomination?",
           "side": "BUY",
@@ -3216,7 +3238,7 @@
       "stats48h": {
         "wins": 35,
         "losses": 15,
-        "totalTrades": 60,
+        "totalTrades": 59,
         "winRate": 0.7,
         "volume": 708362.8045800534,
         "pnl": 0
@@ -3783,10 +3805,406 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2640.55605000197,
+        "volume": 4883.434650000258,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Malaysia win Eurovision Asia 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.59,
+          "value": 3.1683,
+          "timestamp": 1794326491,
+          "slug": "will-malaysia-win-eurovision-asia-2026",
+          "event_slug": "eurovision-asia-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Malaysia win Eurovision Asia 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.59,
+          "value": 3.0797999999999996,
+          "timestamp": 1794326475,
+          "slug": "will-malaysia-win-eurovision-asia-2026",
+          "event_slug": "eurovision-asia-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Malaysia win Eurovision Asia 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.59,
+          "value": 3.6933999999999996,
+          "timestamp": 1794326460,
+          "slug": "will-malaysia-win-eurovision-asia-2026",
+          "event_slug": "eurovision-asia-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Malaysia win Eurovision Asia 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.59,
+          "value": 4.430899999999999,
+          "timestamp": 1794326446,
+          "slug": "will-malaysia-win-eurovision-asia-2026",
+          "event_slug": "eurovision-asia-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Malaysia win Eurovision Asia 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.59,
+          "value": 5.3218,
+          "timestamp": 1794326424,
+          "slug": "will-malaysia-win-eurovision-asia-2026",
+          "event_slug": "eurovision-asia-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Malaysia win Eurovision Asia 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.59,
+          "value": 6.3838,
+          "timestamp": 1794326413,
+          "slug": "will-malaysia-win-eurovision-asia-2026",
+          "event_slug": "eurovision-asia-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 0.088,
+          "timestamp": 1794326053,
+          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Emil Forsberg win 2026 MLS Most Valuable Player?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.01384,
+          "timestamp": 1794325819,
+          "slug": "will-emil-forsberg-win-2026-mls-most-valuable-player-592",
+          "event_slug": "mls-2026-most-valuable-player",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Carles Gil win 2026 MLS Most Valuable Player?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.01384,
+          "timestamp": 1794325633,
+          "slug": "will-carles-gil-win-2026-mls-most-valuable-player-792",
+          "event_slug": "mls-2026-most-valuable-player",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gemini Carbon be released on November 20, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 21.978,
+          "timestamp": 1794325534,
+          "slug": "will-gemini-carbon-be-released-on-november-20-2026",
+          "event_slug": "gemini-carbon-released-onptptpt-20261028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gemini Carbon be released on November 18, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 1.65834,
+          "timestamp": 1794325534,
+          "slug": "will-gemini-carbon-be-released-on-november-18-2026",
+          "event_slug": "gemini-carbon-released-onptptpt-20261028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gemini Carbon be released on November 11, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.994,
+          "value": 21.868,
+          "timestamp": 1794325534,
+          "slug": "will-gemini-carbon-be-released-on-november-11-2026",
+          "event_slug": "gemini-carbon-released-onptptpt-20261028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gemini Carbon be released on November 19, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 0.50949,
+          "timestamp": 1794325534,
+          "slug": "will-gemini-carbon-be-released-on-november-19-2026",
+          "event_slug": "gemini-carbon-released-onptptpt-20261028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will there be no Gemini Carbon release by November 30, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 21.956,
+          "timestamp": 1794325534,
+          "slug": "will-there-be-no-gemini-carbon-release-by-november-30-2026",
+          "event_slug": "gemini-carbon-released-onptptpt-20261028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FK Austria Wien win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9046636364,
+          "value": 19.9026000008,
+          "timestamp": 1794325396,
+          "slug": "uwcl-slb-faw-2026-11-11-faw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.63,
+          "value": 13.86,
+          "timestamp": 1794325396,
+          "slug": "uwcl-slb-faw-2026-11-11-draw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gemini Carbon be released on November 13, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.017480000000000002,
+          "timestamp": 1794324828,
+          "slug": "will-gemini-carbon-be-released-on-november-13-2026",
+          "event_slug": "gemini-carbon-released-onptptpt-20261028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.34,
+          "value": 1700.0000000000002,
+          "timestamp": 1794324808,
+          "slug": "will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
+          "event_slug": "taipei-mayor-election-winner-20260813125857100",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.34,
+          "value": 1700.0000000000002,
+          "timestamp": 1794324807,
+          "slug": "will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
+          "event_slug": "taipei-mayor-election-winner-20260813125857100",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's IPO valuation be between $2.00T and $2.25T?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 5.593170000000001,
+          "timestamp": 1794324804,
+          "slug": "will-anthropics-ipo-valuation-be-between-2pt00t-and-2pt25t-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's IPO valuation be between $1.75T and $2.00T?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 5.593170000000001,
+          "timestamp": 1794324804,
+          "slug": "will-anthropics-ipo-valuation-be-between-1pt75t-and-2pt00t-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's IPO valuation be between $1.25T and $1.50T?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.223,
+          "value": 1.25103,
+          "timestamp": 1794324802,
+          "slug": "will-anthropics-ipo-valuation-be-between-1pt25t-and-1pt50t-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's IPO valuation be less than $1.25T?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.903,
+          "value": 5.06583,
+          "timestamp": 1794324802,
+          "slug": "will-anthropics-ipo-valuation-be-less-than-1pt25t-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's IPO valuation be $2.50T or more?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 5.5987800000000005,
+          "timestamp": 1794324802,
+          "slug": "will-anthropics-ipo-valuation-be-2pt50t-or-more-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gemini Carbon be released on November 24, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 5.45454,
+          "timestamp": 1794324679,
+          "slug": "will-gemini-carbon-be-released-on-november-24-2026",
+          "event_slug": "gemini-carbon-released-onptptpt-20261028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will there be no Gemini Carbon release by November 30, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 17.44504,
+          "timestamp": 1794324679,
+          "slug": "will-there-be-no-gemini-carbon-release-by-november-30-2026",
+          "event_slug": "gemini-carbon-released-onptptpt-20261028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gemini Carbon be released on November 17, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 17.44504,
+          "timestamp": 1794324679,
+          "slug": "will-gemini-carbon-be-released-on-november-17-2026",
+          "event_slug": "gemini-carbon-released-onptptpt-20261028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gemini Carbon be released on November 11, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9913478261,
+          "value": 17.328760000228,
+          "timestamp": 1794324678,
+          "slug": "will-gemini-carbon-be-released-on-november-11-2026",
+          "event_slug": "gemini-carbon-released-onptptpt-20261028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gemini Carbon be released on November 20, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 17.44504,
+          "timestamp": 1794324678,
+          "slug": "will-gemini-carbon-be-released-on-november-20-2026",
+          "event_slug": "gemini-carbon-released-onptptpt-20261028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Avengers: Doomsday be the top grossing movie of 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.104,
+          "value": 67.65928,
+          "timestamp": 1794323395,
+          "slug": "will-avengers-doomsday-be-the-top-grossing-movie-of-2026",
+          "event_slug": "highest-grossing-movie-in-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Exact Score: Sport Lisboa e Benfica 1 - 0 FK Austria Wien?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9294444444,
+          "value": 16.7299999992,
+          "timestamp": 1794323047,
+          "slug": "uwcl-slb-faw-2026-11-11-exact-score-1-0",
+          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
+          "result": "ongoing"
+        },
+        {
+          "title": "Exact Score: Sport Lisboa e Benfica 1 - 1 FK Austria Wien?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9094444444,
+          "value": 16.3699999992,
+          "timestamp": 1794323047,
+          "slug": "uwcl-slb-faw-2026-11-11-exact-score-1-1",
+          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
+          "result": "ongoing"
+        },
+        {
+          "title": "Exact Score: Sport Lisboa e Benfica 3 - 1 FK Austria Wien?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9595833333,
+          "value": 23.0299999992,
+          "timestamp": 1794323047,
+          "slug": "uwcl-slb-faw-2026-11-11-exact-score-3-1",
+          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
+          "result": "ongoing"
+        },
+        {
+          "title": "Exact Score: Sport Lisboa e Benfica 2 - 0 FK Austria Wien?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.92,
+          "value": 22.080000000000002,
+          "timestamp": 1794323047,
+          "slug": "uwcl-slb-faw-2026-11-11-exact-score-2-0",
+          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
+          "result": "ongoing"
+        },
+        {
+          "title": "Exact Score: Sport Lisboa e Benfica 3 - 0 FK Austria Wien?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9594444444,
+          "value": 17.2699999992,
+          "timestamp": 1794323047,
+          "slug": "uwcl-slb-faw-2026-11-11-exact-score-3-0",
+          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
+          "result": "ongoing"
+        },
+        {
+          "title": "Exact Score: Sport Lisboa e Benfica 2 - 2 FK Austria Wien?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9614546466,
+          "value": 17.277339999402,
+          "timestamp": 1794323047,
+          "slug": "uwcl-slb-faw-2026-11-11-exact-score-2-2",
+          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
+          "result": "ongoing"
+        },
         {
           "title": "Will Xi Jinping be the next leader out before 2027?",
           "side": "SELL",
@@ -3940,402 +4358,6 @@
           "slug": "will-sebastien-lecornu-be-the-next-leader-out-before-2027-20260630194627376",
           "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Donald Trump be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 117.32182,
-          "timestamp": 1794319968,
-          "slug": "will-donald-trump-be-the-next-leader-out-before-2027-20260630194627372",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Miguel Díaz-Canel be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9893408455,
-          "value": 116.771899994365,
-          "timestamp": 1794319968,
-          "slug": "will-miguel-diaz-canel-be-the-next-leader-out-before-2027-20260630194627382",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Mahmoud Abbas be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.99,
-          "value": 116.8497,
-          "timestamp": 1794319968,
-          "slug": "will-mahmoud-abbas-be-the-next-leader-out-before-2027-20260630194627378",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will no listed leader be out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.53,
-          "value": 62.5559,
-          "timestamp": 1794319968,
-          "slug": "will-no-listed-leader-be-out-before-2027-20260630194627385",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Vladimir Putin be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 117.55788,
-          "timestamp": 1794319968,
-          "slug": "will-vladimir-putin-be-the-next-leader-out-before-2027-20260630194627374",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kim Jong Un be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 117.55788,
-          "timestamp": 1794319968,
-          "slug": "will-kim-jong-un-be-the-next-leader-out-before-2027-20260630194627366",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Friedrich Merz be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 117.43985,
-          "timestamp": 1794319968,
-          "slug": "will-friedrich-merz-be-the-next-leader-out-before-2027-20260630194627379",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Pedro Sánchez be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.962,
-          "value": 113.54486,
-          "timestamp": 1794319968,
-          "slug": "will-pedro-sanchez-be-the-next-leader-out-before-2027-20260630194627380",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Jahmyr Gibbs win the 2026 NFL MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.13204,
-          "timestamp": 1794319548,
-          "slug": "will-jahmyr-gibbs-win-the-2026-nfl-mvp",
-          "event_slug": "pro-football-2026-mvp-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Republican Party candidate win the 2026 Florida Senate election by 3%-6",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.005,
-          "value": 1.7316,
-          "timestamp": 1794317469,
-          "slug": "will-the-republican-party-candidate-win-the-2026-florida-senate-election-by-3-6",
-          "event_slug": "florida-senate-margin-of-victory-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Republican Party candidate win the 2026 Florida Senate election by 3%-6",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.005,
-          "value": 0.0584,
-          "timestamp": 1794317091,
-          "slug": "will-the-republican-party-candidate-win-the-2026-florida-senate-election-by-3-6",
-          "event_slug": "florida-senate-margin-of-victory-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.66,
-          "value": 6.6000000000000005,
-          "timestamp": 1794316716,
-          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
-          "event_slug": "2026-taiwanese-local-elections-party-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be $2.50T or more?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 44.91,
-          "timestamp": 1794313261,
-          "slug": "will-anthropics-ipo-valuation-be-2pt50t-or-more-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be between $1.50T and $1.75T?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9627935556,
-          "value": 43.325710002,
-          "timestamp": 1794313261,
-          "slug": "will-anthropics-ipo-valuation-be-between-1pt50t-and-1pt75t-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be between $2.00T and $2.25T?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 44.865,
-          "timestamp": 1794313261,
-          "slug": "will-anthropics-ipo-valuation-be-between-2pt00t-and-2pt25t-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be between $1.75T and $2.00T?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 44.865,
-          "timestamp": 1794313261,
-          "slug": "will-anthropics-ipo-valuation-be-between-1pt75t-and-2pt00t-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be less than $1.25T?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.835,
-          "value": 37.574999999999996,
-          "timestamp": 1794313261,
-          "slug": "will-anthropics-ipo-valuation-be-less-than-1pt25t-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.66,
-          "value": 16.5,
-          "timestamp": 1794313062,
-          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
-          "event_slug": "2026-taiwanese-local-elections-party-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.66,
-          "value": 6.6000000000000005,
-          "timestamp": 1794313032,
-          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
-          "event_slug": "2026-taiwanese-local-elections-party-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.66,
-          "value": 3.3000000000000003,
-          "timestamp": 1794313012,
-          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
-          "event_slug": "2026-taiwanese-local-elections-party-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Mlada Boleslav vs. Vysocina Jihlava end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.02,
-          "value": 0.2,
-          "timestamp": 1794312130,
-          "slug": "clf-mbl-jih-2026-11-13-draw",
-          "event_slug": "clf-mbl-jih-2026-11-13",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will John Barrasso be the next US Senate Minority Leader?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 24.925,
-          "timestamp": 1794312058,
-          "slug": "will-john-barrasso-be-the-next-us-senate-minority-leader",
-          "event_slug": "next-us-senate-minority-leader",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Rick Scott be the next US Senate Minority Leader?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.981,
-          "value": 24.525,
-          "timestamp": 1794312058,
-          "slug": "will-rick-scott-be-the-next-us-senate-minority-leader",
-          "event_slug": "next-us-senate-minority-leader",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Tom Cotton be the next US Senate Minority Leader?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.946,
-          "value": 23.65,
-          "timestamp": 1794312057,
-          "slug": "will-tom-cotton-be-the-next-us-senate-minority-leader",
-          "event_slug": "next-us-senate-minority-leader",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Mlada Boleslav vs. Vysocina Jihlava end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.0199339512,
-          "value": 1.3551100025760001,
-          "timestamp": 1794311862,
-          "slug": "clf-mbl-jih-2026-11-13-draw",
-          "event_slug": "clf-mbl-jih-2026-11-13",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic raise between $85B and $95B in its IPO?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.978,
-          "value": 58.68,
-          "timestamp": 1794310537,
-          "slug": "will-anthropic-raise-between-85b-and-95b-in-its-ipo",
-          "event_slug": "how-much-will-anthropic-raise-in-its-ipo",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic raise between $95B and $105B in its IPO?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 59.7,
-          "timestamp": 1794310536,
-          "slug": "will-anthropic-raise-between-95b-and-105b-in-its-ipo",
-          "event_slug": "how-much-will-anthropic-raise-in-its-ipo",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic raise between $75B and $85B in its IPO?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.964,
-          "value": 57.839999999999996,
-          "timestamp": 1794310536,
-          "slug": "will-anthropic-raise-between-75b-and-85b-in-its-ipo",
-          "event_slug": "how-much-will-anthropic-raise-in-its-ipo",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.35,
-          "value": 142.1,
-          "timestamp": 1794310398,
-          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
-          "event_slug": "2026-taiwanese-local-elections-party-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Moshe Feiglin be the next Prime Minister of Israel?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.044,
-          "timestamp": 1794309681,
-          "slug": "will-moshe-feiglin-be-the-next-prime-minister-of-israel",
-          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.013000000000000001,
-          "timestamp": 1794309214,
-          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Microsoft be the largest company in the world by market cap on December 31?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.012,
-          "value": 1.36056,
-          "timestamp": 1794309121,
-          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 12.948,
-          "timestamp": 1794309055,
-          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Microsoft be the largest company in the world by market cap on December 31?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 12.922,
-          "timestamp": 1794309055,
-          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic have the highest IPO Market Cap 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.08,
-          "value": 9.1968,
-          "timestamp": 1794308845,
-          "slug": "will-anthropic-have-the-highest-ipo-market-cap-2026-673",
-          "event_slug": "largest-ipo-by-market-cap-in-2026-287",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Johnny Chiang win the next Taichung Mayor election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.22,
-          "value": 4.18,
-          "timestamp": 1794308736,
-          "slug": "will-johnny-chiang-win-the-next-taichung-mayor-election-20260813125857401",
-          "event_slug": "taichung-mayor-election-winner-20260813125857400",
-          "result": "ongoing"
         }
       ]
     },
@@ -4344,11 +4366,11 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 13,
+        "wins": 11,
         "losses": 2,
-        "totalTrades": 18,
-        "winRate": 0.8666666666666667,
-        "volume": 126715.56427482778,
+        "totalTrades": 15,
+        "winRate": 0.8461538461538461,
+        "volume": 112406.83664447573,
         "pnl": 0
       },
       "recentTrades": [
@@ -4513,39 +4535,6 @@
           "price": 0.4132217657,
           "value": 6263.803375508509,
           "timestamp": 1794070615,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FC Bayern München win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.73,
-          "value": 1000.3044,
-          "timestamp": 1794064348,
-          "slug": "bun-mai-bay-2026-11-07-bay",
-          "event_slug": "bun-mai-bay-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Will FC Bayern München win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.74,
-          "value": 7902.3268,
-          "timestamp": 1794064303,
-          "slug": "bun-mai-bay-2026-11-07-bay",
-          "event_slug": "bun-mai-bay-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Florida State vs. Boston College AND Rolex Paris Masters: Casper Ruud vs Carlos ",
-          "side": "BUY",
-          "outcome": "",
-          "price": 0.3566390224,
-          "value": 5406.096430352061,
-          "timestamp": 1794063760,
           "slug": "",
           "event_slug": "",
           "result": "ongoing"
@@ -5953,7 +5942,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 91,
+        "totalTrades": 89,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -7081,14 +7070,47 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 42,
+        "wins": 39,
         "losses": 1,
         "totalTrades": 61,
-        "winRate": 0.9767441860465116,
-        "volume": 27963.666129984125,
+        "winRate": 0.975,
+        "volume": 25649.381749984124,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "BNP Paribas Nordic Open: Arthur Rinderknech vs Miomir Kecmanovic",
+          "side": "BUY",
+          "outcome": "Arthur Rinderknech",
+          "price": 0.4,
+          "value": 4.12,
+          "timestamp": 1794325186,
+          "slug": "atp-rinderk-kecmano-2026-11-09",
+          "event_slug": "atp-rinderk-kecmano-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "BNP Paribas Nordic Open: Arthur Rinderknech vs Miomir Kecmanovic",
+          "side": "BUY",
+          "outcome": "Arthur Rinderknech",
+          "price": 0.4,
+          "value": 581.7800000000001,
+          "timestamp": 1794325177,
+          "slug": "atp-rinderk-kecmano-2026-11-09",
+          "event_slug": "atp-rinderk-kecmano-2026-11-09",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
+          "side": "SELL",
+          "outcome": "Namibia Women",
+          "price": 0.999,
+          "value": 594.95445,
+          "timestamp": 1794325165,
+          "slug": "crint-namw-ugaw-2026-11-10",
+          "event_slug": "crint-namw-ugaw-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Abu Dhabi T10 League: Yas Lions vs United Tigers",
           "side": "BUY",
@@ -7605,39 +7627,6 @@
           "slug": "ere-ado-spa-2026-11-07-total-2pt5",
           "event_slug": "ere-ado-spa-2026-11-07-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Will Paris Saint-Germain FC win on 2026-11-07?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.88,
-          "value": 2094.1711999999998,
-          "timestamp": 1794082180,
-          "slug": "fl1-psg-tro-2026-11-07-psg",
-          "event_slug": "fl1-psg-tro-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Gornik Zabrze vs. Wieczysta Krakow: O/U 2.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 499.5,
-          "timestamp": 1794082143,
-          "slug": "pol-gor-wie-2026-11-07-total-2pt5",
-          "event_slug": "pol-gor-wie-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "ADO Den Haag vs. Sparta Rotterdam: O/U 1.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 901.46763,
-          "timestamp": 1794082119,
-          "slug": "ere-ado-spa-2026-11-07-total-1pt5",
-          "event_slug": "ere-ado-spa-2026-11-07-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -7905,12 +7894,23 @@
       "stats48h": {
         "wins": 2,
         "losses": 2,
-        "totalTrades": 4,
+        "totalTrades": 5,
         "winRate": 0.5,
-        "volume": 1488.1297000010377,
+        "volume": 1522.4248000010375,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "KHL: Neftekhimik Nizhnekamsk vs. Salavat Yulaev Ufa",
+          "side": "BUY",
+          "outcome": "Neftekhimik Nizhnekamsk",
+          "price": 0.49,
+          "value": 34.2951,
+          "timestamp": 1794328051,
+          "slug": "khl-nef-sal-2026-11-10",
+          "event_slug": "khl-nef-sal-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "KHL: SKA St. Petersburg vs. Spartak Moscow",
           "side": "BUY",
@@ -7958,5 +7958,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T15:01:47.947Z"
+  "lastUpdate": "2026-11-10T16:32:39.114Z"
 }
