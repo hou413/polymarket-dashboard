@@ -1448,12 +1448,23 @@
       "stats48h": {
         "wins": 3,
         "losses": 13,
-        "totalTrades": 69,
+        "totalTrades": 70,
         "winRate": 0.1875,
-        "volume": 11919.01963600757,
+        "volume": 11331.739636007569,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.12,
+          "value": 222.72,
+          "timestamp": 1794341506,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
         {
           "title": "Will Matthew Boyle be the next White House Press Secretary?",
           "side": "BUY",
@@ -1992,17 +2003,6 @@
           "slug": "will-wti-dip-to-85-in-november-2026",
           "event_slug": "what-price-will-wti-hit-in-november-2026",
           "result": "loss"
-        },
-        {
-          "title": "Israel x Iran ceasefire continues through November 30?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.27,
-          "value": 810,
-          "timestamp": 1794175651,
-          "slug": "israel-x-iran-ceasefire-continues-through-november-30",
-          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
         }
       ]
     },
@@ -3227,7 +3227,7 @@
       "stats48h": {
         "wins": 35,
         "losses": 15,
-        "totalTrades": 55,
+        "totalTrades": 53,
         "winRate": 0.7,
         "volume": 708362.8045800534,
         "pnl": 0
@@ -4470,10 +4470,10 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 22,
-        "losses": 9,
-        "totalTrades": 31,
-        "winRate": 0.7096774193548387,
-        "volume": 56646.01389999095,
+        "losses": 8,
+        "totalTrades": 30,
+        "winRate": 0.7333333333333333,
+        "volume": 56642.41869999094,
         "pnl": 0
       },
       "recentTrades": [
@@ -4806,17 +4806,6 @@
           "slug": "fl1-psg-tro-2026-11-07-total-1pt5",
           "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Rockets vs. Suns: O/U 224.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.48,
-          "value": 3.5952,
-          "timestamp": 1794082153,
-          "slug": "nba-hou-phx-2026-11-07-total-224pt5",
-          "event_slug": "nba-hou-phx-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -6861,10 +6850,10 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 42,
+        "wins": 44,
         "losses": 4,
-        "totalTrades": 59,
-        "winRate": 0.9130434782608695,
+        "totalTrades": 56,
+        "winRate": 0.9166666666666666,
         "volume": 25046.626439984128,
         "pnl": 0
       },
@@ -6889,7 +6878,7 @@
           "timestamp": 1794340233,
           "slug": "cricadt10-uae-emi-2026-11-10",
           "event_slug": "cricadt10-uae-emi-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "BNP Paribas Nordic Open: Lorenzo Musetti vs Toby Samuel",
@@ -6922,7 +6911,7 @@
           "timestamp": 1794330642,
           "slug": "cricadt10-uae-emi-2026-11-10",
           "event_slug": "cricadt10-uae-emi-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
@@ -7716,5 +7705,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T20:08:22.951Z"
+  "lastUpdate": "2026-11-10T20:17:05.834Z"
 }
