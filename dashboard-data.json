@@ -1448,7 +1448,7 @@
       "stats48h": {
         "wins": 3,
         "losses": 13,
-        "totalTrades": 70,
+        "totalTrades": 69,
         "winRate": 0.1875,
         "volume": 11331.739636007569,
         "pnl": 0
@@ -3227,7 +3227,7 @@
       "stats48h": {
         "wins": 35,
         "losses": 15,
-        "totalTrades": 53,
+        "totalTrades": 51,
         "winRate": 0.7,
         "volume": 708362.8045800534,
         "pnl": 0
@@ -3794,10 +3794,87 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3166.285839999599,
+        "volume": 2538.917330002559,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Canyon win Worlds 2026 Finals MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.218,
+          "value": 4.41014,
+          "timestamp": 1794343239,
+          "slug": "will-canyon-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.33,
+          "value": 1.4355,
+          "timestamp": 1794343207,
+          "slug": "uwcl-slb-faw-2026-11-11-draw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.6982352941,
+          "value": 35.6099999991,
+          "timestamp": 1794343147,
+          "slug": "uwcl-slb-faw-2026-11-11-slb",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FK Austria Wien win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.864001001,
+          "value": 8.63136999999,
+          "timestamp": 1794342552,
+          "slug": "uwcl-slb-faw-2026-11-11-faw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.53,
+          "value": 5.300000000000001,
+          "timestamp": 1794342552,
+          "slug": "uwcl-slb-faw-2026-11-11-slb",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.38,
+          "value": 2.1584,
+          "timestamp": 1794342496,
+          "slug": "uwcl-slb-faw-2026-11-11-draw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.38,
+          "value": 2.0254,
+          "timestamp": 1794342496,
+          "slug": "uwcl-slb-faw-2026-11-11-draw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
           "side": "BUY",
@@ -4269,83 +4346,6 @@
           "timestamp": 1794331978,
           "slug": "will-recep-tayyip-erdogan-be-the-next-leader-out-before-2027-20260630194627365",
           "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.044,
-          "timestamp": 1794331977,
-          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.004,
-          "value": 0.176,
-          "timestamp": 1794331977,
-          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 65-89 tweets from November 9 to November 11, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.7580929258,
-          "value": 79.622499996774,
-          "timestamp": 1794330889,
-          "slug": "elon-musk-of-tweets-november-9-november-11-2026-65-89",
-          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 115-139 tweets from November 9 to November 11, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9967161828,
-          "value": 185.3892100008,
-          "timestamp": 1794330889,
-          "slug": "elon-musk-of-tweets-november-9-november-11-2026-115-139",
-          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 90-114 tweets from November 9 to November 11, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.97,
-          "value": 180.42,
-          "timestamp": 1794330888,
-          "slug": "elon-musk-of-tweets-november-9-november-11-2026-90-114",
-          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post <40 tweets from November 9 to November 11, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8409066324,
-          "value": 55.65960999855599,
-          "timestamp": 1794330888,
-          "slug": "elon-musk-of-tweets-november-9-november-11-2026-0-39",
-          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 140-164 tweets from November 9 to November 11, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 185.628,
-          "timestamp": 1794330888,
-          "slug": "elon-musk-of-tweets-november-9-november-11-2026-140-164",
-          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
           "result": "ongoing"
         }
       ]
@@ -5722,7 +5722,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 81,
+        "totalTrades": 73,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -6852,7 +6852,7 @@
       "stats48h": {
         "wins": 44,
         "losses": 4,
-        "totalTrades": 56,
+        "totalTrades": 54,
         "winRate": 0.9166666666666666,
         "volume": 25046.626439984128,
         "pnl": 0
@@ -7705,5 +7705,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T20:17:05.834Z"
+  "lastUpdate": "2026-11-10T20:43:02.204Z"
 }
