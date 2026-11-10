@@ -951,11 +951,11 @@
       "label": "chubbytoro",
       "specialty": "综合",
       "stats48h": {
-        "wins": 15,
+        "wins": 14,
         "losses": 12,
-        "totalTrades": 35,
-        "winRate": 0.5555555555555556,
-        "volume": 74869.56769992335,
+        "totalTrades": 34,
+        "winRate": 0.5384615384615384,
+        "volume": 74107.56289992336,
         "pnl": 0
       },
       "recentTrades": [
@@ -1332,17 +1332,6 @@
           "slug": "nhl-det-col-2026-11-07-spread-away-1pt5",
           "event_slug": "nhl-det-col-2026-11-07",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Senators (-1.5)",
-          "side": "BUY",
-          "outcome": "Senators",
-          "price": 0.27,
-          "value": 762.0048,
-          "timestamp": 1794070296,
-          "slug": "nhl-utah-ott-2026-11-07-spread-home-1pt5",
-          "event_slug": "nhl-utah-ott-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -1481,12 +1470,23 @@
       "stats48h": {
         "wins": 2,
         "losses": 13,
-        "totalTrades": 71,
+        "totalTrades": 72,
         "winRate": 0.13333333333333333,
-        "volume": 14168.151156041089,
+        "volume": 15299.211236010799,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Donald Trump post 60-79 Truth Social posts from November 3 to November 10, ",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.881982051,
+          "value": 1137.0600799697102,
+          "timestamp": 1794329553,
+          "slug": "donald-trump-of-truth-social-posts-november-3-november-10-2026-60-79",
+          "event_slug": "donald-trump-of-truth-social-posts-november-3-november-10-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Israel x Iran ceasefire continues through December 15?",
           "side": "BUY",
@@ -2024,17 +2024,6 @@
           "timestamp": 1794165937,
           "slug": "will-iran-target-jordan-by-november-30-2026",
           "event_slug": "will-iran-target-jordan-by-20260909",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Iran target Saudi Arabia by November 30, 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.1953125,
-          "value": 6,
-          "timestamp": 1794165921,
-          "slug": "will-iran-target-saudi-arabia-by-november-30-2026",
-          "event_slug": "will-iran-target-saudi-arabia-byptptpt",
           "result": "ongoing"
         }
       ]
@@ -3827,10 +3816,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 4883.434650000258,
+        "volume": 4767.620480002229,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Reinier de Ridder be the UFC Middleweight Champion on December 31, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.01,
+          "timestamp": 1794329362,
+          "slug": "will-reinier-de-ridder-be-the-ufc-middleweight-champion-on-december-31-2026",
+          "event_slug": "who-will-be-ufc-middleweight-champion-at-the-end-of-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Israel Adesanya be the UFC Middleweight Champion on December 31, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.01,
+          "timestamp": 1794329361,
+          "slug": "will-israel-adesanya-be-the-ufc-middleweight-champion-on-december-31-2026",
+          "event_slug": "who-will-be-ufc-middleweight-champion-at-the-end-of-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Malaysia win Eurovision Asia 2026?",
           "side": "SELL",
@@ -4358,28 +4369,6 @@
           "slug": "will-anthony-albanese-be-the-next-leader-out-before-2027-20260630194627369",
           "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Emmanuel Macron be the next leader out before 2027?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.003,
-          "value": 0.35409,
-          "timestamp": 1794320244,
-          "slug": "will-emmanuel-macron-be-the-next-leader-out-before-2027-20260630194627364",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sébastien Lecornu be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.978396001,
-          "value": 115.48007999803,
-          "timestamp": 1794319968,
-          "slug": "will-sebastien-lecornu-be-the-next-leader-out-before-2027-20260630194627376",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
         }
       ]
     },
@@ -4390,9 +4379,9 @@
       "stats48h": {
         "wins": 11,
         "losses": 2,
-        "totalTrades": 15,
+        "totalTrades": 14,
         "winRate": 0.8461538461538461,
-        "volume": 112406.83664447573,
+        "volume": 106143.03326896722,
         "pnl": 0
       },
       "recentTrades": [
@@ -4549,17 +4538,6 @@
           "slug": "cfb-byu-utah-2026-11-07",
           "event_slug": "cfb-byu-utah-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Florida State vs. Boston College AND Rolex Paris Masters: Casper Ruud vs Carlos ",
-          "side": "SELL",
-          "outcome": "",
-          "price": 0.4132217657,
-          "value": 6263.803375508509,
-          "timestamp": 1794070615,
-          "slug": "",
-          "event_slug": "",
-          "result": "ongoing"
         }
       ]
     },
@@ -7958,5 +7936,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T16:50:27.274Z"
+  "lastUpdate": "2026-11-10T16:59:21.564Z"
 }
