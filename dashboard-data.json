@@ -1446,10 +1446,10 @@
       "label": "fantasy7788",
       "specialty": "Politics",
       "stats48h": {
-        "wins": 2,
+        "wins": 3,
         "losses": 13,
         "totalTrades": 67,
-        "winRate": 0.13333333333333333,
+        "winRate": 0.1875,
         "volume": 15299.211236010799,
         "pnl": 0
       },
@@ -1463,7 +1463,7 @@
           "timestamp": 1794329553,
           "slug": "donald-trump-of-truth-social-posts-november-3-november-10-2026-60-79",
           "event_slug": "donald-trump-of-truth-social-posts-november-3-november-10-2026",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Israel x Iran ceasefire continues through December 15?",
@@ -3794,10 +3794,21 @@
         "losses": 1,
         "totalTrades": 500,
         "winRate": 0.9090909090909091,
-        "volume": 4963.976109993957,
+        "volume": 4896.326829993957,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Caio Borralho be the UFC Middleweight Champion on December 31, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.01,
+          "timestamp": 1794337110,
+          "slug": "will-caio-borralho-be-the-ufc-middleweight-champion-on-december-31-2026",
+          "event_slug": "who-will-be-ufc-middleweight-champion-at-the-end-of-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
           "side": "BUY",
@@ -4336,17 +4347,6 @@
           "slug": "will-gemini-carbon-be-released-on-november-20-2026",
           "event_slug": "gemini-carbon-released-onptptpt-20261028",
           "result": "win"
-        },
-        {
-          "title": "Will Avengers: Doomsday be the top grossing movie of 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.104,
-          "value": 67.65928,
-          "timestamp": 1794323395,
-          "slug": "will-avengers-doomsday-be-the-top-grossing-movie-of-2026",
-          "event_slug": "highest-grossing-movie-in-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -7536,11 +7536,11 @@
       "label": "fakeky",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 8,
+        "wins": 7,
         "losses": 12,
-        "totalTrades": 20,
-        "winRate": 0.4,
-        "volume": 100667.46031024393,
+        "totalTrades": 19,
+        "winRate": 0.3684210526315789,
+        "volume": 81123.99334024393,
         "pnl": 0
       },
       "recentTrades": [
@@ -7752,17 +7752,6 @@
           "slug": "sea-nap-laz-2026-11-08-total-3pt5",
           "event_slug": "sea-nap-laz-2026-11-08-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Will Bologna FC 1909 win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.999,
-          "value": 19543.466969999998,
-          "timestamp": 1794077980,
-          "slug": "sea-par-bol-2026-11-07-bol",
-          "event_slug": "sea-par-bol-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -7837,5 +7826,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T18:55:41.748Z"
+  "lastUpdate": "2026-11-10T19:04:28.457Z"
 }
