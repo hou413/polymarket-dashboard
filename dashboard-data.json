@@ -3673,10 +3673,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3118.7079700025306,
+        "volume": 3063.7509700025303,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Trump and Putin meet next in another country?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.15,
+          "timestamp": 1794349357,
+          "slug": "will-trump-and-putin-meet-next-in-another-country-749",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
         {
           "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
           "side": "SELL",
@@ -4213,17 +4224,6 @@
           "value": 32.2164,
           "timestamp": 1794338460,
           "slug": "will-the-fed-pausehikehike-in-the-next-three-decisions-octdecjan",
-          "event_slug": "fed-decisions-oct-jan",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed Pause-Pause-Hike in the next three decisions (Oct-Dec-Jan)?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.975,
-          "value": 55.107,
-          "timestamp": 1794338460,
-          "slug": "will-the-fed-pausepausehike-in-the-next-three-decisions-octdecjan",
           "event_slug": "fed-decisions-oct-jan",
           "result": "ongoing"
         }
@@ -5173,11 +5173,11 @@
       "label": "RNGUzi",
       "specialty": "Soccer+NFL",
       "stats48h": {
-        "wins": 14,
+        "wins": 13,
         "losses": 7,
-        "totalTrades": 21,
-        "winRate": 0.6666666666666666,
-        "volume": 96311.38238121997,
+        "totalTrades": 20,
+        "winRate": 0.65,
+        "volume": 91122.56828121997,
         "pnl": 0
       },
       "recentTrades": [
@@ -5400,17 +5400,6 @@
           "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
           "result": "loss"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 1 Winner",
-          "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.93,
-          "value": 5188.8141000000005,
-          "timestamp": 1794090271,
-          "slug": "lol-ig1-gen-2026-11-07-game1",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -5502,7 +5491,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 69,
+        "totalTrades": 68,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -7485,5 +7474,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T22:21:17.077Z"
+  "lastUpdate": "2026-11-10T22:29:50.953Z"
 }
