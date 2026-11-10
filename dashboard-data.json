@@ -1327,12 +1327,23 @@
       "stats48h": {
         "wins": 3,
         "losses": 12,
-        "totalTrades": 65,
+        "totalTrades": 66,
         "winRate": 0.2,
-        "volume": 10675.765636007569,
+        "volume": 9506.76363600757,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.04,
+          "value": 46.238,
+          "timestamp": 1794351894,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "result": "ongoing"
+        },
         {
           "title": "US announces end of Iranian blockade by November 30, 2026?",
           "side": "SELL",
@@ -1871,17 +1882,6 @@
           "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
           "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
           "result": "ongoing"
-        },
-        {
-          "title": "Next White House Press Secretary announced by November 30, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.39,
-          "value": 1215.24,
-          "timestamp": 1794180408,
-          "slug": "next-white-house-press-secretary-announced-by-november-30-2026",
-          "event_slug": "next-press-secretary-announced-byptptpt",
-          "result": "ongoing"
         }
       ]
     },
@@ -1892,7 +1892,7 @@
       "stats48h": {
         "wins": 0,
         "losses": 50,
-        "totalTrades": 97,
+        "totalTrades": 91,
         "winRate": 0,
         "volume": 1524823.624901891,
         "pnl": 0
@@ -3640,10 +3640,87 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3584.599870002529,
+        "volume": 2681.3520499993288,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will FUT Win the BLAST Rivals Hong Kong 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.983,
+          "value": 2.37886,
+          "timestamp": 1794351834,
+          "slug": "will-fut-win-the-blast-rivals-hong-kong-2026-1793811600000",
+          "event_slug": "blast-rivals-hong-kong-2026-winner-1793811600000",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Vitality Win the BLAST Rivals Hong Kong 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.66,
+          "value": 1.5972,
+          "timestamp": 1794351834,
+          "slug": "will-vitality-win-the-blast-rivals-hong-kong-2026-1793811600000",
+          "event_slug": "blast-rivals-hong-kong-2026-winner-1793811600000",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Falcons Win the BLAST Rivals Hong Kong 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.91,
+          "value": 2.2022,
+          "timestamp": 1794351834,
+          "slug": "will-falcons-win-the-blast-rivals-hong-kong-2026-1793811600000",
+          "event_slug": "blast-rivals-hong-kong-2026-winner-1793811600000",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FURIA Win the BLAST Rivals Hong Kong 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.89,
+          "value": 2.1538,
+          "timestamp": 1794351834,
+          "slug": "will-furia-win-the-blast-rivals-hong-kong-2026-1793811600000",
+          "event_slug": "blast-rivals-hong-kong-2026-winner-1793811600000",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will G2 Win the BLAST Rivals Hong Kong 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.97,
+          "value": 2.3474,
+          "timestamp": 1794351834,
+          "slug": "will-g2-win-the-blast-rivals-hong-kong-2026-1793811600000",
+          "event_slug": "blast-rivals-hong-kong-2026-winner-1793811600000",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Legacy Win the BLAST Rivals Hong Kong 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.99,
+          "value": 2.3958,
+          "timestamp": 1794351834,
+          "slug": "will-legacy-win-the-blast-rivals-hong-kong-2026-1793811600000",
+          "event_slug": "blast-rivals-hong-kong-2026-winner-1793811600000",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Spirit Win the BLAST Rivals Hong Kong 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.82,
+          "value": 1.9843999999999997,
+          "timestamp": 1794351834,
+          "slug": "will-spirit-win-the-blast-rivals-hong-kong-2026-1793811600000",
+          "event_slug": "blast-rivals-hong-kong-2026-winner-1793811600000",
+          "result": "ongoing"
+        },
         {
           "title": "Will PP win the most seats in the 2026 Spanish general election?",
           "side": "BUY",
@@ -4116,83 +4193,6 @@
           "slug": "uwcl-slb-faw-2026-11-11-slb",
           "event_slug": "uwcl-slb-faw-2026-11-11",
           "result": "ongoing"
-        },
-        {
-          "title": "Will FK Austria Wien win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.983,
-          "value": 14.745,
-          "timestamp": 1794338710,
-          "slug": "uwcl-slb-faw-2026-11-11-faw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8889659091,
-          "value": 78.2290000008,
-          "timestamp": 1794338566,
-          "slug": "uwcl-slb-faw-2026-11-11-slb",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.25,
-          "value": 139,
-          "timestamp": 1794338515,
-          "slug": "uwcl-slb-faw-2026-11-11-draw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FK Austria Wien win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.999,
-          "value": 555.444,
-          "timestamp": 1794338515,
-          "slug": "uwcl-slb-faw-2026-11-11-faw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9016666667,
-          "value": 64.9200000024,
-          "timestamp": 1794338475,
-          "slug": "uwcl-slb-faw-2026-11-11-slb",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FK Austria Wien win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.878,
-          "value": 9.675559999999999,
-          "timestamp": 1794338475,
-          "slug": "uwcl-slb-faw-2026-11-11-faw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decide differently in the next three decisions (Oct-Dec-Jan)?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 56.29392,
-          "timestamp": 1794338461,
-          "slug": "will-the-fed-decide-differently-in-the-next-three-decisions-octdecjan-2026",
-          "event_slug": "fed-decisions-oct-jan",
-          "result": "ongoing"
         }
       ]
     },
@@ -4465,14 +4465,36 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 21,
+        "wins": 19,
         "losses": 17,
         "totalTrades": 500,
-        "winRate": 0.5526315789473685,
-        "volume": 3036.0370600180568,
+        "winRate": 0.5277777777777778,
+        "volume": 3230.987060018056,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jayson Tatum: Rebounds O/U 7.5",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.47,
+          "value": 6.109999999999999,
+          "timestamp": 1794351882,
+          "slug": "nba-bos-phi-2026-11-10-rebounds-jayson-tatum-7pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jayson Tatum: Rebounds O/U 7.5",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.45,
+          "value": 290.25,
+          "timestamp": 1794351871,
+          "slug": "nba-bos-phi-2026-11-10-rebounds-jayson-tatum-7pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Jayson Tatum: Assists O/U 5.5",
           "side": "BUY",
@@ -4998,28 +5020,6 @@
           "value": 4.65,
           "timestamp": 1794283956,
           "slug": "nba-sas-phx-2026-11-09-spread-away-29pt5",
-          "event_slug": "nba-sas-phx-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-31.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.748,
-          "value": 99.11,
-          "timestamp": 1794283720,
-          "slug": "nba-sas-phx-2026-11-09-spread-away-31pt5",
-          "event_slug": "nba-sas-phx-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-27.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.46,
-          "value": 2.3000000000000003,
-          "timestamp": 1794283720,
-          "slug": "nba-sas-phx-2026-11-09-spread-away-27pt5",
           "event_slug": "nba-sas-phx-2026-11-09",
           "result": "win"
         }
@@ -7331,5 +7331,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T23:03:54.484Z"
+  "lastUpdate": "2026-11-10T23:12:27.473Z"
 }
