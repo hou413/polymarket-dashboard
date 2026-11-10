@@ -6008,7 +6008,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 101,
+        "totalTrades": 99,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -7137,9 +7137,9 @@
       "specialty": "J1+J2+重点",
       "stats48h": {
         "wins": 38,
-        "losses": 0,
+        "losses": 1,
         "totalTrades": 65,
-        "winRate": 1,
+        "winRate": 0.9743589743589743,
         "volume": 28812.798429984123,
         "pnl": 0
       },
@@ -7230,7 +7230,7 @@
           "timestamp": 1794312508,
           "slug": "atp-mannari-shevche-2026-11-10",
           "event_slug": "atp-mannari-shevche-2026-11-10",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Mobis Phoebus vs. Goyang",
@@ -8013,5 +8013,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T13:48:01.105Z"
+  "lastUpdate": "2026-11-10T13:57:04.464Z"
 }
