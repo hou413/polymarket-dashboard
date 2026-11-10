@@ -2573,10 +2573,10 @@
       "specialty": "Soccer+NBA",
       "stats48h": {
         "wins": 26,
-        "losses": 24,
-        "totalTrades": 50,
-        "winRate": 0.52,
-        "volume": 1733429.2109000003,
+        "losses": 21,
+        "totalTrades": 47,
+        "winRate": 0.5531914893617021,
+        "volume": 1707696.9745000002,
         "pnl": 0
       },
       "recentTrades": [
@@ -3096,39 +3096,6 @@
           "slug": "nfl-dal-ind-2026-11-08-spread-away-4pt5",
           "event_slug": "nfl-dal-ind-2026-11-08",
           "result": "win"
-        },
-        {
-          "title": "Spread: Nuggets (-6.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.44,
-          "value": 178.4508,
-          "timestamp": 1794087702,
-          "slug": "nba-den-ind-2026-11-07-spread-away-6pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Nuggets (-8.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.52,
-          "value": 7112.747200000001,
-          "timestamp": 1794087678,
-          "slug": "nba-den-ind-2026-11-07-spread-away-8pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Nuggets (-7.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.48,
-          "value": 18441.0384,
-          "timestamp": 1794087672,
-          "slug": "nba-den-ind-2026-11-07-spread-away-7pt5",
-          "event_slug": "nba-den-ind-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -3706,10 +3673,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3003.0324400018594,
+        "volume": 2974.24744000186,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will SCU Torreense win on 2026-11-11?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.39,
+          "value": 2.7885000000000004,
+          "timestamp": 1794346485,
+          "slug": "uwec-tor-spa-2026-11-11-tor",
+          "event_slug": "uwec-tor-spa-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
           "side": "BUY",
@@ -4248,17 +4226,6 @@
           "slug": "will-caio-borralho-be-the-ufc-middleweight-champion-on-december-31-2026",
           "event_slug": "who-will-be-ufc-middleweight-champion-at-the-end-of-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.5638125,
-          "value": 31.573500000000003,
-          "timestamp": 1794336759,
-          "slug": "uwcl-slb-faw-2026-11-11-draw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
         }
       ]
     },
@@ -4337,11 +4304,11 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 22,
+        "wins": 19,
         "losses": 8,
-        "totalTrades": 30,
-        "winRate": 0.7333333333333333,
-        "volume": 56642.41869999094,
+        "totalTrades": 27,
+        "winRate": 0.7037037037037037,
+        "volume": 47928.96809999094,
         "pnl": 0
       },
       "recentTrades": [
@@ -4640,39 +4607,6 @@
           "timestamp": 1794090541,
           "slug": "mls-mia-clt-2026-11-07-total-6pt5",
           "event_slug": "mls-mia-clt-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Paris Saint-Germain FC vs. ES Troyes AC: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.53,
-          "value": 1289.2356,
-          "timestamp": 1794087750,
-          "slug": "fl1-psg-tro-2026-11-07-total-1pt5",
-          "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Paris Saint-Germain FC vs. ES Troyes AC: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5,
-          "value": 2302,
-          "timestamp": 1794087675,
-          "slug": "fl1-psg-tro-2026-11-07-total-1pt5",
-          "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Paris Saint-Germain FC vs. ES Troyes AC: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5,
-          "value": 5122.215,
-          "timestamp": 1794087664,
-          "slug": "fl1-psg-tro-2026-11-07-total-1pt5",
-          "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
           "result": "win"
         }
       ]
@@ -7573,5 +7507,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T21:38:15.940Z"
+  "lastUpdate": "2026-11-10T21:46:51.220Z"
 }
