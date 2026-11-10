@@ -952,10 +952,10 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 16,
-        "losses": 15,
-        "totalTrades": 32,
-        "winRate": 0.5161290322580645,
-        "volume": 67308.66669992336,
+        "losses": 14,
+        "totalTrades": 31,
+        "winRate": 0.5333333333333333,
+        "volume": 66522.33279992336,
         "pnl": 0
       },
       "recentTrades": [
@@ -1299,17 +1299,6 @@
           "slug": "nhl-tb-min-2026-11-07",
           "event_slug": "nhl-tb-min-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Spread: Rangers (-1.5)",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.33,
-          "value": 786.3339,
-          "timestamp": 1794062925,
-          "slug": "nhl-nyr-sea-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-nyr-sea-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -3216,7 +3205,7 @@
       "stats48h": {
         "wins": 35,
         "losses": 15,
-        "totalTrades": 61,
+        "totalTrades": 60,
         "winRate": 0.7,
         "volume": 708362.8045800534,
         "pnl": 0
@@ -7958,5 +7947,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T14:43:49.983Z"
+  "lastUpdate": "2026-11-10T14:52:46.701Z"
 }
