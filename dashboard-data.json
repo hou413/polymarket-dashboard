@@ -1360,7 +1360,7 @@
       "stats48h": {
         "wins": 3,
         "losses": 12,
-        "totalTrades": 67,
+        "totalTrades": 66,
         "winRate": 0.2,
         "volume": 10675.765636007569,
         "pnl": 0
@@ -3673,10 +3673,43 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2974.24744000186,
+        "volume": 3379.64878000686,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Trump and Putin not meet?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9330666667,
+          "value": 139.960000005,
+          "timestamp": 1794347265,
+          "slug": "will-trump-and-putin-not-meet-432",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump and Putin meet next in Russia?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 149.55,
+          "timestamp": 1794347265,
+          "slug": "will-trump-and-putin-meet-next-in-russia-991",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Trump and Putin meet next in United States?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.994,
+          "value": 149.1,
+          "timestamp": 1794347265,
+          "slug": "will-trump-and-putin-meet-next-in-united-states",
+          "event_slug": "where-will-trump-and-putin-meet-next-678",
+          "result": "ongoing"
+        },
         {
           "title": "Will SCU Torreense win on 2026-11-11?",
           "side": "SELL",
@@ -4193,39 +4226,6 @@
           "slug": "uwcl-slb-faw-2026-11-11-faw",
           "event_slug": "uwcl-slb-faw-2026-11-11",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.47,
-          "value": 10.701899999999998,
-          "timestamp": 1794337369,
-          "slug": "uwcl-slb-faw-2026-11-11-draw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FK Austria Wien win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.988,
-          "value": 22.49676,
-          "timestamp": 1794337369,
-          "slug": "uwcl-slb-faw-2026-11-11-faw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Caio Borralho be the UFC Middleweight Champion on December 31, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.01,
-          "timestamp": 1794337110,
-          "slug": "will-caio-borralho-be-the-ufc-middleweight-champion-on-december-31-2026",
-          "event_slug": "who-will-be-ufc-middleweight-champion-at-the-end-of-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -4631,13 +4631,24 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 22,
-        "losses": 19,
+        "losses": 18,
         "totalTrades": 500,
-        "winRate": 0.5365853658536586,
-        "volume": 3173.954560018057,
+        "winRate": 0.55,
+        "volume": 3194.2413600180566,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Celtics vs. Raptors",
+          "side": "BUY",
+          "outcome": "Celtics",
+          "price": 0.62,
+          "value": 21.7868,
+          "timestamp": 1794347179,
+          "slug": "nba-bos-tor-2026-11-11",
+          "event_slug": "nba-bos-tor-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Bucks vs. Knicks: 1H O/U 118.5",
           "side": "BUY",
@@ -5176,17 +5187,6 @@
           "slug": "nba-sas-phx-2026-11-09-spread-away-29pt5",
           "event_slug": "nba-sas-phx-2026-11-09",
           "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-21.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.15,
-          "value": 1.5,
-          "timestamp": 1794283612,
-          "slug": "nba-sas-phx-2026-11-09-spread-away-21pt5",
-          "event_slug": "nba-sas-phx-2026-11-09",
-          "result": "loss"
         }
       ]
     },
@@ -6089,7 +6089,7 @@
       "stats48h": {
         "wins": 31,
         "losses": 19,
-        "totalTrades": 185,
+        "totalTrades": 176,
         "winRate": 0.62,
         "volume": 28368.646700429897,
         "pnl": 0
@@ -7507,5 +7507,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T21:46:51.220Z"
+  "lastUpdate": "2026-11-10T21:55:27.692Z"
 }
