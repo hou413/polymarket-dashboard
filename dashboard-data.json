@@ -6938,14 +6938,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 45,
+        "wins": 44,
         "losses": 3,
-        "totalTrades": 56,
-        "winRate": 0.9375,
-        "volume": 25718.247029984122,
+        "totalTrades": 57,
+        "winRate": 0.9361702127659575,
+        "volume": 24182.631419984125,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "BNP Paribas Nordic Open: Holger Rune vs Zizou Bergs",
+          "side": "BUY",
+          "outcome": "Holger Rune",
+          "price": 0.79,
+          "value": 237,
+          "timestamp": 1794334743,
+          "slug": "atp-rune-bergs-2026-11-09",
+          "event_slug": "atp-rune-bergs-2026-11-09",
+          "result": "ongoing"
+        },
         {
           "title": "Abu Dhabi T10 League: UAE Bulls vs Emirates Eagles",
           "side": "BUY",
@@ -7484,17 +7495,6 @@
           "slug": "aus-ade-vic-2026-11-08-total-2pt5",
           "event_slug": "aus-ade-vic-2026-11-08-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Paris Saint-Germain FC vs. ES Troyes AC: O/U 0.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.999,
-          "value": 1772.61561,
-          "timestamp": 1794084424,
-          "slug": "fl1-psg-tro-2026-11-07-total-0pt5",
-          "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -7804,5 +7804,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T18:11:30.996Z"
+  "lastUpdate": "2026-11-10T18:20:27.539Z"
 }
