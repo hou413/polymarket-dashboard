@@ -4234,11 +4234,11 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 1,
-        "losses": 1,
-        "totalTrades": 3,
-        "winRate": 0.5,
-        "volume": 35607.84516896722,
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 1,
+        "winRate": 0,
+        "volume": 499.9850589672189,
         "pnl": 0
       },
       "recentTrades": [
@@ -4252,28 +4252,6 @@
           "slug": "",
           "event_slug": "",
           "result": "ongoing"
-        },
-        {
-          "title": "UFC Fight Night: Andre Petroski vs. Mantas Kondratavicius (Middleweight, Main Ca",
-          "side": "BUY",
-          "outcome": "Mantas Kondratavicius",
-          "price": 0.76,
-          "value": 17439.2564,
-          "timestamp": 1794091465,
-          "slug": "ufc-and10-man18-2026-11-07",
-          "event_slug": "ufc-and10-man18-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "UFC Fight Night: Wellington Turman vs. Seokhyeon Ko (Welterweight, Main Card)",
-          "side": "SELL",
-          "outcome": "Seokhyeon Ko",
-          "price": 0.999,
-          "value": 17668.60371,
-          "timestamp": 1794091407,
-          "slug": "ufc-wel-seo1-2026-11-07",
-          "event_slug": "ufc-wel-seo1-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -4283,10 +4261,10 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 14,
-        "losses": 8,
-        "totalTrades": 22,
-        "winRate": 0.6363636363636364,
-        "volume": 45946.42220000374,
+        "losses": 5,
+        "totalTrades": 19,
+        "winRate": 0.7368421052631579,
+        "volume": 44853.229200031936,
         "pnl": 0
       },
       "recentTrades": [
@@ -4497,39 +4475,6 @@
           "timestamp": 1794098701,
           "slug": "nba-nyk-cle-2026-11-07-spread-away-6pt5",
           "event_slug": "nba-nyk-cle-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Philadelphia Union (-2.5)",
-          "side": "BUY",
-          "outcome": "Toronto FC",
-          "price": 0.566708942,
-          "value": 353.00299997179997,
-          "timestamp": 1794091474,
-          "slug": "mls-phi-tor-2026-11-07-spread-home-2pt5",
-          "event_slug": "mls-phi-tor-2026-11-07-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Philadelphia Union (-2.5)",
-          "side": "BUY",
-          "outcome": "Toronto FC",
-          "price": 0.558,
-          "value": 125.55000000000001,
-          "timestamp": 1794091438,
-          "slug": "mls-phi-tor-2026-11-07-spread-home-2pt5",
-          "event_slug": "mls-phi-tor-2026-11-07-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Philadelphia Union (-2.5)",
-          "side": "BUY",
-          "outcome": "Toronto FC",
-          "price": 0.52,
-          "value": 614.64,
-          "timestamp": 1794091242,
-          "slug": "mls-phi-tor-2026-11-07-spread-home-2pt5",
-          "event_slug": "mls-phi-tor-2026-11-07-more-markets",
           "result": "loss"
         }
       ]
@@ -7419,5 +7364,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T22:38:23.982Z"
+  "lastUpdate": "2026-11-10T22:46:56.129Z"
 }
