@@ -3227,7 +3227,7 @@
       "stats48h": {
         "wins": 35,
         "losses": 15,
-        "totalTrades": 56,
+        "totalTrades": 55,
         "winRate": 0.7,
         "volume": 708362.8045800534,
         "pnl": 0
@@ -3794,10 +3794,43 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3010.00794999726,
+        "volume": 3135.3378499972587,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.45,
+          "value": 113.8455,
+          "timestamp": 1794339615,
+          "slug": "uwcl-slb-faw-2026-11-11-draw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will SCU Torreense vs. Sparta Prague end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.41,
+          "value": 0.738,
+          "timestamp": 1794339549,
+          "slug": "uwec-tor-spa-2026-11-11-draw",
+          "event_slug": "uwec-tor-spa-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sparta Prague win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.98,
+          "value": 22.54,
+          "timestamp": 1794339549,
+          "slug": "uwec-tor-spa-2026-11-11-spa",
+          "event_slug": "uwec-tor-spa-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
           "side": "BUY",
@@ -4314,39 +4347,6 @@
           "slug": "will-malaysia-win-eurovision-asia-2026",
           "event_slug": "eurovision-asia-winner-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Malaysia win Eurovision Asia 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.59,
-          "value": 5.3218,
-          "timestamp": 1794326424,
-          "slug": "will-malaysia-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Malaysia win Eurovision Asia 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.59,
-          "value": 6.3838,
-          "timestamp": 1794326413,
-          "slug": "will-malaysia-win-eurovision-asia-2026",
-          "event_slug": "eurovision-asia-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.004,
-          "value": 0.088,
-          "timestamp": 1794326053,
-          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -4861,14 +4861,58 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 24,
-        "losses": 21,
+        "wins": 22,
+        "losses": 19,
         "totalTrades": 500,
-        "winRate": 0.5333333333333333,
-        "volume": 3326.1939200152906,
+        "winRate": 0.5365853658536586,
+        "volume": 3173.954560018057,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bucks vs. Knicks: 1H O/U 118.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.23,
+          "value": 7.82,
+          "timestamp": 1794339741,
+          "slug": "nba-mil-nyk-2026-11-10-1h-total-118pt5",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bucks vs. Knicks: 1H O/U 118.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.2277777778,
+          "value": 16.4000000016,
+          "timestamp": 1794339739,
+          "slug": "nba-mil-nyk-2026-11-10-1h-total-118pt5",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Celtics (-2.5)",
+          "side": "BUY",
+          "outcome": "Celtics",
+          "price": 0.47,
+          "value": 22.56,
+          "timestamp": 1794339580,
+          "slug": "nba-bos-phi-2026-11-10-spread-away-2pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Celtics (-2.5)",
+          "side": "BUY",
+          "outcome": "Celtics",
+          "price": 0.47,
+          "value": 29.139999999999997,
+          "timestamp": 1794339579,
+          "slug": "nba-bos-phi-2026-11-10-spread-away-2pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Celtics (-3.5)",
           "side": "BUY",
@@ -5374,50 +5418,6 @@
           "slug": "nba-sas-phx-2026-11-09-spread-away-21pt5",
           "event_slug": "nba-sas-phx-2026-11-09",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-29.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.6169021518,
-          "value": 15.194299998833998,
-          "timestamp": 1794283579,
-          "slug": "nba-sas-phx-2026-11-09-spread-away-29pt5",
-          "event_slug": "nba-sas-phx-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-31.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.521,
-          "value": 104.2,
-          "timestamp": 1794283528,
-          "slug": "nba-sas-phx-2026-11-09-spread-away-31pt5",
-          "event_slug": "nba-sas-phx-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Bills vs. Vikings",
-          "side": "BUY",
-          "outcome": "Vikings",
-          "price": 0.03,
-          "value": 106.785,
-          "timestamp": 1794283380,
-          "slug": "nfl-buf-min-2026-11-10",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-33.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.366,
-          "value": 1.98006,
-          "timestamp": 1794283365,
-          "slug": "nba-sas-phx-2026-11-09-spread-away-33pt5",
-          "event_slug": "nba-sas-phx-2026-11-09",
-          "result": "loss"
         }
       ]
     },
@@ -5755,7 +5755,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 86,
+        "totalTrades": 83,
         "winRate": 0.3103448275862069,
         "volume": 19502.011117240778,
         "pnl": 0
@@ -6883,14 +6883,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 45,
+        "wins": 29,
         "losses": 4,
-        "totalTrades": 56,
-        "winRate": 0.9183673469387755,
-        "volume": 24182.631419984125,
+        "totalTrades": 57,
+        "winRate": 0.8787878787878788,
+        "volume": 24471.17451998412,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "BNP Paribas Nordic Open: Lorenzo Musetti vs Toby Samuel",
+          "side": "BUY",
+          "outcome": "Lorenzo Musetti",
+          "price": 0.93,
+          "value": 301.9431,
+          "timestamp": 1794339672,
+          "slug": "atp-musetti-samuel-2026-11-10",
+          "event_slug": "atp-musetti-samuel-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "BNP Paribas Nordic Open: Holger Rune vs Zizou Bergs",
           "side": "BUY",
@@ -7142,7 +7153,7 @@
           "timestamp": 1794235810,
           "slug": "atp-machac-gojo-2026-11-09",
           "event_slug": "atp-machac-gojo-2026-11-09",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "BNP Paribas Nordic Open: Tomas Machac vs Borna Gojo",
@@ -7153,7 +7164,7 @@
           "timestamp": 1794234238,
           "slug": "atp-machac-gojo-2026-11-09",
           "event_slug": "atp-machac-gojo-2026-11-09",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "BNP Paribas Nordic Open: James Duckworth vs Cameron Norrie",
@@ -7164,7 +7175,7 @@
           "timestamp": 1794229047,
           "slug": "atp-duckwor-norrie-2026-11-09",
           "event_slug": "atp-duckwor-norrie-2026-11-09",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Seoul Thunders vs. Sonic Boom",
@@ -7175,7 +7186,7 @@
           "timestamp": 1794225007,
           "slug": "bkkbl-seo2-son-2026-11-09",
           "event_slug": "bkkbl-seo2-son-2026-11-09",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Seoul Thunders vs. Sonic Boom",
@@ -7186,7 +7197,7 @@
           "timestamp": 1794224973,
           "slug": "bkkbl-seo2-son-2026-11-09",
           "event_slug": "bkkbl-seo2-son-2026-11-09",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Chennai Open: Janice Tjen vs Magda Linette",
@@ -7197,7 +7208,7 @@
           "timestamp": 1794210030,
           "slug": "wta-tjen-linette-2026-11-08",
           "event_slug": "wta-tjen-linette-2026-11-08",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Club Atlético de Madrid vs. FC Barcelona: O/U 2.5",
@@ -7219,7 +7230,7 @@
           "timestamp": 1794169966,
           "slug": "por-ama-ben-2026-11-08-ben",
           "event_slug": "por-ama-ben-2026-11-08",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "ACF Fiorentina vs. Juventus FC: O/U 2.5",
@@ -7230,7 +7241,7 @@
           "timestamp": 1794169842,
           "slug": "sea-fio-juv-2026-11-08-total-2pt5",
           "event_slug": "sea-fio-juv-2026-11-08-more-markets",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "NK Varaždin vs. GNK Dinamo Zagreb: O/U 2.5",
@@ -7241,7 +7252,7 @@
           "timestamp": 1794160330,
           "slug": "hr1-var-din-2026-11-08-total-2pt5",
           "event_slug": "hr1-var-din-2026-11-08-more-markets",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "TSG 1899 Hoffenheim vs. FC Schalke 04: O/U 7.5 Total Corners",
@@ -7252,7 +7263,7 @@
           "timestamp": 1794160209,
           "slug": "bun-hof-s04-2026-11-08-corners-total-7pt5",
           "event_slug": "bun-hof-s04-2026-11-08-total-corners",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "TSG 1899 Hoffenheim vs. FC Schalke 04: O/U 7.5 Total Corners",
@@ -7263,7 +7274,7 @@
           "timestamp": 1794160174,
           "slug": "bun-hof-s04-2026-11-08-corners-total-7pt5",
           "event_slug": "bun-hof-s04-2026-11-08-total-corners",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "TSG 1899 Hoffenheim vs. FC Schalke 04: O/U 7.5 Total Corners",
@@ -7274,7 +7285,7 @@
           "timestamp": 1794160162,
           "slug": "bun-hof-s04-2026-11-08-corners-total-7pt5",
           "event_slug": "bun-hof-s04-2026-11-08-total-corners",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "TSG 1899 Hoffenheim vs. FC Schalke 04: O/U 7.5 Total Corners",
@@ -7285,7 +7296,7 @@
           "timestamp": 1794160146,
           "slug": "bun-hof-s04-2026-11-08-corners-total-7pt5",
           "event_slug": "bun-hof-s04-2026-11-08-total-corners",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "TSG 1899 Hoffenheim vs. FC Schalke 04: O/U 7.5 Total Corners",
@@ -7296,7 +7307,7 @@
           "timestamp": 1794160110,
           "slug": "bun-hof-s04-2026-11-08-corners-total-7pt5",
           "event_slug": "bun-hof-s04-2026-11-08-total-corners",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Manchester United FC vs. Aston Villa FC: O/U 4.5",
@@ -7307,7 +7318,7 @@
           "timestamp": 1794159288,
           "slug": "epl-mun-ast-2026-11-08-total-4pt5",
           "event_slug": "epl-mun-ast-2026-11-08-more-markets",
-          "result": "win"
+          "result": "ongoing"
         },
         {
           "title": "Ipswich Town FC vs. AFC Bournemouth: O/U 7.5 Total Corners",
@@ -7427,17 +7438,6 @@
           "value": 300,
           "timestamp": 1794123720,
           "slug": "aus-ade-vic-2026-11-08-total-3pt5",
-          "event_slug": "aus-ade-vic-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Adelaide United FC vs. Melbourne Victory FC: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.67,
-          "value": 13.4,
-          "timestamp": 1794123390,
-          "slug": "aus-ade-vic-2026-11-08-total-2pt5",
           "event_slug": "aus-ade-vic-2026-11-08-more-markets",
           "result": "win"
         }
@@ -7738,5 +7738,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T19:39:32.139Z"
+  "lastUpdate": "2026-11-10T19:50:53.353Z"
 }
