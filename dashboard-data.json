@@ -953,12 +953,23 @@
       "stats48h": {
         "wins": 19,
         "losses": 15,
-        "totalTrades": 34,
+        "totalTrades": 35,
         "winRate": 0.5588235294117647,
-        "volume": 67328.1435,
+        "volume": 68544.39749992336,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Blue Jackets (-1.5)",
+          "side": "BUY",
+          "outcome": "Blue Jackets",
+          "price": 0.279562631,
+          "value": 1216.2539999233602,
+          "timestamp": 1794309940,
+          "slug": "nhl-fla-cbj-2026-11-10-spread-home-1pt5",
+          "event_slug": "nhl-fla-cbj-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Islanders (-1.5)",
           "side": "BUY",
@@ -3271,7 +3282,7 @@
       "stats48h": {
         "wins": 35,
         "losses": 15,
-        "totalTrades": 63,
+        "totalTrades": 62,
         "winRate": 0.7,
         "volume": 708362.8045800534,
         "pnl": 0
@@ -3838,10 +3849,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 133559.5235979715,
+        "volume": 133548.5895979715,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Moshe Feiglin be the next Prime Minister of Israel?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.044,
+          "timestamp": 1794309681,
+          "slug": "will-moshe-feiglin-be-the-next-prime-minister-of-israel",
+          "event_slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "result": "ongoing"
+        },
         {
           "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
           "side": "SELL",
@@ -4379,17 +4401,6 @@
           "timestamp": 1794302460,
           "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
           "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Discord’s market cap be less than $5B at market close on IPO day by Decembe",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 10.978,
-          "timestamp": 1794302125,
-          "slug": "untitled-market-1-20260626185501036",
-          "event_slug": "discord-ipo-closing-market-cap-20260626185933220",
           "result": "ongoing"
         }
       ]
@@ -8057,5 +8068,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T11:20:26.191Z"
+  "lastUpdate": "2026-11-10T11:29:24.550Z"
 }
