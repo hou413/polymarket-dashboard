@@ -3849,10 +3849,65 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 42858.582309896774,
+        "volume": 27927.302239991175,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Anthropic's IPO valuation be $2.50T or more?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 44.91,
+          "timestamp": 1794313261,
+          "slug": "will-anthropics-ipo-valuation-be-2pt50t-or-more-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's IPO valuation be between $1.50T and $1.75T?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9627935556,
+          "value": 43.325710002,
+          "timestamp": 1794313261,
+          "slug": "will-anthropics-ipo-valuation-be-between-1pt50t-and-1pt75t-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's IPO valuation be between $2.00T and $2.25T?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 44.865,
+          "timestamp": 1794313261,
+          "slug": "will-anthropics-ipo-valuation-be-between-2pt00t-and-2pt25t-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's IPO valuation be between $1.75T and $2.00T?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 44.865,
+          "timestamp": 1794313261,
+          "slug": "will-anthropics-ipo-valuation-be-between-1pt75t-and-2pt00t-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's IPO valuation be less than $1.25T?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.835,
+          "value": 37.574999999999996,
+          "timestamp": 1794313261,
+          "slug": "will-anthropics-ipo-valuation-be-less-than-1pt25t-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
         {
           "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
           "side": "SELL",
@@ -4345,61 +4400,6 @@
           "value": 88.2,
           "timestamp": 1794302805,
           "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 89.55,
-          "timestamp": 1794302805,
-          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.996,
-          "value": 3843.564,
-          "timestamp": 1794302628,
-          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 3839.705,
-          "timestamp": 1794302628,
-          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9908581964,
-          "value": 3823.7217799075997,
-          "timestamp": 1794302628,
-          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.92,
-          "value": 3550.28,
-          "timestamp": 1794302628,
-          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
           "event_slug": "fed-decision-in-december-20260729232808632",
           "result": "ongoing"
         }
@@ -8068,5 +8068,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T12:23:26.517Z"
+  "lastUpdate": "2026-11-10T12:32:24.851Z"
 }
