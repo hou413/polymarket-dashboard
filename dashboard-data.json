@@ -952,13 +952,35 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 15,
-        "losses": 13,
-        "totalTrades": 33,
-        "winRate": 0.5357142857142857,
-        "volume": 73906.22729992335,
+        "losses": 12,
+        "totalTrades": 34,
+        "winRate": 0.5555555555555556,
+        "volume": 74280.93069992335,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Capitals vs. Senators",
+          "side": "BUY",
+          "outcome": "Senators",
+          "price": 0.5,
+          "value": 705.87,
+          "timestamp": 1794328263,
+          "slug": "nhl-wsh-ott-2026-11-10",
+          "event_slug": "nhl-wsh-ott-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Red Wings vs. Blues",
+          "side": "BUY",
+          "outcome": "Blues",
+          "price": 0.57,
+          "value": 1178.3382,
+          "timestamp": 1794328200,
+          "slug": "nhl-det-stl-2026-11-10",
+          "event_slug": "nhl-det-stl-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Avalanche (-1.5)",
           "side": "BUY",
@@ -1310,17 +1332,6 @@
           "slug": "nhl-utah-ott-2026-11-07-spread-home-1pt5",
           "event_slug": "nhl-utah-ott-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Spread: Rangers (-1.5)",
-          "side": "BUY",
-          "outcome": "Rangers",
-          "price": 0.34,
-          "value": 1509.5048000000002,
-          "timestamp": 1794069432,
-          "slug": "nhl-nyr-sea-2026-11-07-spread-away-1pt5",
-          "event_slug": "nhl-nyr-sea-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -1458,13 +1469,35 @@
       "specialty": "Politics",
       "stats48h": {
         "wins": 2,
-        "losses": 15,
-        "totalTrades": 69,
-        "winRate": 0.11764705882352941,
-        "volume": 14168.507956041087,
+        "losses": 13,
+        "totalTrades": 71,
+        "winRate": 0.13333333333333333,
+        "volume": 14168.151156041089,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Israel x Iran ceasefire continues through December 15?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.23,
+          "value": 367.0432,
+          "timestamp": 1794328191,
+          "slug": "israel-x-iran-ceasefire-continues-through-december-15",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
+        {
+          "title": "Israel x Iran ceasefire continues through November 22?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.11,
+          "value": 275,
+          "timestamp": 1794328179,
+          "slug": "israel-x-iran-ceasefire-continues-through-november-22",
+          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "result": "ongoing"
+        },
         {
           "title": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
           "side": "SELL",
@@ -1992,28 +2025,6 @@
           "slug": "will-iran-target-saudi-arabia-by-november-30-2026",
           "event_slug": "will-iran-target-saudi-arabia-byptptpt",
           "result": "ongoing"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.4,
-          "value": 525.2,
-          "timestamp": 1794165763,
-          "slug": "will-wti-dip-to-85-in-november-2026",
-          "event_slug": "what-price-will-wti-hit-in-november-2026",
-          "result": "loss"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.36625,
-          "value": 117.2,
-          "timestamp": 1794165730,
-          "slug": "will-wti-dip-to-85-in-november-2026",
-          "event_slug": "what-price-will-wti-hit-in-november-2026",
-          "result": "loss"
         }
       ]
     },
@@ -4546,11 +4557,11 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 32,
+        "wins": 30,
         "losses": 11,
-        "totalTrades": 43,
-        "winRate": 0.7441860465116279,
-        "volume": 74151.45849978928,
+        "totalTrades": 41,
+        "winRate": 0.7317073170731707,
+        "volume": 67714.95149999094,
         "pnl": 0
       },
       "recentTrades": [
@@ -5003,28 +5014,6 @@
           "timestamp": 1794078577,
           "slug": "epl-not-mac-2026-11-07-total-4pt5",
           "event_slug": "epl-not-mac-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Arsenal FC vs. Hull City AFC: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5199105123,
-          "value": 2900.861499798342,
-          "timestamp": 1794069579,
-          "slug": "epl-ars-hul-2026-11-07-total-1pt5",
-          "event_slug": "epl-ars-hul-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Arsenal FC vs. Hull City AFC: O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.45,
-          "value": 3535.6455,
-          "timestamp": 1794069382,
-          "slug": "epl-ars-hul-2026-11-07-total-1pt5",
-          "event_slug": "epl-ars-hul-2026-11-07-more-markets",
           "result": "win"
         }
       ]
@@ -7072,7 +7061,7 @@
       "stats48h": {
         "wins": 39,
         "losses": 1,
-        "totalTrades": 61,
+        "totalTrades": 58,
         "winRate": 0.975,
         "volume": 25649.381749984124,
         "pnl": 0
@@ -7958,5 +7947,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T16:32:39.114Z"
+  "lastUpdate": "2026-11-10T16:41:36.102Z"
 }
