@@ -1359,13 +1359,24 @@
       "specialty": "Politics",
       "stats48h": {
         "wins": 3,
-        "losses": 13,
+        "losses": 12,
         "totalTrades": 69,
-        "winRate": 0.1875,
-        "volume": 11331.739636007569,
+        "winRate": 0.2,
+        "volume": 10675.765636007569,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "US announces end of Iranian blockade by November 30, 2026?",
+          "side": "SELL",
+          "outcome": "No",
+          "price": 0.85,
+          "value": 1312.0259999999998,
+          "timestamp": 1794345964,
+          "slug": "us-announces-end-of-iranian-blockade-by-november-30-2026",
+          "event_slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+          "result": "ongoing"
+        },
         {
           "title": "Pete Hegseth out as Secretary of Defense by November 30?",
           "side": "BUY",
@@ -1904,17 +1915,6 @@
           "slug": "next-white-house-press-secretary-announced-by-november-30-2026",
           "event_slug": "next-press-secretary-announced-byptptpt",
           "result": "ongoing"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.41,
-          "value": 1967.9999999999998,
-          "timestamp": 1794177379,
-          "slug": "will-wti-dip-to-85-in-november-2026",
-          "event_slug": "what-price-will-wti-hit-in-november-2026",
-          "result": "loss"
         }
       ]
     },
@@ -7573,5 +7573,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T21:21:03.541Z"
+  "lastUpdate": "2026-11-10T21:29:39.725Z"
 }
