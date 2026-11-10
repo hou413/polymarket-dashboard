@@ -953,12 +953,23 @@
       "stats48h": {
         "wins": 10,
         "losses": 11,
-        "totalTrades": 29,
+        "totalTrades": 30,
         "winRate": 0.47619047619047616,
-        "volume": 70579.03939992336,
+        "volume": 71245.09699992336,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Capitals vs. Senators: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 666.0576000000001,
+          "timestamp": 1794335956,
+          "slug": "nhl-wsh-ott-2026-11-10-total-6pt5",
+          "event_slug": "nhl-wsh-ott-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Blues (-1.5)",
           "side": "BUY",
@@ -1415,7 +1426,7 @@
       "stats48h": {
         "wins": 2,
         "losses": 13,
-        "totalTrades": 72,
+        "totalTrades": 71,
         "winRate": 0.13333333333333333,
         "volume": 15299.211236010799,
         "pnl": 0
@@ -3761,10 +3772,32 @@
         "losses": 1,
         "totalTrades": 500,
         "winRate": 0.9090909090909091,
-        "volume": 4825.098609991557,
+        "volume": 4910.118609992357,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will FK Austria Wien win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.99,
+          "value": 90.09,
+          "timestamp": 1794335770,
+          "slug": "uwcl-slb-faw-2026-11-11-faw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.44,
+          "value": 40.04,
+          "timestamp": 1794335769,
+          "slug": "uwcl-slb-faw-2026-11-11-slb",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Will Volodymyr Zelenskyy be the next leader out before 2027?",
           "side": "SELL",
@@ -4290,28 +4323,6 @@
           "value": 16.3699999992,
           "timestamp": 1794323047,
           "slug": "uwcl-slb-faw-2026-11-11-exact-score-1-1",
-          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 3 - 1 FK Austria Wien?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9595833333,
-          "value": 23.0299999992,
-          "timestamp": 1794323047,
-          "slug": "uwcl-slb-faw-2026-11-11-exact-score-3-1",
-          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 2 - 0 FK Austria Wien?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.92,
-          "value": 22.080000000000002,
-          "timestamp": 1794323047,
-          "slug": "uwcl-slb-faw-2026-11-11-exact-score-2-0",
           "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
           "result": "ongoing"
         }
@@ -7804,5 +7815,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T18:38:03.269Z"
+  "lastUpdate": "2026-11-10T18:46:52.053Z"
 }
