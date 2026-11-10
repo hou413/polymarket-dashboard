@@ -3673,10 +3673,54 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3379.64878000686,
+        "volume": 3149.2344700025305,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the Fed decrease interest rates by 50+ bps after the March 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.99,
+          "value": 82.17,
+          "timestamp": 1794348073,
+          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-march-2027-meeting",
+          "event_slug": "fed-decision-in-march-2027",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 25 bps after the March 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9695457831,
+          "value": 80.4722999973,
+          "timestamp": 1794348073,
+          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-march-2027-meeting",
+          "event_slug": "fed-decision-in-march-2027",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed increase interest rates by 50+ bps after the March 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.979,
+          "value": 81.257,
+          "timestamp": 1794348073,
+          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-march-2027-meeting",
+          "event_slug": "fed-decision-in-march-2027",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will there be no change in Fed interest rates after the March 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.6,
+          "value": 49.8,
+          "timestamp": 1794348073,
+          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-march-2027-meeting",
+          "event_slug": "fed-decision-in-march-2027",
+          "result": "ongoing"
+        },
         {
           "title": "Will Trump and Putin not meet?",
           "side": "BUY",
@@ -4180,50 +4224,6 @@
           "value": 12.0765,
           "timestamp": 1794338170,
           "slug": "uwcl-slb-faw-2026-11-11-slb",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FK Austria Wien win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9980704829,
-          "value": 391.253610001629,
-          "timestamp": 1794338062,
-          "slug": "uwcl-slb-faw-2026-11-11-faw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8,
-          "value": 83.4,
-          "timestamp": 1794338061,
-          "slug": "uwcl-slb-faw-2026-11-11-slb",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthony Hernandez be the UFC Middleweight Champion on December 31, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.01,
-          "timestamp": 1794337480,
-          "slug": "will-anthony-hernandez-be-the-ufc-middleweight-champion-on-december-31-2026",
-          "event_slug": "who-will-be-ufc-middleweight-champion-at-the-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will FK Austria Wien win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.989,
-          "value": 49.45,
-          "timestamp": 1794337405,
-          "slug": "uwcl-slb-faw-2026-11-11-faw",
           "event_slug": "uwcl-slb-faw-2026-11-11",
           "result": "ongoing"
         }
@@ -6089,7 +6089,7 @@
       "stats48h": {
         "wins": 31,
         "losses": 19,
-        "totalTrades": 176,
+        "totalTrades": 173,
         "winRate": 0.62,
         "volume": 28368.646700429897,
         "pnl": 0
@@ -7507,5 +7507,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T21:55:27.692Z"
+  "lastUpdate": "2026-11-10T22:04:03.243Z"
 }
