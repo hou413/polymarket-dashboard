@@ -4282,11 +4282,11 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 19,
+        "wins": 14,
         "losses": 8,
-        "totalTrades": 27,
-        "winRate": 0.7037037037037037,
-        "volume": 47928.96809999094,
+        "totalTrades": 22,
+        "winRate": 0.6363636363636364,
+        "volume": 45946.42220000374,
         "pnl": 0
       },
       "recentTrades": [
@@ -4531,61 +4531,6 @@
           "slug": "mls-phi-tor-2026-11-07-spread-home-2pt5",
           "event_slug": "mls-phi-tor-2026-11-07-more-markets",
           "result": "loss"
-        },
-        {
-          "title": "Inter Miami CF vs. Charlotte FC: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.52,
-          "value": 147.16,
-          "timestamp": 1794090684,
-          "slug": "mls-mia-clt-2026-11-07-total-6pt5",
-          "event_slug": "mls-mia-clt-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Inter Miami CF vs. Charlotte FC: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.5,
-          "value": 466,
-          "timestamp": 1794090618,
-          "slug": "mls-mia-clt-2026-11-07-total-6pt5",
-          "event_slug": "mls-mia-clt-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Inter Miami CF vs. Charlotte FC: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.49,
-          "value": 196,
-          "timestamp": 1794090580,
-          "slug": "mls-mia-clt-2026-11-07-total-6pt5",
-          "event_slug": "mls-mia-clt-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Inter Miami CF vs. Charlotte FC: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.4880938156,
-          "value": 934.611799987192,
-          "timestamp": 1794090552,
-          "slug": "mls-mia-clt-2026-11-07-total-6pt5",
-          "event_slug": "mls-mia-clt-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Inter Miami CF vs. Charlotte FC: O/U 6.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.47,
-          "value": 238.77409999999998,
-          "timestamp": 1794090541,
-          "slug": "mls-mia-clt-2026-11-07-total-6pt5",
-          "event_slug": "mls-mia-clt-2026-11-07-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -5489,14 +5434,58 @@
       "label": "JabJabich",
       "specialty": "Tennis+NFL",
       "stats48h": {
-        "wins": 9,
+        "wins": 5,
         "losses": 20,
-        "totalTrades": 68,
-        "winRate": 0.3103448275862069,
-        "volume": 19502.011117240778,
+        "totalTrades": 71,
+        "winRate": 0.2,
+        "volume": 19306.518457212664,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Counter-Strike: BASEMENT BOYS vs 33 (BO3) - PGL Cluj-Napoca: Open Qualifier 1 Pl",
+          "side": "BUY",
+          "outcome": "33",
+          "price": 0.5378034645,
+          "value": 423.1598999725351,
+          "timestamp": 1794350034,
+          "slug": "cs2-bmb-331-2026-11-10",
+          "event_slug": "cs2-bmb-331-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: BASEMENT BOYS vs 33 (BO3) - PGL Cluj-Napoca: Open Qualifier 1 Pl",
+          "side": "BUY",
+          "outcome": "33",
+          "price": 0.5325609506,
+          "value": 51.988599997572,
+          "timestamp": 1794349882,
+          "slug": "cs2-bmb-331-2026-11-10",
+          "event_slug": "cs2-bmb-331-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: BASEMENT BOYS vs 33 (BO3) - PGL Cluj-Napoca: Open Qualifier 1 Pl",
+          "side": "BUY",
+          "outcome": "33",
+          "price": 0.5341176471,
+          "value": 45.4000000035,
+          "timestamp": 1794349818,
+          "slug": "cs2-bmb-331-2026-11-10",
+          "event_slug": "cs2-bmb-331-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: BASEMENT BOYS vs 33 (BO3) - PGL Cluj-Napoca: Open Qualifier 1 Pl",
+          "side": "BUY",
+          "outcome": "33",
+          "price": 0.4980295995,
+          "value": 68.64839999508,
+          "timestamp": 1794349815,
+          "slug": "cs2-bmb-331-2026-11-10",
+          "event_slug": "cs2-bmb-331-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: Honvéd vs Ryvex - Map 1 Winner",
           "side": "BUY",
@@ -6002,50 +5991,6 @@
           "slug": "cs2-eye-innerc2-2026-11-08-game2",
           "event_slug": "cs2-eye-innerc2-2026-11-08",
           "result": "win"
-        },
-        {
-          "title": "Map Handicap: PRE (-1.5) vs KUUSAMO.gg (+1.5)",
-          "side": "BUY",
-          "outcome": "Prestige",
-          "price": 0.69,
-          "value": 11.177999999999999,
-          "timestamp": 1794140760,
-          "slug": "cs2-pre-ksm-2026-11-08-map-handicap-away-1pt5",
-          "event_slug": "cs2-pre-ksm-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Counter-Strike: Prestige vs KUUSAMO.gg - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Prestige",
-          "price": 0.67,
-          "value": 492.45000000000005,
-          "timestamp": 1794140757,
-          "slug": "cs2-pre-ksm-2026-11-08-game2",
-          "event_slug": "cs2-pre-ksm-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Counter-Strike: Prestige vs KUUSAMO.gg - Map 2 Winner",
-          "side": "BUY",
-          "outcome": "Prestige",
-          "price": 0.6719586167,
-          "value": 161.07520000915702,
-          "timestamp": 1794140605,
-          "slug": "cs2-pre-ksm-2026-11-08-game2",
-          "event_slug": "cs2-pre-ksm-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "Counter-Strike: EYEBALLERS vs Inner Circle Prospect - Map 1 Winner",
-          "side": "BUY",
-          "outcome": "EYEBALLERS",
-          "price": 0.4279419359,
-          "value": 119.986359987642,
-          "timestamp": 1794140317,
-          "slug": "cs2-eye-innerc2-2026-11-08-game1",
-          "event_slug": "cs2-eye-innerc2-2026-11-08",
-          "result": "win"
         }
       ]
     },
@@ -6056,7 +6001,7 @@
       "stats48h": {
         "wins": 31,
         "losses": 19,
-        "totalTrades": 166,
+        "totalTrades": 165,
         "winRate": 0.62,
         "volume": 28368.646700429897,
         "pnl": 0
@@ -7474,5 +7419,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T22:29:50.953Z"
+  "lastUpdate": "2026-11-10T22:38:23.982Z"
 }
