@@ -2611,9 +2611,9 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 5,
+        "totalTrades": 4,
         "winRate": 0,
-        "volume": 2939.59999,
+        "volume": 2860.31327,
         "pnl": 0
       },
       "recentTrades": [
@@ -2658,17 +2658,6 @@
           "value": 2320.03607,
           "timestamp": 1794216313,
           "slug": "will-kamala-harris-win-the-2028-us-presidential-election",
-          "event_slug": "presidential-election-winner-2028",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ted Cruz win the 2028 US Presidential Election?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.004,
-          "value": 79.28672,
-          "timestamp": 1794055678,
-          "slug": "will-ted-cruz-win-the-2028-us-presidential-election",
           "event_slug": "presidential-election-winner-2028",
           "result": "ongoing"
         }
@@ -4623,14 +4612,488 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
-        "totalTrades": 0,
-        "winRate": 0,
-        "volume": 0,
+        "wins": 32,
+        "losses": 11,
+        "totalTrades": 43,
+        "winRate": 0.7441860465116279,
+        "volume": 74151.45849978928,
         "pnl": 0
       },
-      "recentTrades": []
+      "recentTrades": [
+        {
+          "title": "FC Utrecht vs. NEC: O/U 5.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.4329227711,
+          "value": 1648.5829000319331,
+          "timestamp": 1794170551,
+          "slug": "ere-utr-nec-2026-11-08-total-5pt5",
+          "event_slug": "ere-utr-nec-2026-11-08-more-markets",
+          "result": "loss"
+        },
+        {
+          "title": "Club Atlético de Madrid vs. FC Barcelona: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.53,
+          "value": 99.11,
+          "timestamp": 1794170350,
+          "slug": "lal-mad-bar-2026-11-08-total-3pt5",
+          "event_slug": "lal-mad-bar-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Club Atlético de Madrid vs. FC Barcelona: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 29.12,
+          "timestamp": 1794170295,
+          "slug": "lal-mad-bar-2026-11-08-total-3pt5",
+          "event_slug": "lal-mad-bar-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Club Atlético de Madrid vs. FC Barcelona: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 827.9284,
+          "timestamp": 1794170244,
+          "slug": "lal-mad-bar-2026-11-08-total-3pt5",
+          "event_slug": "lal-mad-bar-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Club Atlético de Madrid vs. FC Barcelona: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.51,
+          "value": 4694.6775,
+          "timestamp": 1794170179,
+          "slug": "lal-mad-bar-2026-11-08-total-3pt5",
+          "event_slug": "lal-mad-bar-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Club Atlético de Madrid vs. FC Barcelona: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 1408.115,
+          "timestamp": 1794170143,
+          "slug": "lal-mad-bar-2026-11-08-total-3pt5",
+          "event_slug": "lal-mad-bar-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "FC Internazionale Milano vs. Como 1907: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 1492,
+          "timestamp": 1794163243,
+          "slug": "sea-int-com-2026-11-08-total-2pt5",
+          "event_slug": "sea-int-com-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "FC Internazionale Milano vs. Como 1907: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 2324.145,
+          "timestamp": 1794163203,
+          "slug": "sea-int-com-2026-11-08-total-2pt5",
+          "event_slug": "sea-int-com-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "FC Internazionale Milano vs. Como 1907: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.47,
+          "value": 1479.56,
+          "timestamp": 1794163071,
+          "slug": "sea-int-com-2026-11-08-total-2pt5",
+          "event_slug": "sea-int-com-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "FC Internazionale Milano vs. Como 1907: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.46,
+          "value": 1581.02,
+          "timestamp": 1794163042,
+          "slug": "sea-int-com-2026-11-08-total-2pt5",
+          "event_slug": "sea-int-com-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Crystal Palace FC vs. Liverpool FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.55,
+          "value": 551.749,
+          "timestamp": 1794148380,
+          "slug": "epl-cry-liv-2026-11-08-total-2pt5",
+          "event_slug": "epl-cry-liv-2026-11-08-more-markets",
+          "result": "loss"
+        },
+        {
+          "title": "Crystal Palace FC vs. Liverpool FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.54,
+          "value": 5229.900000000001,
+          "timestamp": 1794148222,
+          "slug": "epl-cry-liv-2026-11-08-total-2pt5",
+          "event_slug": "epl-cry-liv-2026-11-08-more-markets",
+          "result": "loss"
+        },
+        {
+          "title": "Crystal Palace FC vs. Liverpool FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 1040,
+          "timestamp": 1794148182,
+          "slug": "epl-cry-liv-2026-11-08-total-2pt5",
+          "event_slug": "epl-cry-liv-2026-11-08-more-markets",
+          "result": "loss"
+        },
+        {
+          "title": "Sunderland AFC vs. Chelsea FC: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.49,
+          "value": 516.4355,
+          "timestamp": 1794145591,
+          "slug": "epl-sun-che-2026-11-08-total-2pt5",
+          "event_slug": "epl-sun-che-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "SC Heerenveen vs. Feyenoord Rotterdam: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.389084,
+          "value": 1167.252,
+          "timestamp": 1794142794,
+          "slug": "ere-her1-fey-2026-11-08-total-6pt5",
+          "event_slug": "ere-her1-fey-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "SSC Napoli vs. SS Lazio: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.48,
+          "value": 1740.7536,
+          "timestamp": 1794138702,
+          "slug": "sea-nap-laz-2026-11-08-total-2pt5",
+          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "SSC Napoli vs. SS Lazio: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.47,
+          "value": 3369.5945,
+          "timestamp": 1794138571,
+          "slug": "sea-nap-laz-2026-11-08-total-2pt5",
+          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "SSC Napoli vs. SS Lazio: O/U 2.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.47,
+          "value": 5793.2858,
+          "timestamp": 1794138546,
+          "slug": "sea-nap-laz-2026-11-08-total-2pt5",
+          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Knicks (-6.5)",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.58,
+          "value": 9860,
+          "timestamp": 1794098701,
+          "slug": "nba-nyk-cle-2026-11-07-spread-away-6pt5",
+          "event_slug": "nba-nyk-cle-2026-11-07",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Philadelphia Union (-2.5)",
+          "side": "BUY",
+          "outcome": "Toronto FC",
+          "price": 0.566708942,
+          "value": 353.00299997179997,
+          "timestamp": 1794091474,
+          "slug": "mls-phi-tor-2026-11-07-spread-home-2pt5",
+          "event_slug": "mls-phi-tor-2026-11-07-more-markets",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Philadelphia Union (-2.5)",
+          "side": "BUY",
+          "outcome": "Toronto FC",
+          "price": 0.558,
+          "value": 125.55000000000001,
+          "timestamp": 1794091438,
+          "slug": "mls-phi-tor-2026-11-07-spread-home-2pt5",
+          "event_slug": "mls-phi-tor-2026-11-07-more-markets",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Philadelphia Union (-2.5)",
+          "side": "BUY",
+          "outcome": "Toronto FC",
+          "price": 0.52,
+          "value": 614.64,
+          "timestamp": 1794091242,
+          "slug": "mls-phi-tor-2026-11-07-spread-home-2pt5",
+          "event_slug": "mls-phi-tor-2026-11-07-more-markets",
+          "result": "loss"
+        },
+        {
+          "title": "Inter Miami CF vs. Charlotte FC: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 147.16,
+          "timestamp": 1794090684,
+          "slug": "mls-mia-clt-2026-11-07-total-6pt5",
+          "event_slug": "mls-mia-clt-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Inter Miami CF vs. Charlotte FC: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 466,
+          "timestamp": 1794090618,
+          "slug": "mls-mia-clt-2026-11-07-total-6pt5",
+          "event_slug": "mls-mia-clt-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Inter Miami CF vs. Charlotte FC: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.49,
+          "value": 196,
+          "timestamp": 1794090580,
+          "slug": "mls-mia-clt-2026-11-07-total-6pt5",
+          "event_slug": "mls-mia-clt-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Inter Miami CF vs. Charlotte FC: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.4880938156,
+          "value": 934.611799987192,
+          "timestamp": 1794090552,
+          "slug": "mls-mia-clt-2026-11-07-total-6pt5",
+          "event_slug": "mls-mia-clt-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Inter Miami CF vs. Charlotte FC: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.47,
+          "value": 238.77409999999998,
+          "timestamp": 1794090541,
+          "slug": "mls-mia-clt-2026-11-07-total-6pt5",
+          "event_slug": "mls-mia-clt-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Paris Saint-Germain FC vs. ES Troyes AC: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.53,
+          "value": 1289.2356,
+          "timestamp": 1794087750,
+          "slug": "fl1-psg-tro-2026-11-07-total-1pt5",
+          "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Paris Saint-Germain FC vs. ES Troyes AC: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 2302,
+          "timestamp": 1794087675,
+          "slug": "fl1-psg-tro-2026-11-07-total-1pt5",
+          "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Paris Saint-Germain FC vs. ES Troyes AC: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 5122.215,
+          "timestamp": 1794087664,
+          "slug": "fl1-psg-tro-2026-11-07-total-1pt5",
+          "event_slug": "fl1-psg-tro-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Rockets vs. Suns: O/U 224.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.48,
+          "value": 3.5952,
+          "timestamp": 1794082153,
+          "slug": "nba-hou-phx-2026-11-07-total-224pt5",
+          "event_slug": "nba-hou-phx-2026-11-07",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Hawks (-6.5)",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.49,
+          "value": 192.5455,
+          "timestamp": 1794081237,
+          "slug": "nba-bkn-atl-2026-11-07-spread-home-6pt5",
+          "event_slug": "nba-bkn-atl-2026-11-07",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Nuggets (-8.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.48,
+          "value": 669.336,
+          "timestamp": 1794080919,
+          "slug": "nba-den-ind-2026-11-07-spread-away-8pt5",
+          "event_slug": "nba-den-ind-2026-11-07",
+          "result": "win"
+        },
+        {
+          "title": "Hertha BSC vs. VfL Wolfsburg: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.53,
+          "value": 1488.1870000000001,
+          "timestamp": 1794080241,
+          "slug": "bl2-ber-wob-2026-11-07-total-3pt5",
+          "event_slug": "bl2-ber-wob-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Hertha BSC vs. VfL Wolfsburg: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.53,
+          "value": 1398.4792,
+          "timestamp": 1794080232,
+          "slug": "bl2-ber-wob-2026-11-07-total-3pt5",
+          "event_slug": "bl2-ber-wob-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Hertha BSC vs. VfL Wolfsburg: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 1728.6776000000002,
+          "timestamp": 1794080149,
+          "slug": "bl2-ber-wob-2026-11-07-total-3pt5",
+          "event_slug": "bl2-ber-wob-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Hertha BSC vs. VfL Wolfsburg: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 963.5600000000001,
+          "timestamp": 1794080140,
+          "slug": "bl2-ber-wob-2026-11-07-total-3pt5",
+          "event_slug": "bl2-ber-wob-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Hertha BSC vs. VfL Wolfsburg: O/U 3.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.52,
+          "value": 1736.592,
+          "timestamp": 1794080127,
+          "slug": "bl2-ber-wob-2026-11-07-total-3pt5",
+          "event_slug": "bl2-ber-wob-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Nottingham Forest FC vs. Manchester City FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.26,
+          "value": 1.7550000000000001,
+          "timestamp": 1794079092,
+          "slug": "epl-not-mac-2026-11-07-total-4pt5",
+          "event_slug": "epl-not-mac-2026-11-07-more-markets",
+          "result": "loss"
+        },
+        {
+          "title": "Nottingham Forest FC vs. Manchester City FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.47,
+          "value": 1444.3052999999998,
+          "timestamp": 1794078667,
+          "slug": "epl-not-mac-2026-11-07-total-4pt5",
+          "event_slug": "epl-not-mac-2026-11-07-more-markets",
+          "result": "loss"
+        },
+        {
+          "title": "Nottingham Forest FC vs. Manchester City FC: O/U 4.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5,
+          "value": 1445.5,
+          "timestamp": 1794078577,
+          "slug": "epl-not-mac-2026-11-07-total-4pt5",
+          "event_slug": "epl-not-mac-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Arsenal FC vs. Hull City AFC: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.5199105123,
+          "value": 2900.861499798342,
+          "timestamp": 1794069579,
+          "slug": "epl-ars-hul-2026-11-07-total-1pt5",
+          "event_slug": "epl-ars-hul-2026-11-07-more-markets",
+          "result": "win"
+        },
+        {
+          "title": "Arsenal FC vs. Hull City AFC: O/U 1.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.45,
+          "value": 3535.6455,
+          "timestamp": 1794069382,
+          "slug": "epl-ars-hul-2026-11-07-total-1pt5",
+          "event_slug": "epl-ars-hul-2026-11-07-more-markets",
+          "result": "win"
+        }
+      ]
     },
     {
       "address": "0x14e7752d2716cd3b5bcbe8c08d4561491d9ebb64",
@@ -4651,14 +5114,565 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
-        "totalTrades": 0,
-        "winRate": 0,
-        "volume": 0,
+        "wins": 27,
+        "losses": 23,
+        "totalTrades": 500,
+        "winRate": 0.54,
+        "volume": 4666.502720078314,
         "pnl": 0
       },
-      "recentTrades": []
+      "recentTrades": [
+        {
+          "title": "Portland Pilots vs. Hawaii Rainbow Warriors",
+          "side": "BUY",
+          "outcome": "Portland Pilots",
+          "price": 0.41,
+          "value": 4.92,
+          "timestamp": 1794290403,
+          "slug": "cbb-port-hawaii-2026-11-09",
+          "event_slug": "cbb-port-hawaii-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-38.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.95,
+          "value": 453.853,
+          "timestamp": 1794287674,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-38pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-38.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.1114946225,
+          "value": 225.78776002474999,
+          "timestamp": 1794287202,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-38pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Pelicans vs. Warriors: O/U 231.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.53,
+          "value": 5.300000000000001,
+          "timestamp": 1794287044,
+          "slug": "nba-nop-gsw-2026-11-09-total-231pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-38.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.19,
+          "value": 190,
+          "timestamp": 1794286911,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-38pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-36.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.126650165,
+          "value": 153.49999998,
+          "timestamp": 1794286911,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-36pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-38.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.72,
+          "value": 29.2032,
+          "timestamp": 1794286444,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-38pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-32.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.7999375,
+          "value": 63.995,
+          "timestamp": 1794286210,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-32pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-34.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.2699926471,
+          "value": 183.595000028,
+          "timestamp": 1794286117,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-34pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-32.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.19,
+          "value": 142.5,
+          "timestamp": 1794286117,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-32pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-38.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.45,
+          "value": 205.20000000000002,
+          "timestamp": 1794286117,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-38pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-34.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.7299090909,
+          "value": 40.1449999995,
+          "timestamp": 1794286114,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-34pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-36.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.45,
+          "value": 2.25,
+          "timestamp": 1794285792,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-36pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-26.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.75,
+          "value": 7.5,
+          "timestamp": 1794285697,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-26pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-28.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.69,
+          "value": 3.4499999999999997,
+          "timestamp": 1794285697,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-28pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-36.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.3409716714,
+          "value": 120.3630000042,
+          "timestamp": 1794285696,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-36pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-30.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.5,
+          "value": 115.5,
+          "timestamp": 1794285654,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-30pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-28.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.53,
+          "value": 2.6500000000000004,
+          "timestamp": 1794285577,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-28pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Pelicans vs. Warriors: O/U 232.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.29,
+          "value": 162.98,
+          "timestamp": 1794285519,
+          "slug": "nba-nop-gsw-2026-11-09-total-232pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-30.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.4750636132,
+          "value": 186.6999999876,
+          "timestamp": 1794285510,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-30pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Warriors (-24.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.26,
+          "value": 1.3,
+          "timestamp": 1794285091,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-24pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-36.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.681,
+          "value": 3.4050000000000002,
+          "timestamp": 1794285091,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-36pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Pelicans vs. Warriors: O/U 232.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.49,
+          "value": 0.49,
+          "timestamp": 1794285034,
+          "slug": "nba-nop-gsw-2026-11-09-total-232pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-32.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.5,
+          "value": 32.5,
+          "timestamp": 1794284850,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-32pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-26.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.62,
+          "value": 3.1,
+          "timestamp": 1794284766,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-26pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Pelicans vs. Warriors: O/U 230.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.33,
+          "value": 1.6500000000000001,
+          "timestamp": 1794284679,
+          "slug": "nba-nop-gsw-2026-11-09-total-230pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-24.5)",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.7,
+          "value": 3.5,
+          "timestamp": 1794284679,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-24pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Bills (-16.5)",
+          "side": "BUY",
+          "outcome": "Bills",
+          "price": 0.45,
+          "value": 2.25,
+          "timestamp": 1794284379,
+          "slug": "nfl-buf-min-2026-11-10-spread-away-16pt5",
+          "event_slug": "nfl-buf-min-2026-11-10",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Spurs (-23.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.2,
+          "value": 10,
+          "timestamp": 1794284299,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-23pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Spurs (-27.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.5443455497,
+          "value": 103.96999999270001,
+          "timestamp": 1794284278,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-27pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Spurs (-21.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.92,
+          "value": 4.6000000000000005,
+          "timestamp": 1794284260,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-21pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Spurs (-29.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.2566307278,
+          "value": 3.808400000552,
+          "timestamp": 1794284224,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-29pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Spurs (-27.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.4538980807,
+          "value": 13.716799998753999,
+          "timestamp": 1794284224,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-27pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Spurs (-21.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.87,
+          "value": 174,
+          "timestamp": 1794284220,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-21pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Spurs (-19.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.214,
+          "value": 1.07,
+          "timestamp": 1794283956,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-19pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Spurs (-29.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.93,
+          "value": 4.65,
+          "timestamp": 1794283956,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-29pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Spurs (-31.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.748,
+          "value": 99.11,
+          "timestamp": 1794283720,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-31pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Spurs (-27.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.46,
+          "value": 2.3000000000000003,
+          "timestamp": 1794283720,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-27pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Spurs (-25.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.34,
+          "value": 1.7000000000000002,
+          "timestamp": 1794283719,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-25pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Spurs (-29.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.61,
+          "value": 195.81,
+          "timestamp": 1794283719,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-29pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Spurs (-21.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.15,
+          "value": 1.5,
+          "timestamp": 1794283612,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-21pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Spurs (-29.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.6169021518,
+          "value": 15.194299998833998,
+          "timestamp": 1794283579,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-29pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Spread: Spurs (-31.5)",
+          "side": "BUY",
+          "outcome": "Suns",
+          "price": 0.521,
+          "value": 104.2,
+          "timestamp": 1794283528,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-31pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "win"
+        },
+        {
+          "title": "Bills vs. Vikings",
+          "side": "BUY",
+          "outcome": "Vikings",
+          "price": 0.03,
+          "value": 106.785,
+          "timestamp": 1794283380,
+          "slug": "nfl-buf-min-2026-11-10",
+          "event_slug": "nfl-buf-min-2026-11-10",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Spurs (-33.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.366,
+          "value": 1.98006,
+          "timestamp": 1794283365,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-33pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Spurs (-31.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.4996270112,
+          "value": 20.494699999424004,
+          "timestamp": 1794283365,
+          "slug": "nba-sas-phx-2026-11-09-spread-away-31pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Spread: Warriors (-34.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.693,
+          "value": 15.938999999999998,
+          "timestamp": 1794283305,
+          "slug": "nba-nop-gsw-2026-11-09-spread-home-34pt5",
+          "event_slug": "nba-nop-gsw-2026-11-09",
+          "result": "loss"
+        },
+        {
+          "title": "Bills vs. Vikings",
+          "side": "BUY",
+          "outcome": "Bills",
+          "price": 0.95,
+          "value": 518.9375,
+          "timestamp": 1794283255,
+          "slug": "nfl-buf-min-2026-11-10",
+          "event_slug": "nfl-buf-min-2026-11-10",
+          "result": "win"
+        },
+        {
+          "title": "Bills vs. Vikings",
+          "side": "BUY",
+          "outcome": "Bills",
+          "price": 0.92,
+          "value": 266.8,
+          "timestamp": 1794283164,
+          "slug": "nfl-buf-min-2026-11-10",
+          "event_slug": "nfl-buf-min-2026-11-10",
+          "result": "win"
+        },
+        {
+          "title": "Spurs vs. Suns: O/U 217.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.349973176,
+          "value": 652.350000064,
+          "timestamp": 1794283159,
+          "slug": "nba-sas-phx-2026-11-09-total-217pt5",
+          "event_slug": "nba-sas-phx-2026-11-09",
+          "result": "win"
+        }
+      ]
     },
     {
       "address": "0x74b75e8436613e36fac0e007a01dfd33753d8b0b",
@@ -6122,14 +7136,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 45,
+        "wins": 44,
         "losses": 0,
-        "totalTrades": 62,
+        "totalTrades": 61,
         "winRate": 1,
-        "volume": 31920.17195000012,
+        "volume": 32307.003450000117,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "BNP Paribas Nordic Open: Alex Michelsen vs Juan Manuel Cerundolo",
+          "side": "BUY",
+          "outcome": "Alex Michelsen",
+          "price": 0.95,
+          "value": 499.6715,
+          "timestamp": 1794315132,
+          "slug": "atp-michels-cerund-2026-11-10",
+          "event_slug": "atp-michels-cerund-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "BNP Paribas Nordic Open: Adrian Mannarino vs Alexander Shevchenko",
           "side": "BUY",
@@ -6668,17 +7693,6 @@
           "slug": "bun-mai-bay-2026-11-07-bay",
           "event_slug": "bun-mai-bay-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Arsenal FC vs. Hull City AFC: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.868,
-          "value": 112.84,
-          "timestamp": 1794066675,
-          "slug": "epl-ars-hul-2026-11-07-total-0pt5",
-          "event_slug": "epl-ars-hul-2026-11-07-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -6999,5 +8013,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T12:50:58.620Z"
+  "lastUpdate": "2026-11-10T13:00:04.207Z"
 }
