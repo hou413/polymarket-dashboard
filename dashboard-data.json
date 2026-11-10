@@ -953,12 +953,23 @@
       "stats48h": {
         "wins": 5,
         "losses": 8,
-        "totalTrades": 24,
+        "totalTrades": 25,
         "winRate": 0.38461538461538464,
-        "volume": 57774.45639992336,
+        "volume": 57793.30639992336,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Senators (-1.5)",
+          "side": "BUY",
+          "outcome": "Senators",
+          "price": 0.29,
+          "value": 18.849999999999998,
+          "timestamp": 1794348427,
+          "slug": "nhl-wsh-ott-2026-11-10-spread-home-1pt5",
+          "event_slug": "nhl-wsh-ott-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Kings (-1.5)",
           "side": "BUY",
@@ -1360,7 +1371,7 @@
       "stats48h": {
         "wins": 3,
         "losses": 12,
-        "totalTrades": 66,
+        "totalTrades": 65,
         "winRate": 0.2,
         "volume": 10675.765636007569,
         "pnl": 0
@@ -3106,7 +3117,7 @@
       "stats48h": {
         "wins": 35,
         "losses": 15,
-        "totalTrades": 51,
+        "totalTrades": 50,
         "winRate": 0.7,
         "volume": 708362.8045800534,
         "pnl": 0
@@ -3673,10 +3684,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3149.2344700025305,
+        "volume": 3118.7079700025306,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.302,
+          "timestamp": 1794348321,
+          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 1.208,
+          "timestamp": 1794348321,
+          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will the Fed decrease interest rates by 50+ bps after the March 2027 meeting?",
           "side": "BUY",
@@ -4204,28 +4237,6 @@
           "slug": "will-the-fed-pausepausehike-in-the-next-three-decisions-octdecjan",
           "event_slug": "fed-decisions-oct-jan",
           "result": "ongoing"
-        },
-        {
-          "title": "Will FK Austria Wien win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 19.96,
-          "timestamp": 1794338170,
-          "slug": "uwcl-slb-faw-2026-11-11-faw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.83,
-          "value": 12.0765,
-          "timestamp": 1794338170,
-          "slug": "uwcl-slb-faw-2026-11-11-slb",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
         }
       ]
     },
@@ -4234,11 +4245,11 @@
       "label": "tennischamp",
       "specialty": "UFC+Tennis",
       "stats48h": {
-        "wins": 3,
+        "wins": 2,
         "losses": 1,
-        "totalTrades": 5,
-        "winRate": 0.75,
-        "volume": 51336.63116896722,
+        "totalTrades": 4,
+        "winRate": 0.6666666666666666,
+        "volume": 50641.19166896722,
         "pnl": 0
       },
       "recentTrades": [
@@ -4284,17 +4295,6 @@
           "timestamp": 1794089553,
           "slug": "ufc-wel-seo1-2026-11-07",
           "event_slug": "ufc-wel-seo1-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Texas A&M vs. South Carolina",
-          "side": "SELL",
-          "outcome": "South Carolina",
-          "price": 0.35,
-          "value": 695.4395,
-          "timestamp": 1794089364,
-          "slug": "cfb-txam-sc-2026-11-07",
-          "event_slug": "cfb-txam-sc-2026-11-07",
           "result": "win"
         }
       ]
@@ -6089,7 +6089,7 @@
       "stats48h": {
         "wins": 31,
         "losses": 19,
-        "totalTrades": 173,
+        "totalTrades": 167,
         "winRate": 0.62,
         "volume": 28368.646700429897,
         "pnl": 0
@@ -7507,5 +7507,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T22:04:03.243Z"
+  "lastUpdate": "2026-11-10T22:12:42.429Z"
 }
