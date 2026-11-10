@@ -3772,10 +3772,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 4841.896489990758,
+        "volume": 4825.098609991557,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Volodymyr Zelenskyy be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 0.47212000000000004,
+          "timestamp": 1794332161,
+          "slug": "will-volodymyr-zelenskyy-be-the-next-leader-out-before-2027-20260630194627373",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
         {
           "title": "Will Recep Tayyip Erdoğan be the next leader out before 2027?",
           "side": "SELL",
@@ -4312,17 +4323,6 @@
           "value": 22.080000000000002,
           "timestamp": 1794323047,
           "slug": "uwcl-slb-faw-2026-11-11-exact-score-2-0",
-          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
-          "result": "ongoing"
-        },
-        {
-          "title": "Exact Score: Sport Lisboa e Benfica 3 - 0 FK Austria Wien?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9594444444,
-          "value": 17.2699999992,
-          "timestamp": 1794323047,
-          "slug": "uwcl-slb-faw-2026-11-11-exact-score-3-0",
           "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
           "result": "ongoing"
         }
@@ -6950,9 +6950,9 @@
       "specialty": "J1+J2+重点",
       "stats48h": {
         "wins": 45,
-        "losses": 1,
+        "losses": 3,
         "totalTrades": 60,
-        "winRate": 0.9782608695652174,
+        "winRate": 0.9375,
         "volume": 25718.247029984122,
         "pnl": 0
       },
@@ -6988,7 +6988,7 @@
           "timestamp": 1794325186,
           "slug": "atp-rinderk-kecmano-2026-11-09",
           "event_slug": "atp-rinderk-kecmano-2026-11-09",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "BNP Paribas Nordic Open: Arthur Rinderknech vs Miomir Kecmanovic",
@@ -6999,7 +6999,7 @@
           "timestamp": 1794325177,
           "slug": "atp-rinderk-kecmano-2026-11-09",
           "event_slug": "atp-rinderk-kecmano-2026-11-09",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
@@ -7826,5 +7826,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T17:36:12.652Z"
+  "lastUpdate": "2026-11-10T17:45:02.603Z"
 }
