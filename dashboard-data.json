@@ -3794,10 +3794,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3243.284839999599,
+        "volume": 3166.285839999599,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.53,
+          "value": 5.300000000000001,
+          "timestamp": 1794340878,
+          "slug": "uwcl-slb-faw-2026-11-11-slb",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FK Austria Wien win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8997,
+          "value": 8.997,
+          "timestamp": 1794340878,
+          "slug": "uwcl-slb-faw-2026-11-11-faw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Will CU Técnica de Cajamarca vs. CD Los Chankas end in a draw?",
           "side": "BUY",
@@ -4323,28 +4345,6 @@
           "value": 185.628,
           "timestamp": 1794330888,
           "slug": "elon-musk-of-tweets-november-9-november-11-2026-140-164",
-          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 165-189 tweets from November 9 to November 11, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.096,
-          "timestamp": 1794330319,
-          "slug": "elon-musk-of-tweets-november-9-november-11-2026-165-189",
-          "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 90-114 tweets from November 9 to November 11, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.95,
-          "value": 91.19999999999999,
-          "timestamp": 1794330183,
-          "slug": "elon-musk-of-tweets-november-9-november-11-2026-90-114",
           "event_slug": "elon-musk-of-tweets-november-9-november-11-2026",
           "result": "ongoing"
         }
@@ -7716,5 +7716,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T19:59:39.018Z"
+  "lastUpdate": "2026-11-10T20:08:22.951Z"
 }
