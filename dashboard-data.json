@@ -1448,7 +1448,7 @@
       "stats48h": {
         "wins": 3,
         "losses": 13,
-        "totalTrades": 71,
+        "totalTrades": 70,
         "winRate": 0.1875,
         "volume": 11919.01963600757,
         "pnl": 0
@@ -4469,11 +4469,11 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 29,
+        "wins": 24,
         "losses": 9,
-        "totalTrades": 38,
-        "winRate": 0.7631578947368421,
-        "volume": 64823.39119999095,
+        "totalTrades": 33,
+        "winRate": 0.7272727272727273,
+        "volume": 57507.89539999095,
         "pnl": 0
       },
       "recentTrades": [
@@ -4839,61 +4839,6 @@
           "slug": "nba-den-ind-2026-11-07-spread-away-8pt5",
           "event_slug": "nba-den-ind-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "Hertha BSC vs. VfL Wolfsburg: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.53,
-          "value": 1488.1870000000001,
-          "timestamp": 1794080241,
-          "slug": "bl2-ber-wob-2026-11-07-total-3pt5",
-          "event_slug": "bl2-ber-wob-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Hertha BSC vs. VfL Wolfsburg: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.53,
-          "value": 1398.4792,
-          "timestamp": 1794080232,
-          "slug": "bl2-ber-wob-2026-11-07-total-3pt5",
-          "event_slug": "bl2-ber-wob-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Hertha BSC vs. VfL Wolfsburg: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.52,
-          "value": 1728.6776000000002,
-          "timestamp": 1794080149,
-          "slug": "bl2-ber-wob-2026-11-07-total-3pt5",
-          "event_slug": "bl2-ber-wob-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Hertha BSC vs. VfL Wolfsburg: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.52,
-          "value": 963.5600000000001,
-          "timestamp": 1794080140,
-          "slug": "bl2-ber-wob-2026-11-07-total-3pt5",
-          "event_slug": "bl2-ber-wob-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Hertha BSC vs. VfL Wolfsburg: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.52,
-          "value": 1736.592,
-          "timestamp": 1794080127,
-          "slug": "bl2-ber-wob-2026-11-07-total-3pt5",
-          "event_slug": "bl2-ber-wob-2026-11-07-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -4916,14 +4861,69 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 27,
-        "losses": 23,
+        "wins": 24,
+        "losses": 21,
         "totalTrades": 500,
-        "winRate": 0.54,
-        "volume": 4666.502720078314,
+        "winRate": 0.5333333333333333,
+        "volume": 3326.1939200152906,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Celtics (-3.5)",
+          "side": "BUY",
+          "outcome": "Celtics",
+          "price": 0.45,
+          "value": 9.450000000000001,
+          "timestamp": 1794339475,
+          "slug": "nba-bos-phi-2026-11-10-spread-away-3pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics 1H Team Total: O/U 55.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.53,
+          "value": 49.82,
+          "timestamp": 1794339318,
+          "slug": "nba-bos-phi-2026-11-10-1h-team-total-bos-55pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics 1H Team Total: O/U 55.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.5294680851,
+          "value": 49.7699999994,
+          "timestamp": 1794339316,
+          "slug": "nba-bos-phi-2026-11-10-1h-team-total-bos-55pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bucks vs. Knicks: 1H O/U 112.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.38,
+          "value": 7.6,
+          "timestamp": 1794339243,
+          "slug": "nba-mil-nyk-2026-11-10-1h-total-112pt5",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Josh Hart: Assists O/U 3.5",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.1952488889,
+          "value": 17.572400001,
+          "timestamp": 1794339174,
+          "slug": "nba-mil-nyk-2026-11-10-assists-josh-hart-3pt5",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Portland Pilots vs. Hawaii Rainbow Warriors",
           "side": "BUY",
@@ -5418,61 +5418,6 @@
           "slug": "nba-sas-phx-2026-11-09-spread-away-33pt5",
           "event_slug": "nba-sas-phx-2026-11-09",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-31.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.4996270112,
-          "value": 20.494699999424004,
-          "timestamp": 1794283365,
-          "slug": "nba-sas-phx-2026-11-09-spread-away-31pt5",
-          "event_slug": "nba-sas-phx-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-34.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.693,
-          "value": 15.938999999999998,
-          "timestamp": 1794283305,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-34pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Bills vs. Vikings",
-          "side": "BUY",
-          "outcome": "Bills",
-          "price": 0.95,
-          "value": 518.9375,
-          "timestamp": 1794283255,
-          "slug": "nfl-buf-min-2026-11-10",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Bills vs. Vikings",
-          "side": "BUY",
-          "outcome": "Bills",
-          "price": 0.92,
-          "value": 266.8,
-          "timestamp": 1794283164,
-          "slug": "nfl-buf-min-2026-11-10",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spurs vs. Suns: O/U 217.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.349973176,
-          "value": 652.350000064,
-          "timestamp": 1794283159,
-          "slug": "nba-sas-phx-2026-11-09-total-217pt5",
-          "event_slug": "nba-sas-phx-2026-11-09",
-          "result": "win"
         }
       ]
     },
@@ -7793,5 +7738,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T19:30:44.477Z"
+  "lastUpdate": "2026-11-10T19:39:32.139Z"
 }
