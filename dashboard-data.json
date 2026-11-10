@@ -3849,10 +3849,65 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 75433.14009882399,
+        "volume": 43028.54000989678,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Mlada Boleslav vs. Vysocina Jihlava end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.02,
+          "value": 0.2,
+          "timestamp": 1794312130,
+          "slug": "clf-mbl-jih-2026-11-13-draw",
+          "event_slug": "clf-mbl-jih-2026-11-13",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will John Barrasso be the next US Senate Minority Leader?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997,
+          "value": 24.925,
+          "timestamp": 1794312058,
+          "slug": "will-john-barrasso-be-the-next-us-senate-minority-leader",
+          "event_slug": "next-us-senate-minority-leader",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Rick Scott be the next US Senate Minority Leader?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.981,
+          "value": 24.525,
+          "timestamp": 1794312058,
+          "slug": "will-rick-scott-be-the-next-us-senate-minority-leader",
+          "event_slug": "next-us-senate-minority-leader",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Tom Cotton be the next US Senate Minority Leader?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.946,
+          "value": 23.65,
+          "timestamp": 1794312057,
+          "slug": "will-tom-cotton-be-the-next-us-senate-minority-leader",
+          "event_slug": "next-us-senate-minority-leader",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Mlada Boleslav vs. Vysocina Jihlava end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.0199339512,
+          "value": 1.3551100025760001,
+          "timestamp": 1794311862,
+          "slug": "clf-mbl-jih-2026-11-13-draw",
+          "event_slug": "clf-mbl-jih-2026-11-13",
+          "result": "ongoing"
+        },
         {
           "title": "Will Anthropic raise between $85B and $95B in its IPO?",
           "side": "BUY",
@@ -4344,61 +4399,6 @@
           "price": 0.993,
           "value": 81.426,
           "timestamp": 1794302577,
-          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.91,
-          "value": 74.62,
-          "timestamp": 1794302577,
-          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 81.59,
-          "timestamp": 1794302577,
-          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.91,
-          "value": 932.75,
-          "timestamp": 1794302530,
-          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9948675004,
-          "value": 12749.963219576297,
-          "timestamp": 1794302461,
-          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-          "event_slug": "fed-decision-in-december-20260729232808632",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9860001047,
-          "value": 18640.3319793535,
-          "timestamp": 1794302461,
           "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
           "event_slug": "fed-decision-in-december-20260729232808632",
           "result": "ongoing"
@@ -8068,5 +8068,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T11:56:21.330Z"
+  "lastUpdate": "2026-11-10T12:05:24.281Z"
 }
