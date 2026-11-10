@@ -953,12 +953,23 @@
       "stats48h": {
         "wins": 16,
         "losses": 14,
-        "totalTrades": 31,
+        "totalTrades": 32,
         "winRate": 0.5333333333333333,
-        "volume": 66522.33279992336,
+        "volume": 66567.86509992335,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Capitals vs. Senators: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.53,
+          "value": 45.5323,
+          "timestamp": 1794322269,
+          "slug": "nhl-wsh-ott-2026-11-10-total-6pt5",
+          "event_slug": "nhl-wsh-ott-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Blue Jackets (-1.5)",
           "side": "BUY",
@@ -3772,10 +3783,65 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2277.0893299841714,
+        "volume": 2640.55605000197,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Xi Jinping be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.003,
+          "value": 0.35406,
+          "timestamp": 1794322680,
+          "slug": "will-xi-jinping-be-the-next-leader-out-before-2027-20260630194627367",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 50+ bps after the March 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.979,
+          "value": 269.225,
+          "timestamp": 1794322228,
+          "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-march-2027-meeting",
+          "event_slug": "fed-decision-in-march-2027",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will there be no change in Fed interest rates after the March 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.56,
+          "value": 154.00000000000003,
+          "timestamp": 1794322228,
+          "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-march-2027-meeting",
+          "event_slug": "fed-decision-in-march-2027",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed increase interest rates by 50+ bps after the March 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.986,
+          "value": 271.15,
+          "timestamp": 1794322228,
+          "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-march-2027-meeting",
+          "event_slug": "fed-decision-in-march-2027",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 25 bps after the March 2027 meeting?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9652458182,
+          "value": 265.442600005,
+          "timestamp": 1794322228,
+          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-march-2027-meeting",
+          "event_slug": "fed-decision-in-march-2027",
+          "result": "ongoing"
+        },
         {
           "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
           "side": "SELL",
@@ -4269,61 +4335,6 @@
           "timestamp": 1794308736,
           "slug": "will-johnny-chiang-win-the-next-taichung-mayor-election-20260813125857401",
           "event_slug": "taichung-mayor-election-winner-20260813125857400",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic raise between $105B and $115B in its IPO?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9967134091,
-          "value": 131.5661700012,
-          "timestamp": 1794307816,
-          "slug": "will-anthropic-raise-between-105b-and-115b-in-its-ipo",
-          "event_slug": "how-much-will-anthropic-raise-in-its-ipo",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic raise between $115B and $125B in its IPO?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9978497727,
-          "value": 131.7161699964,
-          "timestamp": 1794307816,
-          "slug": "will-anthropic-raise-between-115b-and-125b-in-its-ipo",
-          "event_slug": "how-much-will-anthropic-raise-in-its-ipo",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic raise between $75B and $85B in its IPO?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8886243939,
-          "value": 117.2984199948,
-          "timestamp": 1794307816,
-          "slug": "will-anthropic-raise-between-75b-and-85b-in-its-ipo",
-          "event_slug": "how-much-will-anthropic-raise-in-its-ipo",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic raise between $95B and $105B in its IPO?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.993637803,
-          "value": 131.160189996,
-          "timestamp": 1794307816,
-          "slug": "will-anthropic-raise-between-95b-and-105b-in-its-ipo",
-          "event_slug": "how-much-will-anthropic-raise-in-its-ipo",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic raise between $65B and $75B in its IPO?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.6436665909,
-          "value": 84.9639899988,
-          "timestamp": 1794307816,
-          "slug": "will-anthropic-raise-between-65b-and-75b-in-its-ipo",
-          "event_slug": "how-much-will-anthropic-raise-in-its-ipo",
           "result": "ongoing"
         }
       ]
@@ -7070,14 +7081,36 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 44,
+        "wins": 42,
         "losses": 1,
-        "totalTrades": 60,
-        "winRate": 0.9777777777777777,
-        "volume": 28812.798429984123,
+        "totalTrades": 61,
+        "winRate": 0.9767441860465116,
+        "volume": 27963.666129984125,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Abu Dhabi T10 League: Yas Lions vs United Tigers",
+          "side": "BUY",
+          "outcome": "United Tigers",
+          "price": 0.65,
+          "value": 126.10000000000001,
+          "timestamp": 1794322554,
+          "slug": "cricadt10-yas-uni-2026-11-10",
+          "event_slug": "cricadt10-yas-uni-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
+          "side": "SELL",
+          "outcome": "Namibia Women",
+          "price": 0.999,
+          "value": 499.5,
+          "timestamp": 1794322528,
+          "slug": "crint-namw-ugaw-2026-11-10",
+          "event_slug": "crint-namw-ugaw-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Victoria Women T20I: Namibia Women vs Uganda Women",
           "side": "BUY",
@@ -7605,28 +7638,6 @@
           "slug": "ere-ado-spa-2026-11-07-total-1pt5",
           "event_slug": "ere-ado-spa-2026-11-07-more-markets",
           "result": "win"
-        },
-        {
-          "title": "SV Ried vs. LASK Linz: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.89,
-          "value": 714.7323,
-          "timestamp": 1794078699,
-          "slug": "aut-svr-ask-2026-11-07-total-4pt5",
-          "event_slug": "aut-svr-ask-2026-11-07-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "ADO Den Haag vs. Sparta Rotterdam: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.76,
-          "value": 760,
-          "timestamp": 1794074976,
-          "slug": "ere-ado-spa-2026-11-07-total-2pt5",
-          "event_slug": "ere-ado-spa-2026-11-07-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -7947,5 +7958,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T14:52:46.701Z"
+  "lastUpdate": "2026-11-10T15:01:47.947Z"
 }
