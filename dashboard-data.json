@@ -1234,10 +1234,10 @@
       "specialty": "MLB+UFC",
       "stats48h": {
         "wins": 2,
-        "losses": 6,
-        "totalTrades": 8,
-        "winRate": 0.25,
-        "volume": 610.8407,
+        "losses": 5,
+        "totalTrades": 7,
+        "winRate": 0.2857142857142857,
+        "volume": 550.7382,
         "pnl": 0
       },
       "recentTrades": [
@@ -1315,17 +1315,6 @@
           "value": 55.9575,
           "timestamp": 1794093580,
           "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
-          "side": "BUY",
-          "outcome": "Invictus Gaming",
-          "price": 0.29,
-          "value": 60.1025,
-          "timestamp": 1794092281,
-          "slug": "lol-ig1-gen-2026-11-07-game2",
           "event_slug": "lol-ig1-gen-2026-11-07",
           "result": "loss"
         }
@@ -3651,10 +3640,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3063.7509700025303,
+        "volume": 3584.599870002529,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will PP win the most seats in the 2026 Spanish general election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.17,
+          "value": 102.55590000000001,
+          "timestamp": 1794351202,
+          "slug": "will-pp-win-the-most-seats-in-the-2026-spanish-general-election",
+          "event_slug": "spain-general-election-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will PSOE win the most seats in the 2026 Spanish general election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.84,
+          "value": 506.74679999999995,
+          "timestamp": 1794351202,
+          "slug": "will-psoe-win-the-most-seats-in-the-2026-spanish-general-election",
+          "event_slug": "spain-general-election-winner",
+          "result": "ongoing"
+        },
         {
           "title": "Will Trump and Putin meet next in another country?",
           "side": "SELL",
@@ -4182,28 +4193,6 @@
           "slug": "will-the-fed-decide-differently-in-the-next-three-decisions-octdecjan-2026",
           "event_slug": "fed-decisions-oct-jan",
           "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed Pause-Pause-Pause in the next three decisions (Oct-Dec-Jan)?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.995,
-          "value": 56.2374,
-          "timestamp": 1794338460,
-          "slug": "will-the-fed-pausepausepause-in-the-next-three-decisions-octdecjan",
-          "event_slug": "fed-decisions-oct-jan",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the Fed Pause-Hike-Hike in the next three decisions (Oct-Dec-Jan)?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.57,
-          "value": 32.2164,
-          "timestamp": 1794338460,
-          "slug": "will-the-fed-pausehikehike-in-the-next-three-decisions-octdecjan",
-          "event_slug": "fed-decisions-oct-jan",
-          "result": "ongoing"
         }
       ]
     },
@@ -4476,14 +4465,36 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 22,
-        "losses": 18,
+        "wins": 21,
+        "losses": 17,
         "totalTrades": 500,
-        "winRate": 0.55,
-        "volume": 3194.2413600180566,
+        "winRate": 0.5526315789473685,
+        "volume": 3036.0370600180568,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jayson Tatum: Assists O/U 5.5",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.33,
+          "value": 22.535700000000002,
+          "timestamp": 1794351624,
+          "slug": "nba-bos-phi-2026-11-10-assists-jayson-tatum-5pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jaylen Brown: Points O/U 19.5",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.39,
+          "value": 16.77,
+          "timestamp": 1794351493,
+          "slug": "nba-bos-phi-2026-11-10-points-jaylen-brown-19pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Celtics vs. Raptors",
           "side": "BUY",
@@ -5009,28 +5020,6 @@
           "value": 2.3000000000000003,
           "timestamp": 1794283720,
           "slug": "nba-sas-phx-2026-11-09-spread-away-27pt5",
-          "event_slug": "nba-sas-phx-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Spurs (-25.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.34,
-          "value": 1.7000000000000002,
-          "timestamp": 1794283719,
-          "slug": "nba-sas-phx-2026-11-09-spread-away-25pt5",
-          "event_slug": "nba-sas-phx-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-29.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.61,
-          "value": 195.81,
-          "timestamp": 1794283719,
-          "slug": "nba-sas-phx-2026-11-09-spread-away-29pt5",
           "event_slug": "nba-sas-phx-2026-11-09",
           "result": "win"
         }
@@ -7342,5 +7331,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T22:55:25.179Z"
+  "lastUpdate": "2026-11-10T23:03:54.484Z"
 }
