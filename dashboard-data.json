@@ -1438,10 +1438,10 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 0,
-        "losses": 2,
-        "totalTrades": 3,
+        "losses": 1,
+        "totalTrades": 2,
         "winRate": 0,
-        "volume": 41714.428503081304,
+        "volume": 39918.2322030813,
         "pnl": 0
       },
       "recentTrades": [
@@ -1464,17 +1464,6 @@
           "value": 39476.7826030813,
           "timestamp": 1794185728,
           "slug": "lol-blg-t1-2026-11-08-game4",
-          "event_slug": "lol-blg-t1-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Bilibili Gaming vs T1 - Game 2 Winner",
-          "side": "BUY",
-          "outcome": "Bilibili Gaming",
-          "price": 0.67,
-          "value": 1796.1963,
-          "timestamp": 1794179727,
-          "slug": "lol-blg-t1-2026-11-08-game2",
           "event_slug": "lol-blg-t1-2026-11-08",
           "result": "loss"
         }
@@ -2595,10 +2584,65 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 12598.439199676903,
+        "volume": 12729.763999676903,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Penn Quakers vs. Navy Midshipmen",
+          "side": "BUY",
+          "outcome": "Navy Midshipmen",
+          "price": 0.31,
+          "value": 1.8599999999999999,
+          "timestamp": 1794439299,
+          "slug": "cbb-penn-navy-2026-11-11",
+          "event_slug": "cbb-penn-navy-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Penn Quakers (-7.5)",
+          "side": "BUY",
+          "outcome": "Penn Quakers",
+          "price": 0.38,
+          "value": 1.9,
+          "timestamp": 1794439279,
+          "slug": "cbb-penn-navy-2026-11-11-spread-away-7pt5",
+          "event_slug": "cbb-penn-navy-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Penn Quakers vs. Navy Midshipmen",
+          "side": "BUY",
+          "outcome": "Navy Midshipmen",
+          "price": 0.31,
+          "value": 1.8599999999999999,
+          "timestamp": 1794439216,
+          "slug": "cbb-penn-navy-2026-11-11",
+          "event_slug": "cbb-penn-navy-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Penn Quakers vs. Navy Midshipmen",
+          "side": "BUY",
+          "outcome": "Navy Midshipmen",
+          "price": 0.26,
+          "value": 178.6148,
+          "timestamp": 1794439195,
+          "slug": "cbb-penn-navy-2026-11-11",
+          "event_slug": "cbb-penn-navy-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Penn Quakers vs. Navy Midshipmen",
+          "side": "BUY",
+          "outcome": "Navy Midshipmen",
+          "price": 0.23,
+          "value": 1.84,
+          "timestamp": 1794439177,
+          "slug": "cbb-penn-navy-2026-11-11",
+          "event_slug": "cbb-penn-navy-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Penn Quakers vs. Navy Midshipmen",
           "side": "BUY",
@@ -3090,61 +3134,6 @@
           "price": 0.76,
           "value": 20.52,
           "timestamp": 1794429738,
-          "slug": "cbb-stjoe-sfl-2026-11-11",
-          "event_slug": "cbb-stjoe-sfl-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: South Florida Bulls (-7.5)",
-          "side": "BUY",
-          "outcome": "Saint Josephs Hawks",
-          "price": 0.59,
-          "value": 10.03,
-          "timestamp": 1794429475,
-          "slug": "cbb-stjoe-sfl-2026-11-11-spread-home-7pt5",
-          "event_slug": "cbb-stjoe-sfl-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Saint Joseph's Hawks vs. South Florida Bulls",
-          "side": "BUY",
-          "outcome": "Saint Josephs Hawks",
-          "price": 0.26,
-          "value": 1.82,
-          "timestamp": 1794429475,
-          "slug": "cbb-stjoe-sfl-2026-11-11",
-          "event_slug": "cbb-stjoe-sfl-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Saint Joseph's Hawks vs. South Florida Bulls",
-          "side": "BUY",
-          "outcome": "South Florida Bulls",
-          "price": 0.69,
-          "value": 20.7,
-          "timestamp": 1794429406,
-          "slug": "cbb-stjoe-sfl-2026-11-11",
-          "event_slug": "cbb-stjoe-sfl-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Saint Joseph's Hawks vs. South Florida Bulls",
-          "side": "BUY",
-          "outcome": "Saint Josephs Hawks",
-          "price": 0.3,
-          "value": 1.7999999999999998,
-          "timestamp": 1794429363,
-          "slug": "cbb-stjoe-sfl-2026-11-11",
-          "event_slug": "cbb-stjoe-sfl-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Saint Joseph's Hawks vs. South Florida Bulls",
-          "side": "BUY",
-          "outcome": "South Florida Bulls",
-          "price": 0.68,
-          "value": 20.400000000000002,
-          "timestamp": 1794429303,
           "slug": "cbb-stjoe-sfl-2026-11-11",
           "event_slug": "cbb-stjoe-sfl-2026-11-11",
           "result": "ongoing"
@@ -4807,5 +4796,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T23:16:41.208Z"
+  "lastUpdate": "2026-11-11T23:23:36.154Z"
 }
