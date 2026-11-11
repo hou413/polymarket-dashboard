@@ -1255,11 +1255,11 @@
       "label": "VeryLucky888",
       "specialty": "MLB+UFC",
       "stats48h": {
-        "wins": 2,
-        "losses": 2,
-        "totalTrades": 4,
-        "winRate": 0.5,
-        "volume": 371.5787,
+        "wins": 1,
+        "losses": 0,
+        "totalTrades": 1,
+        "winRate": 1,
+        "volume": 62.304,
         "pnl": 0
       },
       "recentTrades": [
@@ -1273,39 +1273,6 @@
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
           "result": "win"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.26,
-          "value": 53.9968,
-          "timestamp": 1794097650,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "SELL",
-          "outcome": "Invictus Gaming",
-          "price": 0.75,
-          "value": 129.3675,
-          "timestamp": 1794097642,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "loss"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "SELL",
-          "outcome": "Invictus Gaming",
-          "price": 0.73,
-          "value": 125.9104,
-          "timestamp": 1794097294,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -1881,7 +1848,7 @@
       "stats48h": {
         "wins": 0,
         "losses": 50,
-        "totalTrades": 59,
+        "totalTrades": 56,
         "winRate": 0,
         "volume": 1524823.624901891,
         "pnl": 0
@@ -3618,10 +3585,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2681.3520499993288,
+        "volume": 2687.1895900000286,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will FK Austria Wien win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.84,
+          "value": 17.64,
+          "timestamp": 1794356422,
+          "slug": "uwcl-slb-faw-2026-11-11-faw",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.4537904762,
+          "value": 9.5296000002,
+          "timestamp": 1794356422,
+          "slug": "uwcl-slb-faw-2026-11-11-slb",
+          "event_slug": "uwcl-slb-faw-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Will FUT Win the BLAST Rivals Hong Kong 2026?",
           "side": "BUY",
@@ -4149,28 +4138,6 @@
           "slug": "uwcl-slb-faw-2026-11-11-slb",
           "event_slug": "uwcl-slb-faw-2026-11-11",
           "result": "ongoing"
-        },
-        {
-          "title": "Will FK Austria Wien win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8719973333,
-          "value": 13.0799599995,
-          "timestamp": 1794338776,
-          "slug": "uwcl-slb-faw-2026-11-11-faw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.55014,
-          "value": 8.252099999999999,
-          "timestamp": 1794338712,
-          "slug": "uwcl-slb-faw-2026-11-11-slb",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
         }
       ]
     },
@@ -4443,14 +4410,234 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 2,
-        "losses": 4,
+        "wins": 0,
+        "losses": 0,
         "totalTrades": 500,
-        "winRate": 0.3333333333333333,
-        "volume": 4180.41866000905,
+        "winRate": 0,
+        "volume": 3092.218299980399,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Davidson Wildcats (-11.5)",
+          "side": "BUY",
+          "outcome": "Davidson Wildcats",
+          "price": 0.59,
+          "value": 2.9499999999999997,
+          "timestamp": 1794356950,
+          "slug": "cbb-bradly-david-2026-11-10-spread-home-11pt5",
+          "event_slug": "cbb-bradly-david-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bradley Braves vs. Davidson Wildcats",
+          "side": "BUY",
+          "outcome": "Bradley Braves",
+          "price": 0.07,
+          "value": 2.0300000000000002,
+          "timestamp": 1794356932,
+          "slug": "cbb-bradly-david-2026-11-10",
+          "event_slug": "cbb-bradly-david-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bradley Braves vs. Davidson Wildcats",
+          "side": "BUY",
+          "outcome": "Davidson Wildcats",
+          "price": 0.94,
+          "value": 66.74,
+          "timestamp": 1794356827,
+          "slug": "cbb-bradly-david-2026-11-10",
+          "event_slug": "cbb-bradly-david-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "La Salle Explorers vs. Villanova Wildcats",
+          "side": "BUY",
+          "outcome": "La Salle Explorers",
+          "price": 0.0398834951,
+          "value": 20.5399999765,
+          "timestamp": 1794356802,
+          "slug": "cbb-lasal-vill-2026-11-10",
+          "event_slug": "cbb-lasal-vill-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Winthrop Eagles vs. Kennesaw State Owls",
+          "side": "BUY",
+          "outcome": "Winthrop Eagles",
+          "price": 0.44,
+          "value": 2.2,
+          "timestamp": 1794356785,
+          "slug": "cbb-winth-kenest-2026-11-10",
+          "event_slug": "cbb-winth-kenest-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "La Salle Explorers vs. Villanova Wildcats",
+          "side": "BUY",
+          "outcome": "La Salle Explorers",
+          "price": 0.039,
+          "value": 2.184,
+          "timestamp": 1794356745,
+          "slug": "cbb-lasal-vill-2026-11-10",
+          "event_slug": "cbb-lasal-vill-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. Duquesne Dukes",
+          "side": "BUY",
+          "outcome": "Washington State Cougars",
+          "price": 0.57,
+          "value": 21.09,
+          "timestamp": 1794356691,
+          "slug": "cbb-washst-duq-2026-11-10",
+          "event_slug": "cbb-washst-duq-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Memphis Tigers",
+          "price": 0.09,
+          "value": 0.8999999999999999,
+          "timestamp": 1794356649,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Memphis Tigers",
+          "price": 0.086,
+          "value": 2.15,
+          "timestamp": 1794356622,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Memphis Tigers",
+          "price": 0.11,
+          "value": 2.2,
+          "timestamp": 1794356610,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Winthrop Eagles vs. Kennesaw State Owls",
+          "side": "BUY",
+          "outcome": "Winthrop Eagles",
+          "price": 0.31,
+          "value": 13.249400000000001,
+          "timestamp": 1794356607,
+          "slug": "cbb-winth-kenest-2026-11-10",
+          "event_slug": "cbb-winth-kenest-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "La Salle Explorers vs. Villanova Wildcats",
+          "side": "BUY",
+          "outcome": "La Salle Explorers",
+          "price": 0.0375339286,
+          "value": 2.1019000016000002,
+          "timestamp": 1794356604,
+          "slug": "cbb-lasal-vill-2026-11-10",
+          "event_slug": "cbb-lasal-vill-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Michigan State Spartans vs. Duke Blue Devils",
+          "side": "BUY",
+          "outcome": "Michigan State Spartans",
+          "price": 0.43,
+          "value": 2.15,
+          "timestamp": 1794356530,
+          "slug": "cbb-mst-duke-2026-11-10",
+          "event_slug": "cbb-mst-duke-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State vs. Bowling Green",
+          "side": "BUY",
+          "outcome": "Kent State",
+          "price": 0.36,
+          "value": 5.3999999999999995,
+          "timestamp": 1794356514,
+          "slug": "cfb-kentst-bowlgr-2026-11-10",
+          "event_slug": "cfb-kentst-bowlgr-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Memphis Tigers",
+          "price": 0.14,
+          "value": 2.1,
+          "timestamp": 1794356496,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Memphis Tigers",
+          "price": 0.14,
+          "value": 1.9600000000000002,
+          "timestamp": 1794356493,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Michigan State Spartans vs. Duke Blue Devils",
+          "side": "BUY",
+          "outcome": "Michigan State Spartans",
+          "price": 0.43,
+          "value": 2.15,
+          "timestamp": 1794356482,
+          "slug": "cbb-mst-duke-2026-11-10",
+          "event_slug": "cbb-mst-duke-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Michigan State Spartans vs. Duke Blue Devils",
+          "side": "BUY",
+          "outcome": "Michigan State Spartans",
+          "price": 0.43,
+          "value": 2.15,
+          "timestamp": 1794356451,
+          "slug": "cbb-mst-duke-2026-11-10",
+          "event_slug": "cbb-mst-duke-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State vs. Bowling Green",
+          "side": "BUY",
+          "outcome": "Kent State",
+          "price": 0.35,
+          "value": 357,
+          "timestamp": 1794356431,
+          "slug": "cfb-kentst-bowlgr-2026-11-10",
+          "event_slug": "cfb-kentst-bowlgr-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Kennesaw State Owls (-9.5)",
+          "side": "BUY",
+          "outcome": "Kennesaw State Owls",
+          "price": 0.3,
+          "value": 1.5,
+          "timestamp": 1794356340,
+          "slug": "cbb-winth-kenest-2026-11-10-spread-home-9pt5",
+          "event_slug": "cbb-winth-kenest-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Michigan State Spartans vs. Duke Blue Devils",
           "side": "BUY",
@@ -4780,226 +4967,6 @@
           "slug": "cbb-lasal-vill-2026-11-10-spread-home-21pt5",
           "event_slug": "cbb-lasal-vill-2026-11-10",
           "result": "ongoing"
-        },
-        {
-          "title": "Jayson Tatum: Rebounds O/U 7.5",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.47,
-          "value": 6.109999999999999,
-          "timestamp": 1794351882,
-          "slug": "nba-bos-phi-2026-11-10-rebounds-jayson-tatum-7pt5",
-          "event_slug": "nba-bos-phi-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jayson Tatum: Rebounds O/U 7.5",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.45,
-          "value": 290.25,
-          "timestamp": 1794351871,
-          "slug": "nba-bos-phi-2026-11-10-rebounds-jayson-tatum-7pt5",
-          "event_slug": "nba-bos-phi-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jayson Tatum: Assists O/U 5.5",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.33,
-          "value": 22.535700000000002,
-          "timestamp": 1794351624,
-          "slug": "nba-bos-phi-2026-11-10-assists-jayson-tatum-5pt5",
-          "event_slug": "nba-bos-phi-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Jaylen Brown: Points O/U 19.5",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.39,
-          "value": 16.77,
-          "timestamp": 1794351493,
-          "slug": "nba-bos-phi-2026-11-10-points-jaylen-brown-19pt5",
-          "event_slug": "nba-bos-phi-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Raptors",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.62,
-          "value": 21.7868,
-          "timestamp": 1794347179,
-          "slug": "nba-bos-tor-2026-11-11",
-          "event_slug": "nba-bos-tor-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Bucks vs. Knicks: 1H O/U 118.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.23,
-          "value": 7.82,
-          "timestamp": 1794339741,
-          "slug": "nba-mil-nyk-2026-11-10-1h-total-118pt5",
-          "event_slug": "nba-mil-nyk-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Bucks vs. Knicks: 1H O/U 118.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.2277777778,
-          "value": 16.4000000016,
-          "timestamp": 1794339739,
-          "slug": "nba-mil-nyk-2026-11-10-1h-total-118pt5",
-          "event_slug": "nba-mil-nyk-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-2.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.47,
-          "value": 22.56,
-          "timestamp": 1794339580,
-          "slug": "nba-bos-phi-2026-11-10-spread-away-2pt5",
-          "event_slug": "nba-bos-phi-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-2.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.47,
-          "value": 29.139999999999997,
-          "timestamp": 1794339579,
-          "slug": "nba-bos-phi-2026-11-10-spread-away-2pt5",
-          "event_slug": "nba-bos-phi-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-3.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.45,
-          "value": 9.450000000000001,
-          "timestamp": 1794339475,
-          "slug": "nba-bos-phi-2026-11-10-spread-away-3pt5",
-          "event_slug": "nba-bos-phi-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics 1H Team Total: O/U 55.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.53,
-          "value": 49.82,
-          "timestamp": 1794339318,
-          "slug": "nba-bos-phi-2026-11-10-1h-team-total-bos-55pt5",
-          "event_slug": "nba-bos-phi-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics 1H Team Total: O/U 55.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.5294680851,
-          "value": 49.7699999994,
-          "timestamp": 1794339316,
-          "slug": "nba-bos-phi-2026-11-10-1h-team-total-bos-55pt5",
-          "event_slug": "nba-bos-phi-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Bucks vs. Knicks: 1H O/U 112.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.38,
-          "value": 7.6,
-          "timestamp": 1794339243,
-          "slug": "nba-mil-nyk-2026-11-10-1h-total-112pt5",
-          "event_slug": "nba-mil-nyk-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Josh Hart: Assists O/U 3.5",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.1952488889,
-          "value": 17.572400001,
-          "timestamp": 1794339174,
-          "slug": "nba-mil-nyk-2026-11-10-assists-josh-hart-3pt5",
-          "event_slug": "nba-mil-nyk-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Portland Pilots vs. Hawaii Rainbow Warriors",
-          "side": "BUY",
-          "outcome": "Portland Pilots",
-          "price": 0.41,
-          "value": 4.92,
-          "timestamp": 1794290403,
-          "slug": "cbb-port-hawaii-2026-11-09",
-          "event_slug": "cbb-port-hawaii-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-38.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.95,
-          "value": 453.853,
-          "timestamp": 1794287674,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-38pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-38.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.1114946225,
-          "value": 225.78776002474999,
-          "timestamp": 1794287202,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-38pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Pelicans vs. Warriors: O/U 231.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.53,
-          "value": 5.300000000000001,
-          "timestamp": 1794287044,
-          "slug": "nba-nop-gsw-2026-11-09-total-231pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-38.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.19,
-          "value": 190,
-          "timestamp": 1794286911,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-38pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-36.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.126650165,
-          "value": 153.49999998,
-          "timestamp": 1794286911,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-36pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
         }
       ]
     },
@@ -5008,11 +4975,11 @@
       "label": "RNGUzi",
       "specialty": "Soccer+NFL",
       "stats48h": {
-        "wins": 12,
+        "wins": 10,
         "losses": 2,
-        "totalTrades": 14,
-        "winRate": 0.8571428571428571,
-        "volume": 84343.53769001529,
+        "totalTrades": 12,
+        "winRate": 0.8333333333333334,
+        "volume": 80244.29329002542,
         "pnl": 0
       },
       "recentTrades": [
@@ -5146,28 +5113,6 @@
           "timestamp": 1794131863,
           "slug": "cs2-mglz-mouz-2026-11-08-game3",
           "event_slug": "cs2-mglz-mouz-2026-11-08",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.34,
-          "value": 6.361400000000001,
-          "timestamp": 1794097722,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "BUY",
-          "outcome": "Gen.G",
-          "price": 0.3040515112,
-          "value": 4092.88299998988,
-          "timestamp": 1794097678,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
           "result": "win"
         }
       ]
@@ -5823,14 +5768,47 @@
       "label": "0xfC0847fe",
       "specialty": "Soccer+NHL",
       "stats48h": {
-        "wins": 31,
+        "wins": 28,
         "losses": 19,
-        "totalTrades": 151,
-        "winRate": 0.62,
-        "volume": 28368.646700429897,
+        "totalTrades": 154,
+        "winRate": 0.5957446808510638,
+        "volume": 37893.61979963907,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Devils vs. Jets",
+          "side": "BUY",
+          "outcome": "Jets",
+          "price": 0.4218659555,
+          "value": 6830.9547992853195,
+          "timestamp": 1794356649,
+          "slug": "nhl-nj-wpg-2026-11-10",
+          "event_slug": "nhl-nj-wpg-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Devils vs. Jets",
+          "side": "BUY",
+          "outcome": "Jets",
+          "price": 0.4193854264,
+          "value": 1451.8074998401999,
+          "timestamp": 1794356647,
+          "slug": "nhl-nj-wpg-2026-11-10",
+          "event_slug": "nhl-nj-wpg-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Devils vs. Jets",
+          "side": "BUY",
+          "outcome": "Devils",
+          "price": 0.5876356556,
+          "value": 1496.8608000836562,
+          "timestamp": 1794356643,
+          "slug": "nhl-nj-wpg-2026-11-10",
+          "event_slug": "nhl-nj-wpg-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Islanders vs. Sharks",
           "side": "BUY",
@@ -6344,39 +6322,6 @@
           "price": 0.7374040373,
           "value": 823.370599968434,
           "timestamp": 1794278535,
-          "slug": "nfl-buf-min-2026-11-10",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Bills vs. Vikings",
-          "side": "SELL",
-          "outcome": "Bills",
-          "price": 0.61,
-          "value": 14.03,
-          "timestamp": 1794275898,
-          "slug": "nfl-buf-min-2026-11-10",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Bills vs. Vikings",
-          "side": "SELL",
-          "outcome": "Bills",
-          "price": 0.53,
-          "value": 48.230000000000004,
-          "timestamp": 1794274606,
-          "slug": "nfl-buf-min-2026-11-10",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Bills vs. Vikings",
-          "side": "SELL",
-          "outcome": "Bills",
-          "price": 0.53,
-          "value": 192.39000000000001,
-          "timestamp": 1794274603,
           "slug": "nfl-buf-min-2026-11-10",
           "event_slug": "nfl-buf-min-2026-11-10",
           "result": "win"
@@ -7243,5 +7188,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T00:22:14.784Z"
+  "lastUpdate": "2026-11-11T00:30:37.878Z"
 }
