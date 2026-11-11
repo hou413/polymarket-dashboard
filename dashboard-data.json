@@ -1870,7 +1870,7 @@
       "stats48h": {
         "wins": 0,
         "losses": 50,
-        "totalTrades": 85,
+        "totalTrades": 82,
         "winRate": 0,
         "volume": 1524823.624901891,
         "pnl": 0
@@ -4443,14 +4443,25 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 19,
+        "wins": 18,
         "losses": 17,
         "totalTrades": 500,
-        "winRate": 0.5277777777777778,
-        "volume": 3230.987060018056,
+        "winRate": 0.5142857142857142,
+        "volume": 3229.3970600180564,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Villanova Wildcats (-21.5)",
+          "side": "BUY",
+          "outcome": "La Salle Explorers",
+          "price": 0.51,
+          "value": 3.06,
+          "timestamp": 1794355432,
+          "slug": "cbb-lasal-vill-2026-11-10-spread-home-21pt5",
+          "event_slug": "cbb-lasal-vill-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Jayson Tatum: Rebounds O/U 7.5",
           "side": "BUY",
@@ -4989,17 +5000,6 @@
           "slug": "nba-sas-phx-2026-11-09-spread-away-19pt5",
           "event_slug": "nba-sas-phx-2026-11-09",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Spurs (-29.5)",
-          "side": "BUY",
-          "outcome": "Suns",
-          "price": 0.93,
-          "value": 4.65,
-          "timestamp": 1794283956,
-          "slug": "nba-sas-phx-2026-11-09-spread-away-29pt5",
-          "event_slug": "nba-sas-phx-2026-11-09",
-          "result": "win"
         }
       ]
     },
@@ -6400,9 +6400,9 @@
       "specialty": "J1+J2+重点",
       "stats48h": {
         "wins": 45,
-        "losses": 4,
+        "losses": 5,
         "totalTrades": 53,
-        "winRate": 0.9183673469387755,
+        "winRate": 0.9,
         "volume": 25046.626439984128,
         "pnl": 0
       },
@@ -6416,7 +6416,7 @@
           "timestamp": 1794340255,
           "slug": "uwcl-asr-ser-2026-11-10-total-3pt5",
           "event_slug": "uwcl-asr-ser-2026-11-10-more-markets",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Abu Dhabi T10 League: UAE Bulls vs Emirates Eagles",
@@ -7254,5 +7254,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-10T23:56:42.456Z"
+  "lastUpdate": "2026-11-11T00:05:09.201Z"
 }
