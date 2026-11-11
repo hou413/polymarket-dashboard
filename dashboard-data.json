@@ -3143,10 +3143,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 37232.453860001406,
+        "volume": 37241.12258000141,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Vitality Win the BLAST Rivals Hong Kong 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.38,
+          "value": 8.6754,
+          "timestamp": 1794395308,
+          "slug": "will-vitality-win-the-blast-rivals-hong-kong-2026-1793811600000",
+          "event_slug": "blast-rivals-hong-kong-2026-winner-1793811600000",
+          "result": "ongoing"
+        },
         {
           "title": "Will FURIA Win the BLAST Rivals Hong Kong 2026?",
           "side": "SELL",
@@ -3684,17 +3695,6 @@
           "timestamp": 1794370503,
           "slug": "elon-musk-of-tweets-november-6-november-13-2026-400-419",
           "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 720-739 tweets in November 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.00668,
-          "timestamp": 1794370023,
-          "slug": "elon-musk-of-tweets-november-2026-720-739",
-          "event_slug": "elon-musk-of-tweets-november-2026",
           "result": "ongoing"
         }
       ]
@@ -5880,14 +5880,25 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 43,
+        "wins": 42,
         "losses": 5,
-        "totalTrades": 50,
-        "winRate": 0.8958333333333334,
-        "volume": 24462.72704001083,
+        "totalTrades": 51,
+        "winRate": 0.8936170212765957,
+        "volume": 24130.10457001083,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Big Bash League, Women: Perth Scorchers vs Sydney Thunder",
+          "side": "SELL",
+          "outcome": "Perth Scorchers",
+          "price": 0.999,
+          "value": 1091.37753,
+          "timestamp": 1794395920,
+          "slug": "cricwbbl-pes-syt-2026-11-11",
+          "event_slug": "cricwbbl-pes-syt-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Big Bash League, Women: Perth Scorchers vs Sydney Thunder",
           "side": "BUY",
@@ -6426,17 +6437,6 @@
           "slug": "ere-her1-fey-2026-11-08-total-5pt5",
           "event_slug": "ere-her1-fey-2026-11-08-more-markets",
           "result": "win"
-        },
-        {
-          "title": "FC København vs. Brøndby IF: O/U 0.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.89,
-          "value": 1424,
-          "timestamp": 1794136960,
-          "slug": "den-kob-bro-2026-11-08-total-0pt5",
-          "event_slug": "den-kob-bro-2026-11-08-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -6735,5 +6735,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T11:11:27.481Z"
+  "lastUpdate": "2026-11-11T11:19:21.063Z"
 }
