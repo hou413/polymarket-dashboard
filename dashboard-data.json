@@ -3143,10 +3143,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 37005.64148000521,
+        "volume": 36931.260400006075,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Bank of England increases interest rates by 50+ bps after December 2026 meeting?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.019690000000000003,
+          "timestamp": 1794398649,
+          "slug": "bank-of-england-increases-interest-rates-by-50-bps-after-december-2026-meeting",
+          "event_slug": "bank-of-england-decision-in-december-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
           "side": "SELL",
@@ -3683,17 +3694,6 @@
           "value": 73.2942,
           "timestamp": 1794375018,
           "slug": "will-mahmoud-abbas-be-the-next-leader-out-before-2027-20260630194627378",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kim Jong Un be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9947956946,
-          "value": 74.400769999134,
-          "timestamp": 1794375018,
-          "slug": "will-kim-jong-un-be-the-next-leader-out-before-2027-20260630194627366",
           "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
           "result": "ongoing"
         }
@@ -4719,7 +4719,7 @@
       "stats48h": {
         "wins": 9,
         "losses": 20,
-        "totalTrades": 62,
+        "totalTrades": 60,
         "winRate": 0.3103448275862069,
         "volume": 19306.518457212664,
         "pnl": 0
@@ -6412,11 +6412,11 @@
       "label": "fakeky",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 7,
+        "wins": 6,
         "losses": 12,
-        "totalTrades": 19,
-        "winRate": 0.3684210526315789,
-        "volume": 81123.99334024393,
+        "totalTrades": 18,
+        "winRate": 0.3333333333333333,
+        "volume": 79016.05744010393,
         "pnl": 0
       },
       "recentTrades": [
@@ -6617,17 +6617,6 @@
           "slug": "sea-nap-laz-2026-11-08-total-3pt5",
           "event_slug": "sea-nap-laz-2026-11-08-more-markets",
           "result": "win"
-        },
-        {
-          "title": "SSC Napoli vs. SS Lazio: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.6199811471,
-          "value": 2107.93590014,
-          "timestamp": 1794139657,
-          "slug": "sea-nap-laz-2026-11-08-total-3pt5",
-          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
-          "result": "win"
         }
       ]
     },
@@ -6702,5 +6691,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T12:01:36.917Z"
+  "lastUpdate": "2026-11-11T12:09:53.332Z"
 }
