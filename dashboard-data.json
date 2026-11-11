@@ -3143,10 +3143,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 37241.12258000141,
+        "volume": 37246.82498000141,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Kiin win Worlds 2026 Finals MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.078,
+          "value": 6.0294,
+          "timestamp": 1794395913,
+          "slug": "will-kiin-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
         {
           "title": "Will Vitality Win the BLAST Rivals Hong Kong 2026?",
           "side": "SELL",
@@ -3684,17 +3695,6 @@
           "timestamp": 1794371479,
           "slug": "will-a-win-the-ak-al-house-seat",
           "event_slug": "ak-al-house-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 400-419 tweets from November 6 to November 13, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.003,
-          "value": 0.327,
-          "timestamp": 1794370503,
-          "slug": "elon-musk-of-tweets-november-6-november-13-2026-400-419",
-          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
           "result": "ongoing"
         }
       ]
@@ -5882,7 +5882,7 @@
       "stats48h": {
         "wins": 42,
         "losses": 5,
-        "totalTrades": 51,
+        "totalTrades": 50,
         "winRate": 0.8936170212765957,
         "volume": 24130.10457001083,
         "pnl": 0
@@ -6735,5 +6735,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T11:19:21.063Z"
+  "lastUpdate": "2026-11-11T11:27:20.424Z"
 }
