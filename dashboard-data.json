@@ -1881,7 +1881,7 @@
       "stats48h": {
         "wins": 0,
         "losses": 50,
-        "totalTrades": 70,
+        "totalTrades": 59,
         "winRate": 0,
         "volume": 1524823.624901891,
         "pnl": 0
@@ -3060,11 +3060,11 @@
       "label": "surfandturf",
       "specialty": "Soccer+UFC",
       "stats48h": {
-        "wins": 35,
+        "wins": 34,
         "losses": 15,
-        "totalTrades": 50,
-        "winRate": 0.7,
-        "volume": 708362.8045800534,
+        "totalTrades": 49,
+        "winRate": 0.6938775510204082,
+        "volume": 683387.0853000535,
         "pnl": 0
       },
       "recentTrades": [
@@ -3605,17 +3605,6 @@
           "timestamp": 1794097963,
           "slug": "cfb-iowa-nw-2026-11-07",
           "event_slug": "cfb-iowa-nw-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Will Real Madrid CF win on 2026-11-07?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.999,
-          "value": 24975.71928,
-          "timestamp": 1794096759,
-          "slug": "lal-val-rea-2026-11-07-rea",
-          "event_slug": "lal-val-rea-2026-11-07",
           "result": "win"
         }
       ]
@@ -4454,14 +4443,212 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 12,
-        "losses": 12,
+        "wins": 2,
+        "losses": 4,
         "totalTrades": 500,
-        "winRate": 0.5,
-        "volume": 3069.10486002645,
+        "winRate": 0.3333333333333333,
+        "volume": 4180.41866000905,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Michigan State Spartans vs. Duke Blue Devils",
+          "side": "BUY",
+          "outcome": "Michigan State Spartans",
+          "price": 0.39,
+          "value": 1.9500000000000002,
+          "timestamp": 1794356316,
+          "slug": "cbb-mst-duke-2026-11-10",
+          "event_slug": "cbb-mst-duke-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. Duquesne Dukes",
+          "side": "BUY",
+          "outcome": "Washington State Cougars",
+          "price": 0.4379591837,
+          "value": 21.4600000013,
+          "timestamp": 1794356295,
+          "slug": "cbb-washst-duq-2026-11-10",
+          "event_slug": "cbb-washst-duq-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. Duquesne Dukes",
+          "side": "BUY",
+          "outcome": "Washington State Cougars",
+          "price": 0.4236734694,
+          "value": 20.7600000006,
+          "timestamp": 1794356284,
+          "slug": "cbb-washst-duq-2026-11-10",
+          "event_slug": "cbb-washst-duq-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Memphis Tigers",
+          "price": 0.13,
+          "value": 2.21,
+          "timestamp": 1794356257,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. Duquesne Dukes",
+          "side": "BUY",
+          "outcome": "Duquesne Dukes",
+          "price": 0.56,
+          "value": 2.8000000000000003,
+          "timestamp": 1794356248,
+          "slug": "cbb-washst-duq-2026-11-10",
+          "event_slug": "cbb-washst-duq-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Memphis Tigers",
+          "price": 0.13,
+          "value": 2.21,
+          "timestamp": 1794356244,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State vs. Bowling Green",
+          "side": "BUY",
+          "outcome": "Kent State",
+          "price": 0.24,
+          "value": 509.03999999999996,
+          "timestamp": 1794356196,
+          "slug": "cfb-kentst-bowlgr-2026-11-10",
+          "event_slug": "cfb-kentst-bowlgr-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State vs. Bowling Green",
+          "side": "BUY",
+          "outcome": "Kent State",
+          "price": 0.23,
+          "value": 2.99,
+          "timestamp": 1794356193,
+          "slug": "cfb-kentst-bowlgr-2026-11-10",
+          "event_slug": "cfb-kentst-bowlgr-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State vs. Bowling Green",
+          "side": "BUY",
+          "outcome": "Kent State",
+          "price": 0.23,
+          "value": 2.0700000000000003,
+          "timestamp": 1794356191,
+          "slug": "cfb-kentst-bowlgr-2026-11-10",
+          "event_slug": "cfb-kentst-bowlgr-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State vs. Bowling Green",
+          "side": "BUY",
+          "outcome": "Bowling Green",
+          "price": 0.8,
+          "value": 446.28000000000003,
+          "timestamp": 1794356124,
+          "slug": "cfb-kentst-bowlgr-2026-11-10",
+          "event_slug": "cfb-kentst-bowlgr-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Kennesaw State Owls (-9.5)",
+          "side": "BUY",
+          "outcome": "Winthrop Eagles",
+          "price": 0.72,
+          "value": 3.5999999999999996,
+          "timestamp": 1794356112,
+          "slug": "cbb-winth-kenest-2026-11-10-spread-home-9pt5",
+          "event_slug": "cbb-winth-kenest-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. Duquesne Dukes",
+          "side": "BUY",
+          "outcome": "Washington State Cougars",
+          "price": 0.44,
+          "value": 21.56,
+          "timestamp": 1794356085,
+          "slug": "cbb-washst-duq-2026-11-10",
+          "event_slug": "cbb-washst-duq-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Villanova Wildcats (-21.5)",
+          "side": "BUY",
+          "outcome": "Villanova Wildcats",
+          "price": 0.37,
+          "value": 1.85,
+          "timestamp": 1794356064,
+          "slug": "cbb-lasal-vill-2026-11-10-spread-home-21pt5",
+          "event_slug": "cbb-lasal-vill-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Michigan State Spartans vs. Duke Blue Devils",
+          "side": "BUY",
+          "outcome": "Michigan State Spartans",
+          "price": 0.42,
+          "value": 3.36,
+          "timestamp": 1794356064,
+          "slug": "cbb-mst-duke-2026-11-10",
+          "event_slug": "cbb-mst-duke-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "La Salle Explorers vs. Villanova Wildcats: O/U 155.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.41,
+          "value": 205,
+          "timestamp": 1794356064,
+          "slug": "cbb-lasal-vill-2026-11-10-total-155pt5",
+          "event_slug": "cbb-lasal-vill-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State vs. Bowling Green",
+          "side": "BUY",
+          "outcome": "Bowling Green",
+          "price": 0.8,
+          "value": 1144,
+          "timestamp": 1794356044,
+          "slug": "cfb-kentst-bowlgr-2026-11-10",
+          "event_slug": "cfb-kentst-bowlgr-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. Duquesne Dukes",
+          "side": "BUY",
+          "outcome": "Duquesne Dukes",
+          "price": 0.57,
+          "value": 21.659999999999997,
+          "timestamp": 1794356017,
+          "slug": "cbb-washst-duq-2026-11-10",
+          "event_slug": "cbb-washst-duq-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Winthrop Eagles vs. Kennesaw State Owls",
+          "side": "BUY",
+          "outcome": "Winthrop Eagles",
+          "price": 0.32,
+          "value": 2.24,
+          "timestamp": 1794355987,
+          "slug": "cbb-winth-kenest-2026-11-10",
+          "event_slug": "cbb-winth-kenest-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Winthrop Eagles vs. Kennesaw State Owls",
           "side": "BUY",
@@ -4813,204 +5000,6 @@
           "slug": "nba-nop-gsw-2026-11-09-spread-home-36pt5",
           "event_slug": "nba-nop-gsw-2026-11-09",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-38.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.72,
-          "value": 29.2032,
-          "timestamp": 1794286444,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-38pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-32.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.7999375,
-          "value": 63.995,
-          "timestamp": 1794286210,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-32pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-34.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.2699926471,
-          "value": 183.595000028,
-          "timestamp": 1794286117,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-34pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-32.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.19,
-          "value": 142.5,
-          "timestamp": 1794286117,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-32pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-38.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.45,
-          "value": 205.20000000000002,
-          "timestamp": 1794286117,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-38pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-34.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.7299090909,
-          "value": 40.1449999995,
-          "timestamp": 1794286114,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-34pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-36.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.45,
-          "value": 2.25,
-          "timestamp": 1794285792,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-36pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-26.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.75,
-          "value": 7.5,
-          "timestamp": 1794285697,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-26pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-28.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.69,
-          "value": 3.4499999999999997,
-          "timestamp": 1794285697,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-28pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-36.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.3409716714,
-          "value": 120.3630000042,
-          "timestamp": 1794285696,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-36pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-30.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.5,
-          "value": 115.5,
-          "timestamp": 1794285654,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-30pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-28.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.53,
-          "value": 2.6500000000000004,
-          "timestamp": 1794285577,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-28pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Pelicans vs. Warriors: O/U 232.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.29,
-          "value": 162.98,
-          "timestamp": 1794285519,
-          "slug": "nba-nop-gsw-2026-11-09-total-232pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-30.5)",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.4750636132,
-          "value": 186.6999999876,
-          "timestamp": 1794285510,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-30pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Warriors (-24.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.26,
-          "value": 1.3,
-          "timestamp": 1794285091,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-24pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-36.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.681,
-          "value": 3.4050000000000002,
-          "timestamp": 1794285091,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-36pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Pelicans vs. Warriors: O/U 232.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.49,
-          "value": 0.49,
-          "timestamp": 1794285034,
-          "slug": "nba-nop-gsw-2026-11-09-total-232pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Warriors (-32.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.5,
-          "value": 32.5,
-          "timestamp": 1794284850,
-          "slug": "nba-nop-gsw-2026-11-09-spread-home-32pt5",
-          "event_slug": "nba-nop-gsw-2026-11-09",
-          "result": "loss"
         }
       ]
     },
@@ -5019,11 +5008,11 @@
       "label": "RNGUzi",
       "specialty": "Soccer+NFL",
       "stats48h": {
-        "wins": 13,
+        "wins": 12,
         "losses": 2,
-        "totalTrades": 15,
-        "winRate": 0.8666666666666667,
-        "volume": 89952.47349084598,
+        "totalTrades": 14,
+        "winRate": 0.8571428571428571,
+        "volume": 84343.53769001529,
         "pnl": 0
       },
       "recentTrades": [
@@ -5177,17 +5166,6 @@
           "price": 0.3040515112,
           "value": 4092.88299998988,
           "timestamp": 1794097678,
-          "slug": "lol-ig1-gen-2026-11-07-game3",
-          "event_slug": "lol-ig1-gen-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
-          "side": "SELL",
-          "outcome": "Gen.G",
-          "price": 0.3320364564,
-          "value": 5608.935800830692,
-          "timestamp": 1794096898,
           "slug": "lol-ig1-gen-2026-11-07-game3",
           "event_slug": "lol-ig1-gen-2026-11-07",
           "result": "win"
@@ -7265,5 +7243,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T00:13:41.210Z"
+  "lastUpdate": "2026-11-11T00:22:14.784Z"
 }
