@@ -3496,10 +3496,54 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2663.7936899868596,
+        "volume": 2613.5686099876593,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will CU Técnica de Cajamarca vs. CD Los Chankas end in a draw?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.013,
+          "value": 1.5599999999999998,
+          "timestamp": 1794378834,
+          "slug": "per1-ctd-clc-2026-11-13-draw",
+          "event_slug": "per1-ctd-clc-2026-11-13",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will CU Técnica de Cajamarca win on 2026-11-13?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.996,
+          "value": 119.52,
+          "timestamp": 1794378832,
+          "slug": "per1-ctd-clc-2026-11-13-ctd",
+          "event_slug": "per1-ctd-clc-2026-11-13",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Claudia Sheinbaum be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.07479000000000001,
+          "timestamp": 1794378810,
+          "slug": "will-claudia-sheinbaum-be-the-next-leader-out-before-2027-20260630194627381",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Gavin Newsom be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.07479000000000001,
+          "timestamp": 1794378625,
+          "slug": "will-gavin-newsom-be-the-next-leader-out-before-2027-20260630194627370",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
         {
           "title": "Will Ebba Busch be the next Prime Minister of Sweden?",
           "side": "BUY",
@@ -4005,50 +4049,6 @@
           "slug": "will-there-be-no-next-qwen-max-model-3pt9-release-by-november-30-2026",
           "event_slug": "next-qwen-max-3pt9-released-onptptpt-20261106",
           "result": "ongoing"
-        },
-        {
-          "title": "Will the next Qwen Max model (3.9+) be released on November 13, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 42.914,
-          "timestamp": 1794367993,
-          "slug": "will-the-next-qwen-max-model-3pt9-be-released-on-november-13-2026",
-          "event_slug": "next-qwen-max-3pt9-released-onptptpt-20261106",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the next Qwen Max model (3.9+) be released on November 20, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998247907,
-          "value": 42.924660001,
-          "timestamp": 1794367993,
-          "slug": "will-the-next-qwen-max-model-3pt9-be-released-on-november-20-2026",
-          "event_slug": "next-qwen-max-3pt9-released-onptptpt-20261106",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the next Qwen Max model (3.9+) be released on November 19, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.993,
-          "value": 42.699,
-          "timestamp": 1794367993,
-          "slug": "will-the-next-qwen-max-model-3pt9-be-released-on-november-19-2026",
-          "event_slug": "next-qwen-max-3pt9-released-onptptpt-20261106",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the next Qwen Max model (3.9+) be released on November 12, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9980697674,
-          "value": 42.9169999982,
-          "timestamp": 1794367993,
-          "slug": "will-the-next-qwen-max-model-3pt9-be-released-on-november-12-2026",
-          "event_slug": "next-qwen-max-3pt9-released-onptptpt-20261106",
-          "result": "ongoing"
         }
       ]
     },
@@ -4314,10 +4314,21 @@
         "losses": 2,
         "totalTrades": 500,
         "winRate": 0.6,
-        "volume": 15920.946299869955,
+        "volume": 15936.296299860755,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Trail Blazers (-16.5)",
+          "side": "BUY",
+          "outcome": "Thunder",
+          "price": 0.1236363636,
+          "value": 27.199999992,
+          "timestamp": 1794378576,
+          "slug": "nba-okc-por-2026-11-10-spread-home-16pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Trail Blazers (-16.5)",
           "side": "BUY",
@@ -4854,17 +4865,6 @@
           "value": 10.72,
           "timestamp": 1794373152,
           "slug": "nba-okc-por-2026-11-10-spread-home-3pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Thunder (-6.5)",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.3485294118,
-          "value": 11.850000001200002,
-          "timestamp": 1794373152,
-          "slug": "nba-okc-por-2026-11-10-spread-away-6pt5",
           "event_slug": "nba-okc-por-2026-11-10",
           "result": "ongoing"
         }
@@ -7077,5 +7077,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T06:30:14.911Z"
+  "lastUpdate": "2026-11-11T06:38:46.206Z"
 }
