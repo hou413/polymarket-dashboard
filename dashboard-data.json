@@ -1593,12 +1593,67 @@
       "stats48h": {
         "wins": 6,
         "losses": 5,
-        "totalTrades": 14,
+        "totalTrades": 19,
         "winRate": 0.5454545454545454,
-        "volume": 397910.35490000003,
+        "volume": 425452.58989999996,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Nuggets (-1.5)",
+          "side": "BUY",
+          "outcome": "Grizzlies",
+          "price": 0.42,
+          "value": 4.2,
+          "timestamp": 1794440851,
+          "slug": "nba-den-mem-2026-11-11-spread-away-1pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Grizzlies",
+          "side": "BUY",
+          "outcome": "Grizzlies",
+          "price": 0.4,
+          "value": 16975.844,
+          "timestamp": 1794440827,
+          "slug": "nba-den-mem-2026-11-11",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Grizzlies",
+          "side": "BUY",
+          "outcome": "Grizzlies",
+          "price": 0.4,
+          "value": 8583.300000000001,
+          "timestamp": 1794440827,
+          "slug": "nba-den-mem-2026-11-11",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Pelicans (-3.5)",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.53,
+          "value": 200.35060000000001,
+          "timestamp": 1794440788,
+          "slug": "nba-bkn-nop-2026-11-11-spread-home-3pt5",
+          "event_slug": "nba-bkn-nop-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nets vs. Pelicans",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.42,
+          "value": 1778.5403999999999,
+          "timestamp": 1794440736,
+          "slug": "nba-bkn-nop-2026-11-11",
+          "event_slug": "nba-bkn-nop-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Nuggets (-2.5)",
           "side": "BUY",
@@ -2617,10 +2672,54 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 13532.11539970171,
+        "volume": 13386.045399701712,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Charleston Cougars vs. Temple Owls",
+          "side": "BUY",
+          "outcome": "Temple Owls",
+          "price": 0.16,
+          "value": 1.92,
+          "timestamp": 1794440944,
+          "slug": "cbb-char-templ-2026-11-11",
+          "event_slug": "cbb-char-templ-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charleston Cougars vs. Temple Owls",
+          "side": "BUY",
+          "outcome": "Temple Owls",
+          "price": 0.25,
+          "value": 1.75,
+          "timestamp": 1794440706,
+          "slug": "cbb-char-templ-2026-11-11",
+          "event_slug": "cbb-char-templ-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charleston Cougars vs. Temple Owls",
+          "side": "BUY",
+          "outcome": "Temple Owls",
+          "price": 0.22,
+          "value": 1.76,
+          "timestamp": 1794440692,
+          "slug": "cbb-char-templ-2026-11-11",
+          "event_slug": "cbb-char-templ-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Charleston Cougars vs. Temple Owls",
+          "side": "BUY",
+          "outcome": "Temple Owls",
+          "price": 0.21,
+          "value": 2.1,
+          "timestamp": 1794440607,
+          "slug": "cbb-char-templ-2026-11-11",
+          "event_slug": "cbb-char-templ-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Penn Quakers vs. Navy Midshipmen",
           "side": "BUY",
@@ -3123,50 +3222,6 @@
           "price": 0.61,
           "value": 20.74,
           "timestamp": 1794430606,
-          "slug": "cbb-stjoe-sfl-2026-11-11",
-          "event_slug": "cbb-stjoe-sfl-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: South Florida Bulls (-7.5)",
-          "side": "BUY",
-          "outcome": "Saint Josephs Hawks",
-          "price": 0.7,
-          "value": 9.799999999999999,
-          "timestamp": 1794430593,
-          "slug": "cbb-stjoe-sfl-2026-11-11-spread-home-7pt5",
-          "event_slug": "cbb-stjoe-sfl-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Saint Joseph's Hawks vs. South Florida Bulls",
-          "side": "BUY",
-          "outcome": "Saint Josephs Hawks",
-          "price": 0.37,
-          "value": 113.59,
-          "timestamp": 1794430456,
-          "slug": "cbb-stjoe-sfl-2026-11-11",
-          "event_slug": "cbb-stjoe-sfl-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: South Florida Bulls (-7.5)",
-          "side": "BUY",
-          "outcome": "Saint Josephs Hawks",
-          "price": 0.67,
-          "value": 10.05,
-          "timestamp": 1794430452,
-          "slug": "cbb-stjoe-sfl-2026-11-11-spread-home-7pt5",
-          "event_slug": "cbb-stjoe-sfl-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Saint Joseph's Hawks vs. South Florida Bulls",
-          "side": "BUY",
-          "outcome": "Saint Josephs Hawks",
-          "price": 0.32,
-          "value": 20.16,
-          "timestamp": 1794430441,
           "slug": "cbb-stjoe-sfl-2026-11-11",
           "event_slug": "cbb-stjoe-sfl-2026-11-11",
           "result": "ongoing"
@@ -4817,5 +4872,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T23:44:20.739Z"
+  "lastUpdate": "2026-11-11T23:51:13.882Z"
 }
