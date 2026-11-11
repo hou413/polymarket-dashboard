@@ -3496,10 +3496,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2520.967109988659,
+        "volume": 2486.180599988659,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will ON win Worlds 2026 Finals MVP?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.023,
+          "value": 1.1414900000000001,
+          "timestamp": 1794380593,
+          "slug": "will-on-win-worlds-2026-finals-mvp",
+          "event_slug": "worlds-2026-finals-mvp",
+          "result": "ongoing"
+        },
         {
           "title": "Will Vitality Win the BLAST Rivals Hong Kong 2026?",
           "side": "BUY",
@@ -4037,17 +4048,6 @@
           "timestamp": 1794368466,
           "slug": "elon-musk-of-tweets-november-6-november-13-2026-280-299",
           "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will the next Qwen Max model (3.9+) be released on November 13, 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 35.928,
-          "timestamp": 1794368007,
-          "slug": "will-the-next-qwen-max-model-3pt9-be-released-on-november-13-2026",
-          "event_slug": "next-qwen-max-3pt9-released-onptptpt-20261106",
           "result": "ongoing"
         }
       ]
@@ -7077,5 +7077,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T07:04:15.767Z"
+  "lastUpdate": "2026-11-11T07:12:46.489Z"
 }
