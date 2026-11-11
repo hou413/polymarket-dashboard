@@ -390,10 +390,32 @@
         "losses": 10,
         "totalTrades": 500,
         "winRate": 0.16666666666666666,
-        "volume": 6980.626399989199,
+        "volume": 6910.626399989199,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Trail Blazers (-14.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.24,
+          "value": 84.11999999999999,
+          "timestamp": 1794376443,
+          "slug": "nba-okc-por-2026-11-10-spread-home-14pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-14.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.24,
+          "value": 155.88,
+          "timestamp": 1794376443,
+          "slug": "nba-okc-por-2026-11-10-spread-home-14pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Trail Blazers (-10.5)",
           "side": "BUY",
@@ -919,28 +941,6 @@
           "value": 84,
           "timestamp": 1794370597,
           "slug": "nba-okc-por-2026-11-10-spread-home-2pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Thunder (-7.5)",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.31,
-          "value": 232.345,
-          "timestamp": 1794370596,
-          "slug": "nba-okc-por-2026-11-10-spread-away-7pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Thunder (-7.5)",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.31,
-          "value": 77.655,
-          "timestamp": 1794370596,
-          "slug": "nba-okc-por-2026-11-10-spread-away-7pt5",
           "event_slug": "nba-okc-por-2026-11-10",
           "result": "ongoing"
         }
@@ -4310,14 +4310,113 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 5,
-        "losses": 8,
+        "wins": 3,
+        "losses": 3,
         "totalTrades": 500,
-        "winRate": 0.38461538461538464,
-        "volume": 10728.487099992117,
+        "winRate": 0.5,
+        "volume": 16005.314899876284,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Thunder vs. Trail Blazers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.9045289855,
+          "value": 898.7399999928001,
+          "timestamp": 1794376828,
+          "slug": "nba-okc-por-2026-11-10",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Trail Blazers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.8716597164,
+          "value": 3135.3599998908,
+          "timestamp": 1794376819,
+          "slug": "nba-okc-por-2026-11-10",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-8.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.515949573,
+          "value": 12.68720000007,
+          "timestamp": 1794376792,
+          "slug": "nba-okc-por-2026-11-10-spread-home-8pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Trail Blazers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.83,
+          "value": 120.93099999999998,
+          "timestamp": 1794376750,
+          "slug": "nba-okc-por-2026-11-10",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Thunder (-1.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.77,
+          "value": 3.85,
+          "timestamp": 1794376722,
+          "slug": "nba-okc-por-2026-11-10-spread-away-1pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Trail Blazers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.75,
+          "value": 3.75,
+          "timestamp": 1794376722,
+          "slug": "nba-okc-por-2026-11-10",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-2.5)",
+          "side": "BUY",
+          "outcome": "Thunder",
+          "price": 0.25,
+          "value": 1.25,
+          "timestamp": 1794376710,
+          "slug": "nba-okc-por-2026-11-10-spread-home-2pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Trail Blazers",
+          "side": "BUY",
+          "outcome": "Thunder",
+          "price": 0.19,
+          "value": 406.98,
+          "timestamp": 1794376686,
+          "slug": "nba-okc-por-2026-11-10",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Trail Blazers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.84,
+          "value": 730.9596,
+          "timestamp": 1794376629,
+          "slug": "nba-okc-por-2026-11-10",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Thunder vs. Trail Blazers",
           "side": "BUY",
@@ -4766,105 +4865,6 @@
           "value": 5.8999999999999995,
           "timestamp": 1794373065,
           "slug": "nba-okc-por-2026-11-10-spread-home-1pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Magic (-2.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.17,
-          "value": 3.06,
-          "timestamp": 1794373054,
-          "slug": "nba-orl-sac-2026-11-10-spread-away-2pt5",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Magic vs. Kings",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.12,
-          "value": 2.04,
-          "timestamp": 1794373054,
-          "slug": "nba-orl-sac-2026-11-10",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Magic (-9.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.55,
-          "value": 4.95,
-          "timestamp": 1794373054,
-          "slug": "nba-orl-sac-2026-11-10-spread-away-9pt5",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Magic (-10.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.62,
-          "value": 4.34,
-          "timestamp": 1794373054,
-          "slug": "nba-orl-sac-2026-11-10-spread-away-10pt5",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Magic (-5.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.33,
-          "value": 4.29,
-          "timestamp": 1794373053,
-          "slug": "nba-orl-sac-2026-11-10-spread-away-5pt5",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Magic (-3.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.22,
-          "value": 3.52,
-          "timestamp": 1794373053,
-          "slug": "nba-orl-sac-2026-11-10-spread-away-3pt5",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Magic (-1.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.15,
-          "value": 2.6999999999999997,
-          "timestamp": 1794373053,
-          "slug": "nba-orl-sac-2026-11-10-spread-away-1pt5",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Montana Grizzlies vs. San Francisco Dons",
-          "side": "BUY",
-          "outcome": "Montana Grizzlies",
-          "price": 0.39,
-          "value": 1.9500000000000002,
-          "timestamp": 1794373050,
-          "slug": "cbb-mont-sf-2026-11-10",
-          "event_slug": "cbb-mont-sf-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Trail Blazers (-3.5)",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.6370588235,
-          "value": 10.8299999995,
-          "timestamp": 1794373047,
-          "slug": "nba-okc-por-2026-11-10-spread-home-3pt5",
           "event_slug": "nba-okc-por-2026-11-10",
           "result": "ongoing"
         }
@@ -7077,5 +7077,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T05:55:53.931Z"
+  "lastUpdate": "2026-11-11T06:04:32.024Z"
 }
