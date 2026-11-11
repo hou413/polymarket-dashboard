@@ -3015,11 +3015,11 @@
       "label": "surfandturf",
       "specialty": "Soccer+UFC",
       "stats48h": {
-        "wins": 30,
+        "wins": 27,
         "losses": 15,
-        "totalTrades": 45,
-        "winRate": 0.6666666666666666,
-        "volume": 580770.8601000535,
+        "totalTrades": 42,
+        "winRate": 0.6428571428571429,
+        "volume": 546175.1981000535,
         "pnl": 0
       },
       "recentTrades": [
@@ -3484,39 +3484,6 @@
           "slug": "ufc-joh-wal2-2026-11-07",
           "event_slug": "ufc-joh-wal2-2026-11-07",
           "result": "loss"
-        },
-        {
-          "title": "Iowa vs. Northwestern",
-          "side": "BUY",
-          "outcome": "Iowa",
-          "price": 0.61,
-          "value": 15250,
-          "timestamp": 1794098370,
-          "slug": "cfb-iowa-nw-2026-11-07",
-          "event_slug": "cfb-iowa-nw-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Iowa vs. Northwestern",
-          "side": "BUY",
-          "outcome": "Iowa",
-          "price": 0.61,
-          "value": 15250,
-          "timestamp": 1794098304,
-          "slug": "cfb-iowa-nw-2026-11-07",
-          "event_slug": "cfb-iowa-nw-2026-11-07",
-          "result": "win"
-        },
-        {
-          "title": "Iowa vs. Northwestern",
-          "side": "BUY",
-          "outcome": "Iowa",
-          "price": 0.61,
-          "value": 4095.662,
-          "timestamp": 1794098295,
-          "slug": "cfb-iowa-nw-2026-11-07",
-          "event_slug": "cfb-iowa-nw-2026-11-07",
-          "result": "win"
         }
       ]
     },
@@ -3529,10 +3496,54 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2686.0204900000294,
+        "volume": 2555.8239100000296,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Klemen Boštjančič win the 2026 Ljubljana mayoral election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.09956999999999999,
+          "timestamp": 1794357810,
+          "slug": "will-klemen-bostjancic-win-the-2026-ljubljana-mayoral-election",
+          "event_slug": "ljubljana-mayoral-election-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Aleš Vrhovec win the 2026 Ljubljana mayoral election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.09956999999999999,
+          "timestamp": 1794357810,
+          "slug": "will-ales-vrhovec-win-the-2026-ljubljana-mayoral-election",
+          "event_slug": "ljubljana-mayoral-election-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's IPO valuation be $2.50T or more?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 19.96,
+          "timestamp": 1794357741,
+          "slug": "will-anthropics-ipo-valuation-be-2pt50t-or-more-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthropic's IPO valuation be between $1.75T and $2.00T?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.997389,
+          "value": 19.947779999999998,
+          "timestamp": 1794357741,
+          "slug": "will-anthropics-ipo-valuation-be-between-1pt75t-and-2pt00t-12",
+          "event_slug": "what-will-anthropics-ipo-valuation-be",
+          "result": "ongoing"
+        },
         {
           "title": "Will Chovy win Worlds 2026 Finals MVP?",
           "side": "SELL",
@@ -4038,50 +4049,6 @@
           "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
           "event_slug": "2026-taiwanese-local-elections-party-winner",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.45,
-          "value": 113.8455,
-          "timestamp": 1794339615,
-          "slug": "uwcl-slb-faw-2026-11-11-draw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SCU Torreense vs. Sparta Prague end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.41,
-          "value": 0.738,
-          "timestamp": 1794339549,
-          "slug": "uwec-tor-spa-2026-11-11-draw",
-          "event_slug": "uwec-tor-spa-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sparta Prague win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.98,
-          "value": 22.54,
-          "timestamp": 1794339549,
-          "slug": "uwec-tor-spa-2026-11-11-spa",
-          "event_slug": "uwec-tor-spa-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.42,
-          "value": 33.18,
-          "timestamp": 1794338859,
-          "slug": "uwcl-slb-faw-2026-11-11-draw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
         }
       ]
     },
@@ -4117,10 +4084,10 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 14,
-        "losses": 5,
-        "totalTrades": 19,
-        "winRate": 0.7368421052631579,
-        "volume": 44853.229200031936,
+        "losses": 4,
+        "totalTrades": 18,
+        "winRate": 0.7777777777777778,
+        "volume": 34993.229200031936,
         "pnl": 0
       },
       "recentTrades": [
@@ -4321,17 +4288,6 @@
           "slug": "sea-nap-laz-2026-11-08-total-2pt5",
           "event_slug": "sea-nap-laz-2026-11-08-more-markets",
           "result": "win"
-        },
-        {
-          "title": "Spread: Knicks (-6.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.58,
-          "value": 9860,
-          "timestamp": 1794098701,
-          "slug": "nba-nyk-cle-2026-11-07-spread-away-6pt5",
-          "event_slug": "nba-nyk-cle-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -4358,10 +4314,307 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 1286.4333999946,
+        "volume": 2461.0238002218744,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Memphis Tigers",
+          "price": 0.14,
+          "value": 21.000000000000004,
+          "timestamp": 1794357982,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "La Salle Explorers vs. Villanova Wildcats",
+          "side": "BUY",
+          "outcome": "La Salle Explorers",
+          "price": 0.046,
+          "value": 0.9199999999999999,
+          "timestamp": 1794357976,
+          "slug": "cbb-lasal-vill-2026-11-10",
+          "event_slug": "cbb-lasal-vill-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bucks vs. Knicks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.1175240044,
+          "value": 646.2645001956,
+          "timestamp": 1794357955,
+          "slug": "nba-mil-nyk-2026-11-10",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Villanova Wildcats (-21.5)",
+          "side": "BUY",
+          "outcome": "Villanova Wildcats",
+          "price": 0.33,
+          "value": 1.98,
+          "timestamp": 1794357933,
+          "slug": "cbb-lasal-vill-2026-11-10-spread-home-21pt5",
+          "event_slug": "cbb-lasal-vill-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bucks vs. Knicks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.11,
+          "value": 2.09,
+          "timestamp": 1794357912,
+          "slug": "nba-mil-nyk-2026-11-10",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Memphis Tigers",
+          "price": 0.14,
+          "value": 21.14,
+          "timestamp": 1794357904,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bucks vs. Knicks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.1,
+          "value": 2.1,
+          "timestamp": 1794357898,
+          "slug": "nba-mil-nyk-2026-11-10",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bucks vs. Knicks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.1,
+          "value": 2,
+          "timestamp": 1794357883,
+          "slug": "nba-mil-nyk-2026-11-10",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Michigan State Spartans vs. Duke Blue Devils",
+          "side": "BUY",
+          "outcome": "Duke Blue Devils",
+          "price": 0.43,
+          "value": 3.4442999999999997,
+          "timestamp": 1794357853,
+          "slug": "cbb-mst-duke-2026-11-10",
+          "event_slug": "cbb-mst-duke-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Memphis Tigers",
+          "price": 0.13,
+          "value": 0.65,
+          "timestamp": 1794357849,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Winthrop Eagles vs. Kennesaw State Owls",
+          "side": "BUY",
+          "outcome": "Winthrop Eagles",
+          "price": 0.3492306509,
+          "value": 22.696500001990998,
+          "timestamp": 1794357796,
+          "slug": "cbb-winth-kenest-2026-11-10",
+          "event_slug": "cbb-winth-kenest-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bucks vs. Knicks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.13,
+          "value": 2.21,
+          "timestamp": 1794357796,
+          "slug": "nba-mil-nyk-2026-11-10",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Knicks (-15.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.52588,
+          "value": 52.588,
+          "timestamp": 1794357768,
+          "slug": "nba-mil-nyk-2026-11-10-spread-home-15pt5",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bucks vs. Knicks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.11,
+          "value": 250.5437,
+          "timestamp": 1794357768,
+          "slug": "nba-mil-nyk-2026-11-10",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Knicks (-10.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.36,
+          "value": 1.7999999999999998,
+          "timestamp": 1794357768,
+          "slug": "nba-mil-nyk-2026-11-10-spread-home-10pt5",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bucks vs. Knicks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.11,
+          "value": 2.2,
+          "timestamp": 1794357736,
+          "slug": "nba-mil-nyk-2026-11-10",
+          "event_slug": "nba-mil-nyk-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Michigan State Spartans vs. Duke Blue Devils",
+          "side": "BUY",
+          "outcome": "Duke Blue Devils",
+          "price": 0.4477822581,
+          "value": 111.0500000088,
+          "timestamp": 1794357726,
+          "slug": "cbb-mst-duke-2026-11-10",
+          "event_slug": "cbb-mst-duke-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Michigan State Spartans vs. Duke Blue Devils",
+          "side": "BUY",
+          "outcome": "Michigan State Spartans",
+          "price": 0.4877360199,
+          "value": 21.543299998983,
+          "timestamp": 1794357681,
+          "slug": "cbb-mst-duke-2026-11-10",
+          "event_slug": "cbb-mst-duke-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. Duquesne Dukes",
+          "side": "BUY",
+          "outcome": "Duquesne Dukes",
+          "price": 0.43,
+          "value": 17.2,
+          "timestamp": 1794357583,
+          "slug": "cbb-washst-duq-2026-11-10",
+          "event_slug": "cbb-washst-duq-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Winthrop Eagles vs. Kennesaw State Owls",
+          "side": "BUY",
+          "outcome": "Kennesaw State Owls",
+          "price": 0.64,
+          "value": 112,
+          "timestamp": 1794357582,
+          "slug": "cbb-winth-kenest-2026-11-10",
+          "event_slug": "cbb-winth-kenest-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Bradley Braves vs. Davidson Wildcats",
+          "side": "BUY",
+          "outcome": "Bradley Braves",
+          "price": 0.12,
+          "value": 2.16,
+          "timestamp": 1794357558,
+          "slug": "cbb-bradly-david-2026-11-10",
+          "event_slug": "cbb-bradly-david-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Winthrop Eagles vs. Kennesaw State Owls",
+          "side": "BUY",
+          "outcome": "Kennesaw State Owls",
+          "price": 0.62,
+          "value": 9.3,
+          "timestamp": 1794357546,
+          "slug": "cbb-winth-kenest-2026-11-10",
+          "event_slug": "cbb-winth-kenest-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Vanderbilt Commodores",
+          "price": 0.89,
+          "value": 8.9,
+          "timestamp": 1794357532,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State vs. Bowling Green",
+          "side": "BUY",
+          "outcome": "Kent State",
+          "price": 0.34,
+          "value": 350.88000000000005,
+          "timestamp": 1794357528,
+          "slug": "cfb-kentst-bowlgr-2026-11-10",
+          "event_slug": "cfb-kentst-bowlgr-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. Duquesne Dukes",
+          "side": "BUY",
+          "outcome": "Washington State Cougars",
+          "price": 0.6,
+          "value": 36,
+          "timestamp": 1794357504,
+          "slug": "cbb-washst-duq-2026-11-10",
+          "event_slug": "cbb-washst-duq-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Kent State vs. Bowling Green",
+          "side": "BUY",
+          "outcome": "Bowling Green",
+          "price": 0.62,
+          "value": 6.2,
+          "timestamp": 1794357498,
+          "slug": "cfb-kentst-bowlgr-2026-11-10",
+          "event_slug": "cfb-kentst-bowlgr-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. Duquesne Dukes",
+          "side": "BUY",
+          "outcome": "Washington State Cougars",
+          "price": 0.57,
+          "value": 22.799999999999997,
+          "timestamp": 1794357486,
+          "slug": "cbb-washst-duq-2026-11-10",
+          "event_slug": "cbb-washst-duq-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Winthrop Eagles vs. Kennesaw State Owls",
           "side": "BUY",
@@ -4613,303 +4866,6 @@
           "timestamp": 1794357043,
           "slug": "cbb-lasal-vill-2026-11-10",
           "event_slug": "cbb-lasal-vill-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Memphis Tigers vs. Vanderbilt Commodores",
-          "side": "BUY",
-          "outcome": "Vanderbilt Commodores",
-          "price": 0.88,
-          "value": 11.44,
-          "timestamp": 1794357043,
-          "slug": "cbb-mphs-vand-2026-11-10",
-          "event_slug": "cbb-mphs-vand-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "La Salle Explorers vs. Villanova Wildcats",
-          "side": "BUY",
-          "outcome": "La Salle Explorers",
-          "price": 0.029,
-          "value": 2.262,
-          "timestamp": 1794357022,
-          "slug": "cbb-lasal-vill-2026-11-10",
-          "event_slug": "cbb-lasal-vill-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Winthrop Eagles vs. Kennesaw State Owls",
-          "side": "BUY",
-          "outcome": "Kennesaw State Owls",
-          "price": 0.64,
-          "value": 12.7936,
-          "timestamp": 1794357019,
-          "slug": "cbb-winth-kenest-2026-11-10",
-          "event_slug": "cbb-winth-kenest-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Winthrop Eagles vs. Kennesaw State Owls",
-          "side": "BUY",
-          "outcome": "Kennesaw State Owls",
-          "price": 0.58,
-          "value": 11.6,
-          "timestamp": 1794357000,
-          "slug": "cbb-winth-kenest-2026-11-10",
-          "event_slug": "cbb-winth-kenest-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "La Salle Explorers vs. Villanova Wildcats",
-          "side": "BUY",
-          "outcome": "La Salle Explorers",
-          "price": 0.02812,
-          "value": 2.109,
-          "timestamp": 1794356986,
-          "slug": "cbb-lasal-vill-2026-11-10",
-          "event_slug": "cbb-lasal-vill-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Bradley Braves vs. Davidson Wildcats",
-          "side": "BUY",
-          "outcome": "Bradley Braves",
-          "price": 0.07,
-          "value": 2.1700000000000004,
-          "timestamp": 1794356971,
-          "slug": "cbb-bradly-david-2026-11-10",
-          "event_slug": "cbb-bradly-david-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Davidson Wildcats (-11.5)",
-          "side": "BUY",
-          "outcome": "Davidson Wildcats",
-          "price": 0.59,
-          "value": 2.9499999999999997,
-          "timestamp": 1794356950,
-          "slug": "cbb-bradly-david-2026-11-10-spread-home-11pt5",
-          "event_slug": "cbb-bradly-david-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Bradley Braves vs. Davidson Wildcats",
-          "side": "BUY",
-          "outcome": "Bradley Braves",
-          "price": 0.07,
-          "value": 2.0300000000000002,
-          "timestamp": 1794356932,
-          "slug": "cbb-bradly-david-2026-11-10",
-          "event_slug": "cbb-bradly-david-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Bradley Braves vs. Davidson Wildcats",
-          "side": "BUY",
-          "outcome": "Davidson Wildcats",
-          "price": 0.94,
-          "value": 66.74,
-          "timestamp": 1794356827,
-          "slug": "cbb-bradly-david-2026-11-10",
-          "event_slug": "cbb-bradly-david-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "La Salle Explorers vs. Villanova Wildcats",
-          "side": "BUY",
-          "outcome": "La Salle Explorers",
-          "price": 0.0398834951,
-          "value": 20.5399999765,
-          "timestamp": 1794356802,
-          "slug": "cbb-lasal-vill-2026-11-10",
-          "event_slug": "cbb-lasal-vill-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Winthrop Eagles vs. Kennesaw State Owls",
-          "side": "BUY",
-          "outcome": "Winthrop Eagles",
-          "price": 0.44,
-          "value": 2.2,
-          "timestamp": 1794356785,
-          "slug": "cbb-winth-kenest-2026-11-10",
-          "event_slug": "cbb-winth-kenest-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "La Salle Explorers vs. Villanova Wildcats",
-          "side": "BUY",
-          "outcome": "La Salle Explorers",
-          "price": 0.039,
-          "value": 2.184,
-          "timestamp": 1794356745,
-          "slug": "cbb-lasal-vill-2026-11-10",
-          "event_slug": "cbb-lasal-vill-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Washington State Cougars vs. Duquesne Dukes",
-          "side": "BUY",
-          "outcome": "Washington State Cougars",
-          "price": 0.57,
-          "value": 21.09,
-          "timestamp": 1794356691,
-          "slug": "cbb-washst-duq-2026-11-10",
-          "event_slug": "cbb-washst-duq-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Memphis Tigers vs. Vanderbilt Commodores",
-          "side": "BUY",
-          "outcome": "Memphis Tigers",
-          "price": 0.09,
-          "value": 0.8999999999999999,
-          "timestamp": 1794356649,
-          "slug": "cbb-mphs-vand-2026-11-10",
-          "event_slug": "cbb-mphs-vand-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Memphis Tigers vs. Vanderbilt Commodores",
-          "side": "BUY",
-          "outcome": "Memphis Tigers",
-          "price": 0.086,
-          "value": 2.15,
-          "timestamp": 1794356622,
-          "slug": "cbb-mphs-vand-2026-11-10",
-          "event_slug": "cbb-mphs-vand-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Memphis Tigers vs. Vanderbilt Commodores",
-          "side": "BUY",
-          "outcome": "Memphis Tigers",
-          "price": 0.11,
-          "value": 2.2,
-          "timestamp": 1794356610,
-          "slug": "cbb-mphs-vand-2026-11-10",
-          "event_slug": "cbb-mphs-vand-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Winthrop Eagles vs. Kennesaw State Owls",
-          "side": "BUY",
-          "outcome": "Winthrop Eagles",
-          "price": 0.31,
-          "value": 13.249400000000001,
-          "timestamp": 1794356607,
-          "slug": "cbb-winth-kenest-2026-11-10",
-          "event_slug": "cbb-winth-kenest-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "La Salle Explorers vs. Villanova Wildcats",
-          "side": "BUY",
-          "outcome": "La Salle Explorers",
-          "price": 0.0375339286,
-          "value": 2.1019000016000002,
-          "timestamp": 1794356604,
-          "slug": "cbb-lasal-vill-2026-11-10",
-          "event_slug": "cbb-lasal-vill-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Michigan State Spartans vs. Duke Blue Devils",
-          "side": "BUY",
-          "outcome": "Michigan State Spartans",
-          "price": 0.43,
-          "value": 2.15,
-          "timestamp": 1794356530,
-          "slug": "cbb-mst-duke-2026-11-10",
-          "event_slug": "cbb-mst-duke-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State vs. Bowling Green",
-          "side": "BUY",
-          "outcome": "Kent State",
-          "price": 0.36,
-          "value": 5.3999999999999995,
-          "timestamp": 1794356514,
-          "slug": "cfb-kentst-bowlgr-2026-11-10",
-          "event_slug": "cfb-kentst-bowlgr-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Memphis Tigers vs. Vanderbilt Commodores",
-          "side": "BUY",
-          "outcome": "Memphis Tigers",
-          "price": 0.14,
-          "value": 2.1,
-          "timestamp": 1794356496,
-          "slug": "cbb-mphs-vand-2026-11-10",
-          "event_slug": "cbb-mphs-vand-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Memphis Tigers vs. Vanderbilt Commodores",
-          "side": "BUY",
-          "outcome": "Memphis Tigers",
-          "price": 0.14,
-          "value": 1.9600000000000002,
-          "timestamp": 1794356493,
-          "slug": "cbb-mphs-vand-2026-11-10",
-          "event_slug": "cbb-mphs-vand-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Michigan State Spartans vs. Duke Blue Devils",
-          "side": "BUY",
-          "outcome": "Michigan State Spartans",
-          "price": 0.43,
-          "value": 2.15,
-          "timestamp": 1794356482,
-          "slug": "cbb-mst-duke-2026-11-10",
-          "event_slug": "cbb-mst-duke-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Michigan State Spartans vs. Duke Blue Devils",
-          "side": "BUY",
-          "outcome": "Michigan State Spartans",
-          "price": 0.43,
-          "value": 2.15,
-          "timestamp": 1794356451,
-          "slug": "cbb-mst-duke-2026-11-10",
-          "event_slug": "cbb-mst-duke-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Kent State vs. Bowling Green",
-          "side": "BUY",
-          "outcome": "Kent State",
-          "price": 0.35,
-          "value": 357,
-          "timestamp": 1794356431,
-          "slug": "cfb-kentst-bowlgr-2026-11-10",
-          "event_slug": "cfb-kentst-bowlgr-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Kennesaw State Owls (-9.5)",
-          "side": "BUY",
-          "outcome": "Kennesaw State Owls",
-          "price": 0.3,
-          "value": 1.5,
-          "timestamp": 1794356340,
-          "slug": "cbb-winth-kenest-2026-11-10-spread-home-9pt5",
-          "event_slug": "cbb-winth-kenest-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Michigan State Spartans vs. Duke Blue Devils",
-          "side": "BUY",
-          "outcome": "Michigan State Spartans",
-          "price": 0.39,
-          "value": 1.9500000000000002,
-          "timestamp": 1794356316,
-          "slug": "cbb-mst-duke-2026-11-10",
-          "event_slug": "cbb-mst-duke-2026-11-10",
           "result": "ongoing"
         }
       ]
@@ -6266,10 +6222,10 @@
       "label": "johnevergreen",
       "specialty": "J1+J2+重点",
       "stats48h": {
-        "wins": 45,
+        "wins": 44,
         "losses": 5,
         "totalTrades": 53,
-        "winRate": 0.9,
+        "winRate": 0.8979591836734694,
         "volume": 25046.626439984128,
         "pnl": 0
       },
@@ -6822,7 +6778,7 @@
           "timestamp": 1794131689,
           "slug": "sea-nap-laz-2026-11-08-corners-total-7pt5",
           "event_slug": "sea-nap-laz-2026-11-08-total-corners",
-          "result": "win"
+          "result": "ongoing"
         }
       ]
     },
@@ -6831,295 +6787,29 @@
       "label": "fakeky",
       "specialty": "J1+J2",
       "stats48h": {
-        "wins": 7,
-        "losses": 12,
-        "totalTrades": 19,
-        "winRate": 0.3684210526315789,
-        "volume": 81123.99334024393,
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "Will Aston Villa FC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.84,
-          "value": 5880,
-          "timestamp": 1794160308,
-          "slug": "epl-mun-ast-2026-11-08-ast",
-          "event_slug": "epl-mun-ast-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Will Aston Villa FC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.84,
-          "value": 7241.219999999999,
-          "timestamp": 1794160273,
-          "slug": "epl-mun-ast-2026-11-08-ast",
-          "event_slug": "epl-mun-ast-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Will Aston Villa FC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.839979195,
-          "value": 6496.172299747349,
-          "timestamp": 1794160257,
-          "slug": "epl-mun-ast-2026-11-08-ast",
-          "event_slug": "epl-mun-ast-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Will Aston Villa FC win on 2026-11-08?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.84,
-          "value": 6496.333199999999,
-          "timestamp": 1794160251,
-          "slug": "epl-mun-ast-2026-11-08-ast",
-          "event_slug": "epl-mun-ast-2026-11-08",
-          "result": "loss"
-        },
-        {
-          "title": "Hamarkameratene vs. Sarpsborg 08 FF: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.93,
-          "value": 2161.506,
-          "timestamp": 1794158808,
-          "slug": "nor-ham-sar-2026-11-08-total-2pt5",
-          "event_slug": "nor-ham-sar-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Hamarkameratene vs. Sarpsborg 08 FF: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.93,
-          "value": 2040.2340000000004,
-          "timestamp": 1794158791,
-          "slug": "nor-ham-sar-2026-11-08-total-2pt5",
-          "event_slug": "nor-ham-sar-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Hamarkameratene vs. Sarpsborg 08 FF: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.93,
-          "value": 4881.4677,
-          "timestamp": 1794158770,
-          "slug": "nor-ham-sar-2026-11-08-total-2pt5",
-          "event_slug": "nor-ham-sar-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Hamarkameratene vs. Sarpsborg 08 FF: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.91,
-          "value": 5.0323,
-          "timestamp": 1794158668,
-          "slug": "nor-ham-sar-2026-11-08-total-2pt5",
-          "event_slug": "nor-ham-sar-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Hamarkameratene vs. Sarpsborg 08 FF: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.91,
-          "value": 3692.3796,
-          "timestamp": 1794158655,
-          "slug": "nor-ham-sar-2026-11-08-total-2pt5",
-          "event_slug": "nor-ham-sar-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "AIK vs. BK Hacken: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.54,
-          "value": 2174.0346,
-          "timestamp": 1794156444,
-          "slug": "swe-aik-hac-2026-11-08-total-4pt5",
-          "event_slug": "swe-aik-hac-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "AIK vs. BK Hacken: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.8697835391,
-          "value": 7125.475500356583,
-          "timestamp": 1794155226,
-          "slug": "swe-aik-hac-2026-11-08-total-4pt5",
-          "event_slug": "swe-aik-hac-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "AIK vs. BK Hacken: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.86,
-          "value": 153.51,
-          "timestamp": 1794155220,
-          "slug": "swe-aik-hac-2026-11-08-total-4pt5",
-          "event_slug": "swe-aik-hac-2026-11-08-more-markets",
-          "result": "loss"
-        },
-        {
-          "title": "Crystal Palace FC vs. Liverpool FC: O/U 4.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.999,
-          "value": 7795.197,
-          "timestamp": 1794153381,
-          "slug": "epl-cry-liv-2026-11-08-total-4pt5",
-          "event_slug": "epl-cry-liv-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Crystal Palace FC vs. Liverpool FC: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.88,
-          "value": 4224,
-          "timestamp": 1794150171,
-          "slug": "epl-cry-liv-2026-11-08-total-4pt5",
-          "event_slug": "epl-cry-liv-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Halmstads BK vs. Djurgardens IF: O/U 4.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.999,
-          "value": 8109.442440000001,
-          "timestamp": 1794149658,
-          "slug": "swe-hal-dju-2026-11-08-total-4pt5",
-          "event_slug": "swe-hal-dju-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Halmstads BK vs. Djurgardens IF: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.88,
-          "value": 4059.5632000000005,
-          "timestamp": 1794145092,
-          "slug": "swe-hal-dju-2026-11-08-total-4pt5",
-          "event_slug": "swe-hal-dju-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Halmstads BK vs. Djurgardens IF: O/U 4.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.88,
-          "value": 3083.8896,
-          "timestamp": 1794145053,
-          "slug": "swe-hal-dju-2026-11-08-total-4pt5",
-          "event_slug": "swe-hal-dju-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "SSC Napoli vs. SS Lazio: O/U 3.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.999,
-          "value": 3396.6,
-          "timestamp": 1794144945,
-          "slug": "sea-nap-laz-2026-11-08-total-3pt5",
-          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "SSC Napoli vs. SS Lazio: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.6199811471,
-          "value": 2107.93590014,
-          "timestamp": 1794139657,
-          "slug": "sea-nap-laz-2026-11-08-total-3pt5",
-          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
-          "result": "win"
-        }
-      ]
+      "recentTrades": []
     },
     {
       "address": "0x3449d89efe38f2d7e3e5d6460898fd089dcdb252",
       "label": "wefwfwejkmld",
       "specialty": "J1+综合",
       "stats48h": {
-        "wins": 3,
-        "losses": 2,
-        "totalTrades": 5,
-        "winRate": 0.6,
-        "volume": 1522.4248000010375,
+        "wins": 0,
+        "losses": 0,
+        "totalTrades": 0,
+        "winRate": 0,
+        "volume": 0,
         "pnl": 0
       },
-      "recentTrades": [
-        {
-          "title": "KHL: Neftekhimik Nizhnekamsk vs. Salavat Yulaev Ufa",
-          "side": "BUY",
-          "outcome": "Neftekhimik Nizhnekamsk",
-          "price": 0.49,
-          "value": 34.2951,
-          "timestamp": 1794328051,
-          "slug": "khl-nef-sal-2026-11-10",
-          "event_slug": "khl-nef-sal-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "KHL: SKA St. Petersburg vs. Spartak Moscow",
-          "side": "BUY",
-          "outcome": "SKA St. Petersburg",
-          "price": 0.5,
-          "value": 153.845,
-          "timestamp": 1794241614,
-          "slug": "khl-ska-spa-2026-11-09",
-          "event_slug": "khl-ska-spa-2026-11-09",
-          "result": "win"
-        },
-        {
-          "title": "Racing Club de Lens vs. Olympique de Marseille: O/U 3.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.45,
-          "value": 600.8895,
-          "timestamp": 1794167676,
-          "slug": "fl1-rcl-olm-2026-11-08-total-3pt5",
-          "event_slug": "fl1-rcl-olm-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "Bitcoin Up or Down - November 8, 2:45PM-2:50PM ET",
-          "side": "BUY",
-          "outcome": "Down",
-          "price": 0.2099999996,
-          "value": 99.9999999795238,
-          "timestamp": 1794167212,
-          "slug": "btc-updown-5m-1794167100",
-          "event_slug": "btc-updown-5m-1794167100",
-          "result": "loss"
-        },
-        {
-          "title": "FC Utrecht vs. NEC: 1st Half O/U 1.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.6328066898,
-          "value": 633.3952000215139,
-          "timestamp": 1794164977,
-          "slug": "ere-utr-nec-2026-11-08-first-half-total-1pt5",
-          "event_slug": "ere-utr-nec-2026-11-08-more-markets",
-          "result": "loss"
-        }
-      ]
+      "recentTrades": []
     }
   ],
-  "lastUpdate": "2026-11-11T00:39:11.860Z"
+  "lastUpdate": "2026-11-11T00:48:47.742Z"
 }
