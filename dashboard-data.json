@@ -3143,10 +3143,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 37250.8758500014,
+        "volume": 37232.453860001406,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will FURIA Win the BLAST Rivals Hong Kong 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.1,
+          "value": 2.283,
+          "timestamp": 1794394383,
+          "slug": "will-furia-win-the-blast-rivals-hong-kong-2026-1793811600000",
+          "event_slug": "blast-rivals-hong-kong-2026-winner-1793811600000",
+          "result": "ongoing"
+        },
         {
           "title": "Will Jalen Hurts win the 2026 NFL MVP?",
           "side": "SELL",
@@ -3684,17 +3695,6 @@
           "timestamp": 1794370023,
           "slug": "elon-musk-of-tweets-november-2026-720-739",
           "event_slug": "elon-musk-of-tweets-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ruler win Worlds 2026 Finals MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.113,
-          "value": 20.70499,
-          "timestamp": 1794370023,
-          "slug": "will-ruler-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
           "result": "ongoing"
         }
       ]
@@ -6735,5 +6735,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T10:48:33.354Z"
+  "lastUpdate": "2026-11-11T10:56:23.952Z"
 }
