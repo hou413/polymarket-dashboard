@@ -386,14 +386,91 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 3,
-        "losses": 7,
+        "wins": 1,
+        "losses": 8,
         "totalTrades": 500,
-        "winRate": 0.3,
-        "volume": 5945.3089999892,
+        "winRate": 0.1111111111111111,
+        "volume": 7072.965399989199,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Thunder vs. Trail Blazers: O/U 233.5",
+          "side": "SELL",
+          "outcome": "Over",
+          "price": 0.53,
+          "value": 2.6500000000000004,
+          "timestamp": 1794375658,
+          "slug": "nba-okc-por-2026-11-10-total-233pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Trail Blazers: O/U 235.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.56,
+          "value": 475.72,
+          "timestamp": 1794375633,
+          "slug": "nba-okc-por-2026-11-10-total-235pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Trail Blazers: O/U 235.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.56,
+          "value": 103.00640000000001,
+          "timestamp": 1794375633,
+          "slug": "nba-okc-por-2026-11-10-total-235pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Thunder (-2.5)",
+          "side": "BUY",
+          "outcome": "Thunder",
+          "price": 0.38,
+          "value": 303.81,
+          "timestamp": 1794375633,
+          "slug": "nba-okc-por-2026-11-10-spread-away-2pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-4.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.25,
+          "value": 300,
+          "timestamp": 1794375304,
+          "slug": "nba-okc-por-2026-11-10-spread-home-4pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Trail Blazers (-2.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.33,
+          "value": 330,
+          "timestamp": 1794375304,
+          "slug": "nba-okc-por-2026-11-10-spread-home-2pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Trail Blazers: O/U 233.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.49,
+          "value": 123.97,
+          "timestamp": 1794375303,
+          "slug": "nba-okc-por-2026-11-10-total-233pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Thunder vs. Trail Blazers: O/U 226.5",
           "side": "BUY",
@@ -458,7 +535,7 @@
           "timestamp": 1794373795,
           "slug": "nba-orl-sac-2026-11-10-total-205pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Magic (-3.5)",
@@ -469,7 +546,7 @@
           "timestamp": 1794373795,
           "slug": "nba-orl-sac-2026-11-10-spread-away-3pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Magic vs. Kings: O/U 213.5",
@@ -480,7 +557,7 @@
           "timestamp": 1794373795,
           "slug": "nba-orl-sac-2026-11-10-total-213pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Magic vs. Kings: O/U 209.5",
@@ -502,7 +579,7 @@
           "timestamp": 1794373795,
           "slug": "nba-orl-sac-2026-11-10-spread-away-3pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Thunder (-4.5)",
@@ -557,7 +634,7 @@
           "timestamp": 1794372400,
           "slug": "nba-orl-sac-2026-11-10-spread-away-3pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Magic (-6.5)",
@@ -579,7 +656,7 @@
           "timestamp": 1794372400,
           "slug": "nba-orl-sac-2026-11-10-spread-away-3pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Magic (-5.5)",
@@ -866,83 +943,6 @@
           "slug": "nba-mia-uta-2026-11-10-spread-away-7pt5",
           "event_slug": "nba-mia-uta-2026-11-10",
           "result": "loss"
-        },
-        {
-          "title": "Heat vs. Jazz: O/U 222.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.43,
-          "value": 86,
-          "timestamp": 1794370534,
-          "slug": "nba-mia-uta-2026-11-10-total-222pt5",
-          "event_slug": "nba-mia-uta-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Heat (-15.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.58,
-          "value": 86.71,
-          "timestamp": 1794370416,
-          "slug": "nba-mia-uta-2026-11-10-spread-away-15pt5",
-          "event_slug": "nba-mia-uta-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Heat (-15.5)",
-          "side": "BUY",
-          "outcome": "Heat",
-          "price": 0.58,
-          "value": 86.71,
-          "timestamp": 1794370416,
-          "slug": "nba-mia-uta-2026-11-10-spread-away-15pt5",
-          "event_slug": "nba-mia-uta-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Suns (-18.5)",
-          "side": "SELL",
-          "outcome": "Clippers",
-          "price": 0.23,
-          "value": 22.885,
-          "timestamp": 1794370365,
-          "slug": "nba-lac-phx-2026-11-10-spread-home-18pt5",
-          "event_slug": "nba-lac-phx-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Suns (-18.5)",
-          "side": "SELL",
-          "outcome": "Clippers",
-          "price": 0.23,
-          "value": 22.885,
-          "timestamp": 1794370365,
-          "slug": "nba-lac-phx-2026-11-10-spread-home-18pt5",
-          "event_slug": "nba-lac-phx-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Heat vs. Jazz: O/U 216.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.69,
-          "value": 103.15499999999999,
-          "timestamp": 1794370120,
-          "slug": "nba-mia-uta-2026-11-10-total-216pt5",
-          "event_slug": "nba-mia-uta-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Heat vs. Jazz: O/U 216.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.69,
-          "value": 103.15499999999999,
-          "timestamp": 1794370120,
-          "slug": "nba-mia-uta-2026-11-10-total-216pt5",
-          "event_slug": "nba-mia-uta-2026-11-10",
-          "result": "win"
         }
       ]
     },
@@ -3496,10 +3496,98 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2381.211199989284,
+        "volume": 2261.4612099892843,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Delcy Rodríguez be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.003,
+          "value": 0.22437,
+          "timestamp": 1794375811,
+          "slug": "will-delcy-rodriguez-be-the-next-leader-out-before-2027-20260630194627383",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Emmanuel Macron be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.14958000000000002,
+          "timestamp": 1794375322,
+          "slug": "will-emmanuel-macron-be-the-next-leader-out-before-2027-20260630194627364",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Donald Trump be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.005,
+          "value": 0.37395000000000006,
+          "timestamp": 1794375322,
+          "slug": "will-donald-trump-be-the-next-leader-out-before-2027-20260630194627372",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Javier Milei be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.07479000000000001,
+          "timestamp": 1794375241,
+          "slug": "will-javier-milei-be-the-next-leader-out-before-2027-20260630194627371",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Recep Tayyip Erdoğan be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.14958000000000002,
+          "timestamp": 1794375241,
+          "slug": "will-recep-tayyip-erdogan-be-the-next-leader-out-before-2027-20260630194627365",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Luiz Inácio Lula da Silva be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.14958000000000002,
+          "timestamp": 1794375241,
+          "slug": "will-luiz-inacio-lula-da-silva-be-the-next-leader-out-before-2027-20260630194627375",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anthony Albanese be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.07479000000000001,
+          "timestamp": 1794375241,
+          "slug": "will-anthony-albanese-be-the-next-leader-out-before-2027-20260630194627369",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Xi Jinping be the next leader out before 2027?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.004,
+          "value": 0.29916000000000004,
+          "timestamp": 1794375241,
+          "slug": "will-xi-jinping-be-the-next-leader-out-before-2027-20260630194627367",
+          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
+          "result": "ongoing"
+        },
         {
           "title": "Will Sébastien Lecornu be the next leader out before 2027?",
           "side": "BUY",
@@ -3961,94 +4049,6 @@
           "slug": "uwcl-slb-faw-2026-11-11-slb",
           "event_slug": "uwcl-slb-faw-2026-11-11",
           "result": "ongoing"
-        },
-        {
-          "title": "Will FK Austria Wien win on 2026-11-11?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.87,
-          "value": 14.729099999999999,
-          "timestamp": 1794362935,
-          "slug": "uwcl-slb-faw-2026-11-11-faw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Vojislav Šešelj win the next Serbia presidential election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.02316,
-          "timestamp": 1794362380,
-          "slug": "will-vojislav-seselj-win-the-next-serbia-presidential-election-20260629192336826",
-          "event_slug": "next-serbia-presidential-election-winner-20260629192336823",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Aleksandar Repić win the 2026 Ljubljana mayoral election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.09956999999999999,
-          "timestamp": 1794361914,
-          "slug": "will-aleksandar-repic-win-the-2026-ljubljana-mayoral-election",
-          "event_slug": "ljubljana-mayoral-election-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Canyon win Worlds 2026 Finals MVP?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.221,
-          "value": 6.742710000000001,
-          "timestamp": 1794361824,
-          "slug": "will-canyon-win-worlds-2026-finals-mvp",
-          "event_slug": "worlds-2026-finals-mvp",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be between $1.75T and $2.00T?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 27.435019999999998,
-          "timestamp": 1794360084,
-          "slug": "will-anthropics-ipo-valuation-be-between-1pt75t-and-2pt00t-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be less than $1.25T?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.988,
-          "value": 27.16012,
-          "timestamp": 1794360084,
-          "slug": "will-anthropics-ipo-valuation-be-less-than-1pt25t-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be between $1.50T and $1.75T?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.641,
-          "value": 17.62109,
-          "timestamp": 1794360084,
-          "slug": "will-anthropics-ipo-valuation-be-between-1pt50t-and-1pt75t-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anthropic's IPO valuation be $2.50T or more?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 27.435019999999998,
-          "timestamp": 1794360084,
-          "slug": "will-anthropics-ipo-valuation-be-2pt50t-or-more-12",
-          "event_slug": "what-will-anthropics-ipo-valuation-be",
-          "result": "ongoing"
         }
       ]
     },
@@ -4310,14 +4310,58 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 5,
+        "losses": 3,
         "totalTrades": 500,
-        "winRate": 0,
-        "volume": 4916.021299978569,
+        "winRate": 0.625,
+        "volume": 7083.751399978962,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Thunder vs. Trail Blazers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.62,
+          "value": 1860,
+          "timestamp": 1794375817,
+          "slug": "nba-okc-por-2026-11-10",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Thunder (-3.5)",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.71,
+          "value": 106.5,
+          "timestamp": 1794375796,
+          "slug": "nba-okc-por-2026-11-10-spread-away-3pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Trail Blazers",
+          "side": "BUY",
+          "outcome": "Thunder",
+          "price": 0.5844803737,
+          "value": 161.41010000099203,
+          "timestamp": 1794375531,
+          "slug": "nba-okc-por-2026-11-10",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Thunder (-1.5)",
+          "side": "BUY",
+          "outcome": "Thunder",
+          "price": 0.57,
+          "value": 155.60999999999999,
+          "timestamp": 1794375531,
+          "slug": "nba-okc-por-2026-11-10-spread-away-1pt5",
+          "event_slug": "nba-okc-por-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Magic (-10.5)",
           "side": "BUY",
@@ -4327,7 +4371,7 @@
           "timestamp": 1794374547,
           "slug": "nba-orl-sac-2026-11-10-spread-away-10pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Thunder (-11.5)",
@@ -4404,7 +4448,7 @@
           "timestamp": 1794373339,
           "slug": "nba-orl-sac-2026-11-10-spread-away-1pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "1H Spread: Trail Blazers (-1.5)",
@@ -4415,7 +4459,7 @@
           "timestamp": 1794373338,
           "slug": "nba-okc-por-2026-11-10-1h-spread-home-1pt5",
           "event_slug": "nba-okc-por-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Thunder (-9.5)",
@@ -4679,7 +4723,7 @@
           "timestamp": 1794373054,
           "slug": "nba-orl-sac-2026-11-10",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Magic (-9.5)",
@@ -4701,7 +4745,7 @@
           "timestamp": 1794373054,
           "slug": "nba-orl-sac-2026-11-10-spread-away-10pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Spread: Magic (-5.5)",
@@ -4723,7 +4767,7 @@
           "timestamp": 1794373053,
           "slug": "nba-orl-sac-2026-11-10-spread-away-3pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Spread: Magic (-1.5)",
@@ -4734,7 +4778,7 @@
           "timestamp": 1794373053,
           "slug": "nba-orl-sac-2026-11-10-spread-away-1pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Montana Grizzlies vs. San Francisco Dons",
@@ -4822,51 +4866,7 @@
           "timestamp": 1794373006,
           "slug": "nba-okc-por-2026-11-10-1h-spread-home-1pt5",
           "event_slug": "nba-okc-por-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Trail Blazers (-2.5)",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.56,
-          "value": 8.96,
-          "timestamp": 1794373005,
-          "slug": "nba-okc-por-2026-11-10-spread-home-2pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Trail Blazers (-1.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.4780769231,
-          "value": 12.4300000006,
-          "timestamp": 1794372988,
-          "slug": "nba-okc-por-2026-11-10-spread-home-1pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Trail Blazers (-4.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.38,
-          "value": 11.4,
-          "timestamp": 1794372988,
-          "slug": "nba-okc-por-2026-11-10-spread-home-4pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.5,
-          "value": 83,
-          "timestamp": 1794372988,
-          "slug": "nba-okc-por-2026-11-10",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "ongoing"
+          "result": "win"
         }
       ]
     },
@@ -7077,5 +7077,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T05:38:50.165Z"
+  "lastUpdate": "2026-11-11T05:47:22.306Z"
 }
