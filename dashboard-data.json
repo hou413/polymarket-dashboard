@@ -1260,12 +1260,23 @@
       "stats48h": {
         "wins": 1,
         "losses": 12,
-        "totalTrades": 72,
+        "totalTrades": 73,
         "winRate": 0.07692307692307693,
-        "volume": 8953.872046975557,
+        "volume": 9479.792045962538,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will there be no Codex weekly usage limit reset in the week of November 9?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7013941301,
+          "value": 533.9999989869798,
+          "timestamp": 1794380163,
+          "slug": "will-there-be-no-codex-weekly-usage-limit-reset-in-the-week-of-november-9",
+          "event_slug": "how-many-codex-resets-week-of-november-9",
+          "result": "ongoing"
+        },
         {
           "title": "Will Crude Oil reach a new all-time high by March 31, 2027?",
           "side": "BUY",
@@ -1804,17 +1815,6 @@
           "slug": "will-wti-dip-to-85-in-november-2026",
           "event_slug": "what-price-will-wti-hit-in-november-2026",
           "result": "loss"
-        },
-        {
-          "title": "Pete Hegseth out as Secretary of Defense by November 14?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.08,
-          "value": 8.08,
-          "timestamp": 1794184143,
-          "slug": "pete-hegseth-out-as-secretary-of-defense-by-november-14",
-          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
-          "result": "ongoing"
         }
       ]
     },
@@ -7077,5 +7077,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T06:55:45.559Z"
+  "lastUpdate": "2026-11-11T07:04:15.767Z"
 }
