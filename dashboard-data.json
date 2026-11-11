@@ -3143,10 +3143,43 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 37246.82498000141,
+        "volume": 37067.31734000891,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Brian Schatz be the next Senate Majority Leader?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9897386275,
+          "value": 151.4300100075,
+          "timestamp": 1794396591,
+          "slug": "will-brian-schatz-be-the-next-senate-majority-leader",
+          "event_slug": "next-senate-majority-leader-485",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chris Van Hollen be the next Senate Majority Leader?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.855,
+          "value": 130.815,
+          "timestamp": 1794396591,
+          "slug": "will-chris-van-hollen-be-the-next-senate-majority-leader",
+          "event_slug": "next-senate-majority-leader-485",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 660-679 tweets in November 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.00668,
+          "timestamp": 1794396238,
+          "slug": "elon-musk-of-tweets-november-2026-660-679",
+          "event_slug": "elon-musk-of-tweets-november-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Kiin win Worlds 2026 Finals MVP?",
           "side": "SELL",
@@ -3662,39 +3695,6 @@
           "timestamp": 1794375018,
           "slug": "will-miguel-diaz-canel-be-the-next-leader-out-before-2027-20260630194627382",
           "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Volodymyr Zelenskyy be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.993,
-          "value": 74.26647000000001,
-          "timestamp": 1794375018,
-          "slug": "will-volodymyr-zelenskyy-be-the-next-leader-out-before-2027-20260630194627373",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Ahmed al-Sharaa be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.994,
-          "value": 74.34126,
-          "timestamp": 1794375018,
-          "slug": "will-ahmed-al-sharaa-be-the-next-leader-out-before-2027-20260630194627384",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Bill Hill win the AK-AL House seat?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.94,
-          "value": 313.1516,
-          "timestamp": 1794371479,
-          "slug": "will-a-win-the-ak-al-house-seat",
-          "event_slug": "ak-al-house-election-winner",
           "result": "ongoing"
         }
       ]
@@ -6735,5 +6735,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T11:27:20.424Z"
+  "lastUpdate": "2026-11-11T11:36:16.021Z"
 }
