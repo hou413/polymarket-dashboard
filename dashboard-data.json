@@ -387,13 +387,79 @@
       "specialty": "NBA+NFL",
       "stats48h": {
         "wins": 14,
-        "losses": 34,
+        "losses": 28,
         "totalTrades": 500,
-        "winRate": 0.2916666666666667,
-        "volume": 8144.482500147115,
+        "winRate": 0.3333333333333333,
+        "volume": 7139.367899982515,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Celtics vs. 76ers: O/U 223.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.71,
+          "value": 183.89,
+          "timestamp": 1794361308,
+          "slug": "nba-bos-phi-2026-11-10-total-223pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics vs. 76ers: O/U 209.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.35,
+          "value": 91.69999999999999,
+          "timestamp": 1794361308,
+          "slug": "nba-bos-phi-2026-11-10-total-209pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: 76ers (-5.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.26,
+          "value": 37.050000000000004,
+          "timestamp": 1794361077,
+          "slug": "nba-bos-phi-2026-11-10-spread-home-5pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: 76ers (-6.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.22,
+          "value": 44,
+          "timestamp": 1794361077,
+          "slug": "nba-bos-phi-2026-11-10-spread-home-6pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: 76ers (-3.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.32,
+          "value": 16,
+          "timestamp": 1794361077,
+          "slug": "nba-bos-phi-2026-11-10-spread-home-3pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: 76ers (-5.5)",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.2596180082,
+          "value": 285.45000001589995,
+          "timestamp": 1794361077,
+          "slug": "nba-bos-phi-2026-11-10-spread-home-5pt5",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Celtics (-7.5)",
           "side": "BUY",
@@ -877,72 +943,6 @@
           "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
           "event_slug": "nfl-buf-min-2026-11-10",
           "result": "loss"
-        },
-        {
-          "title": "Bills vs. Vikings: O/U 34.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.19,
-          "value": 38,
-          "timestamp": 1794284082,
-          "slug": "nfl-buf-min-2026-11-10-total-34pt5",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Bills (-13.5)",
-          "side": "BUY",
-          "outcome": "Vikings",
-          "price": 0.1999756098,
-          "value": 409.95000009,
-          "timestamp": 1794284076,
-          "slug": "nfl-buf-min-2026-11-10-spread-away-13pt5",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Bills (-10.5)",
-          "side": "BUY",
-          "outcome": "Vikings",
-          "price": 0.17,
-          "value": 450.415,
-          "timestamp": 1794284074,
-          "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Bills (-13.5)",
-          "side": "BUY",
-          "outcome": "Vikings",
-          "price": 0.199321919,
-          "value": 587.9000000904999,
-          "timestamp": 1794284074,
-          "slug": "nfl-buf-min-2026-11-10-spread-away-13pt5",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Bills (-10.5)",
-          "side": "BUY",
-          "outcome": "Vikings",
-          "price": 0.17,
-          "value": 148.7296,
-          "timestamp": 1794284074,
-          "slug": "nfl-buf-min-2026-11-10-spread-away-10pt5",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Bills (-13.5)",
-          "side": "BUY",
-          "outcome": "Vikings",
-          "price": 0.13,
-          "value": 28.21,
-          "timestamp": 1794284013,
-          "slug": "nfl-buf-min-2026-11-10-spread-away-13pt5",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
         }
       ]
     },
@@ -952,10 +952,10 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 1,
-        "losses": 7,
-        "totalTrades": 25,
-        "winRate": 0.125,
-        "volume": 61581.66019992335,
+        "losses": 6,
+        "totalTrades": 24,
+        "winRate": 0.14285714285714285,
+        "volume": 61137.88729992335,
         "pnl": 0
       },
       "recentTrades": [
@@ -1222,17 +1222,6 @@
           "slug": "nhl-phi-cal-2026-11-08",
           "event_slug": "nhl-phi-cal-2026-11-08",
           "result": "loss"
-        },
-        {
-          "title": "Spread: Oilers (-1.5)",
-          "side": "BUY",
-          "outcome": "Canucks",
-          "price": 0.43,
-          "value": 443.7729,
-          "timestamp": 1794101770,
-          "slug": "nhl-van-edm-2026-11-07-spread-home-1pt5",
-          "event_slug": "nhl-van-edm-2026-11-07",
-          "result": "loss"
         }
       ]
     },
@@ -1269,14 +1258,25 @@
       "label": "fantasy7788",
       "specialty": "Politics",
       "stats48h": {
-        "wins": 3,
+        "wins": 2,
         "losses": 12,
-        "totalTrades": 70,
-        "winRate": 0.2,
-        "volume": 8832.716222974908,
+        "totalTrades": 71,
+        "winRate": 0.14285714285714285,
+        "volume": 8964.051222975557,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will the U.S. invade Iran before 2027?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.07,
+          "value": 200.13000000000002,
+          "timestamp": 1794361297,
+          "slug": "will-the-us-invade-iran-before-2027",
+          "event_slug": "will-the-us-invade-iran-before-2027",
+          "result": "ongoing"
+        },
         {
           "title": "US announces end of Iranian blockade by November 15, 2026?",
           "side": "SELL",
@@ -1813,17 +1813,6 @@
           "value": 23.999976,
           "timestamp": 1794183681,
           "slug": "will-trump-say-fake-news-during-60-minutes-extended-interview",
-          "event_slug": "what-will-trump-say-during-60-minutes-extended-interview",
-          "result": "win"
-        },
-        {
-          "title": "Will Trump say \"Transgender\" during \"60 Minutes\" extended interview?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9858842075,
-          "value": 68.79499999935001,
-          "timestamp": 1794183195,
-          "slug": "will-trump-say-transgender-during-60-minutes-extended-interview",
           "event_slug": "what-will-trump-say-during-60-minutes-extended-interview",
           "result": "win"
         }
@@ -4358,10 +4347,153 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 5834.947409984406,
+        "volume": 2654.140000044899,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Illinois Fighting Illini vs. Texas Tech Red Raiders",
+          "side": "BUY",
+          "outcome": "Texas Tech Red Raiders",
+          "price": 0.82,
+          "value": 8.2,
+          "timestamp": 1794361488,
+          "slug": "cbb-ill-txtech-2026-11-10",
+          "event_slug": "cbb-ill-txtech-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Michigan State Spartans vs. Duke Blue Devils",
+          "side": "BUY",
+          "outcome": "Duke Blue Devils",
+          "price": 0.242057554,
+          "value": 168.23000003,
+          "timestamp": 1794361468,
+          "slug": "cbb-mst-duke-2026-11-10",
+          "event_slug": "cbb-mst-duke-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Illinois Fighting Illini vs. Texas Tech Red Raiders",
+          "side": "BUY",
+          "outcome": "Texas Tech Red Raiders",
+          "price": 0.79,
+          "value": 22.12,
+          "timestamp": 1794361462,
+          "slug": "cbb-ill-txtech-2026-11-10",
+          "event_slug": "cbb-ill-txtech-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Illinois Fighting Illini vs. Texas Tech Red Raiders",
+          "side": "BUY",
+          "outcome": "Texas Tech Red Raiders",
+          "price": 0.79,
+          "value": 22.12,
+          "timestamp": 1794361383,
+          "slug": "cbb-ill-txtech-2026-11-10",
+          "event_slug": "cbb-ill-txtech-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics vs. 76ers",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.32,
+          "value": 12.8,
+          "timestamp": 1794361278,
+          "slug": "nba-bos-phi-2026-11-10",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics vs. 76ers",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.34,
+          "value": 2.04,
+          "timestamp": 1794361228,
+          "slug": "nba-bos-phi-2026-11-10",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics vs. 76ers",
+          "side": "BUY",
+          "outcome": "Celtics",
+          "price": 0.64,
+          "value": 223.36,
+          "timestamp": 1794361192,
+          "slug": "nba-bos-phi-2026-11-10",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Washington State Cougars vs. Duquesne Dukes",
+          "side": "BUY",
+          "outcome": "Duquesne Dukes",
+          "price": 0.3235951662,
+          "value": 107.1100000122,
+          "timestamp": 1794361158,
+          "slug": "cbb-washst-duq-2026-11-10",
+          "event_slug": "cbb-washst-duq-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "La Salle Explorers vs. Villanova Wildcats",
+          "side": "BUY",
+          "outcome": "La Salle Explorers",
+          "price": 0.0165185185,
+          "value": 1.7839999979999999,
+          "timestamp": 1794361158,
+          "slug": "cbb-lasal-vill-2026-11-10",
+          "event_slug": "cbb-lasal-vill-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics vs. 76ers",
+          "side": "BUY",
+          "outcome": "76ers",
+          "price": 0.39,
+          "value": 1.9500000000000002,
+          "timestamp": 1794361113,
+          "slug": "nba-bos-phi-2026-11-10",
+          "event_slug": "nba-bos-phi-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Illinois Fighting Illini vs. Texas Tech Red Raiders",
+          "side": "BUY",
+          "outcome": "Illinois Fighting Illini",
+          "price": 0.22,
+          "value": 8.8,
+          "timestamp": 1794361107,
+          "slug": "cbb-ill-txtech-2026-11-10",
+          "event_slug": "cbb-ill-txtech-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Memphis Tigers vs. Vanderbilt Commodores",
+          "side": "BUY",
+          "outcome": "Vanderbilt Commodores",
+          "price": 0.9790948905,
+          "value": 134.1359999985,
+          "timestamp": 1794361023,
+          "slug": "cbb-mphs-vand-2026-11-10",
+          "event_slug": "cbb-mphs-vand-2026-11-10",
+          "result": "ongoing"
+        },
+        {
+          "title": "Illinois Fighting Illini vs. Texas Tech Red Raiders",
+          "side": "BUY",
+          "outcome": "Texas Tech Red Raiders",
+          "price": 0.74,
+          "value": 22.2,
+          "timestamp": 1794360993,
+          "slug": "cbb-ill-txtech-2026-11-10",
+          "event_slug": "cbb-ill-txtech-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Bradley Braves vs. Davidson Wildcats",
           "side": "BUY",
@@ -4767,149 +4899,6 @@
           "timestamp": 1794360516,
           "slug": "nba-mil-nyk-2026-11-10-spread-home-26pt5",
           "event_slug": "nba-mil-nyk-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-19.5)",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.33,
-          "value": 1.6500000000000001,
-          "timestamp": 1794360516,
-          "slug": "nba-mil-nyk-2026-11-10-spread-home-19pt5",
-          "event_slug": "nba-mil-nyk-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-20.5)",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.34,
-          "value": 79.56,
-          "timestamp": 1794360516,
-          "slug": "nba-mil-nyk-2026-11-10-spread-home-20pt5",
-          "event_slug": "nba-mil-nyk-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "La Salle Explorers vs. Villanova Wildcats",
-          "side": "BUY",
-          "outcome": "La Salle Explorers",
-          "price": 0.0228285714,
-          "value": 2.396999997,
-          "timestamp": 1794360472,
-          "slug": "cbb-lasal-vill-2026-11-10",
-          "event_slug": "cbb-lasal-vill-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "La Salle Explorers vs. Villanova Wildcats",
-          "side": "BUY",
-          "outcome": "Villanova Wildcats",
-          "price": 0.9794388594,
-          "value": 408.416209981206,
-          "timestamp": 1794360460,
-          "slug": "cbb-lasal-vill-2026-11-10",
-          "event_slug": "cbb-lasal-vill-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. 76ers",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.65,
-          "value": 3361.8,
-          "timestamp": 1794360435,
-          "slug": "nba-bos-phi-2026-11-10",
-          "event_slug": "nba-bos-phi-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Memphis Tigers vs. Vanderbilt Commodores",
-          "side": "BUY",
-          "outcome": "Vanderbilt Commodores",
-          "price": 0.94,
-          "value": 5.1042,
-          "timestamp": 1794360426,
-          "slug": "cbb-mphs-vand-2026-11-10",
-          "event_slug": "cbb-mphs-vand-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Winthrop Eagles vs. Kennesaw State Owls",
-          "side": "BUY",
-          "outcome": "Kennesaw State Owls",
-          "price": 0.84,
-          "value": 16.8,
-          "timestamp": 1794360417,
-          "slug": "cbb-winth-kenest-2026-11-10",
-          "event_slug": "cbb-winth-kenest-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-14.5)",
-          "side": "BUY",
-          "outcome": "Knicks",
-          "price": 0.79,
-          "value": 3.95,
-          "timestamp": 1794360412,
-          "slug": "nba-mil-nyk-2026-11-10-spread-home-14pt5",
-          "event_slug": "nba-mil-nyk-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-17.5)",
-          "side": "BUY",
-          "outcome": "Knicks",
-          "price": 0.71,
-          "value": 7.1,
-          "timestamp": 1794360412,
-          "slug": "nba-mil-nyk-2026-11-10-spread-home-17pt5",
-          "event_slug": "nba-mil-nyk-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-19.5)",
-          "side": "BUY",
-          "outcome": "Knicks",
-          "price": 0.65,
-          "value": 3.25,
-          "timestamp": 1794360412,
-          "slug": "nba-mil-nyk-2026-11-10-spread-home-19pt5",
-          "event_slug": "nba-mil-nyk-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Illinois Fighting Illini vs. Texas Tech Red Raiders",
-          "side": "BUY",
-          "outcome": "Texas Tech Red Raiders",
-          "price": 0.55,
-          "value": 21.450000000000003,
-          "timestamp": 1794360405,
-          "slug": "cbb-ill-txtech-2026-11-10",
-          "event_slug": "cbb-ill-txtech-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. 76ers",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.38,
-          "value": 2.2800000000000002,
-          "timestamp": 1794360400,
-          "slug": "nba-bos-phi-2026-11-10",
-          "event_slug": "nba-bos-phi-2026-11-10",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. 76ers",
-          "side": "BUY",
-          "outcome": "76ers",
-          "price": 0.38,
-          "value": 1.9,
-          "timestamp": 1794360399,
-          "slug": "nba-bos-phi-2026-11-10",
-          "event_slug": "nba-bos-phi-2026-11-10",
           "result": "ongoing"
         }
       ]
@@ -7121,5 +7110,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T01:37:48.756Z"
+  "lastUpdate": "2026-11-11T01:46:56.327Z"
 }
