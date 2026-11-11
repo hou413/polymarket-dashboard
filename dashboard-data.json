@@ -3143,10 +3143,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 37067.31734000891,
+        "volume": 37005.64148000521,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Kuomintang (KMT) win the most head of local government elections in the 202",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.67,
+          "value": 51.255,
+          "timestamp": 1794397714,
+          "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
+          "event_slug": "2026-taiwanese-local-elections-party-winner",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 640-659 tweets in November 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.01753,
+          "timestamp": 1794397408,
+          "slug": "elon-musk-of-tweets-november-2026-640-659",
+          "event_slug": "elon-musk-of-tweets-november-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Brian Schatz be the next Senate Majority Leader?",
           "side": "BUY",
@@ -3674,28 +3696,6 @@
           "slug": "will-kim-jong-un-be-the-next-leader-out-before-2027-20260630194627366",
           "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
           "result": "ongoing"
-        },
-        {
-          "title": "Will no listed leader be out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.5192071133,
-          "value": 38.831500003707006,
-          "timestamp": 1794375018,
-          "slug": "will-no-listed-leader-be-out-before-2027-20260630194627385",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Miguel Díaz-Canel be the next leader out before 2027?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.991,
-          "value": 74.11689000000001,
-          "timestamp": 1794375018,
-          "slug": "will-miguel-diaz-canel-be-the-next-leader-out-before-2027-20260630194627382",
-          "event_slug": "next-leader-out-of-power-before-2027-no-starmer-or-petro-20260630194619406",
-          "result": "ongoing"
         }
       ]
     },
@@ -3730,11 +3730,11 @@
       "label": "chongchong37",
       "specialty": "综合",
       "stats48h": {
-        "wins": 14,
+        "wins": 11,
         "losses": 4,
-        "totalTrades": 18,
-        "winRate": 0.7777777777777778,
-        "volume": 34993.229200031936,
+        "totalTrades": 15,
+        "winRate": 0.7333333333333333,
+        "volume": 24089.595300031935,
         "pnl": 0
       },
       "recentTrades": [
@@ -3901,39 +3901,6 @@
           "timestamp": 1794142794,
           "slug": "ere-her1-fey-2026-11-08-total-6pt5",
           "event_slug": "ere-her1-fey-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "SSC Napoli vs. SS Lazio: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.48,
-          "value": 1740.7536,
-          "timestamp": 1794138702,
-          "slug": "sea-nap-laz-2026-11-08-total-2pt5",
-          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "SSC Napoli vs. SS Lazio: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.47,
-          "value": 3369.5945,
-          "timestamp": 1794138571,
-          "slug": "sea-nap-laz-2026-11-08-total-2pt5",
-          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
-          "result": "win"
-        },
-        {
-          "title": "SSC Napoli vs. SS Lazio: O/U 2.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.47,
-          "value": 5793.2858,
-          "timestamp": 1794138546,
-          "slug": "sea-nap-laz-2026-11-08-total-2pt5",
-          "event_slug": "sea-nap-laz-2026-11-08-more-markets",
           "result": "win"
         }
       ]
@@ -6735,5 +6702,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-11T11:44:51.019Z"
+  "lastUpdate": "2026-11-11T11:52:52.230Z"
 }
