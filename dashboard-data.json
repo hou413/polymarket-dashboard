@@ -2463,10 +2463,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 14254.112790004541,
+        "volume": 14254.321790004538,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Klemen Boštjančič win the 2026 Ljubljana mayoral election?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.22,
+          "timestamp": 1794482082,
+          "slug": "will-klemen-bostjancic-win-the-2026-ljubljana-mayoral-election",
+          "event_slug": "ljubljana-mayoral-election-winner-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Anton Rop win the 2026 Ljubljana mayoral election?",
           "side": "BUY",
@@ -3004,17 +3015,6 @@
           "timestamp": 1794453913,
           "slug": "will-avengers-doomsday-be-the-top-grossing-movie-of-2026",
           "event_slug": "highest-grossing-movie-in-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Pete Hegseth be the leader of Venezuela end of 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.011,
-          "timestamp": 1794451770,
-          "slug": "will-pete-hegseth-be-the-leader-of-venezuela-end-of-2026",
-          "event_slug": "venezuela-leader-end-of-2026",
           "result": "ongoing"
         }
       ]
@@ -3739,12 +3739,23 @@
       "stats48h": {
         "wins": 13,
         "losses": 14,
-        "totalTrades": 33,
+        "totalTrades": 34,
         "winRate": 0.48148148148148145,
-        "volume": 15058.710336745153,
+        "volume": 15540.094336718073,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Dota 2: Rottweilas Latam vs Mena Warriors - Game 2 Winner",
+          "side": "BUY",
+          "outcome": "Rottweilas Latam",
+          "price": 0.299996884,
+          "value": 481.38399997292004,
+          "timestamp": 1794482194,
+          "slug": "dota2-rl-menawa-2026-11-10-game2",
+          "event_slug": "dota2-rl-menawa-2026-11-10",
+          "result": "ongoing"
+        },
         {
           "title": "Dota 2: Rottweilas Latam vs Mena Warriors - Game 2 Winner",
           "side": "BUY",
@@ -5325,5 +5336,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T11:13:35.672Z"
+  "lastUpdate": "2026-11-12T11:22:28.308Z"
 }
