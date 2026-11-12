@@ -1929,9 +1929,9 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 7,
+        "totalTrades": 6,
         "winRate": 0,
-        "volume": 1440.134960013404,
+        "volume": 1439.857760013404,
         "pnl": 0
       },
       "recentTrades": [
@@ -1998,17 +1998,6 @@
           "value": 420,
           "timestamp": 1794308944,
           "slug": "will-thomas-massie-win-the-2028-republican-presidential-nomination",
-          "event_slug": "republican-presidential-nominee-2028",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Joe Kent win the 2028 Republican presidential nomination?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.006,
-          "value": 0.2772,
-          "timestamp": 1794216501,
-          "slug": "will-joe-kent-win-the-2028-republican-presidential-nomination",
           "event_slug": "republican-presidential-nominee-2028",
           "result": "ongoing"
         }
@@ -4594,12 +4583,23 @@
       "stats48h": {
         "wins": 33,
         "losses": 8,
-        "totalTrades": 43,
+        "totalTrades": 44,
         "winRate": 0.8048780487804879,
-        "volume": 22445.126820010715,
+        "volume": 23296.138900010716,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Adelaide 36ers vs. Melbourne United",
+          "side": "BUY",
+          "outcome": "Adelaide 36ers",
+          "price": 0.956,
+          "value": 851.01208,
+          "timestamp": 1794476083,
+          "slug": "bknbl-ade-mel-2026-11-12",
+          "event_slug": "bknbl-ade-mel-2026-11-12",
+          "result": "ongoing"
+        },
         {
           "title": "Victoria Women T20I: Uganda Women vs USA Women",
           "side": "BUY",
@@ -5204,5 +5204,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T09:29:04.062Z"
+  "lastUpdate": "2026-11-12T09:37:44.575Z"
 }
