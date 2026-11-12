@@ -2463,10 +2463,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 14254.321790004538,
+        "volume": 7435.192680056346,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Alexandria Ocasio-Cortez not run for Senate or President in 2028?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.039,
+          "value": 0.28275,
+          "timestamp": 1794483754,
+          "slug": "will-alexandria-ocasio-cortez-run-for-another-office-or-not-run-in-2028",
+          "event_slug": "will-aoc-announce-a-run-for-senate-or-president-before-2028",
+          "result": "ongoing"
+        },
         {
           "title": "Will Klemen Boštjančič win the 2026 Ljubljana mayoral election?",
           "side": "SELL",
@@ -3002,17 +3013,6 @@
           "price": 0.076,
           "value": 40.51408,
           "timestamp": 1794454228,
-          "slug": "will-avengers-doomsday-be-the-top-grossing-movie-of-2026",
-          "event_slug": "highest-grossing-movie-in-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Avengers: Doomsday be the top grossing movie of 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.9016021159,
-          "value": 6819.4118599481935,
-          "timestamp": 1794453913,
           "slug": "will-avengers-doomsday-be-the-top-grossing-movie-of-2026",
           "event_slug": "highest-grossing-movie-in-2026",
           "result": "ongoing"
@@ -5336,5 +5336,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T11:40:08.443Z"
+  "lastUpdate": "2026-11-12T11:48:55.233Z"
 }
