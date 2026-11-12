@@ -37,10 +37,109 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 6809.652700013931,
+        "volume": 6437.281900002332,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Lakers (-11.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.15,
+          "value": 45.75,
+          "timestamp": 1794451305,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-11pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-16.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.3480442804,
+          "value": 94.3199999884,
+          "timestamp": 1794451305,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-16pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-13.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.24,
+          "value": 10.799999999999999,
+          "timestamp": 1794451305,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-13pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Magic (-7.5)",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.3,
+          "value": 90.14999999999999,
+          "timestamp": 1794451110,
+          "slug": "nba-orl-uta-2026-11-11-spread-away-7pt5",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Magic (-7.5)",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.3,
+          "value": 209.85,
+          "timestamp": 1794451110,
+          "slug": "nba-orl-uta-2026-11-11-spread-away-7pt5",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Magic (-5.5)",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.35,
+          "value": 87.85,
+          "timestamp": 1794451110,
+          "slug": "nba-orl-uta-2026-11-11-spread-away-5pt5",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-6.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.42,
+          "value": 420,
+          "timestamp": 1794451095,
+          "slug": "nba-den-mem-2026-11-11-spread-away-6pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Grizzlies: O/U 238.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.48,
+          "value": 96,
+          "timestamp": 1794451039,
+          "slug": "nba-den-mem-2026-11-11-total-238pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Bulls: O/U 235.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.68,
+          "value": 42.622400000000006,
+          "timestamp": 1794451002,
+          "slug": "nba-sas-chi-2026-11-11-total-235pt5",
+          "event_slug": "nba-sas-chi-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Spurs vs. Bulls: O/U 237.5",
           "side": "BUY",
@@ -489,105 +588,6 @@
           "value": 72,
           "timestamp": 1794448936,
           "slug": "nba-den-mem-2026-11-11-total-240pt5",
-          "event_slug": "nba-den-mem-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nets (-2.5)",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.71,
-          "value": 312.4,
-          "timestamp": 1794448645,
-          "slug": "nba-bkn-nop-2026-11-11-spread-away-2pt5",
-          "event_slug": "nba-bkn-nop-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-1.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.55,
-          "value": 2.75,
-          "timestamp": 1794448482,
-          "slug": "nba-cle-nyk-2026-11-11-spread-home-1pt5",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Bulls (-2.5)",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.45,
-          "value": 2.259,
-          "timestamp": 1794448396,
-          "slug": "nba-sas-chi-2026-11-11-spread-home-2pt5",
-          "event_slug": "nba-sas-chi-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-2.5)",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.73,
-          "value": 3.65,
-          "timestamp": 1794448378,
-          "slug": "nba-den-mem-2026-11-11-spread-away-2pt5",
-          "event_slug": "nba-den-mem-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nets (-10.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.54,
-          "value": 540,
-          "timestamp": 1794448362,
-          "slug": "nba-bkn-nop-2026-11-11-spread-away-10pt5",
-          "event_slug": "nba-bkn-nop-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-9.5)",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.37,
-          "value": 295.815,
-          "timestamp": 1794448263,
-          "slug": "nba-lal-mil-2026-11-11-spread-away-9pt5",
-          "event_slug": "nba-lal-mil-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nets (-12.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.71,
-          "value": 147.68,
-          "timestamp": 1794448189,
-          "slug": "nba-bkn-nop-2026-11-11-spread-away-12pt5",
-          "event_slug": "nba-bkn-nop-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nets (-10.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.65,
-          "value": 135.20000000000002,
-          "timestamp": 1794448189,
-          "slug": "nba-bkn-nop-2026-11-11-spread-away-10pt5",
-          "event_slug": "nba-bkn-nop-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Nuggets (-9.5)",
-          "side": "BUY",
-          "outcome": "Grizzlies",
-          "price": 0.54,
-          "value": 29.9592,
-          "timestamp": 1794448180,
-          "slug": "nba-den-mem-2026-11-11-spread-away-9pt5",
           "event_slug": "nba-den-mem-2026-11-11",
           "result": "ongoing"
         }
@@ -1680,10 +1680,10 @@
       "label": "ch27er",
       "specialty": "Soccer+NBA",
       "stats48h": {
-        "wins": 6,
+        "wins": 7,
         "losses": 5,
         "totalTrades": 20,
-        "winRate": 0.5454545454545454,
+        "winRate": 0.5833333333333334,
         "volume": 433213.7973,
         "pnl": 0
       },
@@ -1774,7 +1774,7 @@
           "timestamp": 1794439191,
           "slug": "nba-was-ind-2026-11-11-spread-home-3pt5",
           "event_slug": "nba-was-ind-2026-11-11",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Celtics vs. Raptors",
@@ -2662,10 +2662,197 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 12046.520599908812,
+        "volume": 11361.588199722297,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spurs vs. Bulls",
+          "side": "BUY",
+          "outcome": "Bulls",
+          "price": 0.1,
+          "value": 5.5,
+          "timestamp": 1794451347,
+          "slug": "nba-sas-chi-2026-11-11",
+          "event_slug": "nba-sas-chi-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Jazz",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.48,
+          "value": 33.6,
+          "timestamp": 1794451336,
+          "slug": "nba-orl-uta-2026-11-11",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-15.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.68,
+          "value": 3.4000000000000004,
+          "timestamp": 1794451294,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-15pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-16.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.6164,
+          "value": 77.05,
+          "timestamp": 1794451294,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-16pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-14.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.272173913,
+          "value": 106.419999983,
+          "timestamp": 1794451275,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-14pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-12.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.1924615385,
+          "value": 62.5500000125,
+          "timestamp": 1794451275,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-12pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-13.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.2306516854,
+          "value": 102.640000003,
+          "timestamp": 1794451275,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-13pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Grizzlies",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.65,
+          "value": 96.7005,
+          "timestamp": 1794451255,
+          "slug": "nba-den-mem-2026-11-11",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-14.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.8,
+          "value": 16,
+          "timestamp": 1794451144,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-14pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Jazz",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.4991361795,
+          "value": 1377.70569993231,
+          "timestamp": 1794451137,
+          "slug": "nba-orl-uta-2026-11-11",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Cavaliers vs. Knicks: O/U 220.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.9264705882,
+          "value": 62.9999999976,
+          "timestamp": 1794451114,
+          "slug": "nba-cle-nyk-2026-11-11-total-220pt5",
+          "event_slug": "nba-cle-nyk-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Bulls",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.864719645,
+          "value": 428.727999991,
+          "timestamp": 1794451101,
+          "slug": "nba-sas-chi-2026-11-11",
+          "event_slug": "nba-sas-chi-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Bulls",
+          "side": "BUY",
+          "outcome": "Bulls",
+          "price": 0.13,
+          "value": 4.718999999999999,
+          "timestamp": 1794451084,
+          "slug": "nba-sas-chi-2026-11-11",
+          "event_slug": "nba-sas-chi-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-16.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.68,
+          "value": 3.4000000000000004,
+          "timestamp": 1794451074,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-16pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spurs vs. Bulls",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.86,
+          "value": 8.6,
+          "timestamp": 1794451071,
+          "slug": "nba-sas-chi-2026-11-11",
+          "event_slug": "nba-sas-chi-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-17.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.58,
+          "value": 155.44,
+          "timestamp": 1794451060,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-17pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-16.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.6203892765,
+          "value": 168.93199999095,
+          "timestamp": 1794451060,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-16pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Nuggets vs. Grizzlies",
           "side": "BUY",
@@ -3027,193 +3214,6 @@
           "timestamp": 1794450754,
           "slug": "nba-lal-mil-2026-11-11-spread-away-16pt5",
           "event_slug": "nba-lal-mil-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Grizzlies",
-          "side": "BUY",
-          "outcome": "Grizzlies",
-          "price": 0.21,
-          "value": 506.07269999999994,
-          "timestamp": 1794450750,
-          "slug": "nba-den-mem-2026-11-11",
-          "event_slug": "nba-den-mem-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Grizzlies (-3.5)",
-          "side": "BUY",
-          "outcome": "Grizzlies",
-          "price": 0.13,
-          "value": 37.96,
-          "timestamp": 1794450750,
-          "slug": "nba-den-mem-2026-11-11-spread-home-3pt5",
-          "event_slug": "nba-den-mem-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.91,
-          "value": 45.5,
-          "timestamp": 1794450739,
-          "slug": "nba-bkn-nop-2026-11-11",
-          "event_slug": "nba-bkn-nop-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nuggets vs. Grizzlies",
-          "side": "BUY",
-          "outcome": "Nuggets",
-          "price": 0.79,
-          "value": 155.2824,
-          "timestamp": 1794450736,
-          "slug": "nba-den-mem-2026-11-11",
-          "event_slug": "nba-den-mem-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cavaliers vs. Knicks",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.79,
-          "value": 7.5208,
-          "timestamp": 1794450735,
-          "slug": "nba-cle-nyk-2026-11-11",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Nets vs. Pelicans",
-          "side": "BUY",
-          "outcome": "Nets",
-          "price": 0.89,
-          "value": 163.76,
-          "timestamp": 1794450723,
-          "slug": "nba-bkn-nop-2026-11-11",
-          "event_slug": "nba-bkn-nop-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Bulls",
-          "side": "BUY",
-          "outcome": "Bulls",
-          "price": 0.1254541322,
-          "value": 13.798700000678,
-          "timestamp": 1794450712,
-          "slug": "nba-sas-chi-2026-11-11",
-          "event_slug": "nba-sas-chi-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spurs vs. Bulls",
-          "side": "BUY",
-          "outcome": "Spurs",
-          "price": 0.87,
-          "value": 335.5068,
-          "timestamp": 1794450699,
-          "slug": "nba-sas-chi-2026-11-11",
-          "event_slug": "nba-sas-chi-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Raptors (-1.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.57,
-          "value": 5.699999999999999,
-          "timestamp": 1794450684,
-          "slug": "nba-bos-tor-2026-11-11-spread-home-1pt5",
-          "event_slug": "nba-bos-tor-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-1.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.23,
-          "value": 23,
-          "timestamp": 1794450658,
-          "slug": "nba-bos-tor-2026-11-11-spread-away-1pt5",
-          "event_slug": "nba-bos-tor-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Raptors (-5.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.82,
-          "value": 56.456999999999994,
-          "timestamp": 1794450658,
-          "slug": "nba-bos-tor-2026-11-11-spread-home-5pt5",
-          "event_slug": "nba-bos-tor-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cavaliers vs. Knicks",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.7883996751,
-          "value": 1941.0400000962,
-          "timestamp": 1794450649,
-          "slug": "nba-cle-nyk-2026-11-11",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-9.5)",
-          "side": "BUY",
-          "outcome": "Lakers",
-          "price": 0.76,
-          "value": 3.8,
-          "timestamp": 1794450642,
-          "slug": "nba-lal-mil-2026-11-11-spread-away-9pt5",
-          "event_slug": "nba-lal-mil-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Raptors (-1.5)",
-          "side": "BUY",
-          "outcome": "Raptors",
-          "price": 0.56,
-          "value": 2.8000000000000003,
-          "timestamp": 1794450634,
-          "slug": "nba-bos-tor-2026-11-11-spread-home-1pt5",
-          "event_slug": "nba-bos-tor-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-8.5)",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.21,
-          "value": 54.18,
-          "timestamp": 1794450631,
-          "slug": "nba-lal-mil-2026-11-11-spread-away-8pt5",
-          "event_slug": "nba-lal-mil-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Lakers (-15.5)",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.48,
-          "value": 32.7792,
-          "timestamp": 1794450631,
-          "slug": "nba-lal-mil-2026-11-11-spread-away-15pt5",
-          "event_slug": "nba-lal-mil-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Raptors",
-          "side": "BUY",
-          "outcome": "Raptors",
-          "price": 0.59,
-          "value": 14.16,
-          "timestamp": 1794450631,
-          "slug": "nba-bos-tor-2026-11-11",
-          "event_slug": "nba-bos-tor-2026-11-11",
           "result": "ongoing"
         }
       ]
@@ -3665,7 +3665,7 @@
       "stats48h": {
         "wins": 29,
         "losses": 21,
-        "totalTrades": 85,
+        "totalTrades": 83,
         "winRate": 0.58,
         "volume": 36776.36919967063,
         "pnl": 0
@@ -4829,5 +4829,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T02:38:12.226Z"
+  "lastUpdate": "2026-11-12T02:45:23.340Z"
 }
