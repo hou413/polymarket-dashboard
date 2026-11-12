@@ -897,12 +897,34 @@
       "stats48h": {
         "wins": 1,
         "losses": 0,
-        "totalTrades": 80,
+        "totalTrades": 82,
         "winRate": 1,
-        "volume": 8046.886675871905,
+        "volume": 8284.041375853858,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Howard Lutnick out as Secretary of Commerce by December 31?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.6662619617,
+          "value": 534.715199981952,
+          "timestamp": 1794457498,
+          "slug": "howard-lutnick-out-as-secretary-of-commerce-by-december-31",
+          "event_slug": "howard-lutnick-out-as-secretary-of-commerce-by-december-31",
+          "result": "ongoing"
+        },
+        {
+          "title": "Jensen Huang announced resignation or removal by November 11, 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.1,
+          "value": 5,
+          "timestamp": 1794457441,
+          "slug": "jensen-huang-announced-resignation-or-removal-by-november-11-2026",
+          "event_slug": "jensen-huang-announced-resignation-or-removal-by-december-31",
+          "result": "ongoing"
+        },
         {
           "title": "Jensen Huang announced resignation or removal by November 30, 2026?",
           "side": "BUY",
@@ -1429,28 +1451,6 @@
           "timestamp": 1794328191,
           "slug": "israel-x-iran-ceasefire-continues-through-december-15",
           "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
-        },
-        {
-          "title": "Israel x Iran ceasefire continues through November 22?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.11,
-          "value": 275,
-          "timestamp": 1794328179,
-          "slug": "israel-x-iran-ceasefire-continues-through-november-22",
-          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.55,
-          "value": 27.5605,
-          "timestamp": 1794328090,
-          "slug": "will-wti-dip-to-80-in-november-2026",
-          "event_slug": "what-price-will-wti-hit-in-november-2026",
           "result": "ongoing"
         }
       ]
@@ -2728,10 +2728,98 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 25158.56890047972,
+        "volume": 25845.766000508927,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "USC Trojans vs. California Golden Bears",
+          "side": "BUY",
+          "outcome": "USC Trojans",
+          "price": 0.73,
+          "value": 105.12,
+          "timestamp": 1794457669,
+          "slug": "cbb-usc-cah-2026-11-11",
+          "event_slug": "cbb-usc-cah-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Warriors vs. Rockets",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.86,
+          "value": 82.5514,
+          "timestamp": 1794457657,
+          "slug": "nba-gsw-hou-2026-11-11",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-7.5)",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.53,
+          "value": 191.86,
+          "timestamp": 1794457657,
+          "slug": "nba-gsw-hou-2026-11-11-spread-home-7pt5",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Trail Blazers",
+          "side": "BUY",
+          "outcome": "Trail Blazers",
+          "price": 0.73,
+          "value": 1927.1416,
+          "timestamp": 1794457336,
+          "slug": "nba-okc-por-2026-11-11",
+          "event_slug": "nba-okc-por-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Thunder vs. Trail Blazers: O/U 220.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.5,
+          "value": 306,
+          "timestamp": 1794457335,
+          "slug": "nba-okc-por-2026-11-11-total-220pt5",
+          "event_slug": "nba-okc-por-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "USC Trojans vs. California Golden Bears",
+          "side": "BUY",
+          "outcome": "California Golden Bears",
+          "price": 0.3,
+          "value": 17.099999999999998,
+          "timestamp": 1794457324,
+          "slug": "cbb-usc-cah-2026-11-11",
+          "event_slug": "cbb-usc-cah-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-10.5)",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.509754902,
+          "value": 103.990000008,
+          "timestamp": 1794457311,
+          "slug": "nba-gsw-hou-2026-11-11-spread-home-10pt5",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Warriors vs. Rockets",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.89,
+          "value": 178,
+          "timestamp": 1794457308,
+          "slug": "nba-gsw-hou-2026-11-11",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Magic (-10.5)",
           "side": "BUY",
@@ -2740,7 +2828,7 @@
           "value": 336.8097000346,
           "timestamp": 1794457260,
           "slug": "nba-orl-uta-2026-11-11-spread-away-10pt5",
-          "event_slug": "",
+          "event_slug": "nba-orl-uta-2026-11-11",
           "result": "ongoing"
         },
         {
@@ -2751,7 +2839,7 @@
           "value": 138.76439999865602,
           "timestamp": 1794457260,
           "slug": "nba-orl-uta-2026-11-11-spread-away-8pt5",
-          "event_slug": "",
+          "event_slug": "nba-orl-uta-2026-11-11",
           "result": "ongoing"
         },
         {
@@ -2762,7 +2850,7 @@
           "value": 81.79819999918,
           "timestamp": 1794457260,
           "slug": "nba-orl-uta-2026-11-11-spread-away-7pt5",
-          "event_slug": "",
+          "event_slug": "nba-orl-uta-2026-11-11",
           "result": "ongoing"
         },
         {
@@ -2773,7 +2861,7 @@
           "value": 154.8,
           "timestamp": 1794457260,
           "slug": "nba-orl-uta-2026-11-11-spread-away-3pt5",
-          "event_slug": "",
+          "event_slug": "nba-orl-uta-2026-11-11",
           "result": "ongoing"
         },
         {
@@ -3192,94 +3280,6 @@
           "timestamp": 1794456514,
           "slug": "nba-gsw-hou-2026-11-11",
           "event_slug": "nba-gsw-hou-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "USC Trojans vs. California Golden Bears",
-          "side": "BUY",
-          "outcome": "USC Trojans",
-          "price": 0.5901274689,
-          "value": 925.915899978789,
-          "timestamp": 1794456507,
-          "slug": "cbb-usc-cah-2026-11-11",
-          "event_slug": "cbb-usc-cah-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Rockets (-7.5)",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.48,
-          "value": 11.52,
-          "timestamp": 1794456502,
-          "slug": "nba-gsw-hou-2026-11-11-spread-home-7pt5",
-          "event_slug": "nba-gsw-hou-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Warriors vs. Rockets",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.18,
-          "value": 1020.9599999999999,
-          "timestamp": 1794456462,
-          "slug": "nba-gsw-hou-2026-11-11",
-          "event_slug": "nba-gsw-hou-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "USC Trojans vs. California Golden Bears",
-          "side": "BUY",
-          "outcome": "California Golden Bears",
-          "price": 0.4,
-          "value": 105.2,
-          "timestamp": 1794456391,
-          "slug": "cbb-usc-cah-2026-11-11",
-          "event_slug": "cbb-usc-cah-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.23,
-          "value": 42.09,
-          "timestamp": 1794456382,
-          "slug": "nba-okc-por-2026-11-11",
-          "event_slug": "nba-okc-por-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Warriors vs. Rockets: O/U 224.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.44,
-          "value": 62.48,
-          "timestamp": 1794456358,
-          "slug": "nba-gsw-hou-2026-11-11-total-224pt5",
-          "event_slug": "nba-gsw-hou-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "USC Trojans vs. California Golden Bears",
-          "side": "BUY",
-          "outcome": "California Golden Bears",
-          "price": 0.33,
-          "value": 13.200000000000001,
-          "timestamp": 1794456354,
-          "slug": "cbb-usc-cah-2026-11-11",
-          "event_slug": "cbb-usc-cah-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.72,
-          "value": 43.199999999999996,
-          "timestamp": 1794456352,
-          "slug": "nba-okc-por-2026-11-11",
-          "event_slug": "nba-okc-por-2026-11-11",
           "result": "ongoing"
         }
       ]
@@ -3763,13 +3763,24 @@
       "specialty": "Soccer+NHL",
       "stats48h": {
         "wins": 27,
-        "losses": 21,
+        "losses": 20,
         "totalTrades": 68,
-        "winRate": 0.5625,
-        "volume": 37886.25459959113,
+        "winRate": 0.574468085106383,
+        "volume": 37425.494599591126,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Flyers vs. Oilers",
+          "side": "BUY",
+          "outcome": "Flyers",
+          "price": 0.37,
+          "value": 37,
+          "timestamp": 1794457458,
+          "slug": "nhl-phi-edm-2026-11-11",
+          "event_slug": "nhl-phi-edm-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Predators vs. Ducks",
           "side": "BUY",
@@ -4308,17 +4319,6 @@
           "slug": "nfl-buf-min-2026-11-10",
           "event_slug": "nfl-buf-min-2026-11-10",
           "result": "win"
-        },
-        {
-          "title": "Bills vs. Vikings",
-          "side": "BUY",
-          "outcome": "Vikings",
-          "price": 0.3,
-          "value": 497.76,
-          "timestamp": 1794280203,
-          "slug": "nfl-buf-min-2026-11-10",
-          "event_slug": "nfl-buf-min-2026-11-10",
-          "result": "loss"
         }
       ]
     },
@@ -4928,5 +4928,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T04:21:37.334Z"
+  "lastUpdate": "2026-11-12T04:28:37.980Z"
 }
