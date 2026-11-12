@@ -897,12 +897,23 @@
       "stats48h": {
         "wins": 1,
         "losses": 0,
-        "totalTrades": 78,
+        "totalTrades": 79,
         "winRate": 1,
-        "volume": 8503.181155871904,
+        "volume": 8069.212855871904,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jensen Huang announced resignation or removal by November 13, 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.68,
+          "value": 271.9932,
+          "timestamp": 1794456486,
+          "slug": "jensen-huang-announced-resignation-or-removal-by-november-13-2026",
+          "event_slug": "jensen-huang-announced-resignation-or-removal-by-december-31",
+          "result": "ongoing"
+        },
         {
           "title": "Jensen Huang announced resignation or removal by November 11, 2026?",
           "side": "BUY",
@@ -1440,17 +1451,6 @@
           "timestamp": 1794326812,
           "slug": "us-announces-end-of-iranian-blockade-by-november-15-2026",
           "event_slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
-          "result": "ongoing"
-        },
-        {
-          "title": "Israel x Iran ceasefire continues through November 30?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.15,
-          "value": 705.9615,
-          "timestamp": 1794323442,
-          "slug": "israel-x-iran-ceasefire-continues-through-november-30",
-          "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
           "result": "ongoing"
         }
       ]
@@ -2728,10 +2728,186 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9859.881299964563,
+        "volume": 22839.144300424265,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Magic vs. Jazz",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.7077339744,
+          "value": 1330.6247999489278,
+          "timestamp": 1794456822,
+          "slug": "nba-orl-uta-2026-11-11",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Magic (-3.5)",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.5566666667,
+          "value": 8.3500000005,
+          "timestamp": 1794456820,
+          "slug": "nba-orl-uta-2026-11-11-spread-away-3pt5",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Jazz",
+          "side": "BUY",
+          "outcome": "Magic",
+          "price": 0.5556911853,
+          "value": 260.485800021228,
+          "timestamp": 1794456777,
+          "slug": "nba-orl-uta-2026-11-11",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Jazz",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.4525375808,
+          "value": 290.50649999456004,
+          "timestamp": 1794456763,
+          "slug": "nba-orl-uta-2026-11-11",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Jazz",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.3930406501,
+          "value": 7787.3144004313,
+          "timestamp": 1794456658,
+          "slug": "nba-orl-uta-2026-11-11",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Magic (-3.5)",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.57,
+          "value": 5.699999999999999,
+          "timestamp": 1794456657,
+          "slug": "nba-orl-uta-2026-11-11-spread-away-3pt5",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Magic vs. Jazz: O/U 227.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.44,
+          "value": 91.96,
+          "timestamp": 1794456657,
+          "slug": "nba-orl-uta-2026-11-11-total-227pt5",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-10.5)",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.45,
+          "value": 209.4975,
+          "timestamp": 1794456636,
+          "slug": "nba-gsw-hou-2026-11-11-spread-home-10pt5",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-7.5)",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.58,
+          "value": 237.79999999999998,
+          "timestamp": 1794456636,
+          "slug": "nba-gsw-hou-2026-11-11-spread-home-7pt5",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Warriors vs. Rockets",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.83,
+          "value": 2089.94,
+          "timestamp": 1794456636,
+          "slug": "nba-gsw-hou-2026-11-11",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-13.5)",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.34,
+          "value": 340,
+          "timestamp": 1794456636,
+          "slug": "nba-gsw-hou-2026-11-11-spread-home-13pt5",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Warriors vs. Rockets",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.1957009858,
+          "value": 1032.322700095,
+          "timestamp": 1794456522,
+          "slug": "nba-gsw-hou-2026-11-11",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Warriors vs. Rockets",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.8065479913,
+          "value": 234.697399988387,
+          "timestamp": 1794456514,
+          "slug": "nba-gsw-hou-2026-11-11",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "USC Trojans vs. California Golden Bears",
+          "side": "BUY",
+          "outcome": "USC Trojans",
+          "price": 0.5901274689,
+          "value": 925.915899978789,
+          "timestamp": 1794456507,
+          "slug": "cbb-usc-cah-2026-11-11",
+          "event_slug": "cbb-usc-cah-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Rockets (-7.5)",
+          "side": "BUY",
+          "outcome": "Rockets",
+          "price": 0.48,
+          "value": 11.52,
+          "timestamp": 1794456502,
+          "slug": "nba-gsw-hou-2026-11-11-spread-home-7pt5",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Warriors vs. Rockets",
+          "side": "BUY",
+          "outcome": "Warriors",
+          "price": 0.18,
+          "value": 1020.9599999999999,
+          "timestamp": 1794456462,
+          "slug": "nba-gsw-hou-2026-11-11",
+          "event_slug": "nba-gsw-hou-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "USC Trojans vs. California Golden Bears",
           "side": "BUY",
@@ -3105,182 +3281,6 @@
           "slug": "nba-orl-uta-2026-11-11",
           "event_slug": "nba-orl-uta-2026-11-11",
           "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jazz (-1.5)",
-          "side": "BUY",
-          "outcome": "Magic",
-          "price": 0.5792400155,
-          "value": 59.75439999898,
-          "timestamp": 1794456073,
-          "slug": "nba-orl-uta-2026-11-11-spread-home-1pt5",
-          "event_slug": "nba-orl-uta-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jazz (-3.5)",
-          "side": "BUY",
-          "outcome": "Magic",
-          "price": 0.7,
-          "value": 21,
-          "timestamp": 1794456073,
-          "slug": "nba-orl-uta-2026-11-11-spread-home-3pt5",
-          "event_slug": "nba-orl-uta-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Magic (-1.5)",
-          "side": "BUY",
-          "outcome": "Magic",
-          "price": 0.51,
-          "value": 188.70000000000002,
-          "timestamp": 1794456072,
-          "slug": "nba-orl-uta-2026-11-11-spread-away-1pt5",
-          "event_slug": "nba-orl-uta-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.54,
-          "value": 37.800000000000004,
-          "timestamp": 1794456054,
-          "slug": "nba-okc-por-2026-11-11",
-          "event_slug": "nba-okc-por-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Warriors vs. Rockets: O/U 216.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.52,
-          "value": 242.5956,
-          "timestamp": 1794456024,
-          "slug": "nba-gsw-hou-2026-11-11-total-216pt5",
-          "event_slug": "nba-gsw-hou-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.51,
-          "value": 41.82,
-          "timestamp": 1794456019,
-          "slug": "nba-okc-por-2026-11-11",
-          "event_slug": "nba-okc-por-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Warriors vs. Rockets",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.86,
-          "value": 1051.78,
-          "timestamp": 1794456006,
-          "slug": "nba-gsw-hou-2026-11-11",
-          "event_slug": "nba-gsw-hou-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Warriors vs. Rockets",
-          "side": "BUY",
-          "outcome": "Warriors",
-          "price": 0.14,
-          "value": 9.100000000000001,
-          "timestamp": 1794456000,
-          "slug": "nba-gsw-hou-2026-11-11",
-          "event_slug": "nba-gsw-hou-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Warriors vs. Rockets: O/U 216.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.5,
-          "value": 2.5,
-          "timestamp": 1794455998,
-          "slug": "nba-gsw-hou-2026-11-11-total-216pt5",
-          "event_slug": "nba-gsw-hou-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Warriors vs. Rockets: O/U 218.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.45,
-          "value": 8.1,
-          "timestamp": 1794455977,
-          "slug": "nba-gsw-hou-2026-11-11-total-218pt5",
-          "event_slug": "nba-gsw-hou-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Warriors vs. Rockets",
-          "side": "BUY",
-          "outcome": "Rockets",
-          "price": 0.84,
-          "value": 1055.04,
-          "timestamp": 1794455974,
-          "slug": "nba-gsw-hou-2026-11-11",
-          "event_slug": "nba-gsw-hou-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.5,
-          "value": 41.5,
-          "timestamp": 1794455968,
-          "slug": "nba-okc-por-2026-11-11",
-          "event_slug": "nba-okc-por-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.46,
-          "value": 91.402,
-          "timestamp": 1794455778,
-          "slug": "nba-okc-por-2026-11-11",
-          "event_slug": "nba-okc-por-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Jazz",
-          "side": "BUY",
-          "outcome": "Jazz",
-          "price": 0.48,
-          "value": 32.64,
-          "timestamp": 1794455760,
-          "slug": "nba-orl-uta-2026-11-11",
-          "event_slug": "nba-orl-uta-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Magic vs. Jazz",
-          "side": "BUY",
-          "outcome": "Magic",
-          "price": 0.62,
-          "value": 6.2,
-          "timestamp": 1794455698,
-          "slug": "nba-orl-uta-2026-11-11",
-          "event_slug": "nba-orl-uta-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Jazz (-5.5)",
-          "side": "BUY",
-          "outcome": "Magic",
-          "price": 0.84,
-          "value": 8.4,
-          "timestamp": 1794455541,
-          "slug": "nba-orl-uta-2026-11-11-spread-home-5pt5",
-          "event_slug": "nba-orl-uta-2026-11-11",
-          "result": "ongoing"
         }
       ]
     },
@@ -3289,10 +3289,10 @@
       "label": "RNGUzi",
       "specialty": "Soccer+NFL",
       "stats48h": {
-        "wins": 2,
+        "wins": 5,
         "losses": 2,
         "totalTrades": 7,
-        "winRate": 0.5,
+        "winRate": 0.7142857142857143,
         "volume": 6155.19721001685,
         "pnl": 0
       },
@@ -3306,7 +3306,7 @@
           "timestamp": 1794455821,
           "slug": "cs2-lgc-fal2-2026-11-11-game2",
           "event_slug": "cs2-lgc-fal2-2026-11-11",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Counter-Strike: Legacy vs Team Falcons - Map 2 Winner",
@@ -3317,7 +3317,7 @@
           "timestamp": 1794453616,
           "slug": "cs2-lgc-fal2-2026-11-11-game2",
           "event_slug": "cs2-lgc-fal2-2026-11-11",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Counter-Strike: Legacy vs Team Falcons - Map 2 Winner",
@@ -3328,7 +3328,7 @@
           "timestamp": 1794453597,
           "slug": "cs2-lgc-fal2-2026-11-11-game2",
           "event_slug": "cs2-lgc-fal2-2026-11-11",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
@@ -4928,5 +4928,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T04:07:33.499Z"
+  "lastUpdate": "2026-11-12T04:14:31.478Z"
 }
