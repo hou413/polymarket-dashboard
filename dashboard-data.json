@@ -33,14 +33,58 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 5,
-        "losses": 3,
+        "wins": 3,
+        "losses": 1,
         "totalTrades": 500,
-        "winRate": 0.625,
-        "volume": 7253.129800097048,
+        "winRate": 0.75,
+        "volume": 9332.314000097049,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Nuggets vs. Grizzlies",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.81,
+          "value": 1762.8192000000001,
+          "timestamp": 1794447922,
+          "slug": "nba-den-mem-2026-11-11",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Pacers (-7.5)",
+          "side": "BUY",
+          "outcome": "Pacers",
+          "price": 0.4,
+          "value": 2,
+          "timestamp": 1794447762,
+          "slug": "nba-was-ind-2026-11-11-spread-home-7pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-3.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.47,
+          "value": 23.735,
+          "timestamp": 1794447702,
+          "slug": "nba-sas-chi-2026-11-11-spread-away-3pt5",
+          "event_slug": "nba-sas-chi-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Spurs (-3.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.47,
+          "value": 446.265,
+          "timestamp": 1794447702,
+          "slug": "nba-sas-chi-2026-11-11-spread-away-3pt5",
+          "event_slug": "nba-sas-chi-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Nuggets (-20.5)",
           "side": "BUY",
@@ -546,50 +590,6 @@
           "slug": "nba-okc-por-2026-11-10-total-226pt5",
           "event_slug": "nba-okc-por-2026-11-10",
           "result": "win"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 227.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.68,
-          "value": 67.32000000000001,
-          "timestamp": 1794377758,
-          "slug": "nba-okc-por-2026-11-10-total-227pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 237.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.35,
-          "value": 1.75,
-          "timestamp": 1794377214,
-          "slug": "nba-okc-por-2026-11-10-total-237pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Trail Blazers (-14.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.489,
-          "value": 2.445,
-          "timestamp": 1794376843,
-          "slug": "nba-okc-por-2026-11-10-spread-home-14pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Trail Blazers (-14.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.24,
-          "value": 84.11999999999999,
-          "timestamp": 1794376443,
-          "slug": "nba-okc-por-2026-11-10-spread-home-14pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
         }
       ]
     },
@@ -886,12 +886,23 @@
       "stats48h": {
         "wins": 1,
         "losses": 4,
-        "totalTrades": 68,
+        "totalTrades": 69,
         "winRate": 0.2,
-        "volume": 8010.351475967327,
+        "volume": 8000.261475967327,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jensen Huang announced resignation or removal by November 11, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.64,
+          "value": 44.160000000000004,
+          "timestamp": 1794448024,
+          "slug": "jensen-huang-announced-resignation-or-removal-by-november-11-2026",
+          "event_slug": "jensen-huang-announced-resignation-or-removal-by-december-31",
+          "result": "ongoing"
+        },
         {
           "title": "Next US-Iran senior diplomatic meeting by November 30, 2026?",
           "side": "SELL",
@@ -1429,17 +1440,6 @@
           "timestamp": 1794254203,
           "slug": "will-wti-reach-120-in-november-2026",
           "event_slug": "what-price-will-wti-hit-in-november-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (LOW) $80 Week of November 9 2026?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.31,
-          "value": 54.25,
-          "timestamp": 1794253686,
-          "slug": "will-wti-dip-to-80-by-november-9-2026",
-          "event_slug": "will-wti-hit-week-of-november-9-2026",
           "result": "ongoing"
         }
       ]
@@ -2648,13 +2648,68 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 5,
-        "losses": 2,
+        "losses": 1,
         "totalTrades": 500,
-        "winRate": 0.7142857142857143,
-        "volume": 4172.94657996025,
+        "winRate": 0.8333333333333334,
+        "volume": 5161.960059939107,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
+          "side": "BUY",
+          "outcome": "Michigan Wolverines",
+          "price": 0.9397171905,
+          "value": 1070.3378799795,
+          "timestamp": 1794448011,
+          "slug": "cbb-marq-mich-2026-11-11",
+          "event_slug": "cbb-marq-mich-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "UNC Asheville Bulldogs",
+          "price": 0.6718099918,
+          "value": 16.405599999756003,
+          "timestamp": 1794447850,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.35,
+          "value": 3.5,
+          "timestamp": 1794447843,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.33,
+          "value": 3.3000000000000003,
+          "timestamp": 1794447826,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
+          "side": "BUY",
+          "outcome": "Marquette Golden Eagles",
+          "price": 0.02,
+          "value": 0.1,
+          "timestamp": 1794447763,
+          "slug": "cbb-marq-mich-2026-11-11",
+          "event_slug": "cbb-marq-mich-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
           "side": "BUY",
@@ -3149,61 +3204,6 @@
           "slug": "cbb-char-templ-2026-11-11",
           "event_slug": "cbb-char-templ-2026-11-11",
           "result": "ongoing"
-        },
-        {
-          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
-          "side": "BUY",
-          "outcome": "UNC Asheville Bulldogs",
-          "price": 0.65,
-          "value": 41.6,
-          "timestamp": 1794444810,
-          "slug": "cbb-ncashe-uwg-2026-11-11",
-          "event_slug": "cbb-ncashe-uwg-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charleston Cougars vs. Temple Owls",
-          "side": "BUY",
-          "outcome": "Temple Owls",
-          "price": 0.22,
-          "value": 1.76,
-          "timestamp": 1794444600,
-          "slug": "cbb-char-templ-2026-11-11",
-          "event_slug": "cbb-char-templ-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charleston Cougars vs. Temple Owls",
-          "side": "BUY",
-          "outcome": "Temple Owls",
-          "price": 0.1416666667,
-          "value": 1.7000000004,
-          "timestamp": 1794444577,
-          "slug": "cbb-char-templ-2026-11-11",
-          "event_slug": "cbb-char-templ-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
-          "side": "BUY",
-          "outcome": "UNC Asheville Bulldogs",
-          "price": 0.49,
-          "value": 40.67,
-          "timestamp": 1794444564,
-          "slug": "cbb-ncashe-uwg-2026-11-11",
-          "event_slug": "cbb-ncashe-uwg-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Wizards (-10.5)",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.15,
-          "value": 18.9,
-          "timestamp": 1794444559,
-          "slug": "nba-was-ind-2026-11-11-1h-spread-away-10pt5",
-          "event_slug": "nba-was-ind-2026-11-11",
-          "result": "loss"
         }
       ]
     },
@@ -3632,7 +3632,7 @@
       "stats48h": {
         "wins": 29,
         "losses": 21,
-        "totalTrades": 92,
+        "totalTrades": 91,
         "winRate": 0.58,
         "volume": 36776.36919967063,
         "pnl": 0
@@ -4796,5 +4796,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T01:42:03.958Z"
+  "lastUpdate": "2026-11-12T01:48:54.374Z"
 }
