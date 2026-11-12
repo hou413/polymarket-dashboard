@@ -634,12 +634,23 @@
       "stats48h": {
         "wins": 8,
         "losses": 14,
-        "totalTrades": 24,
+        "totalTrades": 25,
         "winRate": 0.36363636363636365,
-        "volume": 61988.260999923354,
+        "volume": 62009.48289992336,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Sabres vs. Blackhawks: O/U 6.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.49,
+          "value": 21.2219,
+          "timestamp": 1794480589,
+          "slug": "nhl-buf-chi-2026-11-12-total-6pt5",
+          "event_slug": "nhl-buf-chi-2026-11-12",
+          "result": "ongoing"
+        },
         {
           "title": "Lightning vs. Blue Jackets",
           "side": "BUY",
@@ -1516,10 +1527,10 @@
       "label": "Thunderous-Snarl",
       "specialty": "综合",
       "stats48h": {
-        "wins": 19,
-        "losses": 9,
+        "wins": 21,
+        "losses": 17,
         "totalTrades": 38,
-        "winRate": 0.6785714285714286,
+        "winRate": 0.5526315789473685,
         "volume": 683000.847409028,
         "pnl": 0
       },
@@ -1533,7 +1544,7 @@
           "timestamp": 1794472318,
           "slug": "cs2-fut-mouz-2026-11-12",
           "event_slug": "cs2-fut-mouz-2026-11-12",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B",
@@ -1544,7 +1555,7 @@
           "timestamp": 1794472297,
           "slug": "cs2-fut-mouz-2026-11-12",
           "event_slug": "cs2-fut-mouz-2026-11-12",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B",
@@ -1555,7 +1566,7 @@
           "timestamp": 1794472203,
           "slug": "cs2-fut-mouz-2026-11-12",
           "event_slug": "cs2-fut-mouz-2026-11-12",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B",
@@ -1566,7 +1577,7 @@
           "timestamp": 1794466723,
           "slug": "cs2-fut-mouz-2026-11-12",
           "event_slug": "cs2-fut-mouz-2026-11-12",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B",
@@ -1577,7 +1588,7 @@
           "timestamp": 1794466719,
           "slug": "cs2-fut-mouz-2026-11-12",
           "event_slug": "cs2-fut-mouz-2026-11-12",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5)",
@@ -1588,7 +1599,7 @@
           "timestamp": 1794466711,
           "slug": "cs2-fut-mouz-2026-11-12-map-handicap-home-1pt5",
           "event_slug": "cs2-fut-mouz-2026-11-12",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B",
@@ -1599,7 +1610,7 @@
           "timestamp": 1794466699,
           "slug": "cs2-fut-mouz-2026-11-12",
           "event_slug": "cs2-fut-mouz-2026-11-12",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5)",
@@ -1610,7 +1621,7 @@
           "timestamp": 1794466632,
           "slug": "cs2-fut-mouz-2026-11-12-map-handicap-home-1pt5",
           "event_slug": "cs2-fut-mouz-2026-11-12",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B",
@@ -1621,7 +1632,7 @@
           "timestamp": 1794466552,
           "slug": "cs2-fut-mouz-2026-11-12",
           "event_slug": "cs2-fut-mouz-2026-11-12",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B",
@@ -1632,7 +1643,7 @@
           "timestamp": 1794466414,
           "slug": "cs2-fut-mouz-2026-11-12",
           "event_slug": "cs2-fut-mouz-2026-11-12",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A",
@@ -1951,12 +1962,67 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 6,
+        "totalTrades": 11,
         "winRate": 0,
-        "volume": 1439.857760013404,
+        "volume": 3928.1602400134043,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.15,
+          "value": 178.875,
+          "timestamp": 1794480930,
+          "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+          "event_slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will the Fed decrease interest rates by 25 bps after the January 2027 meeting?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.005,
+          "value": 126.82010000000001,
+          "timestamp": 1794480754,
+          "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815504",
+          "event_slug": "fed-decision-in-january-20260729233815502",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.006,
+          "value": 1.5,
+          "timestamp": 1794480528,
+          "slug": "will-chris-van-hollen-win-the-2028-democratic-presidential-nomination",
+          "event_slug": "democratic-presidential-nominee-2028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.054,
+          "value": 326.23506000000003,
+          "timestamp": 1794480445,
+          "slug": "will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687",
+          "event_slug": "democratic-presidential-nominee-2028",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.896,
+          "value": 1854.8723200000002,
+          "timestamp": 1794480234,
+          "slug": "will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election",
+          "event_slug": "presidential-election-winner-2028",
+          "result": "ongoing"
+        },
         {
           "title": "Will Teddy Riner win the 2027 French presidential election?",
           "side": "BUY",
@@ -2397,10 +2463,43 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 14035.32389000454,
+        "volume": 14254.112790004541,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Anton Rop win the 2026 Ljubljana mayoral election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.999,
+          "value": 109.89,
+          "timestamp": 1794481855,
+          "slug": "will-anton-rop-win-the-2026-ljubljana-mayoral-election",
+          "event_slug": "ljubljana-mayoral-election-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Aleksandar Repić win the 2026 Ljubljana mayoral election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.99,
+          "value": 108.9,
+          "timestamp": 1794481855,
+          "slug": "will-aleksandar-repic-win-the-2026-ljubljana-mayoral-election",
+          "event_slug": "ljubljana-mayoral-election-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will New Zealand First Party win the third-most seats in the New Zealand House o",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.02834,
+          "timestamp": 1794480411,
+          "slug": "will-new-zealand-first-party-win-the-third-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+          "event_slug": "new-zealand-election-3rd-place",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elisabeth Thand Ringqvist be the next Prime Minister of Sweden?",
           "side": "SELL",
@@ -2915,39 +3014,6 @@
           "value": 0.011,
           "timestamp": 1794451770,
           "slug": "will-pete-hegseth-be-the-leader-of-venezuela-end-of-2026",
-          "event_slug": "venezuela-leader-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Marco Rubio be the leader of Venezuela end of 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.011,
-          "timestamp": 1794451770,
-          "slug": "will-marco-rubio-be-the-leader-of-venezuela-end-of-2026",
-          "event_slug": "venezuela-leader-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will María Corina Machado be the leader of Venezuela end of 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.00744,
-          "timestamp": 1794451768,
-          "slug": "will-mara-corina-machado-be-the-leader-of-venezuela-end-of-2026",
-          "event_slug": "venezuela-leader-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Edmundo González be the leader of Venezuela end of 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.011,
-          "timestamp": 1794451768,
-          "slug": "will-edmundo-gonzlez-be-the-leader-of-venezuela-end-of-2026",
           "event_slug": "venezuela-leader-end-of-2026",
           "result": "ongoing"
         }
@@ -5259,5 +5325,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T10:47:21.905Z"
+  "lastUpdate": "2026-11-12T11:13:35.672Z"
 }
