@@ -37,10 +37,87 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9765.961700053047,
+        "volume": 9928.33290005305,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Cavaliers vs. Knicks: O/U 217.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.53,
+          "value": 124.02000000000001,
+          "timestamp": 1794449262,
+          "slug": "nba-cle-nyk-2026-11-11-total-217pt5",
+          "event_slug": "",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nets (-2.5)",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.7,
+          "value": 140,
+          "timestamp": 1794449257,
+          "slug": "nba-bkn-nop-2026-11-11-spread-away-2pt5",
+          "event_slug": "nba-bkn-nop-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-16.5)",
+          "side": "BUY",
+          "outcome": "Lakers",
+          "price": 0.49,
+          "value": 118.09,
+          "timestamp": 1794449088,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-16pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-18.5)",
+          "side": "BUY",
+          "outcome": "Grizzlies",
+          "price": 0.74,
+          "value": 25.9,
+          "timestamp": 1794449008,
+          "slug": "nba-den-mem-2026-11-11-spread-away-18pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-14.5)",
+          "side": "BUY",
+          "outcome": "Grizzlies",
+          "price": 0.6,
+          "value": 138.6,
+          "timestamp": 1794449008,
+          "slug": "nba-den-mem-2026-11-11-spread-away-14pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Grizzlies: O/U 236.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.48,
+          "value": 96,
+          "timestamp": 1794448936,
+          "slug": "nba-den-mem-2026-11-11-total-236pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Grizzlies: O/U 240.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.36,
+          "value": 72,
+          "timestamp": 1794448936,
+          "slug": "nba-den-mem-2026-11-11-total-240pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Nets (-2.5)",
           "side": "BUY",
@@ -513,83 +590,6 @@
           "slug": "nba-bkn-nop-2026-11-11-spread-home-7pt5",
           "event_slug": "nba-bkn-nop-2026-11-11",
           "result": "ongoing"
-        },
-        {
-          "title": "Spread: Cavaliers (-4.5)",
-          "side": "BUY",
-          "outcome": "Knicks",
-          "price": 0.64,
-          "value": 160,
-          "timestamp": 1794445978,
-          "slug": "nba-cle-nyk-2026-11-11-spread-away-4pt5",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Lakers vs. Bucks",
-          "side": "BUY",
-          "outcome": "Bucks",
-          "price": 0.11,
-          "value": 143.1188,
-          "timestamp": 1794445939,
-          "slug": "nba-lal-mil-2026-11-11",
-          "event_slug": "nba-lal-mil-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-7.5)",
-          "side": "BUY",
-          "outcome": "Knicks",
-          "price": 0.23,
-          "value": 8.97,
-          "timestamp": 1794445936,
-          "slug": "nba-cle-nyk-2026-11-11-spread-home-7pt5",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cavaliers vs. Knicks: O/U 223.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.55,
-          "value": 110.00000000000001,
-          "timestamp": 1794445914,
-          "slug": "nba-cle-nyk-2026-11-11-total-223pt5",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Raptors (-9.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.65,
-          "value": 3.25,
-          "timestamp": 1794445914,
-          "slug": "nba-bos-tor-2026-11-11-spread-home-9pt5",
-          "event_slug": "nba-bos-tor-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-6.5)",
-          "side": "BUY",
-          "outcome": "Knicks",
-          "price": 0.28,
-          "value": 1.4000000000000001,
-          "timestamp": 1794445912,
-          "slug": "nba-cle-nyk-2026-11-11-spread-home-6pt5",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Raptors (-9.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.5,
-          "value": 125.5,
-          "timestamp": 1794445057,
-          "slug": "nba-bos-tor-2026-11-11-spread-home-9pt5",
-          "event_slug": "nba-bos-tor-2026-11-11",
-          "result": "ongoing"
         }
       ]
     },
@@ -885,13 +885,24 @@
       "specialty": "Politics",
       "stats48h": {
         "wins": 1,
-        "losses": 4,
-        "totalTrades": 70,
-        "winRate": 0.2,
-        "volume": 8027.561475967327,
+        "losses": 3,
+        "totalTrades": 71,
+        "winRate": 0.25,
+        "volume": 8011.261475967327,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jensen Huang announced resignation or removal by November 30, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.19,
+          "value": 5.7,
+          "timestamp": 1794448969,
+          "slug": "jensen-huang-announced-resignation-or-removal-by-november-30-2026",
+          "event_slug": "jensen-huang-announced-resignation-or-removal-by-december-31",
+          "result": "ongoing"
+        },
         {
           "title": "Jensen Huang announced resignation or removal by November 12, 2026?",
           "side": "BUY",
@@ -1430,17 +1441,6 @@
           "slug": "will-the-us-invade-iran-before-2027",
           "event_slug": "will-the-us-invade-iran-before-2027",
           "result": "ongoing"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.11,
-          "value": 22,
-          "timestamp": 1794254637,
-          "slug": "will-wti-dip-to-85-in-november-2026",
-          "event_slug": "what-price-will-wti-hit-in-november-2026",
-          "result": "loss"
         }
       ]
     },
@@ -2121,10 +2121,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3506.3924299883574,
+        "volume": 3504.3969299883574,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 220-239 tweets from November 6 to November 13, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.35,
+          "value": 21.374499999999998,
+          "timestamp": 1794449004,
+          "slug": "elon-musk-of-tweets-november-6-november-13-2026-220-239",
+          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 320-339 tweets from November 6 to November 13, 2026?",
           "side": "SELL",
@@ -2663,17 +2674,6 @@
           "slug": "will-patricia-bullrich-win-the-2027-argentina-presidential-election",
           "event_slug": "argentina-presidential-election-winner",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Javier Milei win the 2027 Argentina presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.57,
-          "value": 23.369999999999997,
-          "timestamp": 1794432156,
-          "slug": "will-javier-milei-win-the-2027-argentina-presidential-election",
-          "event_slug": "argentina-presidential-election-winner",
-          "result": "ongoing"
         }
       ]
     },
@@ -2724,14 +2724,25 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 4,
+        "wins": 3,
         "losses": 0,
         "totalTrades": 500,
         "winRate": 1,
-        "volume": 4772.140159939207,
+        "volume": 4410.242559939206,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.05,
+          "value": 0.5,
+          "timestamp": 1794448978,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "1H Spread: Nuggets (-9.5)",
           "side": "BUY",
@@ -3270,17 +3281,6 @@
           "slug": "cbb-char-templ-2026-11-11",
           "event_slug": "cbb-char-templ-2026-11-11",
           "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Cavaliers (-1.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.36,
-          "value": 362.39759999999995,
-          "timestamp": 1794445251,
-          "slug": "nba-cle-nyk-2026-11-11-1h-spread-away-1pt5",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "win"
         }
       ]
     },
@@ -4873,5 +4873,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T02:02:39.089Z"
+  "lastUpdate": "2026-11-12T02:09:35.010Z"
 }
