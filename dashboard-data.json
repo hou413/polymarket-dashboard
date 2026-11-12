@@ -37,10 +37,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 9928.33290005305,
+        "volume": 9843.08290005305,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Nets (-2.5)",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.71,
+          "value": 3.55,
+          "timestamp": 1794449266,
+          "slug": "nba-bkn-nop-2026-11-11-spread-away-2pt5",
+          "event_slug": "nba-bkn-nop-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Cavaliers vs. Knicks: O/U 217.5",
           "side": "BUY",
@@ -49,7 +60,7 @@
           "value": 124.02000000000001,
           "timestamp": 1794449262,
           "slug": "nba-cle-nyk-2026-11-11-total-217pt5",
-          "event_slug": "",
+          "event_slug": "nba-cle-nyk-2026-11-11",
           "result": "ongoing"
         },
         {
@@ -578,17 +589,6 @@
           "timestamp": 1794446220,
           "slug": "nba-sas-chi-2026-11-11-spread-away-21pt5",
           "event_slug": "nba-sas-chi-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Pelicans (-7.5)",
-          "side": "BUY",
-          "outcome": "Pelicans",
-          "price": 0.37,
-          "value": 88.8,
-          "timestamp": 1794445992,
-          "slug": "nba-bkn-nop-2026-11-11-spread-home-7pt5",
-          "event_slug": "nba-bkn-nop-2026-11-11",
           "result": "ongoing"
         }
       ]
@@ -2121,10 +2121,65 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 3504.3969299883574,
+        "volume": 3519.811059988358,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Luka Mesec win the 2026 Ljubljana mayoral election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.61,
+          "value": 23.18,
+          "timestamp": 1794449556,
+          "slug": "will-luka-mesec-win-the-2026-ljubljana-mayoral-election",
+          "event_slug": "ljubljana-mayoral-election-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Zoran Janković win the 2026 Ljubljana mayoral election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.43,
+          "value": 16.34,
+          "timestamp": 1794449556,
+          "slug": "will-zoran-jankovic-win-the-2026-ljubljana-mayoral-election",
+          "event_slug": "ljubljana-mayoral-election-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Anton Rop win the 2026 Ljubljana mayoral election?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 37.924,
+          "timestamp": 1794449556,
+          "slug": "will-anton-rop-win-the-2026-ljubljana-mayoral-election",
+          "event_slug": "ljubljana-mayoral-election-winner-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 200-219 tweets from November 6 to November 13, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.157,
+          "value": 4.55614,
+          "timestamp": 1794449050,
+          "slug": "elon-musk-of-tweets-november-6-november-13-2026-200-219",
+          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 340-359 tweets from November 6 to November 13, 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.002,
+          "value": 0.736,
+          "timestamp": 1794449032,
+          "slug": "elon-musk-of-tweets-november-6-november-13-2026-340-359",
+          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Elon Musk post 220-239 tweets from November 6 to November 13, 2026?",
           "side": "SELL",
@@ -2619,61 +2674,6 @@
           "slug": "will-juan-grabois-win-the-2027-argentina-presidential-election",
           "event_slug": "argentina-presidential-election-winner",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Nicolás del Caño win the 2027 Argentina presidential election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.04101,
-          "timestamp": 1794432351,
-          "slug": "will-nicolas-del-cano-win-the-2027-argentina-presidential-election",
-          "event_slug": "argentina-presidential-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Victoria Villarruel win the 2027 Argentina presidential election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.041,
-          "timestamp": 1794432351,
-          "slug": "will-victoria-villarruel-win-the-2027-argentina-presidential-election",
-          "event_slug": "argentina-presidential-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Facundo Manes win the 2027 Argentina presidential election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.041,
-          "timestamp": 1794432351,
-          "slug": "will-facundo-manes-win-the-2027-argentina-presidential-election",
-          "event_slug": "argentina-presidential-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Axel Kicillof win the 2027 Argentina presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.67,
-          "value": 27.470000000000002,
-          "timestamp": 1794432156,
-          "slug": "will-axel-kicillof-win-the-2027-argentina-presidential-election",
-          "event_slug": "argentina-presidential-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Patricia Bullrich win the 2027 Argentina presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.969,
-          "value": 39.729,
-          "timestamp": 1794432156,
-          "slug": "will-patricia-bullrich-win-the-2027-argentina-presidential-election",
-          "event_slug": "argentina-presidential-election-winner",
-          "result": "ongoing"
         }
       ]
     },
@@ -2724,14 +2724,58 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 3,
+        "wins": 2,
         "losses": 0,
         "totalTrades": 500,
         "winRate": 1,
-        "volume": 4410.242559939206,
+        "volume": 3985.8511599747067,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Celtics vs. Raptors",
+          "side": "BUY",
+          "outcome": "Raptors",
+          "price": 0.6858823529,
+          "value": 58.2999999965,
+          "timestamp": 1794449619,
+          "slug": "nba-bos-tor-2026-11-11",
+          "event_slug": "nba-bos-tor-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "1H Spread: Magic (-1.5)",
+          "side": "BUY",
+          "outcome": "Jazz",
+          "price": 0.5633333333,
+          "value": 16.899999999000002,
+          "timestamp": 1794449568,
+          "slug": "nba-orl-uta-2026-11-11-1h-spread-away-1pt5",
+          "event_slug": "nba-orl-uta-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "1H Spread: Nets (-13.5)",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.38,
+          "value": 5.0654,
+          "timestamp": 1794449544,
+          "slug": "nba-bkn-nop-2026-11-11-1h-spread-away-13pt5",
+          "event_slug": "nba-bkn-nop-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "1H Spread: Nets (-13.5)",
+          "side": "BUY",
+          "outcome": "Nets",
+          "price": 0.32,
+          "value": 2.5632,
+          "timestamp": 1794449421,
+          "slug": "nba-bkn-nop-2026-11-11-1h-spread-away-13pt5",
+          "event_slug": "nba-bkn-nop-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
           "side": "BUY",
@@ -3237,50 +3281,6 @@
           "slug": "nba-cle-nyk-2026-11-11-1h-spread-away-1pt5",
           "event_slug": "nba-cle-nyk-2026-11-11",
           "result": "win"
-        },
-        {
-          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
-          "side": "BUY",
-          "outcome": "Marquette Golden Eagles",
-          "price": 0.2,
-          "value": 69.4,
-          "timestamp": 1794445603,
-          "slug": "cbb-marq-mich-2026-11-11",
-          "event_slug": "cbb-marq-mich-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Pacers (-3.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.420620155,
-          "value": 434.07999996,
-          "timestamp": 1794445495,
-          "slug": "nba-was-ind-2026-11-11-1h-spread-home-3pt5",
-          "event_slug": "nba-was-ind-2026-11-11",
-          "result": "win"
-        },
-        {
-          "title": "Charleston Cougars vs. Temple Owls",
-          "side": "BUY",
-          "outcome": "Temple Owls",
-          "price": 0.32,
-          "value": 1.92,
-          "timestamp": 1794445296,
-          "slug": "cbb-char-templ-2026-11-11",
-          "event_slug": "cbb-char-templ-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charleston Cougars vs. Temple Owls",
-          "side": "BUY",
-          "outcome": "Temple Owls",
-          "price": 0.26,
-          "value": 1.82,
-          "timestamp": 1794445264,
-          "slug": "cbb-char-templ-2026-11-11",
-          "event_slug": "cbb-char-templ-2026-11-11",
-          "result": "ongoing"
         }
       ]
     },
@@ -3709,7 +3709,7 @@
       "stats48h": {
         "wins": 29,
         "losses": 21,
-        "totalTrades": 91,
+        "totalTrades": 89,
         "winRate": 0.58,
         "volume": 36776.36919967063,
         "pnl": 0
@@ -4873,5 +4873,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T02:09:35.010Z"
+  "lastUpdate": "2026-11-12T02:16:28.595Z"
 }
