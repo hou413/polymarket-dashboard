@@ -33,14 +33,69 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 17,
-        "losses": 21,
+        "wins": 16,
+        "losses": 17,
         "totalTrades": 500,
-        "winRate": 0.4473684210526316,
-        "volume": 5865.717400033201,
+        "winRate": 0.48484848484848486,
+        "volume": 5641.7412000332,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Lakers vs. Bucks",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.11,
+          "value": 143.1188,
+          "timestamp": 1794445939,
+          "slug": "nba-lal-mil-2026-11-11",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Knicks (-7.5)",
+          "side": "BUY",
+          "outcome": "Knicks",
+          "price": 0.23,
+          "value": 8.97,
+          "timestamp": 1794445936,
+          "slug": "nba-cle-nyk-2026-11-11-spread-home-7pt5",
+          "event_slug": "nba-cle-nyk-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Cavaliers vs. Knicks: O/U 223.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.55,
+          "value": 110.00000000000001,
+          "timestamp": 1794445914,
+          "slug": "nba-cle-nyk-2026-11-11-total-223pt5",
+          "event_slug": "nba-cle-nyk-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Raptors (-9.5)",
+          "side": "BUY",
+          "outcome": "Celtics",
+          "price": 0.65,
+          "value": 3.25,
+          "timestamp": 1794445914,
+          "slug": "nba-bos-tor-2026-11-11-spread-home-9pt5",
+          "event_slug": "nba-bos-tor-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Knicks (-6.5)",
+          "side": "BUY",
+          "outcome": "Knicks",
+          "price": 0.28,
+          "value": 1.4000000000000001,
+          "timestamp": 1794445912,
+          "slug": "nba-cle-nyk-2026-11-11-spread-home-6pt5",
+          "event_slug": "nba-cle-nyk-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Raptors (-9.5)",
           "side": "BUY",
@@ -534,61 +589,6 @@
           "timestamp": 1794372400,
           "slug": "nba-orl-sac-2026-11-10-spread-away-3pt5",
           "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Magic (-6.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.35,
-          "value": 1.75,
-          "timestamp": 1794372400,
-          "slug": "nba-orl-sac-2026-11-10-spread-away-6pt5",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Magic (-3.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.22,
-          "value": 131.89000000000001,
-          "timestamp": 1794372400,
-          "slug": "nba-orl-sac-2026-11-10-spread-away-3pt5",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Magic (-5.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.31,
-          "value": 216.845,
-          "timestamp": 1794372400,
-          "slug": "nba-orl-sac-2026-11-10-spread-away-5pt5",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Trail Blazers (-3.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.31,
-          "value": 72.23,
-          "timestamp": 1794371967,
-          "slug": "nba-okc-por-2026-11-10-spread-home-3pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Thunder (-6.5)",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.34,
-          "value": 68,
-          "timestamp": 1794371602,
-          "slug": "nba-okc-por-2026-11-10-spread-away-6pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
           "result": "loss"
         }
       ]
@@ -1605,12 +1605,23 @@
       "stats48h": {
         "wins": 6,
         "losses": 5,
-        "totalTrades": 19,
+        "totalTrades": 20,
         "winRate": 0.5454545454545454,
-        "volume": 425452.58989999996,
+        "volume": 433213.7973,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Nuggets (-2.5)",
+          "side": "BUY",
+          "outcome": "Grizzlies",
+          "price": 0.46,
+          "value": 7761.207399999999,
+          "timestamp": 1794445627,
+          "slug": "nba-den-mem-2026-11-11-spread-away-2pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Nuggets (-1.5)",
           "side": "BUY",
@@ -1829,12 +1840,23 @@
       "stats48h": {
         "wins": 11,
         "losses": 5,
-        "totalTrades": 17,
+        "totalTrades": 18,
         "winRate": 0.6875,
-        "volume": 343769.2515,
+        "volume": 343959.49830000004,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Lakers vs. Bucks",
+          "side": "SELL",
+          "outcome": "Bucks",
+          "price": 0.12,
+          "value": 190.2468,
+          "timestamp": 1794445893,
+          "slug": "nba-lal-mil-2026-11-11",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Lakers vs. Bucks",
           "side": "BUY",
@@ -2640,10 +2662,120 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 7196.1567999402505,
+        "volume": 6573.562879939952,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Charleston Cougars vs. Temple Owls",
+          "side": "BUY",
+          "outcome": "Charleston Cougars",
+          "price": 0.8,
+          "value": 136,
+          "timestamp": 1794446007,
+          "slug": "cbb-char-templ-2026-11-11",
+          "event_slug": "cbb-char-templ-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "UNC Asheville Bulldogs",
+          "price": 0.65,
+          "value": 40.95,
+          "timestamp": 1794445954,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Raptors (-21.5)",
+          "side": "BUY",
+          "outcome": "Celtics",
+          "price": 0.907,
+          "value": 198.633,
+          "timestamp": 1794445890,
+          "slug": "nba-bos-tor-2026-11-11-spread-home-21pt5",
+          "event_slug": "nba-bos-tor-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.34,
+          "value": 40.46,
+          "timestamp": 1794445791,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "1H Spread: Cavaliers (-1.5)",
+          "side": "BUY",
+          "outcome": "Cavaliers",
+          "price": 0.46,
+          "value": 29.131800000000002,
+          "timestamp": 1794445758,
+          "slug": "nba-cle-nyk-2026-11-11-1h-spread-away-1pt5",
+          "event_slug": "nba-cle-nyk-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Penn Quakers vs. Navy Midshipmen",
+          "side": "BUY",
+          "outcome": "Penn Quakers",
+          "price": 0.008,
+          "value": 0.32008,
+          "timestamp": 1794445732,
+          "slug": "cbb-penn-navy-2026-11-11",
+          "event_slug": "cbb-penn-navy-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
+          "side": "BUY",
+          "outcome": "Michigan Wolverines",
+          "price": 0.93,
+          "value": 13.020000000000001,
+          "timestamp": 1794445725,
+          "slug": "cbb-marq-mich-2026-11-11",
+          "event_slug": "cbb-marq-mich-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
+          "side": "BUY",
+          "outcome": "Michigan Wolverines",
+          "price": 0.86,
+          "value": 8.6,
+          "timestamp": 1794445672,
+          "slug": "cbb-marq-mich-2026-11-11",
+          "event_slug": "cbb-marq-mich-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
+          "side": "BUY",
+          "outcome": "Michigan Wolverines",
+          "price": 0.81,
+          "value": 279.0612,
+          "timestamp": 1794445636,
+          "slug": "cbb-marq-mich-2026-11-11",
+          "event_slug": "cbb-marq-mich-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
+          "side": "BUY",
+          "outcome": "Marquette Golden Eagles",
+          "price": 0.21,
+          "value": 89.25,
+          "timestamp": 1794445626,
+          "slug": "cbb-marq-mich-2026-11-11",
+          "event_slug": "cbb-marq-mich-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "1H Spread: Cavaliers (-1.5)",
           "side": "BUY",
@@ -3082,116 +3214,6 @@
           "timestamp": 1794443887,
           "slug": "nba-was-ind-2026-11-11-1h-spread-home-3pt5",
           "event_slug": "nba-was-ind-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Pacers (-5.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.33,
-          "value": 4.62,
-          "timestamp": 1794443887,
-          "slug": "nba-was-ind-2026-11-11-1h-spread-home-5pt5",
-          "event_slug": "nba-was-ind-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
-          "side": "BUY",
-          "outcome": "Michigan Wolverines",
-          "price": 0.6998223801,
-          "value": 393.9999999963,
-          "timestamp": 1794443872,
-          "slug": "cbb-marq-mich-2026-11-11",
-          "event_slug": "cbb-marq-mich-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Michigan Wolverines (-4.5)",
-          "side": "BUY",
-          "outcome": "Michigan Wolverines",
-          "price": 0.5,
-          "value": 7.5,
-          "timestamp": 1794443839,
-          "slug": "cbb-marq-mich-2026-11-11-spread-home-4pt5",
-          "event_slug": "cbb-marq-mich-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
-          "side": "BUY",
-          "outcome": "Michigan Wolverines",
-          "price": 0.68,
-          "value": 201.96,
-          "timestamp": 1794443839,
-          "slug": "cbb-marq-mich-2026-11-11",
-          "event_slug": "cbb-marq-mich-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
-          "side": "BUY",
-          "outcome": "Marquette Golden Eagles",
-          "price": 0.3055555556,
-          "value": 27.500000003999997,
-          "timestamp": 1794443827,
-          "slug": "cbb-marq-mich-2026-11-11",
-          "event_slug": "cbb-marq-mich-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
-          "side": "BUY",
-          "outcome": "Michigan Wolverines",
-          "price": 0.69,
-          "value": 211.82999999999998,
-          "timestamp": 1794443818,
-          "slug": "cbb-marq-mich-2026-11-11",
-          "event_slug": "cbb-marq-mich-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Penn Quakers vs. Navy Midshipmen",
-          "side": "BUY",
-          "outcome": "Navy Midshipmen",
-          "price": 0.49,
-          "value": 147.98,
-          "timestamp": 1794443796,
-          "slug": "cbb-penn-navy-2026-11-11",
-          "event_slug": "cbb-penn-navy-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
-          "side": "BUY",
-          "outcome": "UNC Asheville Bulldogs",
-          "price": 0.57,
-          "value": 41.04,
-          "timestamp": 1794443740,
-          "slug": "cbb-ncashe-uwg-2026-11-11",
-          "event_slug": "cbb-ncashe-uwg-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
-          "side": "BUY",
-          "outcome": "Michigan Wolverines",
-          "price": 0.55,
-          "value": 212.85000000000002,
-          "timestamp": 1794443713,
-          "slug": "cbb-marq-mich-2026-11-11",
-          "event_slug": "cbb-marq-mich-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
-          "side": "BUY",
-          "outcome": "Michigan Wolverines",
-          "price": 0.49,
-          "value": 208.74,
-          "timestamp": 1794443620,
-          "slug": "cbb-marq-mich-2026-11-11",
-          "event_slug": "cbb-marq-mich-2026-11-11",
           "result": "ongoing"
         }
       ]
@@ -4785,5 +4807,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T01:07:35.054Z"
+  "lastUpdate": "2026-11-12T01:14:26.593Z"
 }
