@@ -2375,10 +2375,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 12654.998830024992,
+        "volume": 12655.624130024991,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Exact Score: Sport Lisboa e Benfica 1 - 0 FK Austria Wien?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.11,
+          "value": 0.6633,
+          "timestamp": 1794476148,
+          "slug": "uwcl-slb-faw-2026-11-11-exact-score-1-0",
+          "event_slug": "uwcl-slb-faw-2026-11-11-exact-score",
+          "result": "ongoing"
+        },
         {
           "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
           "side": "SELL",
@@ -2915,17 +2926,6 @@
           "value": 0.038,
           "timestamp": 1794449758,
           "slug": "will-ales-vrhovec-win-the-2026-ljubljana-mayoral-election",
-          "event_slug": "ljubljana-mayoral-election-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Klemen Boštjančič win the 2026 Ljubljana mayoral election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.038,
-          "timestamp": 1794449758,
-          "slug": "will-klemen-bostjancic-win-the-2026-ljubljana-mayoral-election",
           "event_slug": "ljubljana-mayoral-election-winner-2026",
           "result": "ongoing"
         }
@@ -5204,5 +5204,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T09:37:44.575Z"
+  "lastUpdate": "2026-11-12T09:46:23.797Z"
 }
