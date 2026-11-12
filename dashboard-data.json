@@ -2397,10 +2397,43 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 12670.369050024992,
+        "volume": 12655.003150024992,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Apple be the largest company in the world by market cap on December 31?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.175,
+          "value": 5.0225,
+          "timestamp": 1794474883,
+          "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Microsoft be the largest company in the world by market cap on December 31?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.993,
+          "value": 28.4991,
+          "timestamp": 1794474883,
+          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 28.5565,
+          "timestamp": 1794474883,
+          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will BK Hacken win on 2026-11-12?",
           "side": "BUY",
@@ -2915,39 +2948,6 @@
           "value": 0.038,
           "timestamp": 1794449757,
           "slug": "will-ales-primc-win-the-2026-ljubljana-mayoral-election",
-          "event_slug": "ljubljana-mayoral-election-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Luka Mesec win the 2026 Ljubljana mayoral election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.61,
-          "value": 23.18,
-          "timestamp": 1794449556,
-          "slug": "will-luka-mesec-win-the-2026-ljubljana-mayoral-election",
-          "event_slug": "ljubljana-mayoral-election-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Zoran Janković win the 2026 Ljubljana mayoral election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.43,
-          "value": 16.34,
-          "timestamp": 1794449556,
-          "slug": "will-zoran-jankovic-win-the-2026-ljubljana-mayoral-election",
-          "event_slug": "ljubljana-mayoral-election-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Anton Rop win the 2026 Ljubljana mayoral election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.998,
-          "value": 37.924,
-          "timestamp": 1794449556,
-          "slug": "will-anton-rop-win-the-2026-ljubljana-mayoral-election",
           "event_slug": "ljubljana-mayoral-election-winner-2026",
           "result": "ongoing"
         }
@@ -5215,5 +5215,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T09:11:41.793Z"
+  "lastUpdate": "2026-11-12T09:20:22.500Z"
 }
