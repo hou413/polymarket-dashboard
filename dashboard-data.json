@@ -33,14 +33,157 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 3,
-        "losses": 1,
+        "wins": 0,
+        "losses": 0,
         "totalTrades": 500,
-        "winRate": 0.75,
-        "volume": 9332.314000097049,
+        "winRate": 0,
+        "volume": 9563.921700053048,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Bulls (-2.5)",
+          "side": "BUY",
+          "outcome": "Spurs",
+          "price": 0.45,
+          "value": 2.259,
+          "timestamp": 1794448396,
+          "slug": "nba-sas-chi-2026-11-11-spread-home-2pt5",
+          "event_slug": "nba-sas-chi-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-2.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.73,
+          "value": 3.65,
+          "timestamp": 1794448378,
+          "slug": "nba-den-mem-2026-11-11-spread-away-2pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nets (-10.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.54,
+          "value": 540,
+          "timestamp": 1794448362,
+          "slug": "nba-bkn-nop-2026-11-11-spread-away-10pt5",
+          "event_slug": "nba-bkn-nop-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-9.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.37,
+          "value": 295.815,
+          "timestamp": 1794448263,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-9pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nets (-12.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.71,
+          "value": 147.68,
+          "timestamp": 1794448189,
+          "slug": "nba-bkn-nop-2026-11-11-spread-away-12pt5",
+          "event_slug": "nba-bkn-nop-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nets (-10.5)",
+          "side": "BUY",
+          "outcome": "Pelicans",
+          "price": 0.65,
+          "value": 135.20000000000002,
+          "timestamp": 1794448189,
+          "slug": "nba-bkn-nop-2026-11-11-spread-away-10pt5",
+          "event_slug": "nba-bkn-nop-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-9.5)",
+          "side": "BUY",
+          "outcome": "Grizzlies",
+          "price": 0.54,
+          "value": 29.9592,
+          "timestamp": 1794448180,
+          "slug": "nba-den-mem-2026-11-11-spread-away-9pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-9.5)",
+          "side": "BUY",
+          "outcome": "Grizzlies",
+          "price": 0.51,
+          "value": 123.42,
+          "timestamp": 1794448123,
+          "slug": "nba-den-mem-2026-11-11-spread-away-9pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Lakers vs. Bucks: O/U 232.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.67,
+          "value": 12.73,
+          "timestamp": 1794448111,
+          "slug": "nba-lal-mil-2026-11-11-total-232pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Lakers (-9.5)",
+          "side": "BUY",
+          "outcome": "Bucks",
+          "price": 0.26,
+          "value": 2.6,
+          "timestamp": 1794448003,
+          "slug": "nba-lal-mil-2026-11-11-spread-away-9pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Lakers vs. Bucks: O/U 229.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.63,
+          "value": 3.3705,
+          "timestamp": 1794448003,
+          "slug": "nba-lal-mil-2026-11-11-total-229pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Lakers vs. Bucks: O/U 230.5",
+          "side": "BUY",
+          "outcome": "Under",
+          "price": 0.65,
+          "value": 168.35,
+          "timestamp": 1794447984,
+          "slug": "nba-lal-mil-2026-11-11-total-230pt5",
+          "event_slug": "nba-lal-mil-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Nuggets vs. Grizzlies: O/U 226.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.58,
+          "value": 115.99999999999999,
+          "timestamp": 1794447931,
+          "slug": "nba-den-mem-2026-11-11-total-226pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Nuggets vs. Grizzlies",
           "side": "BUY",
@@ -447,149 +590,6 @@
           "slug": "nba-cle-nyk-2026-11-11-spread-home-8pt5",
           "event_slug": "nba-cle-nyk-2026-11-11",
           "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-3.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.5099502488,
-          "value": 512.500000044,
-          "timestamp": 1794444451,
-          "slug": "nba-cle-nyk-2026-11-11-spread-home-3pt5",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Cavaliers vs. Knicks",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.39,
-          "value": 148.356,
-          "timestamp": 1794444451,
-          "slug": "nba-cle-nyk-2026-11-11",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-6.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.67,
-          "value": 134,
-          "timestamp": 1794444321,
-          "slug": "nba-cle-nyk-2026-11-11-spread-home-6pt5",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-7.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.27,
-          "value": 54,
-          "timestamp": 1794444156,
-          "slug": "nba-bos-tor-2026-11-11-spread-away-7pt5",
-          "event_slug": "nba-bos-tor-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Knicks (-5.5)",
-          "side": "BUY",
-          "outcome": "Cavaliers",
-          "price": 0.73,
-          "value": 13.87,
-          "timestamp": 1794444127,
-          "slug": "nba-cle-nyk-2026-11-11-spread-home-5pt5",
-          "event_slug": "nba-cle-nyk-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Celtics (-4.5)",
-          "side": "BUY",
-          "outcome": "Celtics",
-          "price": 0.41,
-          "value": 4.1,
-          "timestamp": 1794444085,
-          "slug": "nba-bos-tor-2026-11-11-spread-away-4pt5",
-          "event_slug": "nba-bos-tor-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Pacers (-4.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.35,
-          "value": 6.3,
-          "timestamp": 1794444061,
-          "slug": "nba-was-ind-2026-11-11-spread-home-4pt5",
-          "event_slug": "nba-was-ind-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Pacers (-3.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.42,
-          "value": 101.22,
-          "timestamp": 1794443971,
-          "slug": "nba-was-ind-2026-11-11-spread-home-3pt5",
-          "event_slug": "nba-was-ind-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Celtics vs. Raptors: O/U 225.5",
-          "side": "SELL",
-          "outcome": "Under",
-          "price": 0.64,
-          "value": 152.32,
-          "timestamp": 1794443170,
-          "slug": "nba-bos-tor-2026-11-11-total-225pt5",
-          "event_slug": "nba-bos-tor-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Trail Blazers (-14.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.68,
-          "value": 136,
-          "timestamp": 1794377940,
-          "slug": "nba-okc-por-2026-11-10-spread-home-14pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Trail Blazers (-20.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.36,
-          "value": 72,
-          "timestamp": 1794377899,
-          "slug": "nba-okc-por-2026-11-10-spread-home-20pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Trail Blazers (-16.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.58,
-          "value": 10.44,
-          "timestamp": 1794377896,
-          "slug": "nba-okc-por-2026-11-10-spread-home-16pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 226.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.24,
-          "value": 4.32,
-          "timestamp": 1794377884,
-          "slug": "nba-okc-por-2026-11-10-total-226pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
         }
       ]
     },
@@ -886,12 +886,23 @@
       "stats48h": {
         "wins": 1,
         "losses": 4,
-        "totalTrades": 69,
+        "totalTrades": 70,
         "winRate": 0.2,
-        "volume": 8000.261475967327,
+        "volume": 8027.561475967327,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Jensen Huang announced resignation or removal by November 12, 2026?",
+          "side": "BUY",
+          "outcome": "Yes",
+          "price": 0.64,
+          "value": 44.160000000000004,
+          "timestamp": 1794448269,
+          "slug": "jensen-huang-announced-resignation-or-removal-by-november-12-2026",
+          "event_slug": "jensen-huang-announced-resignation-or-removal-by-december-31",
+          "result": "ongoing"
+        },
         {
           "title": "Jensen Huang announced resignation or removal by November 11, 2026?",
           "side": "BUY",
@@ -1430,17 +1441,6 @@
           "slug": "will-wti-dip-to-85-in-november-2026",
           "event_slug": "what-price-will-wti-hit-in-november-2026",
           "result": "loss"
-        },
-        {
-          "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in November?",
-          "side": "BUY",
-          "outcome": "Yes",
-          "price": 0.06,
-          "value": 16.86,
-          "timestamp": 1794254203,
-          "slug": "will-wti-reach-120-in-november-2026",
-          "event_slug": "what-price-will-wti-hit-in-november-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -1451,12 +1451,67 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 2,
+        "totalTrades": 7,
         "winRate": 0,
-        "volume": 24721.4386,
+        "volume": 174461.4386,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Map Handicap: FAL (-1.5) vs Legacy (+1.5)",
+          "side": "BUY",
+          "outcome": "Legacy",
+          "price": 0.59,
+          "value": 17700,
+          "timestamp": 1794448399,
+          "slug": "cs2-lgc-fal2-2026-11-11-map-handicap-home-1pt5",
+          "event_slug": "cs2-lgc-fal2-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A",
+          "side": "BUY",
+          "outcome": "Legacy",
+          "price": 0.3,
+          "value": 9000,
+          "timestamp": 1794448377,
+          "slug": "cs2-lgc-fal2-2026-11-11",
+          "event_slug": "cs2-lgc-fal2-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Map Handicap: FAL (-1.5) vs Legacy (+1.5)",
+          "side": "BUY",
+          "outcome": "Legacy",
+          "price": 0.59,
+          "value": 3540,
+          "timestamp": 1794448278,
+          "slug": "cs2-lgc-fal2-2026-11-11-map-handicap-home-1pt5",
+          "event_slug": "cs2-lgc-fal2-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Map Handicap: FAL (-1.5) vs Legacy (+1.5)",
+          "side": "BUY",
+          "outcome": "Legacy",
+          "price": 0.59,
+          "value": 29500,
+          "timestamp": 1794448236,
+          "slug": "cs2-lgc-fal2-2026-11-11-map-handicap-home-1pt5",
+          "event_slug": "cs2-lgc-fal2-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A",
+          "side": "BUY",
+          "outcome": "Legacy",
+          "price": 0.3,
+          "value": 90000,
+          "timestamp": 1794448216,
+          "slug": "cs2-lgc-fal2-2026-11-11",
+          "event_slug": "cs2-lgc-fal2-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A",
           "side": "BUY",
@@ -2044,10 +2099,109 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2435.0366099895477,
+        "volume": 3585.1214299883577,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elon Musk post 240-259 tweets from November 6 to November 13, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.7835397541,
+          "value": 191.1837000004,
+          "timestamp": 1794448342,
+          "slug": "elon-musk-of-tweets-november-6-november-13-2026-240-259",
+          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 220-239 tweets from November 6 to November 13, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.6925398361,
+          "value": 168.9797200084,
+          "timestamp": 1794448342,
+          "slug": "elon-musk-of-tweets-november-6-november-13-2026-220-239",
+          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 200-219 tweets from November 6 to November 13, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.8501229374,
+          "value": 46.88427999761,
+          "timestamp": 1794448342,
+          "slug": "elon-musk-of-tweets-november-6-november-13-2026-200-219",
+          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 280-299 tweets from November 6 to November 13, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.96,
+          "value": 234.23999999999998,
+          "timestamp": 1794448342,
+          "slug": "elon-musk-of-tweets-november-6-november-13-2026-280-299",
+          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 300-319 tweets from November 6 to November 13, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.985,
+          "value": 240.34,
+          "timestamp": 1794448342,
+          "slug": "elon-musk-of-tweets-november-6-november-13-2026-300-319",
+          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 320-339 tweets from November 6 to November 13, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.995,
+          "value": 242.78,
+          "timestamp": 1794448342,
+          "slug": "elon-musk-of-tweets-november-6-november-13-2026-320-339",
+          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 340-359 tweets from November 6 to November 13, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.998,
+          "value": 243.512,
+          "timestamp": 1794448342,
+          "slug": "elon-musk-of-tweets-november-6-november-13-2026-340-359",
+          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elon Musk post 180-199 tweets from November 6 to November 13, 2026?",
+          "side": "BUY",
+          "outcome": "No",
+          "price": 0.9899156557,
+          "value": 241.53941999079998,
+          "timestamp": 1794448342,
+          "slug": "elon-musk-of-tweets-november-6-november-13-2026-180-199",
+          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will FUT Win the BLAST Rivals Hong Kong 2026?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.015,
+          "value": 2.4057,
+          "timestamp": 1794448236,
+          "slug": "will-fut-win-the-blast-rivals-hong-kong-2026-1793811600000",
+          "event_slug": "blast-rivals-hong-kong-2026-winner-1793811600000",
+          "result": "ongoing"
+        },
         {
           "title": "Will NVIDIA be the largest company in the world by market cap on December 31?",
           "side": "SELL",
@@ -2498,105 +2652,6 @@
           "slug": "will-cristina-fernandez-de-kirchner-win-the-2027-argentina-presidential-election",
           "event_slug": "argentina-presidential-election-winner",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Daniel Hadad win the 2027 Argentina presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.992,
-          "value": 40.672,
-          "timestamp": 1794432154,
-          "slug": "will-daniel-hadad-win-the-2027-argentina-presidential-election",
-          "event_slug": "argentina-presidential-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Myriam Bregman win the 2027 Argentina presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.988,
-          "value": 40.508,
-          "timestamp": 1794432154,
-          "slug": "will-myriam-bregman-win-the-2027-argentina-presidential-election",
-          "event_slug": "argentina-presidential-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Dante Gebel win the 2027 Argentina presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 40.877,
-          "timestamp": 1794432154,
-          "slug": "will-dante-gebel-win-the-2027-argentina-presidential-election",
-          "event_slug": "argentina-presidential-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Sergio Massa win the 2027 Argentina presidential election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.864,
-          "value": 35.424,
-          "timestamp": 1794432154,
-          "slug": "will-sergio-massa-win-the-2027-argentina-presidential-election",
-          "event_slug": "argentina-presidential-election-winner",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.108,
-          "timestamp": 1794431350,
-          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.8260648148,
-          "value": 89.2149999984,
-          "timestamp": 1794431173,
-          "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Alphabet be the largest company in the world by market cap on December 31?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 107.676,
-          "timestamp": 1794431173,
-          "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Microsoft be the largest company in the world by market cap on December 31?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.993,
-          "value": 107.244,
-          "timestamp": 1794431173,
-          "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.056,
-          "timestamp": 1794430965,
-          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
-          "event_slug": "largest-company-end-of-december-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -2647,14 +2702,58 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 5,
+        "wins": 4,
         "losses": 1,
         "totalTrades": 500,
-        "winRate": 0.8333333333333334,
-        "volume": 5161.960059939107,
+        "winRate": 0.8,
+        "volume": 4793.203659939507,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.19,
+          "value": 1.9,
+          "timestamp": 1794448500,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "UNC Asheville Bulldogs",
+          "price": 0.76,
+          "value": 7.6,
+          "timestamp": 1794448324,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.22,
+          "value": 1.1,
+          "timestamp": 1794448317,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "1H Spread: Nuggets (-11.5)",
+          "side": "BUY",
+          "outcome": "Nuggets",
+          "price": 0.42,
+          "value": 7.278599999999999,
+          "timestamp": 1794448161,
+          "slug": "nba-den-mem-2026-11-11-1h-spread-away-11pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Marquette Golden Eagles vs. Michigan Wolverines",
           "side": "BUY",
@@ -3160,50 +3259,6 @@
           "slug": "nba-cle-nyk-2026-11-11-1h-spread-away-1pt5",
           "event_slug": "nba-cle-nyk-2026-11-11",
           "result": "loss"
-        },
-        {
-          "title": "Penn Quakers vs. Navy Midshipmen",
-          "side": "BUY",
-          "outcome": "Navy Midshipmen",
-          "price": 0.8488317757,
-          "value": 363.2999999996,
-          "timestamp": 1794445017,
-          "slug": "cbb-penn-navy-2026-11-11",
-          "event_slug": "cbb-penn-navy-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Spread: Charleston Cougars (-1.5)",
-          "side": "BUY",
-          "outcome": "Temple Owls",
-          "price": 0.2,
-          "value": 1,
-          "timestamp": 1794445011,
-          "slug": "cbb-char-templ-2026-11-11-spread-away-1pt5",
-          "event_slug": "cbb-char-templ-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "1H Spread: Wizards (-2.5)",
-          "side": "BUY",
-          "outcome": "Pacers",
-          "price": 0.5,
-          "value": 20.385,
-          "timestamp": 1794444994,
-          "slug": "nba-was-ind-2026-11-11-1h-spread-away-2pt5",
-          "event_slug": "nba-was-ind-2026-11-11",
-          "result": "win"
-        },
-        {
-          "title": "Charleston Cougars vs. Temple Owls",
-          "side": "BUY",
-          "outcome": "Temple Owls",
-          "price": 0.13,
-          "value": 1.9500000000000002,
-          "timestamp": 1794444939,
-          "slug": "cbb-char-templ-2026-11-11",
-          "event_slug": "cbb-char-templ-2026-11-11",
-          "result": "ongoing"
         }
       ]
     },
@@ -4796,5 +4851,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T01:48:54.374Z"
+  "lastUpdate": "2026-11-12T01:55:54.448Z"
 }
