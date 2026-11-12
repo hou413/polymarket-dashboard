@@ -4616,12 +4616,34 @@
       "stats48h": {
         "wins": 33,
         "losses": 8,
-        "totalTrades": 44,
+        "totalTrades": 46,
         "winRate": 0.8048780487804879,
-        "volume": 23296.138900010716,
+        "volume": 24976.995970010717,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Big Bash League, Women: Melbourne Renegades vs Sydney Sixers",
+          "side": "BUY",
+          "outcome": "Sydney Sixers",
+          "price": 0.58,
+          "value": 823.3854,
+          "timestamp": 1794479761,
+          "slug": "cricwbbl-mer-sys-2026-11-12",
+          "event_slug": "cricwbbl-mer-sys-2026-11-12",
+          "result": "ongoing"
+        },
+        {
+          "title": "Victoria Women T20I: Uganda Women vs USA Women",
+          "side": "SELL",
+          "outcome": "Uganda Women",
+          "price": 0.999,
+          "value": 857.47167,
+          "timestamp": 1794479751,
+          "slug": "crint-ugaw-usaw-2026-11-12",
+          "event_slug": "crint-ugaw-usaw-2026-11-12",
+          "result": "ongoing"
+        },
         {
           "title": "Adelaide 36ers vs. Melbourne United",
           "side": "BUY",
@@ -5237,5 +5259,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T10:29:56.010Z"
+  "lastUpdate": "2026-11-12T10:38:40.167Z"
 }
