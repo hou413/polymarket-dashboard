@@ -33,14 +33,201 @@
       "label": "sports_whale_1",
       "specialty": "NBA+NFL",
       "stats48h": {
-        "wins": 15,
-        "losses": 10,
+        "wins": 5,
+        "losses": 3,
         "totalTrades": 500,
-        "winRate": 0.6,
-        "volume": 5988.436200038201,
+        "winRate": 0.625,
+        "volume": 7253.129800097048,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Spread: Nuggets (-20.5)",
+          "side": "BUY",
+          "outcome": "Grizzlies",
+          "price": 0.73,
+          "value": 3.65,
+          "timestamp": 1794447591,
+          "slug": "nba-den-mem-2026-11-11-spread-away-20pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Nuggets (-12.5)",
+          "side": "BUY",
+          "outcome": "Grizzlies",
+          "price": 0.49,
+          "value": 98,
+          "timestamp": 1794447570,
+          "slug": "nba-den-mem-2026-11-11-spread-away-12pt5",
+          "event_slug": "nba-den-mem-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Celtics vs. Raptors: O/U 225.5",
+          "side": "SELL",
+          "outcome": "Under",
+          "price": 0.71,
+          "value": 3.55,
+          "timestamp": 1794447550,
+          "slug": "nba-bos-tor-2026-11-11-total-225pt5",
+          "event_slug": "nba-bos-tor-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Pacers (-10.5)",
+          "side": "BUY",
+          "outcome": "Wizards",
+          "price": 0.6,
+          "value": 479.7,
+          "timestamp": 1794447237,
+          "slug": "nba-was-ind-2026-11-11-spread-home-10pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Pacers (-12.5)",
+          "side": "BUY",
+          "outcome": "Wizards",
+          "price": 0.69,
+          "value": 241.84499999999997,
+          "timestamp": 1794447237,
+          "slug": "nba-was-ind-2026-11-11-spread-home-12pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Pacers: O/U 216.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.35,
+          "value": 279.825,
+          "timestamp": 1794447237,
+          "slug": "nba-was-ind-2026-11-11-total-216pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Pacers (-10.5)",
+          "side": "BUY",
+          "outcome": "Wizards",
+          "price": 0.6,
+          "value": 120.3,
+          "timestamp": 1794447237,
+          "slug": "nba-was-ind-2026-11-11-spread-home-10pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Spread: Pacers (-12.5)",
+          "side": "BUY",
+          "outcome": "Wizards",
+          "price": 0.69,
+          "value": 448.155,
+          "timestamp": 1794447237,
+          "slug": "nba-was-ind-2026-11-11-spread-home-12pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Pacers: O/U 220.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.23,
+          "value": 92.11500000000001,
+          "timestamp": 1794447237,
+          "slug": "nba-was-ind-2026-11-11-total-220pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Pacers: O/U 206.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.72,
+          "value": 431.64,
+          "timestamp": 1794447237,
+          "slug": "nba-was-ind-2026-11-11-total-206pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Pacers: O/U 208.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.64,
+          "value": 447.68,
+          "timestamp": 1794447237,
+          "slug": "nba-was-ind-2026-11-11-total-208pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Pacers: O/U 214.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.4099444136,
+          "value": 368.74500003320003,
+          "timestamp": 1794447235,
+          "slug": "nba-was-ind-2026-11-11-total-214pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Pacers: O/U 214.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.41,
+          "value": 50.635,
+          "timestamp": 1794447235,
+          "slug": "nba-was-ind-2026-11-11-total-214pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Pacers: O/U 218.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.29,
+          "value": 202.855,
+          "timestamp": 1794447235,
+          "slug": "nba-was-ind-2026-11-11-total-218pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Pacers: O/U 208.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.6453323803,
+          "value": 451.41000001985,
+          "timestamp": 1794447235,
+          "slug": "nba-was-ind-2026-11-11-total-208pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Pacers: O/U 206.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.72,
+          "value": 288.36,
+          "timestamp": 1794447235,
+          "slug": "nba-was-ind-2026-11-11-total-206pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "Wizards vs. Pacers: O/U 220.5",
+          "side": "BUY",
+          "outcome": "Over",
+          "price": 0.23,
+          "value": 137.88500000000002,
+          "timestamp": 1794447235,
+          "slug": "nba-was-ind-2026-11-11-total-220pt5",
+          "event_slug": "nba-was-ind-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Spread: Cavaliers (-6.5)",
           "side": "BUY",
@@ -403,193 +590,6 @@
           "slug": "nba-okc-por-2026-11-10-spread-home-14pt5",
           "event_slug": "nba-okc-por-2026-11-10",
           "result": "win"
-        },
-        {
-          "title": "Spread: Trail Blazers (-14.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.24,
-          "value": 155.88,
-          "timestamp": 1794376443,
-          "slug": "nba-okc-por-2026-11-10-spread-home-14pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Trail Blazers (-10.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.36,
-          "value": 2.16,
-          "timestamp": 1794376233,
-          "slug": "nba-okc-por-2026-11-10-spread-home-10pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Trail Blazers (-12.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.22,
-          "value": 20.68,
-          "timestamp": 1794375862,
-          "slug": "nba-okc-por-2026-11-10-spread-home-12pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 233.5",
-          "side": "SELL",
-          "outcome": "Over",
-          "price": 0.53,
-          "value": 2.6500000000000004,
-          "timestamp": 1794375658,
-          "slug": "nba-okc-por-2026-11-10-total-233pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 235.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.56,
-          "value": 475.72,
-          "timestamp": 1794375633,
-          "slug": "nba-okc-por-2026-11-10-total-235pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 235.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.56,
-          "value": 103.00640000000001,
-          "timestamp": 1794375633,
-          "slug": "nba-okc-por-2026-11-10-total-235pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Thunder (-2.5)",
-          "side": "BUY",
-          "outcome": "Thunder",
-          "price": 0.38,
-          "value": 303.81,
-          "timestamp": 1794375633,
-          "slug": "nba-okc-por-2026-11-10-spread-away-2pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Spread: Trail Blazers (-4.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.25,
-          "value": 300,
-          "timestamp": 1794375304,
-          "slug": "nba-okc-por-2026-11-10-spread-home-4pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Trail Blazers (-2.5)",
-          "side": "BUY",
-          "outcome": "Trail Blazers",
-          "price": 0.33,
-          "value": 330,
-          "timestamp": 1794375304,
-          "slug": "nba-okc-por-2026-11-10-spread-home-2pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 233.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.49,
-          "value": 123.97,
-          "timestamp": 1794375303,
-          "slug": "nba-okc-por-2026-11-10-total-233pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 226.5",
-          "side": "BUY",
-          "outcome": "Under",
-          "price": 0.3,
-          "value": 60,
-          "timestamp": 1794374032,
-          "slug": "nba-okc-por-2026-11-10-total-226pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 233.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.52,
-          "value": 26.26,
-          "timestamp": 1794373935,
-          "slug": "nba-okc-por-2026-11-10-total-233pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 233.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.52,
-          "value": 493.74,
-          "timestamp": 1794373935,
-          "slug": "nba-okc-por-2026-11-10-total-233pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 243.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.25,
-          "value": 162.375,
-          "timestamp": 1794373932,
-          "slug": "nba-okc-por-2026-11-10-total-243pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Thunder vs. Trail Blazers: O/U 243.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.25,
-          "value": 87.625,
-          "timestamp": 1794373932,
-          "slug": "nba-okc-por-2026-11-10-total-243pt5",
-          "event_slug": "nba-okc-por-2026-11-10",
-          "result": "loss"
-        },
-        {
-          "title": "Magic vs. Kings: O/U 205.5",
-          "side": "BUY",
-          "outcome": "Over",
-          "price": 0.7791743119,
-          "value": 169.8599999942,
-          "timestamp": 1794373795,
-          "slug": "nba-orl-sac-2026-11-10-total-205pt5",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "win"
-        },
-        {
-          "title": "Spread: Magic (-3.5)",
-          "side": "BUY",
-          "outcome": "Kings",
-          "price": 0.16,
-          "value": 63.92,
-          "timestamp": 1794373795,
-          "slug": "nba-orl-sac-2026-11-10-spread-away-3pt5",
-          "event_slug": "nba-orl-sac-2026-11-10",
-          "result": "loss"
         }
       ]
     },
@@ -2648,13 +2648,68 @@
       "specialty": "综合",
       "stats48h": {
         "wins": 5,
-        "losses": 3,
+        "losses": 2,
         "totalTrades": 500,
-        "winRate": 0.625,
-        "volume": 4632.017879959187,
+        "winRate": 0.7142857142857143,
+        "volume": 4172.94657996025,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.29,
+          "value": 2.9,
+          "timestamp": 1794447553,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.22,
+          "value": 2.2,
+          "timestamp": 1794447534,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "UNC Asheville Bulldogs",
+          "price": 0.75,
+          "value": 7.5,
+          "timestamp": 1794447504,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "UNC Asheville Bulldogs",
+          "price": 0.6209090909,
+          "value": 40.9799999994,
+          "timestamp": 1794447357,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.43,
+          "value": 40.85,
+          "timestamp": 1794447300,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
           "side": "BUY",
@@ -3149,61 +3204,6 @@
           "slug": "nba-was-ind-2026-11-11-1h-spread-away-10pt5",
           "event_slug": "nba-was-ind-2026-11-11",
           "result": "loss"
-        },
-        {
-          "title": "1H Spread: Wizards (-2.5)",
-          "side": "BUY",
-          "outcome": "Wizards",
-          "price": 0.53,
-          "value": 9.184899999999999,
-          "timestamp": 1794444472,
-          "slug": "nba-was-ind-2026-11-11-1h-spread-away-2pt5",
-          "event_slug": "nba-was-ind-2026-11-11",
-          "result": "loss"
-        },
-        {
-          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
-          "side": "BUY",
-          "outcome": "West Georgia Wolves",
-          "price": 0.38,
-          "value": 40.28,
-          "timestamp": 1794444412,
-          "slug": "cbb-ncashe-uwg-2026-11-11",
-          "event_slug": "cbb-ncashe-uwg-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
-          "side": "BUY",
-          "outcome": "Michigan Wolverines",
-          "price": 0.7398509376,
-          "value": 496.336399998336,
-          "timestamp": 1794444411,
-          "slug": "cbb-marq-mich-2026-11-11",
-          "event_slug": "cbb-marq-mich-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Marquette Golden Eagles vs. Michigan Wolverines",
-          "side": "BUY",
-          "outcome": "Michigan Wolverines",
-          "price": 0.69,
-          "value": 6.8999999999999995,
-          "timestamp": 1794444351,
-          "slug": "cbb-marq-mich-2026-11-11",
-          "event_slug": "cbb-marq-mich-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charleston Cougars vs. Temple Owls",
-          "side": "BUY",
-          "outcome": "Temple Owls",
-          "price": 0.08,
-          "value": 0.8,
-          "timestamp": 1794444339,
-          "slug": "cbb-char-templ-2026-11-11",
-          "event_slug": "cbb-char-templ-2026-11-11",
-          "result": "ongoing"
         }
       ]
     },
@@ -3632,7 +3632,7 @@
       "stats48h": {
         "wins": 29,
         "losses": 21,
-        "totalTrades": 93,
+        "totalTrades": 92,
         "winRate": 0.58,
         "volume": 36776.36919967063,
         "pnl": 0
@@ -4796,5 +4796,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T01:35:17.355Z"
+  "lastUpdate": "2026-11-12T01:42:03.958Z"
 }
