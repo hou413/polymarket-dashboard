@@ -2044,10 +2044,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 2275.949409989548,
+        "volume": 2435.0366099895477,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.12,
+          "value": 110.0016,
+          "timestamp": 1794446725,
+          "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.12,
+          "value": 55.300799999999995,
+          "timestamp": 1794446725,
+          "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
           "side": "BUY",
@@ -2575,28 +2597,6 @@
           "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
           "event_slug": "largest-company-end-of-december-2026",
           "result": "ongoing"
-        },
-        {
-          "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.24,
-          "value": 2.2152,
-          "timestamp": 1794429447,
-          "slug": "uwcl-slb-faw-2026-11-11-draw",
-          "event_slug": "uwcl-slb-faw-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Avengers: Doomsday have the best domestic opening weekend in 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.25,
-          "value": 4,
-          "timestamp": 1794425349,
-          "slug": "will-avengers-doomsday-have-the-best-domestic-opening-weekend-in-2026",
-          "event_slug": "which-movie-has-biggest-opening-weekend-in-2026",
-          "result": "ongoing"
         }
       ]
     },
@@ -2647,14 +2647,47 @@
       "label": "takeormake",
       "specialty": "综合",
       "stats48h": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 2,
+        "losses": 2,
         "totalTrades": 500,
-        "winRate": 0,
-        "volume": 7356.214279939949,
+        "winRate": 0.5,
+        "volume": 7278.424679908788,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.23,
+          "value": 29.21,
+          "timestamp": 1794446827,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.3084759435,
+          "value": 21.41439999777,
+          "timestamp": 1794446532,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
+        {
+          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
+          "side": "BUY",
+          "outcome": "West Georgia Wolves",
+          "price": 0.27,
+          "value": 42.120000000000005,
+          "timestamp": 1794446520,
+          "slug": "cbb-ncashe-uwg-2026-11-11",
+          "event_slug": "cbb-ncashe-uwg-2026-11-11",
+          "result": "ongoing"
+        },
         {
           "title": "Marquette Golden Eagles vs. Michigan Wolverines",
           "side": "BUY",
@@ -2663,7 +2696,7 @@
           "value": 1.911,
           "timestamp": 1794446449,
           "slug": "cbb-marq-mich-2026-11-11",
-          "event_slug": "",
+          "event_slug": "cbb-marq-mich-2026-11-11",
           "result": "ongoing"
         },
         {
@@ -2873,7 +2906,7 @@
           "timestamp": 1794445495,
           "slug": "nba-was-ind-2026-11-11-1h-spread-home-3pt5",
           "event_slug": "nba-was-ind-2026-11-11",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Charleston Cougars vs. Temple Owls",
@@ -2961,7 +2994,7 @@
           "timestamp": 1794444994,
           "slug": "nba-was-ind-2026-11-11-1h-spread-away-2pt5",
           "event_slug": "nba-was-ind-2026-11-11",
-          "result": "ongoing"
+          "result": "win"
         },
         {
           "title": "Charleston Cougars vs. Temple Owls",
@@ -3027,7 +3060,7 @@
           "timestamp": 1794444559,
           "slug": "nba-was-ind-2026-11-11-1h-spread-away-10pt5",
           "event_slug": "nba-was-ind-2026-11-11",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "1H Spread: Wizards (-2.5)",
@@ -3038,7 +3071,7 @@
           "timestamp": 1794444472,
           "slug": "nba-was-ind-2026-11-11-1h-spread-away-2pt5",
           "event_slug": "nba-was-ind-2026-11-11",
-          "result": "ongoing"
+          "result": "loss"
         },
         {
           "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
@@ -3170,39 +3203,6 @@
           "timestamp": 1794444190,
           "slug": "cbb-ncashe-uwg-2026-11-11",
           "event_slug": "cbb-ncashe-uwg-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Penn Quakers vs. Navy Midshipmen",
-          "side": "BUY",
-          "outcome": "Penn Quakers",
-          "price": 0.2000781043,
-          "value": 128.084000029731,
-          "timestamp": 1794444109,
-          "slug": "cbb-penn-navy-2026-11-11",
-          "event_slug": "cbb-penn-navy-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "UNC Asheville Bulldogs vs. West Georgia Wolves",
-          "side": "BUY",
-          "outcome": "West Georgia Wolves",
-          "price": 0.41,
-          "value": 40.589999999999996,
-          "timestamp": 1794444100,
-          "slug": "cbb-ncashe-uwg-2026-11-11",
-          "event_slug": "cbb-ncashe-uwg-2026-11-11",
-          "result": "ongoing"
-        },
-        {
-          "title": "Charleston Cougars vs. Temple Owls",
-          "side": "BUY",
-          "outcome": "Temple Owls",
-          "price": 0.0664285714,
-          "value": 1.8599999991999998,
-          "timestamp": 1794444057,
-          "slug": "cbb-char-templ-2026-11-11",
-          "event_slug": "cbb-char-templ-2026-11-11",
           "result": "ongoing"
         }
       ]
@@ -3632,7 +3632,7 @@
       "stats48h": {
         "wins": 29,
         "losses": 21,
-        "totalTrades": 97,
+        "totalTrades": 93,
         "winRate": 0.58,
         "volume": 36776.36919967063,
         "pnl": 0
@@ -4796,5 +4796,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T01:21:32.187Z"
+  "lastUpdate": "2026-11-12T01:28:19.600Z"
 }
