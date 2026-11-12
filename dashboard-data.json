@@ -1929,9 +1929,9 @@
       "stats48h": {
         "wins": 0,
         "losses": 0,
-        "totalTrades": 8,
+        "totalTrades": 7,
         "winRate": 0,
-        "volume": 3760.171030013404,
+        "volume": 1440.134960013404,
         "pnl": 0
       },
       "recentTrades": [
@@ -2010,17 +2010,6 @@
           "timestamp": 1794216501,
           "slug": "will-joe-kent-win-the-2028-republican-presidential-nomination",
           "event_slug": "republican-presidential-nominee-2028",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Kamala Harris win the 2028 US Presidential Election?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.967,
-          "value": 2320.03607,
-          "timestamp": 1794216313,
-          "slug": "will-kamala-harris-win-the-2028-us-presidential-election",
-          "event_slug": "presidential-election-winner-2028",
           "result": "ongoing"
         }
       ]
@@ -2397,10 +2386,21 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 12655.003150024992,
+        "volume": 12654.998830024992,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.03368,
+          "timestamp": 1794475051,
+          "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+          "event_slug": "largest-company-end-of-december-2026",
+          "result": "ongoing"
+        },
         {
           "title": "Will Apple be the largest company in the world by market cap on December 31?",
           "side": "BUY",
@@ -2937,17 +2937,6 @@
           "value": 0.038,
           "timestamp": 1794449758,
           "slug": "will-klemen-bostjancic-win-the-2026-ljubljana-mayoral-election",
-          "event_slug": "ljubljana-mayoral-election-winner-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Aleš Primc win the 2026 Ljubljana mayoral election?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.001,
-          "value": 0.038,
-          "timestamp": 1794449757,
-          "slug": "will-ales-primc-win-the-2026-ljubljana-mayoral-election",
           "event_slug": "ljubljana-mayoral-election-winner-2026",
           "result": "ongoing"
         }
@@ -5215,5 +5204,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T09:20:22.500Z"
+  "lastUpdate": "2026-11-12T09:29:04.062Z"
 }
