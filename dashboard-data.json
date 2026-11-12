@@ -2397,10 +2397,32 @@
         "losses": 0,
         "totalTrades": 500,
         "winRate": 0,
-        "volume": 14055.71683000454,
+        "volume": 14035.32389000454,
         "pnl": 0
       },
       "recentTrades": [
+        {
+          "title": "Will Elisabeth Thand Ringqvist be the next Prime Minister of Sweden?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 0.212,
+          "timestamp": 1794478498,
+          "slug": "will-elisabeth-thand-ringqvist-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
+        {
+          "title": "Will Elisabeth Thand Ringqvist be the next Prime Minister of Sweden?",
+          "side": "SELL",
+          "outcome": "Yes",
+          "price": 0.001,
+          "value": 1.00801,
+          "timestamp": 1794478378,
+          "slug": "will-elisabeth-thand-ringqvist-be-the-next-prime-minister-of-sweden",
+          "event_slug": "next-prime-minister-of-sweden",
+          "result": "ongoing"
+        },
         {
           "title": "Will SpaceX be the largest company in the world by market cap on December 31?",
           "side": "SELL",
@@ -2926,28 +2948,6 @@
           "value": 0.011,
           "timestamp": 1794451768,
           "slug": "will-edmundo-gonzlez-be-the-leader-of-venezuela-end-of-2026",
-          "event_slug": "venezuela-leader-end-of-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will Elon Musk post 280-299 tweets from November 6 to November 13, 2026?",
-          "side": "SELL",
-          "outcome": "Yes",
-          "price": 0.035,
-          "value": 10.645950000000001,
-          "timestamp": 1794451614,
-          "slug": "elon-musk-of-tweets-november-6-november-13-2026-280-299",
-          "event_slug": "elon-musk-of-tweets-november-6-november-13-2026",
-          "result": "ongoing"
-        },
-        {
-          "title": "Will there be no head of state of Venezuela end of 2026?",
-          "side": "BUY",
-          "outcome": "No",
-          "price": 0.997,
-          "value": 10.967,
-          "timestamp": 1794451521,
-          "slug": "will-there-be-no-head-of-state-of-venezuela-end-of-2026",
           "event_slug": "venezuela-leader-end-of-2026",
           "result": "ongoing"
         }
@@ -5237,5 +5237,5 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-12T10:12:23.740Z"
+  "lastUpdate": "2026-11-12T10:21:07.287Z"
 }
