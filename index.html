@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check 策略看板</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f7;
+            color: #1d1d1f;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container { max-width: 1400px; margin: 0 auto; }
+        header {
+            text-align: center;
+            padding: 30px 0 20px;
+            margin-bottom: 30px;
+        }
+        h1 {
+            font-size: 2.5em;
+            font-weight: 700;
+            color: #1d1d1f;
+            margin-bottom: 8px;
+        }
+        .subtitle { color: #86868b; font-size: 1.1em; }
+        .live-time {
+            margin-top: 12px;
+            font-size: 1.05em;
+            color: #1d1d1f;
+            font-weight: 500;
+        }
+        .live-time span {
+            display: inline-block;
+            background: #e8e8ed;
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-family: 'SF Mono', 'Menlo', monospace;
+            font-size: 0.95em;
+        }
+        .live-dot {
+            display: inline-block;
+            width: 8px; height: 8px;
+            background: #34c759;
+            border-radius: 50%;
+            margin-right: 6px;
+            animation: pulse 2s infinite;
+            vertical-align: middle;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-bottom: 30px;
+        }
+        .stat-card {
+            background: #fff;
+            border-radius: 16px;
+            padding: 24px;
+            text-align: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+        .stat-value {
+            font-size: 2.5em;
+            font-weight: 700;
+            color: #1d1d1f;
+        }
+        .stat-value.green { color: #34c759; }
+        .stat-value.orange { color: #ff9500; }
+        .stat-label { color: #86868b; margin-top: 4px; font-size: 0.95em; }
+        
+        .section {
+            background: #fff;
+            border-radius: 16px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+        .section-title {
+            font-size: 1.2em;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: #1d1d1f;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .match-card {
+            border: 1px solid #e5e5ea;
+            border-radius: 12px;
+            padding: 18px;
+            margin-bottom: 14px;
+            transition: box-shadow 0.2s;
+        }
+        .match-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+        .match-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .match-title {
+            font-weight: 600;
+            font-size: 1.05em;
+            color: #1d1d1f;
+        }
+        .match-meta {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 0.85em;
+            color: #86868b;
+        }
+        .match-link a {
+            color: #0066cc;
+            text-decoration: none;
+            font-size: 0.85em;
+        }
+        .match-link a:hover { text-decoration: underline; }
+        
+        .prediction-row {
+            display: flex;
+            align-items: center;
+            padding: 8px 0;
+            border-top: 1px solid #f2f2f7;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .prediction-row:first-of-type { border-top: none; }
+        .pred-type {
+            font-size: 0.8em;
+            color: #86868b;
+            min-width: 70px;
+            font-weight: 500;
+        }
+        .pred-direction {
+            flex: 1;
+            font-weight: 500;
+            color: #1d1d1f;
+        }
+        .pred-price {
+            font-size: 0.82em;
+            font-weight: 600;
+            color: #0066cc;
+            background: #e8f0fe;
+            padding: 2px 8px;
+            border-radius: 8px;
+            white-space: nowrap;
+        }
+        .pred-consensus {
+            font-size: 0.85em;
+            color: #86868b;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 0.78em;
+            font-weight: 600;
+        }
+        .badge-win { background: #e3f9e5; color: #1b8c2e; }
+        .badge-loss { background: #ffe5e5; color: #d32f2f; }
+        .badge-pending { background: #fff3e0; color: #e65100; }
+        
+        .overall-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.82em;
+            font-weight: 600;
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 40px;
+            color: #86868b;
+        }
+        
+        .refresh-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #0066cc;
+            border: none;
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 1.2em;
+            box-shadow: 0 4px 12px rgba(0,102,204,0.3);
+            transition: transform 0.2s;
+        }
+        .refresh-btn:hover { transform: scale(1.1); }
+        
+        .data-update {
+            margin-top: 8px;
+            font-size: 0.88em;
+            color: #86868b;
+        }
+        
+        .refresh-btn-inline {
+            display: inline-block;
+            margin-left: 12px;
+            background: #0066cc;
+            color: white;
+            border: none;
+            padding: 6px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 0.9em;
+            font-weight: 500;
+            transition: all 0.2s;
+            vertical-align: middle;
+        }
+        .refresh-btn-inline:hover {
+            background: #0055b3;
+            transform: scale(1.05);
+        }
+        .refresh-btn-inline:active {
+            transform: scale(0.95);
+        }
+        .refresh-btn-inline.loading {
+            opacity: 0.6;
+            pointer-events: none;
+        }
+        
+
+        
+        .time-range {
+            text-align: center;
+            color: #86868b;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Check 策略看板</h1>
+            <p class="subtitle">聪明钱按需分析 · 动态识别共识方向</p>
+            <div class="live-time">
+                <span><span class="live-dot"></span><span id="liveClock">--</span></span>
+            </div>
+            <div class="data-update">数据更新: <span id="lastUpdate">-</span></div>
+        </header>
+        
+        <div class="time-range">
+            📅 显示近 48 小时数据
+            <button class="refresh-btn-inline" onclick="manualRefresh()" id="refreshBtn">🔄 手动刷新</button>
+
+        </div>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value" id="totalMatches">0</div>
+                <div class="stat-label">分析场次</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="totalPredictions">0</div>
+                <div class="stat-label">总预测数</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value green" id="winRate">-</div>
+                <div class="stat-label">胜率</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title">📊 历史分析记录</h2>
+            <div id="historyTable">
+                <div class="empty-state">暂无数据</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title">💡 策略说明</h2>
+            <div style="line-height: 1.8; color: #6e6e73;">
+                <p><strong style="color:#1d1d1f">Check 策略</strong>是按需分析的聪明钱共识策略：</p>
+                <ul style="margin-left: 20px; margin-top: 10px;">
+                    <li>🎯 每次实时分析指定市场的所有交易者</li>
+                    <li>🧠 动态识别聪明钱（高交易量 + 高频交易）</li>
+                    <li>📈 分析聪明钱在该市场的共识方向</li>
+                    <li>✅ 聪明钱标准：最低 $200 交易量，最少 2 笔交易</li>
+                    <li>🔄 自动验证：比赛结束后自动查询结果并更新胜率</li>
+                </ul>
+            </div>
+        </div>
+        
+
+    </div>
+    
+    <button class="refresh-btn" onclick="loadData()" title="刷新">🔄</button>
+    
+    <script>
+        // 实时时钟
+        function updateClock() {
+            const now = new Date();
+            const str = now.toLocaleString('zh-CN', {
+                year: 'numeric', month: '2-digit', day: '2-digit',
+                hour: '2-digit', minute: '2-digit', second: '2-digit',
+                hour12: false
+            });
+            document.getElementById('liveClock').textContent = str;
+        }
+        updateClock();
+        setInterval(updateClock, 1000);
+        
+        async function loadData() {
+            try {
+                const res = await fetch('check-data.json?t=' + Date.now());
+                const data = await res.json();
+                renderData(data);
+            } catch (e) {
+                renderEmptyState();
+            }
+        }
+        
+        function formatDate(ts) {
+            if (!ts) return '-';
+            const d = new Date(ts);
+            return d.toLocaleString('zh-CN', {
+                month: '2-digit', day: '2-digit',
+                hour: '2-digit', minute: '2-digit'
+            });
+        }
+        
+        function renderData(data) {
+            document.getElementById('totalMatches').textContent = data.totalMatches || 0;
+            document.getElementById('totalPredictions').textContent = data.totalPredictions || 0;
+            document.getElementById('winRate').textContent = data.winRate ? data.winRate + '%' : '-';
+
+            
+            // History
+            if (data.history && data.history.length > 0) {
+                let html = '';
+                for (const h of data.history) {
+                    const totalPreds = h.predictions_list ? h.predictions_list.length : 1;
+                    const totalHits = h.predictions_list ? h.predictions_list.filter(p => p.hit).length : (h.hits || 0);
+                    const acc = totalPreds > 0 ? Math.round(totalHits / totalPreds * 100) : 0;
+                    const overallClass = acc >= 60 ? 'badge-win' : acc >= 30 ? 'badge-pending' : 'badge-loss';
+                    
+                    html += `<div class="match-card">
+                        <div class="match-header">
+                            <div>
+                                <span class="match-title">${h.sport} ${h.match}</span>
+                            </div>
+                            <div class="match-meta">
+                                <span>${formatDate(h.timestamp)}</span>
+                                <span class="overall-badge ${overallClass}">${totalHits}/${totalPreds} (${acc}%)</span>
+                                ${h.link ? `<span class="match-link"><a href="${h.link}" target="_blank">🔗 市场</a></span>` : ''}
+                            </div>
+                        </div>`;
+                    
+                    if (h.predictions_list && h.predictions_list.length > 0) {
+                        for (const p of h.predictions_list) {
+                            const hitBadge = p.hit === true ? '<span class="badge badge-win">✅ 命中</span>' :
+                                           p.hit === false ? '<span class="badge badge-loss">❌ 未中</span>' :
+                                           '<span class="badge badge-pending">⏳ 待验证</span>';
+                            const priceTag = p.price ? `<span class="pred-price">${p.price}</span>` : '';
+                            html += `<div class="prediction-row">
+                                <span class="pred-type">${p.type || '-'}</span>
+                                <span class="pred-direction">${p.direction || '-'}</span>
+                                ${priceTag}
+                                <span class="pred-consensus">${p.consensus || ''}</span>
+                                ${hitBadge}
+                            </div>`;
+                        }
+                    } else {
+                        // 兼容旧格式
+                        const pred = h.prediction || h.direction || '-';
+                        const result = h.result || '-';
+                        const hitBadge = h.hits > 0 ? '<span class="badge badge-win">✅ 命中</span>' : '<span class="badge badge-loss">❌ 未中</span>';
+                        html += `<div class="prediction-row">
+                            <span class="pred-type">胜负</span>
+                            <span class="pred-direction">${pred}</span>
+                            <span class="pred-consensus">结果: ${result}</span>
+                            ${hitBadge}
+                        </div>`;
+                    }
+                    
+                    html += `</div>`;
+                }
+                document.getElementById('historyTable').innerHTML = html;
+            }
+            
+            // Pending → merge into history
+            if (data.pending && data.pending.length > 0) {
+                let html = document.getElementById('historyTable').innerHTML;
+                if (html.includes('暂无数据')) html = '';
+                for (const p of data.pending) {
+                    const totalPreds = p.predictions_list ? p.predictions_list.length : 1;
+                    html += `<div class="match-card">
+                        <div class="match-header">
+                            <div>
+                                <span class="match-title">${p.sport} ${p.match}</span>
+                            </div>
+                            <div class="match-meta">
+                                <span>${formatDate(p.timestamp)}</span>
+                                <span class="badge badge-pending">⏳ 待验证</span>
+                                ${p.link ? `<span class="match-link"><a href="${p.link}" target="_blank">🔗 市场</a></span>` : ''}
+                            </div>
+                        </div>`;
+                    
+                    if (p.predictions_list && p.predictions_list.length > 0) {
+                        for (const pred of p.predictions_list) {
+                            const priceTag = pred.price ? `<span class="pred-price">${pred.price}</span>` : '';
+                            const noteTag = pred.note ? `<span class="pred-note">${pred.note}</span>` : '';
+                            html += `<div class="prediction-row">
+                                <span class="pred-type">${pred.type || '-'}</span>
+                                <span class="pred-direction">${pred.direction || '-'}</span>
+                                ${priceTag}
+                                <span class="pred-consensus">${pred.consensus || ''}</span>
+                                <span class="badge badge-pending">⏳ 待验证</span>
+                                ${noteTag}
+                            </div>`;
+                        }
+                    }
+                    
+                    html += `</div>`;
+                }
+                document.getElementById('historyTable').innerHTML = html;
+            }
+            
+            document.getElementById('lastUpdate').textContent = data.lastUpdate || '-';
+        }
+        
+        function renderEmptyState() {
+            document.getElementById('lastUpdate').textContent = new Date().toLocaleString('zh-CN');
+        }
+        
+        async function manualRefresh() {
+            const btn = document.getElementById('refreshBtn');
+            btn.textContent = '⏳ 刷新中...';
+            btn.classList.add('loading');
+            try {
+                await loadData();
+                btn.textContent = '✅ 已刷新';
+                setTimeout(() => {
+                    btn.textContent = '🔄 手动刷新';
+                    btn.classList.remove('loading');
+                }, 2000);
+            } catch(e) {
+                btn.textContent = '❌ 刷新失败';
+                setTimeout(() => {
+                    btn.textContent = '🔄 手动刷新';
+                    btn.classList.remove('loading');
+                }, 2000);
+            }
+        }
+        
+        // 验证所有待验证比赛
+        async function verifyAll() {
+            const btn = document.getElementById('verifyBtn');
+            const status = document.getElementById('verifyStatus');
+            btn.textContent = '⏳ 验证中...';
+            btn.classList.add('loading');
+            status.className = 'verify-status show info';
+            status.textContent = '正在查询比赛结果...';
+            
+            try {
+                const res = await fetch('check-data.json?t=' + Date.now());
+                const data = await res.json();
+                
+                if (!data.pending || data.pending.length === 0) {
+                    status.className = 'verify-status show info';
+                    status.textContent = '没有待验证的比赛';
+                    btn.textContent = '✅ 验证所有待验证';
+                    btn.classList.remove('loading');
+                    return;
+                }
+                
+                let verified = 0;
+                let results = [];
+                const total = data.pending.length;
+                
+                // 处理每场比赛，带超时
+                for (let i = 0; i < data.pending.length; i++) {
+                    const p = data.pending[i];
+                    const slug = p.slug;
+                    
+                    status.textContent = `验证中... (${i + 1}/${total}) ${p.match}`;
+                    
+                    if (!slug) {
+                        results.push(`${p.match}: 无slug，跳过`);
+                        continue;
+                    }
+                    
+                    try {
+                        // 带超时的查询
+                        const controller = new AbortController();
+                        const timeoutId = setTimeout(() => controller.abort(), 10000); // 10秒超时
+                        
+                        const eventUrl = `https://gamma-api.polymarket.com/events?slug=${encodeURIComponent(slug)}&limit=1`;
+                        const eventRes = await fetch(eventUrl, { signal: controller.signal });
+                        clearTimeout(timeoutId);
+                        
+                        const eventData = await eventRes.json();
+                        
+                        if (!eventData || eventData.length === 0) {
+                            results.push(`${p.match}: 未找到`);
+                            continue;
+                        }
+                        
+                        const event = eventData[0];
+                        let isResolved = event.closed;
+                        
+                        // 检查价格是否已确定
+                        if (!isResolved && event.markets && event.markets.length > 0) {
+                            const m = event.markets[0];
+                            let prices = m.outcomePrices;
+                            if (typeof prices === 'string') prices = JSON.parse(prices);
+                            if (prices && prices.length > 0) {
+                                const hasWinner = prices.some(pr => parseFloat(pr) >= 0.99);
+                                const hasLoser = prices.some(pr => parseFloat(pr) <= 0.01);
+                                if (hasWinner && hasLoser) isResolved = true;
+                            }
+                        }
+                        
+                        if (!isResolved) {
+                            results.push(`${p.match}: 未结算`);
+                            continue;
+                        }
+                        
+                        // 获取所有市场
+                        const allMarkets = event.markets || [];
+                        
+                        // 检查预测是否命中
+                        let hits = 0;
+                        let predCount = 0;
+                        if (p.predictions_list) {
+                            for (const pred of p.predictions_list) {
+                                predCount++;
+                                const type = pred.type || '';
+                                const direction = (pred.direction || '').toLowerCase();
+                                
+                                let matchingMarket = null;
+                                
+                                // 根据预测类型找到对应市场
+                                if (type.includes('胜负') || type === '') {
+                                    matchingMarket = allMarkets[0];
+                                } else if (type.includes('大小球')) {
+                                    const line = type.match(/[\d.]+/)?.[0];
+                                    if (line) {
+                                        matchingMarket = allMarkets.find(m => 
+                                            m.question && m.question.toLowerCase().includes(`o/u ${line}`)
+                                        );
+                                    }
+                                } else if (type.includes('让球')) {
+                                    const line = type.match(/[\d.]+/)?.[0];
+                                    if (line) {
+                                        matchingMarket = allMarkets.find(m => 
+                                            m.question && m.question.toLowerCase().includes('spread') && m.question.includes(line)
+                                        );
+                                    }
+                                }
+                                
+                                if (matchingMarket) {
+                                    let outcomes = matchingMarket.outcomes;
+                                    let prices = matchingMarket.outcomePrices;
+                                    if (typeof outcomes === 'string') outcomes = JSON.parse(outcomes);
+                                    if (typeof prices === 'string') prices = JSON.parse(prices);
+                                    
+                                    const winnerIdx = prices.findIndex(pr => parseFloat(pr) > 0.9);
+                                    if (winnerIdx >= 0) {
+                                        const winner = outcomes[winnerIdx].toLowerCase();
+                                        if (direction.includes(winner) || winner.includes(direction)) {
+                                            pred.hit = true;
+                                            hits++;
+                                        } else {
+                                            pred.hit = false;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        
+                        // 移到历史记录
+                        const historyItem = {
+                            timestamp: p.timestamp,
+                            date: p.date,
+                            sport: p.sport,
+                            match: p.match,
+                            link: p.link,
+                            slug: slug,
+                            predictions_list: p.predictions_list,
+                            predictions: predCount,
+                            hits: hits,
+                            accuracy: predCount > 0 ? Math.round(hits / predCount * 100) : 0
+                        };
+                        
+                        data.history.push(historyItem);
+                        verified++;
+                        results.push(`✅ ${p.match}: ${hits}/${predCount}命中`);
+                    } catch(e) {
+                        if (e.name === 'AbortError') {
+                            results.push(`${p.match}: 查询超时`);
+                        } else {
+                            results.push(`${p.match}: 查询失败 - ${e.message}`);
+                        }
+                    }
+                }
+                
+                // 移除已验证的
+                data.pending = data.pending.filter(p => {
+                    return !results.some(r => r.includes(p.match) && r.includes('✅'));
+                });
+                
+                // 更新统计
+                data.totalMatches = data.history.length;
+                data.totalPredictions = data.history.reduce((sum, h) => sum + (h.predictions || 1), 0);
+                const totalHits = data.history.reduce((sum, h) => sum + (h.hits || 0), 0);
+                data.winRate = data.totalPredictions > 0 ? Math.round(totalHits / data.totalPredictions * 1000) / 10 : 0;
+                data.pendingCount = data.pending.length;
+                
+                const now = new Date();
+                const gmt8 = new Date(now.getTime() + 8 * 60 * 60 * 1000);
+                data.lastUpdate = gmt8.toISOString().replace('T', ' ').slice(0, 19);
+                
+                renderData(data);
+                
+                status.className = 'verify-status show success';
+                status.innerHTML = `验证完成！<br>${results.join('<br>')}`;
+                btn.textContent = '✅ 验证完成';
+                
+                setTimeout(() => {
+                    btn.textContent = '✅ 验证所有待验证';
+                    btn.classList.remove('loading');
+                }, 3000);
+                
+            } catch(e) {
+                status.className = 'verify-status show error';
+                status.textContent = '验证失败: ' + e.message;
+                btn.textContent = '❌ 验证失败';
+                setTimeout(() => {
+                    btn.textContent = '✅ 验证所有待验证';
+                    btn.classList.remove('loading');
+                }, 3000);
+            }
+        }
+        
+        loadData();
+        setInterval(loadData, 60000);
+    </script>
+</body>
+</html>
