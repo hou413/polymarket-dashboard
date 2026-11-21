@@ -1,9 +1,9 @@
 {
-  "totalMatches": 31,
-  "totalPredictions": 75,
-  "winRate": 44.0,
+  "totalMatches": 32,
+  "totalPredictions": 78,
+  "winRate": 42.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 00:49:00",
+  "lastUpdate": "2026-11-22 01:06:00",
   "history": [
     {
       "date": "2026-11-19",
@@ -1067,6 +1067,45 @@
           "consensus": "1人 净额$7,098",
           "hit": null,
           "note": "🟢高可信度 - 负收益团队"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795251600000,
+      "sport": "⚽",
+      "match": "Parma vs Roma",
+      "link": "https://polymarket.com/event/sea-par-rom-2026-11-21",
+      "slug": "sea-par-rom-2026-11-21",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Roma",
+          "price": "81.5¢",
+          "consensus": "5人 净额$50,025 (4团队, 3.7:1, 🔥晚期3人)",
+          "hit": null,
+          "note": "🟡中可信度 - 最强信号"
+        },
+        {
+          "type": "大小球 3.5",
+          "direction": "Over",
+          "price": "51.0¢",
+          "consensus": "2人 净额$11,713 (2团队, 3.5:1)",
+          "hit": null,
+          "note": "🟡中可信度"
+        },
+        {
+          "type": "让分 -1.5",
+          "direction": "Parma覆盖",
+          "price": "42.5¢",
+          "consensus": "4人 净额$10,922 (3团队, 🔥晚期4人)",
+          "hit": null,
+          "note": "🟡中可信度 - Roma可能只赢1球"
         }
       ]
     }
