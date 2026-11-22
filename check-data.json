@@ -1,9 +1,9 @@
 {
   "totalMatches": 32,
   "totalPredictions": 78,
-  "winRate": 42.3,
+  "winRate": 51.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 01:06:00",
+  "lastUpdate": "2026-11-22 09:51:00",
   "history": [
     {
       "date": "2026-11-19",
@@ -808,8 +808,8 @@
           "direction": "Man City",
           "price": "71.5¢",
           "consensus": "13人 净额$38,320 (3团队)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         }
       ]
     },
@@ -821,8 +821,8 @@
       "link": "https://polymarket.com/event/epl-che-lee-2026-11-21",
       "slug": "epl-che-lee-2026-11-21",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -831,24 +831,24 @@
           "direction": "Chelsea",
           "price": "47.5¢",
           "consensus": "23人 净额$218,491 (5团队, 🔥晚期7人)",
-          "hit": null,
-          "note": "🟡中可信度 - 信号反转! 赛前资金暴增"
+          "hit": false,
+          "note": "🟡中可信度 - 信号反转! 赛前资金暴增 ❌"
         },
         {
           "type": "大小球 2.5",
           "direction": "Under",
           "price": "48.5¢",
           "consensus": "3人 净额$34,598 (3团队)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         },
         {
           "type": "大小球 3.5",
           "direction": "Over",
           "price": "29.5¢",
           "consensus": "1人 净额$2,753 (🔥晚期1人)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         }
       ]
     },
@@ -860,8 +860,8 @@
       "link": "https://polymarket.com/event/epl-bou-not-2026-11-21",
       "slug": "epl-bou-not-2026-11-21",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 3,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -870,24 +870,24 @@
           "direction": "Bournemouth",
           "price": "50.5¢",
           "consensus": "7人 净额$37,835 (3团队)",
-          "hit": null,
-          "note": "🟡中可信度 - 最强信号"
+          "hit": true,
+          "note": "🟡中可信度 - 最强信号 ✅"
         },
         {
           "type": "大小球 2.5",
           "direction": "Under",
           "price": "52.5¢",
           "consensus": "1人 净额$3,067",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         },
         {
           "type": "平局",
           "direction": "No",
           "price": "73.5¢",
           "consensus": "1人 净额$716",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         }
       ]
     },
@@ -977,8 +977,8 @@
       "link": "https://polymarket.com/event/epl-new-ars-2026-11-21",
       "slug": "epl-new-ars-2026-11-21",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -987,24 +987,24 @@
           "direction": "Arsenal",
           "price": "64.5¢",
           "consensus": "21人 净额$190,741 (5团队, 14.8:1, 🔥晚期2人)",
-          "hit": null,
-          "note": "🟢高可信度 - 2正收益团队, 最强信号"
+          "hit": false,
+          "note": "🟢高可信度 - 2正收益团队, 最强信号 ❌"
         },
         {
           "type": "大小球 2.5",
           "direction": "Over",
           "price": "56.5¢",
           "consensus": "6人 净额$140,714 (4团队, 5.3:1, 🔥晚期2人)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": true,
+          "note": "🟢高可信度 ✅"
         },
         {
           "type": "让分 -1.5",
           "direction": "Arsenal",
           "price": "37.5¢",
           "consensus": "3人 净额$6,066 (2团队, 🔥晚期1人)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         }
       ]
     },
@@ -1026,8 +1026,8 @@
           "direction": "Celta覆盖",
           "price": "35.5¢",
           "consensus": "1人 净额$1,525",
-          "hit": null,
-          "note": "🟡中可信度 - 皇马大热市场有限"
+          "hit": false,
+          "note": "🟡中可信度 - 皇马大热市场有限 ❌"
         }
       ]
     },
@@ -1078,8 +1078,8 @@
       "link": "https://polymarket.com/event/sea-par-rom-2026-11-21",
       "slug": "sea-par-rom-2026-11-21",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1088,24 +1088,24 @@
           "direction": "Roma",
           "price": "81.5¢",
           "consensus": "5人 净额$50,025 (4团队, 3.7:1, 🔥晚期3人)",
-          "hit": null,
-          "note": "🟡中可信度 - 最强信号"
+          "hit": true,
+          "note": "🟡中可信度 - 最强信号 ✅"
         },
         {
           "type": "大小球 3.5",
           "direction": "Over",
           "price": "51.0¢",
           "consensus": "2人 净额$11,713 (2团队, 3.5:1)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         },
         {
           "type": "让分 -1.5",
           "direction": "Parma覆盖",
           "price": "42.5¢",
           "consensus": "4人 净额$10,922 (3团队, 🔥晚期4人)",
-          "hit": null,
-          "note": "🟡中可信度 - Roma可能只赢1球"
+          "hit": false,
+          "note": "🟡中可信度 - Roma可能只赢1球 ❌"
         }
       ]
     }
