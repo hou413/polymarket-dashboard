@@ -1,9 +1,9 @@
 {
-  "totalMatches": 36,
-  "totalPredictions": 90,
-  "winRate": 44.4,
+  "totalMatches": 39,
+  "totalPredictions": 98,
+  "winRate": 40.8,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 09:58:00",
+  "lastUpdate": "2026-11-22 12:43:00",
   "history": [
     {
       "date": "2026-11-19",
@@ -1262,6 +1262,115 @@
           "consensus": "7人 净额$33,433 (∞:1)",
           "hit": null,
           "note": "🟢高可信度"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795287600000,
+      "sport": "🏀",
+      "match": "Celtics vs Kings",
+      "link": "https://polymarket.com/event/nba-bos-sac-2026-11-21",
+      "slug": "nba-bos-sac-2026-11-21",
+      "predictions": 2,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 217.5",
+          "direction": "Over",
+          "price": "49.5¢",
+          "consensus": "7人 净额$162,072 (8.3:1)",
+          "hit": null,
+          "note": "🟢高可信度 - 最强信号"
+        },
+        {
+          "type": "大小球 219.5",
+          "direction": "Over",
+          "price": "44.5¢",
+          "consensus": "3人 净额$47,951 (3.6:1)",
+          "hit": null,
+          "note": "🟢高可信度"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795327200000,
+      "sport": "⚽",
+      "match": "Hull City vs Brighton",
+      "link": "https://polymarket.com/event/epl-hul-bri-2026-11-22",
+      "slug": "epl-hul-bri-2026-11-22",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Brighton",
+          "price": "64.5¢",
+          "consensus": "3人 净额$4,702",
+          "hit": null,
+          "note": "🟡中可信度"
+        },
+        {
+          "type": "让分 -1.5",
+          "direction": "Brighton",
+          "price": "39.5¢",
+          "consensus": "2人 净额$4,000",
+          "hit": null,
+          "note": "🟡中可信度"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "Over",
+          "price": "56.5¢",
+          "consensus": "2人 净额$3,553",
+          "hit": null,
+          "note": "🟡中可信度"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795336200000,
+      "sport": "⚽",
+      "match": "Liverpool vs Man United",
+      "link": "https://polymarket.com/event/epl-liv-mun-2026-11-22",
+      "slug": "epl-liv-mun-2026-11-22",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Man United",
+          "price": "21.5¢",
+          "consensus": "4人 净额$50,816 (∞:1)",
+          "hit": null,
+          "note": "🟡中可信度 - 最强信号"
+        },
+        {
+          "type": "胜负",
+          "direction": "Liverpool不赢",
+          "price": "43.5¢",
+          "consensus": "6人 净额$16,667",
+          "hit": null,
+          "note": "🟡中可信度"
+        },
+        {
+          "type": "大小球 3.5",
+          "direction": "Over",
+          "price": "42.5¢",
+          "consensus": "2人 净额$3,576",
+          "hit": null,
+          "note": "🟡中可信度"
         }
       ]
     }
