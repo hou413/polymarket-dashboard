@@ -1,9 +1,9 @@
 {
   "totalMatches": 39,
   "totalPredictions": 98,
-  "winRate": 52.0,
+  "winRate": 50.0,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 13:48:00",
+  "lastUpdate": "2026-11-22 15:28:00",
   "history": [
     {
       "date": "2026-11-19",
@@ -1039,8 +1039,8 @@
       "link": "https://polymarket.com/event/lal-bar-vil-2026-11-22",
       "slug": "lal-bar-vil-2026-11-22",
       "predictions": 3,
-      "hits": 2,
-      "accuracy": 67,
+      "hits": 0,
+      "accuracy": 0,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1049,16 +1049,16 @@
           "direction": "Over",
           "price": "48.5¢",
           "consensus": "2人 净额$6,087 (正收益团队+$457)",
-          "hit": true,
-          "note": "🟢高可信度 - 3正收益交易者 ✅"
+          "hit": null,
+          "note": "🟢高可信度 - 3正收益交易者"
         },
         {
           "type": "大小球 3.5",
           "direction": "Over",
           "price": "66.5¢",
           "consensus": "2人 净额$1,548 (正收益团队)",
-          "hit": true,
-          "note": "🟢高可信度 ✅"
+          "hit": null,
+          "note": "🟢高可信度"
         },
         {
           "type": "胜负",
