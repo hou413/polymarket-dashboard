@@ -1,41 +1,10 @@
 {
   "totalMatches": 36,
-  "totalPredictions": 92,
-  "winRate": 33.7,
+  "totalPredictions": 94,
+  "winRate": 33.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 23:02:00",
+  "lastUpdate": "2026-11-22 15:18:49",
   "history": [
-    {
-      "date": "2026-11-19",
-      "timestamp": 1795115160000,
-      "sport": "🎮",
-      "match": "GamerLegion vs Inner Circle",
-      "link": "https://polymarket.com/event/cs2-gl1-ice-2026-11-19",
-      "slug": "cs2-gl1-ice-2026-11-19",
-      "predictions": 2,
-      "hits": 1,
-      "accuracy": 50,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "胜负 BO3",
-          "direction": "Inner Circle",
-          "price": "38.5¢",
-          "consensus": "21人 净额$365,455 (9团队)",
-          "hit": false,
-          "note": "🟢高可信度 - 2正收益团队 ❌"
-        },
-        {
-          "type": "Map 1",
-          "direction": "Inner Circle",
-          "price": "39.5¢",
-          "consensus": "11人 净额$26,776",
-          "hit": true,
-          "note": "🟢高可信度 ✅"
-        }
-      ]
-    },
     {
       "date": "2026-11-20",
       "timestamp": 1795169040000,
@@ -1276,6 +1245,53 @@
           "direction": "No",
           "price": "-",
           "consensus": "$676 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795360729877,
+      "sport": "⚽",
+      "match": "SV Werder Bremen vs. Hamburger SV",
+      "link": "https://polymarket.com/event/bun-wer-hsv-2026-11-22-more-markets",
+      "slug": "bun-wer-hsv-2026-11-22-more-markets",
+      "predictions": 4,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 3.5",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "$17,518 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "$6,026 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        },
+        {
+          "type": "大小球 4.5",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "$3,015 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        },
+        {
+          "type": "BTTS",
+          "direction": "No",
+          "price": "-",
+          "consensus": "$972 (∞:1)",
           "hit": null,
           "note": "🟡 中可信度 - 自动扫描"
         }
