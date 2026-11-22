@@ -1,9 +1,9 @@
 {
-  "totalMatches": 39,
-  "totalPredictions": 101,
+  "totalMatches": 40,
+  "totalPredictions": 104,
   "winRate": 30.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 18:22:28",
+  "lastUpdate": "2026-11-22 19:23:32",
   "history": [
     {
       "date": "2026-11-20",
@@ -1393,6 +1393,45 @@
           "direction": "Under",
           "price": "-",
           "consensus": "$9,274 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795375412107,
+      "sport": "⚽",
+      "match": "Getafe CF vs. Club Atlético de Madrid",
+      "link": "https://polymarket.com/event/lal-get-mad-2026-11-22-more-markets",
+      "slug": "lal-get-mad-2026-11-22-more-markets",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 2.",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "$24,151 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        },
+        {
+          "type": "大小球 1.",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "$12,742 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        },
+        {
+          "type": "大小球 3.",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "$10,760 (∞:1)",
           "hit": null,
           "note": "🟡 中可信度 - 自动扫描"
         }
