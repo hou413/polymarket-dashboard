@@ -1,9 +1,9 @@
 {
-  "totalMatches": 32,
-  "totalPredictions": 84,
+  "totalMatches": 33,
+  "totalPredictions": 85,
   "winRate": 37.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 20:40:00",
+  "lastUpdate": "2026-11-22 13:14:21",
   "history": [
     {
       "date": "2026-11-19",
@@ -1154,6 +1154,29 @@
           "consensus": "1人 净额$5,571 (∞:1)",
           "hit": null,
           "note": "🟡中可信度"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795353261326,
+      "sport": "⚽",
+      "match": "Bologna FC 1909 vs. Udinese Calcio",
+      "link": "https://polymarket.com/event/sea-bol-udi-2026-11-22-more-markets",
+      "slug": "sea-bol-udi-2026-11-22-more-markets",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡 中可信度"
         }
       ]
     }
