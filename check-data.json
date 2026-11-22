@@ -1,9 +1,9 @@
 {
-  "totalMatches": 35,
-  "totalPredictions": 87,
+  "totalMatches": 36,
+  "totalPredictions": 90,
   "winRate": 37.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 13:16:05",
+  "lastUpdate": "2026-11-22 14:16:43",
   "history": [
     {
       "date": "2026-11-19",
@@ -1223,6 +1223,45 @@
           "consensus": "自动扫描",
           "hit": null,
           "note": "🟡 中可信度"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795357003136,
+      "sport": "⚽",
+      "match": "Real Racing Club vs. Real Sociedad de Fútbol",
+      "link": "https://polymarket.com/event/lal-rrc-rso-2026-11-22-more-markets",
+      "slug": "lal-rrc-rso-2026-11-22-more-markets",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "$1,923 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        },
+        {
+          "type": "胜负",
+          "direction": "No",
+          "price": "-",
+          "consensus": "$676 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        },
+        {
+          "type": "胜负",
+          "direction": "No",
+          "price": "-",
+          "consensus": "$676 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
         }
       ]
     }
