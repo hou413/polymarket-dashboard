@@ -1,9 +1,9 @@
 {
-  "totalMatches": 37,
-  "totalPredictions": 95,
+  "totalMatches": 38,
+  "totalPredictions": 98,
   "winRate": 33.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 16:20:34",
+  "lastUpdate": "2026-11-22 16:21:24",
   "history": [
     {
       "date": "2026-11-20",
@@ -1315,6 +1315,45 @@
           "direction": "Under",
           "price": "-",
           "consensus": "$139,959 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795364484682,
+      "sport": "⚽",
+      "match": "CA Osasuna vs. Málaga CF",
+      "link": "https://polymarket.com/event/lal-osa-mala-2026-11-22-more-markets",
+      "slug": "lal-osa-mala-2026-11-22-more-markets",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "CA Osasuna",
+          "price": "-",
+          "consensus": "$3,571 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        },
+        {
+          "type": "大小球 1.5",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "$2,451 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "$1,502 (∞:1)",
           "hit": null,
           "note": "🟡 中可信度 - 自动扫描"
         }
