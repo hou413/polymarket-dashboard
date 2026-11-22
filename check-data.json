@@ -1,9 +1,9 @@
 {
-  "totalMatches": 33,
-  "totalPredictions": 82,
+  "totalMatches": 32,
+  "totalPredictions": 81,
   "winRate": 50,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 10:27:56",
+  "lastUpdate": "2026-11-22 10:42:38",
   "history": [
     {
       "date": "2026-11-19",
@@ -1112,9 +1112,9 @@
     },
     {
       "date": "2026-11-22",
-      "timestamp": 1795343232125,
+      "timestamp": 1795344158144,
       "sport": "⚽",
-      "match": "Juventus FC vs. Venezia FC - More Markets",
+      "match": "Juventus FC vs. Venezia FC",
       "link": "https://polymarket.com/event/sea-juv-ven-2026-11-22-more-markets",
       "slug": "sea-juv-ven-2026-11-22-more-markets",
       "predictions": 1,
@@ -1124,35 +1124,12 @@
       "prediction": "",
       "predictions_list": [
         {
-          "type": "10 个（胜负4 + 让分2 + 大小球6）",
+          "type": "胜负",
           "direction": "Juventus FC",
           "price": "-",
-          "consensus": "$23,743 vs $0 (∞:1)",
+          "consensus": "自动扫描",
           "hit": null,
-          "note": "🟡 中可信度 - 自动扫描"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795343276452,
-      "sport": "⚽",
-      "match": "Juventus FC vs. Venezia FC",
-      "link": "https://polymarket.com/event/sea-juv-ven-2026-11-22",
-      "slug": "sea-juv-ven-2026-11-22",
-      "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "10 个（胜负5 + 让分2 + 大小球6）",
-          "direction": "No",
-          "price": "-",
-          "consensus": "$88,250 vs $0 (∞:1)",
-          "hit": null,
-          "note": "🟡 中可信度 - 自动扫描"
+          "note": "🟡 中可信度"
         }
       ]
     }
