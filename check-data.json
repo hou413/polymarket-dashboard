@@ -1,9 +1,9 @@
 {
-  "totalMatches": 36,
-  "totalPredictions": 94,
+  "totalMatches": 37,
+  "totalPredictions": 95,
   "winRate": 33.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 15:18:49",
+  "lastUpdate": "2026-11-22 16:20:34",
   "history": [
     {
       "date": "2026-11-20",
@@ -1292,6 +1292,29 @@
           "direction": "No",
           "price": "-",
           "consensus": "$972 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795364434628,
+      "sport": "⚽",
+      "match": "AC Milan vs. Frosinone Calcio",
+      "link": "https://polymarket.com/event/sea-mil-fro-2026-11-22-more-markets",
+      "slug": "sea-mil-fro-2026-11-22-more-markets",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 3.5",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "$139,959 (∞:1)",
           "hit": null,
           "note": "🟡 中可信度 - 自动扫描"
         }
