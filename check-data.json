@@ -1,9 +1,9 @@
 {
   "totalMatches": 39,
   "totalPredictions": 98,
-  "winRate": 40.8,
+  "winRate": 52.0,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 12:43:00",
+  "lastUpdate": "2026-11-22 13:42:00",
   "history": [
     {
       "date": "2026-11-19",
@@ -1039,8 +1039,8 @@
       "link": "https://polymarket.com/event/lal-bar-vil-2026-11-22",
       "slug": "lal-bar-vil-2026-11-22",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1049,24 +1049,24 @@
           "direction": "Over",
           "price": "48.5¢",
           "consensus": "2人 净额$6,087 (正收益团队+$457)",
-          "hit": null,
-          "note": "🟢高可信度 - 3正收益交易者"
+          "hit": true,
+          "note": "🟢高可信度 - 3正收益交易者 ✅"
         },
         {
           "type": "大小球 3.5",
           "direction": "Over",
           "price": "66.5¢",
           "consensus": "2人 净额$1,548 (正收益团队)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": true,
+          "note": "🟢高可信度 ✅"
         },
         {
           "type": "胜负",
           "direction": "Barcelona不赢",
           "price": "18.5¢",
           "consensus": "1人 净额$7,098",
-          "hit": null,
-          "note": "🟢高可信度 - 负收益团队"
+          "hit": false,
+          "note": "🟢高可信度 - 负收益团队 ❌"
         }
       ]
     },
@@ -1117,8 +1117,8 @@
       "link": "https://polymarket.com/event/nba-por-nyk-2026-11-21",
       "slug": "nba-por-nyk-2026-11-21",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1127,24 +1127,24 @@
           "direction": "Over",
           "price": "50.0¢",
           "consensus": "11人 净额$217,333 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度 - 17正收益团队, 最强信号"
+          "hit": false,
+          "note": "🟢高可信度 - 17正收益团队, 最强信号 ❌"
         },
         {
           "type": "让分 +5.5",
           "direction": "Blazers",
           "price": "49.0¢",
           "consensus": "12人 净额$71,369 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": true,
+          "note": "🟢高可信度 ✅"
         },
         {
           "type": "大小球 218.5",
           "direction": "Under",
           "price": "50.0¢",
           "consensus": "4人 净额$54,184 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": true,
+          "note": "🟢高可信度 ✅"
         }
       ]
     },
@@ -1156,8 +1156,8 @@
       "link": "https://polymarket.com/event/nba-nop-sas-2026-11-21",
       "slug": "nba-nop-sas-2026-11-21",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1166,24 +1166,24 @@
           "direction": "Over",
           "price": "50.0¢",
           "consensus": "5人 净额$136,826 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度 - 17正收益团队"
+          "hit": false,
+          "note": "🟢高可信度 - 17正收益团队 ❌"
         },
         {
           "type": "让分 +3.5",
           "direction": "Pelicans",
           "price": "47.0¢",
           "consensus": "7人 净额$68,206 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         },
         {
           "type": "大小球 230.5",
           "direction": "Under",
           "price": "50.0¢",
           "consensus": "3人 净额$31,378 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": true,
+          "note": "🟢高可信度 ✅"
         }
       ]
     },
@@ -1195,8 +1195,8 @@
       "link": "https://polymarket.com/event/nba-mem-min-2026-11-21",
       "slug": "nba-mem-min-2026-11-21",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1205,24 +1205,24 @@
           "direction": "Timberwolves",
           "price": "99.5¢",
           "consensus": "11人 净额$136,738 (186:1)",
-          "hit": null,
-          "note": "🟢高可信度 - 5正收益团队"
+          "hit": true,
+          "note": "🟢高可信度 - 5正收益团队 ✅"
         },
         {
           "type": "大小球 229.5",
           "direction": "Under",
           "price": "93.0¢",
           "consensus": "7人 净额$84,893 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": true,
+          "note": "🟢高可信度 ✅"
         },
         {
           "type": "大小球 227.5",
           "direction": "Over",
           "price": "7.0¢",
           "consensus": "3人 净额$42,694 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         }
       ]
     },
@@ -1234,8 +1234,8 @@
       "link": "https://polymarket.com/event/nba-lac-dal-2026-11-21",
       "slug": "nba-lac-dal-2026-11-21",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1244,24 +1244,24 @@
           "direction": "Clippers",
           "price": "100.0¢",
           "consensus": "17人 净额$64,350 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度 - 7正收益团队"
+          "hit": true,
+          "note": "🟢高可信度 - 7正收益团队 ✅"
         },
         {
           "type": "大小球 231.5",
           "direction": "Over",
           "price": "20.5¢",
           "consensus": "3人 净额$36,401 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         },
         {
           "type": "大小球 229.5",
           "direction": "Over",
           "price": "79.5¢",
           "consensus": "7人 净额$33,433 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         }
       ]
     },
@@ -1283,16 +1283,16 @@
           "direction": "Over",
           "price": "49.5¢",
           "consensus": "7人 净额$162,072 (8.3:1)",
-          "hit": null,
-          "note": "🟢高可信度 - 最强信号"
+          "hit": false,
+          "note": "🟢高可信度 - 最强信号 ❌"
         },
         {
           "type": "大小球 219.5",
           "direction": "Over",
           "price": "44.5¢",
           "consensus": "3人 净额$47,951 (3.6:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         }
       ]
     },
@@ -1304,8 +1304,8 @@
       "link": "https://polymarket.com/event/epl-hul-bri-2026-11-22",
       "slug": "epl-hul-bri-2026-11-22",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 3,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1314,24 +1314,24 @@
           "direction": "Brighton",
           "price": "64.5¢",
           "consensus": "3人 净额$4,702",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         },
         {
           "type": "让分 -1.5",
           "direction": "Brighton",
           "price": "39.5¢",
           "consensus": "2人 净额$4,000",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         },
         {
           "type": "大小球 2.5",
           "direction": "Over",
           "price": "56.5¢",
           "consensus": "2人 净额$3,553",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         }
       ]
     },
