@@ -1,9 +1,9 @@
 {
   "totalMatches": 32,
   "totalPredictions": 83,
-  "winRate": 49.4,
+  "winRate": 37.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 18:50:00",
+  "lastUpdate": "2026-11-22 19:07:00",
   "history": [
     {
       "date": "2026-11-19",
@@ -44,8 +44,8 @@
       "link": "https://polymarket.com/event/atp-shelton-jodar-2026-11-17",
       "slug": "atp-shelton-jodar-2026-11-17",
       "predictions": 2,
-      "hits": 2,
-      "accuracy": 100,
+      "hits": 0,
+      "accuracy": 0,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -54,16 +54,16 @@
           "direction": "Ben Shelton",
           "price": "75.5¢",
           "consensus": "22人 净额$181,568 (10团队)",
-          "hit": true,
-          "note": "🟡中可信度 - 18.9:1资金优势 ✅"
+          "hit": null,
+          "note": "🟡中可信度 - 18.9:1资金优势"
         },
         {
           "type": "让分 -1.5",
           "direction": "Ben Shelton",
           "price": "50.0¢",
           "consensus": "7人 净额$25,921",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
+          "hit": null,
+          "note": "🟡中可信度"
         }
       ]
     },
@@ -231,8 +231,8 @@
       "link": "https://polymarket.com/event/atp-alcaraz-cobolli-2026-11-17",
       "slug": "atp-alcaraz-cobolli-2026-11-17",
       "predictions": 2,
-      "hits": 2,
-      "accuracy": 100,
+      "hits": 0,
+      "accuracy": 0,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -241,16 +241,16 @@
           "direction": "Carlos Alcaraz",
           "price": "80.5¢",
           "consensus": "20人 净额$43,283 (5团队)",
-          "hit": true,
-          "note": "🟢高可信度 - 6正收益团队, +$12,674最高PnL - 6正收益团队, 79.2:1资金优势 ✅"
+          "hit": null,
+          "note": "🟢高可信度 - 6正收益团队, +$12,674最高PnL - 6正收益团队, 79.2:1资金优势"
         },
         {
           "type": "让分 -1.5",
           "direction": "Carlos Alcaraz",
           "price": "61.5¢",
           "consensus": "5人 净额$18,814",
-          "hit": true,
-          "note": "🟢高可信度 - 6正收益团队, +$12,674最高PnL ✅"
+          "hit": null,
+          "note": "🟢高可信度 - 6正收益团队, +$12,674最高PnL"
         }
       ]
     },
@@ -340,8 +340,8 @@
       "link": "https://polymarket.com/event/atp-medvede-tiafoe-2026-11-17",
       "slug": "atp-medvede-tiafoe-2026-11-17",
       "predictions": 2,
-      "hits": 2,
-      "accuracy": 100,
+      "hits": 0,
+      "accuracy": 0,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -350,16 +350,16 @@
           "direction": "Medvedev",
           "price": "66.5¢",
           "consensus": "11人 净额$74,288 (3团队)",
-          "hit": true,
-          "note": "🟡中可信度 - 4团队全负收益 ✅"
+          "hit": null,
+          "note": "🟡中可信度 - 4团队全负收益"
         },
         {
           "type": "Set 1",
           "direction": "Medvedev",
           "price": "63.0¢",
           "consensus": "1人 净额$2,000",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
+          "hit": null,
+          "note": "🟡中可信度"
         }
       ]
     },
@@ -381,8 +381,8 @@
           "direction": "Prizmic",
           "price": "42.5¢",
           "consensus": "14人 净额$309,827 (6团队)",
-          "hit": false,
-          "note": "🟡中可信度 - 资金与市场赔率相反! ❌"
+          "hit": null,
+          "note": "🟡中可信度 - 资金与市场赔率相反!"
         }
       ]
     },
@@ -1017,8 +1017,8 @@
       "link": "https://polymarket.com/event/epl-hul-bri-2026-11-22",
       "slug": "epl-hul-bri-2026-11-22",
       "predictions": 3,
-      "hits": 3,
-      "accuracy": 100,
+      "hits": 0,
+      "accuracy": 0,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1027,24 +1027,24 @@
           "direction": "Brighton",
           "price": "64.5¢",
           "consensus": "3人 净额$4,702",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
+          "hit": null,
+          "note": "🟡中可信度"
         },
         {
           "type": "让分 -1.5",
           "direction": "Brighton",
           "price": "39.5¢",
           "consensus": "2人 净额$4,000",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
+          "hit": null,
+          "note": "🟡中可信度"
         },
         {
           "type": "大小球 2.5",
           "direction": "Over",
           "price": "56.5¢",
           "consensus": "2人 净额$3,553",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
+          "hit": null,
+          "note": "🟡中可信度"
         }
       ]
     },
