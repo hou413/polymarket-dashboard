@@ -1,9 +1,9 @@
 {
   "totalMatches": 36,
-  "totalPredictions": 90,
-  "winRate": 37.3,
+  "totalPredictions": 92,
+  "winRate": 33.7,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 14:16:43",
+  "lastUpdate": "2026-11-22 23:02:00",
   "history": [
     {
       "date": "2026-11-19",
@@ -1161,22 +1161,38 @@
       "date": "2026-11-22",
       "timestamp": 1795353261326,
       "sport": "⚽",
-      "match": "Bologna FC 1909 vs. Udinese Calcio",
+      "match": "Bologna vs Udinese",
       "link": "https://polymarket.com/event/sea-bol-udi-2026-11-22-more-markets",
       "slug": "sea-bol-udi-2026-11-22-more-markets",
-      "predictions": 1,
+      "predictions": 3,
       "hits": 0,
       "accuracy": 0,
       "result": "",
       "prediction": "",
       "predictions_list": [
         {
-          "type": "胜负",
+          "type": "大小球 2.5",
           "direction": "Over",
           "price": "-",
-          "consensus": "自动扫描",
+          "consensus": "$82,152 (∞:1)",
           "hit": null,
-          "note": "🟡 中可信度"
+          "note": "🟡中可信度 - 自动扫描"
+        },
+        {
+          "type": "大小球 1.5",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "$4,164 (∞:1)",
+          "hit": null,
+          "note": "🟡中可信度 - 自动扫描"
+        },
+        {
+          "type": "BTTS",
+          "direction": "No",
+          "price": "-",
+          "consensus": "$3,179 (∞:1)",
+          "hit": null,
+          "note": "🟡中可信度 - 自动扫描"
         }
       ]
     },
@@ -1184,7 +1200,7 @@
       "date": "2026-11-22",
       "timestamp": 1795353276341,
       "sport": "⚽",
-      "match": "US Sassuolo Calcio vs. Genoa CFC",
+      "match": "Sassuolo vs Genoa",
       "link": "https://polymarket.com/event/sea-sas-gen-2026-11-22-more-markets",
       "slug": "sea-sas-gen-2026-11-22-more-markets",
       "predictions": 1,
@@ -1207,7 +1223,7 @@
       "date": "2026-11-22",
       "timestamp": 1795353365560,
       "sport": "⚽",
-      "match": "FC Augsburg vs. 1. FSV Mainz 05",
+      "match": "Augsburg vs Mainz",
       "link": "https://polymarket.com/event/bun-aug-mai-2026-11-22-more-markets",
       "slug": "bun-aug-mai-2026-11-22-more-markets",
       "predictions": 1,
