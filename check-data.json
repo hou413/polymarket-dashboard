@@ -1,9 +1,9 @@
 {
-  "totalMatches": 32,
-  "totalPredictions": 78,
-  "winRate": 51.3,
+  "totalMatches": 36,
+  "totalPredictions": 90,
+  "winRate": 44.4,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 09:51:00",
+  "lastUpdate": "2026-11-22 09:58:00",
   "history": [
     {
       "date": "2026-11-19",
@@ -1106,6 +1106,162 @@
           "consensus": "4人 净额$10,922 (3团队, 🔥晚期4人)",
           "hit": false,
           "note": "🟡中可信度 - Roma可能只赢1球 ❌"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795260600000,
+      "sport": "🏀",
+      "match": "Trail Blazers vs Knicks",
+      "link": "https://polymarket.com/event/nba-por-nyk-2026-11-21",
+      "slug": "nba-por-nyk-2026-11-21",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 214.5",
+          "direction": "Over",
+          "price": "50.0¢",
+          "consensus": "11人 净额$217,333 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度 - 17正收益团队, 最强信号"
+        },
+        {
+          "type": "让分 +5.5",
+          "direction": "Blazers",
+          "price": "49.0¢",
+          "consensus": "12人 净额$71,369 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度"
+        },
+        {
+          "type": "大小球 218.5",
+          "direction": "Under",
+          "price": "50.0¢",
+          "consensus": "4人 净额$54,184 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795262400000,
+      "sport": "🏀",
+      "match": "Pelicans vs Spurs",
+      "link": "https://polymarket.com/event/nba-nop-sas-2026-11-21",
+      "slug": "nba-nop-sas-2026-11-21",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 228.5",
+          "direction": "Over",
+          "price": "50.0¢",
+          "consensus": "5人 净额$136,826 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度 - 17正收益团队"
+        },
+        {
+          "type": "让分 +3.5",
+          "direction": "Pelicans",
+          "price": "47.0¢",
+          "consensus": "7人 净额$68,206 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度"
+        },
+        {
+          "type": "大小球 230.5",
+          "direction": "Under",
+          "price": "50.0¢",
+          "consensus": "3人 净额$31,378 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795262400000,
+      "sport": "🏀",
+      "match": "Grizzlies vs Timberwolves",
+      "link": "https://polymarket.com/event/nba-mem-min-2026-11-21",
+      "slug": "nba-mem-min-2026-11-21",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Timberwolves",
+          "price": "99.5¢",
+          "consensus": "11人 净额$136,738 (186:1)",
+          "hit": null,
+          "note": "🟢高可信度 - 5正收益团队"
+        },
+        {
+          "type": "大小球 229.5",
+          "direction": "Under",
+          "price": "93.0¢",
+          "consensus": "7人 净额$84,893 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度"
+        },
+        {
+          "type": "大小球 227.5",
+          "direction": "Over",
+          "price": "7.0¢",
+          "consensus": "3人 净额$42,694 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795264200000,
+      "sport": "🏀",
+      "match": "Clippers vs Mavericks",
+      "link": "https://polymarket.com/event/nba-lac-dal-2026-11-21",
+      "slug": "nba-lac-dal-2026-11-21",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Clippers",
+          "price": "100.0¢",
+          "consensus": "17人 净额$64,350 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度 - 7正收益团队"
+        },
+        {
+          "type": "大小球 231.5",
+          "direction": "Over",
+          "price": "20.5¢",
+          "consensus": "3人 净额$36,401 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度"
+        },
+        {
+          "type": "大小球 229.5",
+          "direction": "Over",
+          "price": "79.5¢",
+          "consensus": "7人 净额$33,433 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度"
         }
       ]
     }
