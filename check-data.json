@@ -1,9 +1,9 @@
 {
-  "totalMatches": 31,
-  "totalPredictions": 80,
-  "winRate": 50.0,
+  "totalMatches": 32,
+  "totalPredictions": 81,
+  "winRate": 50,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 18:02:00",
+  "lastUpdate": "2026-11-22 10:27:12",
   "history": [
     {
       "date": "2026-11-19",
@@ -1107,6 +1107,29 @@
           "consensus": "2人 净额$1,928 (资金与市场背离)",
           "hit": null,
           "note": "🟡中可信度 - FORZE大热85.5¢但资金流向WBT"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795343232125,
+      "sport": "⚽",
+      "match": "Juventus FC vs. Venezia FC - More Markets",
+      "link": "https://polymarket.com/event/sea-juv-ven-2026-11-22-more-markets",
+      "slug": "sea-juv-ven-2026-11-22-more-markets",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "10 个（胜负4 + 让分2 + 大小球6）",
+          "direction": "Juventus FC",
+          "price": "-",
+          "consensus": "$23,743 vs $0 (∞:1)",
+          "hit": null,
+          "note": "🟡 中可信度 - 自动扫描"
         }
       ]
     }
