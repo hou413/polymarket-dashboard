@@ -1,9 +1,9 @@
 {
   "totalMatches": 32,
-  "totalPredictions": 83,
+  "totalPredictions": 84,
   "winRate": 37.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-22 19:07:00",
+  "lastUpdate": "2026-11-22 20:08:00",
   "history": [
     {
       "date": "2026-11-19",
@@ -751,35 +751,43 @@
       "match": "Barcelona vs Villarreal",
       "link": "https://polymarket.com/event/lal-bar-vil-2026-11-22",
       "slug": "lal-bar-vil-2026-11-22",
-      "predictions": 3,
+      "predictions": 4,
       "hits": 0,
       "accuracy": 0,
       "result": "",
       "prediction": "",
       "predictions_list": [
         {
+          "type": "让分 -1.5",
+          "direction": "Barcelona",
+          "price": "65.5¢",
+          "consensus": "5人 净额$77,858 (9.9:1)",
+          "hit": null,
+          "note": "🟡中可信度 - 最强信号"
+        },
+        {
           "type": "大小球 4.5",
           "direction": "Over",
-          "price": "48.5¢",
-          "consensus": "2人 净额$6,087 (正收益团队+$457)",
+          "price": "50.5¢",
+          "consensus": "5人 净额$56,738 (18.9:1)",
           "hit": null,
-          "note": "🟢高可信度 - 3正收益交易者"
+          "note": "🟡中可信度"
+        },
+        {
+          "type": "BTTS",
+          "direction": "No",
+          "price": "32.5¢",
+          "consensus": "3人 净额$1,987 (3.6:1)",
+          "hit": null,
+          "note": "🟡中可信度"
         },
         {
           "type": "大小球 3.5",
           "direction": "Over",
-          "price": "66.5¢",
-          "consensus": "2人 净额$1,548 (正收益团队)",
+          "price": "69.5¢",
+          "consensus": "2人 净额$1,548 (2.9:1)",
           "hit": null,
-          "note": "🟢高可信度"
-        },
-        {
-          "type": "胜负",
-          "direction": "Barcelona不赢",
-          "price": "18.5¢",
-          "consensus": "1人 净额$7,098",
-          "hit": null,
-          "note": "🟢高可信度 - 负收益团队"
+          "note": "🟡中可信度"
         }
       ]
     },
