@@ -54,27 +54,46 @@
             50% { opacity: 0.4; }
         }
         
-        .stats-grid {
+        /* Category stats */
+        .category-stats {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            grid-template-columns: repeat(4, 1fr);
             gap: 16px;
             margin-bottom: 30px;
         }
-        .stat-card {
+        @media (max-width: 900px) {
+            .category-stats { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 500px) {
+            .category-stats { grid-template-columns: 1fr; }
+        }
+        .cat-card {
             background: #fff;
             border-radius: 16px;
-            padding: 24px;
+            padding: 20px;
             text-align: center;
             box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+            border-top: 4px solid #e5e5ea;
         }
-        .stat-value {
-            font-size: 2.5em;
+        .cat-card.football { border-top-color: #34c759; }
+        .cat-card.basketball { border-top-color: #ff9500; }
+        .cat-card.tennis { border-top-color: #af52de; }
+        .cat-card.esports { border-top-color: #007aff; }
+        .cat-emoji { font-size: 2em; margin-bottom: 4px; }
+        .cat-name { font-size: 0.9em; color: #86868b; margin-bottom: 8px; }
+        .cat-winrate {
+            font-size: 2em;
             font-weight: 700;
             color: #1d1d1f;
         }
-        .stat-value.green { color: #34c759; }
-        .stat-value.orange { color: #ff9500; }
-        .stat-label { color: #86868b; margin-top: 4px; font-size: 0.95em; }
+        .cat-winrate.high { color: #34c759; }
+        .cat-winrate.mid { color: #ff9500; }
+        .cat-winrate.low { color: #ff3b30; }
+        .cat-detail {
+            font-size: 0.82em;
+            color: #86868b;
+            margin-top: 6px;
+        }
         
         .section {
             background: #fff;
@@ -84,14 +103,18 @@
             box-shadow: 0 1px 3px rgba(0,0,0,0.06);
         }
         .section-title {
-            font-size: 1.2em;
+            font-size: 1.3em;
             font-weight: 600;
             margin-bottom: 20px;
             color: #1d1d1f;
             display: flex;
             align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
             gap: 8px;
         }
+        .section-title .left { display: flex; align-items: center; gap: 8px; }
+        .section-title .right { font-size: 0.7em; color: #86868b; font-weight: 400; }
         
         .match-card {
             border: 1px solid #e5e5ea;
@@ -160,6 +183,11 @@
         .pred-consensus {
             font-size: 0.85em;
             color: #86868b;
+        }
+        .pred-note {
+            font-size: 0.78em;
+            color: #86868b;
+            font-style: italic;
         }
         
         .badge {
@@ -236,8 +264,6 @@
             pointer-events: none;
         }
         
-
-        
         .time-range {
             text-align: center;
             color: #86868b;
@@ -258,54 +284,86 @@
         </header>
         
         <div class="time-range">
-            📅 显示近 48 小时数据
+            📅 显示近 72 小时数据
             <button class="refresh-btn-inline" onclick="manualRefresh()" id="refreshBtn">🔄 手动刷新</button>
-
         </div>
         
-        <div class="stats-grid">
-            <div class="stat-card">
-                <div class="stat-value" id="totalMatches">0</div>
-                <div class="stat-label">分析场次</div>
+        <!-- Category Stats -->
+        <div class="category-stats" id="categoryStats">
+            <div class="cat-card football">
+                <div class="cat-emoji">⚽</div>
+                <div class="cat-name">足球</div>
+                <div class="cat-winrate" id="fbRate">-</div>
+                <div class="cat-detail" id="fbDetail">0 场 · 0 预测</div>
             </div>
-            <div class="stat-card">
-                <div class="stat-value" id="totalPredictions">0</div>
-                <div class="stat-label">总预测数</div>
+            <div class="cat-card basketball">
+                <div class="cat-emoji">🏀</div>
+                <div class="cat-name">篮球</div>
+                <div class="cat-winrate" id="bbRate">-</div>
+                <div class="cat-detail" id="bbDetail">0 场 · 0 预测</div>
             </div>
-            <div class="stat-card">
-                <div class="stat-value green" id="winRate">-</div>
-                <div class="stat-label">胜率</div>
+            <div class="cat-card tennis">
+                <div class="cat-emoji">🎾</div>
+                <div class="cat-name">网球</div>
+                <div class="cat-winrate" id="tnRate">-</div>
+                <div class="cat-detail" id="tnDetail">0 场 · 0 预测</div>
             </div>
-        </div>
-        
-        <div class="section">
-            <h2 class="section-title">📊 历史分析记录</h2>
-            <div id="historyTable">
-                <div class="empty-state">暂无数据</div>
-            </div>
-        </div>
-        
-        <div class="section">
-            <h2 class="section-title">💡 策略说明</h2>
-            <div style="line-height: 1.8; color: #6e6e73;">
-                <p><strong style="color:#1d1d1f">Check 策略</strong>是按需分析的聪明钱共识策略：</p>
-                <ul style="margin-left: 20px; margin-top: 10px;">
-                    <li>🎯 每次实时分析指定市场的所有交易者</li>
-                    <li>🧠 动态识别聪明钱（高交易量 + 高频交易）</li>
-                    <li>📈 分析聪明钱在该市场的共识方向</li>
-                    <li>✅ 聪明钱标准：最低 $200 交易量，最少 2 笔交易</li>
-                    <li>🔄 自动验证：比赛结束后自动查询结果并更新胜率</li>
-                </ul>
+            <div class="cat-card esports">
+                <div class="cat-emoji">🎮</div>
+                <div class="cat-name">电竞</div>
+                <div class="cat-winrate" id="esRate">-</div>
+                <div class="cat-detail" id="esDetail">0 场 · 0 预测</div>
             </div>
         </div>
         
-
+        <!-- Football Section -->
+        <div class="section" id="footballSection">
+            <h2 class="section-title">
+                <span class="left">⚽ 足球</span>
+                <span class="right" id="footballStats"></span>
+            </h2>
+            <div id="footballTable"><div class="empty-state">暂无数据</div></div>
+        </div>
+        
+        <!-- Basketball Section -->
+        <div class="section" id="basketballSection">
+            <h2 class="section-title">
+                <span class="left">🏀 篮球</span>
+                <span class="right" id="basketballStats"></span>
+            </h2>
+            <div id="basketballTable"><div class="empty-state">暂无数据</div></div>
+        </div>
+        
+        <!-- Tennis Section -->
+        <div class="section" id="tennisSection">
+            <h2 class="section-title">
+                <span class="left">🎾 网球</span>
+                <span class="right" id="tennisStats"></span>
+            </h2>
+            <div id="tennisTable"><div class="empty-state">暂无数据</div></div>
+        </div>
+        
+        <!-- Esports Section -->
+        <div class="section" id="esportsSection">
+            <h2 class="section-title">
+                <span class="left">🎮 电竞</span>
+                <span class="right" id="esportsStats"></span>
+            </h2>
+            <div id="esportsTable"><div class="empty-state">暂无数据</div></div>
+        </div>
     </div>
     
     <button class="refresh-btn" onclick="loadData()" title="刷新">🔄</button>
     
     <script>
-        // 实时时钟
+        const SPORT_MAP = {
+            '⚽': 'football',
+            '🏀': 'basketball',
+            '🎾': 'tennis',
+            '🎮': 'esports',
+            '🔫': 'esports',
+        };
+        
         function updateClock() {
             const now = new Date();
             const str = now.toLocaleString('zh-CN', {
@@ -338,92 +396,91 @@
         }
         
         function renderData(data) {
-            document.getElementById('totalMatches').textContent = data.totalMatches || 0;
-            document.getElementById('totalPredictions').textContent = data.totalPredictions || 0;
-            document.getElementById('winRate').textContent = data.winRate ? data.winRate + '%' : '-';
-
+            // Category stats
+            const cats = {
+                football: { matches: 0, preds: 0, hits: 0, verified: 0 },
+                basketball: { matches: 0, preds: 0, hits: 0, verified: 0 },
+                tennis: { matches: 0, preds: 0, hits: 0, verified: 0 },
+                esports: { matches: 0, preds: 0, hits: 0, verified: 0 },
+            };
             
-            // History
-            if (data.history && data.history.length > 0) {
+            const catMatches = {
+                football: [],
+                basketball: [],
+                tennis: [],
+                esports: [],
+            };
+            
+            for (const h of data.history || []) {
+                const sport = h.sport || '⚽';
+                const cat = SPORT_MAP[sport] || 'football';
+                cats[cat].matches++;
+                cats[cat].preds += h.predictions || 0;
+                cats[cat].hits += h.hits || 0;
+                
+                const verified = (h.predictions_list || []).filter(p => p.hit !== null && p.hit !== undefined).length;
+                cats[cat].verified += verified;
+                
+                catMatches[cat].push(h);
+            }
+            
+            for (const [cat, info] of Object.entries(cats)) {
+                const rate = info.verified > 0 ? Math.round(info.hits / info.verified * 100) : 0;
+                const rateEl = document.getElementById(cat === 'football' ? 'fbRate' : cat === 'basketball' ? 'bbRate' : cat === 'tennis' ? 'tnRate' : 'esRate');
+                const detailEl = document.getElementById(cat === 'football' ? 'fbDetail' : cat === 'basketball' ? 'bbDetail' : cat === 'tennis' ? 'tnDetail' : 'esDetail');
+                const statsEl = document.getElementById(cat + 'Stats');
+                
+                rateEl.textContent = rate + '%';
+                rateEl.className = 'cat-winrate ' + (rate >= 60 ? 'high' : rate >= 40 ? 'mid' : 'low');
+                detailEl.textContent = `${info.matches} 场 · ${info.preds} 预测 · ${info.hits}/${info.verified} 命中`;
+                statsEl.textContent = `${info.matches} 场 | ${info.preds} 预测 | 胜率 ${rate}%`;
+            }
+            
+            // Render each category
+            for (const [cat, matches] of Object.entries(catMatches)) {
+                const tableId = cat + 'Table';
+                const el = document.getElementById(tableId);
+                
+                if (matches.length === 0) {
+                    el.innerHTML = '<div class="empty-state">暂无数据</div>';
+                    continue;
+                }
+                
                 let html = '';
-                for (const h of data.history) {
-                    const totalPreds = h.predictions_list ? h.predictions_list.length : 1;
-                    const totalHits = h.predictions_list ? h.predictions_list.filter(p => p.hit).length : (h.hits || 0);
-                    const acc = totalPreds > 0 ? Math.round(totalHits / totalPreds * 100) : 0;
+                // Show most recent first
+                const sorted = [...matches].reverse();
+                for (const h of sorted) {
+                    const preds = h.predictions_list || [];
+                    const hits = preds.filter(p => p.hit === true).length;
+                    const verified = preds.filter(p => p.hit !== null && p.hit !== undefined).length;
+                    const acc = verified > 0 ? Math.round(hits / verified * 100) : 0;
                     const overallClass = acc >= 60 ? 'badge-win' : acc >= 30 ? 'badge-pending' : 'badge-loss';
                     
                     html += `<div class="match-card">
                         <div class="match-header">
                             <div>
-                                <span class="match-title">${h.sport} ${h.match}</span>
+                                <span class="match-title">${h.match}</span>
                             </div>
                             <div class="match-meta">
                                 <span>${formatDate(h.timestamp)}</span>
-                                <span class="overall-badge ${overallClass}">${totalHits}/${totalPreds} (${acc}%)</span>
+                                <span class="overall-badge ${overallClass}">${hits}/${verified} (${acc}%)</span>
                                 ${h.link ? `<span class="match-link"><a href="${h.link}" target="_blank">🔗 市场</a></span>` : ''}
                             </div>
                         </div>`;
                     
-                    if (h.predictions_list && h.predictions_list.length > 0) {
-                        for (const p of h.predictions_list) {
+                    if (preds.length > 0) {
+                        for (const p of preds) {
                             const hitBadge = p.hit === true ? '<span class="badge badge-win">✅ 命中</span>' :
                                            p.hit === false ? '<span class="badge badge-loss">❌ 未中</span>' :
                                            '<span class="badge badge-pending">⏳ 待验证</span>';
                             const priceTag = p.price ? `<span class="pred-price">${p.price}</span>` : '';
+                            const noteTag = p.note ? `<span class="pred-note">${p.note}</span>` : '';
                             html += `<div class="prediction-row">
                                 <span class="pred-type">${p.type || '-'}</span>
                                 <span class="pred-direction">${p.direction || '-'}</span>
                                 ${priceTag}
                                 <span class="pred-consensus">${p.consensus || ''}</span>
                                 ${hitBadge}
-                            </div>`;
-                        }
-                    } else {
-                        // 兼容旧格式
-                        const pred = h.prediction || h.direction || '-';
-                        const result = h.result || '-';
-                        const hitBadge = h.hits > 0 ? '<span class="badge badge-win">✅ 命中</span>' : '<span class="badge badge-loss">❌ 未中</span>';
-                        html += `<div class="prediction-row">
-                            <span class="pred-type">胜负</span>
-                            <span class="pred-direction">${pred}</span>
-                            <span class="pred-consensus">结果: ${result}</span>
-                            ${hitBadge}
-                        </div>`;
-                    }
-                    
-                    html += `</div>`;
-                }
-                document.getElementById('historyTable').innerHTML = html;
-            }
-            
-            // Pending → merge into history
-            if (data.pending && data.pending.length > 0) {
-                let html = document.getElementById('historyTable').innerHTML;
-                if (html.includes('暂无数据')) html = '';
-                for (const p of data.pending) {
-                    const totalPreds = p.predictions_list ? p.predictions_list.length : 1;
-                    html += `<div class="match-card">
-                        <div class="match-header">
-                            <div>
-                                <span class="match-title">${p.sport} ${p.match}</span>
-                            </div>
-                            <div class="match-meta">
-                                <span>${formatDate(p.timestamp)}</span>
-                                <span class="badge badge-pending">⏳ 待验证</span>
-                                ${p.link ? `<span class="match-link"><a href="${p.link}" target="_blank">🔗 市场</a></span>` : ''}
-                            </div>
-                        </div>`;
-                    
-                    if (p.predictions_list && p.predictions_list.length > 0) {
-                        for (const pred of p.predictions_list) {
-                            const priceTag = pred.price ? `<span class="pred-price">${pred.price}</span>` : '';
-                            const noteTag = pred.note ? `<span class="pred-note">${pred.note}</span>` : '';
-                            html += `<div class="prediction-row">
-                                <span class="pred-type">${pred.type || '-'}</span>
-                                <span class="pred-direction">${pred.direction || '-'}</span>
-                                ${priceTag}
-                                <span class="pred-consensus">${pred.consensus || ''}</span>
-                                <span class="badge badge-pending">⏳ 待验证</span>
                                 ${noteTag}
                             </div>`;
                         }
@@ -431,7 +488,7 @@
                     
                     html += `</div>`;
                 }
-                document.getElementById('historyTable').innerHTML = html;
+                el.innerHTML = html;
             }
             
             document.getElementById('lastUpdate').textContent = data.lastUpdate || '-';
@@ -448,211 +505,20 @@
             try {
                 await loadData();
                 btn.textContent = '✅ 已刷新';
-                setTimeout(() => {
-                    btn.textContent = '🔄 手动刷新';
-                    btn.classList.remove('loading');
-                }, 2000);
-            } catch(e) {
-                btn.textContent = '❌ 刷新失败';
-                setTimeout(() => {
-                    btn.textContent = '🔄 手动刷新';
-                    btn.classList.remove('loading');
-                }, 2000);
+            } catch (e) {
+                btn.textContent = '❌ 失败';
             }
+            setTimeout(() => {
+                btn.textContent = '🔄 手动刷新';
+                btn.classList.remove('loading');
+            }, 2000);
         }
         
-        // 验证所有待验证比赛
-        async function verifyAll() {
-            const btn = document.getElementById('verifyBtn');
-            const status = document.getElementById('verifyStatus');
-            btn.textContent = '⏳ 验证中...';
-            btn.classList.add('loading');
-            status.className = 'verify-status show info';
-            status.textContent = '正在查询比赛结果...';
-            
-            try {
-                const res = await fetch('check-data.json?t=' + Date.now());
-                const data = await res.json();
-                
-                if (!data.pending || data.pending.length === 0) {
-                    status.className = 'verify-status show info';
-                    status.textContent = '没有待验证的比赛';
-                    btn.textContent = '✅ 验证所有待验证';
-                    btn.classList.remove('loading');
-                    return;
-                }
-                
-                let verified = 0;
-                let results = [];
-                const total = data.pending.length;
-                
-                // 处理每场比赛，带超时
-                for (let i = 0; i < data.pending.length; i++) {
-                    const p = data.pending[i];
-                    const slug = p.slug;
-                    
-                    status.textContent = `验证中... (${i + 1}/${total}) ${p.match}`;
-                    
-                    if (!slug) {
-                        results.push(`${p.match}: 无slug，跳过`);
-                        continue;
-                    }
-                    
-                    try {
-                        // 带超时的查询
-                        const controller = new AbortController();
-                        const timeoutId = setTimeout(() => controller.abort(), 10000); // 10秒超时
-                        
-                        const eventUrl = `https://gamma-api.polymarket.com/events?slug=${encodeURIComponent(slug)}&limit=1`;
-                        const eventRes = await fetch(eventUrl, { signal: controller.signal });
-                        clearTimeout(timeoutId);
-                        
-                        const eventData = await eventRes.json();
-                        
-                        if (!eventData || eventData.length === 0) {
-                            results.push(`${p.match}: 未找到`);
-                            continue;
-                        }
-                        
-                        const event = eventData[0];
-                        let isResolved = event.closed;
-                        
-                        // 检查价格是否已确定
-                        if (!isResolved && event.markets && event.markets.length > 0) {
-                            const m = event.markets[0];
-                            let prices = m.outcomePrices;
-                            if (typeof prices === 'string') prices = JSON.parse(prices);
-                            if (prices && prices.length > 0) {
-                                const hasWinner = prices.some(pr => parseFloat(pr) >= 0.99);
-                                const hasLoser = prices.some(pr => parseFloat(pr) <= 0.01);
-                                if (hasWinner && hasLoser) isResolved = true;
-                            }
-                        }
-                        
-                        if (!isResolved) {
-                            results.push(`${p.match}: 未结算`);
-                            continue;
-                        }
-                        
-                        // 获取所有市场
-                        const allMarkets = event.markets || [];
-                        
-                        // 检查预测是否命中
-                        let hits = 0;
-                        let predCount = 0;
-                        if (p.predictions_list) {
-                            for (const pred of p.predictions_list) {
-                                predCount++;
-                                const type = pred.type || '';
-                                const direction = (pred.direction || '').toLowerCase();
-                                
-                                let matchingMarket = null;
-                                
-                                // 根据预测类型找到对应市场
-                                if (type.includes('胜负') || type === '') {
-                                    matchingMarket = allMarkets[0];
-                                } else if (type.includes('大小球')) {
-                                    const line = type.match(/[\d.]+/)?.[0];
-                                    if (line) {
-                                        matchingMarket = allMarkets.find(m => 
-                                            m.question && m.question.toLowerCase().includes(`o/u ${line}`)
-                                        );
-                                    }
-                                } else if (type.includes('让球')) {
-                                    const line = type.match(/[\d.]+/)?.[0];
-                                    if (line) {
-                                        matchingMarket = allMarkets.find(m => 
-                                            m.question && m.question.toLowerCase().includes('spread') && m.question.includes(line)
-                                        );
-                                    }
-                                }
-                                
-                                if (matchingMarket) {
-                                    let outcomes = matchingMarket.outcomes;
-                                    let prices = matchingMarket.outcomePrices;
-                                    if (typeof outcomes === 'string') outcomes = JSON.parse(outcomes);
-                                    if (typeof prices === 'string') prices = JSON.parse(prices);
-                                    
-                                    const winnerIdx = prices.findIndex(pr => parseFloat(pr) > 0.9);
-                                    if (winnerIdx >= 0) {
-                                        const winner = outcomes[winnerIdx].toLowerCase();
-                                        if (direction.includes(winner) || winner.includes(direction)) {
-                                            pred.hit = true;
-                                            hits++;
-                                        } else {
-                                            pred.hit = false;
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                        
-                        // 移到历史记录
-                        const historyItem = {
-                            timestamp: p.timestamp,
-                            date: p.date,
-                            sport: p.sport,
-                            match: p.match,
-                            link: p.link,
-                            slug: slug,
-                            predictions_list: p.predictions_list,
-                            predictions: predCount,
-                            hits: hits,
-                            accuracy: predCount > 0 ? Math.round(hits / predCount * 100) : 0
-                        };
-                        
-                        data.history.push(historyItem);
-                        verified++;
-                        results.push(`✅ ${p.match}: ${hits}/${predCount}命中`);
-                    } catch(e) {
-                        if (e.name === 'AbortError') {
-                            results.push(`${p.match}: 查询超时`);
-                        } else {
-                            results.push(`${p.match}: 查询失败 - ${e.message}`);
-                        }
-                    }
-                }
-                
-                // 移除已验证的
-                data.pending = data.pending.filter(p => {
-                    return !results.some(r => r.includes(p.match) && r.includes('✅'));
-                });
-                
-                // 更新统计
-                data.totalMatches = data.history.length;
-                data.totalPredictions = data.history.reduce((sum, h) => sum + (h.predictions || 1), 0);
-                const totalHits = data.history.reduce((sum, h) => sum + (h.hits || 0), 0);
-                data.winRate = data.totalPredictions > 0 ? Math.round(totalHits / data.totalPredictions * 1000) / 10 : 0;
-                data.pendingCount = data.pending.length;
-                
-                const now = new Date();
-                const gmt8 = new Date(now.getTime() + 8 * 60 * 60 * 1000);
-                data.lastUpdate = gmt8.toISOString().replace('T', ' ').slice(0, 19);
-                
-                renderData(data);
-                
-                status.className = 'verify-status show success';
-                status.innerHTML = `验证完成！<br>${results.join('<br>')}`;
-                btn.textContent = '✅ 验证完成';
-                
-                setTimeout(() => {
-                    btn.textContent = '✅ 验证所有待验证';
-                    btn.classList.remove('loading');
-                }, 3000);
-                
-            } catch(e) {
-                status.className = 'verify-status show error';
-                status.textContent = '验证失败: ' + e.message;
-                btn.textContent = '❌ 验证失败';
-                setTimeout(() => {
-                    btn.textContent = '✅ 验证所有待验证';
-                    btn.classList.remove('loading');
-                }, 3000);
-            }
-        }
-        
-        loadData();
+        // Auto refresh every 60 seconds
         setInterval(loadData, 60000);
+        
+        // Initial load
+        loadData();
     </script>
 </body>
 </html>
