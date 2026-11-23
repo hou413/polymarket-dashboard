@@ -1,9 +1,9 @@
 {
-  "totalMatches": 28,
-  "totalPredictions": 74,
-  "winRate": 50.0,
+  "totalMatches": 37,
+  "totalPredictions": 92,
+  "winRate": 40.2,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-23 13:17:00",
+  "lastUpdate": "2026-11-23 13:39:00",
   "history": [
     {
       "date": "2026-11-20",
@@ -1014,6 +1014,285 @@
           "consensus": "12人 净额$47,145 (1.4:1)",
           "hit": null,
           "note": "🟡中可信度 - 信号偏弱"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795356000000,
+      "sport": "⚽",
+      "match": "Bologna vs Udinese",
+      "link": "https://polymarket.com/event/sea-bol-udi-2026-11-22",
+      "slug": "sea-bol-udi-2026-11-22",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 2.5",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "$82,152 (∞:1)",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        },
+        {
+          "type": "大小球 1.5",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "$4,744 (∞:1)",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        },
+        {
+          "type": "BTTS",
+          "direction": "No",
+          "price": "-",
+          "consensus": "$3,279 (∞:1)",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795356000000,
+      "sport": "⚽",
+      "match": "Sassuolo vs Genoa",
+      "link": "https://polymarket.com/event/sea-sas-gen-2026-11-22",
+      "slug": "sea-sas-gen-2026-11-22",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795356000000,
+      "sport": "⚽",
+      "match": "Augsburg vs Mainz",
+      "link": "https://polymarket.com/event/bun-aug-mai-2026-11-22",
+      "slug": "bun-aug-mai-2026-11-22",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795360500000,
+      "sport": "⚽",
+      "match": "Racing vs Real Sociedad",
+      "link": "https://polymarket.com/event/lal-rrc-rso-2026-11-22",
+      "slug": "lal-rrc-rso-2026-11-22",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 3.5",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "$46,739 (∞:1)",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        },
+        {
+          "type": "让分 -1.5",
+          "direction": "Racing",
+          "price": "-",
+          "consensus": "$10,922 (∞:1)",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "$3,394 (∞:1)",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795361400000,
+      "sport": "⚽",
+      "match": "Werder Bremen vs Hamburg",
+      "link": "https://polymarket.com/event/bun-wer-hsv-2026-11-22",
+      "slug": "bun-wer-hsv-2026-11-22",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795363200000,
+      "sport": "⚽",
+      "match": "AC Milan vs Frosinone",
+      "link": "https://polymarket.com/event/sea-mil-fro-2026-11-22",
+      "slug": "sea-mil-fro-2026-11-22",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795365000000,
+      "sport": "⚽",
+      "match": "Osasuna vs Málaga",
+      "link": "https://polymarket.com/event/lal-osa-mala-2026-11-22",
+      "slug": "lal-osa-mala-2026-11-22",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Osasuna",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        },
+        {
+          "type": "大小球 1.5",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795365000000,
+      "sport": "⚽",
+      "match": "Atalanta vs Inter",
+      "link": "https://polymarket.com/event/sea-ata-int-2026-11-22",
+      "slug": "sea-ata-int-2026-11-22",
+      "predictions": 2,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        },
+        {
+          "type": "大小球",
+          "direction": "Under",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "timestamp": 1795366800000,
+      "sport": "⚽",
+      "match": "Getafe vs Atlético Madrid",
+      "link": "https://polymarket.com/event/lal-get-mad-2026-11-22",
+      "slug": "lal-get-mad-2026-11-22",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 2.5",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        },
+        {
+          "type": "大小球 1.5",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
+        },
+        {
+          "type": "大小球 3.5",
+          "direction": "Over",
+          "price": "-",
+          "consensus": "自动扫描",
+          "hit": null,
+          "note": "🟡中 - 自动扫描"
         }
       ]
     }
