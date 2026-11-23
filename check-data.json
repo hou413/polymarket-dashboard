@@ -1,9 +1,9 @@
 {
-  "totalMatches": 37,
-  "totalPredictions": 92,
-  "winRate": 42.4,
+  "totalMatches": 38,
+  "totalPredictions": 93,
+  "winRate": 41.9,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-23 06:13:17",
+  "lastUpdate": "2026-11-23 16:30:00",
   "history": [
     {
       "date": "2026-11-20",
@@ -1293,6 +1293,29 @@
           "consensus": "自动扫描",
           "hit": null,
           "note": "🟡中 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "timestamp": 1795424400000,
+      "sport": "🎮",
+      "match": "Phantom vs Betclic Apogee",
+      "link": "https://polymarket.com/event/cs2-pha-bca-2026-11-23",
+      "slug": "cs2-pha-bca-2026-11-23",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Phantom",
+          "price": "59.5¢",
+          "consensus": "9人 净额$90,992 (9.1:1, 最大单笔$84.6K)",
+          "hit": null,
+          "note": "🟡中可信度 - 信号强"
         }
       ]
     }
