@@ -1,9 +1,9 @@
 {
   "totalMatches": 49,
   "totalPredictions": 105,
-  "winRate": 32.4,
+  "winRate": 33.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 04:54:22",
+  "lastUpdate": "2026-11-24 07:55:08",
   "history": [
     {
       "date": "2026-11-20",
@@ -1481,8 +1481,8 @@
       "link": "https://polymarket.com/event/cs2-inf1-lt-2026-11-23",
       "slug": "cs2-inf1-lt-2026-11-23",
       "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1491,8 +1491,8 @@
           "direction": "Lunacy Team",
           "price": "-",
           "consensus": "$535 (∞:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 自动扫描"
+          "hit": true,
+          "note": "🟡中可信度 - 自动扫描 ✅"
         }
       ]
     },
