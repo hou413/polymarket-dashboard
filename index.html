@@ -425,14 +425,14 @@
             }
             
             for (const [cat, info] of Object.entries(cats)) {
-                const rate = info.verified > 0 ? Math.round(info.hits / info.verified * 100) : 0;
+                const rate = info.preds > 0 ? Math.round(info.hits / info.preds * 100) : 0;
                 const rateEl = document.getElementById(cat === 'football' ? 'fbRate' : cat === 'basketball' ? 'bbRate' : cat === 'tennis' ? 'tnRate' : 'esRate');
                 const detailEl = document.getElementById(cat === 'football' ? 'fbDetail' : cat === 'basketball' ? 'bbDetail' : cat === 'tennis' ? 'tnDetail' : 'esDetail');
                 const statsEl = document.getElementById(cat + 'Stats');
                 
                 rateEl.textContent = rate + '%';
                 rateEl.className = 'cat-winrate ' + (rate >= 60 ? 'high' : rate >= 40 ? 'mid' : 'low');
-                detailEl.textContent = `${info.matches} 场 · ${info.preds} 预测 · ${info.hits}/${info.verified} 命中`;
+                detailEl.textContent = `${info.matches} 场 · ${info.preds} 预测 · ${info.hits} 命中`;
                 statsEl.textContent = `${info.matches} 场 | ${info.preds} 预测 | 胜率 ${rate}%`;
             }
             
@@ -452,8 +452,8 @@
                 for (const h of sorted) {
                     const preds = h.predictions_list || [];
                     const hits = preds.filter(p => p.hit === true).length;
-                    const verified = preds.filter(p => p.hit !== null && p.hit !== undefined).length;
-                    const acc = verified > 0 ? Math.round(hits / verified * 100) : 0;
+                    const totalPreds = preds.length;
+                    const acc = totalPreds > 0 ? Math.round(hits / totalPreds * 100) : 0;
                     const overallClass = acc >= 60 ? 'badge-win' : acc >= 30 ? 'badge-pending' : 'badge-loss';
                     
                     html += `<div class="match-card">
@@ -463,7 +463,7 @@
                             </div>
                             <div class="match-meta">
                                 <span>${formatDate(h.timestamp)}</span>
-                                <span class="overall-badge ${overallClass}">${hits}/${verified} (${acc}%)</span>
+                                <span class="overall-badge ${overallClass}">${hits}/${totalPreds} (${acc}%)</span>
                                 ${h.link ? `<span class="match-link"><a href="${h.link}" target="_blank">🔗 市场</a></span>` : ''}
                             </div>
                         </div>`;
@@ -491,7 +491,15 @@
                 el.innerHTML = html;
             }
             
-            document.getElementById('lastUpdate').textContent = data.lastUpdate || '-';
+            // 将 UTC 时间转换为北京时间
+            function toBeijingTime(utcStr) {
+                if (!utcStr) return '-';
+                const utc = new Date(utcStr.replace(' ', 'T') + 'Z');
+                const bj = new Date(utc.getTime() + 8 * 60 * 60 * 1000);
+                return bj.toISOString().replace('T', ' ').substring(0, 19);
+            }
+            
+            document.getElementById('lastUpdate').textContent = toBeijingTime(data.lastUpdate) || '-';
         }
         
         function renderEmptyState() {
