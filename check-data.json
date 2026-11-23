@@ -1,9 +1,9 @@
 {
-  "totalMatches": 43,
-  "totalPredictions": 100,
-  "winRate": 40,
+  "totalMatches": 44,
+  "totalPredictions": 101,
+  "winRate": 39.6,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-23 15:06:32",
+  "lastUpdate": "2026-11-23 15:06:42",
   "history": [
     {
       "date": "2026-11-20",
@@ -1445,6 +1445,29 @@
           "direction": "DO KONCA",
           "price": "-",
           "consensus": "$14,222 (∞:1)",
+          "hit": null,
+          "note": "🟡中可信度 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "timestamp": 1795474800000,
+      "sport": "🎮",
+      "match": "Dota 2: Aurora vs LGD Gaming (BO3) - BLAST Slam Group D",
+      "link": "https://polymarket.com/event/dota2-aur1-lgd-2026-11-23",
+      "slug": "dota2-aur1-lgd-2026-11-23",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Aurora",
+          "price": "-",
+          "consensus": "$14,745 (∞:1)",
           "hit": null,
           "note": "🟡中可信度 - 自动扫描"
         }
