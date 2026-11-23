@@ -1,9 +1,9 @@
 {
   "totalMatches": 49,
   "totalPredictions": 105,
-  "winRate": 30.5,
+  "winRate": 32.4,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 04:31:19",
+  "lastUpdate": "2026-11-24 04:54:22",
   "history": [
     {
       "date": "2026-11-20",
@@ -1504,8 +1504,8 @@
       "link": "https://polymarket.com/event/cs2-ill4-phanto-2026-11-23",
       "slug": "cs2-ill4-phanto-2026-11-23",
       "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1514,8 +1514,8 @@
           "direction": "ILLYRIANS",
           "price": "-",
           "consensus": "$565 (∞:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 自动扫描"
+          "hit": true,
+          "note": "🟡中可信度 - 自动扫描 ✅"
         }
       ]
     },
@@ -1527,8 +1527,8 @@
       "link": "https://polymarket.com/event/cs2-sinqu-rgg-2026-11-23",
       "slug": "cs2-sinqu-rgg-2026-11-23",
       "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1537,8 +1537,8 @@
           "direction": "SINQU",
           "price": "-",
           "consensus": "$1,156 (∞:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 自动扫描"
+          "hit": true,
+          "note": "🟡中可信度 - 自动扫描 ✅"
         }
       ]
     },
