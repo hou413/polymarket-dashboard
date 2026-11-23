@@ -1,9 +1,9 @@
 {
-  "totalMatches": 47,
-  "totalPredictions": 104,
-  "winRate": 30.8,
+  "totalMatches": 48,
+  "totalPredictions": 105,
+  "winRate": 30.5,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-23 15:51:41",
+  "lastUpdate": "2026-11-24 02:31:14",
   "history": [
     {
       "date": "2026-11-20",
@@ -1537,6 +1537,29 @@
           "direction": "SINQU",
           "price": "-",
           "consensus": "$1,156 (∞:1)",
+          "hit": null,
+          "note": "🟡中可信度 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "timestamp": 1795480200000,
+      "sport": "🎮",
+      "match": "Counter-Strike: Prestige vs Nordic Valor (BO3) - Elisa Open Suomi Group Stage",
+      "link": "https://polymarket.com/event/cs2-pre-nordic-2026-11-23",
+      "slug": "cs2-pre-nordic-2026-11-23",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Prestige",
+          "price": "-",
+          "consensus": "$1,818 (∞:1)",
           "hit": null,
           "note": "🟡中可信度 - 自动扫描"
         }
