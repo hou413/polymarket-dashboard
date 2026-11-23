@@ -1,9 +1,9 @@
 {
-  "totalMatches": 46,
-  "totalPredictions": 103,
-  "winRate": 38.8,
+  "totalMatches": 47,
+  "totalPredictions": 104,
+  "winRate": 38.5,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-23 15:07:04",
+  "lastUpdate": "2026-11-23 15:07:16",
   "history": [
     {
       "date": "2026-11-20",
@@ -1514,6 +1514,29 @@
           "direction": "ILLYRIANS",
           "price": "-",
           "consensus": "$565 (∞:1)",
+          "hit": null,
+          "note": "🟡中可信度 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "timestamp": 1795469400000,
+      "sport": "🎮",
+      "match": "Counter-Strike: SINQU vs RoundsGG (BO3) - Elisa Open Suomi Group Stage",
+      "link": "https://polymarket.com/event/cs2-sinqu-rgg-2026-11-23",
+      "slug": "cs2-sinqu-rgg-2026-11-23",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "SINQU",
+          "price": "-",
+          "consensus": "$1,156 (∞:1)",
           "hit": null,
           "note": "🟡中可信度 - 自动扫描"
         }
