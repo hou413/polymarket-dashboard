@@ -1,9 +1,9 @@
 {
-  "totalMatches": 42,
-  "totalPredictions": 99,
-  "winRate": 40.4,
+  "totalMatches": 43,
+  "totalPredictions": 100,
+  "winRate": 40,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-23 15:06:16",
+  "lastUpdate": "2026-11-23 15:06:32",
   "history": [
     {
       "date": "2026-11-20",
@@ -1422,6 +1422,29 @@
           "direction": "maybe",
           "price": "-",
           "consensus": "$5,127 (∞:1)",
+          "hit": null,
+          "note": "🟡中可信度 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "timestamp": 1795474800000,
+      "sport": "🎮",
+      "match": "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
+      "link": "https://polymarket.com/event/dota2-liquid-konca-2026-11-23",
+      "slug": "dota2-liquid-konca-2026-11-23",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "DO KONCA",
+          "price": "-",
+          "consensus": "$14,222 (∞:1)",
           "hit": null,
           "note": "🟡中可信度 - 自动扫描"
         }
