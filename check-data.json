@@ -1,9 +1,9 @@
 {
-  "totalMatches": 45,
-  "totalPredictions": 102,
-  "winRate": 39.2,
+  "totalMatches": 46,
+  "totalPredictions": 103,
+  "winRate": 38.8,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-23 15:06:53",
+  "lastUpdate": "2026-11-23 15:07:04",
   "history": [
     {
       "date": "2026-11-20",
@@ -1491,6 +1491,29 @@
           "direction": "Lunacy Team",
           "price": "-",
           "consensus": "$535 (∞:1)",
+          "hit": null,
+          "note": "🟡中可信度 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "timestamp": 1795467600000,
+      "sport": "🎮",
+      "match": "Counter-Strike: ILLYRIANS vs  Phantom Academy (BO3) - CCT Europe Closed Qualifier: Series #15 Group C",
+      "link": "https://polymarket.com/event/cs2-ill4-phanto-2026-11-23",
+      "slug": "cs2-ill4-phanto-2026-11-23",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "ILLYRIANS",
+          "price": "-",
+          "consensus": "$565 (∞:1)",
           "hit": null,
           "note": "🟡中可信度 - 自动扫描"
         }
