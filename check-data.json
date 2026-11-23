@@ -1,9 +1,9 @@
 {
   "totalMatches": 38,
   "totalPredictions": 93,
-  "winRate": 41.9,
+  "winRate": 43,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-23 17:03:00",
+  "lastUpdate": "2026-11-23 11:52:42",
   "history": [
     {
       "date": "2026-11-20",
@@ -1304,8 +1304,8 @@
       "link": "https://polymarket.com/event/cs2-pha-bca-2026-11-23",
       "slug": "cs2-pha-bca-2026-11-23",
       "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1314,8 +1314,8 @@
           "direction": "Phantom",
           "price": "59.5¢",
           "consensus": "11人 净额$94,121 (9.4:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 最大团队$84.8K重仓"
+          "hit": true,
+          "note": "🟡中可信度 - 最大团队$84.8K重仓 ✅"
         }
       ]
     }
