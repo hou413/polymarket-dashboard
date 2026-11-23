@@ -1,9 +1,9 @@
 {
   "totalMatches": 47,
   "totalPredictions": 104,
-  "winRate": 38.5,
+  "winRate": 40.4,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-23 23:46:01",
+  "lastUpdate": "2026-11-23 15:47:36",
   "history": [
     {
       "date": "2026-11-20",
@@ -1389,8 +1389,8 @@
       "link": "https://polymarket.com/event/dota2-navi-og-2026-11-23",
       "slug": "dota2-navi-og-2026-11-23",
       "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1399,8 +1399,8 @@
           "direction": "OG",
           "price": "-",
           "consensus": "$53,450 (23.8:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 自动扫描"
+          "hit": true,
+          "note": "🟡中可信度 - 自动扫描 ✅"
         }
       ]
     },
@@ -1412,8 +1412,8 @@
       "link": "https://polymarket.com/event/cs2-g2a-maybe-2026-11-23",
       "slug": "cs2-g2a-maybe-2026-11-23",
       "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1422,8 +1422,8 @@
           "direction": "maybe",
           "price": "-",
           "consensus": "$5,127 (∞:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 自动扫描"
+          "hit": true,
+          "note": "🟡中可信度 - 自动扫描 ✅"
         }
       ]
     },
