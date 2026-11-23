@@ -1,9 +1,9 @@
 {
   "totalMatches": 37,
   "totalPredictions": 92,
-  "winRate": 40.2,
+  "winRate": 42.4,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-23 13:39:00",
+  "lastUpdate": "2026-11-23 06:13:17",
   "history": [
     {
       "date": "2026-11-20",
@@ -1002,8 +1002,8 @@
       "link": "https://polymarket.com/event/atp-broska-shepp-2026-11-22",
       "slug": "atp-broska-shepp-2026-11-22",
       "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1012,8 +1012,8 @@
           "direction": "Shepp",
           "price": "65.5¢",
           "consensus": "12人 净额$47,145 (1.4:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 信号偏弱"
+          "hit": true,
+          "note": "🟡中可信度 - 信号偏弱 ✅"
         }
       ]
     },
@@ -1195,8 +1195,8 @@
       "link": "https://polymarket.com/event/lal-osa-mala-2026-11-22",
       "slug": "lal-osa-mala-2026-11-22",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1205,8 +1205,8 @@
           "direction": "Osasuna",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": true,
+          "note": "🟡中 - 自动扫描 ✅"
         },
         {
           "type": "大小球 1.5",
