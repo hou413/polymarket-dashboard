@@ -1,9 +1,9 @@
 {
-  "totalMatches": 40,
-  "totalPredictions": 97,
-  "winRate": 41.2,
+  "totalMatches": 41,
+  "totalPredictions": 98,
+  "winRate": 40.8,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-23 15:04:08",
+  "lastUpdate": "2026-11-23 15:05:37",
   "history": [
     {
       "date": "2026-11-20",
@@ -1376,6 +1376,29 @@
           "direction": "Team Nemesis",
           "price": "-",
           "consensus": "$88,517 (38.7:1)",
+          "hit": null,
+          "note": "🟡中可信度 - 自动扫描"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "timestamp": 1795464000000,
+      "sport": "🎮",
+      "match": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
+      "link": "https://polymarket.com/event/dota2-navi-og-2026-11-23",
+      "slug": "dota2-navi-og-2026-11-23",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "OG",
+          "price": "-",
+          "consensus": "$53,450 (23.8:1)",
           "hit": null,
           "note": "🟡中可信度 - 自动扫描"
         }
