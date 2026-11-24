@@ -1,9 +1,9 @@
 {
   "totalMatches": 49,
   "totalPredictions": 105,
-  "winRate": 53.3,
+  "winRate": 54.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 12:52:02",
+  "lastUpdate": "2026-11-24 13:56:08",
   "history": [
     {
       "date": "2026-11-20",
@@ -1064,18 +1064,18 @@
       "link": "https://polymarket.com/event/sea-sas-gen-2026-11-22",
       "slug": "sea-sas-gen-2026-11-22",
       "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
         {
-          "type": "大小球",
+          "type": "大小球 2.5",
           "direction": "Under",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": true,
+          "note": "🟡中 - 自动扫描 ✅"
         }
       ]
     },
@@ -1093,12 +1093,12 @@
       "prediction": "",
       "predictions_list": [
         {
-          "type": "大小球",
+          "type": "大小球 2.5",
           "direction": "Under",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         }
       ]
     },
@@ -1155,12 +1155,12 @@
       "prediction": "",
       "predictions_list": [
         {
-          "type": "大小球",
+          "type": "大小球 2.5",
           "direction": "Under",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         }
       ]
     },
@@ -1178,12 +1178,12 @@
       "prediction": "",
       "predictions_list": [
         {
-          "type": "大小球",
+          "type": "大小球 2.5",
           "direction": "Under",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         }
       ]
     },
@@ -1240,20 +1240,20 @@
       "prediction": "",
       "predictions_list": [
         {
-          "type": "大小球",
+          "type": "大小球 2.5",
           "direction": "Under",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         },
         {
-          "type": "大小球",
+          "type": "大小球 3.5",
           "direction": "Under",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         }
       ]
     },
