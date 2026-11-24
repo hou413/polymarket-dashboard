@@ -378,7 +378,7 @@
         
         async function loadData() {
             try {
-                const res = await fetch('check-data.json?t=' + Date.now());
+                const res = await fetch('check-data.json?v=20261124122051?t=' + Date.now());
                 const data = await res.json();
                 renderData(data);
             } catch (e) {
