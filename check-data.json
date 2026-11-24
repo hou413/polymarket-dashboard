@@ -1,9 +1,9 @@
 {
   "totalMatches": 49,
   "totalPredictions": 105,
-  "winRate": 42.9,
+  "winRate": 53.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 12:42:21",
+  "lastUpdate": "2026-11-24 12:52:02",
   "history": [
     {
       "date": "2026-11-20",
@@ -277,8 +277,8 @@
       "link": "https://polymarket.com/event/epl-mac-ful-2026-11-21",
       "slug": "epl-mac-ful-2026-11-21",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -295,8 +295,8 @@
           "direction": "Under",
           "price": "53.5¢",
           "consensus": "3人 净额$40,695 (3团队)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         },
         {
           "type": "胜负",
@@ -355,8 +355,8 @@
       "link": "https://polymarket.com/event/epl-bou-not-2026-11-21",
       "slug": "epl-bou-not-2026-11-21",
       "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -373,8 +373,8 @@
           "direction": "Under",
           "price": "52.5¢",
           "consensus": "1人 净额$3,067",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         },
         {
           "type": "平局",
@@ -394,8 +394,8 @@
       "link": "https://polymarket.com/event/jap-gam-fag-2026-11-21",
       "slug": "jap-gam-fag-2026-11-21",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -404,8 +404,8 @@
           "direction": "Under",
           "price": "53.5¢",
           "consensus": "2人 净额$7,157 (1团队, ∞:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 最强信号"
+          "hit": true,
+          "note": "🟡中可信度 - 最强信号 ✅"
         },
         {
           "type": "胜负",
@@ -420,8 +420,8 @@
           "direction": "Over",
           "price": "19.5¢",
           "consensus": "1人 净额$2,571",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         }
       ]
     },
@@ -443,8 +443,8 @@
           "direction": "Over",
           "price": "57.5¢",
           "consensus": "7人 净额$8,282 (1团队, 🔥晚期4人)",
-          "hit": null,
-          "note": "🟡中可信度 - 最强信号"
+          "hit": false,
+          "note": "🟡中可信度 - 最强信号 ❌"
         },
         {
           "type": "胜负",
@@ -472,8 +472,8 @@
       "link": "https://polymarket.com/event/epl-new-ars-2026-11-21",
       "slug": "epl-new-ars-2026-11-21",
       "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -490,8 +490,8 @@
           "direction": "Over",
           "price": "56.5¢",
           "consensus": "6人 净额$140,714 (4团队, 5.3:1, 🔥晚期2人)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": true,
+          "note": "🟢高可信度 ✅"
         },
         {
           "type": "让分 -1.5",
@@ -534,8 +534,8 @@
       "link": "https://polymarket.com/event/lal-bar-vil-2026-11-22",
       "slug": "lal-bar-vil-2026-11-22",
       "predictions": 4,
-      "hits": 1,
-      "accuracy": 25,
+      "hits": 3,
+      "accuracy": 75,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -552,24 +552,24 @@
           "direction": "Over",
           "price": "53.5¢",
           "consensus": "7人 净额$282,023 (94:1, 🔥晚期3人, 最大单笔$224K)",
-          "hit": null,
-          "note": "🟡中可信度 - 超级信号🔥"
+          "hit": true,
+          "note": "🟡中可信度 - 超级信号🔥 ✅"
         },
         {
           "type": "大小球 3.5",
           "direction": "Over",
           "price": "71.5¢",
           "consensus": "4人 净额$30,245 (55.9:1, 🔥晚期2人)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         },
         {
           "type": "BTTS",
           "direction": "No",
           "price": "31.5¢",
           "consensus": "3人 净额$1,987 (2.9:1)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         }
       ]
     },
@@ -581,8 +581,8 @@
       "link": "https://polymarket.com/event/sea-par-rom-2026-11-21",
       "slug": "sea-par-rom-2026-11-21",
       "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -599,8 +599,8 @@
           "direction": "Over",
           "price": "51.0¢",
           "consensus": "2人 净额$11,713 (2团队, 3.5:1)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         },
         {
           "type": "让分 -1.5",
@@ -833,8 +833,8 @@
           "direction": "Over",
           "price": "56.5¢",
           "consensus": "2人 净额$3,553",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         }
       ]
     },
@@ -846,8 +846,8 @@
       "link": "https://polymarket.com/event/epl-liv-mun-2026-11-22",
       "slug": "epl-liv-mun-2026-11-22",
       "predictions": 4,
-      "hits": 1,
-      "accuracy": 25,
+      "hits": 2,
+      "accuracy": 50,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -856,24 +856,24 @@
           "direction": "Under",
           "price": "35.5¢",
           "consensus": "3人 净额$42,952 (🔥晚期2人)",
-          "hit": null,
-          "note": "🟢高可信度 - 3正收益团队"
+          "hit": false,
+          "note": "🟢高可信度 - 3正收益团队 ❌"
         },
         {
           "type": "大小球 3.5",
           "direction": "Over",
           "price": "42.5¢",
           "consensus": "9人 净额$28,492 (🔥晚期5人)",
-          "hit": null,
-          "note": "🟢高可信度 - 正收益团队对赌"
+          "hit": true,
+          "note": "🟢高可信度 - 正收益团队对赌 ✅"
         },
         {
           "type": "BTTS",
           "direction": "Yes",
           "price": "64.5¢",
           "consensus": "5人 净额$13,624 (🔥晚期3人)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         },
         {
           "type": "让分 -1.5",
@@ -1035,24 +1035,24 @@
           "direction": "Over",
           "price": "-",
           "consensus": "$82,152 (∞:1)",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         },
         {
           "type": "大小球 1.5",
           "direction": "Under",
           "price": "-",
           "consensus": "$4,744 (∞:1)",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         },
         {
           "type": "BTTS",
           "direction": "No",
           "price": "-",
           "consensus": "$3,279 (∞:1)",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         }
       ]
     },
@@ -1110,8 +1110,8 @@
       "link": "https://polymarket.com/event/lal-rrc-rso-2026-11-22",
       "slug": "lal-rrc-rso-2026-11-22",
       "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1120,8 +1120,8 @@
           "direction": "Over",
           "price": "-",
           "consensus": "$46,739 (∞:1)",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": true,
+          "note": "🟡中 - 自动扫描 ✅"
         },
         {
           "type": "让分 -1.5",
@@ -1136,8 +1136,8 @@
           "direction": "Under",
           "price": "-",
           "consensus": "$3,394 (∞:1)",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         }
       ]
     },
@@ -1213,16 +1213,16 @@
           "direction": "Over",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         },
         {
           "type": "大小球 2.5",
           "direction": "Over",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         }
       ]
     },
@@ -1265,8 +1265,8 @@
       "link": "https://polymarket.com/event/lal-get-mad-2026-11-22",
       "slug": "lal-get-mad-2026-11-22",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1275,24 +1275,24 @@
           "direction": "Over",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": true,
+          "note": "🟡中 - 自动扫描 ✅"
         },
         {
           "type": "大小球 1.5",
           "direction": "Over",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": true,
+          "note": "🟡中 - 自动扫描 ✅"
         },
         {
           "type": "大小球 3.5",
           "direction": "Over",
           "price": "-",
           "consensus": "自动扫描",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": false,
+          "note": "🟡中 - 自动扫描 ❌"
         }
       ]
     },
