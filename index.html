@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Check 策略看板 v3</title>
+    <title>Check 策略看板 - Firebase 实时版</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -28,7 +28,7 @@
         .subtitle { color: #86868b; font-size: 1.1em; }
         .version-badge {
             display: inline-block;
-            background: #007aff;
+            background: #ff9500;
             color: white;
             padding: 4px 12px;
             border-radius: 12px;
@@ -240,45 +240,6 @@
         }
         .refresh-btn:hover { transform: scale(1.1); }
         
-        .data-update {
-            margin-top: 8px;
-            font-size: 0.88em;
-            color: #86868b;
-        }
-        
-        .refresh-btn-inline {
-            display: inline-block;
-            margin-left: 12px;
-            background: #0066cc;
-            color: white;
-            border: none;
-            padding: 6px 16px;
-            border-radius: 20px;
-            cursor: pointer;
-            font-size: 0.9em;
-            font-weight: 500;
-            transition: all 0.2s;
-            vertical-align: middle;
-        }
-        .refresh-btn-inline:hover {
-            background: #0055b3;
-            transform: scale(1.05);
-        }
-        .refresh-btn-inline:active {
-            transform: scale(0.95);
-        }
-        .refresh-btn-inline.loading {
-            opacity: 0.6;
-            pointer-events: none;
-        }
-        
-        .time-range {
-            text-align: center;
-            color: #86868b;
-            margin-bottom: 20px;
-            font-size: 0.9em;
-        }
-        
         .debug-info {
             background: #fff3cd;
             border: 1px solid #ffeaa7;
@@ -295,19 +256,13 @@
         <header>
             <h1>Check 策略看板</h1>
             <p class="subtitle">聪明钱按需分析 · 动态识别共识方向</p>
-            <div class="version-badge">v3.0 - 20261124123000</div>
+            <div class="version-badge">🔥 Firebase 实时版</div>
             <div class="live-time">
                 <span><span class="live-dot"></span><span id="liveClock">--</span></span>
             </div>
-
         </header>
         
         <div id="debugInfo" class="debug-info" style="display:none;"></div>
-        
-        <div class="time-range">
-            📅 显示近 72 小时数据
-            <button class="refresh-btn-inline" onclick="manualRefresh()" id="refreshBtn">🔄 手动刷新</button>
-        </div>
         
         <!-- Category Stats -->
         <div class="category-stats" id="categoryStats">
@@ -374,11 +329,21 @@
         </div>
     </div>
     
-    <button class="refresh-btn" onclick="loadData()" title="刷新">🔄</button>
+    <button class="refresh-btn" onclick="location.reload()" title="刷新">🔄</button>
+    
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-database-compat.js"></script>
     
     <script>
-        const VERSION = 'v3.0-20261124123000';
-        const CACHE_BUST = '20261124123000';
+        // Firebase 配置
+        const firebaseConfig = {
+            databaseURL: "https://check-board-f421c-default-rtdb.firebaseio.com"
+        };
+        
+        // 初始化 Firebase
+        firebase.initializeApp(firebaseConfig);
+        const db = firebase.database();
         
         const SPORT_MAP = {
             '⚽': 'football',
@@ -406,31 +371,6 @@
         }
         updateClock();
         setInterval(updateClock, 1000);
-        
-        async function loadData() {
-            try {
-                showDebug(`正在加载数据... (版本: ${VERSION})`);
-                
-                // 使用双重缓存破坏
-                const url = `check-data.json?cb=${CACHE_BUST}&t=${Date.now()}`;
-                showDebug(`请求 URL: ${url}`);
-                
-                const res = await fetch(url, { cache: 'no-store' });
-                
-                if (!res.ok) {
-                    throw new Error(`HTTP ${res.status}: ${res.statusText}`);
-                }
-                
-                const data = await res.json();
-                showDebug(`✅ 数据加载成功 | 版本: ${VERSION} | 更新时间: ${data.lastUpdate} | 胜率: ${data.winRate}%`);
-                
-                renderData(data);
-            } catch (e) {
-                showDebug(`❌ 加载失败: ${e.message}`);
-                console.error('[ERROR]', e);
-                renderEmptyState();
-            }
-        }
         
         function formatDate(ts) {
             if (!ts) return '-';
@@ -532,49 +472,29 @@
                 }
                 el.innerHTML = html;
             }
-            
-            // 将 UTC 时间转换为北京时间
-            function toBeijingTime(utcStr) {
-                if (!utcStr) return '-';
-                const utc = new Date(utcStr.replace(' ', 'T') + 'Z');
-                const bj = new Date(utc.getTime() + 8 * 60 * 60 * 1000);
-                return bj.toISOString().replace('T', ' ').substring(0, 19);
-            }
-            
-            const lastUpdateEl = document.getElementById('lastUpdate');
-            if (lastUpdateEl) {
-                lastUpdateEl.textContent = toBeijingTime(data.lastUpdate) || '-';
-            }
         }
         
         function renderEmptyState() {
-            const lastUpdateEl = document.getElementById('lastUpdate');
-            if (lastUpdateEl) {
-                lastUpdateEl.textContent = new Date().toLocaleString('zh-CN');
-            }
+            showDebug('❌ 加载失败: 无数据');
         }
         
-        async function manualRefresh() {
-            const btn = document.getElementById('refreshBtn');
-            btn.textContent = '⏳ 刷新中...';
-            btn.classList.add('loading');
-            try {
-                await loadData();
-                btn.textContent = '✅ 已刷新';
-            } catch (e) {
-                btn.textContent = '❌ 失败';
+        // Firebase 实时监听
+        showDebug('🔥 正在连接 Firebase...');
+        
+        const dashboardRef = db.ref('dashboard');
+        
+        dashboardRef.on('value', (snapshot) => {
+            const data = snapshot.val();
+            if (data) {
+                showDebug(`✅ Firebase 实时数据 | 胜率: ${data.winRate || 0}% | 比赛: ${data.totalMatches || 0} 场`);
+                renderData(data);
+            } else {
+                renderEmptyState();
             }
-            setTimeout(() => {
-                btn.textContent = '🔄 手动刷新';
-                btn.classList.remove('loading');
-            }, 2000);
-        }
-        
-        // Auto refresh every 60 seconds
-        setInterval(loadData, 60000);
-        
-        // Initial load
-        loadData();
+        }, (error) => {
+            showDebug(`❌ Firebase 错误: ${error.message}`);
+            console.error('[Firebase Error]', error);
+        });
     </script>
 </body>
 </html>
