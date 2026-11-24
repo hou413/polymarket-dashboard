@@ -1,9 +1,9 @@
 {
   "totalMatches": 49,
   "totalPredictions": 105,
-  "winRate": 38.1,
+  "winRate": 40.0,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 11:36:49",
+  "lastUpdate": "2026-11-24 11:42:51",
   "history": [
     {
       "date": "2026-11-20",
@@ -62,8 +62,8 @@
           "direction": "Yes",
           "price": "30.5¢",
           "consensus": "1人 净额$2,644",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         },
         {
           "type": "Adelaide 赢",
@@ -264,8 +264,8 @@
           "direction": "Nagoya Grampus",
           "price": "38.5¢",
           "consensus": "1人 净额$89,515 (6.4:1, 正收益团队)",
-          "hit": null,
-          "note": "🟢高可信度 - 无大小球市场"
+          "hit": false,
+          "note": "🟢高可信度 - 无大小球市场 ❌"
         }
       ]
     },
@@ -303,8 +303,8 @@
           "direction": "Man City",
           "price": "71.5¢",
           "consensus": "13人 净额$38,320 (3团队)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         }
       ]
     },
@@ -381,8 +381,8 @@
           "direction": "No",
           "price": "73.5¢",
           "consensus": "1人 净额$716",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         }
       ]
     },
@@ -412,8 +412,8 @@
           "direction": "Gamba Osaka",
           "price": "17.0¢",
           "consensus": "2人 净额$5,120 (1团队)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         },
         {
           "type": "大小球 2.5",
@@ -433,8 +433,8 @@
       "link": "https://polymarket.com/event/aus-bri-syd-2026-11-21",
       "slug": "aus-bri-syd-2026-11-21",
       "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -459,8 +459,8 @@
           "direction": "Yes",
           "price": "27.0¢",
           "consensus": "1人 净额$3,402 (🔥晚期1人)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         }
       ]
     },
@@ -620,8 +620,8 @@
       "link": "https://polymarket.com/event/nba-por-nyk-2026-11-21",
       "slug": "nba-por-nyk-2026-11-21",
       "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -630,16 +630,16 @@
           "direction": "Over",
           "price": "50.0¢",
           "consensus": "11人 净额$217,333 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度 - 17正收益团队, 最强信号"
+          "hit": false,
+          "note": "🟢高可信度 - 17正收益团队, 最强信号 ❌"
         },
         {
           "type": "让分 +5.5",
           "direction": "Blazers",
           "price": "49.0¢",
           "consensus": "12人 净额$71,369 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": true,
+          "note": "🟢高可信度 ✅"
         },
         {
           "type": "大小球 218.5",
@@ -669,8 +669,8 @@
           "direction": "Over",
           "price": "50.0¢",
           "consensus": "5人 净额$136,826 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度 - 17正收益团队"
+          "hit": false,
+          "note": "🟢高可信度 - 17正收益团队 ❌"
         },
         {
           "type": "让分 +3.5",
@@ -724,8 +724,8 @@
           "direction": "Over",
           "price": "7.0¢",
           "consensus": "3人 净额$42,694 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         }
       ]
     },
@@ -755,16 +755,16 @@
           "direction": "Over",
           "price": "20.5¢",
           "consensus": "3人 净额$36,401 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         },
         {
           "type": "大小球 229.5",
           "direction": "Over",
           "price": "79.5¢",
           "consensus": "7人 净额$33,433 (∞:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         }
       ]
     },
@@ -973,16 +973,16 @@
           "direction": "Over",
           "price": "49.0¢",
           "consensus": "7人 净额$97,868 (2.9:1, 🔥晚期5人)",
-          "hit": null,
-          "note": "🟢高可信度 - 最强大小球信号"
+          "hit": false,
+          "note": "🟢高可信度 - 最强大小球信号 ❌"
         },
         {
           "type": "大小球 213.5",
           "direction": "Over",
           "price": "48.0¢",
           "consensus": "4人 净额$97,851 (4.6:1, 最大单笔$92K)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         },
         {
           "type": "让分 -9.5",
