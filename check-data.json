@@ -1,9 +1,9 @@
 {
   "totalMatches": 49,
   "totalPredictions": 105,
-  "winRate": 40.0,
+  "winRate": 42.9,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 11:42:51",
+  "lastUpdate": "2026-11-24 12:42:21",
   "history": [
     {
       "date": "2026-11-20",
@@ -521,8 +521,8 @@
           "direction": "Celta覆盖",
           "price": "35.5¢",
           "consensus": "1人 净额$1,525",
-          "hit": null,
-          "note": "🟡中可信度 - 皇马大热市场有限"
+          "hit": false,
+          "note": "🟡中可信度 - 皇马大热市场有限 ❌"
         }
       ]
     },
@@ -534,8 +534,8 @@
       "link": "https://polymarket.com/event/lal-bar-vil-2026-11-22",
       "slug": "lal-bar-vil-2026-11-22",
       "predictions": 4,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 25,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -544,8 +544,8 @@
           "direction": "Barcelona",
           "price": "65.5¢",
           "consensus": "6人 净额$89,222 (11.4:1, 🔥晚期2人)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         },
         {
           "type": "大小球 4.5",
@@ -607,8 +607,8 @@
           "direction": "Parma覆盖",
           "price": "42.5¢",
           "consensus": "4人 净额$10,922 (3团队, 🔥晚期4人)",
-          "hit": null,
-          "note": "🟡中可信度 - Roma可能只赢1球"
+          "hit": false,
+          "note": "🟡中可信度 - Roma可能只赢1球 ❌"
         }
       ]
     },
@@ -825,8 +825,8 @@
           "direction": "Brighton",
           "price": "39.5¢",
           "consensus": "2人 净额$4,000",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         },
         {
           "type": "大小球 2.5",
@@ -846,8 +846,8 @@
       "link": "https://polymarket.com/event/epl-liv-mun-2026-11-22",
       "slug": "epl-liv-mun-2026-11-22",
       "predictions": 4,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 25,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -880,8 +880,8 @@
           "direction": "Liverpool",
           "price": "31.5¢",
           "consensus": "8人 净额$11,788 (2.6:1, 🔥晚期7人)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": true,
+          "note": "🟢高可信度 ✅"
         }
       ]
     },
@@ -903,8 +903,8 @@
           "direction": "WBT",
           "price": "14.5¢",
           "consensus": "2人 净额$1,928 (资金与市场背离)",
-          "hit": null,
-          "note": "🟡中可信度 - FORZE大热85.5¢但资金流向WBT"
+          "hit": false,
+          "note": "🟡中可信度 - FORZE大热85.5¢但资金流向WBT ❌"
         }
       ]
     },
@@ -1110,8 +1110,8 @@
       "link": "https://polymarket.com/event/lal-rrc-rso-2026-11-22",
       "slug": "lal-rrc-rso-2026-11-22",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1128,8 +1128,8 @@
           "direction": "Racing",
           "price": "-",
           "consensus": "$10,922 (∞:1)",
-          "hit": null,
-          "note": "🟡中 - 自动扫描"
+          "hit": true,
+          "note": "🟡中 - 自动扫描 ✅"
         },
         {
           "type": "大小球 2.5",
