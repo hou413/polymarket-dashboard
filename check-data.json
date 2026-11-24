@@ -1,41 +1,10 @@
 {
-  "totalMatches": 49,
-  "totalPredictions": 105,
-  "winRate": 54.3,
+  "totalMatches": 34,
+  "totalPredictions": 65,
+  "winRate": 46.2,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 19:07:14",
+  "lastUpdate": "2026-11-24 20:35:08",
   "history": [
-    {
-      "date": "2026-11-20",
-      "timestamp": 1795216800000,
-      "sport": "🎾",
-      "match": "Alcaraz vs Cobolli",
-      "link": "https://polymarket.com/event/atp-alcaraz-cobolli-2026-11-17",
-      "slug": "atp-alcaraz-cobolli-2026-11-17",
-      "predictions": 2,
-      "hits": 2,
-      "accuracy": 100,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "胜负",
-          "direction": "Carlos Alcaraz",
-          "price": "80.5¢",
-          "consensus": "20人 净额$43,283 (5团队)",
-          "hit": true,
-          "note": "🟢高可信度 - 6正收益团队, +$12,674最高PnL - 6正收益团队, 79.2:1资金优势 ✅"
-        },
-        {
-          "type": "让分 -1.5",
-          "direction": "Carlos Alcaraz",
-          "price": "61.5¢",
-          "consensus": "5人 净额$18,814",
-          "hit": true,
-          "note": "🟢高可信度 - 6正收益团队, +$12,674最高PnL ✅"
-        }
-      ]
-    },
     {
       "date": "2026-11-20",
       "timestamp": 1795276800000,
@@ -169,364 +138,6 @@
       ]
     },
     {
-      "date": "2026-11-21",
-      "timestamp": 1795219200000,
-      "sport": "🏀",
-      "match": "Suns vs. Jazz",
-      "link": "https://polymarket.com/event/nba-phx-uta-2026-11-20",
-      "slug": "nba-phx-uta-2026-11-20",
-      "predictions": 3,
-      "hits": 3,
-      "accuracy": 100,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "胜负",
-          "direction": "Suns",
-          "price": "85.5¢",
-          "consensus": "13人 净额$26,324 (7团队)",
-          "hit": true,
-          "note": "🟡中可信度 - 原Jazz $931K团队已平仓 ✅"
-        },
-        {
-          "type": "大小球 226.5",
-          "direction": "小",
-          "price": "60.5¢",
-          "consensus": "7人 净额$85,297 (4团队, 🔥晚期2人)",
-          "hit": true,
-          "note": "🟡中可信度 - 最强信号 ✅"
-        },
-        {
-          "type": "让分 -5.5",
-          "direction": "Suns",
-          "price": "74.0¢",
-          "consensus": "7人 净额$39,386 (3团队)",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-21",
-      "timestamp": 1795219600000,
-      "sport": "🏀",
-      "match": "Rockets vs. Nuggets",
-      "link": "https://polymarket.com/event/nba-hou-den-2026-11-20",
-      "slug": "nba-hou-den-2026-11-20",
-      "predictions": 3,
-      "hits": 3,
-      "accuracy": 100,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "让分 +1.5",
-          "direction": "Rockets",
-          "price": "45.5¢",
-          "consensus": "12人 净额$75,847 (6团队, 3正收益)",
-          "hit": true,
-          "note": "🟢高可信度 - 最强信号 ✅"
-        },
-        {
-          "type": "胜负",
-          "direction": "Rockets",
-          "price": "48.5¢",
-          "consensus": "28人 净额$52,877 (8团队)",
-          "hit": true,
-          "note": "🟢高可信度 ✅"
-        },
-        {
-          "type": "大小球 224.5",
-          "direction": "大",
-          "price": "91.0¢",
-          "consensus": "4人 净额$22,070 (4团队)",
-          "hit": true,
-          "note": "🟢高可信度 ✅"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-21",
-      "timestamp": 1795222800000,
-      "sport": "⚽",
-      "match": "Tokyo Verdy vs Nagoya Grampus",
-      "link": "https://polymarket.com/event/jap-fct1-ngr-2026-11-21",
-      "slug": "jap-fct1-ngr-2026-11-21",
-      "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "胜负",
-          "direction": "Nagoya Grampus",
-          "price": "38.5¢",
-          "consensus": "1人 净额$89,515 (6.4:1, 正收益团队)",
-          "hit": false,
-          "note": "🟢高可信度 - 无大小球市场 ❌"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-21",
-      "timestamp": 1795233000000,
-      "sport": "⚽",
-      "match": "Man City vs Fulham",
-      "link": "https://polymarket.com/event/epl-mac-ful-2026-11-21",
-      "slug": "epl-mac-ful-2026-11-21",
-      "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "让分 -1.5",
-          "direction": "Man City",
-          "price": "47.5¢",
-          "consensus": "3人 净额$41,227 (1团队)",
-          "hit": null,
-          "note": "🟡中可信度 - 最强信号"
-        },
-        {
-          "type": "大小球 3.5",
-          "direction": "小",
-          "price": "53.5¢",
-          "consensus": "3人 净额$40,695 (3团队)",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
-        },
-        {
-          "type": "胜负",
-          "direction": "Man City",
-          "price": "71.5¢",
-          "consensus": "13人 净额$38,320 (3团队)",
-          "hit": false,
-          "note": "🟡中可信度 ❌"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-21",
-      "timestamp": 1795244400000,
-      "sport": "⚽",
-      "match": "Chelsea vs Leeds",
-      "link": "https://polymarket.com/event/epl-che-lee-2026-11-21",
-      "slug": "epl-che-lee-2026-11-21",
-      "predictions": 3,
-      "hits": 2,
-      "accuracy": 67,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "胜负",
-          "direction": "Chelsea",
-          "price": "47.5¢",
-          "consensus": "23人 净额$218,491 (5团队, 🔥晚期7人)",
-          "hit": true,
-          "note": "🟡中可信度 - 信号反转! 赛前资金暴增 ✅"
-        },
-        {
-          "type": "大小球 2.5",
-          "direction": "小",
-          "price": "48.5¢",
-          "consensus": "3人 净额$34,598 (3团队)",
-          "hit": false,
-          "note": "🟡中可信度 ❌"
-        },
-        {
-          "type": "大小球 3.5",
-          "direction": "大",
-          "price": "29.5¢",
-          "consensus": "1人 净额$2,753 (🔥晚期1人)",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-21",
-      "timestamp": 1795244400000,
-      "sport": "⚽",
-      "match": "Bournemouth vs Nottingham Forest",
-      "link": "https://polymarket.com/event/epl-bou-not-2026-11-21",
-      "slug": "epl-bou-not-2026-11-21",
-      "predictions": 3,
-      "hits": 2,
-      "accuracy": 67,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "胜负",
-          "direction": "Bournemouth",
-          "price": "50.5¢",
-          "consensus": "7人 净额$37,835 (3团队)",
-          "hit": true,
-          "note": "🟡中可信度 - 最强信号 ✅"
-        },
-        {
-          "type": "大小球 2.5",
-          "direction": "小",
-          "price": "52.5¢",
-          "consensus": "1人 净额$3,067",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
-        },
-        {
-          "type": "平局",
-          "direction": "No",
-          "price": "73.5¢",
-          "consensus": "1人 净额$716",
-          "hit": false,
-          "note": "🟡中可信度 ❌"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-21",
-      "timestamp": 1795243800000,
-      "sport": "⚽",
-      "match": "Gamba Osaka vs Fagiano Okayama",
-      "link": "https://polymarket.com/event/jap-gam-fag-2026-11-21",
-      "slug": "jap-gam-fag-2026-11-21",
-      "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "大小球 1.5",
-          "direction": "小",
-          "price": "53.5¢",
-          "consensus": "2人 净额$7,157 (1团队, ∞:1)",
-          "hit": true,
-          "note": "🟡中可信度 - 最强信号 ✅"
-        },
-        {
-          "type": "胜负",
-          "direction": "Gamba Osaka",
-          "price": "17.0¢",
-          "consensus": "2人 净额$5,120 (1团队)",
-          "hit": false,
-          "note": "🟡中可信度 ❌"
-        },
-        {
-          "type": "大小球 2.5",
-          "direction": "大",
-          "price": "19.5¢",
-          "consensus": "1人 净额$2,571",
-          "hit": false,
-          "note": "🟡中可信度 ❌"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-21",
-      "timestamp": 1795243800000,
-      "sport": "⚽",
-      "match": "Brisbane Roar vs Sydney FC",
-      "link": "https://polymarket.com/event/aus-bri-syd-2026-11-21",
-      "slug": "aus-bri-syd-2026-11-21",
-      "predictions": 3,
-      "hits": 2,
-      "accuracy": 67,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "大小球 2.5",
-          "direction": "大",
-          "price": "57.5¢",
-          "consensus": "7人 净额$8,282 (1团队, 🔥晚期4人)",
-          "hit": false,
-          "note": "🟡中可信度 - 最强信号 ❌"
-        },
-        {
-          "type": "胜负",
-          "direction": "Brisbane不赢",
-          "price": "62.5¢",
-          "consensus": "3人 净额$5,339 (1团队, 🔥晚期3人)",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
-        },
-        {
-          "type": "平局",
-          "direction": "Yes",
-          "price": "27.0¢",
-          "consensus": "1人 净额$3,402 (🔥晚期1人)",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795253400000,
-      "sport": "⚽",
-      "match": "Newcastle vs Arsenal",
-      "link": "https://polymarket.com/event/epl-new-ars-2026-11-21",
-      "slug": "epl-new-ars-2026-11-21",
-      "predictions": 3,
-      "hits": 2,
-      "accuracy": 67,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "胜负",
-          "direction": "Arsenal",
-          "price": "64.5¢",
-          "consensus": "21人 净额$190,741 (5团队, 14.8:1, 🔥晚期2人)",
-          "hit": true,
-          "note": "🟢高可信度 - 2正收益团队, 最强信号 ✅"
-        },
-        {
-          "type": "大小球 2.5",
-          "direction": "大",
-          "price": "56.5¢",
-          "consensus": "6人 净额$140,714 (4团队, 5.3:1, 🔥晚期2人)",
-          "hit": true,
-          "note": "🟢高可信度 ✅"
-        },
-        {
-          "type": "让分 -1.5",
-          "direction": "Arsenal",
-          "price": "37.5¢",
-          "consensus": "3人 净额$6,066 (2团队, 🔥晚期1人)",
-          "hit": null,
-          "note": "🟢高可信度"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795262400000,
-      "sport": "⚽",
-      "match": "Real Madrid vs Celta Vigo",
-      "link": "https://polymarket.com/event/lal-rea-cel-2026-11-21",
-      "slug": "lal-rea-cel-2026-11-21",
-      "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "让分 -1.5",
-          "direction": "Celta覆盖",
-          "price": "35.5¢",
-          "consensus": "1人 净额$1,525",
-          "hit": false,
-          "note": "🟡中可信度 - 皇马大热市场有限 ❌"
-        }
-      ]
-    },
-    {
       "date": "2026-11-22",
       "timestamp": 1795352400000,
       "sport": "⚽",
@@ -570,201 +181,6 @@
           "consensus": "3人 净额$1,987 (2.9:1)",
           "hit": false,
           "note": "🟡中可信度 ❌"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795251600000,
-      "sport": "⚽",
-      "match": "Parma vs Roma",
-      "link": "https://polymarket.com/event/sea-par-rom-2026-11-21",
-      "slug": "sea-par-rom-2026-11-21",
-      "predictions": 3,
-      "hits": 2,
-      "accuracy": 67,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "胜负",
-          "direction": "Roma",
-          "price": "81.5¢",
-          "consensus": "5人 净额$50,025 (4团队, 3.7:1, 🔥晚期3人)",
-          "hit": true,
-          "note": "🟡中可信度 - 最强信号 ✅"
-        },
-        {
-          "type": "大小球 3.5",
-          "direction": "大",
-          "price": "51.0¢",
-          "consensus": "2人 净额$11,713 (2团队, 3.5:1)",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
-        },
-        {
-          "type": "让分 -1.5",
-          "direction": "Parma覆盖",
-          "price": "42.5¢",
-          "consensus": "4人 净额$10,922 (3团队, 🔥晚期4人)",
-          "hit": false,
-          "note": "🟡中可信度 - Roma可能只赢1球 ❌"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795260600000,
-      "sport": "🏀",
-      "match": "Trail Blazers vs Knicks",
-      "link": "https://polymarket.com/event/nba-por-nyk-2026-11-21",
-      "slug": "nba-por-nyk-2026-11-21",
-      "predictions": 3,
-      "hits": 2,
-      "accuracy": 67,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "大小球 214.5",
-          "direction": "大",
-          "price": "50.0¢",
-          "consensus": "11人 净额$217,333 (∞:1)",
-          "hit": false,
-          "note": "🟢高可信度 - 17正收益团队, 最强信号 ❌"
-        },
-        {
-          "type": "让分 +5.5",
-          "direction": "Blazers",
-          "price": "49.0¢",
-          "consensus": "12人 净额$71,369 (∞:1)",
-          "hit": true,
-          "note": "🟢高可信度 ✅"
-        },
-        {
-          "type": "大小球 218.5",
-          "direction": "小",
-          "price": "50.0¢",
-          "consensus": "4人 净额$54,184 (∞:1)",
-          "hit": true,
-          "note": "🟢高可信度 ✅"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795262400000,
-      "sport": "🏀",
-      "match": "Pelicans vs Spurs",
-      "link": "https://polymarket.com/event/nba-nop-sas-2026-11-21",
-      "slug": "nba-nop-sas-2026-11-21",
-      "predictions": 3,
-      "hits": 2,
-      "accuracy": 67,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "大小球 228.5",
-          "direction": "大",
-          "price": "50.0¢",
-          "consensus": "5人 净额$136,826 (∞:1)",
-          "hit": false,
-          "note": "🟢高可信度 - 17正收益团队 ❌"
-        },
-        {
-          "type": "让分 +3.5",
-          "direction": "Pelicans",
-          "price": "47.0¢",
-          "consensus": "7人 净额$68,206 (∞:1)",
-          "hit": true,
-          "note": "🟢高可信度 ✅"
-        },
-        {
-          "type": "大小球 230.5",
-          "direction": "小",
-          "price": "50.0¢",
-          "consensus": "3人 净额$31,378 (∞:1)",
-          "hit": true,
-          "note": "🟢高可信度 ✅"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795262400000,
-      "sport": "🏀",
-      "match": "Grizzlies vs Timberwolves",
-      "link": "https://polymarket.com/event/nba-mem-min-2026-11-21",
-      "slug": "nba-mem-min-2026-11-21",
-      "predictions": 3,
-      "hits": 2,
-      "accuracy": 67,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "胜负",
-          "direction": "Timberwolves",
-          "price": "99.5¢",
-          "consensus": "11人 净额$136,738 (186:1)",
-          "hit": true,
-          "note": "🟢高可信度 - 5正收益团队 ✅"
-        },
-        {
-          "type": "大小球 229.5",
-          "direction": "小",
-          "price": "93.0¢",
-          "consensus": "7人 净额$84,893 (∞:1)",
-          "hit": true,
-          "note": "🟢高可信度 ✅"
-        },
-        {
-          "type": "大小球 227.5",
-          "direction": "大",
-          "price": "7.0¢",
-          "consensus": "3人 净额$42,694 (∞:1)",
-          "hit": false,
-          "note": "🟢高可信度 ❌"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795264200000,
-      "sport": "🏀",
-      "match": "Clippers vs Mavericks",
-      "link": "https://polymarket.com/event/nba-lac-dal-2026-11-21",
-      "slug": "nba-lac-dal-2026-11-21",
-      "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "胜负",
-          "direction": "Clippers",
-          "price": "100.0¢",
-          "consensus": "17人 净额$64,350 (∞:1)",
-          "hit": true,
-          "note": "🟢高可信度 - 7正收益团队 ✅"
-        },
-        {
-          "type": "大小球 231.5",
-          "direction": "大",
-          "price": "20.5¢",
-          "consensus": "3人 净额$36,401 (∞:1)",
-          "hit": false,
-          "note": "🟢高可信度 ❌"
-        },
-        {
-          "type": "大小球 229.5",
-          "direction": "大",
-          "price": "79.5¢",
-          "consensus": "7人 净额$33,433 (∞:1)",
-          "hit": false,
-          "note": "🟢高可信度 ❌"
         }
       ]
     },
@@ -1578,6 +994,45 @@
       "result": "",
       "prediction": "",
       "predictions_list": []
+    },
+    {
+      "date": "2026-11-24",
+      "timestamp": 1795522500000,
+      "sport": "⚽",
+      "match": "Shanghai Port FC vs. Buriram United",
+      "link": "https://polymarket.com/event/acle-shp-bur-2026-11-24",
+      "slug": "acle-shp-bur-2026-11-24",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Shanghai Port",
+          "price": "49.5¢",
+          "consensus": "6人 净额$16,855 (5.7:1, 🔥晚期4人)",
+          "hit": null,
+          "note": "🟢高可信度 - 4团队全部正收益"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "小",
+          "price": "42.0¢",
+          "consensus": "3人 净额$23,654 (35.3:1, 🔥晚期3人)",
+          "hit": null,
+          "note": "🟢高可信度 - 最强信号"
+        },
+        {
+          "type": "大小球 3.5",
+          "direction": "小",
+          "price": "64.5¢",
+          "consensus": "2人 净额$20,971 (∞:1)",
+          "hit": null,
+          "note": "🟢高可信度"
+        }
+      ]
     }
   ],
   "pending": []
