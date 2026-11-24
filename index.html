@@ -541,11 +541,17 @@
                 return bj.toISOString().replace('T', ' ').substring(0, 19);
             }
             
-            document.getElementById('lastUpdate').textContent = toBeijingTime(data.lastUpdate) || '-';
+            const lastUpdateEl = document.getElementById('lastUpdate');
+            if (lastUpdateEl) {
+                lastUpdateEl.textContent = toBeijingTime(data.lastUpdate) || '-';
+            }
         }
         
         function renderEmptyState() {
-            document.getElementById('lastUpdate').textContent = new Date().toLocaleString('zh-CN');
+            const lastUpdateEl = document.getElementById('lastUpdate');
+            if (lastUpdateEl) {
+                lastUpdateEl.textContent = new Date().toLocaleString('zh-CN');
+            }
         }
         
         async function manualRefresh() {
