@@ -382,12 +382,12 @@
         }
         
         function renderData(data) {
-            // Category stats
+            // Category stats - 只统计最近 5 场比赛
             const cats = {
-                football: { matches: 0, preds: 0, hits: 0 },
-                basketball: { matches: 0, preds: 0, hits: 0 },
-                tennis: { matches: 0, preds: 0, hits: 0 },
-                esports: { matches: 0, preds: 0, hits: 0 },
+                football: { matches: 0, preds: 0, hits: 0, verified: 0 },
+                basketball: { matches: 0, preds: 0, hits: 0, verified: 0 },
+                tennis: { matches: 0, preds: 0, hits: 0, verified: 0 },
+                esports: { matches: 0, preds: 0, hits: 0, verified: 0 },
             };
             
             const catMatches = {
@@ -400,23 +400,35 @@
             for (const h of data.history || []) {
                 const sport = h.sport || '⚽';
                 const cat = SPORT_MAP[sport] || 'football';
-                cats[cat].matches++;
-                cats[cat].preds += h.predictions || 0;
-                cats[cat].hits += h.hits || 0;
-                
                 catMatches[cat].push(h);
             }
             
+            // 每个类别只取最近 5 场已验证的比赛计算胜率
+            for (const [cat, matches] of Object.entries(catMatches)) {
+                const sorted = [...matches].sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0));
+                const recent5 = sorted.slice(0, 5);
+                
+                for (const h of recent5) {
+                    cats[cat].matches++;
+                    cats[cat].preds += h.predictions || 0;
+                    cats[cat].hits += h.hits || 0;
+                    
+                    const verified = (h.predictions_list || []).filter(p => p.hit !== null && p.hit !== undefined).length;
+                    cats[cat].verified += verified;
+                }
+            }
+            
             for (const [cat, info] of Object.entries(cats)) {
-                const rate = info.preds > 0 ? Math.round(info.hits / info.preds * 100) : 0;
+                // 使用已验证的预测计算胜率
+                const rate = info.verified > 0 ? Math.round(info.hits / info.verified * 100) : 0;
                 const rateEl = document.getElementById(cat === 'football' ? 'fbRate' : cat === 'basketball' ? 'bbRate' : cat === 'tennis' ? 'tnRate' : 'esRate');
                 const detailEl = document.getElementById(cat === 'football' ? 'fbDetail' : cat === 'basketball' ? 'bbDetail' : cat === 'tennis' ? 'tnDetail' : 'esDetail');
                 const statsEl = document.getElementById(cat + 'Stats');
                 
                 rateEl.textContent = rate + '%';
                 rateEl.className = 'cat-winrate ' + (rate >= 60 ? 'high' : rate >= 40 ? 'mid' : 'low');
-                detailEl.textContent = `${info.matches} 场 · ${info.preds} 预测 · ${info.hits} 命中`;
-                statsEl.textContent = `${info.matches} 场 | ${info.preds} 预测 | 胜率 ${rate}%`;
+                detailEl.textContent = `${info.matches} 场 · ${info.verified} 验证 · ${info.hits} 命中`;
+                statsEl.textContent = `${info.matches} 场 | ${info.verified} 验证 | 胜率 ${rate}%`;
             }
             
             // Render each category
