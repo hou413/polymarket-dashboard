@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Check 策略看板</title>
+    <title>Check 策略看板 v3</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -26,6 +26,15 @@
             margin-bottom: 8px;
         }
         .subtitle { color: #86868b; font-size: 1.1em; }
+        .version-badge {
+            display: inline-block;
+            background: #007aff;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            margin-top: 8px;
+        }
         .live-time {
             margin-top: 12px;
             font-size: 1.05em;
@@ -54,7 +63,6 @@
             50% { opacity: 0.4; }
         }
         
-        /* Category stats */
         .category-stats {
             display: grid;
             grid-template-columns: repeat(4, 1fr);
@@ -270,6 +278,16 @@
             margin-bottom: 20px;
             font-size: 0.9em;
         }
+        
+        .debug-info {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 20px;
+            font-size: 0.85em;
+            color: #856404;
+        }
     </style>
 </head>
 <body>
@@ -277,11 +295,14 @@
         <header>
             <h1>Check 策略看板</h1>
             <p class="subtitle">聪明钱按需分析 · 动态识别共识方向</p>
+            <div class="version-badge">v3.0 - 20261124123000</div>
             <div class="live-time">
                 <span><span class="live-dot"></span><span id="liveClock">--</span></span>
             </div>
             <div class="data-update">数据更新: <span id="lastUpdate">-</span></div>
         </header>
+        
+        <div id="debugInfo" class="debug-info" style="display:none;"></div>
         
         <div class="time-range">
             📅 显示近 72 小时数据
@@ -356,6 +377,9 @@
     <button class="refresh-btn" onclick="loadData()" title="刷新">🔄</button>
     
     <script>
+        const VERSION = 'v3.0-20261124123000';
+        const CACHE_BUST = '20261124123000';
+        
         const SPORT_MAP = {
             '⚽': 'football',
             '🏀': 'basketball',
@@ -363,6 +387,13 @@
             '🎮': 'esports',
             '🔫': 'esports',
         };
+        
+        function showDebug(msg) {
+            const el = document.getElementById('debugInfo');
+            el.textContent = msg;
+            el.style.display = 'block';
+            console.log('[DEBUG]', msg);
+        }
         
         function updateClock() {
             const now = new Date();
@@ -378,10 +409,25 @@
         
         async function loadData() {
             try {
-                const res = await fetch('check-data.json?v=20261124123000&t=' + Date.now());
+                showDebug(`正在加载数据... (版本: ${VERSION})`);
+                
+                // 使用双重缓存破坏
+                const url = `check-data.json?cb=${CACHE_BUST}&t=${Date.now()}`;
+                showDebug(`请求 URL: ${url}`);
+                
+                const res = await fetch(url, { cache: 'no-store' });
+                
+                if (!res.ok) {
+                    throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+                }
+                
                 const data = await res.json();
+                showDebug(`✅ 数据加载成功 | 版本: ${VERSION} | 更新时间: ${data.lastUpdate} | 胜率: ${data.winRate}%`);
+                
                 renderData(data);
             } catch (e) {
+                showDebug(`❌ 加载失败: ${e.message}`);
+                console.error('[ERROR]', e);
                 renderEmptyState();
             }
         }
@@ -398,10 +444,10 @@
         function renderData(data) {
             // Category stats
             const cats = {
-                football: { matches: 0, preds: 0, hits: 0, verified: 0 },
-                basketball: { matches: 0, preds: 0, hits: 0, verified: 0 },
-                tennis: { matches: 0, preds: 0, hits: 0, verified: 0 },
-                esports: { matches: 0, preds: 0, hits: 0, verified: 0 },
+                football: { matches: 0, preds: 0, hits: 0 },
+                basketball: { matches: 0, preds: 0, hits: 0 },
+                tennis: { matches: 0, preds: 0, hits: 0 },
+                esports: { matches: 0, preds: 0, hits: 0 },
             };
             
             const catMatches = {
@@ -417,9 +463,6 @@
                 cats[cat].matches++;
                 cats[cat].preds += h.predictions || 0;
                 cats[cat].hits += h.hits || 0;
-                
-                const verified = (h.predictions_list || []).filter(p => p.hit !== null && p.hit !== undefined).length;
-                cats[cat].verified += verified;
                 
                 catMatches[cat].push(h);
             }
@@ -447,7 +490,6 @@
                 }
                 
                 let html = '';
-                // Show most recent first
                 const sorted = [...matches].reverse();
                 for (const h of sorted) {
                     const preds = h.predictions_list || [];
