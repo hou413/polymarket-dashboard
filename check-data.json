@@ -1,9 +1,9 @@
 {
   "totalMatches": 36,
   "totalPredictions": 70,
-  "winRate": 42.9,
+  "winRate": 44.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 22:55:09",
+  "lastUpdate": "2026-11-24 23:19:11",
   "history": [
     {
       "date": "2026-11-20",
@@ -91,8 +91,8 @@
       "link": "https://polymarket.com/event/atp-medvede-tiafoe-2026-11-17",
       "slug": "atp-medvede-tiafoe-2026-11-17",
       "predictions": 2,
-      "hits": 1,
-      "accuracy": 50,
+      "hits": 2,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -109,8 +109,8 @@
           "direction": "Medvedev",
           "price": "63.0¢",
           "consensus": "1人 净额$2,000",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         }
       ]
     },
