@@ -1,9 +1,9 @@
 {
   "totalMatches": 49,
   "totalPredictions": 105,
-  "winRate": 34.3,
+  "winRate": 35.2,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 11:28:31",
+  "lastUpdate": "2026-11-24 11:35:11",
   "history": [
     {
       "date": "2026-11-20",
@@ -1458,8 +1458,8 @@
       "link": "https://polymarket.com/event/dota2-aur1-lgd-2026-11-23",
       "slug": "dota2-aur1-lgd-2026-11-23",
       "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1468,8 +1468,8 @@
           "direction": "Aurora",
           "price": "-",
           "consensus": "$14,745 (∞:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 自动扫描"
+          "hit": true,
+          "note": "🟡中可信度 - 自动扫描 ✅"
         }
       ]
     },
