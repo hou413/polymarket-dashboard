@@ -1,9 +1,9 @@
 {
   "totalMatches": 49,
   "totalPredictions": 105,
-  "winRate": 35.2,
+  "winRate": 38.1,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 11:35:11",
+  "lastUpdate": "2026-11-24 11:36:49",
   "history": [
     {
       "date": "2026-11-20",
@@ -83,8 +83,8 @@
       "link": "https://polymarket.com/event/chfa-bjg-shp-2026-11-20",
       "slug": "chfa-bjg-shp-2026-11-20",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -93,24 +93,24 @@
           "direction": "Under",
           "price": "51.0¢",
           "consensus": "4人 净额$16,138 (4正收益团队)",
-          "hit": null,
-          "note": "🟢高可信度 - 4团队全部正收益, 2.4:1资金优势"
+          "hit": false,
+          "note": "🟢高可信度 - 4团队全部正收益, 2.4:1资金优势 ❌"
         },
         {
           "type": "大小球 1.5",
           "direction": "Under",
           "price": "20.5¢",
           "consensus": "3人 净额$4,782",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         },
         {
           "type": "让分 海港-1.5",
           "direction": "国安",
           "price": "47.0¢",
           "consensus": "1人 净额$2,852",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": true,
+          "note": "🟢高可信度 ✅"
         }
       ]
     },
@@ -316,8 +316,8 @@
       "link": "https://polymarket.com/event/epl-che-lee-2026-11-21",
       "slug": "epl-che-lee-2026-11-21",
       "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -334,16 +334,16 @@
           "direction": "Under",
           "price": "48.5¢",
           "consensus": "3人 净额$34,598 (3团队)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         },
         {
           "type": "大小球 3.5",
           "direction": "Over",
           "price": "29.5¢",
           "consensus": "1人 净额$2,753 (🔥晚期1人)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": true,
+          "note": "🟡中可信度 ✅"
         }
       ]
     },
@@ -786,16 +786,16 @@
           "direction": "Over",
           "price": "49.5¢",
           "consensus": "7人 净额$162,072 (8.3:1)",
-          "hit": null,
-          "note": "🟢高可信度 - 最强信号"
+          "hit": false,
+          "note": "🟢高可信度 - 最强信号 ❌"
         },
         {
           "type": "大小球 219.5",
           "direction": "Over",
           "price": "44.5¢",
           "consensus": "3人 净额$47,951 (3.6:1)",
-          "hit": null,
-          "note": "🟢高可信度"
+          "hit": false,
+          "note": "🟢高可信度 ❌"
         }
       ]
     },
@@ -1327,8 +1327,8 @@
       "link": "https://polymarket.com/event/acle-nef-hil-2026-11-23",
       "slug": "acle-nef-hil-2026-11-23",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1337,24 +1337,24 @@
           "direction": "Neftchi覆盖",
           "price": "48.5¢",
           "consensus": "1人 净额$2,124 (∞:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 流动性低"
+          "hit": true,
+          "note": "🟡中可信度 - 流动性低 ✅"
         },
         {
           "type": "胜负",
           "direction": "Al Hilal",
           "price": "74.5¢",
           "consensus": "2人 净额$1,865 (∞:1)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         },
         {
           "type": "大小球 4.5",
           "direction": "Over",
           "price": "25.0¢",
           "consensus": "1人 净额$505 (∞:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 信号弱"
+          "hit": false,
+          "note": "🟡中可信度 - 信号弱 ❌"
         }
       ]
     },
@@ -1376,8 +1376,8 @@
           "direction": "Team Nemesis",
           "price": "-",
           "consensus": "$88,517 (38.7:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 自动扫描"
+          "hit": false,
+          "note": "🟡中可信度 - 自动扫描 ❌"
         }
       ]
     },
@@ -1445,8 +1445,8 @@
           "direction": "DO KONCA",
           "price": "-",
           "consensus": "$14,222 (∞:1)",
-          "hit": null,
-          "note": "🟡中可信度 - 自动扫描"
+          "hit": false,
+          "note": "🟡中可信度 - 自动扫描 ❌"
         }
       ]
     },
