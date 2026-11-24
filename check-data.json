@@ -1,9 +1,9 @@
 {
   "totalMatches": 38,
   "totalPredictions": 74,
-  "winRate": 50,
+  "winRate": 54.1,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 02:28:31",
+  "lastUpdate": "2026-11-25 05:28:40",
   "history": [
     {
       "date": "2026-11-20",
@@ -1073,8 +1073,8 @@
       "link": "https://polymarket.com/event/acle-sah-qad-2026-11-24",
       "slug": "acle-sah-qad-2026-11-24",
       "predictions": 2,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 50,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1083,8 +1083,8 @@
           "direction": "No",
           "price": "91.5¢",
           "consensus": "$5,555 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "大小球 3.5",
@@ -1104,8 +1104,8 @@
       "link": "https://polymarket.com/event/ucl-gal-ast-2026-11-24",
       "slug": "ucl-gal-ast-2026-11-24",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1114,8 +1114,8 @@
           "direction": "Yes",
           "price": "45.5¢",
           "consensus": "$263,999 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "大小球 3.5",
@@ -1143,8 +1143,8 @@
       "link": "https://polymarket.com/event/ucl-bog-lin2-2026-11-24",
       "slug": "ucl-bog-lin2-2026-11-24",
       "predictions": 2,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 50,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1153,8 +1153,8 @@
           "direction": "Yes",
           "price": "71.5¢",
           "consensus": "$41,793 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "大小球 2.5",
