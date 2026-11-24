@@ -1,9 +1,9 @@
 {
-  "totalMatches": 34,
-  "totalPredictions": 65,
-  "winRate": 46.2,
+  "totalMatches": 36,
+  "totalPredictions": 70,
+  "winRate": 42.9,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 20:35:08",
+  "lastUpdate": "2026-11-24 22:55:09",
   "history": [
     {
       "date": "2026-11-20",
@@ -1009,28 +1009,98 @@
       "prediction": "",
       "predictions_list": [
         {
-          "type": "胜负",
-          "direction": "Shanghai Port",
-          "price": "49.5¢",
-          "consensus": "6人 净额$16,855 (5.7:1, 🔥晚期4人)",
-          "hit": null,
-          "note": "🟢高可信度 - 4团队全部正收益"
-        },
-        {
           "type": "大小球 2.5",
           "direction": "小",
-          "price": "42.0¢",
-          "consensus": "3人 净额$23,654 (35.3:1, 🔥晚期3人)",
+          "price": "17.5¢",
+          "consensus": "$32,642 (48.6:1)",
           "hit": null,
-          "note": "🟢高可信度 - 最强信号"
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "49.5¢",
+          "consensus": "$24,644 (8.5:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
         },
         {
           "type": "大小球 3.5",
           "direction": "小",
-          "price": "64.5¢",
-          "consensus": "2人 净额$20,971 (∞:1)",
+          "price": "48.0¢",
+          "consensus": "$20,971 (∞:1)",
           "hit": null,
-          "note": "🟢高可信度"
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "timestamp": 1795550400000,
+      "sport": "🎮",
+      "match": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches",
+      "link": "https://polymarket.com/event/dota2-ty-1win-2026-11-24",
+      "slug": "dota2-ty-1win-2026-11-24",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "1win",
+          "price": "66.5¢",
+          "consensus": "$80,434 (160.9:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "1win",
+          "price": "32.0¢",
+          "consensus": "$71,316 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "1win",
+          "price": "80.0¢",
+          "consensus": "$45,018 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "timestamp": 1795550400000,
+      "sport": "🎮",
+      "match": "Dota 2: GamerLegion vs PARIVISION (BO3) - BLAST Slam Seeding Matches",
+      "link": "https://polymarket.com/event/dota2-gl-pari-2026-11-24",
+      "slug": "dota2-gl-pari-2026-11-24",
+      "predictions": 2,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "PARIVISION",
+          "price": "96.7¢",
+          "consensus": "$51,380 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "GamerLegion",
+          "price": "29.5¢",
+          "consensus": "$34,891 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
         }
       ]
     }
