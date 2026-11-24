@@ -3,7 +3,7 @@
   "totalPredictions": 70,
   "winRate": 44.3,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 23:19:11",
+  "lastUpdate": "2026-11-24 23:20:04",
   "history": [
     {
       "date": "2026-11-20",
@@ -23,8 +23,8 @@
           "direction": "No",
           "price": "49.5¢",
           "consensus": "6人 净额$22,348 (3团队)",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         },
         {
           "type": "平局",
@@ -39,8 +39,8 @@
           "direction": "Yes",
           "price": "19.5¢",
           "consensus": "2人 净额$1,601",
-          "hit": null,
-          "note": "🟡中可信度"
+          "hit": false,
+          "note": "🟡中可信度 ❌"
         }
       ]
     },
