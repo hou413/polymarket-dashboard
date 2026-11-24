@@ -1,49 +1,10 @@
 {
-  "totalMatches": 36,
-  "totalPredictions": 70,
-  "winRate": 44.3,
+  "totalMatches": 38,
+  "totalPredictions": 74,
+  "winRate": 50,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-24 23:20:04",
+  "lastUpdate": "2026-11-25 02:28:31",
   "history": [
-    {
-      "date": "2026-11-20",
-      "timestamp": 1795276800000,
-      "sport": "⚽",
-      "match": "WSW vs Adelaide United",
-      "link": "https://polymarket.com/event/aus-wsw-ade-2026-11-20",
-      "slug": "aus-wsw-ade-2026-11-20",
-      "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
-      "result": "WSW win",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "WSW 赢",
-          "direction": "No",
-          "price": "49.5¢",
-          "consensus": "6人 净额$22,348 (3团队)",
-          "hit": false,
-          "note": "🟡中可信度 ❌"
-        },
-        {
-          "type": "平局",
-          "direction": "Yes",
-          "price": "30.5¢",
-          "consensus": "1人 净额$2,644",
-          "hit": false,
-          "note": "🟡中可信度 ❌"
-        },
-        {
-          "type": "Adelaide 赢",
-          "direction": "Yes",
-          "price": "19.5¢",
-          "consensus": "2人 净额$1,601",
-          "hit": false,
-          "note": "🟡中可信度 ❌"
-        }
-      ]
-    },
     {
       "date": "2026-11-20",
       "timestamp": 1795289700000,
@@ -1003,8 +964,8 @@
       "link": "https://polymarket.com/event/acle-shp-bur-2026-11-24",
       "slug": "acle-shp-bur-2026-11-24",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1021,8 +982,8 @@
           "direction": "Yes",
           "price": "49.5¢",
           "consensus": "$24,644 (8.5:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "大小球 3.5",
@@ -1042,8 +1003,8 @@
       "link": "https://polymarket.com/event/dota2-ty-1win-2026-11-24",
       "slug": "dota2-ty-1win-2026-11-24",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 3,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1052,24 +1013,24 @@
           "direction": "1win",
           "price": "66.5¢",
           "consensus": "$80,434 (160.9:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "胜负",
           "direction": "1win",
           "price": "32.0¢",
           "consensus": "$71,316 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "胜负",
           "direction": "1win",
           "price": "80.0¢",
           "consensus": "$45,018 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         }
       ]
     },
@@ -1081,8 +1042,8 @@
       "link": "https://polymarket.com/event/dota2-gl-pari-2026-11-24",
       "slug": "dota2-gl-pari-2026-11-24",
       "predictions": 2,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 2,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1091,14 +1052,115 @@
           "direction": "PARIVISION",
           "price": "96.7¢",
           "consensus": "$51,380 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "胜负",
           "direction": "GamerLegion",
           "price": "29.5¢",
           "consensus": "$34,891 (∞:1)",
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "timestamp": 1795536000000,
+      "sport": "⚽",
+      "match": "Shabab Al Ahli Dubai vs. Al Qadsiah",
+      "link": "https://polymarket.com/event/acle-sah-qad-2026-11-24",
+      "slug": "acle-sah-qad-2026-11-24",
+      "predictions": 2,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "No",
+          "price": "91.5¢",
+          "consensus": "$5,555 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 3.5",
+          "direction": "小",
+          "price": "38.5¢",
+          "consensus": "$2,087 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "timestamp": 1795542300000,
+      "sport": "⚽",
+      "match": "Galatasaray SK vs. Aston Villa FC",
+      "link": "https://polymarket.com/event/ucl-gal-ast-2026-11-24",
+      "slug": "ucl-gal-ast-2026-11-24",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "45.5¢",
+          "consensus": "$263,999 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 3.5",
+          "direction": "小",
+          "price": "62.5¢",
+          "consensus": "$69,130 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "大",
+          "price": "60.5¢",
+          "consensus": "$25,592 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "timestamp": 1795542300000,
+      "sport": "⚽",
+      "match": "FK Bodø/Glimt vs. LASK Linz",
+      "link": "https://polymarket.com/event/ucl-bog-lin2-2026-11-24",
+      "slug": "ucl-bog-lin2-2026-11-24",
+      "predictions": 2,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "71.5¢",
+          "consensus": "$41,793 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "小",
+          "price": "22.5¢",
+          "consensus": "$2,000 (∞:1)",
           "hit": null,
           "note": "🟡 中 - 自动分析"
         }
