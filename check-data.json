@@ -3,7 +3,7 @@
   "totalPredictions": 102,
   "winRate": 44.1,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 21:09:54",
+  "lastUpdate": "2026-11-25 21:39:00",
   "history": [
     {
       "date": "2026-11-20",
@@ -1246,8 +1246,8 @@
           "direction": "Yes",
           "price": "30.5¢",
           "consensus": "$5,814 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         },
         {
           "type": "大小球 2.5",
@@ -1285,8 +1285,8 @@
           "direction": "No",
           "price": "49.5¢",
           "consensus": "$4,812 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         },
         {
           "type": "大小球 2.5",
