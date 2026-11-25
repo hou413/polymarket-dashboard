@@ -1,9 +1,9 @@
 {
   "totalMatches": 41,
   "totalPredictions": 81,
-  "winRate": 48.1,
+  "winRate": 49.4,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 15:21:39",
+  "lastUpdate": "2026-11-25 15:36:51",
   "history": [
     {
       "date": "2026-11-20",
@@ -1174,8 +1174,8 @@
       "link": "https://polymarket.com/event/cbb-gcan-stlou-2026-11-24",
       "slug": "cbb-gcan-stlou-2026-11-24",
       "predictions": 2,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 50,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1192,8 +1192,8 @@
           "direction": "Saint Louis Billikens",
           "price": "47.5¢",
           "consensus": "$800 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         }
       ]
     },
