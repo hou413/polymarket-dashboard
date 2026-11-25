@@ -1,9 +1,9 @@
 {
   "totalMatches": 38,
   "totalPredictions": 74,
-  "winRate": 50.0,
+  "winRate": 48.6,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 09:44:24",
+  "lastUpdate": "2026-11-25 09:45:03",
   "history": [
     {
       "date": "2026-11-20",
@@ -1042,8 +1042,8 @@
       "link": "https://polymarket.com/event/dota2-gl-pari-2026-11-24",
       "slug": "dota2-gl-pari-2026-11-24",
       "predictions": 2,
-      "hits": 2,
-      "accuracy": 100,
+      "hits": 1,
+      "accuracy": 50,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1060,8 +1060,8 @@
           "direction": "GamerLegion",
           "price": "29.5¢",
           "consensus": "$34,891 (∞:1)",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         }
       ]
     },
