@@ -1,9 +1,9 @@
 {
   "totalMatches": 38,
   "totalPredictions": 74,
-  "winRate": 54.1,
+  "winRate": 50.0,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 05:28:40",
+  "lastUpdate": "2026-11-25 09:44:24",
   "history": [
     {
       "date": "2026-11-20",
@@ -1003,8 +1003,8 @@
       "link": "https://polymarket.com/event/dota2-ty-1win-2026-11-24",
       "slug": "dota2-ty-1win-2026-11-24",
       "predictions": 3,
-      "hits": 3,
-      "accuracy": 100,
+      "hits": 0,
+      "accuracy": 0,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1013,24 +1013,24 @@
           "direction": "1win",
           "price": "66.5¢",
           "consensus": "$80,434 (160.9:1)",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         },
         {
           "type": "胜负",
           "direction": "1win",
           "price": "32.0¢",
           "consensus": "$71,316 (∞:1)",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         },
         {
           "type": "胜负",
           "direction": "1win",
           "price": "80.0¢",
           "consensus": "$45,018 (∞:1)",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         }
       ]
     },
