@@ -1,9 +1,9 @@
 {
-  "totalMatches": 41,
-  "totalPredictions": 81,
-  "winRate": 51.9,
+  "totalMatches": 49,
+  "totalPredictions": 103,
+  "winRate": 43.7,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 17:18:52",
+  "lastUpdate": "2026-11-25 20:26:46",
   "history": [
     {
       "date": "2026-11-20",
@@ -1262,6 +1262,302 @@
           "direction": "Melbourne Victory FC",
           "price": "50.0¢",
           "consensus": "$711 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795599000000,
+      "sport": "⚽",
+      "match": "Vanraure Hachinohe FC vs. Albirex Niigata",
+      "link": "https://polymarket.com/event/ja2-van-alb-2026-11-25",
+      "slug": "ja2-van-alb-2026-11-25",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "30.5¢",
+          "consensus": "$5,814 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "小",
+          "price": "60.5¢",
+          "consensus": "$1,919 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 1.5",
+          "direction": "小",
+          "price": "37.5¢",
+          "consensus": "$941 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795599000000,
+      "sport": "⚽",
+      "match": "FC Imabari vs. Tegevajaro Miyazaki",
+      "link": "https://polymarket.com/event/ja2-imb-teg-2026-11-25",
+      "slug": "ja2-imb-teg-2026-11-25",
+      "predictions": 2,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "No",
+          "price": "49.5¢",
+          "consensus": "$4,812 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "小",
+          "price": "60.5¢",
+          "consensus": "$976 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795600800000,
+      "sport": "⚽",
+      "match": "Gamba Osaka vs. Port FC",
+      "link": "https://polymarket.com/event/acle-gam-por-2026-11-25",
+      "slug": "acle-gam-por-2026-11-25",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 3.5",
+          "direction": "小",
+          "price": "61.5¢",
+          "consensus": "$36,794 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "73.5¢",
+          "consensus": "$16,690 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 4.5",
+          "direction": "小",
+          "price": "74.0¢",
+          "consensus": "$15,410 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795600800000,
+      "sport": "⚽",
+      "match": "Kashima Antlers vs. Jeonbuk FC",
+      "link": "https://polymarket.com/event/acle-kas-jeo-2026-11-25",
+      "slug": "acle-kas-jeo-2026-11-25",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 3.5",
+          "direction": "大",
+          "price": "29.5¢",
+          "consensus": "$7,350 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "No",
+          "price": "37.5¢",
+          "consensus": "$5,434 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "22.5¢",
+          "consensus": "$4,368 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795600800000,
+      "sport": "⚽",
+      "match": "V-Varen Nagasaki vs. Kawasaki Frontale",
+      "link": "https://polymarket.com/event/jap-vva-kaw-2026-11-25",
+      "slug": "jap-vva-kaw-2026-11-25",
+      "predictions": 2,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "55.5¢",
+          "consensus": "$66,287 (∞:1)",
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "大",
+          "price": "56.5¢",
+          "consensus": "$906 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795600800000,
+      "sport": "⚽",
+      "match": "FC Tōkyō vs. Sanfrecce Hiroshima",
+      "link": "https://polymarket.com/event/jap-fct-san-2026-11-25",
+      "slug": "jap-fct-san-2026-11-25",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "49.5¢",
+          "consensus": "$53,193 (∞:1)",
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "大",
+          "price": "47.5¢",
+          "consensus": "$20,505 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 3.5",
+          "direction": "大",
+          "price": "23.5¢",
+          "consensus": "$3,347 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795600800000,
+      "sport": "⚽",
+      "match": "Avispa Fukuoka vs. Yokohama F·Marinos",
+      "link": "https://polymarket.com/event/jap-avi-yom-2026-11-25",
+      "slug": "jap-avi-yom-2026-11-25",
+      "predictions": 3,
+      "hits": 2,
+      "accuracy": 67,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "No",
+          "price": "81.0¢",
+          "consensus": "$18,313 (∞:1)",
+          "hit": true,
+          "note": "🟢 高 - 自动分析 ✅"
+        },
+        {
+          "type": "胜负",
+          "direction": "No",
+          "price": "73.5¢",
+          "consensus": "$6,689 (∞:1)",
+          "hit": true,
+          "note": "🟢 高 - 自动分析 ✅"
+        },
+        {
+          "type": "让分 -1.5",
+          "direction": "Yokohama F·Marinos",
+          "price": "7.0¢",
+          "consensus": "$2,131 (∞:1)",
+          "hit": null,
+          "note": "🟢 高 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795600800000,
+      "sport": "⚽",
+      "match": "Fagiano Okayama vs. Shimizu S-Pulse",
+      "link": "https://polymarket.com/event/jap-fag-ssp-2026-11-25",
+      "slug": "jap-fag-ssp-2026-11-25",
+      "predictions": 3,
+      "hits": 1,
+      "accuracy": 33,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 2.5",
+          "direction": "小",
+          "price": "65.5¢",
+          "consensus": "$14,817 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "21.5¢",
+          "consensus": "$12,125 (∞:1)",
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
+        },
+        {
+          "type": "大小球 1.5",
+          "direction": "小",
+          "price": "39.5¢",
+          "consensus": "$3,834 (∞:1)",
           "hit": null,
           "note": "🟡 中 - 自动分析"
         }
