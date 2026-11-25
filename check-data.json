@@ -1,9 +1,9 @@
 {
   "totalMatches": 46,
   "totalPredictions": 95,
-  "winRate": 52.6,
+  "winRate": 53.7,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 22:30:14",
+  "lastUpdate": "2026-11-25 23:06:44",
   "history": [
     {
       "date": "2026-11-20",
@@ -1252,8 +1252,8 @@
       "link": "https://polymarket.com/event/jap-vva-kaw-2026-11-25",
       "slug": "jap-vva-kaw-2026-11-25",
       "predictions": 2,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 50,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1270,8 +1270,8 @@
           "direction": "大",
           "price": "56.5¢",
           "consensus": "$906 (∞:1)",
-          "hit": false,
-          "note": "🟡 中 - 自动分析 ❌"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         }
       ]
     },
