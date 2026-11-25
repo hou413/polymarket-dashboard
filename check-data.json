@@ -1,9 +1,9 @@
 {
   "totalMatches": 41,
   "totalPredictions": 81,
-  "winRate": 46.9,
+  "winRate": 48.1,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 12:57:20",
+  "lastUpdate": "2026-11-25 15:21:39",
   "history": [
     {
       "date": "2026-11-20",
@@ -101,45 +101,6 @@
           "direction": "No",
           "price": "31.5¢",
           "consensus": "3人 净额$1,987 (2.9:1)",
-          "hit": false,
-          "note": "🟡中可信度 ❌"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795327200000,
-      "sport": "⚽",
-      "match": "Hull City vs Brighton",
-      "link": "https://polymarket.com/event/epl-hul-bri-2026-11-22",
-      "slug": "epl-hul-bri-2026-11-22",
-      "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "胜负",
-          "direction": "Brighton",
-          "price": "64.5¢",
-          "consensus": "3人 净额$4,702",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
-        },
-        {
-          "type": "让分 -1.5",
-          "direction": "Brighton",
-          "price": "39.5¢",
-          "consensus": "2人 净额$4,000",
-          "hit": false,
-          "note": "🟡中可信度 ❌"
-        },
-        {
-          "type": "大小球 2.5",
-          "direction": "大",
-          "price": "56.5¢",
-          "consensus": "2人 净额$3,553",
           "hit": false,
           "note": "🟡中可信度 ❌"
         }
@@ -1104,8 +1065,8 @@
       "link": "https://polymarket.com/event/nba-bos-was-2026-11-24",
       "slug": "nba-bos-was-2026-11-24",
       "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1114,8 +1075,8 @@
           "direction": "大",
           "price": "72.5¢",
           "consensus": "$18,690 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "让分 -9.5",
@@ -1161,16 +1122,16 @@
           "direction": "大",
           "price": "48.5¢",
           "consensus": "$44,166 (∞:1)",
-          "hit": null,
-          "note": "🟢 高 - 自动分析"
+          "hit": false,
+          "note": "🟢 高 - 自动分析 ❌"
         },
         {
           "type": "大小球 232.5",
           "direction": "大",
           "price": "55.5¢",
           "consensus": "$33,850 (∞:1)",
-          "hit": null,
-          "note": "🟢 高 - 自动分析"
+          "hit": false,
+          "note": "🟢 高 - 自动分析 ❌"
         }
       ]
     },
@@ -1182,8 +1143,8 @@
       "link": "https://polymarket.com/event/mls-sje-hou-2026-11-24",
       "slug": "mls-sje-hou-2026-11-24",
       "predictions": 2,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 50,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1192,16 +1153,16 @@
           "direction": "San Jose",
           "price": "49.5¢",
           "consensus": "7人 净额$78,450 (∞:1)",
-          "hit": null,
-          "note": "🟡中 - 自动分析"
+          "hit": true,
+          "note": "🟡中 - 自动分析 ✅"
         },
         {
           "type": "大小球 2.5",
           "direction": "小",
           "price": "42.5¢",
           "consensus": "4人 净额$15,988 (∞:1)",
-          "hit": null,
-          "note": "🟡中 - 自动分析"
+          "hit": false,
+          "note": "🟡中 - 自动分析 ❌"
         }
       ]
     },
@@ -1254,8 +1215,8 @@
           "direction": "小",
           "price": "4.5¢",
           "consensus": "$787 (∞:1)",
-          "hit": null,
-          "note": "🔴 低 - 自动分析"
+          "hit": false,
+          "note": "🔴 低 - 自动分析 ❌"
         },
         {
           "type": "胜负",
@@ -1264,6 +1225,45 @@
           "consensus": "$516 (∞:1)",
           "hit": null,
           "note": "🔴 低 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795592700000,
+      "sport": "⚽",
+      "match": "Melbourne Victory FC vs. The Cong - Viettel FC",
+      "link": "https://polymarket.com/event/acl2-vic-vie-2026-11-25",
+      "slug": "acl2-vic-vie-2026-11-25",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 3.5",
+          "direction": "大",
+          "price": "35.5¢",
+          "consensus": "$10,993 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "大",
+          "price": "55.5¢",
+          "consensus": "$9,925 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "让分 -1.5",
+          "direction": "Melbourne Victory FC",
+          "price": "50.0¢",
+          "consensus": "$711 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
         }
       ]
     }
