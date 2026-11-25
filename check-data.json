@@ -1,9 +1,9 @@
 {
   "totalMatches": 39,
   "totalPredictions": 77,
-  "winRate": 48.1,
+  "winRate": 49.4,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 10:54:35",
+  "lastUpdate": "2026-11-25 11:30:11",
   "history": [
     {
       "date": "2026-11-20",
@@ -1104,8 +1104,8 @@
       "link": "https://polymarket.com/event/nba-bos-was-2026-11-24",
       "slug": "nba-bos-was-2026-11-24",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1122,8 +1122,8 @@
           "direction": "Celtics",
           "price": "87.5¢",
           "consensus": "$16,337 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "胜负",
