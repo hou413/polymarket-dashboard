@@ -1,9 +1,9 @@
 {
-  "totalMatches": 49,
-  "totalPredictions": 102,
-  "winRate": 49.0,
+  "totalMatches": 46,
+  "totalPredictions": 95,
+  "winRate": 47.4,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 22:08:02",
+  "lastUpdate": "2026-11-25 22:17:40",
   "history": [
     {
       "date": "2026-11-20",
@@ -56,53 +56,6 @@
           "consensus": "14人 净额$309,827 (6团队)",
           "hit": true,
           "note": "🟡中可信度 - 资金与市场赔率相反! ✅"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795352400000,
-      "sport": "⚽",
-      "match": "Barcelona vs Villarreal",
-      "link": "https://polymarket.com/event/lal-bar-vil-2026-11-22",
-      "slug": "lal-bar-vil-2026-11-22",
-      "predictions": 4,
-      "hits": 3,
-      "accuracy": 75,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "让分 -1.5",
-          "direction": "Barcelona",
-          "price": "65.5¢",
-          "consensus": "6人 净额$89,222 (11.4:1, 🔥晚期2人)",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
-        },
-        {
-          "type": "大小球 4.5",
-          "direction": "大",
-          "price": "53.5¢",
-          "consensus": "7人 净额$282,023 (94:1, 🔥晚期3人, 最大单笔$224K)",
-          "hit": true,
-          "note": "🟡中可信度 - 超级信号🔥 ✅"
-        },
-        {
-          "type": "大小球 3.5",
-          "direction": "大",
-          "price": "71.5¢",
-          "consensus": "4人 净额$30,245 (55.9:1, 🔥晚期2人)",
-          "hit": true,
-          "note": "🟡中可信度 ✅"
-        },
-        {
-          "type": "BTTS",
-          "direction": "No",
-          "price": "31.5¢",
-          "consensus": "3人 净额$1,987 (2.9:1)",
-          "hit": false,
-          "note": "🟡中可信度 ❌"
         }
       ]
     },
@@ -243,91 +196,6 @@
           "consensus": "12人 净额$47,145 (1.4:1)",
           "hit": true,
           "note": "🟡中可信度 - 信号偏弱 ✅"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795356000000,
-      "sport": "⚽",
-      "match": "Bologna vs Udinese",
-      "link": "https://polymarket.com/event/sea-bol-udi-2026-11-22",
-      "slug": "sea-bol-udi-2026-11-22",
-      "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "大小球 2.5",
-          "direction": "大",
-          "price": "-",
-          "consensus": "$82,152 (∞:1)",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌"
-        },
-        {
-          "type": "大小球 1.5",
-          "direction": "小",
-          "price": "-",
-          "consensus": "$4,744 (∞:1)",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌"
-        },
-        {
-          "type": "BTTS",
-          "direction": "No",
-          "price": "-",
-          "consensus": "$3,279 (∞:1)",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795356000000,
-      "sport": "⚽",
-      "match": "Sassuolo vs Genoa",
-      "link": "https://polymarket.com/event/sea-sas-gen-2026-11-22",
-      "slug": "sea-sas-gen-2026-11-22",
-      "predictions": 1,
-      "hits": 1,
-      "accuracy": 100,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "大小球 2.5",
-          "direction": "小",
-          "price": "-",
-          "consensus": "自动扫描",
-          "hit": true,
-          "note": "🟡中 - 自动扫描 ✅"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795356000000,
-      "sport": "⚽",
-      "match": "Augsburg vs Mainz",
-      "link": "https://polymarket.com/event/bun-aug-mai-2026-11-22",
-      "slug": "bun-aug-mai-2026-11-22",
-      "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "大小球 2.5",
-          "direction": "小",
-          "price": "-",
-          "consensus": "自动扫描",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌"
         }
       ]
     },
@@ -1415,8 +1283,8 @@
       "link": "https://polymarket.com/event/jap-fct-san-2026-11-25",
       "slug": "jap-fct-san-2026-11-25",
       "predictions": 3,
-      "hits": 3,
-      "accuracy": 100,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1425,8 +1293,8 @@
           "direction": "Yes",
           "price": "49.5¢",
           "consensus": "$53,193 (∞:1)",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         },
         {
           "type": "大小球 2.5",
@@ -1550,6 +1418,37 @@
           "direction": "小",
           "price": "48.5¢",
           "consensus": "$8,947 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795614300000,
+      "sport": "⚽",
+      "match": "PFC Nasaf vs. AL-Khaldiya SC",
+      "link": "https://polymarket.com/event/acl2-nas-kha-2026-11-25",
+      "slug": "acl2-nas-kha-2026-11-25",
+      "predictions": 2,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "47.0¢",
+          "consensus": "$2,978 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 3.5",
+          "direction": "小",
+          "price": "72.5¢",
+          "consensus": "$1,044 (∞:1)",
           "hit": null,
           "note": "🟡 中 - 自动分析"
         }
