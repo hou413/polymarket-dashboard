@@ -284,15 +284,22 @@
         .time-blocks {
             display: flex;
             justify-content: center;
+            align-items: center;
             gap: 12px;
             margin-top: 16px;
         }
         .time-block {
-            padding: 8px 16px;
-            border-radius: 8px;
-            font-size: 0.95em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px 20px;
+            border-radius: 10px;
+            font-size: 1.05em;
             font-family: 'SF Mono', 'Menlo', monospace;
             font-weight: 500;
+            min-width: 220px;
+            height: 42px;
+            box-sizing: border-box;
         }
         .time-block.live {
             background: #e8f5e9;
@@ -304,12 +311,13 @@
         }
         .time-block .live-dot {
             display: inline-block;
-            width: 6px;
-            height: 6px;
+            width: 8px;
+            height: 8px;
             background: #4caf50;
             border-radius: 50%;
-            margin-right: 6px;
+            margin-right: 8px;
             animation: pulse 2s infinite;
+            flex-shrink: 0;
         }
         @keyframes pulse {
             0%, 100% { opacity: 1; }
