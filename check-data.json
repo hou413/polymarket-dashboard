@@ -1,9 +1,9 @@
 {
   "totalMatches": 41,
   "totalPredictions": 81,
-  "winRate": 49.4,
+  "winRate": 51.9,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 16:45:06",
+  "lastUpdate": "2026-11-25 17:18:52",
   "history": [
     {
       "date": "2026-11-20",
@@ -1091,8 +1091,8 @@
           "direction": "Wizards",
           "price": "2.5¢",
           "consensus": "$11,596 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         }
       ]
     },
@@ -1104,8 +1104,8 @@
       "link": "https://polymarket.com/event/nba-dal-den-2026-11-24",
       "slug": "nba-dal-den-2026-11-24",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1114,8 +1114,8 @@
           "direction": "Mavericks",
           "price": "27.5¢",
           "consensus": "$65,798 (∞:1)",
-          "hit": null,
-          "note": "🟢 高 - 自动分析"
+          "hit": true,
+          "note": "🟢 高 - 自动分析 ✅"
         },
         {
           "type": "大小球 234.5",
@@ -1174,8 +1174,8 @@
       "link": "https://polymarket.com/event/cbb-gcan-stlou-2026-11-24",
       "slug": "cbb-gcan-stlou-2026-11-24",
       "predictions": 2,
-      "hits": 1,
-      "accuracy": 50,
+      "hits": 2,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1184,8 +1184,8 @@
           "direction": "Grand Canyon Antelopes",
           "price": "72.5¢",
           "consensus": "$5,023 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "让分 -1.5",
