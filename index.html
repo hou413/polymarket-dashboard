@@ -29,7 +29,6 @@
             margin-bottom: 8px;
         }
         .subtitle { color: #86868b; font-size: 1.1em; }
-        .version-badge {
             display: inline-block;
             background: #ff9500;
             color: white;
@@ -281,18 +280,82 @@
             font-size: 0.85em;
             color: #856404;
         }
+    
+        .time-blocks {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            margin-top: 16px;
+        }
+        .time-block {
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 0.95em;
+            font-family: 'SF Mono', 'Menlo', monospace;
+            font-weight: 500;
+        }
+        .time-block.live {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+        .time-block.update {
+            background: #e3f2fd;
+            color: #1565c0;
+        }
+        .time-block .live-dot {
+            display: inline-block;
+            width: 6px;
+            height: 6px;
+            background: #4caf50;
+            border-radius: 50%;
+            margin-right: 6px;
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
+
+    
+        .section-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+            user-select: none;
+        }
+        .section-header:hover {
+            background: #f5f5f7;
+        }
+        .collapse-icon {
+            font-size: 0.8em;
+            transition: transform 0.3s;
+        }
+        .collapse-icon.collapsed {
+            transform: rotate(-90deg);
+        }
+        .section-content {
+            transition: max-height 0.3s ease-out;
+            overflow: hidden;
+        }
+        .section-content.collapsed {
+            max-height: 0 !important;
+        }
+
     </style>
 </head>
 <body>
     <div class="container">
         <header>
             <h1>Check 策略看板</h1>
-            <p class="subtitle">聪明钱按需分析 · 动态识别共识方向</p>
-            <div class="version-badge">🔥 Firebase 实时版</div>
-            <div class="header-meta">
-                <div class="live-time"><span class="live-dot"></span><span id="liveClock">--</span></div>
-                <span class="divider">|</span>
-                <div class="update-time" id="lastUpdate">更新于 --</div>
+            <div class="time-blocks">
+                <div class="time-block live">
+                    <span class="live-dot"></span>
+                    <span id="liveClock">--</span>
+                </div>
+                <div class="time-block update">
+                    <span id="lastUpdate">更新于 --</span>
+                </div>
             </div>
         </header>
         
@@ -332,39 +395,35 @@
         
         <!-- Football Section -->
         <div class="section" id="footballSection">
-            <h2 class="section-title">
-                <span class="left">⚽ 足球</span>
+            <h2 class="section-title section-header" onclick="toggleSection('football')">
+                <span class="left">⚽ <span class="collapse-icon">▼</span> 足球</span>
                 <span class="right" id="footballStats"></span>
             </h2>
-            <div id="footballTable"><div class="empty-state">暂无数据</div></div>
-        </div>
+            <div id="footballContent" class="section-content"><div id="footballTable"><div class="empty-state">暂无数据</div></div></div>
         
         <!-- Basketball Section -->
         <div class="section" id="basketballSection">
-            <h2 class="section-title">
-                <span class="left">🏀 篮球</span>
+            <h2 class="section-title section-header" onclick="toggleSection('basketball')">
+                <span class="left">🏀 <span class="collapse-icon">▼</span> 篮球</span>
                 <span class="right" id="basketballStats"></span>
             </h2>
-            <div id="basketballTable"><div class="empty-state">暂无数据</div></div>
-        </div>
+            <div id="basketballContent" class="section-content"><div id="basketballTable"><div class="empty-state">暂无数据</div></div></div>
         
         <!-- Tennis Section -->
         <div class="section" id="tennisSection">
-            <h2 class="section-title">
-                <span class="left">🎾 网球</span>
+            <h2 class="section-title section-header" onclick="toggleSection('tennis')">
+                <span class="left">🎾 <span class="collapse-icon">▼</span> 网球</span>
                 <span class="right" id="tennisStats"></span>
             </h2>
-            <div id="tennisTable"><div class="empty-state">暂无数据</div></div>
-        </div>
+            <div id="tennisContent" class="section-content"><div id="tennisTable"><div class="empty-state">暂无数据</div></div></div>
         
         <!-- Esports Section -->
         <div class="section" id="esportsSection">
-            <h2 class="section-title">
-                <span class="left">🎮 电竞</span>
+            <h2 class="section-title section-header" onclick="toggleSection('esports')">
+                <span class="left">🎮 <span class="collapse-icon">▼</span> 电竞</span>
                 <span class="right" id="esportsStats"></span>
             </h2>
-            <div id="esportsTable"><div class="empty-state">暂无数据</div></div>
-        </div>
+            <div id="esportsContent" class="section-content"><div id="esportsTable"><div class="empty-state">暂无数据</div></div></div>
     </div>
     
     <button class="refresh-btn" onclick="location.reload()" title="刷新">🔄</button>
@@ -560,6 +619,22 @@
             showDebug(`❌ Firebase 错误: ${error.message}`);
             console.error('[Firebase Error]', error);
         });
+
+        // 折叠/展开功能
+        function toggleSection(cat) {
+            const contentEl = document.getElementById(cat + 'Content');
+            const headerEl = contentEl.previousElementSibling;
+            const iconEl = headerEl.querySelector('.collapse-icon');
+            
+            if (contentEl.classList.contains('collapsed')) {
+                contentEl.classList.remove('collapsed');
+                if (iconEl) iconEl.classList.remove('collapsed');
+            } else {
+                contentEl.classList.add('collapsed');
+                if (iconEl) iconEl.classList.add('collapsed');
+            }
+        }
+
     </script>
 </body>
 </html>
