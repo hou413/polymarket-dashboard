@@ -1,49 +1,10 @@
 {
-  "totalMatches": 38,
-  "totalPredictions": 74,
-  "winRate": 51.4,
+  "totalMatches": 39,
+  "totalPredictions": 77,
+  "winRate": 48.1,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 09:55:45",
+  "lastUpdate": "2026-11-25 10:54:35",
   "history": [
-    {
-      "date": "2026-11-20",
-      "timestamp": 1795289700000,
-      "sport": "⚽",
-      "match": "北京国安 vs 上海海港",
-      "link": "https://polymarket.com/event/chfa-bjg-shp-2026-11-20",
-      "slug": "chfa-bjg-shp-2026-11-20",
-      "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "大小球 2.5",
-          "direction": "小",
-          "price": "51.0¢",
-          "consensus": "4人 净额$16,138 (4正收益团队)",
-          "hit": false,
-          "note": "🟢高可信度 - 4团队全部正收益, 2.4:1资金优势 ❌"
-        },
-        {
-          "type": "大小球 1.5",
-          "direction": "小",
-          "price": "20.5¢",
-          "consensus": "3人 净额$4,782",
-          "hit": false,
-          "note": "🟢高可信度 ❌"
-        },
-        {
-          "type": "让分 海港-1.5",
-          "direction": "国安",
-          "price": "47.0¢",
-          "consensus": "1人 净额$2,852",
-          "hit": true,
-          "note": "🟢高可信度 ✅"
-        }
-      ]
-    },
     {
       "date": "2026-11-20",
       "timestamp": 1795388400000,
@@ -142,37 +103,6 @@
           "consensus": "3人 净额$1,987 (2.9:1)",
           "hit": false,
           "note": "🟡中可信度 ❌"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "timestamp": 1795287600000,
-      "sport": "🏀",
-      "match": "Celtics vs Kings",
-      "link": "https://polymarket.com/event/nba-bos-sac-2026-11-21",
-      "slug": "nba-bos-sac-2026-11-21",
-      "predictions": 2,
-      "hits": 0,
-      "accuracy": 0,
-      "result": "",
-      "prediction": "",
-      "predictions_list": [
-        {
-          "type": "大小球 217.5",
-          "direction": "大",
-          "price": "49.5¢",
-          "consensus": "7人 净额$162,072 (8.3:1)",
-          "hit": false,
-          "note": "🟢高可信度 - 最强信号 ❌"
-        },
-        {
-          "type": "大小球 219.5",
-          "direction": "大",
-          "price": "44.5¢",
-          "consensus": "3人 净额$47,951 (3.6:1)",
-          "hit": false,
-          "note": "🟢高可信度 ❌"
         }
       ]
     },
@@ -1163,6 +1093,115 @@
           "consensus": "$2,000 (∞:1)",
           "hit": true,
           "note": "🟡 中 - 自动分析 ✅"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795568400000,
+      "sport": "🏀",
+      "match": "Celtics vs. Wizards",
+      "link": "https://polymarket.com/event/nba-bos-was-2026-11-24",
+      "slug": "nba-bos-was-2026-11-24",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 217.5",
+          "direction": "大",
+          "price": "72.5¢",
+          "consensus": "$18,690 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "让分 -9.5",
+          "direction": "Celtics",
+          "price": "87.5¢",
+          "consensus": "$16,337 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "Wizards",
+          "price": "2.5¢",
+          "consensus": "$11,596 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795575600000,
+      "sport": "🏀",
+      "match": "Mavericks vs. Nuggets",
+      "link": "https://polymarket.com/event/nba-dal-den-2026-11-24",
+      "slug": "nba-dal-den-2026-11-24",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Mavericks",
+          "price": "27.5¢",
+          "consensus": "$65,798 (∞:1)",
+          "hit": null,
+          "note": "🟢 高 - 自动分析"
+        },
+        {
+          "type": "大小球 234.5",
+          "direction": "大",
+          "price": "48.5¢",
+          "consensus": "$44,166 (∞:1)",
+          "hit": null,
+          "note": "🟢 高 - 自动分析"
+        },
+        {
+          "type": "大小球 232.5",
+          "direction": "大",
+          "price": "55.5¢",
+          "consensus": "$33,850 (∞:1)",
+          "hit": null,
+          "note": "🟢 高 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "timestamp": 1795575600000,
+      "sport": "⚽",
+      "match": "San Jose Earthquakes vs. Houston Dynamo",
+      "link": "https://polymarket.com/event/mls-sje-hou-2026-11-24",
+      "slug": "mls-sje-hou-2026-11-24",
+      "predictions": 2,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "San Jose",
+          "price": "49.5¢",
+          "consensus": "7人 净额$78,450 (∞:1)",
+          "hit": null,
+          "note": "🟡中 - 自动分析"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "小",
+          "price": "42.5¢",
+          "consensus": "4人 净额$15,988 (∞:1)",
+          "hit": null,
+          "note": "🟡中 - 自动分析"
         }
       ]
     }
