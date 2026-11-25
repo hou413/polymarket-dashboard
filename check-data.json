@@ -1,9 +1,9 @@
 {
   "totalMatches": 38,
   "totalPredictions": 74,
-  "winRate": 48.6,
+  "winRate": 51.4,
   "pendingCount": 0,
-  "lastUpdate": "2026-11-25 09:45:03",
+  "lastUpdate": "2026-11-25 09:55:45",
   "history": [
     {
       "date": "2026-11-20",
@@ -974,8 +974,8 @@
           "direction": "小",
           "price": "17.5¢",
           "consensus": "$32,642 (48.6:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         },
         {
           "type": "胜负",
@@ -990,8 +990,8 @@
           "direction": "小",
           "price": "48.0¢",
           "consensus": "$20,971 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         }
       ]
     },
@@ -1091,8 +1091,8 @@
           "direction": "小",
           "price": "38.5¢",
           "consensus": "$2,087 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         }
       ]
     },
@@ -1104,8 +1104,8 @@
       "link": "https://polymarket.com/event/ucl-gal-ast-2026-11-24",
       "slug": "ucl-gal-ast-2026-11-24",
       "predictions": 3,
-      "hits": 1,
-      "accuracy": 33,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1122,16 +1122,16 @@
           "direction": "小",
           "price": "62.5¢",
           "consensus": "$69,130 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "大小球 2.5",
           "direction": "大",
           "price": "60.5¢",
           "consensus": "$25,592 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌"
         }
       ]
     },
@@ -1143,8 +1143,8 @@
       "link": "https://polymarket.com/event/ucl-bog-lin2-2026-11-24",
       "slug": "ucl-bog-lin2-2026-11-24",
       "predictions": 2,
-      "hits": 1,
-      "accuracy": 50,
+      "hits": 2,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1161,8 +1161,8 @@
           "direction": "小",
           "price": "22.5¢",
           "consensus": "$2,000 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         }
       ]
     }
