@@ -226,10 +226,28 @@
             color: #86868b;
         }
         
-        .last-update {
-            font-size: 0.85em;
+        .header-meta {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+            margin-top: 12px;
+            flex-wrap: wrap;
+        }
+        .header-meta .live-time {
+            font-size: 1.1em;
+            font-weight: 500;
+            color: #1d1d1f;
+            font-family: 'SF Mono', 'Menlo', monospace;
+        }
+        .header-meta .update-time {
+            font-size: 1.1em;
+            font-weight: 500;
             color: #86868b;
-            margin-top: 8px;
+            font-family: 'SF Mono', 'Menlo', monospace;
+        }
+        .header-meta .divider {
+            color: #d1d1d6;
         }
         .long-term-stats {
             font-size: 0.72em;
@@ -271,10 +289,11 @@
             <h1>Check 策略看板</h1>
             <p class="subtitle">聪明钱按需分析 · 动态识别共识方向</p>
             <div class="version-badge">🔥 Firebase 实时版</div>
-            <div class="live-time">
-                <span><span class="live-dot"></span><span id="liveClock">--</span></span>
+            <div class="header-meta">
+                <div class="live-time"><span class="live-dot"></span><span id="liveClock">--</span></div>
+                <span class="divider">|</span>
+                <div class="update-time" id="lastUpdate">更新于 --</div>
             </div>
-            <div class="last-update" id="lastUpdate">更新时间: --</div>
         </header>
         
         <div id="debugInfo" class="debug-info" style="display:none;"></div>
@@ -404,7 +423,7 @@
             // 显示更新时间
             const lastUpdateEl = document.getElementById("lastUpdate");
             if (lastUpdateEl && data.lastUpdate) {
-                lastUpdateEl.textContent = "更新时间: " + data.lastUpdate;
+                lastUpdateEl.textContent = "更新于 " + data.lastUpdate;
             }
             const now = Date.now();
             const oneYearAgo = now - 365 * 24 * 60 * 60 * 1000;
