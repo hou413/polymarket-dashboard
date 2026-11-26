@@ -28,30 +28,6 @@
       "accuracy": 0,
       "date": "2026-11-23",
       "hits": 0,
-      "link": "https://polymarket.com/event/cs2-pha-bca-2026-11-23",
-      "match": "Phantom vs Betclic Apogee",
-      "prediction": "",
-      "predictions": 1,
-      "predictions_list": [
-        {
-          "consensus": "11人 净额$94,121 (9.4:1)",
-          "direction": "Phantom",
-          "hit": false,
-          "note": "🟡中可信度 - 最大团队$84.8K重仓 ❌",
-          "price": "59.5¢",
-          "type": "胜负",
-          "verifyMarket": "Counter-Strike: Phantom vs Betclic Apogee Esports - Map 1 Winner"
-        }
-      ],
-      "result": "",
-      "slug": "cs2-pha-bca-2026-11-23",
-      "sport": "🎮",
-      "timestamp": 1795424400000
-    },
-    {
-      "accuracy": 0,
-      "date": "2026-11-23",
-      "hits": 0,
       "link": "https://polymarket.com/event/acle-nef-hil-2026-11-23",
       "match": "Neftchi Fargona vs Al Hilal",
       "prediction": "",
@@ -1492,11 +1468,25 @@
           "note": "🟡 中 - 自动分析"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1796292600000,
+      "sport": "⚽",
+      "match": "Davis Cup: Arthur Fery vs. Alexander Zverev",
+      "link": "https://polymarket.com/event/daviscup-fery-zverev-2026-11-26",
+      "slug": "daviscup-fery-zverev-2026-11-26",
+      "predictions": 0,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": []
     }
   ],
-  "lastUpdate": "2026-11-26 16:10:28",
+  "lastUpdate": "2026-11-26 19:58:28",
   "pendingCount": 0,
   "totalMatches": 44,
-  "totalPredictions": 91,
-  "winRate": 39.6
+  "totalPredictions": 90,
+  "winRate": 40
 }
