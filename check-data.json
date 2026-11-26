@@ -1121,11 +1121,50 @@
           "note": "🟢 高 - 自动分析"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1795662000000,
+      "sport": "🏀",
+      "match": "Spurs vs. Trail Blazers",
+      "link": "https://polymarket.com/event/nba-sas-por-2026-11-25",
+      "slug": "nba-sas-por-2026-11-25",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "让分 -3.5",
+          "direction": "Spurs",
+          "price": "41.0¢",
+          "consensus": "$131,314 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "Trail Blazers",
+          "price": "52.5¢",
+          "consensus": "$130,261 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 226.5",
+          "direction": "小",
+          "price": "47.5¢",
+          "consensus": "$50,269 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-26 12:12:36",
+  "lastUpdate": "2026-11-26 12:19:08",
   "pendingCount": 0,
-  "totalMatches": 36,
-  "totalPredictions": 73,
-  "winRate": 57.5
+  "totalMatches": 37,
+  "totalPredictions": 76,
+  "winRate": 55.3
 }
