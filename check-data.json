@@ -1521,11 +1521,50 @@
           "note": "🟡 中 - 自动分析"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1795695300000,
+      "sport": "⚽",
+      "match": "Tai Po FC vs. Adelaide United FC",
+      "link": "https://polymarket.com/event/acl2-tai-adu-2026-11-26",
+      "slug": "acl2-tai-adu-2026-11-26",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 4.5",
+          "direction": "大",
+          "price": "43.5¢",
+          "consensus": "$3,146 (∞:1)",
+          "hit": null,
+          "note": "🟢 高 - 自动分析"
+        },
+        {
+          "type": "大小球 3.5",
+          "direction": "小",
+          "price": "54.5¢",
+          "consensus": "$2,414 (∞:1)",
+          "hit": null,
+          "note": "🟢 高 - 自动分析"
+        },
+        {
+          "type": "让分 -1.5",
+          "direction": "Adelaide United FC",
+          "price": "53.5¢",
+          "consensus": "$1,529 (∞:1)",
+          "hit": null,
+          "note": "🟢 高 - 自动分析"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-26 20:14:25",
+  "lastUpdate": "2026-11-26 20:18:27",
   "pendingCount": 0,
-  "totalMatches": 45,
-  "totalPredictions": 93,
-  "winRate": 38.7
+  "totalMatches": 46,
+  "totalPredictions": 96,
+  "winRate": 37.5
 }
