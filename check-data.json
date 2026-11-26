@@ -15,7 +15,8 @@
           "hit": true,
           "note": "🟡中可信度 - 信号偏弱 ✅",
           "price": "65.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Playford: Florian Broska vs Anton Shepp"
         }
       ],
       "result": "",
@@ -24,9 +25,9 @@
       "timestamp": 1796023800000
     },
     {
-      "accuracy": 100,
+      "accuracy": 0,
       "date": "2026-11-23",
-      "hits": 1,
+      "hits": 0,
       "link": "https://polymarket.com/event/cs2-pha-bca-2026-11-23",
       "match": "Phantom vs Betclic Apogee",
       "prediction": "",
@@ -35,10 +36,11 @@
         {
           "consensus": "11人 净额$94,121 (9.4:1)",
           "direction": "Phantom",
-          "hit": true,
-          "note": "🟡中可信度 - 最大团队$84.8K重仓 ✅",
+          "hit": false,
+          "note": "🟡中可信度 - 最大团队$84.8K重仓 ❌",
           "price": "59.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Counter-Strike: Phantom vs Betclic Apogee Esports - Map 1 Winner"
         }
       ],
       "result": "",
@@ -47,9 +49,9 @@
       "timestamp": 1795424400000
     },
     {
-      "accuracy": 33,
+      "accuracy": 0,
       "date": "2026-11-23",
-      "hits": 1,
+      "hits": 0,
       "link": "https://polymarket.com/event/acle-nef-hil-2026-11-23",
       "match": "Neftchi Fargona vs Al Hilal",
       "prediction": "",
@@ -58,10 +60,11 @@
         {
           "consensus": "1人 净额$2,124 (∞:1)",
           "direction": "Neftchi覆盖",
-          "hit": true,
-          "note": "🟡中可信度 - 流动性低 ✅",
+          "hit": false,
+          "note": "🟡中可信度 - 流动性低 ❌",
           "price": "48.5¢",
-          "type": "让分 -1.5"
+          "type": "让分 -1.5",
+          "verifyMarket": "Spread: FK Neftchi Fargona (-1.5)"
         },
         {
           "consensus": "2人 净额$1,865 (∞:1)",
@@ -69,15 +72,17 @@
           "hit": false,
           "note": "🟡中可信度 ❌",
           "price": "74.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will FK Neftchi Fargona vs. Al Hilal SFC end in a draw?"
         },
         {
           "consensus": "1人 净额$505 (∞:1)",
           "direction": "大",
-          "hit": false,
-          "note": "🟡中可信度 - 信号弱 ❌",
+          "hit": null,
+          "note": "🟡中可信度 - 信号弱 ⚠️",
           "price": "25.0¢",
-          "type": "大小球 4.5"
+          "type": "大小球 4.5",
+          "verifyError": "无对应市场 (O/U 4.5)"
         }
       ],
       "result": "",
@@ -100,7 +105,8 @@
           "hit": false,
           "note": "🟡中可信度 - 自动扫描 ❌",
           "price": "-",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Dota 2: Team Nemesis vs Xtreme Gaming (BO3) - BLAST Slam Group B"
         }
       ],
       "result": "",
@@ -123,7 +129,8 @@
           "hit": true,
           "note": "🟡中可信度 - 自动扫描 ✅",
           "price": "-",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A"
         }
       ],
       "result": "",
@@ -132,9 +139,9 @@
       "timestamp": 1795464000000
     },
     {
-      "accuracy": 100,
+      "accuracy": 0,
       "date": "2026-11-23",
-      "hits": 1,
+      "hits": 0,
       "link": "https://polymarket.com/event/cs2-g2a-maybe-2026-11-23",
       "match": "Counter-Strike: G2 Ares vs maybe (BO3) - CCT Europe Closed Qualifier: Series #15 Group B",
       "prediction": "",
@@ -143,10 +150,11 @@
         {
           "consensus": "$5,127 (∞:1)",
           "direction": "maybe",
-          "hit": true,
-          "note": "🟡中可信度 - 自动扫描 ✅",
+          "hit": false,
+          "note": "🟡中可信度 - 自动扫描 ❌",
           "price": "-",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Counter-Strike: G2 Ares vs maybe - Map 1 Winner"
         }
       ],
       "result": "",
@@ -169,7 +177,8 @@
           "hit": false,
           "note": "🟡中可信度 - 自动扫描 ❌",
           "price": "-",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C"
         }
       ],
       "result": "",
@@ -192,7 +201,8 @@
           "hit": true,
           "note": "🟡中可信度 - 自动扫描 ✅",
           "price": "-",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Dota 2: Aurora vs LGD Gaming (BO3) - BLAST Slam Group D"
         }
       ],
       "result": "",
@@ -215,7 +225,8 @@
           "hit": true,
           "note": "🟡中可信度 - 自动扫描 ✅",
           "price": "-",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Counter-Strike: INFURITY Gaming vs Lunacy Team - Map 1 Winner"
         }
       ],
       "result": "",
@@ -224,9 +235,9 @@
       "timestamp": 1795478400000
     },
     {
-      "accuracy": 100,
+      "accuracy": 0,
       "date": "2026-11-23",
-      "hits": 1,
+      "hits": 0,
       "link": "https://polymarket.com/event/cs2-ill4-phanto-2026-11-23",
       "match": "Counter-Strike: ILLYRIANS vs  Phantom Academy (BO3) - CCT Europe Closed Qualifier: Series #15 Group C",
       "prediction": "",
@@ -235,10 +246,11 @@
         {
           "consensus": "$565 (∞:1)",
           "direction": "ILLYRIANS",
-          "hit": true,
-          "note": "🟡中可信度 - 自动扫描 ✅",
+          "hit": false,
+          "note": "🟡中可信度 - 自动扫描 ❌",
           "price": "-",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Counter-Strike: ILLYRIANS vs  Phantom Academy - Map 1 Winner"
         }
       ],
       "result": "",
@@ -261,7 +273,8 @@
           "hit": true,
           "note": "🟡中可信度 - 自动扫描 ✅",
           "price": "-",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Counter-Strike: SINQU vs RoundsGG - Map 1 Winner"
         }
       ],
       "result": "",
@@ -284,7 +297,8 @@
           "hit": true,
           "note": "🟡中可信度 - 自动扫描 ✅",
           "price": "-",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Counter-Strike: Prestige vs Nordic Valor - Map 1 Winner"
         }
       ],
       "result": "",
@@ -306,9 +320,9 @@
       "timestamp": 1795509000000
     },
     {
-      "accuracy": 100,
+      "accuracy": 0,
       "date": "2026-11-24",
-      "hits": 3,
+      "hits": 0,
       "link": "https://polymarket.com/event/acle-shp-bur-2026-11-24",
       "match": "Shanghai Port FC vs. Buriram United",
       "prediction": "",
@@ -317,26 +331,29 @@
         {
           "consensus": "$32,642 (48.6:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "17.5¢",
-          "type": "大小球 2.5"
+          "type": "大小球 2.5",
+          "verifyError": "无对应市场 (O/U 2.5)"
         },
         {
           "consensus": "$24,644 (8.5:1)",
           "direction": "Yes",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
           "price": "49.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will Shanghai Port FC vs. Buriram United end in a draw?"
         },
         {
           "consensus": "$20,971 (∞:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "48.0¢",
-          "type": "大小球 3.5"
+          "type": "大小球 3.5",
+          "verifyError": "无对应市场 (O/U 3.5)"
         }
       ],
       "result": "",
@@ -359,7 +376,8 @@
           "hit": false,
           "note": "🟡 中 - 自动分析 ❌",
           "price": "66.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches"
         },
         {
           "consensus": "$71,316 (∞:1)",
@@ -367,7 +385,8 @@
           "hit": false,
           "note": "🟡 中 - 自动分析 ❌",
           "price": "32.0¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches"
         },
         {
           "consensus": "$45,018 (∞:1)",
@@ -375,7 +394,8 @@
           "hit": false,
           "note": "🟡 中 - 自动分析 ❌",
           "price": "80.0¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches"
         }
       ],
       "result": "",
@@ -398,7 +418,8 @@
           "hit": true,
           "note": "🟡 中 - 自动分析 ✅",
           "price": "96.7¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Dota 2: GamerLegion vs PARIVISION (BO3) - BLAST Slam Seeding Matches"
         },
         {
           "consensus": "$34,891 (∞:1)",
@@ -406,7 +427,8 @@
           "hit": false,
           "note": "🟡 中 - 自动分析 ❌",
           "price": "29.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Dota 2: GamerLegion vs PARIVISION (BO3) - BLAST Slam Seeding Matches"
         }
       ],
       "result": "",
@@ -429,15 +451,17 @@
           "hit": true,
           "note": "🟡 中 - 自动分析 ✅",
           "price": "91.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will Shabab Al Ahli Dubai vs. Al Qadsiah end in a draw?"
         },
         {
           "consensus": "$2,087 (∞:1)",
           "direction": "小",
-          "hit": false,
-          "note": "🟡 中 - 自动分析 ❌",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "38.5¢",
-          "type": "大小球 3.5"
+          "type": "大小球 3.5",
+          "verifyError": "无对应市场 (O/U 3.5)"
         }
       ],
       "result": "",
@@ -446,9 +470,9 @@
       "timestamp": 1795536000000
     },
     {
-      "accuracy": 67,
+      "accuracy": 0,
       "date": "2026-11-24",
-      "hits": 2,
+      "hits": 0,
       "link": "https://polymarket.com/event/ucl-gal-ast-2026-11-24",
       "match": "Galatasaray SK vs. Aston Villa FC",
       "prediction": "",
@@ -457,26 +481,29 @@
         {
           "consensus": "$263,999 (∞:1)",
           "direction": "Yes",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
           "price": "45.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will Galatasaray SK vs. Aston Villa FC end in a draw?"
         },
         {
           "consensus": "$69,130 (∞:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "62.5¢",
-          "type": "大小球 3.5"
+          "type": "大小球 3.5",
+          "verifyError": "无对应市场 (O/U 3.5)"
         },
         {
           "consensus": "$25,592 (∞:1)",
           "direction": "大",
-          "hit": false,
-          "note": "🟡 中 - 自动分析 ❌",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "60.5¢",
-          "type": "大小球 2.5"
+          "type": "大小球 2.5",
+          "verifyError": "无对应市场 (O/U 2.5)"
         }
       ],
       "result": "",
@@ -485,9 +512,9 @@
       "timestamp": 1795542300000
     },
     {
-      "accuracy": 100,
+      "accuracy": 0,
       "date": "2026-11-24",
-      "hits": 2,
+      "hits": 0,
       "link": "https://polymarket.com/event/ucl-bog-lin2-2026-11-24",
       "match": "FK Bodø/Glimt vs. LASK Linz",
       "prediction": "",
@@ -496,18 +523,20 @@
         {
           "consensus": "$41,793 (∞:1)",
           "direction": "Yes",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
           "price": "71.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will FK Bodø/Glimt vs. LASK Linz end in a draw?"
         },
         {
           "consensus": "$2,000 (∞:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "22.5¢",
-          "type": "大小球 2.5"
+          "type": "大小球 2.5",
+          "verifyError": "无对应市场 (O/U 2.5)"
         }
       ],
       "result": "",
@@ -516,9 +545,9 @@
       "timestamp": 1795542300000
     },
     {
-      "accuracy": 67,
+      "accuracy": 33,
       "date": "2026-11-25",
-      "hits": 2,
+      "hits": 1,
       "link": "https://polymarket.com/event/nba-bos-was-2026-11-24",
       "match": "Celtics vs. Wizards",
       "prediction": "",
@@ -527,10 +556,11 @@
         {
           "consensus": "$18,690 (∞:1)",
           "direction": "大",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "72.5¢",
-          "type": "大小球 217.5"
+          "type": "大小球 217.5",
+          "verifyError": "无对应市场 (O/U 217.5)"
         },
         {
           "consensus": "$16,337 (∞:1)",
@@ -538,7 +568,8 @@
           "hit": true,
           "note": "🟡 中 - 自动分析 ✅",
           "price": "87.5¢",
-          "type": "让分 -9.5"
+          "type": "让分 -9.5",
+          "verifyMarket": "Spread: Celtics (-9.5)"
         },
         {
           "consensus": "$11,596 (∞:1)",
@@ -546,7 +577,8 @@
           "hit": false,
           "note": "🟡 中 - 自动分析 ❌",
           "price": "2.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Celtics vs. Wizards"
         }
       ],
       "result": "",
@@ -569,23 +601,26 @@
           "hit": true,
           "note": "🟢 高 - 自动分析 ✅",
           "price": "27.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Mavericks vs. Nuggets"
         },
         {
           "consensus": "$44,166 (∞:1)",
           "direction": "大",
-          "hit": false,
-          "note": "🟢 高 - 自动分析 ❌",
+          "hit": null,
+          "note": "🟢 高 - 自动分析 ⚠️",
           "price": "48.5¢",
-          "type": "大小球 234.5"
+          "type": "大小球 234.5",
+          "verifyError": "无对应市场 (O/U 234.5)"
         },
         {
           "consensus": "$33,850 (∞:1)",
           "direction": "大",
-          "hit": false,
-          "note": "🟢 高 - 自动分析 ❌",
+          "hit": null,
+          "note": "🟢 高 - 自动分析 ⚠️",
           "price": "55.5¢",
-          "type": "大小球 232.5"
+          "type": "大小球 232.5",
+          "verifyError": "无对应市场 (O/U 232.5)"
         }
       ],
       "result": "",
@@ -594,9 +629,9 @@
       "timestamp": 1795575600000
     },
     {
-      "accuracy": 100,
+      "accuracy": 0,
       "date": "2026-11-25",
-      "hits": 2,
+      "hits": 0,
       "link": "https://polymarket.com/event/mls-sje-hou-2026-11-24",
       "match": "San Jose Earthquakes vs. Houston Dynamo",
       "prediction": "",
@@ -605,18 +640,20 @@
         {
           "consensus": "7人 净额$78,450 (∞:1)",
           "direction": "San Jose",
-          "hit": true,
-          "note": "🟡中 - 自动分析 ✅",
+          "hit": false,
+          "note": "🟡中 - 自动分析 ❌",
           "price": "49.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will San Jose Earthquakes vs. Houston Dynamo end in a draw?"
         },
         {
           "consensus": "4人 净额$15,988 (∞:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡中 - 自动分析 ⚠️",
           "price": "42.5¢",
-          "type": "大小球 2.5"
+          "type": "大小球 2.5",
+          "verifyError": "无对应市场 (O/U 2.5)"
         }
       ],
       "result": "",
@@ -625,9 +662,9 @@
       "timestamp": 1795575600000
     },
     {
-      "accuracy": 100,
+      "accuracy": 50,
       "date": "2026-11-25",
-      "hits": 2,
+      "hits": 1,
       "link": "https://polymarket.com/event/cbb-gcan-stlou-2026-11-24",
       "match": "Grand Canyon Antelopes vs. Saint Louis Billikens",
       "prediction": "",
@@ -639,15 +676,17 @@
           "hit": true,
           "note": "🟡 中 - 自动分析 ✅",
           "price": "72.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Grand Canyon Antelopes vs. Saint Louis Billikens"
         },
         {
           "consensus": "$800 (∞:1)",
           "direction": "Saint Louis Billikens",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
           "price": "47.5¢",
-          "type": "让分 -1.5"
+          "type": "让分 -1.5",
+          "verifyMarket": "Spread: Grand Canyon Antelopes (-1.5)"
         }
       ],
       "result": "",
@@ -667,10 +706,11 @@
         {
           "consensus": "$787 (∞:1)",
           "direction": "小",
-          "hit": false,
-          "note": "🔴 低 - 自动分析 ❌",
+          "hit": null,
+          "note": "🔴 低 - 自动分析 ⚠️",
           "price": "4.5¢",
-          "type": "大小球 149.5"
+          "type": "大小球 149.5",
+          "verifyError": "无对应市场 (O/U 149.5)"
         },
         {
           "consensus": "$516 (∞:1)",
@@ -678,7 +718,8 @@
           "hit": false,
           "note": "🟡 中 - 自动分析 ❌",
           "price": "12.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "VCU Rams vs. Colorado State Rams"
         }
       ],
       "result": "",
@@ -698,18 +739,20 @@
         {
           "consensus": "$10,993 (∞:1)",
           "direction": "大",
-          "hit": false,
-          "note": "🟡 中 - 自动分析 ❌",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "35.5¢",
-          "type": "大小球 3.5"
+          "type": "大小球 3.5",
+          "verifyError": "无对应市场 (O/U 3.5)"
         },
         {
           "consensus": "$9,925 (∞:1)",
           "direction": "大",
-          "hit": false,
-          "note": "🟡 中 - 自动分析 ❌",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "55.5¢",
-          "type": "大小球 2.5"
+          "type": "大小球 2.5",
+          "verifyError": "无对应市场 (O/U 2.5)"
         },
         {
           "consensus": "$711 (∞:1)",
@@ -717,7 +760,8 @@
           "hit": false,
           "note": "🟡 中 - 自动分析 ❌",
           "price": "50.0¢",
-          "type": "让分 -1.5"
+          "type": "让分 -1.5",
+          "verifyMarket": "Spread: Melbourne Victory FC (-1.5)"
         }
       ],
       "result": "",
@@ -726,9 +770,9 @@
       "timestamp": 1795592700000
     },
     {
-      "accuracy": 100,
+      "accuracy": 0,
       "date": "2026-11-25",
-      "hits": 3,
+      "hits": 0,
       "link": "https://polymarket.com/event/ja2-van-alb-2026-11-25",
       "match": "Vanraure Hachinohe FC vs. Albirex Niigata",
       "prediction": "",
@@ -737,26 +781,29 @@
         {
           "consensus": "$5,814 (∞:1)",
           "direction": "Yes",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
           "price": "30.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will Vanraure Hachinohe FC vs. Albirex Niigata end in a draw?"
         },
         {
           "consensus": "$1,919 (∞:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "60.5¢",
-          "type": "大小球 2.5"
+          "type": "大小球 2.5",
+          "verifyError": "无对应市场 (O/U 2.5)"
         },
         {
           "consensus": "$941 (∞:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "37.5¢",
-          "type": "大小球 1.5"
+          "type": "大小球 1.5",
+          "verifyError": "无对应市场 (O/U 1.5)"
         }
       ],
       "result": "",
@@ -765,9 +812,9 @@
       "timestamp": 1795599000000
     },
     {
-      "accuracy": 100,
+      "accuracy": 50,
       "date": "2026-11-25",
-      "hits": 2,
+      "hits": 1,
       "link": "https://polymarket.com/event/ja2-imb-teg-2026-11-25",
       "match": "FC Imabari vs. Tegevajaro Miyazaki",
       "prediction": "",
@@ -779,15 +826,17 @@
           "hit": true,
           "note": "🟡 中 - 自动分析 ✅",
           "price": "49.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will FC Imabari vs. Tegevajaro Miyazaki end in a draw?"
         },
         {
           "consensus": "$976 (∞:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "60.5¢",
-          "type": "大小球 2.5"
+          "type": "大小球 2.5",
+          "verifyError": "无对应市场 (O/U 2.5)"
         }
       ],
       "result": "",
@@ -796,9 +845,9 @@
       "timestamp": 1795599000000
     },
     {
-      "accuracy": 100,
+      "accuracy": 0,
       "date": "2026-11-25",
-      "hits": 3,
+      "hits": 0,
       "link": "https://polymarket.com/event/acle-gam-por-2026-11-25",
       "match": "Gamba Osaka vs. Port FC",
       "prediction": "",
@@ -807,26 +856,29 @@
         {
           "consensus": "$36,794 (∞:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "61.5¢",
-          "type": "大小球 3.5"
+          "type": "大小球 3.5",
+          "verifyError": "无对应市场 (O/U 3.5)"
         },
         {
           "consensus": "$16,690 (∞:1)",
           "direction": "Yes",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
           "price": "73.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will Gamba Osaka vs. Port FC end in a draw?"
         },
         {
           "consensus": "$15,410 (∞:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "74.0¢",
-          "type": "大小球 4.5"
+          "type": "大小球 4.5",
+          "verifyError": "无对应市场 (O/U 4.5)"
         }
       ],
       "result": "",
@@ -846,26 +898,29 @@
         {
           "consensus": "$7,350 (∞:1)",
           "direction": "大",
-          "hit": false,
-          "note": "🟡 中 - 自动分析 ❌",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "29.5¢",
-          "type": "大小球 3.5"
+          "type": "大小球 3.5",
+          "verifyError": "无对应市场 (O/U 3.5)"
         },
         {
           "consensus": "$5,434 (∞:1)",
           "direction": "No",
-          "hit": false,
-          "note": "🟡 中 - 自动分析 ❌",
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
           "price": "37.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will Kashima Antlers vs. Jeonbuk FC end in a draw?"
         },
         {
           "consensus": "$4,368 (∞:1)",
           "direction": "Yes",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
           "price": "22.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will Kashima Antlers vs. Jeonbuk FC end in a draw?"
         }
       ],
       "result": "",
@@ -874,9 +929,9 @@
       "timestamp": 1795600800000
     },
     {
-      "accuracy": 50,
+      "accuracy": 0,
       "date": "2026-11-25",
-      "hits": 1,
+      "hits": 0,
       "link": "https://polymarket.com/event/jap-vva-kaw-2026-11-25",
       "match": "V-Varen Nagasaki vs. Kawasaki Frontale",
       "prediction": "",
@@ -885,18 +940,20 @@
         {
           "consensus": "$66,287 (∞:1)",
           "direction": "Yes",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
           "price": "55.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will V-Varen Nagasaki vs. Kawasaki Frontale end in a draw?"
         },
         {
           "consensus": "$906 (∞:1)",
           "direction": "大",
-          "hit": false,
-          "note": "🟡 中 - 自动分析 ❌",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "56.5¢",
-          "type": "大小球 2.5"
+          "type": "大小球 2.5",
+          "verifyError": "无对应市场 (O/U 2.5)"
         }
       ],
       "result": "",
@@ -905,9 +962,9 @@
       "timestamp": 1795600800000
     },
     {
-      "accuracy": 67,
+      "accuracy": 33,
       "date": "2026-11-25",
-      "hits": 2,
+      "hits": 1,
       "link": "https://polymarket.com/event/jap-fct-san-2026-11-25",
       "match": "FC Tōkyō vs. Sanfrecce Hiroshima",
       "prediction": "",
@@ -916,26 +973,29 @@
         {
           "consensus": "$53,193 (∞:1)",
           "direction": "Yes",
-          "hit": false,
-          "note": "🟡 中 - 自动分析 ❌",
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
           "price": "49.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will FC Tōkyō vs. Sanfrecce Hiroshima end in a draw?"
         },
         {
           "consensus": "$20,505 (∞:1)",
           "direction": "大",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "47.5¢",
-          "type": "大小球 2.5"
+          "type": "大小球 2.5",
+          "verifyError": "无对应市场 (O/U 2.5)"
         },
         {
           "consensus": "$3,347 (∞:1)",
           "direction": "大",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "23.5¢",
-          "type": "大小球 3.5"
+          "type": "大小球 3.5",
+          "verifyError": "无对应市场 (O/U 3.5)"
         }
       ],
       "result": "",
@@ -958,7 +1018,8 @@
           "hit": true,
           "note": "🟢 高 - 自动分析 ✅",
           "price": "81.0¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will Avispa Fukuoka vs. Yokohama F·Marinos end in a draw?"
         },
         {
           "consensus": "$6,689 (∞:1)",
@@ -966,7 +1027,8 @@
           "hit": true,
           "note": "🟢 高 - 自动分析 ✅",
           "price": "73.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will Avispa Fukuoka vs. Yokohama F·Marinos end in a draw?"
         },
         {
           "consensus": "$2,131 (∞:1)",
@@ -974,7 +1036,8 @@
           "hit": true,
           "note": "🟢 高 - 自动分析 ✅",
           "price": "7.0¢",
-          "type": "让分 -1.5"
+          "type": "让分 -1.5",
+          "verifyMarket": "Spread: Avispa Fukuoka (-1.5)"
         }
       ],
       "result": "",
@@ -983,9 +1046,9 @@
       "timestamp": 1795600800000
     },
     {
-      "accuracy": 100,
+      "accuracy": 0,
       "date": "2026-11-25",
-      "hits": 3,
+      "hits": 0,
       "link": "https://polymarket.com/event/jap-fag-ssp-2026-11-25",
       "match": "Fagiano Okayama vs. Shimizu S-Pulse",
       "prediction": "",
@@ -994,26 +1057,29 @@
         {
           "consensus": "$14,817 (∞:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "65.5¢",
-          "type": "大小球 2.5"
+          "type": "大小球 2.5",
+          "verifyError": "无对应市场 (O/U 2.5)"
         },
         {
           "consensus": "$12,125 (∞:1)",
           "direction": "Yes",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
           "price": "21.5¢",
-          "type": "胜负"
+          "type": "胜负",
+          "verifyMarket": "Will Fagiano Okayama vs. Shimizu S-Pulse end in a draw?"
         },
         {
           "consensus": "$3,834 (∞:1)",
           "direction": "小",
-          "hit": true,
-          "note": "🟡 中 - 自动分析 ✅",
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "39.5¢",
-          "type": "大小球 1.5"
+          "type": "大小球 1.5",
+          "verifyError": "无对应市场 (O/U 1.5)"
         }
       ],
       "result": "",
@@ -1033,18 +1099,20 @@
         {
           "consensus": "$9,129 (∞:1)",
           "direction": "小",
-          "note": "🟡 中 - 自动分析",
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "28.5¢",
           "type": "大小球 3.5",
-          "hit": false
+          "hit": null,
+          "verifyError": "无对应市场 (O/U 3.5)"
         },
         {
           "consensus": "$8,947 (∞:1)",
           "direction": "小",
-          "note": "🟡 中 - 自动分析",
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "48.5¢",
           "type": "大小球 4.5",
-          "hit": false
+          "hit": null,
+          "verifyError": "无对应市场 (O/U 4.5)"
         }
       ],
       "result": "",
@@ -1064,18 +1132,20 @@
         {
           "consensus": "$2,978 (∞:1)",
           "direction": "Yes",
-          "note": "🟡 中 - 自动分析",
+          "note": "🟡 中 - 自动分析 ❌",
           "price": "47.0¢",
           "type": "胜负",
-          "hit": true
+          "hit": false,
+          "verifyMarket": "Will PFC Nasaf vs. AL-Khaldiya SC end in a draw?"
         },
         {
           "consensus": "$1,044 (∞:1)",
           "direction": "小",
-          "note": "🟡 中 - 自动分析",
+          "note": "🟡 中 - 自动分析 ⚠️",
           "price": "72.5¢",
           "type": "大小球 3.5",
-          "hit": true
+          "hit": null,
+          "verifyError": "无对应市场 (O/U 3.5)"
         }
       ],
       "result": "",
@@ -1091,8 +1161,8 @@
       "link": "https://polymarket.com/event/nba-phx-hou-2026-11-25",
       "slug": "nba-phx-hou-2026-11-25",
       "predictions": 3,
-      "hits": 2,
-      "accuracy": 67,
+      "hits": 0,
+      "accuracy": 0,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1101,16 +1171,18 @@
           "direction": "小",
           "price": "100.0¢",
           "consensus": "$208,388 (∞:1)",
-          "hit": true,
-          "note": "🟢 高 - 自动分析 ✅"
+          "hit": null,
+          "note": "🟢 高 - 自动分析 ⚠️",
+          "verifyError": "无对应市场 (O/U 223.5)"
         },
         {
           "type": "大小球 225.5",
           "direction": "小",
           "price": "100.0¢",
           "consensus": "$61,723 (∞:1)",
-          "hit": true,
-          "note": "🟢 高 - 自动分析 ✅"
+          "hit": null,
+          "note": "🟢 高 - 自动分析 ⚠️",
+          "verifyError": "无对应市场 (O/U 225.5)"
         },
         {
           "type": "让分 -9.5",
@@ -1118,7 +1190,8 @@
           "price": "0.1¢",
           "consensus": "$20,411 (∞:1)",
           "hit": false,
-          "note": "🟢 高 - 自动分析 ❌"
+          "note": "🟢 高 - 自动分析 ❌",
+          "verifyMarket": "Spread: Rockets (-9.5)"
         }
       ]
     },
@@ -1141,7 +1214,8 @@
           "price": "41.0¢",
           "consensus": "$131,314 (∞:1)",
           "hit": false,
-          "note": "🟡 中 - 自动分析 ❌"
+          "note": "🟡 中 - 自动分析 ❌",
+          "verifyMarket": "Spread: Spurs (-3.5)"
         },
         {
           "type": "胜负",
@@ -1149,22 +1223,24 @@
           "price": "52.5¢",
           "consensus": "$130,261 (∞:1)",
           "hit": true,
-          "note": "🟡 中 - 自动分析 ✅"
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Spurs vs. Trail Blazers"
         },
         {
           "type": "大小球 226.5",
           "direction": "小",
           "price": "47.5¢",
           "consensus": "$50,269 (∞:1)",
-          "hit": false,
-          "note": "🟡 中 - 自动分析 ❌"
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⚠️",
+          "verifyError": "无对应市场 (O/U 226.5)"
         }
       ]
     }
   ],
-  "lastUpdate": "2026-11-26 14:16:07",
+  "lastUpdate": "2026-11-26 14:25:12",
   "pendingCount": 0,
   "totalMatches": 37,
   "totalPredictions": 76,
-  "winRate": 61.8
+  "winRate": 23.7
 }
