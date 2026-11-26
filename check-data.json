@@ -1267,11 +1267,50 @@
           "verifyMarket": "Spurs vs. Trail Blazers: O/U 226.5"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1795669140000,
+      "sport": "🏀",
+      "match": "Incarnate Word Cardinals vs. Hawaii Rainbow Warriors",
+      "link": "https://polymarket.com/event/cbb-incar-hawaii-2026-11-25",
+      "slug": "cbb-incar-hawaii-2026-11-25",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Incarnate Word Cardinals",
+          "price": "42.5¢",
+          "consensus": "$15,083 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 140.5",
+          "direction": "大",
+          "price": "24.5¢",
+          "consensus": "$4,969 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 138.5",
+          "direction": "大",
+          "price": "43.5¢",
+          "consensus": "$1,079 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-26 14:27:17",
+  "lastUpdate": "2026-11-26 14:45:14",
   "pendingCount": 0,
-  "totalMatches": 37,
-  "totalPredictions": 76,
-  "winRate": 47.4
+  "totalMatches": 38,
+  "totalPredictions": 79,
+  "winRate": 45.6
 }
