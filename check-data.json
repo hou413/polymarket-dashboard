@@ -1337,11 +1337,34 @@
           "note": "🟡 中 - 自动分析"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1795687200000,
+      "sport": "⚽",
+      "match": "BG Tampines Rovers vs. Shanghai Shenhua FC",
+      "link": "https://polymarket.com/event/acl2-tam-shs-2026-11-26",
+      "slug": "acl2-tam-shs-2026-11-26",
+      "predictions": 1,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "74.5¢",
+          "consensus": "$690 (∞:1)",
+          "hit": null,
+          "note": "🔴 低 - 自动分析"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-26 15:08:27",
+  "lastUpdate": "2026-11-26 16:02:45",
   "pendingCount": 0,
-  "totalMatches": 39,
-  "totalPredictions": 81,
-  "winRate": 44.4
+  "totalMatches": 40,
+  "totalPredictions": 82,
+  "winRate": 43.9
 }
