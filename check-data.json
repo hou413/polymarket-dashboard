@@ -1140,8 +1140,8 @@
           "direction": "Spurs",
           "price": "41.0¢",
           "consensus": "$131,314 (∞:1)",
-          "hit": false,
-          "note": "🟡 中 - 自动分析 ❌"
+          "hit": null,
+          "note": "🟡 中 - 自动分析 ⏳"
         },
         {
           "type": "胜负",
@@ -1162,7 +1162,7 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-26 13:47:28",
+  "lastUpdate": "2026-11-26 13:49:01",
   "pendingCount": 0,
   "totalMatches": 37,
   "totalPredictions": 76,
