@@ -1306,11 +1306,42 @@
           "note": "🟡 中 - 自动分析"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1795671000000,
+      "sport": "🏀",
+      "match": "Clemson Tigers vs. Colorado State Rams",
+      "link": "https://polymarket.com/event/cbb-clmsn-colst-2026-11-26",
+      "slug": "cbb-clmsn-colst-2026-11-26",
+      "predictions": 2,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Colorado State Rams",
+          "price": "77.0¢",
+          "consensus": "$7,454 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 149.5",
+          "direction": "大",
+          "price": "56.0¢",
+          "consensus": "$1,648 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-26 14:45:14",
+  "lastUpdate": "2026-11-26 15:08:27",
   "pendingCount": 0,
-  "totalMatches": 38,
-  "totalPredictions": 79,
-  "winRate": 45.6
+  "totalMatches": 39,
+  "totalPredictions": 81,
+  "winRate": 44.4
 }
