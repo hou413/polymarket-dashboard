@@ -1482,11 +1482,50 @@
       "result": "",
       "prediction": "",
       "predictions_list": []
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1795695300000,
+      "sport": "⚽",
+      "match": "PKR Svay Rieng vs. Machida Zelvia",
+      "link": "https://polymarket.com/event/acl2-svr-mac-2026-11-26",
+      "slug": "acl2-svr-mac-2026-11-26",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "54.5¢",
+          "consensus": "$14,076 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 3.5",
+          "direction": "小",
+          "price": "68.5¢",
+          "consensus": "$3,085 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "19.5¢",
+          "consensus": "$2,417 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-26 19:58:28",
+  "lastUpdate": "2026-11-26 20:14:25",
   "pendingCount": 0,
-  "totalMatches": 44,
-  "totalPredictions": 90,
-  "winRate": 40
+  "totalMatches": 45,
+  "totalPredictions": 93,
+  "winRate": 38.7
 }
