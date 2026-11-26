@@ -1360,11 +1360,42 @@
           "note": "🔴 低 - 自动分析"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1796227200000,
+      "sport": "🎾",
+      "match": "Hersonissos 4: Gilles Arnaud Bailly vs Miles Jones",
+      "link": "https://polymarket.com/event/atp-bailly-milesjo-2026-11-25",
+      "slug": "atp-bailly-milesjo-2026-11-25",
+      "predictions": 2,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Gilles Arnaud Bailly",
+          "price": "30.0¢",
+          "consensus": "$1,287 (∞:1)",
+          "hit": null,
+          "note": "🔴 低 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "Miles Jones",
+          "price": "19.0¢",
+          "consensus": "$600 (∞:1)",
+          "hit": null,
+          "note": "🔴 低 - 自动分析"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-26 16:02:45",
+  "lastUpdate": "2026-11-26 16:04:21",
   "pendingCount": 0,
-  "totalMatches": 40,
-  "totalPredictions": 82,
-  "winRate": 43.9
+  "totalMatches": 41,
+  "totalPredictions": 84,
+  "winRate": 42.9
 }
