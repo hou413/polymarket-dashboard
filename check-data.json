@@ -1391,11 +1391,89 @@
           "note": "🔴 低 - 自动分析"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1795715100000,
+      "sport": "⚽",
+      "match": "RC Celta de Vigo vs. AFC Bournemouth",
+      "link": "https://polymarket.com/event/uel-cel1-bou-2026-11-26",
+      "slug": "uel-cel1-bou-2026-11-26",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "49.5¢",
+          "consensus": "$48,245 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "小",
+          "price": "50.5¢",
+          "consensus": "$1,277 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "24.5¢",
+          "consensus": "$627 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1795715100000,
+      "sport": "⚽",
+      "match": "Olympiakós SFP vs. AC Milan",
+      "link": "https://polymarket.com/event/uel-oly-mil1-2026-11-26",
+      "slug": "uel-oly-mil1-2026-11-26",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "No",
+          "price": "68.5¢",
+          "consensus": "$20,796 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "胜负",
+          "direction": "Yes",
+          "price": "41.5¢",
+          "consensus": "$3,323 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 2.5",
+          "direction": "小",
+          "price": "49.5¢",
+          "consensus": "$1,007 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-26 16:04:21",
+  "lastUpdate": "2026-11-26 16:10:28",
   "pendingCount": 0,
-  "totalMatches": 41,
-  "totalPredictions": 84,
-  "winRate": 42.9
+  "totalMatches": 43,
+  "totalPredictions": 90,
+  "winRate": 40
 }
