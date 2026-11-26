@@ -1130,8 +1130,8 @@
       "link": "https://polymarket.com/event/nba-sas-por-2026-11-25",
       "slug": "nba-sas-por-2026-11-25",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1148,8 +1148,8 @@
           "direction": "Trail Blazers",
           "price": "52.5¢",
           "consensus": "$130,261 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析 ⏳"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅"
         },
         {
           "type": "大小球 226.5",
@@ -1162,9 +1162,9 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-26 14:05:07",
+  "lastUpdate": "2026-11-26 14:11:54",
   "pendingCount": 0,
   "totalMatches": 37,
   "totalPredictions": 76,
-  "winRate": 57.9
+  "winRate": 59.2
 }
