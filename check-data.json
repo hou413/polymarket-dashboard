@@ -2,177 +2,6 @@
   "history": [
     {
       "accuracy": 100,
-      "date": "2026-11-20",
-      "hits": 2,
-      "link": "https://polymarket.com/event/atp-medvede-tiafoe-2026-11-17",
-      "match": "Medvedev vs Tiafoe",
-      "prediction": "",
-      "predictions": 2,
-      "predictions_list": [
-        {
-          "consensus": "11人 净额$74,288 (3团队)",
-          "direction": "Medvedev",
-          "hit": true,
-          "note": "🟡中可信度 - 4团队全负收益 ✅",
-          "price": "66.5¢",
-          "type": "胜负"
-        },
-        {
-          "consensus": "1人 净额$2,000",
-          "direction": "Medvedev",
-          "hit": true,
-          "note": "🟡中可信度 ✅",
-          "price": "63.0¢",
-          "type": "Set 1"
-        }
-      ],
-      "result": "",
-      "slug": "atp-medvede-tiafoe-2026-11-17",
-      "sport": "🎾",
-      "timestamp": 1795388400000
-    },
-    {
-      "accuracy": 100,
-      "date": "2026-11-20",
-      "hits": 1,
-      "link": "https://polymarket.com/event/atp-kwon-prizmic-2026-11-20",
-      "match": "Kwon vs Prizmic",
-      "prediction": "",
-      "predictions": 1,
-      "predictions_list": [
-        {
-          "consensus": "14人 净额$309,827 (6团队)",
-          "direction": "Prizmic",
-          "hit": true,
-          "note": "🟡中可信度 - 资金与市场赔率相反! ✅",
-          "price": "42.5¢",
-          "type": "胜负"
-        }
-      ],
-      "result": "",
-      "slug": "atp-kwon-prizmic-2026-11-20",
-      "sport": "🎾",
-      "timestamp": 1795388400000
-    },
-    {
-      "accuracy": 50,
-      "date": "2026-11-22",
-      "hits": 2,
-      "link": "https://polymarket.com/event/epl-liv-mun-2026-11-22",
-      "match": "Liverpool vs Man United",
-      "prediction": "",
-      "predictions": 4,
-      "predictions_list": [
-        {
-          "consensus": "3人 净额$42,952 (🔥晚期2人)",
-          "direction": "小",
-          "hit": false,
-          "note": "🟢高可信度 - 3正收益团队 ❌",
-          "price": "35.5¢",
-          "type": "大小球 2.5"
-        },
-        {
-          "consensus": "9人 净额$28,492 (🔥晚期5人)",
-          "direction": "大",
-          "hit": true,
-          "note": "🟢高可信度 - 正收益团队对赌 ✅",
-          "price": "42.5¢",
-          "type": "大小球 3.5"
-        },
-        {
-          "consensus": "5人 净额$13,624 (🔥晚期3人)",
-          "direction": "Yes",
-          "hit": false,
-          "note": "🟢高可信度 ❌",
-          "price": "64.5¢",
-          "type": "BTTS"
-        },
-        {
-          "consensus": "8人 净额$11,788 (2.6:1, 🔥晚期7人)",
-          "direction": "Liverpool",
-          "hit": true,
-          "note": "🟢高可信度 ✅",
-          "price": "31.5¢",
-          "type": "让分 -1.5"
-        }
-      ],
-      "result": "",
-      "slug": "epl-liv-mun-2026-11-22",
-      "sport": "⚽",
-      "timestamp": 1795365000000
-    },
-    {
-      "accuracy": 0,
-      "date": "2026-11-22",
-      "hits": 0,
-      "link": "https://polymarket.com/event/cs2-forzer-wbt-2026-11-22",
-      "match": "FORZE Reload vs WBT",
-      "prediction": "",
-      "predictions": 1,
-      "predictions_list": [
-        {
-          "consensus": "2人 净额$1,928 (资金与市场背离)",
-          "direction": "WBT",
-          "hit": false,
-          "note": "🟡中可信度 - FORZE大热85.5¢但资金流向WBT ❌",
-          "price": "14.5¢",
-          "type": "Map 1 Winner"
-        }
-      ],
-      "result": "",
-      "slug": "cs2-forzer-wbt-2026-11-22",
-      "sport": "🎮",
-      "timestamp": 1795361100000
-    },
-    {
-      "accuracy": 50,
-      "date": "2026-11-23",
-      "hits": 2,
-      "link": "https://polymarket.com/event/nba-bos-gsw-2026-11-22",
-      "match": "Celtics vs Warriors",
-      "prediction": "",
-      "predictions": 4,
-      "predictions_list": [
-        {
-          "consensus": "26人 净额$172,428 (资金与市场背离!)",
-          "direction": "Warriors",
-          "hit": true,
-          "note": "🟢高可信度 - 10正收益团队 ✅",
-          "price": "29.5¢",
-          "type": "胜负"
-        },
-        {
-          "consensus": "7人 净额$97,868 (2.9:1, 🔥晚期5人)",
-          "direction": "大",
-          "hit": false,
-          "note": "🟢高可信度 - 最强大小球信号 ❌",
-          "price": "49.0¢",
-          "type": "大小球 211.5"
-        },
-        {
-          "consensus": "4人 净额$97,851 (4.6:1, 最大单笔$92K)",
-          "direction": "大",
-          "hit": false,
-          "note": "🟢高可信度 ❌",
-          "price": "48.0¢",
-          "type": "大小球 213.5"
-        },
-        {
-          "consensus": "10人 净额$44,276 (5.7:1)",
-          "direction": "Warriors覆盖",
-          "hit": true,
-          "note": "🟢高可信度 ✅",
-          "price": "60.0¢",
-          "type": "让分 -9.5"
-        }
-      ],
-      "result": "",
-      "slug": "nba-bos-gsw-2026-11-22",
-      "sport": "🏀",
-      "timestamp": 1795397400000
-    },
-    {
-      "accuracy": 100,
       "date": "2026-11-23",
       "hits": 1,
       "link": "https://polymarket.com/event/atp-broska-shepp-2026-11-22",
@@ -193,200 +22,6 @@
       "slug": "atp-broska-shepp-2026-11-22",
       "sport": "🎾",
       "timestamp": 1796023800000
-    },
-    {
-      "accuracy": 67,
-      "date": "2026-11-22",
-      "hits": 2,
-      "link": "https://polymarket.com/event/lal-rrc-rso-2026-11-22",
-      "match": "Racing vs Real Sociedad",
-      "prediction": "",
-      "predictions": 3,
-      "predictions_list": [
-        {
-          "consensus": "$46,739 (∞:1)",
-          "direction": "大",
-          "hit": true,
-          "note": "🟡中 - 自动扫描 ✅",
-          "price": "-",
-          "type": "大小球 3.5"
-        },
-        {
-          "consensus": "$10,922 (∞:1)",
-          "direction": "Racing",
-          "hit": true,
-          "note": "🟡中 - 自动扫描 ✅",
-          "price": "-",
-          "type": "让分 -1.5"
-        },
-        {
-          "consensus": "$3,394 (∞:1)",
-          "direction": "小",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌",
-          "price": "-",
-          "type": "大小球 2.5"
-        }
-      ],
-      "result": "",
-      "slug": "lal-rrc-rso-2026-11-22",
-      "sport": "⚽",
-      "timestamp": 1795360500000
-    },
-    {
-      "accuracy": 0,
-      "date": "2026-11-22",
-      "hits": 0,
-      "link": "https://polymarket.com/event/bun-wer-hsv-2026-11-22",
-      "match": "Werder Bremen vs Hamburg",
-      "prediction": "",
-      "predictions": 1,
-      "predictions_list": [
-        {
-          "consensus": "自动扫描",
-          "direction": "小",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌",
-          "price": "-",
-          "type": "大小球 2.5"
-        }
-      ],
-      "result": "",
-      "slug": "bun-wer-hsv-2026-11-22",
-      "sport": "⚽",
-      "timestamp": 1795361400000
-    },
-    {
-      "accuracy": 0,
-      "date": "2026-11-22",
-      "hits": 0,
-      "link": "https://polymarket.com/event/sea-mil-fro-2026-11-22",
-      "match": "AC Milan vs Frosinone",
-      "prediction": "",
-      "predictions": 1,
-      "predictions_list": [
-        {
-          "consensus": "自动扫描",
-          "direction": "小",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌",
-          "price": "-",
-          "type": "大小球 2.5"
-        }
-      ],
-      "result": "",
-      "slug": "sea-mil-fro-2026-11-22",
-      "sport": "⚽",
-      "timestamp": 1795363200000
-    },
-    {
-      "accuracy": 33,
-      "date": "2026-11-22",
-      "hits": 1,
-      "link": "https://polymarket.com/event/lal-osa-mala-2026-11-22",
-      "match": "Osasuna vs Málaga",
-      "prediction": "",
-      "predictions": 3,
-      "predictions_list": [
-        {
-          "consensus": "自动扫描",
-          "direction": "Osasuna",
-          "hit": true,
-          "note": "🟡中 - 自动扫描 ✅",
-          "price": "-",
-          "type": "胜负"
-        },
-        {
-          "consensus": "自动扫描",
-          "direction": "大",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌",
-          "price": "-",
-          "type": "大小球 1.5"
-        },
-        {
-          "consensus": "自动扫描",
-          "direction": "大",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌",
-          "price": "-",
-          "type": "大小球 2.5"
-        }
-      ],
-      "result": "",
-      "slug": "lal-osa-mala-2026-11-22",
-      "sport": "⚽",
-      "timestamp": 1795365000000
-    },
-    {
-      "accuracy": 0,
-      "date": "2026-11-22",
-      "hits": 0,
-      "link": "https://polymarket.com/event/sea-ata-int-2026-11-22",
-      "match": "Atalanta vs Inter",
-      "prediction": "",
-      "predictions": 2,
-      "predictions_list": [
-        {
-          "consensus": "自动扫描",
-          "direction": "小",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌",
-          "price": "-",
-          "type": "大小球 2.5"
-        },
-        {
-          "consensus": "自动扫描",
-          "direction": "小",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌",
-          "price": "-",
-          "type": "大小球 3.5"
-        }
-      ],
-      "result": "",
-      "slug": "sea-ata-int-2026-11-22",
-      "sport": "⚽",
-      "timestamp": 1795365000000
-    },
-    {
-      "accuracy": 67,
-      "date": "2026-11-22",
-      "hits": 2,
-      "link": "https://polymarket.com/event/lal-get-mad-2026-11-22",
-      "match": "Getafe vs Atlético Madrid",
-      "prediction": "",
-      "predictions": 3,
-      "predictions_list": [
-        {
-          "consensus": "自动扫描",
-          "direction": "大",
-          "hit": true,
-          "note": "🟡中 - 自动扫描 ✅",
-          "price": "-",
-          "type": "大小球 2.5"
-        },
-        {
-          "consensus": "自动扫描",
-          "direction": "大",
-          "hit": true,
-          "note": "🟡中 - 自动扫描 ✅",
-          "price": "-",
-          "type": "大小球 1.5"
-        },
-        {
-          "consensus": "自动扫描",
-          "direction": "大",
-          "hit": false,
-          "note": "🟡中 - 自动扫描 ❌",
-          "price": "-",
-          "type": "大小球 3.5"
-        }
-      ],
-      "result": "",
-      "slug": "lal-get-mad-2026-11-22",
-      "sport": "⚽",
-      "timestamp": 1795366800000
     },
     {
       "accuracy": 100,
@@ -1447,11 +1082,50 @@
       "slug": "acl2-nas-kha-2026-11-25",
       "sport": "⚽",
       "timestamp": 1795614300000
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1795656600000,
+      "sport": "🏀",
+      "match": "Suns vs. Rockets",
+      "link": "https://polymarket.com/event/nba-phx-hou-2026-11-25",
+      "slug": "nba-phx-hou-2026-11-25",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "大小球 223.5",
+          "direction": "小",
+          "price": "100.0¢",
+          "consensus": "$208,388 (∞:1)",
+          "hit": null,
+          "note": "🟢 高 - 自动分析"
+        },
+        {
+          "type": "大小球 225.5",
+          "direction": "小",
+          "price": "100.0¢",
+          "consensus": "$61,723 (∞:1)",
+          "hit": null,
+          "note": "🟢 高 - 自动分析"
+        },
+        {
+          "type": "让分 -9.5",
+          "direction": "Suns",
+          "price": "0.1¢",
+          "consensus": "$20,411 (∞:1)",
+          "hit": null,
+          "note": "🟢 高 - 自动分析"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-26 11:05:14",
+  "lastUpdate": "2026-11-26 12:12:36",
   "pendingCount": 0,
-  "totalMatches": 46,
-  "totalPredictions": 95,
-  "winRate": 56.8
+  "totalMatches": 36,
+  "totalPredictions": 73,
+  "winRate": 57.5
 }
