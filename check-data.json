@@ -1396,11 +1396,50 @@
           "note": "🟡 中 - 自动分析"
         }
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "timestamp": 1795753800000,
+      "sport": "🏀 篮球",
+      "match": "Gonzaga Bulldogs vs. Baylor Bears",
+      "link": "https://polymarket.com/event/cbb-gnzg-bayl-2026-11-26",
+      "slug": "cbb-gnzg-bayl-2026-11-26",
+      "predictions": 3,
+      "hits": 0,
+      "accuracy": 0,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Gonzaga Bulldogs",
+          "price": "52.5¢",
+          "consensus": "$17,378 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "让分 -2.5",
+          "direction": "Baylor Bears",
+          "price": "52.0¢",
+          "consensus": "$1,636 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        },
+        {
+          "type": "大小球 162.5",
+          "direction": "小",
+          "price": "70.5¢",
+          "consensus": "$719 (∞:1)",
+          "hit": null,
+          "note": "🟡 中 - 自动分析"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-27 09:38:14",
+  "lastUpdate": "2026-11-27 13:11:07",
   "pendingCount": 0,
-  "totalMatches": 38,
-  "totalPredictions": 91,
-  "winRate": 39.6
+  "totalMatches": 39,
+  "totalPredictions": 94,
+  "winRate": 38.3
 }
