@@ -1135,24 +1135,27 @@
           "direction": "Yes",
           "price": "49.5¢",
           "consensus": "$48,245 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
+          "verifyMarket": "Will RC Celta de Vigo win on 2026-11-26?"
         },
         {
           "type": "大小球 2.5",
           "direction": "小",
           "price": "50.5¢",
           "consensus": "$1,277 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
+          "verifyMarket": "RC Celta de Vigo vs. AFC Bournemouth: O/U 2.5"
         },
         {
           "type": "胜负",
           "direction": "Yes",
           "price": "24.5¢",
           "consensus": "$627 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
+          "verifyMarket": "Will RC Celta de Vigo win on 2026-11-26?"
         }
       ]
     },
@@ -1164,8 +1167,8 @@
       "link": "https://polymarket.com/event/uel-oly-mil1-2026-11-26",
       "slug": "uel-oly-mil1-2026-11-26",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1174,24 +1177,27 @@
           "direction": "No",
           "price": "68.5¢",
           "consensus": "$20,796 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Will Olympiakós SFP win on 2026-11-26?"
         },
         {
           "type": "胜负",
           "direction": "Yes",
           "price": "41.5¢",
           "consensus": "$3,323 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
+          "verifyMarket": "Will Olympiakós SFP win on 2026-11-26?"
         },
         {
           "type": "大小球 2.5",
           "direction": "小",
           "price": "49.5¢",
           "consensus": "$1,007 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
+          "verifyMarket": "Olympiakós SFP vs. AC Milan: O/U 2.5"
         }
       ]
     },
@@ -1203,8 +1209,8 @@
       "link": "https://polymarket.com/event/uel-plz-ben-2026-11-26",
       "slug": "uel-plz-ben-2026-11-26",
       "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1213,8 +1219,9 @@
           "direction": "Yes",
           "price": "67.5¢",
           "consensus": "$61,480 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Will FC Viktoria Plzeň win on 2026-11-26?"
         }
       ]
     },
@@ -1226,8 +1233,8 @@
       "link": "https://polymarket.com/event/acl2-svr-mac-2026-11-26",
       "slug": "acl2-svr-mac-2026-11-26",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 3,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1236,24 +1243,27 @@
           "direction": "Yes",
           "price": "54.5¢",
           "consensus": "$14,076 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Will PKR Svay Rieng win on 2026-11-26?"
         },
         {
           "type": "大小球 3.5",
           "direction": "小",
           "price": "68.5¢",
           "consensus": "$3,085 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "PKR Svay Rieng vs. Machida Zelvia: O/U 3.5"
         },
         {
           "type": "胜负",
           "direction": "Yes",
           "price": "19.5¢",
           "consensus": "$2,417 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Will PKR Svay Rieng win on 2026-11-26?"
         }
       ]
     },
@@ -1265,8 +1275,8 @@
       "link": "https://polymarket.com/event/acl2-tai-adu-2026-11-26",
       "slug": "acl2-tai-adu-2026-11-26",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1275,24 +1285,27 @@
           "direction": "大",
           "price": "43.5¢",
           "consensus": "$3,146 (∞:1)",
-          "hit": null,
-          "note": "🟢 高 - 自动分析"
+          "hit": true,
+          "note": "🟢 高 - 自动分析 ✅",
+          "verifyMarket": "Tai Po FC vs. Adelaide United FC: O/U 4.5"
         },
         {
           "type": "大小球 3.5",
           "direction": "小",
           "price": "54.5¢",
           "consensus": "$2,414 (∞:1)",
-          "hit": null,
-          "note": "🟢 高 - 自动分析"
+          "hit": false,
+          "note": "🟢 高 - 自动分析 ❌",
+          "verifyMarket": "Tai Po FC vs. Adelaide United FC: O/U 3.5"
         },
         {
           "type": "让分 -1.5",
           "direction": "Adelaide United FC",
           "price": "53.5¢",
           "consensus": "$1,529 (∞:1)",
-          "hit": null,
-          "note": "🟢 高 - 自动分析"
+          "hit": true,
+          "note": "🟢 高 - 自动分析 ✅",
+          "verifyMarket": "Spread: Tai Po FC (-1.5)"
         }
       ]
     },
@@ -1304,8 +1317,8 @@
       "link": "https://polymarket.com/event/col-kai-ma-2026-11-26",
       "slug": "col-kai-ma-2026-11-26",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 3,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1314,24 +1327,27 @@
           "direction": "小",
           "price": "52.5¢",
           "consensus": "$10,939 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Qairat FK vs. Mjällby AIF: O/U 2.5"
         },
         {
           "type": "大小球 1.5",
           "direction": "小",
           "price": "26.5¢",
           "consensus": "$1,146 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Qairat FK vs. Mjällby AIF: O/U 1.5"
         },
         {
           "type": "大小球 3.5",
           "direction": "小",
           "price": "72.5¢",
           "consensus": "$989 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Qairat FK vs. Mjällby AIF: O/U 3.5"
         }
       ]
     },
@@ -1343,8 +1359,8 @@
       "link": "https://polymarket.com/event/atp-cosano-justo-2026-11-26",
       "slug": "atp-cosano-justo-2026-11-26",
       "predictions": 1,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 100,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1353,8 +1369,9 @@
           "direction": "Guido Justo",
           "price": "71.5¢",
           "consensus": "$45,144 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Florianopolis: Javier Barranco Cosano vs Guido Justo"
         }
       ]
     },
@@ -1366,8 +1383,8 @@
       "link": "https://polymarket.com/event/nfl-kc-buf-2026-11-27",
       "slug": "nfl-kc-buf-2026-11-27",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1376,24 +1393,27 @@
           "direction": "Bills",
           "price": "60.5¢",
           "consensus": "$575,985 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Chiefs vs. Bills"
         },
         {
           "type": "让分 -1.5",
           "direction": "Chiefs",
           "price": "33.5¢",
           "consensus": "$7,268 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
+          "verifyMarket": "Spread: Chiefs (-1.5)"
         },
         {
           "type": "让分 -2.5",
           "direction": "Bills",
           "price": "61.5¢",
           "consensus": "$876 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Spread: Chiefs (-2.5)"
         }
       ]
     },
@@ -1477,8 +1497,9 @@
           "direction": "Alex Bolt",
           "price": "47.5¢",
           "consensus": "$20,160 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
+          "verifyMarket": "Playford: Omar Jasika vs Alex Bolt"
         }
       ]
     },
@@ -1522,9 +1543,9 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-27 15:06:55",
+  "lastUpdate": "2026-11-27 16:13:53",
   "pendingCount": 0,
   "totalMatches": 42,
   "totalPredictions": 99,
-  "winRate": 36.4
+  "winRate": 49.5
 }
