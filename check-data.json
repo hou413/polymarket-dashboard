@@ -1515,8 +1515,8 @@
       "link": "https://polymarket.com/event/aus-mac-mct-2026-11-27",
       "slug": "aus-mac-mct-2026-11-27",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 1,
+      "accuracy": 33,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1525,24 +1525,27 @@
           "direction": "Yes",
           "price": "33.5¢",
           "consensus": "$2,185 (∞:1)",
-          "hit": null,
-          "note": "🔴 低 - 自动分析"
+          "hit": true,
+          "note": "🔴 低 - 自动分析 ✅",
+          "verifyMarket": "Will Macarthur FC win on 2026-11-27?"
         },
         {
           "type": "胜负",
           "direction": "No",
           "price": "58.5¢",
           "consensus": "$1,500 (∞:1)",
-          "hit": null,
-          "note": "🔴 低 - 自动分析"
+          "hit": false,
+          "note": "🔴 低 - 自动分析 ❌",
+          "verifyMarket": "Will Macarthur FC win on 2026-11-27?"
         },
         {
           "type": "大小球 2.5",
           "direction": "大",
           "price": "60.0¢",
           "consensus": "$893 (∞:1)",
-          "hit": null,
-          "note": "🔴 低 - 自动分析"
+          "hit": false,
+          "note": "🔴 低 - 自动分析 ❌",
+          "verifyMarket": "Macarthur FC vs. Melbourne City FC: O/U 2.5"
         }
       ]
     },
@@ -1571,9 +1574,9 @@
       ]
     }
   ],
-  "lastUpdate": "2026-11-27 17:10:40",
+  "lastUpdate": "2026-11-27 21:58:02",
   "pendingCount": 0,
   "totalMatches": 43,
   "totalPredictions": 100,
-  "winRate": 52
+  "winRate": 53
 }
