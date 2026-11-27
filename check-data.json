@@ -1425,8 +1425,8 @@
       "link": "https://polymarket.com/event/cbb-gnzg-bayl-2026-11-26",
       "slug": "cbb-gnzg-bayl-2026-11-26",
       "predictions": 3,
-      "hits": 0,
-      "accuracy": 0,
+      "hits": 2,
+      "accuracy": 67,
       "result": "",
       "prediction": "",
       "predictions_list": [
@@ -1435,24 +1435,27 @@
           "direction": "Gonzaga Bulldogs",
           "price": "52.5¢",
           "consensus": "$17,378 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Gonzaga Bulldogs vs. Baylor Bears"
         },
         {
           "type": "让分 -2.5",
           "direction": "Baylor Bears",
           "price": "52.0¢",
           "consensus": "$1,636 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
+          "verifyMarket": "Spread: Gonzaga Bulldogs (-2.5)"
         },
         {
           "type": "大小球 162.5",
           "direction": "小",
           "price": "70.5¢",
           "consensus": "$719 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Gonzaga Bulldogs vs. Baylor Bears: O/U 162.5"
         }
       ]
     },
@@ -1474,8 +1477,9 @@
           "direction": "大",
           "price": "23.0¢",
           "consensus": "$1,729 (∞:1)",
-          "hit": null,
-          "note": "🟡 中 - 自动分析"
+          "hit": false,
+          "note": "🟡 中 - 自动分析 ❌",
+          "verifyMarket": "Texas Tech Red Raiders vs. Oregon Ducks: O/U 156.5"
         }
       ]
     },
@@ -1541,11 +1545,35 @@
           "note": "🔴 低 - 自动分析"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "timestamp": 1796292600000,
+      "sport": "🎾",
+      "match": "Davis Cup: Arthur Fery vs. Alexander Zverev",
+      "link": "https://polymarket.com/event/daviscup-fery-zverev-2026-11-26",
+      "slug": "daviscup-fery-zverev-2026-11-26",
+      "predictions": 1,
+      "hits": 1,
+      "accuracy": 100,
+      "result": "",
+      "prediction": "",
+      "predictions_list": [
+        {
+          "type": "胜负",
+          "direction": "Alexander Zverev",
+          "price": "97.0¢",
+          "consensus": "∞:1",
+          "hit": true,
+          "note": "🟡 中 - 自动分析 ✅",
+          "verifyMarket": "Davis Cup: Arthur Fery vs. Alexander Zverev"
+        }
+      ]
     }
   ],
-  "lastUpdate": "2026-11-27 16:21:09",
+  "lastUpdate": "2026-11-27 17:10:40",
   "pendingCount": 0,
-  "totalMatches": 42,
-  "totalPredictions": 99,
-  "winRate": 49.5
+  "totalMatches": 43,
+  "totalPredictions": 100,
+  "winRate": 52
 }
